@@ -1,5 +1,8 @@
-load('GEM-yeast.mat');
-model_split = splitRevRxns(model);
+% load('GEM-yeast.mat');
+% model_split = splitRevRxns(model);
+% save('GEM-yeast-split.mat','model_split');
+
+load('GEM-yeast-split.mat');
 model = model_split;
 
 model = setYeastMedia(model);
@@ -22,8 +25,8 @@ expList = txt(1,3:end);
 clear num txt;
 
 SA_estimated = zeros(length(model.rxns),length(expList));
-flux_simulated = zeros(length(model.rxns),length(expList));
-for i = 1:length(expList) % whether exclude DiBartolomeo data
+
+for i = 1:length(expList)
     display([num2str(i),'/',num2str(length(expList))]);
     
     expID = expList{i};
@@ -55,16 +58,13 @@ for i = 1:length(expList) % whether exclude DiBartolomeo data
         model_tmp = changeRxnBounds(model_tmp, 'r_4046', 0.7, 'u');
     end
     
-    [fluxes, deviation] = searchFeasibleSol(model_tmp,exRxnList_tmp,exFluxes_tmp,'max',0.01);
-    % remove large deviation
-    if deviation > 0.2
-        fluxes(:,1) = 0;
-    end
+    [fluxes, deviation] = searchFeasibleSol(model_tmp,exRxnList_tmp,exFluxes_tmp,'max',0.001);
     
-    fluxes(abs(fluxes)<1e-3) = 0; %﻿the absolute flux value should surpass 0.001
+    display(['deviation: ',num2str(deviation)]);
     
-    flux_simulated(:,i) = fluxes;
+    fluxes(abs(fluxes)<1e-5) = 0; %﻿the absolute flux value should surpass 0.00001
     
+    SA_estimated = zeros(length(model.rxns),1);
     for j = 1:length(fluxes)
         if fluxes(j) ~= 0 && ~ismember(model_tmp.grRules(j),'')
             gr_tmp = model_tmp.grRules{j};
@@ -101,23 +101,16 @@ for i = 1:length(expList) % whether exclude DiBartolomeo data
                     mass = sum(abund_tmp)*1000; %mg/gCDW
                     sa = fluxes(j)*1000/60/mass; %umol/mg/min
                 end
-                SA_estimated(j,i) = sa;
+                SA_estimated(j,1) = sa;
             end
         end
     end
+    SA_estimated(SA_estimated == inf) = 0;
+    YeastSA.deviation = deviation;
+    YeastSA.rxn = model.rxns(SA_estimated~=0);
+    YeastSA.sa = SA_estimated(SA_estimated~=0);
+    YeastSA.grRules = model.grRules(SA_estimated~=0);
+    cd SA/;
+    save(['YeastSA_' expID '.mat'],'YeastSA');
+    cd ../;
 end
-SA_estimated(SA_estimated == inf) = 0;
-SA_max = max(SA_estimated,[],2);
-
-YeastSAmax.rxn = model.rxns(SA_max~=0);
-YeastSAmax.samax = SA_max(SA_max~=0);
-YeastSAmax.grRules = model.grRules(SA_max~=0);
-YeastSAmax.condition = cell(length(YeastSAmax.rxn),1);
-
-for i = 1:length(YeastSAmax.rxn)
-    all_sa = SA_estimated(ismember(model.rxns,YeastSAmax.rxn(i)),:);
-    YeastSAmax.condition(i,1) = expList(all_sa == max(all_sa));
-end
-
-
-save('YeastSAmax.mat','YeastSAmax');

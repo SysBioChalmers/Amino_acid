@@ -1,16 +1,7 @@
 % load('GEM-yeast.mat');
-% new_model = splitRevRxns(model);
-% 
-% enzymedata = collectkcats(new_model.rxns(~ismember(new_model.rules,{''})),new_model,'saccharomyces cerevisiae');
-% enzymedata = updateYeastEnzyme(enzymedata,new_model);
-% model = convertModel(new_model,enzymedata);
-% 
-% % printRxnFormula(model,'rxnAbbrList',model.rxns,'metNameFlag',true);
-% save('modelYeast.mat','model');
-% save('enzymedataYeast.mat','enzymedata');
-
-load('enzymedataYeast.mat');
-load('modelYeast.mat');
+% model_split = splitRevRxns(model);
+load('GEM-yeast-split.mat');
+enzymedata = collectkcats(model_split.rxns(~ismember(model_split.rules,{''})),model_split,'saccharomyces cerevisiae');
 
 aasubsList = {'s_0404[c]';'s_0428[c]';'s_0430[c]';'s_0432[c]';'s_0542[c]';
 's_0747[c]';'s_0748[c]';'s_0757[c]';'s_0832[c]';'s_0847[c]';
@@ -30,130 +21,107 @@ AA = {'A';'R';'N';'D';'C';
     'L';'K';'M';'F';'P';
     'S';'T';'W';'Y';'V'};
 
-%% set model
-
 step = 0.0001;
 mu = 0.1;
 tol = 1;
-
-model = setYeastMedia(model);
-model = blockYeastRxns(model);
-
-% change biomass to protein
-otherBiomass = {'s_1096[c]';'s_3718[c]';'s_3719[c]';'s_3720[c]';'s_4205[c]';'s_4206[c]'};
-model.S(ismember(model.mets,otherBiomass),ismember(model.rxns,'r_4041')) = 0;
-
-% remove tRNA
-[~,p_aasubs] = ismember(aasubsList,model.mets);
-aacoef = model.S(p_aasubs,ismember(model.rxns,'r_4047'));
-[~,p_aa] = ismember(aaList,model.mets);
-[~,p_aaprod] = ismember(aaprodList,model.mets);
-model.S(p_aasubs,ismember(model.rxns,'r_4047')) = 0;
-model.S(p_aa,ismember(model.rxns,'r_4047')) = aacoef;
-model.S(p_aaprod,ismember(model.rxns,'r_4047')) = 0;
-
 substrate = 'r_1714'; % glucose
 % substrate = 'r_1761'; % ethanol
 
-model = changeObjective(model, substrate);
-model = changeRxnBounds(model, substrate, -1000, 'l');
-model = changeRxnBounds(model, substrate, 0, 'u');
+[~,txt,~] = xlsread('Yeast_fluxes_proteomics.xlsx','fluxes');
+expList = txt(1,3:end);
+clear txt;
 
-model = changeRxnBounds(model, 'prot_cost_exchange', 0, 'l');
-model = changeRxnBounds(model, 'prot_cost_exchange', 1000, 'u');
-
-model = changeRxnBounds(model, 'r_2111', mu, 'b'); %growth rate
-
-%% minimize glucose cost
-
-sol_org_1 = optimizeCbModel(model,'max','one');
-model_org_1 = changeRxnBounds(model,substrate,sol_org_1.f*tol,'b');
-model_org_1 = changeObjective(model_org_1, 'prot_cost_exchange');
-sol_org_new_1 = optimizeCbModel(model_org_1,'min','one');
-tot_prot_cost_org_1 = sol_org_new_1.f;
-
-flux_ref_1 = sol_org_new_1.x;
-
-cost_gluc_1 = zeros(length(AA),1);
-cost_prot_1 = zeros(length(AA),1);
-flux_AAs_1 = zeros(length(model.rxns),length(AA));
-for i = 1:length(AA)
-    display(num2str(i));
-    model_tmp_1 = model;
+for j = 1:length(expList)
+    expID = expList{j};
+    display([num2str(j),'/',num2str(length(expList))]);
     
-    model_tmp_1.S(ismember(model_tmp_1.mets,aaList{i}),ismember(model_tmp_1.rxns,'r_4047')) = ...
-    model_tmp_1.S(ismember(model_tmp_1.mets,aaList{i}),ismember(model_tmp_1.rxns,'r_4047')) - step;
+    enzymedata = updateYeastEnzyme(enzymedata,model_split,expID);
+    model = convertModel(model_split,enzymedata);
 
-    sol_tmp_1 = optimizeCbModel(model_tmp_1,'max','one');
+    % printRxnFormula(model,'rxnAbbrList',model.rxns,'metNameFlag',true);
     
-    model_tmp_tmp_1 = changeRxnBounds(model_tmp_1,substrate,sol_tmp_1.f*tol,'b');
-    model_tmp_tmp_1 = changeObjective(model_tmp_tmp_1, 'prot_cost_exchange');
-    sol_tmp_tmp_1 = optimizeCbModel(model_tmp_tmp_1,'min','one');
+    cd Model/;
+    save(['modelYeast_' expID '.mat'],'model');
+    save(['enzymedataYeast_' expID '.mat'],'enzymedata');
+    cd ../;
     
-    flux_AAs_1(:,i) = sol_tmp_tmp_1.x;
-    
-    idxgluc = ismember(model.rxns,substrate);
-    cost_gluc_1(i) = (sol_org_new_1.x(idxgluc)-sol_tmp_tmp_1.x(idxgluc))/step/mu;
-    cost_prot_1(i) = (sol_tmp_tmp_1.f-tot_prot_cost_org_1)/step/mu;
-    
+    model = setYeastMedia(model);
+    model = blockYeastRxns(model);
+
+    % change biomass to protein
+    otherBiomass = {'s_1096[c]';'s_3718[c]';'s_3719[c]';'s_3720[c]';'s_4205[c]';'s_4206[c]'};
+    model.S(ismember(model.mets,otherBiomass),ismember(model.rxns,'r_4041')) = 0;
+
+    % remove tRNA
+    [~,p_aasubs] = ismember(aasubsList,model.mets);
+    aacoef = model.S(p_aasubs,ismember(model.rxns,'r_4047'));
+    [~,p_aa] = ismember(aaList,model.mets);
+    [~,p_aaprod] = ismember(aaprodList,model.mets);
+    model.S(p_aasubs,ismember(model.rxns,'r_4047')) = 0;
+    model.S(p_aa,ismember(model.rxns,'r_4047')) = aacoef;
+    model.S(p_aaprod,ismember(model.rxns,'r_4047')) = 0;
+
+
+
+    model = changeObjective(model, substrate);
+    model = changeRxnBounds(model, substrate, -1000, 'l');
+    model = changeRxnBounds(model, substrate, 0, 'u');
+
+    model = changeRxnBounds(model, 'prot_cost_exchange', 0, 'l');
+    model = changeRxnBounds(model, 'prot_cost_exchange', 1000, 'u');
+
+    model = changeRxnBounds(model, 'r_2111', mu, 'b'); %growth rate
+
+    sol_org_1 = optimizeCbModel(model,'max','one');
+    model_org_1 = changeRxnBounds(model,substrate,sol_org_1.f*tol,'b');
+    model_org_1 = changeObjective(model_org_1, 'prot_cost_exchange');
+    sol_org_new_1 = optimizeCbModel(model_org_1,'min','one');
+    tot_prot_cost_org_1 = sol_org_new_1.f;
+
+    flux_ref_1 = sol_org_new_1.x;
+
+    cost_gluc_1 = zeros(length(AA),1);
+    cost_prot_1 = zeros(length(AA),1);
+    flux_AAs_1 = zeros(length(model.rxns),length(AA));
+    for i = 1:length(AA)
+        display(num2str(i));
+        model_tmp_1 = model;
+
+        model_tmp_1.S(ismember(model_tmp_1.mets,aaList{i}),ismember(model_tmp_1.rxns,'r_4047')) = ...
+        model_tmp_1.S(ismember(model_tmp_1.mets,aaList{i}),ismember(model_tmp_1.rxns,'r_4047')) - step;
+
+        sol_tmp_1 = optimizeCbModel(model_tmp_1,'max','one');
+
+        model_tmp_tmp_1 = changeRxnBounds(model_tmp_1,substrate,sol_tmp_1.f*tol,'b');
+        model_tmp_tmp_1 = changeObjective(model_tmp_tmp_1, 'prot_cost_exchange');
+        sol_tmp_tmp_1 = optimizeCbModel(model_tmp_tmp_1,'min','one');
+
+        flux_AAs_1(:,i) = sol_tmp_tmp_1.x;
+
+        idxgluc = ismember(model.rxns,substrate);
+        cost_gluc_1(i) = (sol_org_new_1.x(idxgluc)-sol_tmp_tmp_1.x(idxgluc))/step/mu;
+        cost_prot_1(i) = (sol_tmp_tmp_1.f-tot_prot_cost_org_1)/step/mu;
+
+    end
+
+    cost_yeast.AA = AA;
+    cost_yeast.cost_gluc = cost_gluc_1;
+    cost_yeast.cost_prot = cost_prot_1;
+    cost_yeast.flux_ref = flux_ref_1;
+    cost_yeast.flux_AAs = flux_AAs_1;
+    cd Cost/;
+    save(['cost_yeast_' expID '.mat'],'cost_yeast');
+    cd ../;
 end
-
-cost_min_gluc_yeast.AA = AA;
-cost_min_gluc_yeast.cost_gluc = cost_gluc_1;
-cost_min_gluc_yeast.cost_prot = cost_prot_1;
-cost_min_gluc_yeast.flux_ref = flux_ref_1;
-cost_min_gluc_yeast.flux_AAs = flux_AAs_1;
-save('cost_min_gluc_yeast.mat','cost_min_gluc_yeast');
 
 %% minimize protein cost (anaerobic)
-model = changeRxnBounds(model, 'r_0226', 0, 'b');
-
-sol_org_2 = optimizeCbModel(model,'max','one');
-model_org_2 = changeRxnBounds(model,substrate,sol_org_2.f*tol,'b');
-model_org_2 = changeObjective(model_org_2, 'prot_cost_exchange');
-sol_org_new_2 = optimizeCbModel(model_org_2,'min','one');
-tot_prot_cost_org_2 = sol_org_new_2.f;
-
-flux_ref_2 = sol_org_new_2.x;
-
-cost_gluc_2 = zeros(length(AA),1);
-cost_prot_2 = zeros(length(AA),1);
-flux_AAs_2 = zeros(length(model.rxns),length(AA));
-for i = 1:length(AA)
-    display(num2str(i));
-    model_tmp_2 = model;
-    
-    model_tmp_2.S(ismember(model_tmp_2.mets,aaList{i}),ismember(model_tmp_2.rxns,'r_4047')) = ...
-    model_tmp_2.S(ismember(model_tmp_2.mets,aaList{i}),ismember(model_tmp_2.rxns,'r_4047')) - step;
-
-    sol_tmp_2 = optimizeCbModel(model_tmp_2,'max','one');
-    
-    model_tmp_tmp_2 = changeRxnBounds(model_tmp_2,substrate,sol_tmp_2.f*tol,'b');
-    model_tmp_tmp_2 = changeObjective(model_tmp_tmp_2, 'prot_cost_exchange');
-    sol_tmp_tmp_2 = optimizeCbModel(model_tmp_tmp_2,'min','one');
-    
-    flux_AAs_2(:,i) = sol_tmp_tmp_2.x;
-    
-    idxgluc = ismember(model.rxns,substrate);
-    cost_gluc_2(i) = (sol_org_new_2.x(idxgluc)-sol_tmp_tmp_2.x(idxgluc))/step/mu;
-    cost_prot_2(i) = (sol_tmp_tmp_2.f-tot_prot_cost_org_2)/step/mu;
-    
-end
-
-cost_min_prot_yeast.AA = AA;
-cost_min_prot_yeast.cost_gluc = cost_gluc_2;
-cost_min_prot_yeast.cost_prot = cost_prot_2;
-cost_min_prot_yeast.flux_ref = flux_ref_2;
-cost_min_prot_yeast.flux_AAs = flux_AAs_2;
-save('cost_min_prot_yeast.mat','cost_min_prot_yeast');
-
-%% minimize protein cost
-% model = changeObjective(model, 'prot_cost_exchange');
-% sol_org_2 = optimizeCbModel(model,'min','one');
-% model_org_2 = changeRxnBounds(model,'prot_cost_exchange',sol_org_2.f*1.000000001,'u');
-% model_org_2 = changeObjective(model_org_2, substrate);
-% sol_org_new_2 = optimizeCbModel(model_org_2,'max','one');
-% tot_prot_cost_org_2 = sol_org_new_2.x(ismember(model.rxns,'prot_cost_exchange'));
+% model = changeRxnBounds(model, 'r_0226', 0, 'b');
+% 
+% sol_org_2 = optimizeCbModel(model,'max','one');
+% model_org_2 = changeRxnBounds(model,substrate,sol_org_2.f*tol,'b');
+% model_org_2 = changeObjective(model_org_2, 'prot_cost_exchange');
+% sol_org_new_2 = optimizeCbModel(model_org_2,'min','one');
+% tot_prot_cost_org_2 = sol_org_new_2.f;
 % 
 % flux_ref_2 = sol_org_new_2.x;
 % 
@@ -163,26 +131,21 @@ save('cost_min_prot_yeast.mat','cost_min_prot_yeast');
 % for i = 1:length(AA)
 %     display(num2str(i));
 %     model_tmp_2 = model;
-% %     model_tmp_2.S(ismember(model_tmp_2.mets,aasubsList{i}),ismember(model_tmp_2.rxns,'r_4047')) = ...
-% %     model_tmp_2.S(ismember(model_tmp_2.mets,aasubsList{i}),ismember(model_tmp_2.rxns,'r_4047')) - step;
-% % 
-% %     model_tmp_2.S(ismember(model_tmp_2.mets,aaprodList{i}),ismember(model_tmp_2.rxns,'r_4047')) = ...
-% %     model_tmp_2.S(ismember(model_tmp_2.mets,aaprodList{i}),ismember(model_tmp_2.rxns,'r_4047')) + step;
 %     
 %     model_tmp_2.S(ismember(model_tmp_2.mets,aaList{i}),ismember(model_tmp_2.rxns,'r_4047')) = ...
 %     model_tmp_2.S(ismember(model_tmp_2.mets,aaList{i}),ismember(model_tmp_2.rxns,'r_4047')) - step;
 % 
-%     sol_tmp_2 = optimizeCbModel(model_tmp_2,'min','one');
+%     sol_tmp_2 = optimizeCbModel(model_tmp_2,'max','one');
 %     
-%     model_tmp_tmp_2 = changeRxnBounds(model_tmp_2,'prot_cost_exchange',sol_tmp_2.f*1.000000001,'u'); %%%%%%%%%%% use 'u' or 'b'
-%     model_tmp_tmp_2 = changeObjective(model_tmp_tmp_2, substrate);
-%     sol_tmp_tmp_2 = optimizeCbModel(model_tmp_tmp_2,'max','one');
+%     model_tmp_tmp_2 = changeRxnBounds(model_tmp_2,substrate,sol_tmp_2.f*tol,'b');
+%     model_tmp_tmp_2 = changeObjective(model_tmp_tmp_2, 'prot_cost_exchange');
+%     sol_tmp_tmp_2 = optimizeCbModel(model_tmp_tmp_2,'min','one');
 %     
 %     flux_AAs_2(:,i) = sol_tmp_tmp_2.x;
 %     
 %     idxgluc = ismember(model.rxns,substrate);
 %     cost_gluc_2(i) = (sol_org_new_2.x(idxgluc)-sol_tmp_tmp_2.x(idxgluc))/step/mu;
-%     cost_prot_2(i) = (sol_tmp_tmp_2.x(ismember(model.rxns,'prot_cost_exchange'))-tot_prot_cost_org_2)/step/mu;
+%     cost_prot_2(i) = (sol_tmp_tmp_2.f-tot_prot_cost_org_2)/step/mu;
 %     
 % end
 % 
@@ -192,7 +155,4 @@ save('cost_min_prot_yeast.mat','cost_min_prot_yeast');
 % cost_min_prot_yeast.flux_ref = flux_ref_2;
 % cost_min_prot_yeast.flux_AAs = flux_AAs_2;
 % save('cost_min_prot_yeast.mat','cost_min_prot_yeast');
-
-
-
-
+% 

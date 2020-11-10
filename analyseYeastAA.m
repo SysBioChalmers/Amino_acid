@@ -1,9 +1,13 @@
-load('cost_min_gluc_yeast.mat');
-load('cost_min_prot_yeast.mat');
 
-AA = cost_min_gluc_yeast.AA;
-cost_1 = cost_min_gluc_yeast.cost_gluc;
-cost_4 = cost_min_gluc_yeast.cost_prot;
+% expID = 'Yu_ClimR2';
+expID = 'DiBartolomeo_GlucR3';
+% expID = 'Lahtvee_REF';
+
+load(['cost_yeast_' expID '.mat']);
+
+AA = cost_yeast.AA;
+cost_1 = cost_yeast.cost_gluc;
+cost_2 = cost_yeast.cost_prot;
 
 [~,txt,~] = xlsread(strcat('UniProt_Yeast.xlsx')); 
 seq_data.gene = txt(2:end,1);
@@ -54,19 +58,19 @@ text(log10(averageAA),cost_1,AA,'VerticalAlignment','middle','HorizontalAlignmen
 xlim([-2.1 -0.9]);
 ylim([0 3]);
 text(-1.5,2.7,['Pearson r = ' num2str(round(RHO1,2))],'FontSize',6,'FontName','Helvetica');
-text(-1.5,2.3,['p = ' num2str(round(PVAL1,10))],'FontSize',6,'FontName','Helvetica');
+text(-1.5,2.4,['p = ' num2str(round(PVAL1,10))],'FontSize',6,'FontName','Helvetica');
 set(gca,'FontSize',6,'FontName','Helvetica');
 xlabel('log10(Average AA)','FontSize',7,'FontName','Helvetica');
 ylabel('Glucose cost','FontSize',7,'FontName','Helvetica');
 
 subplot(2,1,2);
 box on;
-[RHO4,PVAL4] = corr(log10(averageAA),cost_4,'Type','Pearson');
-text(log10(averageAA),cost_4,AA,'VerticalAlignment','middle','HorizontalAlignment','center','FontSize',6,'FontName','Helvetica','Color',[49,130,189]/255);
+[RHO4,PVAL4] = corr(log10(averageAA),cost_2,'Type','Pearson');
+text(log10(averageAA),cost_2,AA,'VerticalAlignment','middle','HorizontalAlignment','center','FontSize',6,'FontName','Helvetica','Color',[49,130,189]/255);
 xlim([-2.1 -0.9]);
-ylim([0 0.15]);
-text(-1.5,0.135,['Pearson r = ' num2str(round(RHO4,2))],'FontSize',6,'FontName','Helvetica');
-text(-1.5,0.115,['p = ' num2str(round(PVAL4,10))],'FontSize',6,'FontName','Helvetica');
+ylim([0 0.3]);
+text(-1.5,0.27,['Pearson r = ' num2str(round(RHO4,2))],'FontSize',6,'FontName','Helvetica');
+text(-1.5,0.24,['p = ' num2str(round(PVAL4,10))],'FontSize',6,'FontName','Helvetica');
 set(gca,'FontSize',6,'FontName','Helvetica');
 xlabel('log10(Average AA)','FontSize',7,'FontName','Helvetica');
 ylabel('Protein cost','FontSize',7,'FontName','Helvetica');
@@ -78,7 +82,7 @@ hold on;
 RHO1 = corr(cost_1,data,'Type','Pearson');
 [f1,xi1] = ksdensity(RHO1);
 plot(xi1,f1);
-RHO4 = corr(cost_4,data,'Type','Pearson');
+RHO4 = corr(cost_2,data,'Type','Pearson');
 [f4,xi4] = ksdensity(RHO4);
 plot(xi4,f4);
 xlim([-1.1 0.6]);

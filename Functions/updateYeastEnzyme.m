@@ -1,5 +1,5 @@
 %% updateYeastEnzyme
-function enzymedata = updateYeastEnzyme(enzymedata,model)
+function enzymedata = updateYeastEnzyme(enzymedata,model,expID)
 
 [num, txt, ~] = xlsread('UniProt_Yeast.xlsx');
 unip_gene = txt(2:end,1);
@@ -50,16 +50,16 @@ end
 
 % update kcat values based on estimated max specific activity 
 % only greater one adopted compared to the data
-% load('YeastSAmax.mat');
-% idx = ~contains(YeastSAmax.grRules,'and');
-% YeastSAmax.grRules = YeastSAmax.grRules(idx);
-% YeastSAmax.rxn = YeastSAmax.rxn(idx);
-% YeastSAmax.samax = YeastSAmax.samax(idx);
+% load('YeastSA.mat');
+% idx = ~contains(YeastSA.grRules,'and');
+% YeastSA.grRules = YeastSA.grRules(idx);
+% YeastSA.rxn = YeastSA.rxn(idx);
+% YeastSA.samax = YeastSA.samax(idx);
 % 
-% for i = 1:length(YeastSAmax.rxn)
-%     rxnid_tmp = YeastSAmax.rxn(i);
+% for i = 1:length(YeastSA.rxn)
+%     rxnid_tmp = YeastSA.rxn(i);
 %     minMW = enzymedata.minMW(i);
-%     samax = YeastSAmax.samax(i);
+%     samax = YeastSA.samax(i);
 %     kmax_tmp = samax*minMW*60/1000;
 %     
 %     idx_tmp = ismember(enzymedata.rxn,rxnid_tmp);
@@ -74,15 +74,15 @@ end
 %     end
 % end
 
-load('YeastSAmax.mat');
-idx = ~contains(YeastSAmax.grRules,'and');
-YeastSAmax.grRules = YeastSAmax.grRules(idx);
-YeastSAmax.rxn = YeastSAmax.rxn(idx);
-YeastSAmax.samax = YeastSAmax.samax(idx);
-for i = 1:length(YeastSAmax.rxn)
-    rxnid_tmp = YeastSAmax.rxn(i);
+load(['YeastSA_' expID '.mat']);
+idx = ~contains(YeastSA.grRules,'and');
+YeastSA.grRules = YeastSA.grRules(idx);
+YeastSA.rxn = YeastSA.rxn(idx);
+YeastSA.sa = YeastSA.sa(idx);
+for i = 1:length(YeastSA.rxn)
+    rxnid_tmp = YeastSA.rxn(i);
     minMW = enzymedata.minMW(i);
-    samax = YeastSAmax.samax(i);
+    samax = YeastSA.sa(i);
     kmax_tmp = samax*minMW*60/1000;
     
     idx_tmp = ismember(enzymedata.rxn,rxnid_tmp);
@@ -99,14 +99,9 @@ kcatconf = num(:,2);
 for i = 1:length(rxnlist)
     if ismember(rxnlist(i),enzymedata.rxn)
         idx_tmp = ismember(enzymedata.rxn,rxnlist(i));
-        if enzymedata.kcat_conf(idx_tmp) < 4
+        if enzymedata.kcat_conf(idx_tmp) <= kcatconf(i)
             enzymedata.kcat(idx_tmp) = 3600*kcatmanual(i);
             enzymedata.kcat_conf(idx_tmp) = kcatconf(i);
-        else
-            if 3600*kcatmanual(i) > enzymedata.kcat(idx_tmp)
-                enzymedata.kcat(idx_tmp) = 3600*kcatmanual(i);
-                enzymedata.kcat_conf(idx_tmp) = kcatconf(i);
-            end
         end
     end
 end
