@@ -1,0 +1,18 @@
+KCAT	Aspergillus niger	0.0053	L-tryptophan	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Neosartorya sp.	0.108	L-tryptophan	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus fumigatus	0.23	L-tryptophan	*pH and temperature not specified in the publication
+KCAT	Neosartorya sp.	0.092	dimethylallyl diphosphate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus fumigatus	0.027	genistein	*pH not specified in the publication, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.023	naringenin	*pH not specified in the publication, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.019	Biochanin A	*pH not specified in the publication, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.036	phloretin	*pH not specified in the publication, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.026	hesperetin	*pH not specified in the publication, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.39	eriodictyol	*pH not specified in the publication, 37&Acirc;&deg;C
+KCAT	Neosartorya sp.	0.125	5-methyl-DL-tryptophan	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Neosartorya sp.	0.112	L-tryptophan methyl ester	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Neosartorya sp.	0.043	L-abrine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus fumigatus	0.045	L-o-tyrosine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus fumigatus	0.079	ardeemin fumiquinazoline	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.059	ent-ardeemin fumiquinazoline	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.053	dia-ardeemin fumiquinazoline	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.002	dia,ent-ardeemin fumiquinazoline	*pH 7.5, 37&Acirc;&deg;C

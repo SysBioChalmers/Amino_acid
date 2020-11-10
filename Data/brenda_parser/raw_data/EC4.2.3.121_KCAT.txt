@@ -1,0 +1,1 @@
+ecNumber*4.2.3.121#turnoverNumber*0.012#turnoverNumberMaximum*#substrate*geranyl diphosphate#commentary*pH 7.5, 23&deg;C#organism*Lavandula angustifolia#ligandStructureId*175#literature*677826#

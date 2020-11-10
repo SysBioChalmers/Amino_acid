@@ -1,0 +1,3 @@
+KCAT	Yersinia pseudotuberculosis	2.33	CDP-D-glucose	*mutant K21I
+KCAT	Yersinia pseudotuberculosis	3.69	CDP-D-glucose	*wild-type enzyme
+KCAT	Yersinia pseudotuberculosis	4.24	CDP-D-glucose	*mutant H17G

@@ -1,0 +1,1 @@
+ecNumber*3.4.24.B2#turnoverNumber*5.99#turnoverNumberMaximum*#substrate*Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala#commentary*pH 7.3, 40&Acirc;&deg;C, recombinant wild-type enzyme#organism*Geobacillus thermoleovorans#ligandStructureId*45385#literature*734466#

@@ -1,0 +1,13 @@
+KCAT	Pseudomonas putida	22	propionaldehyde	*at pH 9.0 and 25&deg;C
+KCAT	Pseudomonas putida	24.8	ethanol	*at pH 9.0 and 25&deg;C
+KCAT	Pseudomonas putida	24.9	ethanol	*in the presence of ethylamine, at pH 9.0 and 25&deg;C
+KCAT	Komagataeibacter xylinus	30.8	acetaldehyde	*using 2,6-dichlorophenolindophenol as cosubstrate, pH 6.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	31.1	acetaldehyde	*at pH 9.0 and 25&deg;C
+KCAT	Pseudomonas putida	32.6	1-propanol	*at pH 9.0 and 25&deg;C
+KCAT	Pseudomonas putida	32.6	1-propanol	*in the presence of ethylamine, at pH 9.0 and 25&deg;C
+KCAT	Komagataeibacter xylinus	52.3	n-butanol	*using 2,6-dichlorophenolindophenol as cosubstrate, pH 6.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	56.6	ethanol	*in the presence of pentylamine, at pH 9.0 and 25&deg;C
+KCAT	Komagataeibacter xylinus	67.5	allylic alcohol	*using 2,6-dichlorophenolindophenol as cosubstrate, pH 6.5, temperature not specified in the publication
+KCAT	Komagataeibacter xylinus	71	ethanol	*using 2,6-dichlorophenolindophenol as cosubstrate, pH 6.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	73.1	1-propanol	*in the presence of pentylamine, at pH 9.0 and 25&deg;C
+KCAT	Komagataeibacter xylinus	76.3	ubiquinone-1	*using ethanol as cosubstrate, pH and temperature not specified in the publication

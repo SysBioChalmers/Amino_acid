@@ -1,0 +1,21 @@
+KCAT	Aspergillus niger	0.58	L-tyrosine	*at pH 7.5 and 37&Acirc;&deg;C; pH 7.5, 37&Acirc;&deg;C
+KCAT	Leptosphaeria maculans	1	L-tyrosine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Leptosphaeria maculans	1.3	L-tyrosine	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Aspergillus niger	0.0053	L-tryptophan	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Leptosphaeria maculans	0.095	L-tryptophan	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Aspergillus niger	0.69	dimethylallyl diphosphate	*with 3-iodo-L-tyrosine as cosubstrate, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.69	dimethylallyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Leptosphaeria maculans	1	dimethylallyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.16	D-tyrosine	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.16	3-iodo-L-tyrosine	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.27	3,4-dihydroxy-L-phenylalanine	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.0036	4-methyl-DL-tryptophan	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.2	4-methyl-DL-tryptophan	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.002	methylallyl diphosphate	*cosubstrate 4-hydroxyphenylalanine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Leptosphaeria maculans	0.003	methylallyl diphosphate	*cosubstrate 4-hydroxyphenylalanine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Leptosphaeria maculans	0.002	2-pentenyl diphosphate	*cosubstrate 4-hydroxyphenylalanine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.003	2-pentenyl diphosphate	*cosubstrate 4-hydroxyphenylalanine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.26	alpha-Methyl-L-tyrosine	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.016	benzyl diphosphate	*cosubstrate 4-aminophenylalanine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Leptosphaeria maculans	0.028	benzyl diphosphate	*cosubstrate 4-aminophenylalanine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.014	L-o-tyrosine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme

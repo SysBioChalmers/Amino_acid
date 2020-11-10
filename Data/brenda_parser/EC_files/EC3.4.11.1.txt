@@ -1,0 +1,151 @@
+KCAT	Leishmania major	-999	L-Met-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Plasmodium falciparum	0.0002	Ala-4-methylcoumaryl-7-amide	*
+KCAT	Toxoplasma gondii	0.0002	L-phenylalanine-4-methylcoumarin-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Plasmodium falciparum	0.00059	Pro-4-methylcoumaryl-7-amide	*
+KCAT	Plasmodium falciparum	0.00145	Phe-4-methylcoumaryl-7-amide	*
+KCAT	Toxoplasma gondii	0.0016	L-proline-4-methylcoumarin-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Cryptosporidium parvum	0.002	L-lysine-4-methylcoumaryl-7-amide	*pH 8.5, 37&deg;C
+KCAT	Sus scrofa	0.003	Leu-4-nitroanilide	*Zn2+-Zn2+-enzyme form
+KCAT	Plasmodium falciparum	0.0094	L-leucine-4-methylcoumaryl-7-amide	*pH 8.0, 37&deg;C, recombinant enzyme in presence of Zn2+ and Mg2+, best ion combination at metal binding sites 1 and 2
+KCAT	Cryptosporidium parvum	0.01	L-alanine-4-methylcoumaryl-7-amide	*pH 8.5, 37&deg;C
+KCAT	Clonorchis sinensis	0.01	L-Ile-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Clonorchis sinensis	0.01	L-Thr-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Clonorchis sinensis	0.01	L-Val-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Thermotoga maritima	0.0104	L-Lys-4-nitroanilide	*pH 7.5, 35&deg;C
+KCAT	Thermotoga maritima	0.0157	L-Leu-4-nitroanilide	*pH 7.5, 35&deg;C
+KCAT	Clonorchis sinensis	0.02	L-Pro-4-nitroanilide	*pH 8, 20&deg;C; pH 8, 20&deg;C
+KCAT	Clonorchis sinensis	0.02	L-Thr-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Thermotoga maritima	0.021	L-Pro-4-nitroanilide	*pH 7.5, 80&deg;C
+KCAT	Toxoplasma gondii	0.03	L-alanine-4-methylcoumarin-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Plasmodium falciparum	0.039	Leu-4-methylcoumaryl-7-amide	*
+KCAT	Sus scrofa	0.04	Leu-4-nitroanilide	*Mg2+-Zn2+-enzyme form
+KCAT	Clonorchis sinensis	0.04	L-Phe-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Toxoplasma gondii	0.041	L-arginine-4-methylcoumarin-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Clonorchis sinensis	0.05	L-Lys-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Clonorchis sinensis	0.05	L-Phe-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Leishmania major	0.057	L-Leu-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Clonorchis sinensis	0.07	L-Lys-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Leishmania amazonensis	0.07	L-Trp-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Cryptosporidium parvum	0.075	L-phenylalanine-4-methylcoumaryl-7-amide	*pH 8.5, 37&deg;C
+KCAT	Thermotoga maritima	0.078	L-Ala-4-nitroanilide	*pH 7.5, 80&deg;C
+KCAT	Cryptosporidium parvum	0.085	L-methionine-4-methylcoumaryl-7-amide	*pH 8.5, 37&deg;C
+KCAT	Toxoplasma gondii	0.089	L-leucine-4-methylcoumarin-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Leishmania donovani	0.09	L-Ile-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Cryptosporidium parvum	0.107	L-leucine-4-methylcoumaryl-7-amide	*pH 8.5, 37&deg;C
+KCAT	Clonorchis sinensis	0.12	L-Ala-4-nitroanilide	*pH 8, 20&deg;C; pH 8, 20&deg;C
+KCAT	Staphylococcus aureus	0.1204	L-Leu-7-amido-4-methylcoumarin	*pH 9, 37&deg;C
+KCAT	Acanthamoeba castellanii	0.13	L-arginyl-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	0.1395	L-Arg-7-amido-4-methylcoumarin	*pH 9, 37&deg;C
+KCAT	Staphylococcus aureus	0.1584	hArg-7-amido-4-methylcoumarin	*pH 9, 37&deg;C
+KCAT	Geobacillus kaustophilus	0.17	Leu-p-nitroanilide	*mutant enzyme N345L, in 20 mM Tris-HCl buffer (pH 8.0) containing 1 mM NiCl2
+KCAT	Clonorchis sinensis	0.18	L-Met-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Leishmania amazonensis	0.19	L-Ile-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania major	0.19	L-Ile-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Thermotoga maritima	0.194	L-Lys-4-nitroanilide	*pH 7.5, 80&deg;C
+KCAT	Clonorchis sinensis	0.2	L-Met-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Leishmania donovani	0.21	L-Trp-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania major	0.22	L-Trp-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Clonorchis sinensis	0.23	L-Leu-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Clonorchis sinensis	0.27	L-Leu-4-nitroanilide	*pH 8, 20&deg;C
+KCAT	Thermotoga maritima	0.285	L-Leu-4-nitroanilide	*pH 7.5, 80&deg;C
+KCAT	Acanthamoeba castellanii	0.33	L-methionyl-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	0.3952	Phg-7-amido-4-methylcoumarin	*pH 9, 37&deg;C
+KCAT	Leishmania amazonensis	0.41	L-Leu-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Sus scrofa	0.5	Gly-Phe	*Zn2+-Zn2+-enzyme form
+KCAT	Leishmania donovani	0.52	L-Leu-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Geobacillus kaustophilus	0.63	Leu-p-nitroanilide	*mutant enzyme N345Q, in 20 mM Tris-HCl buffer (pH 8.0) containing 1 mM NiCl2
+KCAT	Bos taurus	0.7	L-Leu-4-nitroanilide	*Zn2+-Zn2+-enzyme form
+KCAT	Acanthamoeba castellanii	0.83	L-leucyl-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant enzyme
+KCAT	Eisenia fetida	1.3	L-proline-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C
+KCAT	Eisenia fetida	1.5	L-valine-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C
+KCAT	Leishmania amazonensis	1.61	L-Ala-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania major	1.89	L-Ala-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania donovani	2.01	L-Ala-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Babesia gibsoni	2.03	L-proline-4-methylcoumaryl-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Leishmania major	2.19	L-Cys-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Bos taurus	2.6	Cys-Gly	*pH 6.9, 25&deg;C
+KCAT	Leishmania amazonensis	2.72	L-Cys-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania amazonensis	2.94	L-Ala-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania donovani	2.94	L-Ala-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania major	2.94	L-Ala-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania major	2.94	L-Cys-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania amazonensis	3	L-Cys-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania donovani	3	L-Cys-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania amazonensis	3.3	L-Met-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania donovani	3.3	L-Met-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania donovani	3.34	L-Cys-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania amazonensis	4.99	L-Met-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Leishmania donovani	5.08	L-Met-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Desulfurococcus amylolyticus	5.4	L-Leu-4-nitroanilide	*pH 7.5, 50&deg;C
+KCAT	Leishmania major	5.52	L-Met-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Geobacillus kaustophilus	5.92	Leu-p-nitroanilide	*wild type enzyme, in 20 mM Tris-HCl buffer (pH 8.0) containing 1 mM NiCl2
+KCAT	Babesia gibsoni	8.2	L-alanine-4-methylcoumaryl-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Eisenia fetida	12.1	L-arginine-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C
+KCAT	Trypanosoma cruzi	12.47	L-Leu-7-amido-4-methylcoumarin	*native enzyme, pH 7.5, 37&deg;C
+KCAT	Salmonella enterica	13	Asp-Leu-Lys	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Eisenia fetida	13.8	L-tyrosine-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C
+KCAT	Bos taurus	17	Ser-Gly	*pH 7.4, 25&deg;C
+KCAT	Pagrus major	17.3	L-arginyl-7-amido-4-methylcoumarin	*in 25 mM sodium phosphate buffer (pH 7.0) containing 1 mM dithiothreitol and 0.02% NaN3, at 37&deg;C
+KCAT	Desulfurococcus amylolyticus	19	L-Leu-4-nitroanilide	*pH 7.5, 50&deg;C, enzyme activated by heating at 70&deg;C
+KCAT	Babesia gibsoni	24.61	L-phenylalanine-4-methylcoumaryl-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Salmonella enterica	26	Asp-Ile-Gly-Gly	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Pagrus major	26.4	L-leucyl-7-amido-4-methylcoumarin	*in 25 mM sodium phosphate buffer (pH 7.0) containing 1 mM dithiothreitol and 0.02% NaN3, at 37&deg;C
+KCAT	Solanum lycopersicum	30	L-Leu-Gly	*mutant R431K, pH 9.2, 37&deg;C
+KCAT	Eisenia fetida	34.6	L-leucine-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C
+KCAT	Trypanosoma cruzi	34.84	L-Leu-7-amido-4-methylcoumarin	*recombinant enzyme, pH 7.5, 37&deg;C
+KCAT	Aspergillus oryzae	37	L-phenylalanine-4-nitroanilide	*pH 8.5, 50&deg;C
+KCAT	Babesia gibsoni	37.79	L-arginine-4-methylcoumaryl-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Eisenia fetida	38.7	L-alanine-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C
+KCAT	Bos taurus	42	Ser-Gly	*pH 8.3, 25&deg;C
+KCAT	Eisenia fetida	45.6	glycine-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C
+KCAT	Aspergillus oryzae	50.9	L-leucine-4-nitroanilide	*pH 8.5, 50&deg;C
+KCAT	Bos taurus	56.66	Cys-Gly	*pH 6.9, 25&deg;C
+KCAT	Bos taurus	57	Cys-Gly	*pH 6.9, 25&deg;C
+KCAT	Bos taurus	67	Cys-Gly	*pH 8.3, 25&deg;C
+KCAT	Bos taurus	100	Cys-Gly	*pH 7.4, 25&deg;C
+KCAT	Solanum lycopersicum	108	L-Leu-Gly	*mutant E429D, pH 9.2, 37&deg;C
+KCAT	Sus scrofa	112	L-leucylamide	*native enzyme, pH 8.0, 25&deg;C
+KCAT	Bos taurus	118	Cys-Gly	*pH 8.3, 25&deg;C
+KCAT	Bos taurus	118.3	Cys-Gly	*pH 8.3, 25&deg;C
+KCAT	Solanum lycopersicum	120	L-Leu-Gly	*wild-type, pH 9.2, 37&deg;C
+KCAT	Bos taurus	135.8	Met-Gly	*pH 6.9, 25&deg;C
+KCAT	Bos taurus	136	Met-Gly	*pH 6.9, 25&deg;C
+KCAT	Bos taurus	191.7	Leu-Gly	*pH 6.9, 25&deg;C
+KCAT	Bos taurus	192	Leu-Gly	*pH 6.9, 25&deg;C
+KCAT	Babesia gibsoni	198.8	L-leucine-4-methylcoumaryl-7-amide	*pH 8.0, 37&deg;C, recombinant GST-tagged enzyme
+KCAT	Sus scrofa	270	Leu-Phe	*Zn2+-Zn2+-enzyme form
+KCAT	Salmonella enterica	351	Leu-Tyr	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Bos taurus	400	Leu-Gly	*pH 7.4, 25&deg;C
+KCAT	Salmonella enterica	418	Asp-His	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Bos taurus	468	Met-Gly	*pH 7.4, 25&deg;C
+KCAT	Bos taurus	486.3	Met-Gly	*pH 7.4, 25&deg;C
+KCAT	Salmonella enterica	500	Asp-Phe	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Salmonella enterica	500	Asp-Tyr	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Salmonella enterica	666	Asp-Leu	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Bos taurus	675	Leu-Gly	*pH 8.3, 25&deg;C
+KCAT	Salmonella enterica	761	Asp-Gln	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Salmonella enterica	866	Glu-Leu	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Salmonella enterica	918	Leu-Leu	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Salmonella enterica	950	Asp-Leu-Gly	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Bos taurus	988	Met-Gly	*pH 8.3, 25&deg;C
+KCAT	Bos taurus	988.3	Met-Gly	*pH 8.3, 25&deg;C
+KCAT	Sus scrofa	1670	Leu-Gly	*Mg2+-Zn2+-enzyme form
+KCAT	Solanum lycopersicum	3780	Arg-Gly-Asp	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	3781	Arg-Gly-Asp	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	5140	Gly-Leu	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	5141	Gly-Leu	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	6070	Arg-Gly-Phe	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	6073	Arg-Gly-Phe	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	10860	Gly-Gly	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	10900	Gly-Gly	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	13500	Arg-Gly	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	13520	Arg-Gly	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	13960	Leu-Gly-Gly	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	14000	Leu-Gly-Gly	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	14100	Leu-Gly	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	14400	Leu-Gly	*free recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	14440	Leu-Gly	*free recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	19380	Arg-Leu	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	19400	Arg-Leu	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	34490	Leu-Leu	*His-tagged recombinant enzyme, 37&deg;C
+KCAT	Solanum lycopersicum	34500	Leu-Leu	*His-tagged recombinant enzyme, 37&deg;C

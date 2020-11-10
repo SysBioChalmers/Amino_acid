@@ -1,0 +1,2 @@
+KCAT	Klebsiella aerogenes	21.7	acetyl-CoA	*pH 8.0, 25&deg;C
+KCAT	Klebsiella aerogenes	26.7	(3S)-citryl-CoA	*pH 8.0, 25&deg;C

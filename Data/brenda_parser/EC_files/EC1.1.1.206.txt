@@ -1,0 +1,17 @@
+KCAT	Brugmansia arborea	0.54	3-quinuclidinone	*pH 9.6, 22&deg;C, recombinant His-tagged enzyme
+KCAT	Withania somnifera	0.54	NADP+	*recombinant enzyme, pH 6.7, 30&deg;C
+KCAT	Withania somnifera	1.67	Tropine	*recombinant enzyme, pH 6.7, 30&deg;C
+KCAT	Withania coagulans	1.87	Tropine	*pH 6.6, 30&deg;C, recombinant enzyme; pH 6.6, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Datura stramonium	2.4	tropinone	*pH 6.4, 22&deg;C
+KCAT	Brugmansia arborea	2.93	tropinone	*pH 6.4, 22&deg;C, recombinant His-tagged enzyme
+KCAT	Withania coagulans	2.94	NADP+	*pH 6.6, 30&deg;C, recombinant enzyme; pH 6.6, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Datura stramonium	3.3	Tropine	*pH 9.6, 22&deg;C
+KCAT	Brugmansia arborea	4.67	4-methylcyclohexanone	*pH 6.4, 22&deg;C, recombinant His-tagged enzyme
+KCAT	Brugmansia arborea	5.69	Tropine	*pH 9.6, 22&deg;C, recombinant His-tagged enzyme
+KCAT	Withania coagulans	6.76	NADPH	*pH 6.6, 30&deg;C, recombinant enzyme; pH 6.6, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Withania somnifera	8.97	3-methylcyclohexanone	*recombinant enzyme, pH 6.7, 30&deg;C
+KCAT	Withania somnifera	9.23	N-methylpiperidine	*recombinant enzyme, pH 6.7, 30&deg;C
+KCAT	Withania somnifera	9.51	tropinone	*recombinant enzyme, pH 6.7, 30&deg;C
+KCAT	Withania coagulans	16.74	tropinone	*pH 6.6, 30&deg;C, recombinant enzyme; pH 6.6, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Datura stramonium	25.6	tropinone	*pH 7.0
+KCAT	Withania somnifera	33.34	NADPH	*recombinant enzyme, pH 6.7, 30&deg;C

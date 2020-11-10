@@ -1,0 +1,2 @@
+KCAT	Yersinia pestis	0.0035	human Glu-plasminogen	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Yersinia pestis	0.0035	plasminogen	*

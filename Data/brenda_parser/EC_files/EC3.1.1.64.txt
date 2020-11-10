@@ -1,0 +1,2 @@
+KCAT	Gallus gallus	0.000145	all-trans-retinyl palmitate	*purified enzyme, in 10 mM BTP buffer, pH 8.0, 100 mM NaCl, at 37&Acirc;&deg;C
+KCAT	Danio rerio	0.00044	an all-trans retinyl ester	*pH and temperature not specified in the publication

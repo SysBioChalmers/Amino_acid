@@ -1,0 +1,1 @@
+ecNumber*1.2.1.58#turnoverNumber*46#turnoverNumberMaximum*#substrate*benzyl viologen#commentary*#organism*Aromatoleum evansii#ligandStructureId*648#literature*11535#

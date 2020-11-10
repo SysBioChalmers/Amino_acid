@@ -1,0 +1,1 @@
+ecNumber*2.4.1.323#turnoverNumber*0.13#turnoverNumberMaximum*#substrate*UDP-alpha-D-glucose#commentary*pH 8.0, 30&deg;C#organism*Catharanthus roseus#ligandStructureId*364#literature*726167#!ecNumber*2.4.1.323#turnoverNumber*0.325#turnoverNumberMaximum*#substrate*7-deoxyloganetate#commentary*pH 8.0, 30&deg;C#organism*Catharanthus roseus#ligandStructureId*29159#literature*726167#

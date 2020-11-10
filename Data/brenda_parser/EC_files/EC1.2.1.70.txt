@@ -1,0 +1,3 @@
+KCAT	Synechocystis sp.	-999	more	*
+KCAT	Escherichia coli	0.13	L-glutamyl-tRNAGlu	*pH 8.1, 37&deg;C
+KCAT	Escherichia coli	0.15	NADPH	*pH 8.1, 37&deg;C

@@ -1,0 +1,105 @@
+KCAT	Macrovipera lebetina	0.21	L-methionine	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gloydius ussuriensis	24.13	L-methionine	*
+KCAT	Naja oxiana	66.26	L-methionine	*
+KCAT	Macrovipera lebetina	80.3	L-methionine	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhodococcus opacus	0.052	L-alanine	*wild-type enzyme
+KCAT	Rhodococcus opacus	0.057	L-alanine	*recombinant enzyme, expressed in and Streptomyces lividans, 30&Acirc;&deg;C, pH 7.6
+KCAT	Gloydius ussuriensis	26.89	L-alanine	*
+KCAT	Trichoderma harzianum	0.008	L-phenylalanine	*at pH 7.0 and 20&Acirc;&deg;C
+KCAT	Trichoderma harzianum	0.013	L-phenylalanine	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Trichoderma harzianum	0.02	L-phenylalanine	*at pH 7.0 and 50&Acirc;&deg;C
+KCAT	Trichoderma harzianum	0.025	L-phenylalanine	*at pH 7.0 and 40&Acirc;&deg;C
+KCAT	Proteus mirabilis	1.4	L-phenylalanine	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Proteus mirabilis	1.67	L-phenylalanine	*mutant D165K, pH 7.0, temperature not specified in the publication
+KCAT	Proteus mirabilis	1.69	L-phenylalanine	*mutant L336M, pH 7.0, temperature not specified in the publication
+KCAT	Proteus mirabilis	1.72	L-phenylalanine	*mutant D165K/L336M, pH 7.0, temperature not specified in the publication
+KCAT	Proteus mirabilis	1.82	L-phenylalanine	*mutant D165K/S179L/F263V/L336V, pH 7.0, temperature not specified in the publication
+KCAT	Proteus mirabilis	1.87	L-phenylalanine	*mutant F263M, pH 7.0, temperature not specified in the publication
+KCAT	Proteus mirabilis	2.16	L-phenylalanine	*mutant D165K/F263M, pH 7.0, temperature not specified in the publication
+KCAT	Proteus mirabilis	2.21	L-phenylalanine	*mutant F263M/L336M, pH 7.0, temperature not specified in the publication
+KCAT	Proteus mirabilis	2.25	L-phenylalanine	*mutant D165K/F263M/L336M, pH 7.0, temperature not specified in the publication
+KCAT	Crotalus adamanteus	6.27	L-phenylalanine	*in 20 mM Na-phosphate, pH 7.5, at 28&Acirc;&deg;C
+KCAT	Crotalus atrox	6.78	L-phenylalanine	*in 20 mM Na-phosphate, pH 7.5, at 28&Acirc;&deg;C
+KCAT	Naja oxiana	17.18	L-phenylalanine	*
+KCAT	Gloydius ussuriensis	48.23	L-phenylalanine	*
+KCAT	Gloydius ussuriensis	8.42	L-tyrosine	*
+KCAT	Gloydius ussuriensis	6.58	L-tryptophan	*
+KCAT	Macrovipera lebetina	42.6	L-tryptophan	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Naja oxiana	81.04	L-tryptophan	*
+KCAT	Gloydius ussuriensis	22.54	L-arginine	*
+KCAT	Crotalus durissus cumanensis	1.8	L-leucine	*in 50 mM Tris-HCl buffer pH 8.0, at 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	6.3	L-leucine	*
+KCAT	Naja oxiana	47.98	L-leucine	*
+KCAT	Gloydius ussuriensis	48.22	L-leucine	*
+KCAT	Macrovipera lebetina	52	L-leucine	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Ophiophagus hannah	86.6	L-leucine	*
+KCAT	Gloydius ussuriensis	10.51	L-lysine	*
+KCAT	Sebastes schlegelii	20.4	L-lysine	*; 37&Acirc;&deg;C
+KCAT	Sebastes schlegelii	57.1	L-lysine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Rhizoctonia solani	0.13	L-Arg	*at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Bungarus fasciatus	228.8	L-Arg	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Hebeloma cylindrosporum	17.6	L-Glu	*pH and temperature not specified in the publication
+KCAT	Bungarus fasciatus	790.5	L-Glu	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Aspergillus oryzae	0.039	L-Phe	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Rhizoctonia solani	0.16	L-Phe	*at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Calloselasma rhodostoma	0.72	L-Phe	*pH and temperature not specified in the publication
+KCAT	Naja oxiana	17.18	L-Phe	*pH and temperature not specified in the publication
+KCAT	Vipera berus berus	28.5	L-Phe	*pH and temperature not specified in the publication
+KCAT	Cerastes cerastes	31.4	L-Phe	*at pH 7.8 and 50&Acirc;&deg;C
+KCAT	Gloydius ussuriensis	48.23	L-Phe	*pH and temperature not specified in the publication
+KCAT	Ophiophagus hannah	54.1	L-Phe	*pH and temperature not specified in the publication
+KCAT	Bungarus fasciatus	142.6	L-Phe	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Bungarus fasciatus	142.62	L-Phe	*pH and temperature not specified in the publication
+KCAT	Gloydius ussuriensis	5.08	L-valine	*
+KCAT	Bungarus fasciatus	293	L-Ala	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gloydius ussuriensis	5.26	L-asparagine	*
+KCAT	Bungarus fasciatus	47.49	L-Asp	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gloydius ussuriensis	6.33	L-isoleucine	*
+KCAT	Bungarus fasciatus	430.4	L-Gln	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gloydius ussuriensis	4.15	L-histidine	*
+KCAT	Aspergillus oryzae	0.036	L-Tyr	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Bungarus fasciatus	100.6	L-Tyr	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Calloselasma rhodostoma	0.88	L-Trp	*pH and temperature not specified in the publication
+KCAT	Gloydius ussuriensis	6.58	L-Trp	*pH and temperature not specified in the publication
+KCAT	Naja oxiana	18.04	L-Trp	*pH and temperature not specified in the publication
+KCAT	Ophiophagus hannah	32.1	L-Trp	*pH and temperature not specified in the publication
+KCAT	Macrovipera lebetina	42.65	L-Trp	*pH and temperature not specified in the publication
+KCAT	Bungarus fasciatus	98.82	L-Trp	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Bungarus fasciatus	98.82	L-Trp	*pH and temperature not specified in the publication
+KCAT	Rhizoctonia solani	0.13	L-Leu	*at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Crotalus durissus cumanensis	1.8	L-Leu	*pH and temperature not specified in the publication
+KCAT	Calloselasma rhodostoma	3.3	L-Leu	*pH and temperature not specified in the publication
+KCAT	Cerastes cerastes	24.4	L-Leu	*at pH 7.8 and 50&Acirc;&deg;C
+KCAT	Gloydius halys	31.1	L-Leu	*
+KCAT	Naja oxiana	47.98	L-Leu	*pH and temperature not specified in the publication
+KCAT	Gloydius ussuriensis	48.22	L-Leu	*pH and temperature not specified in the publication
+KCAT	Macrovipera lebetina	52	L-Leu	*pH and temperature not specified in the publication
+KCAT	Vipera berus berus	75.16	L-Leu	*pH and temperature not specified in the publication
+KCAT	Ophiophagus hannah	96.2	L-Leu	*pH and temperature not specified in the publication
+KCAT	Bungarus fasciatus	1025	L-Leu	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Bungarus fasciatus	1025.05	L-Leu	*pH and temperature not specified in the publication
+KCAT	Aspergillus oryzae	0.039	L-Met	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Rhizoctonia solani	0.08	L-Met	*at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Calloselasma rhodostoma	1.65	L-Met	*pH and temperature not specified in the publication
+KCAT	Cerastes cerastes	18.5	L-Met	*at pH 7.8 and 50&Acirc;&deg;C
+KCAT	Gloydius ussuriensis	24.13	L-Met	*pH and temperature not specified in the publication
+KCAT	Ophiophagus hannah	65.6	L-Met	*pH and temperature not specified in the publication
+KCAT	Naja oxiana	66.26	L-Met	*pH and temperature not specified in the publication
+KCAT	Vipera berus berus	74.2	L-Met	*pH and temperature not specified in the publication
+KCAT	Macrovipera lebetina	80.3	L-Met	*pH and temperature not specified in the publication
+KCAT	Bungarus fasciatus	589.3	L-Met	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Bungarus fasciatus	589.93	L-Met	*pH and temperature not specified in the publication
+KCAT	Aspergillus oryzae	0.04	L-Lys	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Rhizoctonia solani	0.09	L-Lys	*at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Myoxocephalus polyacanthocephalus	2.6	L-Lys	*37&Acirc;&deg;C, isozyme MPLAO1
+KCAT	Myoxocephalus polyacanthocephalus	4.7	L-Lys	*37&Acirc;&deg;C, isozyme MPLAO3
+KCAT	Bungarus fasciatus	318.9	L-Lys	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Bungarus fasciatus	483.1	L-His	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhizoctonia solani	0.1	L-Orn	*at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Bungarus fasciatus	66.7	L-Ile	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Bungarus fasciatus	84.08	L-Asn	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhizoctonia solani	0.16	L-phenylalanine methyl ester	*at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Crotalus atrox	7.75	L-Propargylglycine	*in 20 mM Na-phosphate, pH 7.5, at 28&Acirc;&deg;C
+KCAT	Crotalus adamanteus	9.62	L-Propargylglycine	*in 20 mM Na-phosphate, pH 7.5, at 28&Acirc;&deg;C
+KCAT	Rattus norvegicus	26	L-lactic acid	*
+KCAT	Crotalus adamanteus	-999	more	*mol amino acid/min x mol of enzyme bound FAD: 11000 L-arginine, 280 L-phenylalanine, 40 L-valine, 600 L-leucine

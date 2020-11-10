@@ -1,0 +1,1 @@
+ecNumber*1.14.11.28#turnoverNumber*3.2#turnoverNumberMaximum*#substrate*L-proline#commentary*100 mM N-tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid pH 7.0, 5 mM 2-oxoglutarate, 5 mM L-proline, 5 mM L-ascorbate, 1 mM FeSO4, 35&deg;C#organism*Streptomyces sp.#ligandStructureId*243#literature*665361#

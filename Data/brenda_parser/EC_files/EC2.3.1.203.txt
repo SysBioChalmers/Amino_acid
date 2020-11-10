@@ -1,0 +1,10 @@
+KCAT	Neisseria gonorrhoeae	1200	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*mutant H210F, pH 7.4, 25&deg;C
+KCAT	Acinetobacter baumannii	1900	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*mutant Q174A, pH 7.4, 25&deg;C
+KCAT	Neisseria gonorrhoeae	3000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*mutant Q370A, pH 7.4, 25&deg;C
+KCAT	Neisseria gonorrhoeae	3600	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*mutant D332A, pH 7.4, 25&deg;C
+KCAT	Neisseria gonorrhoeae	5600	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*mutant Q369A, pH 7.4, 25&deg;C
+KCAT	Campylobacter jejuni	8050	UDP-4-amino-4,6-dideoxy-N-acetyl-alpha-D-glucosamine	*at 37&deg;C, pH 7.7
+KCAT	Neisseria gonorrhoeae	72000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*wild-type, pH 7.4, 25&deg;C
+KCAT	Acinetobacter baumannii	82000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*mutant F13A, pH 7.4, 25&deg;C
+KCAT	Acinetobacter baumannii	330000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*mutant T176A, pH 7.4, 25&deg;C
+KCAT	Acinetobacter baumannii	510000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	*wild-type, pH 7.4, 25&deg;C

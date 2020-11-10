@@ -1,0 +1,4 @@
+KCAT	Vitis vinifera	0.22	ATP	*pH and temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.34	L-fucose	*pH 7.5, 35&deg;C
+KCAT	Arabidopsis thaliana	0.38	ATP	*pH 7.5, 35&deg;C
+KCAT	Mortierella alpina	23.35	L-fucose	*at pH 7.4 and 37&deg;C

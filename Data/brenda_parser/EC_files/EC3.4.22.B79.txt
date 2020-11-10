@@ -1,0 +1,30 @@
+KCAT	Chikungunya virus	0.00052	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*mutant C478A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.00068	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*presence of glutathione disulfide, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.00076	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*mutant W549F, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.00084	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*presence of glutathione disulfide, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0011	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*truncated enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0013	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*mutant W549F, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0013	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*mutant W549F, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0014	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*mutant S482A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.00142	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*presence of glutathione disulfide, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0015	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*mutant C478A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0016	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*wild-type enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.00164	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*mutant S482A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0017	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*mutant W549A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.00182	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0019	2-(N-methylamino)benzoyl-AGGGIIETk(Dnp)	*full-length enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0021	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*mutant S482A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0024	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*wild-type enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0027	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*full-length enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.00281	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0029	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*truncated enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0031	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*mutant C478A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0032	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*mutant W549A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0033	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*truncated enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0034	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*full-length enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.00445	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0046	2-(N-methylamino)benzoyl-AGAGIIETk(Dnp)	*wild-type enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Chikungunya virus	0.0075	2-(N-methylamino)benzoyl-AGCGIIETk(Dnp)	*mutant W549A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Venezuelan equine encephalitis virus	0.016	Semliki forest virus p1/p2	*
+KCAT	Semliki forest virus	0.043	Semliki forest virus p1/p2	*
+KCAT	Semliki forest virus	0.352	Semliki forest virus p3/p4	*

@@ -1,0 +1,53 @@
+KCAT	Carica papaya	0.00000028	casein	*papain immobilized on sepharose 6B, pH 7.5, 22&Acirc;&deg;C
+KCAT	Carica papaya	0.00000035	casein	*papain immobilized on sepharose 6B in presence of 200 mM cysteine, pH 7.5, 22&Acirc;&deg;C
+KCAT	Carica papaya	0.00000045	casein	*free papain, pH 7.5, 22&Acirc;&deg;C
+KCAT	Carica papaya	0.0000038	casein	*pH 9, 20&Acirc;&deg;C, immobilized papain
+KCAT	Carica papaya	0.0000046	casein	*pH 9, 20&Acirc;&deg;C, free papain
+KCAT	Carica papaya	0.0102	casein	*enzyme immobilized by covalent attachment on Sepharose 6B activated by using cyanogen bromide, pH 7.5, 23&Acirc;&deg;C
+KCAT	Carica papaya	0.0162	casein	*soluble enzyme, pH 7.5, 23&Acirc;&deg;C
+KCAT	Carica papaya	1.386	casein	*cotton-immobilized papain modified by pyromellitic anhydride, pH 8.0, 45&Acirc;&deg;C
+KCAT	Carica papaya	1.5	casein	*enzyme immobilized on multi-walled carbon nanotubes, pH 7.5, 23&Acirc;&deg;C
+KCAT	Carica papaya	1.604	casein	*cotton-immobilized papain modified by 1,2,4-benzenetricarboxylic anhydride, pH 8.0, 45&Acirc;&deg;C
+KCAT	Carica papaya	1.7	casein	*soluble enzyme, pH 7.5, 23&Acirc;&deg;C
+KCAT	Carica papaya	1.79	casein	*cotton-immobilized unmodified papain, pH 8.0, 45&Acirc;&deg;C
+KCAT	Carica papaya	16.4	Nalpha-benzoyl-L-Arg ethyl ester	*
+KCAT	Carica papaya	24	Nalpha-benzoyl-L-Arg ethyl ester	*
+KCAT	Carica papaya	28.5	Nalpha-benzoyl-L-Arg ethyl ester	*
+KCAT	Carica papaya	475	methyl red-Abu-Ala-Pro-Val-Lys-Lys(N5-(5-carboxyfluorescein))-NH2	*at pH 6.2, in 10 mM sodium acetate, 0.1 mM EDTA and 1 mM cysteine
+KCAT	Carica papaya	1773	methyl red-Abu-Ala-Pro-Val-Lys-Lys(N5-(5-carboxyfluorescein))-NH2	*at pH 7.4, in 100 mM phosphate-buffered saline
+KCAT	Carica papaya	243	methyl red-Abu-Ser-Ala-Pro-Val-Lys-Ala-Lys(N6-(5-carboxyfluorescein))-NH2	*at pH 6.2, in 10 mM sodium acetate, 0.1 mM EDTA and 1 mM cysteine
+KCAT	Carica papaya	1503	methyl red-Abu-Ser-Ala-Pro-Val-Lys-Ala-Lys(N6-(5-carboxyfluorescein))-NH2	*at pH 7.4, in 100 mM phosphate-buffered saline
+KCAT	Carica papaya	0.03	Dabcyl-Lys-Phe-Gly-Gly-Ala-Ala-Edans	*pH 6.8, 40&Acirc;&deg;C, in presence of 5% methanol
+KCAT	Carica papaya	0.41	Dabcyl-Lys-Phe-Gly-Gly-Ala-Ala-Edans	*pH 6.8, 40&Acirc;&deg;C, in presence of 0.6% dimethylformamide
+KCAT	Carica papaya	0.833	Dabcyl-Lys-Phe-Gly-Gly-Ala-Ala-Edans	*pH 6.8, 40&Acirc;&deg;C
+KCAT	Carica papaya	2.77	Dabcyl-Lys-Phe-Gly-Gly-Ala-Ala-Edans	*pH 6.8, 40&Acirc;&deg;C, in presence of 1% methanol
+KCAT	Carica papaya	3	Dabcyl-Lys-Phe-Gly-Gly-Ala-Ala-Edans	*pH 6.8, 40&Acirc;&deg;C, in presence of 1% methanol
+KCAT	Carica papaya	6.86	Dabcyl-Lys-Phe-Gly-Gly-Ala-Ala-Edans	*pH 6.8, 40&Acirc;&deg;C, in presence of 5% methanol
+KCAT	Carica papaya	2.78	benzyloxycarbonyl-Phe-Arg 4-methylcoumarin-7-amide	*mutant enzyme V133A/V157G/S205E
+KCAT	Carica papaya	16.9	benzyloxycarbonyl-Phe-Arg 4-methylcoumarin-7-amide	*mutant enzyme V133A/S205E
+KCAT	Carica papaya	41.6	benzyloxycarbonyl-Phe-Arg 4-methylcoumarin-7-amide	*
+KCAT	Carica papaya	0.79	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin-7-amide	*mutant enzyme V133A/V157G/S205E
+KCAT	Carica papaya	1.18	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin-7-amide	*
+KCAT	Carica papaya	9.3	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin-7-amide	*mutant enzyme V133A/S205E
+KCAT	Carica papaya	0.42	benzyloxycarbonyl-citrullyl-Arg 4-methylcoumarin-7-amide	*mutant enzyme V133A/V157G/S205E
+KCAT	Carica papaya	5.67	benzyloxycarbonyl-citrullyl-Arg 4-methylcoumarin-7-amide	*mutant enzyme V133A/S205E
+KCAT	Carica papaya	8.14	benzyloxycarbonyl-citrullyl-Arg 4-methylcoumarin-7-amide	*mutant enzyme V133A/V157G/S205E
+KCAT	Carica papaya	51	benzyloxycarbonyl-L-Phe-L-Arg 4-methylcoumarin-7-amide	*recombinant wild-type enzyme
+KCAT	Carica papaya	52	benzyloxycarbonyl-L-Phe-L-Arg 4-methylcoumarin-7-amide	*commercial enzyme preparation
+KCAT	Carica papaya	3.48	N-benzoyl-Gly methyl ester	*
+KCAT	Carica papaya	3340	benzoyl-thiocarbamic acid	*
+KCAT	Carica papaya	3.4	benzoyl-thiocarbamic acid ethyl ester	*
+KCAT	Carica papaya	0.064	benzoyl-thiocarbamic acid methyl ester	*
+KCAT	Carica papaya	35.6	N-alpha-benzyloxycarbonyl-L-lysine 4-nitrophenyl ester	*pH 6.5, 27&Acirc;&deg;C
+KCAT	Carica papaya	180	benzyl-Phe-Val-Arg-4-nitroanilide	*McIlvaine buffer, pH 3.2, 25&Acirc;&deg;C, papain from ripe fruit
+KCAT	Carica papaya	189	benzyl-Phe-Val-Arg-4-nitroanilide	*McIlvaine buffer, pH 3.2, 25&Acirc;&deg;C, papain from papaya latex
+KCAT	Carica papaya	215	benzyl-Phe-Val-Arg-4-nitroanilide	*McIlvaine buffer + 12% ethanol, pH 3.2, 25&Acirc;&deg;C, papain from papaya latex
+KCAT	Carica papaya	217	benzyl-Phe-Val-Arg-4-nitroanilide	*tartaric buffer containing 12% ethanol, pH 3.2, 25&Acirc;&deg;C, papain from papaya latex
+KCAT	Carica papaya	290	benzyl-Phe-Val-Arg-4-nitroanilide	*McIlvaine buffer + 12% ethanol, pH 3.2, 25&Acirc;&deg;C, papain from ripe fruit
+KCAT	Carica papaya	309	benzyl-Phe-Val-Arg-4-nitroanilide	*tartaric buffer containing 12% ethanol, pH 3.2, 25&Acirc;&deg;C, papain from ripe fruit
+KCAT	Carica papaya	-999	more	*
+KCAT	Carica papaya	-999	more	*kcat (casein) for immobilized papain is much lower than for free papain
+KCAT	Carica papaya	-999	more	*
+KCAT	Carica papaya	-999	more	*
+KCAT	Alphacoronavirus	0.79	ubiquitin-7-amido-4-trifluoromethylcoumarin	*pH not specified in the publication, 30&Acirc;&deg;C, PLpro(1541-1858, DNA fragment)
+KCAT	Alphacoronavirus	0.96	ubiquitin-7-amido-4-trifluoromethylcoumarin	*pH not specified in the publication, 30&Acirc;&deg;C, PLpro(1600-1858, DNA fragment)

@@ -1,0 +1,1 @@
+ecNumber*3.5.4.46#turnoverNumber*46#turnoverNumberMaximum*#substrate*3',5'-cyclic AMP#commentary*pH 7.5, 30&deg;C#organism*Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130#ligandStructureId*7108#literature*739775#

@@ -1,0 +1,3 @@
+KCAT	Beta vulgaris	-999	6-kestose	*5 mM substrate: wild-type enzyme about 1.8 mol fructose/mol enzyme, mutant about 0.3 mol fructose/mol enzyme
+KCAT	Beta vulgaris	-999	levan	*5 mM substrate: wild-type 6-FEH about 2.2 mol fructose/mol enzyme, F233D mutant about 0.4 mol fructose/mol enzyme
+KCAT	Beta vulgaris	-999	sucrose	*5 mM substrate: about zero acitivity in wild-type, mutant about 0.1 mol fructose/mol enzyme, at 1000 mM strongly raised activity: 4 mol fructose/mol enzyme

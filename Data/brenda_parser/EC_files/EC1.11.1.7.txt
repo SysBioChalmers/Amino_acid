@@ -1,0 +1,95 @@
+KCAT	Streptomyces lividans	0.054	guaiacol	*pH 7.0, 25&deg;C
+KCAT	Streptomyces lividans	0.1	2,6-dimethyloxyphenol	*pH 7.0, 25&deg;C
+KCAT	Neurospora crassa	0.3	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	*25&deg;C, pH 3.5
+KCAT	Neurospora crassa	0.3	H2O2	*25&deg;C, pH 3.5
+KCAT	Streptomyces lividans	0.32	2,6-dimethyloxyphenol	*pH 9.0, 25&deg;C
+KCAT	Streptomyces lividans	0.4	guaiacol	*pH 10.5, 25&deg;C
+KCAT	Homo sapiens	0.46	Br-	*20&deg;C, pH 6.5
+KCAT	Streptomyces lividans	0.5	2,2'-azino-bis(3-ethylbenzthiazole-6-sulfonic acid)	*pH 5.0, 25&deg;C
+KCAT	Amphitrite ornata	0.7	2,4,6-Trichlorophenol	*pH 7.0, temperature not specified in the publication
+KCAT	Streptomyces lividans	0.82	veratryl alcohol	*pH 5.0, 25&deg;C
+KCAT	Armoracia rusticana	0.952	guaiacol	*mutant F68A, pH 5, temperature not specified in the publication
+KCAT	Amphitrite ornata	1.05	2,4,6-Trichlorophenol	*pH 7.0, temperature not specified in the publication
+KCAT	Streptomyces lividans	1.12	2,2'-azino-bis(3-ethylbenzthiazole-6-sulfonic acid)	*pH 7.0, 25&deg;C
+KCAT	Armoracia rusticana	1.24	guaiacol	*mutant F142A, pH 5, temperature not specified in the publication
+KCAT	Plasmodium falciparum	1.3	guaiacol	*pH 7.2
+KCAT	Armoracia rusticana	1.41	guaiacol	*mutant F130A, pH 5, temperature not specified in the publication
+KCAT	Armoracia rusticana	1.44	guaiacol	*wild-type isoform C, pH 5, temperature not specified in the publication
+KCAT	Homo sapiens	1.5	3,3',5,5'-tetramethylbenzidine	*isozyme VPO1
+KCAT	Armoracia rusticana	1.55	guaiacol	*mutant F143A, pH 5, temperature not specified in the publication
+KCAT	Amphitrite ornata	1.83	2,4,6-tribromophenol	*pH 7.0, temperature not specified in the publication
+KCAT	Armoracia rusticana	1.83	guaiacol	*mutant F179A, pH 5, temperature not specified in the publication
+KCAT	Amphitrite ornata	1.87	2,4,6-tribromophenol	*pH 7.0, temperature not specified in the publication
+KCAT	Armoracia rusticana	2.09	guaiacol	*mutant F130A/F142A/ F143A/F179A, pH 5, temperature not specified in the publication
+KCAT	Armoracia rusticana	2.3	guaiacol	*mutant F68A/F142A/ F143A/F179A, pH 5, temperature not specified in the publication
+KCAT	Bjerkandera adusta	3.2	Pentachlorophenol	*pH 4.0
+KCAT	Pleurotus eryngii	4.7	Reactive Black 5	*24&deg;C, pH 3.5, mutant enzyme H232F
+KCAT	Pleurotus eryngii	5	Reactive Black 5	*24&deg;C, pH 3.5, wild-type enzyme
+KCAT	Pleurotus eryngii	6	Reactive Black 5	*24&deg;C, pH 3.5, mutant enzyme P76H
+KCAT	Oryza sativa	6.13	H2O2	*at pH 6.0
+KCAT	Bjerkandera adusta	6.8	3,5-dibromo-4-hydroxybenzonitrile	*pH 4.0
+KCAT	Pleurotus eryngii	8	veratryl alcohol	*24&deg;C, pH 3, wild-type enzyme
+KCAT	Armoracia rusticana	8.7	guaiacol	*in the presence of 25% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25&deg;C
+KCAT	Armoracia rusticana	9.3	guaiacol	*in the presence of 20% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25&deg;C
+KCAT	Sorghum bicolor	9.9	H2O2	*pH 5.5, 25&deg;C
+KCAT	Armoracia rusticana	10.6	guaiacol	*in the presence of 15% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25&deg;C
+KCAT	Armoracia rusticana	10.9	guaiacol	*in the presence of 10% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25&deg;C
+KCAT	Pleurotus eryngii	11	veratryl alcohol	*24&deg;C, pH 3, mutant enzyme P76H
+KCAT	Armoracia rusticana	12.2	guaiacol	*in the absence of 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25&deg;C
+KCAT	Escherichia coli	12.3	L-tyrosine	*in 100 mM Tris-HCl, pH 9.0, at 25&deg;C
+KCAT	Armoracia rusticana	12.4	guaiacol	*in the presence of 5% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25&deg;C
+KCAT	Mycobacterium avium	13	H2O2	*in 50 mM potassium phosphate buffer, pH 7.0
+KCAT	Homo sapiens	13.6	SCN-	*20&deg;C, pH 6.5
+KCAT	Amphitrite ornata	13.67	2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)	*pH 7.0, temperature not specified in the publication
+KCAT	Pleurotus eryngii	14	veratryl alcohol	*24&deg;C, pH 3, mutant enzyme H232F
+KCAT	Escherichia coli	17.8	3-methyltyrosine	*in 100 mM Tris-HCl, pH 9.0, at 25&deg;C
+KCAT	Amphitrite ornata	25.72	2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)	*pH 7.0, temperature not specified in the publication
+KCAT	Persea americana	49	guaiacol	*pH 5.0, 16&deg;C
+KCAT	Armoracia rusticana	52.5	2,4,6-Trichlorophenol	*pH 7.0, temperature not specified in the publication
+KCAT	Escherichia coli	70.1	cumene hydroperoxide	*25&deg;C, pH 7.0
+KCAT	Escherichia coli	76	H2O2	*25&deg;C, pH 7.0
+KCAT	Sorghum bicolor	87	H2O2	*presence of Ca2+, pH 5.5, 25&deg;C
+KCAT	Armoracia rusticana	90	3,5-dimethoxyphenol	*pH 7.0
+KCAT	Armoracia rusticana	100	2,3-dimethoxyphenol	*pH 7.0
+KCAT	Chromolaena odorata	102.5	pyrogallol	*30&deg;C, pH 5.5, isoenzyme E5
+KCAT	Streptomyces lividans	109	K4[Fe(CN)6]	*pH 7.0, 25&deg;C
+KCAT	Armoracia rusticana	172	3,3',5,5'-tetramethylbenzidine	*20&deg;C, pH 7.4
+KCAT	Persea americana	189	caffeic acid	*pH 5.0, 16&deg;C
+KCAT	Armoracia rusticana	201.8	H2O2	*at pH 6.0
+KCAT	Pleurotus eryngii	207	Mn2+	*24&deg;C, pH 5, mutant enzyme W164S
+KCAT	Armoracia rusticana	223	2,4,6-tribromophenol	*pH 7.0, temperature not specified in the publication
+KCAT	Persea americana	230	pyrogallol	*pH 5.0, 16&deg;C
+KCAT	Armoracia rusticana	240	amplex red	*native HRP
+KCAT	Pleurotus eryngii	247	Mn2+	*24&deg;C, pH 5, mutant enzyme W164S/P76H
+KCAT	Armoracia rusticana	270	o-toluidine	*pH 7.0
+KCAT	Pleurotus eryngii	291	Mn2+	*24&deg;C, pH 5, mutant enzyme P76H
+KCAT	Streptomyces lividans	295	K4[Fe(CN)6]	*pH 5.0, 25&deg;C
+KCAT	Pleurotus eryngii	298	Mn2+	*24&deg;C, pH 5, wild-type enzyme
+KCAT	Armoracia rusticana	300	3-(4-hydroxyphenyl)propanoic acid	*pH 7.0
+KCAT	Pleurotus eryngii	308	Mn2+	*24&deg;C, pH 5, mutant enzyme H232F
+KCAT	Armoracia rusticana	311.7	p-hydroxybenzoic acid	*native enzyme, at 30&deg;C
+KCAT	Pleurotus eryngii	320	Mn2+	*24&deg;C, pH 5, mutant enzyme W164H
+KCAT	Mycobacterium avium	320	tert-butyl hydroperoxide	*in 50 mM potassium phosphate buffer, pH 7.0
+KCAT	Mycobacterium avium	330	cumene hydroperoxide	*in 50 mM potassium phosphate buffer, pH 7.0
+KCAT	Persea americana	344	eugenol	*pH 5.0, 16&deg;C
+KCAT	Persea americana	398	o-Dianisidine	*pH 5.0, 16&deg;C
+KCAT	Armoracia rusticana	430	m-hydroxyanisol	*pH 7.0
+KCAT	Armoracia rusticana	435	3,3',5,5'-tetramethylbenzidine	*20&deg;C, pH 6.8
+KCAT	Armoracia rusticana	528	o-phenylenediamine	*20&deg;, pH 6.2
+KCAT	Armoracia rusticana	571	2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)	*pH 7.0, temperature not specified in the publication
+KCAT	Armoracia rusticana	650	N,N,N',N'-tetramethyl-p-phenylenediamine	*pH 7.0
+KCAT	Armoracia rusticana	691.7	phenol	*native enzyme, at 30&deg;C
+KCAT	Armoracia rusticana	736	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	*25&deg;C, pH 6.8
+KCAT	Chromolaena odorata	744.6	o-phenylenediamine	*30&deg;C, pH 5.5, isoenzyme E5
+KCAT	Persea americana	789	2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)	*pH 5.0, 16&deg;C
+KCAT	Armoracia rusticana	790	3,3',5,5'-tetramethylbenzidine	*20&deg;C, pH 6.4
+KCAT	Armoracia rusticana	810	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	*25&deg;C, pH 5.0
+KCAT	Armoracia rusticana	871	esculetin	*at pH 7; kcat as a kinetic constant of the POD/H2O2/ESC system at pH 7
+KCAT	Armoracia rusticana	890	esculetin	*at pH 4.5; kcat as a kinetic constant of the POD/H2O2/ESC system at pH 4.5
+KCAT	Armoracia rusticana	990	guaiacol	*pH 7.0
+KCAT	Glycine max	1230	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	*25&deg;C, pH 6.8
+KCAT	Armoracia rusticana	1272	4-Aminophenol	*native enzyme, at 30&deg;C
+KCAT	Armoracia rusticana	1800	3,4-dimethoxyphenol	*pH 7.0
+KCAT	Armoracia rusticana	1900	2-chloro-4-methoxyphenol	*pH 7.0
+KCAT	Chromolaena odorata	2383	reduced 2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	*30&deg;C, pH 5.5, isoenzyme E5
+KCAT	Glycine max	2663	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	*25&deg;C, pH 5.0

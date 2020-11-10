@@ -1,0 +1,71 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	0.0058	2',3'-dialdehyde adenosine 5'-triphosphate	*K306A: replacement of lysine 306 by alanine reduces the rate of 2',3'-dialdehyde adenosine 5'-triphosphate-dependent inactivation
+KCAT	Escherichia coli	0.031	NH3	*mutant K306A, presence of 3 mM ATP, 2 mM UTP
+KCAT	Escherichia coli	0.054	2',3'-dialdehyde adenosine 5'-triphosphate	*in the presence of 10 mM UTP
+KCAT	Escherichia coli	0.063	Gln-OH	*37&deg;C, pH 8.0, mutant enzyme L109A
+KCAT	Escherichia coli	0.08	UTP	*pH 8.0, 37&deg;C, mutant G142A with L-glutamine, in presence of 0.25 mM GTP
+KCAT	Escherichia coli	0.18	NH3	*pH 8.0, mutant enzyme H118A
+KCAT	Escherichia coli	0.233	glutamine	*reaction without GTP
+KCAT	Escherichia coli	0.453	Gln-OH	*37&deg;C, pH 8.0, wild-type enzyme
+KCAT	Escherichia coli	0.67	UTP	*pH 8.0, 37&deg;C, mutant G143A with L-glutamine, in presence of 0.25 mM GTP
+KCAT	Anoxybacillus gonensis	0.762	UTP	*pH 8.0, 65&deg;C
+KCAT	Escherichia coli	0.92	NH3	*pH 8.0, mutant enzyme E103A
+KCAT	Escherichia coli	1.03	Gln	*pH 8.0, mutant enzyme L109F
+KCAT	Escherichia coli	1.28	glutamine	*mutant K306A, presence of 1 mM ATP, 1 mM UTP
+KCAT	Escherichia coli	1.35	glutamine	*mutant K306A, presence of 3 mM ATP, 2 mM UTP
+KCAT	Escherichia coli	1.41	Gln-NH2	*37&deg;C, pH 8.0, wild-type enzyme
+KCAT	Lactococcus lactis	1.49	Gln	*30&deg;C, pH 8.0
+KCAT	Escherichia coli	1.5	2'-deoxy-GTP	*no guanosine
+KCAT	Escherichia coli	1.5	glutamine	*wild-type protein, presence of 3 mM ATP, 2 mM UTP
+KCAT	Escherichia coli	1.53	Gln	*pH 8.0, mutant enzyme R105A
+KCAT	Escherichia coli	1.64	Gln	*pH 8.0, mutant enzyme L109A
+KCAT	Lactococcus lactis	1.8	NH4+	*30&deg;C, pH 8.0, mutant enzyme G360P
+KCAT	Escherichia coli	1.86	Gln	*37&deg;C, pH 8.0, mutant enzyme L109A
+KCAT	Escherichia coli	1.96	NH3	*pH 8.0, mutant enzymeR104A
+KCAT	Escherichia coli	2.17	Gln	*pH 8.0, mutant enzyme G110A
+KCAT	Escherichia coli	2.19	NH3	*mutant K306A, presence of 1 mM ATP, 1 mM UTP
+KCAT	Escherichia coli	2.25	NH3	*reaction with or without GTP
+KCAT	Escherichia coli	2.8	O-methylguanosine 5'-triphosphate	*no guanosine
+KCAT	Escherichia coli	3.5	Gln	*pH 8.0, mutant enzyme D107A
+KCAT	Escherichia coli	4	guanosine 5'-tetraphosphate	*no guanosine
+KCAT	Escherichia coli	4.18	NH3	*pH 8.0, mutant enzyme G110A
+KCAT	Escherichia coli	4.2	UTP	*pH 8.0, 37&deg;C, mutant G146A with L-glutamine, in presence of 0.25 mM GTP
+KCAT	Escherichia coli	4.22	Gln	*pH 8.0, mutant enzyme K102A
+KCAT	Escherichia coli	5	UTP	*pH 8.0, 37&deg;C, wild-type enzyme with L-glutamine, in presence of 0.25 mM GTP
+KCAT	Lactococcus lactis	5.1	NH4+	*30&deg;C, pH 8.0, mutant enzyme R359P
+KCAT	Escherichia coli	5.2	ITP	*no guanosine
+KCAT	Escherichia coli	6.1	Gln	*pH 8.0, wild-type enzyme
+KCAT	Escherichia coli	6.1	Gln	*37&deg;C, pH 8.0, wild-type enzyme
+KCAT	Escherichia coli	6.1	glutamine	*wild-type protein, presence of 1 mM ATP, 1 mM UTP
+KCAT	Escherichia coli	6.26	ATP	*K306A, presence of 2 mM UTP
+KCAT	Lactococcus lactis	6.3	NH4+	*30&deg;C, pH 8.0, wild-type enzyme
+KCAT	Escherichia coli	6.7	glutamine	*pH 8.0, wild-type enzyme
+KCAT	Lactococcus lactis	6.9	NH4+	*30&deg;C, pH 8.0, mutant enzyme R359M
+KCAT	Escherichia coli	6.9	UTP	*K306A, presence of 2 mM ATP
+KCAT	Lactococcus lactis	7.5	NH4+	*30&deg;C, pH 8.0, mutant enzyme G360A
+KCAT	Escherichia coli	7.59	NH3	*mutant K306A, presence of 3 mM ATP, 2 mM UTP
+KCAT	Escherichia coli	7.97	NH3	*pH 8.0, mutant enzyme L109A
+KCAT	Escherichia coli	8.1	glutamine	*pH 8.0, recombinant His6-tagged enzyme
+KCAT	Escherichia coli	8.2	GTP	*0.2 mM guanosine
+KCAT	Escherichia coli	8.5	6-thioguanosine 5'-triphosphate	*no guanosine, kact: 8.5/sec, KA: 0.035 mM, Ki: 0.27 mM
+KCAT	Escherichia coli	8.59	NH3	*mutant K297A, presence of 1 mM ATP, 1 mM UTP
+KCAT	Escherichia coli	8.7	NH3	*pH 8.0, mutant enzyme D107A
+KCAT	Escherichia coli	8.88	NH3	*pH 8.0, mutant enzyme R105A
+KCAT	Escherichia coli	9.4	NH3	*pH 8.0, wild-type enzyme
+KCAT	Escherichia coli	9.5	NH3	*37&deg;C, pH 8.0, wild-type enzyme
+KCAT	Escherichia coli	9.5	NH3	*wild-type protein, presence of 1 mM ATP, 1 mM UTP
+KCAT	Escherichia coli	9.9	NH3	*pH 8.0, mutant enzyme C379A
+KCAT	Escherichia coli	10.1	NH3	*37&deg;C, pH 8.0, mutant enzyme L109A
+KCAT	Lactococcus lactis	10.1	NH4+	*30&deg;C, pH 8.0, mutant enzyme E362Q
+KCAT	Escherichia coli	10.3	GTP	*0.1 mM guanosine
+KCAT	Escherichia coli	10.4	NH3	*pH 8.0, mutant enzyme C379S
+KCAT	Escherichia coli	10.6	GTP	*no guanosine
+KCAT	Escherichia coli	10.8	ATP	*K297A, presence of 2 mM UTP
+KCAT	Escherichia coli	11	NH3	*pH 8.0, mutant enzyme L109F
+KCAT	Escherichia coli	11.3	NH3	*wild-type protein, presence of 3 mM ATP, 2 mM UTP
+KCAT	Escherichia coli	12.2	NH3	*pH 8.0, mutant enzyme K102A
+KCAT	Escherichia coli	12.8	ATP	*wild-type protein, presence of 2 mM UTP
+KCAT	Escherichia coli	13.7	UTP	*wild-type protein, presence of 3 mM ATP
+KCAT	Escherichia coli	14	NH2OH	*37&deg;C, pH 8.0, wild-type enzyme
+KCAT	Escherichia coli	14	UTP	*K297A, presence of 3 mM ATP
+KCAT	Escherichia coli	14.1	NH2OH	*37&deg;C, pH 8.0, mutant enzyme L109A

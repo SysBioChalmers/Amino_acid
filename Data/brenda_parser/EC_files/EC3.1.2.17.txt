@@ -1,0 +1,2 @@
+KCAT	Rattus norvegicus	23.3	(S)-methylmalonyl-CoA	*pH 6.0, 30&deg;C
+KCAT	Rattus norvegicus	23.3	(S)-methylmalonyl-CoA	*pH 6.0, 30&deg;C

@@ -1,0 +1,3 @@
+KCAT	arsenite-oxidising bacterium	8.6	arsenite	*pH 5.5, temperature not specified in the publication
+KCAT	Rhizobium sp. NT-26	8.6	arsenite	*pH 5.5, temperature not specified in the publication
+KCAT	Hydrogenophaga sp.	30.4	arsenite	*pH 5.5, temperature not specified in the publication

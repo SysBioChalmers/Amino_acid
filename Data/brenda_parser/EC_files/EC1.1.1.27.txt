@@ -1,0 +1,85 @@
+KCAT	Cryptosporidium parvum	0.000055	NAD+	*pH 5.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Gallus gallus	3.3	NAD+	*enzyme from muscle
+KCAT	Anas platyrhynchos	6.9	NAD+	*
+KCAT	Plasmodium vivax	12.33	NAD+	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	23	NAD+	*25&Acirc;&deg;C, pH 8, mutant enzyme F16Q/C81S/N85R, activated by fructose 1,6-diphosphate; 25&Acirc;&deg;C, pH 8, mutant enzyme F16Q/I37K/D38SC81S/N85R, activated by fructose 1,6-diphosphate
+KCAT	Plasmodium ovale	25	NAD+	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	32	NAD+	*25&Acirc;&deg;C, pH 8, wild-type enzyme, activated by fructose 1,6-diphosphate
+KCAT	Plasmodium malariae	38.33	NAD+	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	40	NAD+	*pH 7.5
+KCAT	Gallus gallus	60	NAD+	*enzyme from heart
+KCAT	Plasmodium falciparum	65	NAD+	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Cryptosporidium parvum	0.00208	NADH	*pH 5.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	96	NADH	*pH 7.5
+KCAT	Plasmodium malariae	125	NADH	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Plasmodium vivax	126.7	NADH	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	148.3	NADH	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Babesia bovis	216.7	NADH	*
+KCAT	Plasmodium ovale	266.7	NADH	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Homarus americanus	2330	NADH	*
+KCAT	Sus scrofa	-999	pyruvate	*the enzyme shows hyperbolic dependence on the substrate concentration
+KCAT	Cryptosporidium parvum	0.00209	pyruvate	*pH 5.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Geobacillus stearothermophilus	21.1	pyruvate	*pH 6.0, 25&Acirc;&deg;C, recombinant wild-type enzyme in presence of fructose 1,6-bisphosphate
+KCAT	Escherichia coli	46.5	pyruvate	*pH 7.5, 25&Acirc;&deg;C, recombinant mutant I12V/R81Q/M85E/G210A/V214I
+KCAT	Plasmodium falciparum	94	pyruvate	*pH 7.5
+KCAT	Plasmodium falciparum	96	pyruvate	*pH 7.5
+KCAT	Plasmodium berghei	106	pyruvate	*pH 7.5
+KCAT	Plasmodium malariae	125	pyruvate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Plasmodium vivax	126.7	pyruvate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Rhizopus delemar	142	pyruvate	*LDHB, in the presence of 0.125 mM NADH
+KCAT	Plasmodium falciparum	148.3	pyruvate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Rhizopus delemar	154	pyruvate	*LDHB, in the presence of 0.15 mM NADH
+KCAT	Oryctolagus cuniculus	170.7	pyruvate	*immobiized recombinant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	178.4	pyruvate	*pH 6.0, 25&Acirc;&deg;C, recombinant mutant D38R in presence of fructose 1,6-bisphosphate
+KCAT	Plasmodium falciparum	180	pyruvate	*wild-type enzyme
+KCAT	Geobacillus stearothermophilus	194.9	pyruvate	*pH 6.0, 25&Acirc;&deg;C, recombinant mutant D38R in absence of fructose 1,6-bisphosphate
+KCAT	Rhizopus oryzae NRRL 395	197	pyruvate	*LDHB, in the presence of 0.125 mM NADH
+KCAT	Anas platyrhynchos	204	pyruvate	*
+KCAT	Champsocephalus gunnari	230	pyruvate	*pH 7.0, 0&Acirc;&deg;C, recombinant enzyme
+KCAT	Rhizopus oryzae NRRL 395	244	pyruvate	*LDHB, in the presence of 0.15 mM NADH
+KCAT	Geobacillus stearothermophilus	250	pyruvate	*pH 6.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Plasmodium ovale	266.7	pyruvate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	276.5	pyruvate	*soluble recombinant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rhizopus delemar	298	pyruvate	*LDHB, in the presence of 0.2 mM NADH
+KCAT	Rhizopus oryzae NRRL 395	318	pyruvate	*LDHB, in the presence of 0.2 mM NADH
+KCAT	Rhizopus oryzae NRRL 395	320	pyruvate	*RLDHB, in the presence of 0.25 mM NADH
+KCAT	Geobacillus stearothermophilus	327.2	pyruvate	*pH 6.0, 25&Acirc;&deg;C, recombinant wild-type enzyme in absence of fructose 1,6-bisphosphate
+KCAT	Rhizopus delemar	350	pyruvate	*LDHB, in the presence of 0.25 mM NADH
+KCAT	Lactobacillus helveticus	643	pyruvate	*
+KCAT	Thermus thermophilus	676	pyruvate	*pH 7.0, 0&Acirc;&deg;C, recombinant enzyme
+KCAT	Deinococcus radiodurans	884	pyruvate	*pH 7.0, 0&Acirc;&deg;C, recombinant enzyme
+KCAT	Enterococcus mundtii	1300	pyruvate	*pH 7.5, temperature not specified in the publication, wild-type LDH-2, with 3 mM fructose-1,6-bisphosphate
+KCAT	Enterococcus mundtii	1500	pyruvate	*pH 7.5, temperature not specified in the publication, LDH-1, with 3 mM fructose-1,6-bisphosphate
+KCAT	Enterococcus mundtii	1600	pyruvate	*pH 5.5, temperature not specified in the publication, LDH-1, with 3 mM fructose-1,6-bisphosphate
+KCAT	Enterococcus mundtii	1800	pyruvate	*pH 5.5, temperature not specified in the publication, wild-type and mutant D241N LDH-2, with 3 mM fructose-1,6-bisphosphate; pH 7.5, temperature not specified in the publication, mutant D241N LDH-2, with 3 mM fructose-1,6-bisphosphate
+KCAT	Plasmodium falciparum	39.5	phenylpyruvate	*wild-type enzyme
+KCAT	Plasmodium falciparum	80	2-oxobutyrate	*pH 7.5
+KCAT	Plasmodium falciparum	40	L-lactate	*pH 7.5
+KCAT	Cryptosporidium parvum	0.000045	(S)-lactate	*pH 5.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium vivax	12.33	(S)-lactate	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium ovale	25	(S)-lactate	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium malariae	38.33	(S)-lactate	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	65	(S)-lactate	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.33	4-methyl-2-oxopentanoate	*wild-type enzyme
+KCAT	Anas platyrhynchos	1.4	3-acetylpyridine adenine dinucleotide	*
+KCAT	Gallus gallus	16	3-acetylpyridine adenine dinucleotide	*enzyme form heart and muscle
+KCAT	Plasmodium ovale	153.3	3-acetylpyridine adenine dinucleotide	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium malariae	233.3	3-acetylpyridine adenine dinucleotide	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	250	3-acetylpyridine adenine dinucleotide	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium vivax	333.3	3-acetylpyridine adenine dinucleotide	*pH 9.2, 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.64	2-oxovalerate	*pH 7.5
+KCAT	Anas platyrhynchos	269	Bromopyruvate	*
+KCAT	Anas platyrhynchos	1.1	nicotinamide hypoxanthine dinucleotide	*
+KCAT	Gallus gallus	1.1	nicotinamide hypoxanthine dinucleotide	*enzyme from muscle
+KCAT	Anas platyrhynchos	5.5	nicotinamide hypoxanthine dinucleotide	*
+KCAT	Anas platyrhynchos	18.8	nicotinamide hypoxanthine dinucleotide	*enzyme from heart
+KCAT	Gallus gallus	98	Fluoropyruvate	*
+KCAT	Anas platyrhynchos	0.7	epsilon-NAD+	*
+KCAT	Anas platyrhynchos	5.3	epsilon-NAD+	*
+KCAT	Anas platyrhynchos	6.2	epsilon-NAD+	*enzyme from heart
+KCAT	Anas platyrhynchos	176	pyruvate ethyl ester	*
+KCAT	Anas platyrhynchos	227	pyruvate methyl ester	*
+KCAT	Cryptosporidium parvum	0.000248	APAD+	*pH 5.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Cryptosporidium parvum	0.00386	APADH	*pH 5.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	-999	more	*turnover-numbers for mutant enzymes with enlarged loop
+KCAT	Homo sapiens	-999	more	*

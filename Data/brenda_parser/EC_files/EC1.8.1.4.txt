@@ -1,0 +1,71 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Mycobacterium tuberculosis	-999	more	*
+KCAT	Pisum sativum	-999	more	*turnover numbers for small polypeptides derived from proteolytic treatment of the H-protein
+KCAT	Mycobacterium tuberculosis	-999	more	*
+KCAT	Mycobacterium tuberculosis	0.25	O2	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.42	dihydrolipoamide	*enzyme mutant C50A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.42	NAD+	*enzyme mutant C50A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.46	dihydrolipoamide	*enzyme mutant C50T, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.46	NAD+	*enzyme mutant C50T, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	6	dihydrolipoamide	*mutant P325A, pH 8.0, 37&deg;C, presence of 1.5 mM EDTA
+KCAT	Homo sapiens	6.75	NAD+	*mutant enzyme S53K/K54S
+KCAT	Homo sapiens	8.5	dihydrolipoamide	*mutant enzyme S53K/K54S
+KCAT	Homo sapiens	14.4	Lipoamide	*mutant enzyme S53K/K54S
+KCAT	Homo sapiens	19.8	NADH	*mutant enzyme S53K/K54S
+KCAT	Homo sapiens	23	Lipoamide	*mutant enzyme K54E
+KCAT	Homo sapiens	26.2	NADH	*mutant enzyme E192Q
+KCAT	Homo sapiens	29.7	dihydrolipoamide	*mutant enzyme E192Q
+KCAT	Homo sapiens	30	NAD+	*mutant enzyme E192Q
+KCAT	Homo sapiens	37	dihydrolipoamide	*enzyme mutant H329A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	37	NAD+	*enzyme mutant H329A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	67	Lipoamide	*mutant D320N; mutant enzyme D320N
+KCAT	Streptomyces seoulensis	70	lipoic acid	*
+KCAT	Sus scrofa	72	ubiquinone	*pH 7.5, 37&deg;C, in absence of Zn2+
+KCAT	Plasmodium falciparum	77.8	NADH	*pH 7.0, 25&deg;C, recombinant His-tagged enzyme
+KCAT	Homo sapiens	81.3	Lipoamide	*mutant enzyme E192Q
+KCAT	Streptomyces seoulensis	88	Lipoamide	*
+KCAT	Plasmodium falciparum	97	Lipoamide	*pH 7.0, 25&deg;C, recombinant His-tagged enzyme
+KCAT	Homo sapiens	107	dihydrolipoamide	*mutant D320N; mutant enzyme D320N
+KCAT	Streptomyces seoulensis	108	1,4-benzoquinone	*
+KCAT	Plasmodium falciparum	110	dihydrolipoamide	*pH 8.0, 25&deg;C, recombinant His-tagged enzyme
+KCAT	Plasmodium falciparum	110	NAD+	*pH 8.0, 25&deg;C, recombinant His-tagged enzyme
+KCAT	Homo sapiens	116	dihydrolipoamide	*mutant enzyme N286Q; mutant N286Q
+KCAT	Homo sapiens	134	Lipoamide	*mutant enzyme N286D; mutant N286D
+KCAT	Plasmodium falciparum	135.5	Lipoamide	*pH 8.0, 25&deg;C, mitochondrial isozyme, forward reaction, varying conditions
+KCAT	Plasmodium falciparum	135.5	NAD+	*pH 8.0, 25&deg;C, mitochondrial isozyme, forward reaction, varying conditions
+KCAT	Homo sapiens	148	Lipoamide	*mutant enzyme N286Q; mutant N286Q
+KCAT	Homo sapiens	159	dihydrolipoamide	*mutant enzyme N286D; mutant N286D
+KCAT	Streptococcus pneumoniae	160	NAD+	*recombinant DLDH
+KCAT	Mycobacterium tuberculosis	190	2,6-dimethyl-1,4-benzoquinone	*pH 7.5, 25&deg;C
+KCAT	Pisum sativum	190	R,S-lipoamide	*
+KCAT	Homo sapiens	220	dihydrolipoamide	*mutant R281N
+KCAT	Mycobacterium tuberculosis	220	DL-lipoylpentanoate	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	223	dihydrolipoamide	*mutant R281K
+KCAT	Streptococcus pneumoniae	223	NAD+	*recombinant DLDH expressed without lipoic acid
+KCAT	Sus scrofa	300	ubiquinone	*pH 7.5, 37&deg;C, in presence of Zn2+
+KCAT	Homo sapiens	340	NADH	*wild-type enzyme
+KCAT	Pisum sativum	345	H-protein	*
+KCAT	Plasmodium falciparum	448	dihydrolipoamide	*pH 8.0, 25&deg;C, mitochondrial isozyme, reverse reaction, varying conditions
+KCAT	Plasmodium falciparum	448	NADH	*pH 8.0, 25&deg;C, mitochondrial isozyme, reverse reaction, varying conditions
+KCAT	Homo sapiens	505	dihydrolipoamide	*wild-type; wild type enzyme
+KCAT	Homo sapiens	505	dihydrolipoamide	*wild-type E3
+KCAT	Streptococcus pneumoniae	506	NAD+	*recombinant DLDH expressed without without a lipoyl protein domain
+KCAT	Homo sapiens	519	Lipoamide	*wild-type; wild type enzyme
+KCAT	Homo sapiens	567	dihydrolipoamide	*wild-type enzyme
+KCAT	Homo sapiens	574	NAD+	*wild-type enzyme
+KCAT	Homo sapiens	629	dihydrolipoamide	*enzyme mutant P303A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	629	NAD+	*enzyme mutant P303A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	649	Lipoamide	*wild-type enzyme
+KCAT	Homo sapiens	655	dihydrolipoamide	*mutant T148G
+KCAT	Homo sapiens	742	dihydrolipoamide	*mutant T148S
+KCAT	Homo sapiens	817	dihydrolipoamide	*enzyme mutant P156A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	817	NAD+	*enzyme mutant P156A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	899	dihydrolipoamide	*wild-type, pH 8.0, 37&deg;C, presence of 1.5 mM EDTA
+KCAT	Homo sapiens	899	dihydrolipoamide	*wild-type enzyme, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	899	dihydrolipoamide	*wild-type enzyme, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	899	dihydrolipoamide	*wild-type enzyme, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	899	NAD+	*wild-type enzyme, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	899	NAD+	*wild-type enzyme, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	899	NAD+	*wild-type enzyme, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	1032	dihydrolipoamide	*mutant W366A, pH 8.0, 37&deg;C, presence of 1.5 mM EDTA

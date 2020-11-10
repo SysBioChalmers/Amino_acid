@@ -1,0 +1,22 @@
+KCAT	Solanum dulcamara	0.047	putrescine	*
+KCAT	Solanum dulcamara	0.047	putrescine	*
+KCAT	Calystegia sepium	0.086	putrescine	*isoenzyme PMT2; PMT2
+KCAT	Calystegia sepium	0.086	putrescine	*isoform PMT2
+KCAT	Solanum tuberosum	0.131	putrescine	*
+KCAT	Calystegia sepium	0.16	putrescine	*isoenzyme PMT1; PMT1
+KCAT	Calystegia sepium	0.16	putrescine	*isoform PMT1
+KCAT	Solanum lycopersicum	0.19	putrescine	*; 
+KCAT	Physalis divaricata	0.198	putrescine	*
+KCAT	Physalis divaricata	0.198	putrescine	*
+KCAT	Datura inoxia	0.359	putrescine	*
+KCAT	Datura inoxia	0.359	putrescine	*isoform PMT2
+KCAT	Datura inoxia	0.383	putrescine	*; PMT1
+KCAT	Datura inoxia	0.383	putrescine	*isoform PMT1
+KCAT	Datura stramonium	0.388	putrescine	*
+KCAT	Datura stramonium	0.388	putrescine	*
+KCAT	Datura stramonium	0.4	putrescine	*PMT-SPDS chimeric enzyme consisting of 181 N-terminal amino acids of putrescine N-methyltransferase and 165 C-terminal amino acids of spermidine synthase, in 20 mM HEPES, pH 8.0, 2 mM dithiothreitol, 1 mM ascorbic acid, at 37&deg;C
+KCAT	Datura stramonium	0.69	putrescine	*SPDS-PMT chimeric enzyme consisting of 144 N-terminal amino acids of spermidine synthase and 162 C-terminal amino acids of putrescine N-methyltransferase, in 20 mM HEPES, pH 8.0, 2 mM dithiothreitol, 1 mM ascorbic acid, at 37&deg;C
+KCAT	Datura stramonium	0.78	putrescine	*mutant H108L, pH 8.0, 37&deg;C
+KCAT	Datura stramonium	1.73	putrescine	*
+KCAT	Datura stramonium	1.98	putrescine	*wild-type, pH 8.0, 37&deg;C
+KCAT	Datura stramonium	5.14	putrescine	*wild type enzyme, in 20 mM HEPES, pH 8.0, 2 mM dithiothreitol, 1 mM ascorbic acid, at 37&deg;C

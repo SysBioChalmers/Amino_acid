@@ -1,0 +1,1 @@
+ecNumber*4.6.1.13#turnoverNumber*66#turnoverNumberMaximum*#substrate*methyl-fluorescein myo-inositol phosphate#commentary*pH 7#organism*Listeria monocytogenes#ligandStructureId*17532#literature*650573#!ecNumber*4.6.1.13#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Bacillus cereus#ligandStructureId*#literature*650586#

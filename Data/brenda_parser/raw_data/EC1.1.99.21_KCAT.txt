@@ -1,0 +1,1 @@
+ecNumber*1.1.99.21#turnoverNumber*3820#turnoverNumberMaximum*#substrate*D-sorbitol#commentary*pH 10.0, 25&Acirc;&deg;C#organism*Gluconobacter oxydans#ligandStructureId*627#literature*741426#

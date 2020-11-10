@@ -1,0 +1,40 @@
+KCAT	Sus scrofa	0.45	phenylpyruvate	*keto-form, kidney
+KCAT	Mus musculus	0.6	enol-phenylpyruvate	*23&Acirc;&deg;C, mutant enzyme P1G
+KCAT	Pseudomonas pavonaceae	1.4	enol-phenylpyruvate	*wild-type, pH 9.0
+KCAT	Mus musculus	1.7	enol-phenylpyruvate	*23&Acirc;&deg;C, mutant enzyme P1A
+KCAT	Pseudomonas pavonaceae	4.1	enol-phenylpyruvate	*mutant E52Q, pH 9.0
+KCAT	Mus musculus	30	enol-phenylpyruvate	*23&Acirc;&deg;C, pH 6.5, mutant enzyme K32A
+KCAT	Mus musculus	33	enol-phenylpyruvate	*pH 9.0
+KCAT	Mus musculus	38	enol-phenylpyruvate	*pH 6.8
+KCAT	Mus musculus	109	enol-phenylpyruvate	*23&Acirc;&deg;C, mutant enzyme Y95F
+KCAT	Mus musculus	150	enol-phenylpyruvate	*23&Acirc;&deg;C, pH 6.5, mutant enzyme K32R
+KCAT	Mus musculus	200	enol-phenylpyruvate	*mutant E16A, pH 6.8
+KCAT	Mus musculus	290	enol-phenylpyruvate	*23&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	320	enol-phenylpyruvate	*23&Acirc;&deg;C, pH 6.5, wild-type enzyme
+KCAT	Mus musculus	410	enol-phenylpyruvate	*23&Acirc;&deg;C, wild-type enzyme
+KCAT	Mus musculus	660	enol-phenylpyruvate	*23&Acirc;&deg;C, mutant enzyme N97A
+KCAT	Mycolicibacterium smegmatis	0.2	phenylenolpyruvate	*wild type enzyme cis-CAAD, in 10 mM Na2HPO4 buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Mycolicibacterium smegmatis	0.8	phenylenolpyruvate	*mutant enzyme CCH2-P1A, in 10 mM Na2HPO4 buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Mycolicibacterium smegmatis	34	phenylenolpyruvate	*wild type enzyme CCH2, in 10 mM Na2HPO4 buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Mus musculus	0.8	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, mutant enzyme P1G
+KCAT	Mus musculus	4.1	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5, mutant enzyme P1A
+KCAT	Mus musculus	15	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5, mutant enzyme K32A
+KCAT	Mus musculus	58	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5, mutant enzyme N97A
+KCAT	Mus musculus	126	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5, mutant enzyme Y95F
+KCAT	Mus musculus	140	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5, wild-type enzyme
+KCAT	Mus musculus	160	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5, mutant enzyme K32R
+KCAT	Mus musculus	160	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	160	enol-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5, wild-type enzyme
+KCAT	Sus scrofa	0.052	(4-hydroxyphenyl)pyruvate	*enol-form, kidney
+KCAT	Sus scrofa	1.89	(4-hydroxyphenyl)pyruvate	*keto-form, kidney
+KCAT	Homo sapiens	0.03	keto-(p-hydroxyphenyl)pyruvate	*25&Acirc;&deg;C, pH 6.0, mutant enzyme P1(A)M2
+KCAT	Homo sapiens	0.93	keto-(p-hydroxyphenyl)pyruvate	*25&Acirc;&deg;C, pH 6.0, mutant enzyme P1G
+KCAT	Homo sapiens	2.7	keto-(p-hydroxyphenyl)pyruvate	*25&Acirc;&deg;C, pH 6.0, wild-type enzyme
+KCAT	Homo sapiens	6.08	keto-(p-hydroxyphenyl)pyruvate	*25&Acirc;&deg;C, pH 6.0, mutant enzyme P1G
+KCAT	Mus musculus	120	keto-(p-hydroxyphenyl)pyruvate	*23&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	285	keto-phenylpyruvate	*23&Acirc;&deg;C, pH 6.5
+KCAT	Mycolicibacterium smegmatis	0.2	(4-hydroxyphenyl)enolpyruvate	*wild type enzyme CCH2-P1A, in 10 mM Na2HPO4 buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Mycolicibacterium smegmatis	3.2	(4-hydroxyphenyl)enolpyruvate	*wild type enzyme CCH2, in 10 mM Na2HPO4 buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Mus musculus	60	4-(hydroxyphenyl)pyruvate	*mutant E16A, pH 6.8
+KCAT	Mycolicibacterium smegmatis	0.0004	trans-3-chloroacrylate	*wild type enzyme CCH2, in in 50 mM Tris-SO4 buffer (pH 8.0), at 22&Acirc;&deg;C
+KCAT	Mycolicibacterium smegmatis	4.6	cis-3-chloroacrylate	*wild type enzyme cis-CAAD, in 10 mM Na2HPO4 buffer, pH 7.3, at 22&Acirc;&deg;C

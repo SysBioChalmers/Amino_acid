@@ -1,0 +1,4 @@
+KCAT	Oxalobacter formigenes	4.3	oxalate	*
+KCAT	Acetobacter aceti	5	oxalate	*in 50 mM potassium phosphate, pH 6.7, at 25&Acirc;&deg;C
+KCAT	Oxalobacter formigenes	4.3	formyl-CoA	*
+KCAT	Acetobacter aceti	4.5	formyl-CoA	*in 50 mM potassium phosphate, pH 6.7, at 25&Acirc;&deg;C

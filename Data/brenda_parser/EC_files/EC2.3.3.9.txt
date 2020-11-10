@@ -1,0 +1,13 @@
+KCAT	Mycobacterium tuberculosis	23	acetyl-CoA	*wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	26.7	acetyl-CoA	*
+KCAT	Bacillus sp. (in: Bacteria)	27.8	acetyl-CoA	*
+KCAT	Colwellia maris	60.7	acetyl-CoA	*at 20&Acirc;&deg;C
+KCAT	Colwellia maris	161	acetyl-CoA	*at 45&Acirc;&deg;C
+KCAT	Escherichia coli	3.19	glyoxylate	*mutant R338K, pH 8.0, 37&Acirc;&deg;C
+KCAT	Euglena gracilis	14	glyoxylate	*N-terminal malate synthase-active domain GCE(13-573) of glyoxylate cycle enzyme, at 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Euglena gracilis	17	glyoxylate	*wild type full-length glyoxylate cycle enzyme, at 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Mycobacterium tuberculosis	23	glyoxylate	*wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	42.4	glyoxylate	*mutant C617S, pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	48.1	glyoxylate	*wild-type, pH 8.0, 37&Acirc;&deg;C
+KCAT	Pseudomonas putida	-999	more	*
+KCAT	Saccharomyces cerevisiae	-999	more	*

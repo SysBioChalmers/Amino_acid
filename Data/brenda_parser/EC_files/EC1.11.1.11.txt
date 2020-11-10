@@ -1,0 +1,49 @@
+KCAT	Pisum sativum	-999	more	*substrate: guaiacol, effects of Cys32Ser mutagenesis and DTNB-modification
+KCAT	Galdieria partita	-999	more	*of recombinant enzyme-B produced in E. coli
+KCAT	Saccharomyces cerevisiae	0.2	ascorbate	*CCP2APX
+KCAT	Panicum virgatum	0.4	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 7.0, temperature not specified in the publication. Hill coefficient n is 1.0
+KCAT	Leishmania major	0.53	ascorbate	*25&deg;C, wild-type enzyme
+KCAT	Pisum sativum	1.5	guaiacol	*pH 7.0, 25&deg;C, mutant H42E
+KCAT	Populus tomentosa	1.74	L-ascorbate	*25&deg;C
+KCAT	Leishmania major	1.83	cytochrome c	*25&deg;C, wild-type enzyme
+KCAT	Populus tomentosa	2.03	H2O2	*25&deg;C
+KCAT	Leishmania major	2.5	guaiacol	*25&deg;C, wild-type enzyme
+KCAT	Pisum sativum	3.9	L-ascorbate	*pH 7.0, 25&deg;C, mutant H42E
+KCAT	Populus tomentosa	29.7	H2O2	*pH 7.0, temperature not specified in the publication
+KCAT	Gossypium hirsutum	46.71	H2O2	*
+KCAT	Populus tomentosa	49.6	L-ascorbate	*pH 7.0, temperature not specified in the publication
+KCAT	Pisum sativum	66	guaiacol	*pH 7.0, 25&deg;C, wild-type
+KCAT	Citrus limon	71.5	L-ascorbate	*pH 7.4, 37&deg;C
+KCAT	Citrus limon	84.5	H2O2	*pH 7.4, 37&deg;C
+KCAT	Pisum sativum	156	L-ascorbate	*mutant S160M, pH 7.0, 25&deg;C
+KCAT	Pisum sativum	159	L-ascorbate	*wild-type, pH 7.0, 25&deg;C
+KCAT	Pisum sativum	160	pyrogallol	*wild-type, Cys32Ser mutant and DTNB-modified enzyme
+KCAT	Panicum virgatum	161	L-ascorbate	*pH 7.0, temperature not specified in the publication. Non-Michaelis-Menten kinetics, Hill ccoefficient n is 1.6
+KCAT	Pisum sativum	248	L-ascorbate	*pH 7.0, 25&deg;C, wild-type
+KCAT	Gossypium hirsutum	260	L-ascorbate	*
+KCAT	Euglena gracilis	577	H2O2	*recombinant full length enzyme, in 50 mM potassium phosphate buffer, pH 7.0, at 22&deg;C
+KCAT	Chlorella vulgaris	696	ascorbate	*
+KCAT	Euglena gracilis	754	L-ascorbate	*recombinant full length enzyme, in 50 mM potassium phosphate buffer, pH 7.0, at 22&deg;C
+KCAT	Pallavicinia lyellii	760	L-ascorbate	*in 50 mM potassium phosphate (pH 7.0), at 22&deg;C
+KCAT	Galdieria partita	1230	H2O2	*mutant enzyme C25S
+KCAT	Galdieria partita	1310	H2O2	*mutant enzyme C25S/C121S
+KCAT	Galdieria partita	1490	L-ascorbate	*mutant enzyme C25S/C121S
+KCAT	Galdieria partita	1570	L-ascorbate	*mutant enzyme C25S
+KCAT	Nicotiana tabacum	1580	H2O2	*mutant enzyme C26S
+KCAT	Nicotiana tabacum	1580	H2O2	*mutant enzyme C26S
+KCAT	Nicotiana tabacum	1630	H2O2	*mutant enzyme C126A
+KCAT	Nicotiana tabacum	1710	L-ascorbate	*mutant enzyme C126A
+KCAT	Nicotiana tabacum	1730	H2O2	*mutant enzyme C26S/C126A
+KCAT	Nicotiana tabacum	1800	H2O2	*wild-type enzyme
+KCAT	Nicotiana tabacum	1800	H2O2	*wild-type enzyme
+KCAT	Nicotiana tabacum	1910	L-ascorbate	*mutant enzyme C26S/W35F/C126A
+KCAT	Galdieria partita	1980	L-ascorbate	*wild-type enzyme
+KCAT	Nicotiana tabacum	2040	L-ascorbate	*mutant enzyme C26S
+KCAT	Nicotiana tabacum	2040	L-ascorbate	*mutant enzyme C26S
+KCAT	Galdieria partita	2190	H2O2	*wild-type enzyme
+KCAT	Nicotiana tabacum	2400	L-ascorbate	*mutant enzyme C26S/C126A
+KCAT	Nicotiana tabacum	2510	L-ascorbate	*wild-type enzyme
+KCAT	Nicotiana tabacum	2510	L-ascorbate	*wild-type enzyme
+KCAT	Nicotiana tabacum	2833	L-ascorbate	*mutant enzyme W35F
+KCAT	Nicotiana tabacum	3280	H2O2	*mutant enzyme C26S/W35F/C126A
+KCAT	Nicotiana tabacum	3410	H2O2	*mutant enzyme W35F

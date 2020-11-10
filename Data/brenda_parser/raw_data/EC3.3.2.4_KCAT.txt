@@ -1,0 +1,1 @@
+ecNumber*3.3.2.4#turnoverNumber*317#turnoverNumberMaximum*#substrate*L-trans-2,3-epoxysuccinate#commentary*#organism*Pseudomonas putida#ligandStructureId*20765#literature*137158#!ecNumber*3.3.2.4#turnoverNumber*83.3#turnoverNumberMaximum*#substrate*D-trans-2,3-epoxysuccinate#commentary*#organism*Pseudomonas putida#ligandStructureId*46244#literature*137158#

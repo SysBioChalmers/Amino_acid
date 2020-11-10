@@ -1,0 +1,1 @@
+KCAT	Xenorhabdus nematophila	5.1	2-oxoglutarate	*pH 7.8, 25&deg;C

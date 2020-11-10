@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	39	oxepin-CoA	*pH and temperature not specified in the publication

@@ -1,0 +1,65 @@
+KCAT	Escherichia coli	-999	more	*turnover of duplex oligonucleotides and mismatched duplexes
+KCAT	Escherichia coli	0.000075	DNA containing 8-oxo-guanine residues mispaired to adenine	*mutant R108A
+KCAT	Escherichia coli	0.00011	DNA containing 8-oxo-guanine residues mispaired to adenine	*wild-type
+KCAT	Escherichia coli	0.000167	DNA containing 8-hydroxyguanine residues	*pH 7.8, 37&deg;C, 34-oligomer, K57G mutant Fpg
+KCAT	Homo sapiens	0.00025	DNA containing 7-methyl-8-oxo-2'-deoxyguanosine	*
+KCAT	Escherichia coli	0.0003	DNA containing 8-oxo-guanine residues	*mutant R108A
+KCAT	Escherichia coli	0.0003	DNA containing 8-oxo-guanine residues mispaired to thymine	*mutant R108A
+KCAT	Homo sapiens	0.00037	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, mutant S326C
+KCAT	Escherichia coli	0.00038	DNA containing 8-oxo-guanine residues mispaired to guanine	*mutant R108A
+KCAT	Escherichia coli	0.000383	DNA containing 7-hydro-8-oxoguanine residues	*pH 7.5, 37&deg;C, 24-oligomer, K155A mutant Fpg
+KCAT	Escherichia coli	0.00045	DNA containing 8-thio-2'-deoxyguanosine	*
+KCAT	Homo sapiens	0.00045	DNA containing 8-thio-2'-deoxyguanosine	*
+KCAT	Homo sapiens	0.00047	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, mutant D322N
+KCAT	Homo sapiens	0.00048	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, mutant S280E
+KCAT	Homo sapiens	0.0005	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, wild-type enzyme
+KCAT	Escherichia coli	0.00051	DNA containing 7-methyl-8-oxo-2'-deoxyguanosine	*
+KCAT	Homo sapiens	0.00053	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, mutant S326E
+KCAT	Homo sapiens	0.00065	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, mutant S232E
+KCAT	Homo sapiens	0.00068	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, mutant S231E/S232E
+KCAT	Homo sapiens	0.0007	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, mutant S231E
+KCAT	Homo sapiens	0.00078	DNA containing 7-deaza-2'-deoxyguanosine	*
+KCAT	Homo sapiens	0.00092	8-oxo-7,8-dihydroguanine:Cyt oligodeoxynucleotide	*pH 7.4-7.5, mutant A288V
+KCAT	Escherichia coli	0.0012	DNA containing ring-opened N7-methylguanine residues	*pH 7.5, 37&deg;C, 23-oligomer, K155A mutant Fpg
+KCAT	Escherichia coli	0.00167	DNA containing 8-hyroxyguanine	*pH 7.8, 37&deg;C, 34-oligomer, K57R mutant Fpg
+KCAT	Escherichia coli	0.002	DNA containing ring-opened N7-methylguanine residues	*pH 7.8, 37&deg;C, K57G and K57R mutant Fpg
+KCAT	Escherichia coli	0.0035	DNA containing 8-oxo-guanine residues	*mutant H89A/R109A
+KCAT	Escherichia coli	0.0035	DNA containing 8-oxo-guanine residues mispaired to guanine	*wild-type
+KCAT	Escherichia coli	0.00383	DNA containing ring-opened N7-methylguanine residues	*pH 7.5, 37&deg;C, 23-oligomer, wild-type Fpg
+KCAT	Escherichia coli	0.004	DNA containing 5,6-dihydrouracil	*mutant H89A/R109A
+KCAT	Escherichia coli	0.004	DNA containing 8-oxo-guanine residues	*mutant K217T
+KCAT	Escherichia coli	0.0047	DNA containing 8-oxo-guanine residues mispaired to thymine	*wild-type
+KCAT	Escherichia coli	0.005	DNA containing 8-oxo-guanine residues	*wild-type
+KCAT	Escherichia coli	0.0053	DNA containing 5,6-dihydrouracil	*mutant R108A; mutant R109A
+KCAT	Escherichia coli	0.0059	DNA containing 8-oxo-guanine residues	*mutant R109A
+KCAT	Escherichia coli	0.0065	13mer oligonucleotide duplex containing 8-oxoguanine	*mutant R244E, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.0067	DNA containing 8-oxo-guanine residues	*mutant H89A
+KCAT	Escherichia coli	0.00717	DNA containing 8-hydroxyguanine residues	*pH 7.8, 37&deg;C, 34-oligomer, wild-type Fpg
+KCAT	Escherichia coli	0.00833	DNA containing ring-opened N7-methylguanine residues	*pH 7.8, 37&deg;C, wild-type Fpg
+KCAT	Escherichia coli	0.009	13mer oligonucleotide duplex containing 8-oxoguanine	*15&deg;C
+KCAT	Escherichia coli	0.0093	DNA containing 5,6-dihydrouracil	*mutant K217A
+KCAT	Escherichia coli	0.0106	13mer oligonucleotide duplex containing 8-oxoguanine	*17.5&deg;C
+KCAT	Escherichia coli	0.011	DNA containing 5,6-dihydrouracil	*wild-type
+KCAT	Escherichia coli	0.0133	13mer oligonucleotide duplex containing 8-oxoguanine	*mutant S208A, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.0148	13mer oligonucleotide duplex containing 8-oxoguanine	*20&deg;C
+KCAT	Escherichia coli	0.0148	13mer oligonucleotide duplex containing 8-oxoguanine	*mutant Q234R/R244E, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.015	DNA containing 5,6-dihydrouracil	*mutant H89A
+KCAT	Escherichia coli	0.0153	13mer oligonucleotide duplex containing 8-oxoguanine	*mutant Q234R, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.0185	DNA containing 7-hydro-8-oxoguanine residues	*pH 7.5, 37&deg;C, 24-oligomer, wild-type Fpg
+KCAT	Homo sapiens	0.02	5,6-dihydrouracil-DNA	*NEIL1
+KCAT	Escherichia coli	0.0202	13mer oligonucleotide duplex containing 8-oxoguanine	*22.5&deg;C
+KCAT	Escherichia coli	0.025	DNA containing 7-hydro-8-oxoguanine residues	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	0.0273	13mer oligonucleotide duplex containing 8-oxoguanine	*25&deg;C
+KCAT	Escherichia coli	0.0283	13mer oligonucleotide duplex containing 8-oxoguanine	*wild-type, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.03	DNA containing 8-hydroxyguanine residues	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.043	DNA containing 8-oxo-2'-deoxyguanosine	*
+KCAT	Escherichia coli	0.05	DNA	*pH 7.5, 25&deg;C, DNA containing an apurininc/apyrimidinic site
+KCAT	Escherichia coli	0.053	DNA containing 7-deaza-2'-deoxyguanosine	*
+KCAT	Escherichia coli	0.0568	DNA	*pH 7.5, 20&deg;C, 24-oligomer DNA containing AP sites, lyase activity, wild-type Fpg
+KCAT	Escherichia coli	0.066	DNA containing 8-oxo-2'-deoxyguanosine	*
+KCAT	Escherichia coli	0.07	23mer oligonucleotide duplex containing 8-oxoguanine	*mutant R108K, pH 7.5, 30&deg;C
+KCAT	Escherichia coli	0.08	23mer oligonucleotide duplex containing 8-oxoguanine	*mutant R258Q, pH 7.5, 30&deg;C
+KCAT	Escherichia coli	0.085	DNA containing ring-opened N7-methylguanine residues	*pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.0883	DNA	*pH 7.5, 20&deg;C, 24-oligomer DNA containing AP sites, lyase activity, K155A mutant Fpg
+KCAT	Escherichia coli	0.16	23mer oligonucleotide duplex containing 8-oxoguanine	*mutant N168Q, pH 7.5, 30&deg;C
+KCAT	Escherichia coli	1.7	23mer oligonucleotide duplex containing 8-oxoguanine	*wild-type, pH 7.5, 30&deg;C

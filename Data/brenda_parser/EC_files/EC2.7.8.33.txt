@@ -1,0 +1,2 @@
+KCAT	Thermotoga maritima	1.2	ditrans,polycis-undecaprenyl phosphate	*pH 8, 65&deg;C
+KCAT	Thermotoga maritima	1.2	UDP-N-acetyl-D-glucosamine	*pH 8, 65&deg;C

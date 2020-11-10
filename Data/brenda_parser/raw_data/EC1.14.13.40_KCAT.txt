@@ -1,0 +1,1 @@
+ecNumber*1.14.13.40#turnoverNumber*70.8#turnoverNumberMaximum*#substrate*2-aminobenzoyl-CoA#commentary*#organism*Pseudomonas sp.#ligandStructureId*3586#literature*438851#

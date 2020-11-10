@@ -1,0 +1,1 @@
+ecNumber*1.1.1.351#turnoverNumber*325#turnoverNumberMaximum*#substrate*6-phospho-D-gluconate#commentary*with NADP+ as cosubstrate, in 50 mM HEPES buffer (pH 7.5), at 80&Acirc;&deg;C#organism*Thermotoga maritima#ligandStructureId*830#literature*700013#

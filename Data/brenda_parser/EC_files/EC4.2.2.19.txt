@@ -1,0 +1,7 @@
+KCAT	Pedobacter heparinus	4.6	dermatan sulfate	*mutant E333A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pedobacter heparinus	29	dermatan sulfate	*mutant H272A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pedobacter heparinus	87	dermatan sulfate	*recombinant enzyme, pH 8.0, 30&Acirc;&deg;C, dependent on expression system
+KCAT	Pedobacter heparinus	190	dermatan sulfate	*wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pedobacter heparinus	210	dermatan sulfate	*recombinant wild-type enzyme, pH 8.0, 30&Acirc;&deg;C, in presence of 0.01 mM Ca2+
+KCAT	Pedobacter heparinus	404	dermatan sulfate	*mutant R363A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pedobacter heparinus	410	dermatan sulfate	*recombinant wild-type enzyme, pH 8.0, 30&Acirc;&deg;C, in presence of 5 mM Ca2+

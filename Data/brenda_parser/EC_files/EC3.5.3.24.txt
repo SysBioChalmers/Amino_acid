@@ -1,0 +1,2 @@
+KCAT	Thermococcus kodakarensis	0.00186	agmatine	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	0.001	N1-aminopropylagmatine	*pH 7.5, 70&Acirc;&deg;C

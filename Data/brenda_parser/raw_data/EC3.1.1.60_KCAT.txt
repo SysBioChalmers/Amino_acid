@@ -1,0 +1,1 @@
+ecNumber*3.1.1.60#turnoverNumber*0.0000833#turnoverNumberMaximum*#substrate*bis(2-ethylhexyl)phthalate#commentary*#organism*Triticum aestivum#ligandStructureId*10607#literature*170988#

@@ -1,0 +1,11 @@
+KCAT	Homo sapiens	0.0001	glycine	*pH 7.0, 25&Acirc;&deg;C, recombinant individually expressed wild-type enzyme
+KCAT	Homo sapiens	0.00014	glycine	*pH 7.0, 25&Acirc;&deg;C, recombinant individually expressed wild-type enzyme in presence of lipoic acid
+KCAT	Homo sapiens	0.016	glycine	*pH 7.0, 25&Acirc;&deg;C, recombinant individually expressed wild-type enzyme in presence of lipoylated H-protein
+KCAT	Homo sapiens	0.019	glycine	*pH 7.0, 25&Acirc;&deg;C, recombinant individually expressed wild-type enzyme in presence of H-protein
+KCAT	Homo sapiens	0.031	glycine	*pH 7.0, 25&Acirc;&deg;C, recombinant coexpressed wild-type enzyme
+KCAT	Homo sapiens	0.033	glycine	*pH 7.0, 25&Acirc;&deg;C, recombinant coexpressed wild-type enzyme in presence of H-protein
+KCAT	Homo sapiens	0.047	glycine	*pH 7.0, 25&Acirc;&deg;C, recombinant coexpressed wild-type enzyme in presence of lipoylated H-protein
+KCAT	Trichomonas vaginalis	0.602	Lipoamide	*kinetic parameter for L protein
+KCAT	Trichomonas vaginalis	6.08	Lipoamide	*kinetic parameter for L protein
+KCAT	Trichomonas vaginalis	0.84	rTvH1 protein	*kinetic parameter for L protein
+KCAT	Trichomonas vaginalis	2.08	rTvH2 protein	*kinetic parameter for L protein

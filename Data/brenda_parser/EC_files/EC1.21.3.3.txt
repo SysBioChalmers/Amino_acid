@@ -1,0 +1,14 @@
+KCAT	Eschscholzia californica	0.0025	(S)-scoulerine	*
+KCAT	Eschscholzia californica	0.054	(S)-reticuline	*mutant E417Q
+KCAT	Eschscholzia californica	0.48	(S)-reticuline	*pH 9.0, 37&deg;C, recombinant mutant C166A
+KCAT	Eschscholzia californica	0.48	(S)-reticuline	*mutant C166A
+KCAT	Eschscholzia californica	0.54	(S)-reticuline	*mutant H104A
+KCAT	Eschscholzia californica	0.7	(S)-reticuline	*mutant Y106F
+KCAT	Eschscholzia californica	3.1	(S)-reticuline	*mutant H459A
+KCAT	Eschscholzia californica	5.4	(S)-reticuline	*wild-type, 25&deg;C, pH 9.0
+KCAT	Eschscholzia californica	8	(S)-reticuline	*wild-type
+KCAT	Eschscholzia californica	8	(S)-reticuline	*wild-type enzyme
+KCAT	Eschscholzia californica	8	(S)-reticuline	*
+KCAT	Eschscholzia californica	8.2	(S)-reticuline	*pH 9.0, 37&deg;C
+KCAT	Eschscholzia californica	10.5	O2	*wild-type, 25&deg;C, pH 9.0
+KCAT	Eschscholzia californica	103	(S)-reticuline	*pH 9.0, 37&deg;C, recombinant wild-type enzyme

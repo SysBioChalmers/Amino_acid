@@ -1,0 +1,2 @@
+KCAT	Sinorhizobium sp.	11.2	L-sorbose	*at pH 8.5 and 40&Acirc;&deg;C
+KCAT	Sinorhizobium sp.	14.1	1,5-anhydro-D-glucitol	*at pH 8.5 and 40&Acirc;&deg;C

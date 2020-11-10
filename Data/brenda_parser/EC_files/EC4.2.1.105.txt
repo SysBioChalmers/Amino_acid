@@ -1,0 +1,6 @@
+KCAT	Glycyrrhiza echinata	0.12	2,7,4'-trihydroxyisoflavanone	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Glycine max	5.3	2,7,4'-trihydroxyisoflavanone	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Glycine max	1.6	2,7-dihydroxy-4'-methoxyisoflavanone	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Glycyrrhiza echinata	9.8	2,7-dihydroxy-4'-methoxyisoflavanone	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Glycyrrhiza echinata	0.19	2,5,7,4'-tetrahydroxyisoflavanone	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Glycine max	18.1	2,5,7,4'-tetrahydroxyisoflavanone	*pH 7.5, 30&Acirc;&deg;C

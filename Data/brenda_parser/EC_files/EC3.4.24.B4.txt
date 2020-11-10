@@ -1,0 +1,2 @@
+KCAT	Mus musculus	4.34	Y(NO2)GGPAGLYEK(Abz)G	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	-999	more	*

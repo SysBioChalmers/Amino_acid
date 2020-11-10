@@ -1,0 +1,7 @@
+KCAT	Pseudomonas sp. ZZ-5	1.3	NADH	*pH 8.5, 30&deg;C
+KCAT	Pseudomonas putida	2	NADH	*pH 8.0, 25&deg;C
+KCAT	Pseudomonas sp. ZZ-5	2.1	4-(6-hydroxypyridin-3-yl)-4-oxobutanoate	*pH 8.5, 30&deg;C
+KCAT	Pseudomonas putida	5.49	NADH	*pH 8.0, 25&deg;C, recombinant His-tagged enzyme
+KCAT	Pseudomonas putida	7.74	4-(6-hydroxypyridin-3-yl)-4-oxobutanoate	*pH 8.0, 25&deg;C, recombinant His-tagged enzyme
+KCAT	Ochrobactrum sp.	17.5	NADH	*pH 8.0, 25&deg;C, recombinant His-tagged enzyme
+KCAT	Ochrobactrum sp.	21.6	4-(6-hydroxypyridin-3-yl)-4-oxobutanoate	*pH 8.0, 25&deg;C, recombinant His-tagged enzyme

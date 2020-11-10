@@ -1,0 +1,34 @@
+KCAT	Human immunodeficiency virus 2	0.000025	DKELYPLTSL	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.0000333	VLQNYPIVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00005	RPQNFLQSRP	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.0001	CTLNFPISP	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.000183	KPRNFPVAQV	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.000217	IPFAA-AQQRK	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00025	KARVL-AEAMS	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.000267	AETF YVDGAA	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.000333	IRKILFLDG	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.000333	KARLM AEALK	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.000333	MSLNLPVAKV	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00055	EKGGNYPVQHV	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.000717	RGLAAPQFSL	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.000967	L-threonyl-L-alanyl-L-threonyl-L-isoleucyl-L-methionyl-L-methionyl-L-glutaminyl-L-arginylglycyl-L-asparagine	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.0011	VSQLYPIVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00167	Ac-Tyr-Arg-Ala-Arg-Val-Phe Nph-Val-Arg-Ala-Ala-Lys	*pH 4.7, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00172	VSQNYPIVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00213	VSQNYPIVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00283	AETF YVDGAA	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00303	VSQNYPLVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00722	Lys-Ala-Arg-Ile-Nle-Nph-Glu-Ala-Nle-NH2	*pH 4.7, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.00917	EKGGNYPVQHV	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.0117	KPRNFPVAQV	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.06	VLQNYPIVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.16	VVQNYPIVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.3	IPFAAAQQRK	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.3	KARLMAEALK	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	0.4	VSQLYPIVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	2.6	VSQVYPIVQ	*pH 5.6, 37&deg;C
+KCAT	Human immunodeficiency virus 2	3	NH2-ATLNFPSPW-COOH	*pH 5.5, 37&deg;C
+KCAT	Human immunodeficiency virus 2	4.33	NH2-ATLNFPSPW-COOH	*pH 5.5, 37&deg;C, mutant K7Q
+KCAT	Human immunodeficiency virus 2	5.3	Lys-Ala-Arg-Val-Nle-p-nitrophenylalanine-Glu-Ala-Nle-NH2	*
+KCAT	Human immunodeficiency virus 2	5.6	Lys-Ala-Arg-Val-Nle-(4-nitrophenylalanine)-Glu-Ala-Nle	*mutant E37K2, pH 5.0, 28&deg;C
+KCAT	Human immunodeficiency virus 2	6.4	Lys-Ala-Arg-Val-Nle-(4-nitrophenylalanine)-Glu-Ala-Nle	*wild-type PR2, pH 5.0, 28&deg;C

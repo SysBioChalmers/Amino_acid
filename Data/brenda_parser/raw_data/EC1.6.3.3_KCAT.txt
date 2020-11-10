@@ -1,0 +1,1 @@
+ecNumber*1.6.3.3#turnoverNumber*115#turnoverNumberMaximum*#substrate*beta-NADH#commentary*pH and temperature not specified in the publication#organism*Pyrococcus horikoshii#ligandStructureId*3988#literature*721957#

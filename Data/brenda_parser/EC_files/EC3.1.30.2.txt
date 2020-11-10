@@ -1,0 +1,3 @@
+KCAT	Serratia marcescens	0.44	B-Z-hybrid form DNA	*pH 8.0, 30&Acirc;&deg;C, in presence of Mg2+
+KCAT	Serratia marcescens	1.2	B-Z-hybrid form DNA	*pH 8.0, 30&Acirc;&deg;C, in presence of Co(NH3)6 3+
+KCAT	Serratia marcescens	737.6	B-form DNA	*pH 8.0, 30&Acirc;&deg;C, in presence of Mg2+

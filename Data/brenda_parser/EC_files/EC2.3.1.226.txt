@@ -1,0 +1,2 @@
+KCAT	Pectobacterium carotovorum	1.7	malonyl-CoA	*pH 7.8, 22&Acirc;&deg;C
+KCAT	Pectobacterium carotovorum	1.52	(S)-1-pyrroline-5-carboxylate	*pH 7.8, 22&Acirc;&deg;C

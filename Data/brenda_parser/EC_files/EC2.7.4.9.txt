@@ -1,0 +1,44 @@
+KCAT	Homo sapiens	0.003	3'-azido-3'-deoxythymidine 5'-monophosphate	*wild-type enzyme fused to the protein transduction domain of Tat
+KCAT	Homo sapiens	0.01	3'-azido-3'-deoxythymidine 5'-monophosphate	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.012	3'-azido-3'-deoxythymidine 5'-monophosphate	*wild-type
+KCAT	Homo sapiens	0.03	3'-fluoro-3'-deoxythymidine 5'-monophosphate	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.03	ddTMP	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.058	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-5-bromouracil	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.074	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-uracil	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.09	2',3'-didehydro-2',3'-dideoxythymidine 5'-monophosphate	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.09	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-5-fluorouracil	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.1	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-5-chlorouracil	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.14	3'-amino-3'-deoxythymidine 5'-monophosphate	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.14	dTMP	*mutant F105Y fused to the protein transduction domain of Tat
+KCAT	Homo sapiens	0.17	3'-azido-3'-deoxythymidine 5'-monophosphate	*mutant F105Y fused to the protein transduction domain of Tat
+KCAT	Homo sapiens	0.17	dTMP	*mutant F105Y
+KCAT	Homo sapiens	0.27	3'-azido-3'-deoxythymidine 5'-monophosphate	*mutant F105Y
+KCAT	Homo sapiens	0.32	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-thymine	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.4	TMP	*pH 7.5, 25&deg;C
+KCAT	Plasmodium falciparum	0.44	dIMP	*pH 7.2, 30&deg;C
+KCAT	Homo sapiens	0.48	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-uracil	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.5	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-5-chlorouracil	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.6	N1-[(E)-3-dihydroxyphosphonyl-prop-2-enyl]-thymine	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.73	dTMP	*wild-type
+KCAT	Homo sapiens	0.73	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-5-fluorouracil	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	0.76	dTMP	*wild-type enzyme fused to the protein transduction domain of Tat
+KCAT	Homo sapiens	0.83	dTMP	*mutant carrying a substitution of the LID domain in human enzyme by the Escherichia coli LID sequence and mutation of the P-loop Arg residue to Gly and fused to the protein transduction domain of Tat
+KCAT	Homo sapiens	0.84	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-thymine	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Vaccinia virus	0.86	(E)-5-(2-bromovinyl)-deoxyuridine monophosphate	*
+KCAT	Homo sapiens	0.9	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-5-chlorouracil	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	1.1	dTMP	*mutant carrying a substitution of the LID domain in human enzyme by the Escherichia coli LID sequence and mutation of the P-loop Arg residue to Gly
+KCAT	Homo sapiens	1.2	5-bromo-dUMP	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Homo sapiens	1.5	3'-azido-3'-deoxythymidine 5'-monophosphate	*mutant carrying a substitution of the LID domain in human enzyme by the Escherichia coli LID sequence and mutation of the P-loop Arg residue to Gly and fused to the protein transduction domain of Tat
+KCAT	Homo sapiens	1.7	3'-azido-3'-deoxythymidine 5'-monophosphate	*mutant carrying a substitution of the LID domain in human enzyme by the Escherichia coli LID sequence and mutation of the P-loop Arg residue to Gly
+KCAT	Plasmodium falciparum	2.9	dGMP	*pH 7.2, 30&deg;C
+KCAT	Plasmodium falciparum	2.9	dGMP	*
+KCAT	Homo sapiens	3	dTMP	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	white spot syndrome virus	3.16	ATP	*pH 7.5, temperature not specified in the publication
+KCAT	Plasmodium falciparum	3.4	dTMP	*pH 7.2, 30&deg;C
+KCAT	Plasmodium falciparum	3.4	TMP	*
+KCAT	white spot syndrome virus	3.56	dTMP	*pH 7.5, temperature not specified in the publication
+KCAT	Plasmodium falciparum	4.1	dUMP	*pH 7.2, 30&deg;C
+KCAT	Homo sapiens	4.8	dUMP	*at 37&deg;C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+KCAT	Streptococcus pneumoniae	8.9	ATP	*pH 8.5, 25&deg;C
+KCAT	Streptococcus pneumoniae	8.9	dTMP	*pH 8.5, 25&deg;C
+KCAT	Wolbachia endosymbiont of Brugia malayi	38.1	ATP	*pH 7.4, temperature not specified in the publication

@@ -1,0 +1,9 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.62	NAD+	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Sporomusa ovata	0.4	phenol	*pH 9.0, 37&Acirc;&deg;C, wild-type
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	149	NMN	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	0.2	beta-nicotinate D-ribonucleotide	*mutant G257D, at 37&Acirc;&deg;C; mutant G320D, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	0.6	beta-nicotinate D-ribonucleotide	*mutant G171D, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	14	beta-nicotinate D-ribonucleotide	*mutant G257A, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	31	beta-nicotinate D-ribonucleotide	*mutant C160A, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	38	beta-nicotinate D-ribonucleotide	*wild-type, at 37&Acirc;&deg;C
+KCAT	Sporomusa ovata	1.6	5,6-Dimethylbenzimidazole	*pH 9.0, 37&Acirc;&deg;C, wild-type

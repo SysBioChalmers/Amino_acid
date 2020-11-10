@@ -1,0 +1,1 @@
+ecNumber*1.5.98.3#turnoverNumber*25.5#turnoverNumberMaximum*#substrate*reduced coenzyme F420#commentary*at pH 6.8 and 37&Acirc;&deg;C#organism*Methanolobus tindarius#ligandStructureId*1244#literature*742431#

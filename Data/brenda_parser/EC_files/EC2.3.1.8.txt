@@ -1,0 +1,84 @@
+KCAT	Methanosarcina thermophila	1500	phosphate	*25&Acirc;&deg;C, pH 7.2
+KCAT	Methanosarcina thermophila	0.283	CoA	*R87E mutant
+KCAT	Methanosarcina thermophila	0.733	CoA	*R133E mutant
+KCAT	Methanosarcina thermophila	1.42	CoA	*R310Q mutant
+KCAT	Methanosarcina thermophila	1.48	CoA	*C159A mutant
+KCAT	Methanosarcina thermophila	3.3	CoA	*C159A/C277A/C312A/C325A mutant
+KCAT	Methanosarcina thermophila	5.95	CoA	*mutant R287Q
+KCAT	Methanosarcina thermophila	6.1	CoA	*23&Acirc;&deg;C, pH 7.2, mutant enzyme S309C
+KCAT	Methanosarcina thermophila	6.22	CoA	*R87K mutant
+KCAT	Methanosarcina thermophila	6.97	CoA	*R133K mutant
+KCAT	Methanosarcina thermophila	10.5	CoA	*R133A mutant
+KCAT	Methanosarcina thermophila	11	CoA	*23&Acirc;&deg;C, pH 7.2, mutant enzyme R310K
+KCAT	Methanosarcina thermophila	14.5	CoA	*23&Acirc;&deg;C, pH 7.2, mutant enzyme S309A
+KCAT	Methanosarcina thermophila	15.4	CoA	*23&Acirc;&deg;C, pH 7.2, mutant enzyme S309T
+KCAT	Methanosarcina thermophila	19.1	CoA	*R133Q mutant
+KCAT	Methanosarcina thermophila	20.4	CoA	*R87A mutant
+KCAT	Methanosarcina thermophila	23.2	CoA	*R87Q mutant
+KCAT	Methanosarcina thermophila	24.6	CoA	*R87Q mutant
+KCAT	Methanosarcina thermophila	26	CoA	*mutant R28Q
+KCAT	Methanosarcina thermophila	45.6	CoA	*R133Q mutant
+KCAT	Methanosarcina thermophila	53.6	CoA	*C277A/C312A/C325A mutant
+KCAT	Methanosarcina thermophila	53.8	CoA	*wild type
+KCAT	Methanosarcina thermophila	55.4	CoA	*C312A mutant
+KCAT	Methanosarcina thermophila	59.9	CoA	*C325A mutant
+KCAT	Methanosarcina thermophila	69	CoA	*23&Acirc;&deg;C, pH 7.2, mutant enzyme R310Q
+KCAT	Methanosarcina thermophila	73.5	CoA	*C159S mutant
+KCAT	Methanosarcina thermophila	81.3	CoA	*wild-type
+KCAT	Methanosarcina thermophila	87.5	CoA	*wild-type after expression in E. coli
+KCAT	Methanosarcina thermophila	100	CoA	*C277A mutant
+KCAT	Methanosarcina thermophila	230	CoA	*23&Acirc;&deg;C, pH 7.2, mutant enzyme R310A
+KCAT	Salmonella enterica	403	CoA	*37&Acirc;&deg;C, pH 7.5, mutant enzyme M294I, per trimer of His-tagged enzyme
+KCAT	Salmonella enterica	574.5	CoA	*37&Acirc;&deg;C, pH 7.5, wild-type enzyme, per trimer of His-tagged enzyme
+KCAT	Salmonella enterica	1301	CoA	*37&Acirc;&deg;C, pH 7.5, mutant enzyme G273D, per trimer of His-tagged enzyme
+KCAT	Salmonella enterica	1480	CoA	*37&Acirc;&deg;C, pH 7.5, mutant enzyme R252H, per trimer of His-tagged enzyme
+KCAT	Methanosarcina thermophila	2150	CoA	*23&Acirc;&deg;C, pH 7.2, mutant enzyme D316E
+KCAT	Methanosarcina thermophila	5190	CoA	*23&Acirc;&deg;C, pH 7.2, wild-type enzyme
+KCAT	Methanosarcina thermophila	5190	CoA	*25&Acirc;&deg;C, pH 7.2
+KCAT	Escherichia coli	0.03	acetyl-CoA	*mutant Pta-F1, pH 8.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.23	acetyl-CoA	*mutant Pta-F1, pH 8.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.43	acetyl-CoA	*mutant Pta-F1, pH 8.0, 30&Acirc;&deg;C
+KCAT	Salmonella enterica	1.73	acetyl-CoA	*37&Acirc;&deg;C, pH 7.5, wild-type enzyme, per trimer of His-tagged enzyme
+KCAT	Salmonella enterica	25	acetyl-CoA	*37&Acirc;&deg;C, pH 7.5, mutant enzyme R252H, per trimer of His-tagged enzyme
+KCAT	Escherichia coli	29.6	acetyl-CoA	*wild-type, pH 8.0, 30&Acirc;&deg;C
+KCAT	Salmonella enterica	57.9	acetyl-CoA	*37&Acirc;&deg;C, pH 7.5, mutant enzyme M294I, per trimer of His-tagged enzyme; mutant enzyme M294I
+KCAT	Salmonella enterica	83.1	acetyl-CoA	*wild-type enzyme
+KCAT	Escherichia coli	120	acetyl-CoA	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Salmonella enterica	208.9	acetyl-CoA	*mutant enzyme R252H
+KCAT	Salmonella enterica	252.5	acetyl-CoA	*37&Acirc;&deg;C, pH 7.5, mutant enzyme G273D, per trimer of His-tagged enzyme; mutant enzyme G273D
+KCAT	Methanosarcina thermophila	4500	acetyl-CoA	*
+KCAT	Escherichia coli	0.15	acetyl phosphate	*mutant Pta-F1, pH 8.0, 30&Acirc;&deg;C
+KCAT	Methanosarcina thermophila	1.32	acetyl phosphate	*C159A mutant
+KCAT	Escherichia coli	1.56	acetyl phosphate	*mutant Pta-F1, pH 8.0, 30&Acirc;&deg;C
+KCAT	Methanosarcina thermophila	1.63	acetyl phosphate	*R310Q mutant
+KCAT	Escherichia coli	2.16	acetyl phosphate	*mutant Pta-F1, pH 8.0, 30&Acirc;&deg;C
+KCAT	Methanosarcina thermophila	3.03	acetyl phosphate	*C159A/C277A/C312A/C325A mutant
+KCAT	Methanosarcina thermophila	4.93	acetyl phosphate	*R87Q mutant
+KCAT	Methanosarcina thermophila	5.45	acetyl phosphate	*mutant R287Q
+KCAT	Methanosarcina thermophila	12.5	acetyl phosphate	*R133Q mutant
+KCAT	Methanosarcina thermophila	24.1	acetyl phosphate	*mutant R28Q
+KCAT	Methanosarcina thermophila	40.6	acetyl phosphate	*wild type
+KCAT	Methanosarcina thermophila	44.5	acetyl phosphate	*C312A mutant
+KCAT	Methanosarcina thermophila	51.6	acetyl phosphate	*C277A/C312A/C325A mutant
+KCAT	Methanosarcina thermophila	57.6	acetyl phosphate	*C325A mutant
+KCAT	Methanosarcina thermophila	66.3	acetyl phosphate	*C159S mutant
+KCAT	Methanosarcina thermophila	68.5	acetyl phosphate	*wild-type after expression in E. coli
+KCAT	Methanosarcina thermophila	94.9	acetyl phosphate	*C277A mutant
+KCAT	Escherichia coli	227	acetyl phosphate	*wild-type, pH 8.0, 30&Acirc;&deg;C
+KCAT	Salmonella enterica	403.5	acetyl phosphate	*mutant enzyme M294I
+KCAT	Escherichia coli	415	acetyl phosphate	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Salmonella enterica	574.5	acetyl phosphate	*wild-type enzyme
+KCAT	Salmonella enterica	1301	acetyl phosphate	*mutant enzyme G273D
+KCAT	Salmonella enterica	1480	acetyl phosphate	*mutant enzyme R252H
+KCAT	Methanosarcina thermophila	1500	acetyl phosphate	*25&Acirc;&deg;C, pH 7.2
+KCAT	Salmonella enterica	1927	acetyl phosphate	*30&Acirc;&deg;C, calculated per monomer
+KCAT	Methanosarcina thermophila	5190	acetyl phosphate	*25&Acirc;&deg;C, pH 7.2
+KCAT	Methanosarcina thermophila	0.00467	desulfo-CoA	*R133E mutant
+KCAT	Methanosarcina thermophila	0.0125	desulfo-CoA	*R133A mutant
+KCAT	Methanosarcina thermophila	0.133	desulfo-CoA	*R133K mutant
+KCAT	Methanosarcina thermophila	0.383	desulfo-CoA	*R87E mutant
+KCAT	Methanosarcina thermophila	0.467	desulfo-CoA	*R133Q mutant
+KCAT	Methanosarcina thermophila	0.683	desulfo-CoA	*R87K mutant
+KCAT	Methanosarcina thermophila	1.63	desulfo-CoA	*R87Q mutant
+KCAT	Methanosarcina thermophila	3.07	desulfo-CoA	*R87A mutant
+KCAT	Methanosarcina thermophila	4.53	desulfo-CoA	*wild-type

@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	0.0012	adenine in double-stranded RNA	*pH 7.5, 30&deg;C
+KCAT	Homo sapiens	0.0072	8-azaadenine in double-stranded RNA	*pH 7.5, 30&deg;C

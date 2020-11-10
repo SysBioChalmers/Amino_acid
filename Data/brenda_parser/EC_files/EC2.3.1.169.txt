@@ -1,0 +1,5 @@
+KCAT	Carboxydothermus hydrogenoformans	0.00012	acetyl-CoA	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSChDELTAN, acetyl-CoA/CO exchange activity
+KCAT	Methanosarcina thermophila	0.0002	acetyl-CoA	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSD beta, acetyl-CoA/CO exchange activity
+KCAT	Carboxydothermus hydrogenoformans	0.142	acetyl-CoA	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSCh732, acetyl-CoA/CO exchange activity
+KCAT	Moorella thermoacetica	-999	more	*
+KCAT	Moorella thermoacetica	-999	more	*stopped-flow analysis of two steps within the catalytic cycle

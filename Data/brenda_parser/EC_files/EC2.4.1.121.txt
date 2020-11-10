@@ -1,0 +1,4 @@
+KCAT	Pisum sativum	0.49	UDP-glucose	*pH 7.6, 30&deg;C
+KCAT	Pisum sativum	0.53	1-naphthalene acetate	*pH 7.6, 30&deg;C
+KCAT	Pisum sativum	0.72	(indol-3-yl)propionate	*pH 7.6, 30&deg;C
+KCAT	Pisum sativum	2.27	(indol-3-yl)acetate	*pH 7.6, 30&deg;C

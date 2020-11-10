@@ -1,0 +1,1 @@
+ecNumber*1.14.14.76#turnoverNumber*0.01#turnoverNumberMaximum*#substrate*ent-isokaurene#commentary*pH and temperature not specified in the publication#organism*Oryza sativa#ligandStructureId*15211#literature*717607#

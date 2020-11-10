@@ -1,0 +1,1 @@
+KCAT	Acetobacterium woodii	0.008	3,4-dihydroxyphenylpropanoyl-CoA	*pH 7.5, 40&Acirc;&deg;C

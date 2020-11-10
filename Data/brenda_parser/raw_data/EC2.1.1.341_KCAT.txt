@@ -1,0 +1,1 @@
+ecNumber*2.1.1.341#turnoverNumber*0.385#turnoverNumberMaximum*#substrate*vanillate#commentary*wild-type, pH 8.0, 30&deg;C#organism*Sphingobium sp.#ligandStructureId*2155#literature*740443#!ecNumber*2.1.1.341#turnoverNumber*5.76#turnoverNumberMaximum*#substrate*vanillate#commentary*pH 8.0, 30&deg;C#organism*Sphingomonas paucimobilis#ligandStructureId*2155#literature*741347#

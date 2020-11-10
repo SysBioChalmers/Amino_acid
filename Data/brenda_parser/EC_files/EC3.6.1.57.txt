@@ -1,0 +1,5 @@
+KCAT	Campylobacter jejuni	0.27	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	*pH 7.3, 37&Acirc;&deg;C, mutant enzyme N255A
+KCAT	Campylobacter jejuni	2.8	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	*pH 7.3, 37&Acirc;&deg;C, mutant enzyme H17N
+KCAT	Campylobacter jejuni	8.3	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	*pH 7.3, 37&Acirc;&deg;C, mutant enzyme Y78F
+KCAT	Campylobacter jejuni	25	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	*pH 7.3, 37&Acirc;&deg;C, wild-type enzym
+KCAT	Campylobacter jejuni	26.6	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	*pH 7.5, 37&Acirc;&deg;C

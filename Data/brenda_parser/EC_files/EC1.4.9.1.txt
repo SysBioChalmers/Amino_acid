@@ -1,0 +1,64 @@
+KCAT	Paracoccus denitrificans	0.14	methylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaD32N, acceptor phenazine ethosulfate/2,6-dichlorophenolindophenol
+KCAT	Paracoccus denitrificans	0.19	methylamine	*pH 8.5, 30&Acirc;&deg;C, mutant enzyme betaD32N, acceptor phenazine ethosulfate/2,6-dichlorophenolindophenol
+KCAT	Paracoccus denitrificans	0.47	methylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaD32N, acceptor amicyanin
+KCAT	Paracoccus denitrificans	1.2	methylamine	*pH 8.5, 30&Acirc;&deg;C, mutant enzyme betaD32N, acceptor amicyanin
+KCAT	Paracoccus denitrificans	2	methylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55I
+KCAT	Paracoccus denitrificans	13.6	methylamine	*with phenylazine as electron acceptor
+KCAT	Paracoccus denitrificans	14	methylamine	*
+KCAT	Paracoccus denitrificans	18	methylamine	*pH 8.5, 30&Acirc;&deg;C, wild-type enzyme, acceptor phenazine ethosulfate/2,6-dichlorophenolindophenol
+KCAT	Paracoccus denitrificans	20	methylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107V
+KCAT	Paracoccus denitrificans	23	methylamine	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme, acceptor amicyanin
+KCAT	Paracoccus denitrificans	26	methylamine	*pH 8.5, 30&Acirc;&deg;C, wild-type enzyme, acceptor amicyanin
+KCAT	Paracoccus versutus	30	methylamine	*with amicyanin as electron acceptor at pH 7
+KCAT	Paracoccus denitrificans	30	methylamine	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Paracoccus denitrificans	34	methylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107N
+KCAT	Paracoccus denitrificans	35	methylamine	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme, acceptor phenazine ethosulfate/2,6-dichlorophenolindophenol
+KCAT	Paracoccus denitrificans	48.5	methylamine	*with amicyanin as electron acceptor
+KCAT	Paracoccus versutus	55	methylamine	*with amicyanin as electron acceptor at pH 10
+KCAT	Paracoccus denitrificans	77	methylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55A
+KCAT	Paracoccus denitrificans	3.8	benzylamine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Paracoccus denitrificans	22	benzylamine	*
+KCAT	Paracoccus denitrificans	1.5	2,6-dichloroindophenol	*
+KCAT	Paracoccus denitrificans	4.5	ethylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107N
+KCAT	Paracoccus denitrificans	6.2	ethylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107V
+KCAT	Paracoccus denitrificans	13	ethylamine	*
+KCAT	Paracoccus denitrificans	15	ethylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55I
+KCAT	Paracoccus denitrificans	23	ethylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55A
+KCAT	Paracoccus denitrificans	24	ethylamine	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Paracoccus denitrificans	3.1	2-Phenylethylamine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Paracoccus denitrificans	15	K3Fe(CN)6	*
+KCAT	Paracoccus denitrificans	3.1	Propylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107V
+KCAT	Paracoccus denitrificans	4.1	Propylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107N
+KCAT	Paracoccus denitrificans	5.2	Propylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55I
+KCAT	Paracoccus denitrificans	24	Propylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55A
+KCAT	Paracoccus denitrificans	27	Propylamine	*
+KCAT	Paracoccus denitrificans	27	Propylamine	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Paracoccus denitrificans	4.2	Butylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107N
+KCAT	Paracoccus denitrificans	5.4	Butylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55I
+KCAT	Paracoccus denitrificans	5.8	Butylamine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Paracoccus denitrificans	14	Butylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107V
+KCAT	Paracoccus denitrificans	22	Butylamine	*
+KCAT	Paracoccus denitrificans	22	Butylamine	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Paracoccus denitrificans	34	Butylamine	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55A
+KCAT	Paracoccus denitrificans	3.4	1,6-diaminohexane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55I
+KCAT	Paracoccus denitrificans	16	1,6-diaminohexane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107N
+KCAT	Paracoccus denitrificans	17	1,6-diaminohexane	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Paracoccus denitrificans	26	1,6-diaminohexane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107V
+KCAT	Paracoccus denitrificans	43	1,6-diaminohexane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55A
+KCAT	Paracoccus denitrificans	3.4	1,7-Diaminoheptane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55I
+KCAT	Paracoccus denitrificans	15	1,7-Diaminoheptane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107N
+KCAT	Paracoccus denitrificans	19	1,7-Diaminoheptane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107V
+KCAT	Paracoccus denitrificans	27	1,7-Diaminoheptane	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Paracoccus denitrificans	32	1,7-Diaminoheptane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55A
+KCAT	Paracoccus denitrificans	7.1	phenazine ethosulfate	*
+KCAT	Paracoccus denitrificans	3.4	1-aminopentane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107V
+KCAT	Paracoccus denitrificans	4.2	1-aminopentane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme betaI107N
+KCAT	Paracoccus denitrificans	5.4	1-aminopentane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55I
+KCAT	Paracoccus denitrificans	17	1-aminopentane	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Paracoccus denitrificans	20	1-aminopentane	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme alphaF55A
+KCAT	Paracoccus denitrificans	26	phenethylamine	*
+KCAT	Paracoccus versutus	2.3	cytochrome c-550	*
+KCAT	Paracoccus denitrificans	-999	more	*turnover numbers for deuterated substrates
+KCAT	Paracoccus versutus	0.77	amicyanin	*methylamine-reduced MADH, pH 7.5 using a Ca-HEPES puffer
+KCAT	Paracoccus versutus	3.1	amicyanin	*dithionite-reduced MADH, pH 7.5 using a Na,K-phosphate buffer and 0.2 M KCl
+KCAT	Paracoccus versutus	74	amicyanin	*methylamine-reduced MADH, pH 7.5 using a Na,K-phosphate buffer and 0.2 M KCl

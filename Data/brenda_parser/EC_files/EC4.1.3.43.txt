@@ -1,0 +1,88 @@
+KCAT	Paraburkholderia xenovorans	-999	more	*value not detectable for R16A variant of BphI
+KCAT	Paraburkholderia xenovorans	-999	more	*2 and 5fold increases in kcat observed when BphI reaction is conducted in the presence of NAD+ and NADH
+KCAT	Thermus thermophilus	-999	more	*with 4-hydroxy-2-oxopentanoate at 50&deg;C turnover number is increased approximately 4fold
+KCAT	Paraburkholderia xenovorans	0.043	(4R)-4-hydroxy-2-oxopentanoate	*L87W/Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.05	oxaloacetate	*L87N variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	0.08	4-hydroxy-2-oxopentanoate	*with Ca2+ chloride salt, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.08	oxaloacetate	*L87N/Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.089	(4S)-4-hydroxy-2-oxopentanoate	*H20S variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.098	(4R)-4-hydroxy-2-oxopentanoate	*L87N/Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.099	(4S)-4-hydroxy-2-oxopentanoate	*H20A variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.1	4-hydroxy-2-oxopentanoate	*G323L mutant, steady state, absence of BphJ cofactors, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.1	propionaldehyde	*L87N/Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.11	pyruvate	*L87N/Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	0.13	4-hydroxy-2-oxopentanoate	*with Mg2+ chloride salt, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.13	pentaldehyde	*L87A/L89A variant of BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.131	(4R)-4-hydroxy-2-oxopentanoate	*Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.131	(4R)-4-hydroxy-2-oxopentanoate	*Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.132	(4S)-4-hydroxy-2-oxopentanoate	*Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.132	(4S)-4-hydroxy-2-oxopentanoate	*Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.14	pentaldehyde	*Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.14	propionaldehyde	*L87W/Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.16	Butyraldehyde	*Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.16	propionaldehyde	*Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.16	pyruvate	*L87W/Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.17	(4R)-4-hydroxy-2-oxopentanoate	*Y290S variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.171	(4S)-4-hydroxy-2-oxopentanoate	*Y290S variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.19	pyruvate	*Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.2	acetaldehyde	*Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.26	Butyraldehyde	*L87A variant of BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.27	4-hydroxy-2-oxohexanoate	*G323L mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.27	oxaloacetate	*Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.286	4-hydroxy-2-oxopentanoate	*G322L mutant, steady state, absence of BphJ cofactors, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.29	propionaldehyde	*L87A variant of BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.3	acetaldehyde	*L87N/Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.3	Butyraldehyde	*L87A/L89A variant of BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.32	pyruvate	*L87A variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.34	4-hydroxy-2-oxopentanoate	*G323A mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.4	glycolaldehyde	*app. kcat-value with pyruvate as carbonyl donor, pH 8.0 and 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.4	oxaloacetate	*L87W/Y290F variant of BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.45	4-hydroxy-2-oxopentanoate	*G322F mutant, steady state, absence of BphJ cofactors, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.46	4-hydroxy-2-oxohexanoate	*G323A mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	0.5	4-hydroxy-2-oxohexanoate	*TTHB246-TTHB247 complex, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	0.57	4-hydroxy-2-oxopentanoate	*with Mn2+ chloride salt, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.58	pentaldehyde	*L89A variant of BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.59	acetaldehyde	*L87W/Y290F variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	0.6	4-hydroxy-2-oxopentanoate	*TTHB246-TTHB247 complex, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.63	4-hydroxy-2-oxoheptanoate	*pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.63	propionaldehyde	*L89A variant of BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.64	4-hydroxy-2-oxopentanoate	*G323L mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.64	Butyraldehyde	*L89A variant of BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.64	pyruvate	*L89A variant of BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.72	4-hydroxy-2-oxopentanoate	*G323F mutant, steady state, absence of BphJ cofactors, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.79	4-hydroxy-2-oxopentanoate	*wild-type protein, steady state, absence of BphJ cofactors, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	0.79	4-hydroxy-2-oxopentanoate	*with Ni2+ chloride salt, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.86	acetaldehyde	*app. kcat-value with pyruvate as carbonyl donor, pH 8.0 and 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.86	acetaldehyde	*wild-type BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.86	acetaldehyde	*wild-type BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.94	4-hydroxy-2-oxohexanoate	*G322L mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.94	acetaldehyde	*L89A variant of BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	1	4-hydroxy-2-oxopentanoate	*single TTHB246, 1 mM MnCl2, pH 8.0, 25&deg;C; with Co2+ chloride salt, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.04	pyruvate	*steady-state kinetic parameter, with acetaldehyde as aldehyde donor, pH 8.0 and 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.05	4-hydroxy-2-oxohexanoate	*G322F mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.06	4-hydroxy-2-oxopentanoate	*G322F mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.09	4-hydroxy-2-oxopentanoate	*G322L mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	1.1	4-hydroxy-2-oxohexanoate	*single TTHB246, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.2	pyruvate	*wild-type BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.2	pyruvate	*wild-type BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.3	4-hydroxy-2-oxohexanoate	*G323F mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.79	propionaldehyde	*app. kcat-value with pyruvate as carbonyl donor, pH 8.0 and 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.79	propionaldehyde	*wild-type BphI, app. kcat-value, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.79	propionaldehyde	*wild-type BphI, app. kcat-value, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.9	4-hydroxy-2-oxohexanoate	*G322A mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	2.1	4-hydroxy-2-oxohexanoate	*BphI-TTHB247 complex, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	2.2	4-hydroxy-2-oxohexanoate	*TTHB246-BphJ complex, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	2.3	4-hydroxy-2-oxopentanoate	*BphI-TTHB247 complex, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	2.4	4-hydroxy-2-oxopentanoate	*G322A mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	2.4	4-hydroxy-2-oxopentanoate	*TTHB246-BphJ complex, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	3.8	4-hydroxy-2-oxohexanoate	*pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	3.9	4-hydroxy-2-oxohexanoate	*wild-type protein, steady state, pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	3.9	4-hydroxy-2-oxohexanoate	*BphI-BphJ complex, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	4	(4S)-4-hydroxy-2-oxopentanoate	*wild-type BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	4.07	4-hydroxy-2-oxopentanoate	*wild-type protein, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	4.07	(4S)-4-hydroxy-2-oxopentanoate	*wild-type BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	4.1	4-hydroxy-2-oxopentanoate	*pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	4.1	4-hydroxy-2-oxopentanoate	*BphI-BphJ complex, 1 mM MnCl2, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	4.3	4-hydroxy-2-oxopentanoate	*G323F mutant, steady state, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	16.3	oxaloacetate	*wild-type BphI, steady-state kinetic parameter, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	16.5	oxaloacetate	*pH 8.0, 25&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.14.14.18#turnoverNumber*0.0583#turnoverNumberMaximum*#substrate*heme#commentary*#organism*Bos taurus#ligandStructureId*48#literature*438253#!ecNumber*1.14.14.18#turnoverNumber*0.32#turnoverNumberMaximum*#substrate*heme#commentary*#organism*Gallus gallus#ligandStructureId*48#literature*438245#

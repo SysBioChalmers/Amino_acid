@@ -1,0 +1,13 @@
+KCAT	Thermus thermophilus	0.65	spermidine	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.18	putrescine	*pH 7.4, 70&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	0.3	putrescine	*pH 9.0, 70&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.1	agmatine	*pH 7.4, 70&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	0.28	agmatine	*pH 9.0, 70&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.37	agmatine	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.37	agmatine	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	0.02	cadaverine	*pH 9.0, 70&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	2.09	cadaverine	*pH 7.4, 70&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.06	propane-1,3-diamine	*pH 7.4, 70&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.73	S-adenosyl 3-(methylthio)propylamine	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.53	norspermidine	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.29	tris(3-aminopropyl)amine	*pH 9.0, 37&Acirc;&deg;C

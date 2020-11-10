@@ -1,0 +1,5 @@
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Malassezia globosa	0.03	lanosterol	*37&deg;C, PH 7.2
+KCAT	Malassezia globosa	0.06	obtusifoliol	*37&deg;C, PH 7.2
+KCAT	Malassezia globosa	0.09	eburicol	*37&deg;C, PH 7.2
+KCAT	Candida albicans	0.55	lanosterol	*pH and temperature not specified in the publication

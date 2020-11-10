@@ -1,0 +1,2 @@
+KCAT	Penicillium fellutanum	14	peptidophosphogalactomannan pP2GM	*40&deg;C, pH 4
+KCAT	Penicillium fellutanum	29	1-O-methyl-beta-D-galactofuranoside	*40&deg;C, pH 4

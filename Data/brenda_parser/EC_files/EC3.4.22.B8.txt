@@ -1,0 +1,2 @@
+KCAT	Porphyromonas gingivalis	0.018	Z-Phe-Arg-7-amido-4-methylcoumarin	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	0.0011	Suc-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	*pH 7.5, 37&Acirc;&deg;C

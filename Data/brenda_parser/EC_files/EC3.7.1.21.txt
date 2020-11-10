@@ -1,0 +1,1 @@
+KCAT	Thauera aromatica	-999	6-oxocyclohex-1-ene-1-carbonyl-CoA	*0.9/s per subunit

@@ -1,0 +1,9 @@
+KCAT	Fischerella ambigua	0.21	hapalindole U	*pH and temperature not specified in the publication
+KCAT	Fischerella ambigua	0.67	ambiguine L	*pH and temperature not specified in the publication
+KCAT	Fischerella ambigua	0.68	ambiguine H	*pH and temperature not specified in the publication
+KCAT	Fischerella ambigua	0.68	ambiguine I	*pH and temperature not specified in the publication
+KCAT	Fischerella ambigua	0.7	ambiguine C	*pH and temperature not specified in the publication
+KCAT	Fischerella ambigua	0.71	12-epi-hapalindole C	*pH and temperature not specified in the publication
+KCAT	Hapalosiphon welwitschii	0.73	12-epi-hapalindole C	*pH and temperature not specified in the publication
+KCAT	Fischerella ambigua	1.7	12-epi-fischerindole U	*pH and temperature not specified in the publication
+KCAT	Hapalosiphon welwitschii	1.8	12-epi-fischerindole U	*pH and temperature not specified in the publication

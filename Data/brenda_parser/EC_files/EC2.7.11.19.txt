@@ -1,0 +1,8 @@
+KCAT	Oryctolagus cuniculus	0.0983	Melittin	*
+KCAT	Oryctolagus cuniculus	23.6	tetradecapeptide	*
+KCAT	Oryctolagus cuniculus	57.1	phosphorylase b	*
+KCAT	Oryctolagus cuniculus	91.4	phosphorylase b	*nonactivated enzyme
+KCAT	Oryctolagus cuniculus	97	ATP	*at pH 8.2 in the presence of calcium
+KCAT	Oryctolagus cuniculus	99	phosphorylase b	*alphagammadelta subunit complex
+KCAT	Oryctolagus cuniculus	104	phosphorylase b	*gammadelta subunit complex
+KCAT	Oryctolagus cuniculus	134	glycogen phosphorylase b	*at pH 8.2 in the presence of calcium

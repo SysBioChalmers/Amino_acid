@@ -1,0 +1,13 @@
+KCAT	Lactococcus lactis	-999	5-phospho-alpha-D-ribose 1-diphosphate	*25&Acirc;&deg;C, pH 8, mutant enzyme K50A
+KCAT	Lactococcus lactis	0.84	5-phospho-alpha-D-ribose 1-diphosphate	*25&Acirc;&deg;C, pH 8, mutant enzyme T162A
+KCAT	Lactococcus lactis	1.07	5-phospho-alpha-D-ribose 1-diphosphate	*25&Acirc;&deg;C, pH 8, mutant enzyme K8A
+KCAT	Lactococcus lactis	1.2	5-phospho-alpha-D-ribose 1-diphosphate	*25&Acirc;&deg;C, pH 8, mutant enzyme T159A
+KCAT	Corynebacterium glutamicum	1.29	5-phospho-alpha-D-ribose 1-diphosphate	*A270P mutant protein, pH 8.5, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	1.36	5-phospho-alpha-D-ribose 1-diphosphate	*L231F/T235A mutant protein, pH 8.5, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	1.75	5-phospho-alpha-D-ribose 1-diphosphate	*N215K/L231F/T235A mutant protein, pH 8.5, temperature not specified in the publication
+KCAT	Campylobacter jejuni	1.8	5-phospho-alpha-D-ribose 1-diphosphate	*at pH 8.5 and 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	1.91	5-phospho-alpha-D-ribose 1-diphosphate	*wild type protein, pH 8.5, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	2.22	5-phospho-alpha-D-ribose 1-diphosphate	*N215K mutant protein, pH 8.5, temperature not specified in the publication
+KCAT	Lactococcus lactis	2.7	5-phospho-alpha-D-ribose 1-diphosphate	*25&Acirc;&deg;C, pH 8, wild-type enzyme
+KCAT	Lactococcus lactis	2.83	5-phospho-alpha-D-ribose 1-diphosphate	*25&Acirc;&deg;C, pH 8, mutant enzyme D155A
+KCAT	Lactococcus lactis	6.16	5-phospho-alpha-D-ribose 1-diphosphate	*25&Acirc;&deg;C, pH 8, mutant enzyme K50A

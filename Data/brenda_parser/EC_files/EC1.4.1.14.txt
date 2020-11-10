@@ -1,0 +1,5 @@
+KCAT	Lupinus angustifolius	70	NADH	*
+KCAT	Oryza sativa	32	L-glutamine	*
+KCAT	Lupinus angustifolius	70	L-glutamine	*independent of pH 6.5-9.5
+KCAT	Lupinus angustifolius	18	3-acetylpyridine adenine dinucleotide	*reduced form as reductant, glutamate synthase reaction
+KCAT	Lupinus angustifolius	51	3-acetylpyridine adenine dinucleotide	*NADH-dependent reduction of oxidized form of 3-acetylpyridine adenine dinucleotide

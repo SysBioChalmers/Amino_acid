@@ -1,0 +1,8 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.3	citrate	*pH 8, 25&Acirc;&deg;C, Lineweaver-Burk method
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1.1	isocitrate	*pH 8, 25&Acirc;&deg;C, Lineweaver-Burk method
+KCAT	Plasmodium falciparum	3.3	cis-aconitate	*pH 7.4
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.2	cis-aconitate	*pH 8, 25&Acirc;&deg;C, Lineweaver-Burk method
+KCAT	Bacillus subtilis	-999	more	*
+KCAT	Sus scrofa	-999	more	*
+KCAT	Bacillus subtilis	-999	more	*
+KCAT	Escherichia coli	-999	more	*

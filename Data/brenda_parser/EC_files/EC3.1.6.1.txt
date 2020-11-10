@@ -1,0 +1,30 @@
+KCAT	Pseudomonas aeruginosa	0.0000095	4-nitrophenyl phosphate	*mutant enzyme C51S, in 100 mM Tris, pH 8.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	0.000061	4-nitrophenyl sulfate	*mutant enzyme C51A, in 100 mM Tris, pH 8.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	0.0054	4-nitrophenyl sulfate	*mutant enzyme C51S, in 100 mM Tris, pH 8.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	0.023	4-nitrophenyl phosphate	*wild type enzyme, in 100 mM Tris, pH 8.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	14.2	4-nitrophenyl sulfate	*wild type enzyme, in 100 mM Tris, pH 8.0, 25&deg;C
+KCAT	Helix pomatia	40.5	4-nitrophenyl sulfate	*pH 7.4, 29.85&deg;C, pressure: 120 MPa
+KCAT	Helix pomatia	41.83	4-nitrophenyl sulfate	*pH 7.4, 17.35&deg;C, pressure: 0.1 MPa
+KCAT	Helix pomatia	42.5	4-nitrophenyl sulfate	*pH 7.4, 29.85&deg;C, pressure: 160 MPa
+KCAT	Helix pomatia	42.83	4-nitrophenyl sulfate	*pH 7.4, 14.85&deg;C, pressure: 0.1 MPa
+KCAT	Helix pomatia	46.16	4-nitrophenyl sulfate	*pH 7.4, 19.85&deg;C, pressure: 0.1 MPa
+KCAT	Helix pomatia	46.5	4-nitrophenyl sulfate	*pH 7.4, 29.85&deg;C, pressure: 40 MPa
+KCAT	Helix pomatia	48.33	4-nitrophenyl sulfate	*pH 7.4, 29.85&deg;C, pressure: 5 MPa
+KCAT	Helix pomatia	51.33	4-nitrophenyl sulfate	*pH 7.4, 29.85&deg;C, pressure: 80 MPa
+KCAT	Helix pomatia	56.33	4-nitrophenyl sulfate	*pH 7.4, 24.85&deg;C, pressure: 0.1 MPa
+KCAT	Helix pomatia	58	4-nitrophenyl sulfate	*pH 7.4, 22.35&deg;C, pressure: 0.1 MPa
+KCAT	Helix pomatia	74.5	4-nitrophenyl sulfate	*pH 7.4, 29.85&deg;C, pressure: 0.1 MPa
+KCAT	Helix pomatia	90.83	4-nitrophenyl sulfate	*pH 7.4, 34.85&deg;C, pressure: 0.1 MPa
+KCAT	Helix pomatia	92	resorcinol sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Helix pomatia	119	vanillic acid 4-sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Helix pomatia	138	ferulic acid 4-sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Helix pomatia	228	Indoxyl sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Helix pomatia	235	p-coumaric acid sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Pseudoalteromonas carrageenovora	256.9	4-nitrophenyl sulfate	*pH 7.5, 50&deg;C, immobilized enzyme
+KCAT	Helix pomatia	871	p-cresyl sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Pseudoalteromonas carrageenovora	1000	p-Nitrophenyl sulfate	*6.5 nM purified arylsulfatase, at 45&deg;C and pH 7.0
+KCAT	Helix pomatia	1800	N-acetyltyramine sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Helix pomatia	7150	4-ethylphenyl sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Helix pomatia	28600	4-Methylumbelliferyl sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Helix pomatia	40900	Estrone 3-sulfate	*pH 7.0, temperature not specified in the publication
+KCAT	Helix pomatia	88500	methylurolithin A sulfate	*pH 7.0, temperature not specified in the publication

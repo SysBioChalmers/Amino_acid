@@ -1,0 +1,2 @@
+KCAT	Leuconostoc citreum	81.4	sucrose	*no cosubstrate, pH 5.8, 30&Acirc;&deg;C
+KCAT	Leuconostoc citreum	949	sucrose	*cosubstrate dextran, pH 5.8, 30&Acirc;&deg;C

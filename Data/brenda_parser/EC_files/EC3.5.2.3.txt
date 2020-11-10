@@ -1,0 +1,18 @@
+KCAT	Plasmodium falciparum	0.073	L-carbamoyl-L-aspartate	*at pH 9.0
+KCAT	Plasmodium berghei	0.183	L-dihydroorotate	*
+KCAT	Crithidia fasciculata	0.653	L-carbamoylaspartate	*
+KCAT	Plasmodium berghei	0.653	L-carbamoylaspartate	*
+KCAT	Plasmodium falciparum	1.492	L-dihydroorotate	*at pH 6.0
+KCAT	Staphylococcus aureus	1.55	(S)-dihydroorotate	*pH 8.3, 25&deg;C, recombinant detagged enzyme
+KCAT	Staphylococcus aureus	1.87	(S)-dihydroorotate	*pH 8.3, 25&deg;C, recombinant tagged enzyme
+KCAT	Staphylococcus aureus	1.9	N-Carbamoyl-L-aspartate	*pH 8.3, 25&deg;C, recombinant tagged enzyme
+KCAT	Staphylococcus aureus	2.48	N-Carbamoyl-L-aspartate	*pH 8.3, 25&deg;C, recombinant detagged enzyme
+KCAT	Crithidia fasciculata	4.31	L-dihydroorotate	*
+KCAT	Plasmodium berghei	4.31	L-dihydroorotate	*
+KCAT	Escherichia coli	11.5	L-carbamoyl-L-aspartate	*mutant enzyme T110A, at pH 5.8
+KCAT	Escherichia coli	49.8	L-carbamoyl-L-aspartate	*mutant enzyme T109S, at pH 5.8
+KCAT	Escherichia coli	59.7	L-carbamoyl-L-aspartate	*mutant enzyme T110S, at pH 5.8
+KCAT	Escherichia coli	127	dihydro-DL-orotate	*
+KCAT	Escherichia coli	145.5	L-carbamoyl-L-aspartate	*mutant enzyme T110V, at pH 5.8
+KCAT	Escherichia coli	181.1	L-carbamoyl-L-aspartate	*wild type enzyme, at pH 5.8
+KCAT	Escherichia coli	195	N-carbamoyl-DL-aspartate	*

@@ -1,0 +1,19 @@
+KCAT	Homo sapiens	0.05	N-(2-nitrophenyl)acetamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Homo sapiens	0.58	N-(2-nitrophenyl)butanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Homo sapiens	0.77	N-(2-nitrophenyl)propanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Paracoccus sp. M1-1	2.8	3',4'-dichloropropionanilide	*pH 7.0, 35&deg;C, recombinant enzyme
+KCAT	Paracoccus sp. M1-1	2.8	N-(3,4-dichlorophenyl)propanamide	*pH 7.0, 35&deg;C
+KCAT	Paracoccus sp. M1-1	2.8	N-(3,4-dichlorophenyl) propanamide	*pH 7.0, 35&deg;C, recombinant enzyme
+KCAT	Homo sapiens	2.87	N-(2-nitrophenyl)pentanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Homo sapiens	3	N-(2-nitrophenyl)pentanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Homo sapiens	3.3	N-(2-nitrophenyl)heptanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Homo sapiens	3.3	N-(2-nitrophenyl)octanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Nocardia farcinica	3.5	hexanoamide	*
+KCAT	Homo sapiens	3.83	N-(2-nitrophenyl)hexanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Homo sapiens	4.98	N-(2-nitrophenyl)heptanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Homo sapiens	5.43	N-(2-nitrophenyl)octanamide	*pH 8.0, 23&deg;C, butyrylcholinesterase
+KCAT	Nocardia farcinica	5.8	p-nitroacetanilide	*
+KCAT	Nocardia farcinica	19.1	4-nitroacetanilide	*pH 7.0, 25&deg;C
+KCAT	Bos taurus	208	o-nitroacetanilide	*
+KCAT	Bos taurus	237	N-(2-nitrophenyl)-trifluoroacetamide	*
+KCAT	Homo sapiens	1672	N-(2-nitrophenyl)trifluoroacetamide	*pH 8.0, 23&deg;C, butyrylcholinesterase

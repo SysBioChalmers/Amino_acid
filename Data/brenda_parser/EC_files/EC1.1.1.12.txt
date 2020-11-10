@@ -1,0 +1,36 @@
+KCAT	Meyerozyma caribbica	0.108	L-arabinitol	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Neurospora crassa	3.18	NAD+	*mutant D211S/I212R, pH 8.0, 25&deg;C
+KCAT	Rasamsonia emersonii	3.25	xylitol	*pH 9, 30&deg;C
+KCAT	Rasamsonia emersonii	3.7	D-sorbitol	*pH 9, 30&deg;C
+KCAT	Rasamsonia emersonii	4.7	NAD+	*pH 9, 30&deg;C
+KCAT	Rasamsonia emersonii	5.3	L-arabinitol	*pH 9, 30&deg;C
+KCAT	Trichoderma reesei	5.76	L-arabinitol	*pH 7.0, 22&deg;C
+KCAT	Trichoderma reesei	7.26	NAD+	*pH 7.0, 22&deg;C
+KCAT	Aspergillus niger	8.23	NAD+	*pH 7.0, 22&deg;C
+KCAT	Neurospora crassa	8.23	NADP+	*mutant D211S/I212R, pH 8.0, 25&deg;C
+KCAT	Aspergillus niger	8.45	L-arabinitol	*pH 7.0, 22&deg;C
+KCAT	Neurospora crassa	8.58	NAD+	*mutant D211S, pH 8.0, 25&deg;C
+KCAT	Neurospora crassa	10.83	NAD+	*wild-type, pH 8.0, 25&deg;C
+KCAT	Neurospora crassa	11.9	NADP+	*mutant D211S/I212R/D213N, pH 8.0, 25&deg;C
+KCAT	Aspergillus niger	13.48	D-sorbitol	*wild-type, pH 9.6, 20&deg;C
+KCAT	Aspergillus niger	13.88	D-sorbitol	*mutant Y318F, pH 9.6, 20&deg;C
+KCAT	Aspergillus niger	14.4	L-arabinitol	*wild-type, pH 9.6, 20&deg;C
+KCAT	Neurospora crassa	15	xylitol	*pH 8.0, 25&deg;C
+KCAT	Trichoderma reesei	16	L-arabinitol	*pH 7.0, 25&deg;C
+KCAT	Penicillium chrysogenum	17.3	NAD+	*pH 7.0, 22&deg;C
+KCAT	Neurospora crassa	18	adonitol	*pH 8.0, 25&deg;C
+KCAT	Penicillium chrysogenum	18.1	L-arabinitol	*pH 7.0, 22&deg;C
+KCAT	Aspergillus niger	19.67	xylitol	*wild-type, pH 9.6, 20&deg;C
+KCAT	Neurospora crassa	20.1	NAD+	*pH 8.0, 25&deg;C
+KCAT	Neurospora crassa	20.16	NADP+	*mutant D211S/I212R/S348T, pH 8.0, 25&deg;C
+KCAT	Neurospora crassa	20.2	L-arabinitol	*pH 8.0, 25&deg;C
+KCAT	Trichoderma reesei	29.3	L-arabinitol	*pH 8.0, 25&deg;C
+KCAT	Aspergillus niger	30	L-arabinitol	*mutant Y318F, pH 9.6, 20&deg;C
+KCAT	Aspergillus niger	36.8	xylitol	*mutant Y318F, pH 9.6, 20&deg;C
+KCAT	Trichoderma reesei	70	L-arabinitol	*pH 9.5, 25&deg;C
+KCAT	Aspergillus niger	809	D-sorbitol	*wild-type
+KCAT	Aspergillus niger	833	D-sorbitol	*mutant Y318F
+KCAT	Aspergillus niger	863	L-arabitol	*wild-type
+KCAT	Aspergillus niger	1180	xylitol	*wild-type
+KCAT	Aspergillus niger	1800	L-arabitol	*mutant Y318F
+KCAT	Aspergillus niger	2208	xylitol	*mutant Y318F

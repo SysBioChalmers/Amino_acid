@@ -1,0 +1,35 @@
+KCAT	Spinacia oleracea	32	NADPH	*mutant enzyme S188A
+KCAT	Spinacia oleracea	42	NADPH	*mutant enzyme T33A/S188A
+KCAT	Spinacia oleracea	52	NADPH	*mutant enzyme T33A
+KCAT	Spinacia oleracea	61	NADPH	*native enzyme A3-GAPDH
+KCAT	Chlamydomonas reinhardtii	161	NADPH	*mutant enzyme K128E
+KCAT	Chlamydomonas reinhardtii	196	NADPH	*mutant enzyme R82A, pH and temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	203	NADPH	*mutant enzyme R82D, pH and temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	210	NADPH	*mutant enzyme S195A, pH and temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	220	NADPH	*mutant enzyme K128A; mutant enzyme R197E
+KCAT	Chlamydomonas reinhardtii	251	NADPH	*pH 7.7, 30&Acirc;&deg;C, native A4 glyceraldehyde 3-phosphate dehydrogenase
+KCAT	Chlamydomonas reinhardtii	392	NADPH	*mutant enzyme R197A
+KCAT	Chlamydomonas reinhardtii	430	NADPH	*pH 7.7, 30&Acirc;&deg;C, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase
+KCAT	Chlamydomonas reinhardtii	430	NADPH	*wild-type enzyme
+KCAT	Chlamydomonas reinhardtii	430	NADPH	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	8.4	NADH	*mutant enzyme R190A, pH and temperature not specified in the publication
+KCAT	Spinacia oleracea	32	NADH	*mutant enzyme S188A
+KCAT	Spinacia oleracea	37	NADH	*mutant enzyme T33A
+KCAT	Chlamydomonas reinhardtii	40	NADH	*mutant enzyme K128A
+KCAT	Chlamydomonas reinhardtii	41	NADH	*pH 7.7, 30&Acirc;&deg;C, native A4 glyceraldehyde 3-phosphate dehydrogenase
+KCAT	Spinacia oleracea	41	NADH	*native enzyme A3-GAPDH
+KCAT	Spinacia oleracea	48	NADH	*mutant enzyme T33A/S188A
+KCAT	Chlamydomonas reinhardtii	56	NADH	*mutant enzyme K128E
+KCAT	Chlamydomonas reinhardtii	71	NADH	*mutant enzyme R82A, pH and temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	104	NADH	*pH 7.7, 30&Acirc;&deg;C, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase
+KCAT	Chlamydomonas reinhardtii	104	NADH	*wild-type enzyme
+KCAT	Chlamydomonas reinhardtii	104	NADH	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	108	NADH	*mutant enzyme R197A
+KCAT	Chlamydomonas reinhardtii	119	NADH	*mutant enzyme S195A, pH and temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	135	NADH	*mutant enzyme R82D, pH and temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	137	NADH	*mutant enzyme R197E
+KCAT	Chlamydomonas reinhardtii	40	3-phospho-D-glyceroyl phosphate	*pH 7.7, 30&Acirc;&deg;C, native A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADH
+KCAT	Chlamydomonas reinhardtii	88	3-phospho-D-glyceroyl phosphate	*pH 7.7, 30&Acirc;&deg;C, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADH
+KCAT	Chlamydomonas reinhardtii	223	3-phospho-D-glyceroyl phosphate	*pH 7.7, 30&Acirc;&deg;C, native A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADPH
+KCAT	Chlamydomonas reinhardtii	419	3-phospho-D-glyceroyl phosphate	*pH 7.7, 30&Acirc;&deg;C, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADPH
+KCAT	Chlamydomonas reinhardtii	-999	more	*catalytic rate constant 238 s-1, control; catalytic rate constant 289 s-1, 3 microM 3-phospho-D-glyceroyl phosphate, NADPH-dependent activity of GAPDH in the GAPDH/CP12 complex; catalytic rate constant 316 s-1, 160 microM 3-phospho-D-glyceroyl phosphate, NADPH-dependent activity of GAPDH in the GAPDH/CP12 complex; catalytic rate constant 330 s-1, 10 microM thioredoxin, NADPH-dependent activity of GAPDH in the GAPDH/CP12 complex; catalytic rate constant 390 s-1, 10 microM thioredoxin, 3 microM 3-phospho-D-glyceroyl phosphate, NADPH-dependent activity of GAPDH in the GAPDH/CP12 complex; catalytic rate constant 462 s-1, 10 microM thioredoxin, 160 microM 3-phospho-D-glyceroyl phosphate, NADPH-dependent activity of GAPDH in the GAPDH/CP12 complex

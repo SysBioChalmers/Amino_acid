@@ -1,0 +1,1 @@
+ecNumber*2.8.3.1#turnoverNumber*14.2#turnoverNumberMaximum*#substrate*propionate#commentary*pH 7.0, 25&deg;C#organism*Anaerotignum propionicum#ligandStructureId*312#literature*672769#

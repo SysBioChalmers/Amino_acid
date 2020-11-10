@@ -1,0 +1,23 @@
+KCAT	Escherichia coli	1.84	p-nitrophenyl-beta-D-glucopyranoside	*acetyl donor: acetyl-CoA
+KCAT	Escherichia coli	0.006	4-nitrophenyl-beta-D-galactopyranoside	*25&Acirc;&deg;C, mutant Y83L
+KCAT	Escherichia coli	0.022	4-nitrophenyl-beta-D-galactopyranoside	*25&Acirc;&deg;C, mutant Y83V
+KCAT	Escherichia coli	4.9	4-nitrophenyl-beta-D-galactopyranoside	*25&Acirc;&deg;C, mutant Y83F
+KCAT	Escherichia coli	11.1	4-nitrophenyl-beta-D-galactopyranoside	*25&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.006	p-nitrophenyl-beta-D-galactopyranoside	*hexahistidine-tagged Y83L mutant
+KCAT	Escherichia coli	0.0082	p-nitrophenyl-beta-D-galactopyranoside	*H155A variant
+KCAT	Escherichia coli	0.022	p-nitrophenyl-beta-D-galactopyranoside	*hexahistidine-tagged Y83V mutant
+KCAT	Escherichia coli	0.054	p-nitrophenyl-beta-D-galactopyranoside	*acetyl donor: butyryl-CoA
+KCAT	Escherichia coli	4.9	p-nitrophenyl-beta-D-galactopyranoside	*hexahistidine-tagged Y83F mutant
+KCAT	Escherichia coli	5.8	p-nitrophenyl-beta-D-galactopyranoside	*acetyl donor: propionyl-CoA
+KCAT	Escherichia coli	11.1	p-nitrophenyl-beta-D-galactopyranoside	*hexahistidine-tagged wild type enzyme
+KCAT	Escherichia coli	14.7	p-nitrophenyl-beta-D-galactopyranoside	*acetyl donor: acetyl-CoA
+KCAT	Escherichia coli	14.7	p-nitrophenyl-beta-D-galactopyranoside	*wild type enzyme
+KCAT	Escherichia coli	1.42	p-nitrophenyl-alpha-D-galactopyranoside	*acetyl donor: acetyl-CoA
+KCAT	Escherichia coli	0.175	isopropyl-thio-beta-D-galactopyranoside	*hexahistidine-tagged Y83V mutant
+KCAT	Escherichia coli	0.31	isopropyl-thio-beta-D-galactopyranoside	*hexahistidine-tagged Y83L mutant
+KCAT	Escherichia coli	122	isopropyl-thio-beta-D-galactopyranoside	*hexahistidine-tagged wild type enzyme
+KCAT	Escherichia coli	133	isopropyl-thio-beta-D-galactopyranoside	*wild type enzyme
+KCAT	Escherichia coli	168	isopropyl-thio-beta-D-galactopyranoside	*hexahistidine-tagged Y83F mutant
+KCAT	Escherichia coli	13	phenyl-beta-D-galactopyranoside	*acetyl donor: acetyl-CoA
+KCAT	Escherichia coli	8.9	o-nitrophenyl-beta-D-galactopyranoside	*acetyl donor: acetyl-CoA
+KCAT	Escherichia coli	1.84	p-nitrophenyl-beta-D-lactopyranoside	*acetyl donor: acetyl-CoA

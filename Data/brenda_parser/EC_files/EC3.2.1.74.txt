@@ -1,0 +1,13 @@
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	0.25	cellobiose	*
+KCAT	Trichoderma reesei	32	cellobiose	*
+KCAT	Stereum hirsutum	281	cellobiose	*in 100 mM sodium acetate buffer (pH 4.5), at 65&Acirc;&deg;C
+KCAT	uncultured rumen bacterium	126.6	4-nitrophenyl beta-D-glucopyranoside	*pH 4.6, 40&Acirc;&deg;C
+KCAT	uncultured rumen bacterium	203	4-nitrophenyl beta-D-glucopyranoside	*pH 4.6, 42&Acirc;&deg;C
+KCAT	Stereum hirsutum	4945	4-nitrophenyl beta-D-glucopyranoside	*in 100 mM sodium acetate buffer (pH 4.5), at 65&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	6.21	cellotriose	*
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	18.6	cellotetraose	*
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	16.4	cellopentaose	*
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	16.3	cellohexaose	*
+KCAT	uncultured bacterium	69.6	4-nitrophenyl beta-D-cellobioside	*at 65&Acirc;&deg;C in pH 5.5 citrate buffer
+KCAT	Paenibacillus curdlanolyticus	8	Barley beta-glucan	*at pH 6.0, temperature not specified in the publication
+KCAT	Thermobifida fusca	0.00039	2,4-dinitrophenol cellobiose	*pH 5.5

@@ -1,0 +1,1 @@
+ecNumber*2.4.1.B52#turnoverNumber*0.0044#turnoverNumberMaximum*#substrate*(X)3-D-glucitol#commentary*pH 5.5, 20&deg;C#organism*Equisetum fluviatile#ligandStructureId*210493#literature*737003#

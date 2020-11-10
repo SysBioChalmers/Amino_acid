@@ -1,0 +1,2 @@
+KCAT	Burkholderia sp.	0.014	4-nitrophenol	*wild-type enzyme, pH 8.0, 37&Acirc;&deg;C
+KCAT	Burkholderia sp.	0.015	4-nitrophenol	*mutant M22L/L380I, pH 8.0, 37&Acirc;&deg;C

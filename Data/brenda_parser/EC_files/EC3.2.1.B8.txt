@@ -1,0 +1,7 @@
+KCAT	Thermotoga maritima MSB8	1.37	beta-cyclodextrin	*pH 6.5, 85&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima MSB8	3.2	maltotriose	*pH 6.5, 85&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima MSB8	4.09	maltoheptaose	*pH 6.5, 85&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima MSB8	4.34	maltotetraose	*pH 6.5, 85&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima MSB8	4.56	maltohexaose	*pH 6.5, 85&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima MSB8	5.18	maltopentaose	*pH 6.5, 85&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima MSB8	16.28	4-nitrophenyl alpha-maltopentaoside	*pH 6.5, 85&deg;C, recombinant enzyme

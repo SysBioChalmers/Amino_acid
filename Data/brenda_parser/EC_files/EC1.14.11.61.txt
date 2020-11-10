@@ -1,0 +1,3 @@
+KCAT	Ipomoea batatas	2.68	trans-feruloyl-CoA	*pH 6.5, 30&Acirc;&deg;C
+KCAT	Ipomoea batatas	2.84	trans-feruloyl-CoA	*pH 6.5, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	11	trans-feruloyl-CoA	*30&Acirc;&deg;C, pH 6.5

@@ -1,0 +1,1 @@
+ecNumber*3.1.3.27#turnoverNumber*24#turnoverNumberMaximum*#substrate*1,2-dioleoyl-sn-glycero-3-phosphate#commentary*pH and temperature not specified in the publication#organism*Escherichia coli#ligandStructureId*22046#literature*730834#

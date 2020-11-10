@@ -1,0 +1,7 @@
+KCAT	Acetobacter aceti	36.5	acetoacetate	*; pH 8.0, 25&deg;C
+KCAT	Acetobacter aceti	49	acetate	*pH 5.0, 25&deg;C
+KCAT	Acetobacter aceti	70.9	succinate	*; pH 8.0, 25&deg;C
+KCAT	Acetobacter aceti	75.2	acetyl-CoA	*; pH 8.0, 25&deg;C
+KCAT	Acetobacter aceti	147	acetate	*pH 6.0, 25&deg;C
+KCAT	Acetobacter aceti	201	succinyl-CoA	*; pH 8.0, 25&deg;C
+KCAT	Acetobacter aceti	280	acetate	*; pH 8.0, 25&deg;C

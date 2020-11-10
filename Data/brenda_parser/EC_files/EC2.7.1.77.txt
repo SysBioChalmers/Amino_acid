@@ -1,0 +1,9 @@
+KCAT	Hordeum vulgare	77	4-nitrophenyl phosphate	*pH 5.5, phosphohydrolase activity
+KCAT	Hordeum vulgare	41	5'-AMP	*pH 5.5, phosphohydrolase activity
+KCAT	Hordeum vulgare	6.8	3'-AMP	*pH 5.5, phosphohydrolase activity
+KCAT	Hordeum vulgare	67	5'-UMP	*pH 5.5, phosphohydrolase activity
+KCAT	Hordeum vulgare	12	3'-UMP	*pH 5.5
+KCAT	Hordeum vulgare	2.6	1-naphthyl phosphate	*pH 5.5, phosphohydrolase activity
+KCAT	Hordeum vulgare	30	2-naphthyl phosphate	*pH 5.5, phosphohydrolase activity
+KCAT	Hordeum vulgare	0.4	adenosine-5'-phosphorothionate	*pH 5.5, phosphohydrolase activity
+KCAT	Hordeum vulgare	-999	more	*

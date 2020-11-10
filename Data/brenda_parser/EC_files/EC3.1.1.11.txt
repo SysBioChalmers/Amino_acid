@@ -1,0 +1,13 @@
+KCAT	Hungateiclostridium thermocellum	1.72	Pectin	*Citrus pectin (25% esterified), recombinant enzyme, pH 8.5, 50&deg;C
+KCAT	Hungateiclostridium thermocellum	2.62	Pectin	*Citrus pectin (50% esterified), recombinant enzyme, pH 8.5, 50&deg;C
+KCAT	Hungateiclostridium thermocellum	3.06	Pectin	*Citrus pectin (75% esterified), recombinant enzyme, pH 8.5, 50&deg;C
+KCAT	Hungateiclostridium thermocellum	3.68	Pectin	*apple pectin, recombinant enzyme, pH 8.5, 50&deg;C
+KCAT	Hungateiclostridium thermocellum	3.77	Pectin	*Citrus pectin (85% esterified), recombinant enzyme, pH 8.5, 50&deg;C
+KCAT	Aspergillus niger	22.33	Pectin	*recombinant enzyme, pH 3.8, 37&deg;C
+KCAT	Dickeya chrysanthemi	40	Pectin	*mutant Q177A, pH 7.0, 30&deg;C
+KCAT	Penicillium oxalicum	47.6	citrus pectin	*at pH 5.0 and 50&deg;C
+KCAT	Dickeya chrysanthemi	59	Pectin	*mutant M306A, pH 7.0, 30&deg;C
+KCAT	Dickeya chrysanthemi	68	Pectin	*mutant V198A, pH 7.0, 30&deg;C
+KCAT	Dickeya chrysanthemi	232	Pectin	*mutant Q153A, pH 7.0, 30&deg;C
+KCAT	Dickeya chrysanthemi	425	Pectin	*mutant T272A, pH 7.0, 30&deg;C
+KCAT	Dickeya chrysanthemi	450	Pectin	*wild-type enzyme, pH 7.0, 30&deg;C

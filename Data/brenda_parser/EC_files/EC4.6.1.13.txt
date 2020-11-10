@@ -1,0 +1,2 @@
+KCAT	Listeria monocytogenes	66	methyl-fluorescein myo-inositol phosphate	*pH 7
+KCAT	Bacillus cereus	-999	more	*

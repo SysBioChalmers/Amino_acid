@@ -1,0 +1,1 @@
+KCAT	Homo sapiens	-999	more	*0.119 per mM * s, L-gulonate, steady state kinetic; 10.82 per mM * s, D-glucuronate, steady state kinetic; 1124 per mM * s, NADPH, steady state kinetic

@@ -1,0 +1,1 @@
+ecNumber*2.1.1.21#turnoverNumber*0.00283#turnoverNumberMaximum*#substrate*L-glutamate#commentary*5-deazaFMN reconstituted enzyme#organism*Pseudomonas sp.#ligandStructureId*41#literature*485235#!ecNumber*2.1.1.21#turnoverNumber*0.347#turnoverNumberMaximum*#substrate*L-glutamate#commentary*FMN reconstituted enzyme#organism*Pseudomonas sp.#ligandStructureId*41#literature*485235#

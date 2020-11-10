@@ -1,0 +1,13 @@
+KCAT	Homo sapiens	0.083	N-acetyl-L-aspartate	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.25	N-formyl-L-aspartate	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.083	N-acetylaspartic acid	*pH 7.2, recombinant Escherichia coli-expressed enzyme
+KCAT	Homo sapiens	0.52	N-acetylaspartic acid	*pH 7.4, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	1.48	N-acetylaspartic acid	*pH 7.4, 37&Acirc;&deg;C, recombinant mutant E178D
+KCAT	Homo sapiens	12.7	N-acetylaspartic acid	*pH 7.2, recombinant Pichia pastoris-expressed enzyme
+KCAT	Homo sapiens	14.22	N-acetylaspartic acid	*pH 7.4, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	1.2	N-trifluoroacetylaspartic acid	*pH 7.2, recombinant Escherichia coli-expressed enzyme
+KCAT	Homo sapiens	116	N-trifluoroacetylaspartic acid	*pH 7.2, recombinant Pichia pastoris-expressed enzyme
+KCAT	Homo sapiens	37.5	N-acetylaspartate	*
+KCAT	Homo sapiens	0.62	N-Chloroacetyl-L-aspartate	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	1.2	N-trifluoroacetyl-L-aspartate	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.77	N-dichloroacetyl-L-aspartate	*pH and temperature not specified in the publication

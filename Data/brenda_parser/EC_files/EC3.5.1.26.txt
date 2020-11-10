@@ -1,0 +1,5 @@
+KCAT	Elizabethkingia meningoseptica	0.00015	more	*mutant with T152C
+KCAT	Homo sapiens	0.08	N4-(beta-N-acetylglucosaminyl)-L-asparagine	*mutant T203I, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	5.93	N4-(beta-N-acetylglucosaminyl)-L-asparagine	*mutant T99K, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	14.18	N4-(beta-N-acetylglucosaminyl)-L-asparagine	*recombinant wild-type enzyme, pH 7.5, 37&deg;C
+KCAT	Elizabethkingia meningoseptica	16	more	*native enzyme

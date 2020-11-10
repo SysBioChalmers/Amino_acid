@@ -1,0 +1,4 @@
+KCAT	Pyricularia grisea	0.38	Scytalone	*
+KCAT	Pyricularia grisea	13	Phenanthrenequinone	*
+KCAT	Pyricularia grisea	14	2,3-Dihydro-2,5-dihydroxy-4H-benzopyran-4-one	*
+KCAT	Pyricularia grisea	14	2,3-Dihydro-2,5-dihydroxy-4H-benzopyran-4-one	*

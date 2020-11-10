@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	0.0073	cytidine34 in tRNALeuCAA	*wild-type tRNALeuCAA and diverse mutants thereof, pH 7.5, 37&Acirc;&deg;C

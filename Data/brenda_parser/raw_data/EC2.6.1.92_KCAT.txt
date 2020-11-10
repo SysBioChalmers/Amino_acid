@@ -1,0 +1,1 @@
+ecNumber*2.6.1.92#turnoverNumber*0.067#turnoverNumberMaximum*#substrate*UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hex-4-ulose#commentary*pH 7.7, 37&deg;C#organism*Campylobacter jejuni#ligandStructureId*14479#literature*692984#

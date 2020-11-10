@@ -1,0 +1,1 @@
+ecNumber*1.1.1.B47#turnoverNumber*440#turnoverNumberMaximum*#substrate*NADPH#commentary*65&deg;C, pH 7.9#organism*Metallosphaera sedula#ligandStructureId*5#literature*698628#!ecNumber*1.1.1.B47#turnoverNumber*440#turnoverNumberMaximum*#substrate*succinate semialdehyde#commentary*65&deg;C, pH 7.9#organism*Metallosphaera sedula#ligandStructureId*528#literature*698628#

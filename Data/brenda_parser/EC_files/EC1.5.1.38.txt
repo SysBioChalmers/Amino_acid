@@ -1,0 +1,6 @@
+KCAT	Bacillus cereus	1.5	NADPH	*with FMN, pH 7.2, 37&deg;C
+KCAT	Vibrio harveyi	5.2	NADPH	*mutant enzyme N134A, in 50 mM phosphate buffer, pH 7.0, at 22&deg;C
+KCAT	Vibrio harveyi	9.2	NADPH	*mutant enzyme R133A, in 50 mM phosphate buffer, pH 7.0, at 22&deg;C
+KCAT	Vibrio harveyi	19.2	NADPH	*mutant enzyme R225A, in 50 mM phosphate buffer, pH 7.0, at 22&deg;C
+KCAT	Vibrio harveyi	23.8	NADPH	*wild type enzyme, in 50 mM phosphate buffer, pH 7.0, at 22&deg;C
+KCAT	Vibrio harveyi	34	NADPH	*pH 7.0, 23&deg;C

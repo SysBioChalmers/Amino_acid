@@ -1,0 +1,1 @@
+ecNumber*1.5.3.6#turnoverNumber*19.8#turnoverNumberMaximum*#substrate*6-hydroxy-D-nicotine#commentary*30&Acirc;&deg;C pH 9.2#organism*Paenarthrobacter nicotinovorans#ligandStructureId*5921#literature*392436#

@@ -1,0 +1,1 @@
+KCAT	Mus musculus	0.367	octanoyl-CoA	*

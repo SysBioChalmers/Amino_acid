@@ -1,0 +1,3 @@
+KCAT	Pyrobaculum calidifontis	0.006	thiamine phosphate	*pH 7.0, 100&Acirc;&deg;C, recombinant His-tagged mutant S196A
+KCAT	Pyrobaculum calidifontis	0.063	thiamine phosphate	*pH 7.0, 100&Acirc;&deg;C, recombinant His-tagged wild-type enzyme
+KCAT	Pyrobaculum calidifontis	0.092	thiamine phosphate	*pH 7.0, 100&Acirc;&deg;C, recombinant His-tagged mutant R136M

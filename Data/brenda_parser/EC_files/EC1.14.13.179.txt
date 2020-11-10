@@ -1,0 +1,4 @@
+KCAT	Pseudomonas putida	0.0038	Caffeine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	0.0045	theophylline	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	0.77	Theobromine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	0.53	3-Methylxanthine	*pH 7.5, 30&Acirc;&deg;C

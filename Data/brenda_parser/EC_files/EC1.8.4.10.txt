@@ -1,0 +1,9 @@
+KCAT	Physcomitrella patens	0.0001	3'-phosphoadenosine-5'-phosphosulfate	*mutant D122G, pH not specified in the publication, temperature not specified in the publication
+KCAT	Physcomitrella patens	0.0002	3'-phosphoadenosine-5'-phosphosulfate	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Catharanthus roseus	2.1	adenosine-5'-phosphosulfate	*recombinant enzyme lacking transit peptide, artificial reductant glutathione
+KCAT	Catharanthus roseus	3.4	adenosine-5'-phosphosulfate	*recombinant enzyme lacking transit peptide, artificial reductant dithiothreitol
+KCAT	Physcomitrella patens	0.015	5'-adenylyl sulfate	*mutant D122G, pH not specified in the publication, temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	0.058	5'-adenylyl sulfate	*levulinate/rhodol-based assay, pH 7.5, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.08	5'-adenylyl sulfate	*levulinate/-hydroxy-4-methyl-2H-chromen-2-one-based assay, pH 7.5, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.13	5'-adenylyl sulfate	*radioactive assay, pH 7.5, 22&Acirc;&deg;C
+KCAT	Physcomitrella patens	0.333	5'-adenylyl sulfate	*wild-type, pH not specified in the publication, temperature not specified in the publication

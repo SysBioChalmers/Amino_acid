@@ -1,0 +1,14 @@
+KCAT	Colletotrichum gloeosporioides	40	D-xylose	*native enzyme, pH 5.5, 30&deg;C
+KCAT	Colletotrichum gloeosporioides	53	D-xylose	*recombinant enzyme, pH 5.5, 30&deg;C
+KCAT	Colletotrichum gloeosporioides	60	D-xylose	*native enzyme, pH 7.5, 30&deg;C
+KCAT	Colletotrichum gloeosporioides	61	D-xylose	*recombinant enzyme, pH 7.5, 30&deg;C
+KCAT	Burkholderia cepacia	69.54	D-glucose	*pH and temperature not specified in the publication
+KCAT	Colletotrichum gloeosporioides	179	D-glucose	*recombinant enzyme, pH 5.5, 30&deg;C
+KCAT	Colletotrichum gloeosporioides	180	D-glucose	*native enzyme, pH 5.5, 30&deg;C
+KCAT	Aspergillus terreus	230	Fe(CN)63-	*apparent turnover number
+KCAT	Colletotrichum gloeosporioides	380	D-glucose	*native enzyme, pH 7.5, 30&deg;C
+KCAT	Colletotrichum gloeosporioides	418	D-glucose	*recombinant enzyme, pH 7.5, 30&deg;C
+KCAT	Mucor circinelloides	749.7	D-glucose	*recombinant enzyme, apparent value, at pH 7.0 and 37&deg;C
+KCAT	Aspergillus flavus	760	D-glucose	*mutant enzyme V149C7G190C, at pH 6.5 and 25&deg;C
+KCAT	Aspergillus flavus	780	D-glucose	*wild type enzyme, at pH 6.5 and 25&deg;C
+KCAT	Acinetobacter baumannii	5330	D-glucose	*

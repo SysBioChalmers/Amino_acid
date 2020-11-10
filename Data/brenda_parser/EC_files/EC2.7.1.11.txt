@@ -1,0 +1,29 @@
+KCAT	Escherichia coli	-999	more	*kcat increases with pH, addition of GDP increases Kcat at constant pH
+KCAT	Escherichia coli	0.015	fructose 6-phosphate	*pH 8.0, 8.5&deg;C, T125A mutant PFK
+KCAT	Escherichia coli	0.016	D-fructose 6-phosphate	*pH 7.2, 30&deg;C, cosubstrate gamma-thio-ATP
+KCAT	Escherichia coli	0.037	ATP	*wild type enzyme, in the presence of Mn2+, in 0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication
+KCAT	Escherichia coli	0.24	ATP	*mutant enzyme E190Q, in the presence of Mg2+, in 0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication
+KCAT	Escherichia coli	0.3	fructose 6-phosphate	*pH 8.5, 30&deg;C, R72H mutant PFK
+KCAT	Escherichia coli	0.303	fructose 6-phosphate	*pH 8.0, 8.5&deg;C, R72E mutant PFK
+KCAT	Geobacillus stearothermophilus	3.2	fructose 1,6-bisphosphate	*reverse raction, recombinant enzyme
+KCAT	Escherichia coli	3.47	fructose 6-phosphate	*pH 8.0, 8.5&deg;C, R171E mutant PFK
+KCAT	Escherichia coli	3.7	fructose 6-phosphate	*pH 8.5, 30&deg;C, R252Q mutant PFK
+KCAT	Escherichia coli	5	fructose 6-phosphate	*pH 8.2, 5&deg;C
+KCAT	Escherichia coli	9	ATP	*mutant enzyme E190Q, in the presence of Mn2+, in 0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication
+KCAT	Escherichia coli	44	D-fructose 6-phosphate	*in the presence of 0.5 mM MgATP2-, at pH 8.2 and 25&deg;C
+KCAT	Escherichia coli	49	fructose 6-phosphate	*pH 7.2, 30&deg;C, cosubstrate ATP
+KCAT	Escherichia coli	57.2	fructose 6-phosphate	*pH 8.5, 30&deg;C, I126A mutant PFK
+KCAT	Escherichia coli	60	D-fructose 6-phosphate	*in the presence of 0.1 mM MgATP2-, at pH 8.2 and 25&deg;C
+KCAT	Escherichia coli	60	fructose 6-phosphate	*pH 8.2, 15&deg;C
+KCAT	Escherichia coli	61	fructose 6-phosphate	*pH 8.0, 8.5&deg;C, wild-type PFK
+KCAT	Escherichia coli	62	ATP	*wild type enzyme, in the presence of Mg2+, in 0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication
+KCAT	Escherichia coli	88	fructose 6-phosphate	*pH 7.2, 30&deg;C, at 2mM ATP
+KCAT	Escherichia coli	110	fructose 6-phosphate	*pH 8.2, 25&deg;C
+KCAT	Escherichia coli	111	fructose 6-phosphate	*pH 8.5, 30&deg;C, wild-type PFK
+KCAT	Geobacillus stearothermophilus	112	fructose 6-phosphate	*forward reaction, recombinant enzyme
+KCAT	Geobacillus stearothermophilus	126	fructose 6-phosphate	*pH 8.2, 30&deg;C, G212V mutant PFK
+KCAT	Geobacillus stearothermophilus	149	fructose 6-phosphate	*pH 8.2, 30&deg;C, native PFK
+KCAT	Escherichia coli	167	fructose 6-phosphate	*pH 8.5, 30&deg;C
+KCAT	Escherichia coli	185	fructose 6-phosphate	*pH 8.2, 37&deg;C
+KCAT	Dictyostelium discoideum	236	ATP	*wild type enzyme, at pH 7.0 in 50 mM HEPES, 100 mM KCl, 5 mM MgCl2 and 25&deg;C
+KCAT	Homo sapiens	357	ATP	*wild type enzyme, at pH 7.0 in 50 mM HEPES, 100 mM KCl, 5 mM MgCl2 and 25&deg;C

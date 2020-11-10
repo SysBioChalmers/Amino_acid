@@ -1,0 +1,33 @@
+KCAT	Bos taurus	1.98	benzyloxycarbonyl-GPAFG-4-aminobenzoate	*enzyme from pituitary
+KCAT	Bos taurus	2.94	benzyloxycarbonyl-GPAFG-4-aminobenzoate	*enzyme from pituitary
+KCAT	Bos taurus	3	benzyloxycarbonyl-GPAFG-4-aminobenzoate	*enzyme from thymus
+KCAT	Bos taurus	18.8	benzyloxycarbonyl-GPAFG-4-aminobenzoate	*enzyme from spleen
+KCAT	Bos taurus	0.03	benzyloxycarbonyl-GPALG-4-aminobenzoate	*enzyme from thymus
+KCAT	Bos taurus	0.5	benzyloxycarbonyl-GPALG-4-aminobenzoate	*enzyme from spleen
+KCAT	Bos taurus	3.75	benzyloxycarbonyl-GPALG-4-aminobenzoate	*enzyme from pituitary
+KCAT	Bos taurus	7.04	benzyloxycarbonyl-GPALG-4-aminobenzoate	*enzyme from thymus
+KCAT	Bos taurus	12.9	benzyloxycarbonyl-GPALG-4-aminobenzoate	*enzyme from spleen
+KCAT	Trypanosoma brucei	0.031	acetyl-norleucine-Arg-norleucine-Arg-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.3	acetyl-norleucine-Arg-norleucine-Arg-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Homo sapiens	5.34	acetyl-norleucine-Arg-norleucine-Arg-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Trypanosoma brucei	8.15	acetyl-norleucine-Arg-norleucine-Arg-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Struthio camelus	6.08	succinyl-LLVY-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.27	acetyl-YWTQ-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Trypanosoma brucei	3.3	acetyl-YWTQ-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Trypanosoma brucei	4.67	acetyl-YWTQ-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.97	acetyl-EPFD-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2.7	acetyl-EPFD-7-amido-4-carbamoylcoumarin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Bos taurus	0.2	benzyloxycarbonyl-GGF-4-aminobenzoate	*enzyme from thymus
+KCAT	Struthio camelus	16.9	benzyloxycarbonyl-GGL-7-amido-4-methylcoumarin	*
+KCAT	Struthio camelus	0.052	benzyloxycarbonyl-GGR-7-amido-4-methylcoumarin	*
+KCAT	Struthio camelus	2.94	benzyloxycarbonyl-ARR-7-amido-4-methylcoumarin	*
+KCAT	Struthio camelus	0.143	benzyloxycarbonyl-RR-7-amido-4-methylcoumarin	*
+KCAT	Struthio camelus	-999	succinyl-AAF-7-amido-4-methylcoumarin	*
+KCAT	Struthio camelus	0.332	benzyloxycarbonyl-LLE-2-naphthylamide	*
+KCAT	Homo sapiens	36.3	acetyl-HHSL-7-amido-4-carbamoylcoumarin	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.233	acetyl-betaAla-Met(sulfone)-Thr-Arg-7-amido-4-methylcoumarin	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.343	acetyl-hArg-Pro-Abu-Asp-7-amido-4-methylcoumarin	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.844	acetyl-hArg-Pro-2-fluoro-Phe-Asp-7-amido-4-methylcoumarin	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.837	acetyl-Arg-hSer-Thr-Arg-7-amido-4-methylcoumarin	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	8.4	ABZ-Val-Val-Ser-4-guanidino-Ala-Met-Gly-Tyr(3-NO2)-NH2	*20S proteasome, pH 8.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	16.5	ABZ-Val-Val-Ser-Arg-Ser-Leu-Gly-Tyr(3-NO2)-NH2	*20S proteasome, pH 8.2, 37&Acirc;&deg;C

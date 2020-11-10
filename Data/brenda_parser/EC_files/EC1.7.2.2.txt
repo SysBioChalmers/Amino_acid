@@ -1,0 +1,18 @@
+KCAT	Wolinella succinogenes	197	hydroxylamine	*mutant H264N, pH 7.0, temperature not specified in the publication
+KCAT	Wolinella succinogenes	215	hydroxylamine	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Escherichia coli	3100	hydroxylamine	*mutant H264N, pH 7.0, temperature not specified in the publication
+KCAT	Escherichia coli	3160	hydroxylamine	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Thioalkalivibrio nitratireducens	0.023	sulfite	*modified enzyme that contains an additional covalent bond between residues Tyr303 and Gln360, pH 7.0, 20&Acirc;&deg;C
+KCAT	Thioalkalivibrio nitratireducens	0.039	sulfite	*unmodified enzyme, pH 7.0, 20&Acirc;&deg;C
+KCAT	Shewanella oneidensis	7	nitrite	*pH 8.3, 20&Acirc;&deg;C
+KCAT	Desulfovibrio desulfuricans	340	nitrite	*at pH 7.6, 20&Acirc;&deg;C, in phosphate buffer
+KCAT	Escherichia coli	700	nitrite	*pH 7.0, 20&Acirc;&deg;C, reduction
+KCAT	Wolinella succinogenes	758	nitrite	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Thioalkalivibrio nitratireducens	1195	nitrite	*modified enzyme that contains an additional covalent bond between residues Tyr303 and Gln360, pH 7.0, 20&Acirc;&deg;C
+KCAT	Escherichia coli	1350	nitrite	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Thioalkalivibrio nitratireducens	2860	nitrite	*unmodified enzyme, pH 7.0, 20&Acirc;&deg;C
+KCAT	Desulfovibrio desulfuricans	738	reduced methyl viologen	*apparent value, in 0.2 M phosphate buffer pH 7.6, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	390	nitric oxide	*turnover rate in intact cell
+KCAT	Desulfovibrio desulfuricans	79	reduced phenosafranine	*apparent value, in 0.2 M phosphate buffer pH 7.6, at 37&Acirc;&deg;C
+KCAT	Desulfovibrio desulfuricans	1064	reduced diquat	*apparent value, in 0.2 M phosphate buffer pH 7.6, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	840	NO radical	*pH 7.0, 20&Acirc;&deg;C, reduction

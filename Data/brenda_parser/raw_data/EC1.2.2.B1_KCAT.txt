@@ -1,0 +1,1 @@
+ecNumber*1.2.2.B1#turnoverNumber*266#turnoverNumberMaximum*#substrate*cytochrome b559/569#commentary*20&deg;C, pH 7.4#organism*Methylococcus capsulatus#ligandStructureId*#literature*288469#!ecNumber*1.2.2.B1#turnoverNumber*290#turnoverNumberMaximum*#substrate*dichloroindophenol#commentary*20&deg;C, pH 7.4#organism*Methylococcus capsulatus#ligandStructureId*4003#literature*288469#

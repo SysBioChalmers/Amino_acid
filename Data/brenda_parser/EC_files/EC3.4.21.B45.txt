@@ -1,0 +1,11 @@
+KCAT	Homo sapiens	12.1	QAR-7-amido-4-methylcoumarin	*37&deg;C, pH 8.8
+KCAT	Homo sapiens	15.8	GSLR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	34.57	YVSR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	42.91	WVSR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	44.03	VGSLR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	53.04	YANR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	63.24	WASR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	69.37	YAAR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	83.85	YASR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	93.33	YAVR-4-nitroanilide	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	97.31	WAVR-4-nitroanilide	*pH 8.0, 37&deg;C

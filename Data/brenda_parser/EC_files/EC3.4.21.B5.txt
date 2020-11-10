@@ -1,0 +1,3 @@
+KCAT	Rattus norvegicus	0.0072	succinyl-Ala-Ala-Pro-Ile-4-nitroanilide	*pH 8.5
+KCAT	Rattus norvegicus	0.017	succinyl-Ala-Ala-Pro-Val-4-nitroanilide	*pH 8.5
+KCAT	Rattus norvegicus	0.029	succinyl-Ala-Ala-Pro-Ala-4-nitroanilide	*pH 8.5

@@ -1,0 +1,7 @@
+KCAT	Ogataea angusta	58	ethanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Komagataella pastoris	5.72	methanol	*at pH 7.4 and 30&Acirc;&deg;C
+KCAT	Gloeophyllum trabeum	15.6	methanol	*
+KCAT	Ogataea angusta	60	methanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Ogataea angusta	32	formaldehyde	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Aspergillus terreus	270	n-Heptanol	*
+KCAT	Candida boidinii	-999	more	*

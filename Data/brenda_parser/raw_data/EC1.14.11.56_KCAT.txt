@@ -1,0 +1,1 @@
+ecNumber*1.14.11.56#turnoverNumber*24#turnoverNumberMaximum*#substrate*L-proline#commentary*pH 7.5, 25&deg;C#organism*Mesorhizobium loti#ligandStructureId*243#literature*696034#!ecNumber*1.14.11.56#turnoverNumber*25#turnoverNumberMaximum*#substrate*L-proline#commentary*pH 7.5, 25&deg;C#organism*Sinorhizobium meliloti#ligandStructureId*243#literature*696034#

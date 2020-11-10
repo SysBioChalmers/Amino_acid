@@ -1,0 +1,1 @@
+ecNumber*4.2.3.31#turnoverNumber*0.0014#turnoverNumberMaximum*#substrate*ent-copalyl diphosphate#commentary*30&Acirc;&deg;C, pH 7.0#organism*Streptomyces sp.#ligandStructureId*3716#literature*680552#

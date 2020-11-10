@@ -1,0 +1,5 @@
+KCAT	Thermus thermophilus	3.33	adenylic acid	*synthesis of a copolymer of adenylic acid
+KCAT	Thermus thermophilus	3.33	cytidylic acid	*synthesis of a copolymer of cytidylic acid
+KCAT	Thermus thermophilus	3.33	guanylic acid	*synthesis of a copolymer of guanylic acid
+KCAT	Thermus thermophilus	3.33	uridylic acid	*synthesis of a copolymer of uridylic acid
+KCAT	Thermus thermophilus	75	Polyadenylic acid	*

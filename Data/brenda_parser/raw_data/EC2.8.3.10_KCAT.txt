@@ -1,0 +1,1 @@
+ecNumber*2.8.3.10#turnoverNumber*21.7#turnoverNumberMaximum*#substrate*acetyl-CoA#commentary*pH 8.0, 25&deg;C#organism*Klebsiella aerogenes#ligandStructureId*29#literature*643831#!ecNumber*2.8.3.10#turnoverNumber*26.7#turnoverNumberMaximum*#substrate*(3S)-citryl-CoA#commentary*pH 8.0, 25&deg;C#organism*Klebsiella aerogenes#ligandStructureId*7069#literature*643831#

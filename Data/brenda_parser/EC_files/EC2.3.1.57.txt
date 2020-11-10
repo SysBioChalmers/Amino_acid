@@ -1,0 +1,15 @@
+KCAT	Bacillus subtilis	0.087	spermidine	*pH 9
+KCAT	Bacillus subtilis	0.1	aminopropylcadaverine	*pH 9
+KCAT	Bacillus subtilis	0.12	N1-acetylspermine	*pH 9
+KCAT	Bacillus subtilis	0.32	spermine	*pH 9
+KCAT	Bacillus subtilis	0.365	acetyl-CoA	*pH 9, cosubstrate: spermine
+KCAT	Cricetulus griseus	0.63	spermidine	*pH 7.8, 30&deg;C, recombinant mutant L156F enzyme
+KCAT	Cricetulus griseus	0.63	spermine	*pH 7.8, 30&deg;C, recombinant mutant L156F enzyme
+KCAT	Streptomyces sp.	0.858	acetyl-CoA	*pH 8.0, 30&deg;C
+KCAT	Streptomyces sp.	0.922	spermidine	*pH 8.0, 30&deg;C
+KCAT	Streptomyces sp.	1.358	D-glucosamine 6-phosphate	*pH 8.0, 30&deg;C
+KCAT	Streptomyces sp.	1.86	spermine	*pH 8.0, 30&deg;C
+KCAT	Streptomyces sp.	3.953	poly-L-lysine	*pH 8.0, 30&deg;C
+KCAT	Cricetulus griseus	5	spermine	*pH 7.8, 30&deg;C, recombinant wild-type enzyme
+KCAT	Cricetulus griseus	8.7	spermidine	*pH 7.8, 30&deg;C, recombinant wild-type enzyme
+KCAT	Cryptosporidium parvum	9	spermine	*pH 8.0

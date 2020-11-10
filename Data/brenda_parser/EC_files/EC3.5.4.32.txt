@@ -1,0 +1,5 @@
+KCAT	Pseudomonas aeruginosa	3.3	guanine	*pH and temperature not specified in the publication
+KCAT	unidentified	52	guanine	*pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	3.9	isocytosine	*pH and temperature not specified in the publication
+KCAT	unidentified	62	isocytosine	*pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	-999	more	*the limited solubility of 8-oxoguanine prevents an accurate measurement of kcat and Km, but the kcat/Km value of is an order of magnitude larger than that for the next best compound tested

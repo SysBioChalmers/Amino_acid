@@ -1,0 +1,1 @@
+ecNumber*1.1.1.102#turnoverNumber*1.07#turnoverNumberMaximum*#substrate*3-dehydrosphinganine#commentary*pH 7.5, recombinant enzyme#organism*Candida albicans#ligandStructureId*12337#literature*667831#

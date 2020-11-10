@@ -1,0 +1,79 @@
+KCAT	Arabidopsis thaliana	0.22	Sulfide	*mutant Q147S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.42	Sulfide	*mutant T74A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.73	Sulfide	*mutant N77D, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1.44	Sulfide	*mutant T185A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1.45	Sulfide	*mutant S75N, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	5.57	Sulfide	*mutant T185S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	12.5	Sulfide	*mutant Q147A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	20.2	Sulfide	*mutant S75A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	29.5	Sulfide	*mutant S269A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	82.7	Sulfide	*mutant S75T, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	155	Sulfide	*mutant N77A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	370	Sulfide	*mutant T78S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	537	Sulfide	*mutant T78A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	929	Sulfide	*mutant S269T, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1600	Sulfide	*mutant T182A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1690	Sulfide	*mutant T182S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1700	Sulfide	*mutant T74S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1780	Sulfide	*mutant H157Q, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1990	Sulfide	*mutant H157N, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	2170	Sulfide	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Trichomonas vaginalis	6.6	L-Cys	*37&Acirc;&deg;C, pH 7.8
+KCAT	Streptomyces lavendulae	0.72	thiosulfate	*30&Acirc;&deg;C, pH 8.0
+KCAT	Aeropyrum pernix	24	thiosulfate	*synthesis of S-sulfo-L-cysteine
+KCAT	Bacillus anthracis	0.7	O-acetyl-L-serine	*production of H2S, wild-type, pH 8.2, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	0.9	O-acetyl-L-serine	*production of H2S, mutant A72S, pH 8.2, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	4.46	O-acetyl-L-serine	*wild-type, pH 8.2, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	4.88	O-acetyl-L-serine	*mutant A72S, pH 8.2, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	5.46	O-acetyl-L-serine	*mutant E220R, pH 8.2, 37&Acirc;&deg;C
+KCAT	Escherichia coli	11	O-acetyl-L-serine	*mutant T68S, 37&Acirc;&deg;C
+KCAT	Escherichia coli	24	O-acetyl-L-serine	*wild-type, 37&Acirc;&deg;C
+KCAT	Microcystis aeruginosa	132	O-acetyl-L-serine	*recombinant enzyme, pH 7.0, 25&Acirc;&deg;C, with DTT
+KCAT	Microcystis aeruginosa	136	O-acetyl-L-serine	*recombinant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Microcystis aeruginosa	140	O-acetyl-L-serine	*recombinant enzyme, pH 7.0, 25&Acirc;&deg;C, with glutathione, GSSG
+KCAT	Microcystis aeruginosa	211	O-acetyl-L-serine	*recombinant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Microcystis aeruginosa	231	O-acetyl-L-serine	*recombinant enzyme, pH 7.0, 25&Acirc;&deg;C, with glutathione, GSSG
+KCAT	Microcystis aeruginosa	232	O-acetyl-L-serine	*recombinant enzyme, pH 7.0, 25&Acirc;&deg;C, with DTT
+KCAT	Streptomyces lavendulae	10	H2S	*mutant Y97F, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	12	H2S	*wild-type, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	15	H2S	*mutant S121A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	22	H2S	*mutant Y97M, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	26	H2S	*mutant V74T, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	44	H2S	*mutant S121M, pH 8.0, 30&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.01	O3-acetyl-L-serine	*turnover for mutant K120Q is decreased 56fold compared to wild type, 25&Acirc;&deg;C, 100 mM HEPES, pH 7.0
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.06	O3-acetyl-L-serine	*the turnover for H152A mutant is decreased 9fold compared to the wild type, 25&Acirc;&deg;C, 100 mM MES, pH 6.5
+KCAT	Arabidopsis thaliana	0.08	O3-acetyl-L-serine	*mutant T74A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.09	O3-acetyl-L-serine	*mutant S75N, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.19	O3-acetyl-L-serine	*mutant Q147S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.34	O3-acetyl-L-serine	*mutant N77D, pH 7.0, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.56	O3-acetyl-L-serine	*25&Acirc;&deg;C, 100 mM HEPES, pH 7.0
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.56	O3-acetyl-L-serine	*wild type, 25&Acirc;&deg;C, 100 mM HEPES, pH 7.0
+KCAT	Arabidopsis thaliana	1.07	O3-acetyl-L-serine	*mutant T185A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	3.11	O3-acetyl-L-serine	*mutant T185S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	4.02	O3-acetyl-L-serine	*mutant Q147A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	7.16	O3-acetyl-L-serine	*mutant S75A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	34.3	O3-acetyl-L-serine	*mutant S269A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	51.5	O3-acetyl-L-serine	*mutant S75T, pH 7.0, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	238	O3-acetyl-L-serine	*37&Acirc;&deg;C, pH 9.0
+KCAT	Geobacillus stearothermophilus	312	O3-acetyl-L-serine	*pH 7.0, 50&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	403	O3-acetyl-L-serine	*mutant N77A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	456	O3-acetyl-L-serine	*mutant T74S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	554	O3-acetyl-L-serine	*mutant T78A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	572	O3-acetyl-L-serine	*mutant S269T, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	775	O3-acetyl-L-serine	*mutant T78S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	889	O3-acetyl-L-serine	*mutant T182A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1055	O3-acetyl-L-serine	*mutant H157Q, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1520	O3-acetyl-L-serine	*mutant H157N, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1660	O3-acetyl-L-serine	*mutant T182S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1780	O3-acetyl-L-serine	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aeropyrum pernix	24	O-acetyl-L-Ser	*synthesis of S-sulfo-L-cysteine
+KCAT	Trichomonas vaginalis	153	O-acetyl-L-Ser	*37&Acirc;&deg;C, pH 7.8
+KCAT	Aeropyrum pernix	202	O-acetyl-L-Ser	*sulfhydrylation of O-acetyl-L-serine
+KCAT	Escherichia coli	733	O-acetyl-L-Ser	*
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	733	O-acetyl-L-Ser	*
+KCAT	Streptomyces lavendulae	12	hydrogen sulfide	*30&Acirc;&deg;C, pH 8.0
+KCAT	Aeropyrum pernix	202	S2-	*sulfhydrylation of O-acetyl-L-serine
+KCAT	Geobacillus stearothermophilus	154	beta-chloro-L-alanine	*pH 7.0, 50&Acirc;&deg;C
+KCAT	Trichomonas vaginalis	165	O-phosphoserine	*37&Acirc;&deg;C, pH 7.8
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*the B-isozyme has a turnover number 12.5fold higher than the A-isozyme; the B-isozyme has a turnover number 12.5fold higher than the A-isozyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*wild type and mutant exhibit almost identical values for sulfide as substrate, imidazole has no effect on the activity of wild type or H152A mutant enzyme

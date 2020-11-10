@@ -1,0 +1,1 @@
+ecNumber*1.14.13.168#turnoverNumber*0.31#turnoverNumberMaximum*#substrate*NADPH#commentary*in the presence of phenylpyruvate, in 50 mM sodium phosphate, pH 8.0, 500 mM NaCl, and 30% (v/v) glycerol, at 25&deg;C#organism*Arabidopsis thaliana#ligandStructureId*5#literature*720064#

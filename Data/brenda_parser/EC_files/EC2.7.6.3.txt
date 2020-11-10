@@ -1,0 +1,2 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Francisella tularensis	0.17	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine	*pH 8.3, 30&deg;C, recombinant enzyme

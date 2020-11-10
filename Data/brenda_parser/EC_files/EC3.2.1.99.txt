@@ -1,0 +1,6 @@
+KCAT	Caldicellulosiruptor saccharolyticus DSM 8903	50	1,5-alpha-L-arabinan	*recombinant enzyme, pH 6.5, 75&Acirc;&deg;C
+KCAT	Bacillus subtilis	3.1	linear 1,5-alpha-L-arabinan	*mutant H318A of isoform Arb43B, pH and temperature not specified in the publication
+KCAT	Paenibacillus polymyxa	68.7	linear 1,5-alpha-L-arabinan	*wild type enzyme, at 40&Acirc;&deg;C and pH 6.0
+KCAT	Paenibacillus polymyxa	99.7	linear 1,5-alpha-L-arabinan	*mutant enzyme H218D, at 40&Acirc;&deg;C and pH 6.0
+KCAT	Bacillus subtilis	191.6	linear 1,5-alpha-L-arabinan	*wild type isoform Arb43B, pH and temperature not specified in the publication
+KCAT	Pseudothermotoga thermarum	349.3	linear arabinan	*at pH 6.5 and 75&Acirc;&deg;C

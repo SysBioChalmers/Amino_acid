@@ -1,0 +1,4 @@
+KCAT	Azotobacter vinelandii	0.00417	acetyl-CoA	*with dihydrolipoamide, H610C mutant
+KCAT	Azotobacter vinelandii	0.0143	acetyl-CoA	*with dihydrolipoamide, S558A mutant
+KCAT	Azotobacter vinelandii	0.282	acetyl-CoA	*with dihydrolipoamide, N614D mutant
+KCAT	Azotobacter vinelandii	2.4	acetyl-CoA	*with dihydrolipoamide, wild-type enzyme

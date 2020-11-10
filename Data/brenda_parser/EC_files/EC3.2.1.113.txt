@@ -1,0 +1,4 @@
+KCAT	Aspergillus phoenicis	3.87	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&deg;C, mutant enzyme C334A
+KCAT	Aspergillus phoenicis	6.67	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&deg;C, mutant enzyme C443A
+KCAT	Aspergillus phoenicis	8.51	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&deg;C, wild-type enzyme
+KCAT	Aspergillus phoenicis	9.48	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&deg;C, mutant enzyme C363A

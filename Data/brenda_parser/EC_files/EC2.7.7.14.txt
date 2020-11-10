@@ -1,0 +1,11 @@
+KCAT	Homo sapiens	0.015	CTP	*mutant H38A, pH 7.7, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.19	CTP	*mutant H226A, pH 7.7, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	CTP	*mutant H229A, pH 7.7, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.25	CTP	*wild-type, pH 7.7, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1.15	CTP	*
+KCAT	Homo sapiens	0.016	Ethanolamine phosphate	*mutant H38A, pH 7.7, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.23	Ethanolamine phosphate	*mutant H226A, pH 7.7, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.25	Ethanolamine phosphate	*wild-type, pH 7.7, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.26	Ethanolamine phosphate	*mutant H229A, pH 7.7, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	3.4	Ethanolamine phosphate	*pH 8.0, 37&Acirc;&deg;C, recombinant His-tagged wild-type enzyme
+KCAT	Plasmodium falciparum	4.1	Ethanolamine phosphate	*pH 8.0, 37&Acirc;&deg;C, recombinant His-tagged mutant H422A enzyme

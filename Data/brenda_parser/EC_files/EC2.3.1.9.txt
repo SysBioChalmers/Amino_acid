@@ -1,0 +1,23 @@
+KCAT	Streptomyces collinus	0.0767	acetoacetyl-CoA	*C92S mutant thiolase
+KCAT	Zoogloea ramigera	2.1	acetyl-CoA	*
+KCAT	Zoogloea ramigera	14	3-ketobutyryldithio-CoA	*
+KCAT	Zoogloea ramigera	14	acetoacetyl-S-pantetheine	*
+KCAT	Gallus gallus	29.5	CoA	*presence of Mg2+
+KCAT	Streptomyces collinus	36.2	acetoacetyl-CoA	*native thiolase
+KCAT	Streptomyces collinus	40.1	acetoacetyl-CoA	*recombinant thiolase
+KCAT	Bacillus subtilis	80	acetoacetyl-CoA	*pH 6.0, 37&deg;C
+KCAT	Zoogloea ramigera	174	acetoacetyl-S-pantetheine	*
+KCAT	Zoogloea ramigera	177	acetoacetyl-S-homopantetheine 12-pivalate	*
+KCAT	Zoogloea ramigera	256	acetoacetyl-S-(L-pantetheine) 11-pivalate	*
+KCAT	Zoogloea ramigera	266	acetoacetyl-10-bis-demethylpantetheine 11-pivaloate	*
+KCAT	Zoogloea ramigera	353	acetoacetyl-S-(11-methoxymethyl)pantetheine	*
+KCAT	Zoogloea ramigera	410	acetoacetyl-CoA	*
+KCAT	Zoogloea ramigera	434	acetoacetyl-S-(11-t-butyldimethylsilyl)pantetheine	*
+KCAT	Zoogloea ramigera	465	acetoacetyl-CoA	*
+KCAT	Zoogloea ramigera	469	acetoacetyl-S-(D-pantetheine) 11-pivalate	*
+KCAT	Zoogloea ramigera	620	acetoacetyl-CoA	*
+KCAT	Gallus gallus	900	thiolytic cleavage	*
+KCAT	Gallus gallus	900	thiolytic cleavage	*
+KCAT	Metallosphaera sedula	1000	acetoacetyl-CoA	*pH 7.5, 70&deg;C
+KCAT	Bacopa monnieri	3833	acetoacetyl-CoA	*at pH 8.9 and 25&deg;C
+KCAT	Cupriavidus necator	5000000	acetoacetyl-CoA	*pH 8.3, 30&deg;C, recombinant enzyme

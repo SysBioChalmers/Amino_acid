@@ -1,0 +1,1 @@
+ecNumber*1.3.1.91#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*kinetics of reductive and oxidative half-reactions#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*712368#

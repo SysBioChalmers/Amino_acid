@@ -1,0 +1,43 @@
+KCAT	Escherichia coli	-999	more	*effect of mutations altering the 1-72 pair of E. coli tRNAMetf on the turnover-number
+KCAT	Saccharolobus solfataricus	0.002	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, mutant enzyme D86A/K18A; pH 7.5, 50&deg;C, mutant enzyme K18A
+KCAT	Saccharolobus solfataricus	0.0025	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, mutant enzyme D86A
+KCAT	Saccharolobus solfataricus	0.02	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, mutant enzyme T90A
+KCAT	Escherichia coli	0.028	diacetyl-Lys-tRNALys	*pH 7.5, 28&deg;C, mutant enzyme N10A
+KCAT	Escherichia coli	0.05	diacetyl-Lys-tRNALys	*pH 7.5, 28&deg;C, mutant enzyme D93A
+KCAT	Saccharolobus solfataricus	0.06	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, mutant enzyme Q22A; pH 7.5, 50&deg;C, mutant enzyme T98A
+KCAT	Saccharolobus solfataricus	0.07	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, mutant enzyme K56A
+KCAT	Saccharolobus solfataricus	0.1	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, mutant enzyme H25A
+KCAT	Escherichia coli	0.17	diacetyl-Lys-tRNALys	*pH 7.5, 28&deg;C, mutant enzyme M67A
+KCAT	Saccharolobus solfataricus	0.27	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, mutant enzyme Q54A
+KCAT	Escherichia coli	0.7	N-acetyl-Met-tRNA	*pH 7.0, 37&deg;C
+KCAT	Escherichia coli	0.85	diacetyl-Lys-tRNALys	*pH 7.5, 28&deg;C, 5'-dephosphoylated diacetyl-Lys-tRNALys, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.86	dephosphorylated diacyl-lysine-tRNA	*50&deg;C, pH 7.5
+KCAT	Saccharolobus solfataricus	0.86	diacetyl-Lys-tRNALys	*pH 7.5, 50&deg;C, dephosphorylated diacetyl-Lys-tRNALys
+KCAT	Saccharolobus solfataricus	0.86	diacetyl-lysyl-tRNALys	*dephosphorylated substrate, pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	Escherichia coli	0.9	diacetyl-Lys-tRNALys	*pH 7.5, 28&deg;C, mutant enzyme F66A
+KCAT	Escherichia coli	1.2	diacetyl-Lys-tRNALys	*pH 7.5, 28&deg;C, mutant enzyme H113A
+KCAT	Mycobacterium tuberculosis	1.22	diacetyl-lysyl-tRNALys	*
+KCAT	Homo sapiens	1.3	diacetyl-lysine-tRNA	*27&deg;C, pH 7.5
+KCAT	Homo sapiens	1.3	diacetyl-Lys-tRNA	*pH 7.5, 27&deg;C
+KCAT	Saccharolobus solfataricus	1.8	diacetyl-lysine-tRNA	*27&deg;C, pH 7.5
+KCAT	Saccharolobus solfataricus	1.8	diacetyl-lysine-tRNA	*50&deg;C, pH 7.5
+KCAT	Saccharolobus solfataricus	1.8	diacetyl-Lys-tRNALys	*pH 7.5, 50&deg;C
+KCAT	Saccharolobus solfataricus	1.8	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	1.8	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	2.2	diacetyl-lysyl-tRNALys	*pH 7.5, 50&deg;C, mutant enzyme K118A
+KCAT	Saccharolobus solfataricus	3	dephosphorylated formyl-methioninyl-tRNA	*50&deg;C, pH 7.5
+KCAT	Saccharolobus solfataricus	3	formyl-methionyl-tRNA	*50&deg;C, pH 7.5
+KCAT	Saccharolobus solfataricus	3	formyl-methionyl-tRNAfMet	*phosphorylated and dephosphorylated substrate, pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	3	formyl-Met-tRNAfMet	*pH 7.5, 50&deg;C
+KCAT	Saccharolobus solfataricus	3	o-hydroxycinnamic acid	*50&deg;C, pH 7.5
+KCAT	Saccharolobus solfataricus	3.4	acetyl-histidyl-tRNA	*50&deg;C, pH 7.5
+KCAT	Saccharolobus solfataricus	3.4	acetyl-histidyl-tRNAHis	*pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	3.4	acetyl-His-tRNA	*pH 7.5, 50&deg;C
+KCAT	Escherichia coli	3.6	diacetyl-lysine-tRNA	*27&deg;C, pH 7.5
+KCAT	Escherichia coli	3.6	diacetyl-Lys-tRNALys	*pH 7.5, 28&deg;C, wild-type enzyme
+KCAT	Escherichia coli	5.8	N-acetyl-Ala-tRNA(Ala)	*mutant enzyme N185A, in 20 mM HEPES-KOH (pH 7.6), 10 mM MgCl2, at 28&deg;C
+KCAT	Saccharolobus solfataricus	6.08	dephosphorylated diacyl-lysine-tRNA	*50&deg;C, pH 7.5
+KCAT	Escherichia coli	7.93	N-acetyl-Ala-tRNA(Ala)	*mutant enzyme H188A, in 20 mM HEPES-KOH (pH 7.6), 10 mM MgCl2, at 28&deg;C
+KCAT	Escherichia coli	8.7	N-acetyl-Ala-tRNA(Ala)	*mutant enzyme N185A/H188A, in 20 mM HEPES-KOH (pH 7.6), 10 mM MgCl2, at 28&deg;C
+KCAT	Escherichia coli	9.3	Oregon Green-methionine-tRNA	*25&deg;C, pH 7.5
+KCAT	Escherichia coli	11.7	N-acetyl-Ala-tRNA(Ala)	*wild type enzyme, in 20 mM HEPES-KOH (pH 7.6), 10 mM MgCl2, at 28&deg;C

@@ -1,0 +1,2 @@
+KCAT	Pisum sativum	0.000062	L-Lys	*
+KCAT	Pisum sativum	0.00025	methyl-L-Lys	*

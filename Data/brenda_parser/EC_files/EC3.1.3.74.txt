@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	1.52	pyridoxal 5'-phosphate	*pH 7.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Mus musculus	2	pyridoxal 5'-phosphate	*pH 7.4, 22&Acirc;&deg;C
+KCAT	Paenibacillus thiaminolyticus	19.4	pyridoxal 5'-phosphate	*
+KCAT	Homo sapiens	0.45	pyridoxamine 5'-phosphate	*pH 7.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Homo sapiens	1.25	pyridoxine 5'-phosphate	*pH 7.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Paenibacillus thiaminolyticus	19	pyridoxal-5'-phosphate	*5 mM CoCl2, 1 mM dithiothreitol, 50 mM Tris/maleate pH 5.0, 37&Acirc;&deg;C

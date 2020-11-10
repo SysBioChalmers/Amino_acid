@@ -1,0 +1,3 @@
+KCAT	Bifidobacterium longum	2	beta-L-arabinofuranosyl-(1-&gt;2)-beta-L-arabinofuranose	*wild-type, pH 4.5, 37&Acirc;&deg;C
+KCAT	Bifidobacterium longum	6.3	beta-L-arabinofuranosyl-(1-&gt;2)-beta-L-arabinofuranosyl-L-hydroxyproline	*wild-type, pH 4.5, 37&Acirc;&deg;C
+KCAT	Bifidobacterium longum	0.013	beta-L-arabinofuranosyl-L-hydroxyproline	*wild-type, pH 4.5, 37&Acirc;&deg;C

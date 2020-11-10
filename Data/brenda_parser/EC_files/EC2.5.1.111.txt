@@ -1,0 +1,5 @@
+KCAT	Streptomyces niveus	0.083	dimethylallyl diphosphate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Streptomyces roseochromogenus subsp. oscitans	0.253	dimethylallyl diphosphate	*pH 7.5, 30&Acirc;&deg;C, wild-type
+KCAT	Streptomyces niveus	0.083	4-hydroxyphenylpyruvate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Streptomyces roseochromogenus subsp. oscitans	0.151	4-hydroxyphenylpyruvate	*pH 7.5, 30&Acirc;&deg;C, C215 mutant enzyme
+KCAT	Streptomyces roseochromogenus subsp. oscitans	0.159	4-hydroxyphenylpyruvate	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme

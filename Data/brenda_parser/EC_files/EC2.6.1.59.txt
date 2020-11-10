@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	0.38	dTDP-4-dehydro-6-deoxy-D-glucose	*pH 7.5, 25&Acirc;&deg;C

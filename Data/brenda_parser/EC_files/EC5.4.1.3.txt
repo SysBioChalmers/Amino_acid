@@ -1,0 +1,1 @@
+KCAT	Chloroflexus aurantiacus	840	2-methylfumaryl-CoA	*55&deg;C, pH not specified in the publication

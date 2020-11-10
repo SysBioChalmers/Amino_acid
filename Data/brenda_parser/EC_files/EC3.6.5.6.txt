@@ -1,0 +1,16 @@
+KCAT	Bos taurus	0.000037	GTP	*tubulin, ligand podophylotoxin
+KCAT	Bos taurus	0.000053	GTP	*tubulin in complex with T2R, ligand podophylotoxin
+KCAT	Bos taurus	0.000055	GTP	*tubulin
+KCAT	Bos taurus	0.000056	GTP	*tubulin in complex with T2R
+KCAT	Bos taurus	0.000125	GTP	*tubulin, ligand colchicine
+KCAT	Bos taurus	0.0002	GTP	*in 0.01 M sodium phosphate and 4 mM MgCl2, pH 7
+KCAT	Bos taurus	0.000233	GTP	*
+KCAT	Bos taurus	0.000258	GTP	*tubulin in complex with T2R, ligand colchicine
+KCAT	Bos taurus	0.00037	GTP	*tubulin in complex with Rhe1, ligand colchicine
+KCAT	Prosthecobacter sp.	0.0067	GTP	*activity of BtubB, the activity increases to 0.022 per sec when mixed 1:1 with BtubA
+KCAT	Bos taurus	0.0077	GTP	*in the presence of alphaA-crystallin
+KCAT	Bos taurus	0.008	GTP	*in the presence of alphaB-crystallin
+KCAT	Bos taurus	0.0083	GTP	*
+KCAT	Prosthecobacter sp.	0.022	GTP	*activity of BtubB when mixed 1:1 with BtubA
+KCAT	Saccharomyces cerevisiae	100	GTP	*pH 6.8, 30&Acirc;&deg;C, mutant T143G
+KCAT	Saccharomyces cerevisiae	1500	GTP	*pH 6.8, 30&Acirc;&deg;C, wild-type

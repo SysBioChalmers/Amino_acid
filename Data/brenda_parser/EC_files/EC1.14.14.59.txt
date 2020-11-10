@@ -1,0 +1,1 @@
+KCAT	Arabidopsis thaliana	0.2	(3S,6E)-nerolidol	*pH not specified in the publication, temperature not specified in the publication

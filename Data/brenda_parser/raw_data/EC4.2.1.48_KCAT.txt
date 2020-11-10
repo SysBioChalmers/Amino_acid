@@ -1,0 +1,1 @@
+ecNumber*4.2.1.48#turnoverNumber*7.67#turnoverNumberMaximum*#substrate*5-oxo-D-proline#commentary*pH 8.0, 37&deg;C#organism*Mus musculus#ligandStructureId*29608#literature*746927#!ecNumber*4.2.1.48#turnoverNumber*35.6#turnoverNumberMaximum*#substrate*D-glutamate#commentary*pH 8.0, 37&deg;C#organism*Mus musculus#ligandStructureId*344#literature*746927#

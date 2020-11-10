@@ -1,0 +1,1 @@
+ecNumber*1.13.11.74#turnoverNumber*147#turnoverNumberMaximum*#substrate*2-Aminophenol#commentary*in 50 mM Tris (pH 8.0) at 25&deg;C#organism*Pseudomonas pseudoalcaligenes#ligandStructureId*1910#literature*722493#

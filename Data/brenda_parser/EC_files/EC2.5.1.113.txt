@@ -1,0 +1,1 @@
+KCAT	Mycobacterium tuberculosis	0.1	O-phospho-L-serine	*at pH 7.5 and 37&Acirc;&deg;C

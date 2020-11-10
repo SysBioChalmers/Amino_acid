@@ -1,0 +1,135 @@
+KCAT	dogfish	-999	more	*
+KCAT	salmon	-999	more	*
+KCAT	Scombridae gen. sp.	-999	more	*
+KCAT	shark	-999	more	*
+KCAT	Sus scrofa	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Sus scrofa	-999	more	*
+KCAT	Sus scrofa	-999	more	*pH-dependence of turnover number of N-trifluoroacetyl aromatic amino acids
+KCAT	Sus scrofa	-999	more	*turnover numbers for loop mutant enzyme S238-M234 and Y274-T283
+KCAT	Sus scrofa	0.013	benzyloxycarbonyl-His-Trp-Phe-O-methyl ester	*
+KCAT	Sus scrofa	0.013	benzyloxycarbonyl-His-Tyr-Phe-O-methyl ester	*
+KCAT	Shewanella amazonensis	0.03	Mca-KKPAEFFALK-Dnp	*at pH 4.0 and 37&deg;C
+KCAT	Sus scrofa	0.08	benzyloxycarbonyl-Phe-Phe-OEt	*at 43 mM ionic strength, at pH 5.5 and 37&deg;C
+KCAT	Sus scrofa	0.1	benzyloxycarbonyl-Phe-Phe-OEt	*at pH 1.0 and 37&deg;C
+KCAT	Sus scrofa	0.1	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, wild-type enzyme
+KCAT	Sus scrofa	0.11	benzyloxycarbonyl-Phe-Phe-OEt	*at pH 2.0 and 37&deg;C
+KCAT	Sus scrofa	0.13	benzyloxycarbonyl-Phe-Phe-OEt	*at pH 1.5 and 37&deg;C
+KCAT	Sus scrofa	0.15	benzyloxycarbonyl-His-Phe-Phe-O-methyl ester	*
+KCAT	Sus scrofa	0.19	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V
+KCAT	Sus scrofa	0.21	benzyloxycarbonyl-His-Phe-Phe-NH2	*
+KCAT	Sus scrofa	0.21	KPPEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	0.24	KPIEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	0.24	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	0.31	benzyloxycarbonyl-His-Phe-Phe-O-ethyl ester	*
+KCAT	Sus scrofa	0.49	benzyloxycarbonyl-Phe-Phe 3-(4-pyridyl)propyl ester	*at pH 2.0 and 37&deg;C
+KCAT	Sus scrofa	0.53	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F
+KCAT	Trematomus bernacchii	0.54	Pro-Thr-Glu-Phe-(p-nitro-Phe)-Arg-Leu-OH	*37&deg;C, acidic pH
+KCAT	Sus scrofa	0.63	KPIKF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	0.74	benzyloxycarbonyl-Phe-Phe 3-(4-pyridyl)propyl ester	*at pH 3.0 and 37&deg;C
+KCAT	Sus scrofa	0.8	KPILF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V/E287M
+KCAT	Sus scrofa	1.2	Leu-Ser-Phe(p-NO2)-Nle-Ala-Leu	*pH 3.95, 37&deg;C, mutant enzyme G76V
+KCAT	Sus scrofa	2	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme E287M
+KCAT	Sus scrofa	2.2	benzyloxycarbonyl-Gly-Phe-Phe 3-(4-pyridyl)propyl ester	*at pH 2.0 and 37&deg;C
+KCAT	Sus scrofa	2.5	Lys-Pro-Ala-Glu-Phe-Phe(p-NO2)-Ala-Leu	*pH 2.1, 37&deg;C, mutant enzyme G76S
+KCAT	Homo sapiens	2.7	POMC (165-174)	*in 0.2 M sodium formate buffer, pH 4.0, at 37&deg;C
+KCAT	Sus scrofa	2.8	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V/E287M
+KCAT	Sus scrofa	2.9	Leu-Ser-Phe(p-NO2)-Nle-Ala-Leu	*pH 3.95, 37&deg;C, mutant enzyme G76S
+KCAT	Sus scrofa	3.1	benzyloxycarbonyl-Gly-Phe-Phe 3-(4-pyridyl)propyl ester	*at pH 3.5 and 37&deg;C
+KCAT	Trematomus bernacchii	3.32	Pro-Thr-Glu-Phe-(p-nitro-Phe)-Arg-Leu-OH	*37&deg;C, acidic pH
+KCAT	Shewanella denitrificans	3.51	((7-methoxycoumarin-4-yl)acetyl)-Lys-Lys-Pro-Ala-Glu-Phe-Phe-Ala-Leu-Lys-(2,4-dinitrophenyl)	*at pH 4.0 and 37&deg;C
+KCAT	Sus scrofa	3.7	POMC (165-174)	*in 0.2 M sodium formate buffer, pH 4.0, at 37&deg;C
+KCAT	Sus scrofa	4.44	bovine serum albumin	*at 43 mM ionic strength, at pH 2.0 and 37&deg;C
+KCAT	Micropterus salmoides	4.69	KPAEFFRL	*pepsin A1, at pH 4.0 and 10&deg;C
+KCAT	Micropterus salmoides	4.92	KPAEFFRL	*pepsin A1, at pH 4.0 and 20&deg;C
+KCAT	Sus scrofa	5	KPAEFF(NO2)AL	*mutant enzyme D32E/D215E
+KCAT	Oncorhynchus mykiss	5.43	Acid-denatured hemoglobin	*isoform P-I, at pH 2.0 and 37&deg;C
+KCAT	Sus scrofa	6	KPAEFF(NO2)AL	*mutant enzyme D32E
+KCAT	Sus scrofa	7	KPPEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/T222V/E287M
+KCAT	Ovis aries	7	N,N-dimethylcasein	*
+KCAT	Lateolabrax japonicus	7.34	hemoglobin	*isoform pepsin 1, in 250 mM sodium acetate buffer (pH 3.0), at 37&deg;C
+KCAT	Sus scrofa	8	KPILF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Micropterus salmoides	8.19	KPAEFFRL	*pepsin A1, at pH 4.0 and 30&deg;C
+KCAT	Oncorhynchus mykiss	8.37	Acid-denatured hemoglobin	*isoform P-II, at pH 2.0 and 37&deg;C
+KCAT	Homo sapiens	8.9	AFPLEFEREL	*in 0.2 M sodium formate buffer, pH 4.0, at 37&deg;C
+KCAT	Sus scrofa	9.73	KPAEFFRL	*at pH 4.0 and 10&deg;C
+KCAT	Sus scrofa	11.1	Lys-Pro-Ala-Glu-Phe-Phe(p-NO2)-Ala-Leu	*pH 2.1, 37&deg;C, mutant enzyme G76V
+KCAT	Sus scrofa	12.4	KPAEFFRL	*at pH 4.0 and 20&deg;C
+KCAT	Sus scrofa	14	KPILF(NO2)RL	*pH 3.5, 25&deg;C, wild-type enzyme
+KCAT	Sus scrofa	16	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*unglycosylated mutant S110N/L112T, pH 2.0
+KCAT	Ovis aries	18.3	N,N-dimethylhemoglobin	*
+KCAT	Micropterus salmoides	18.6	KPAEFFRL	*pepsin A1, at pH 4.0 and 37&deg;C
+KCAT	Micropterus salmoides	18.7	KPAEFFRL	*pepsin A2, at pH 4.0 and 10&deg;C
+KCAT	Oncorhynchus mykiss	19.1	Acid-denatured hemoglobin	*isoform P-III, at pH 2.0 and 37&deg;C
+KCAT	Sus scrofa	21.9	KPAEFFRL	*at pH 4.0 and 30&deg;C
+KCAT	Sus scrofa	22.1	KPILF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V
+KCAT	Monopterus albus	23.2	hemoglobin	*isoform pepsin 1, in 250 mM sodium acetate buffer (pH 3.0), at 37&deg;C
+KCAT	Sus scrofa	23.8	Leu-Ser-Phe(p-NO2)-Nle-Ala-Leu	*pH 3.95, 37&deg;C, wild-type enzyme
+KCAT	Sus scrofa	25	KPAEFF(NO2)AL	*mutant enzyme D215E
+KCAT	Micropterus salmoides	28.9	KPAEFFRL	*pepsin A2, at pH 4.0 and 20&deg;C
+KCAT	Sus scrofa	32.3	KPIKF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/T222V/E287M
+KCAT	Sus scrofa	33.3	KPAEFFRL	*at pH 4.0 and 37&deg;C
+KCAT	Sus scrofa	34.4	KPILF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme E287M
+KCAT	Sus scrofa	35.6	KPILF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V/E287M
+KCAT	Sus scrofa	36.3	KPILF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/T222V/E287M
+KCAT	Micropterus salmoides	36.5	KPAEFFRL	*pepsin A1, at pH 4.0 and 45&deg;C
+KCAT	Sus scrofa	38.8	KPIKF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F
+KCAT	Micropterus salmoides	38.8	Substance P	*isoform PG2-2, at pH 3.0 and 37&deg;C
+KCAT	Sus scrofa	38.9	KPIKF(NO2)RL	*pH 3.5, 25&deg;C, wild-type enzyme
+KCAT	Sus scrofa	40.5	KPIKF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V
+KCAT	Sus scrofa	41.4	KPIKF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	41.5	KPIEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V
+KCAT	Sus scrofa	43.4	Leu-Ser-Phe(p-NO2)-Nle-Ala-Leu	*pH 3.95, 37&deg;C, mutant enzyme G76A
+KCAT	Sus scrofa	44.2	KPIKF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme E287M
+KCAT	Sus scrofa	45	AFPLEFEREL	*in 0.2 M sodium formate buffer, pH 4.0, at 37&deg;C
+KCAT	Sus scrofa	47	Lys-Pro-Ala-Glu-Phe-Phe(p-NO2)-Ala-Leu	*pH 2.1, 37&deg;C, mutant enzyme G76A
+KCAT	Sus scrofa	47.3	KPPEF(NO2)RL	*pH 3.5, 25&deg;C, wild-type enzyme
+KCAT	Sus scrofa	47.9	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, wild-type enzyme
+KCAT	Sus scrofa	49.7	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V
+KCAT	Albatrossia pectoralis	50	hemoglobin	*pH 3.0, 37&deg;C
+KCAT	Sus scrofa	52.3	KPIEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/T222V/E287M
+KCAT	Micropterus salmoides	52.7	hemoglobin	*isoform PG1-1, at pH 3.0 and 37&deg;C
+KCAT	Sus scrofa	53	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*glycosylated mutant T77N, pH 2.0
+KCAT	Sus scrofa	53.1	KPILF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F
+KCAT	Sus scrofa	54	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*glycosylated mutant S110N/L112T, pH 2.0
+KCAT	Sus scrofa	55.5	KPIKF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V/E287M
+KCAT	Homo sapiens	56	AFPLEFIREL	*in 0.2 M sodium formate buffer, pH 4.0, at 37&deg;C
+KCAT	Sus scrofa	56	Lys-Pro-Ala-Glu-Phe-Phe(NO2)-Ala-Leu	*pH 5.3, 25&deg;C
+KCAT	Sus scrofa	56.5	benzyloxycarbonyl-Gly-Gly-Phe-Phe 3-(4-pyridyl)propyl ester	*at pH 2.0 and 37&deg;C
+KCAT	Sus scrofa	56.8	KPIEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V/E287M
+KCAT	Sus scrofa	58.9	KPPEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/T222V/E287M
+KCAT	Sus scrofa	60.4	KPILF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	60.7	KPIEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme E287M
+KCAT	Micropterus salmoides	61	Substance P	*isoform PG1-1, at pH 3.0 and 37&deg;C
+KCAT	Sus scrofa	62.3	KPPEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme E287M; pH 3.5, 25&deg;C, mutant enzyme F111T/L112F
+KCAT	Micropterus salmoides	62.9	hemoglobin	*isoform PG2-2, at pH 3.0 and 37&deg;C
+KCAT	Sus scrofa	68.7	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*glycosylated mutant S281N, pH 2.0
+KCAT	Sus scrofa	68.9	KPIEF(NO2)RL	*pH 3.5, 25&deg;C, wild-type enzyme
+KCAT	Sus scrofa	68.9	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/T222V/E287M
+KCAT	Sus scrofa	70	KPPEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V/E287M
+KCAT	Sus scrofa	70.6	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*glycosylated mutant E244N/V246T, pH 2.0
+KCAT	Sus scrofa	71.4	KPPEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V
+KCAT	Sus scrofa	71.8	benzyloxycarbonyl-Gly-Gly-Phe-Phe 3-(4-pyridyl)propyl ester	*at pH 3.5 and 37&deg;C
+KCAT	Sus scrofa	72.5	KPIEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F
+KCAT	Micropterus salmoides	74.7	KPAEFFRL	*pepsin A2, at pH 4.0 and 30&deg;C
+KCAT	Sus scrofa	75.9	KPAEFFRL	*at pH 4.0 and 45&deg;C
+KCAT	Sus scrofa	77.4	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme T222V/E287M
+KCAT	Sus scrofa	79.8	KPPEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	82.2	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F
+KCAT	Homo sapiens	85	AFPLEFFREL	*in 0.2 M sodium formate buffer, pH 4.0, at 37&deg;C
+KCAT	Sus scrofa	85.2	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme E287M
+KCAT	Sus scrofa	88.7	Leu-Ser-Phe(p-NO2)-Nle-Ala-Leu	*pH 3.95, 37&deg;C, wild-type enzyme
+KCAT	Sus scrofa	96	KPAEFF(NO2)AL	*wild-type enzyme
+KCAT	Sus scrofa	97.7	KPIQF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	97.8	KPIEF(NO2)RL	*pH 3.5, 25&deg;C, mutant enzyme F111T/L112F/E287M
+KCAT	Sus scrofa	121	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*unglycosylated mutant E244N/V246T, pH 2.0
+KCAT	Sus scrofa	127	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*unglycosylated mutant S281N, pH 2.0
+KCAT	Micropterus salmoides	139.2	KPAEFFRL	*pepsin A2, at pH 4.0 and 37&deg;C
+KCAT	Sus scrofa	150.3	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*unglycosylated mutant S110N/L112T, pH 2.0
+KCAT	Sus scrofa	154	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*unglycosylated mutant T77N, pH 2.0
+KCAT	Sus scrofa	162	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*wild-type, pH 2.0
+KCAT	Sus scrofa	180.5	Lys-Pro-Ala-Glu-Phe-Phe(p-NO2)-Ala-Leu	*pH 2.1, 37&deg;C, wild-type enzyme
+KCAT	Sus scrofa	181	Lys-Pro-Ala-Glu-Phe-Phe(p-NO2)-Ala-Leu	*pH 2.1, 37&deg;C, wild-type enzyme
+KCAT	Sus scrofa	203	AFPLEFIREL	*in 0.2 M sodium formate buffer, pH 4.0, at 37&deg;C
+KCAT	Micropterus salmoides	215.5	KPAEFFRL	*pepsin A2, at pH 4.0 and 45&deg;C
+KCAT	Sus scrofa	472	AFPLEFFREL	*in 0.2 M sodium formate buffer, pH 4.0, at 37&deg;C

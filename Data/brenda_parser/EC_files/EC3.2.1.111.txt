@@ -1,0 +1,24 @@
+KCAT	Elizabethkingia meningoseptica	0.00037	4-nitrophenyl alpha-L-fucoside	*mutant enzyme E302A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.0004	4-nitrophenyl alpha-L-fucoside	*mutant enzyme D242A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.013	4-nitrophenyl alpha-L-fucoside	*mutant enzyme C317A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.022	4-nitrophenyl alpha-L-fucoside	*mutant enzyme 249DELTA265, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.062	4-nitrophenyl alpha-L-fucoside	*mutant enzyme C317S, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.127	4-nitrophenyl alpha-L-fucoside	*mutant enzyme C467S, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.14	4-nitrophenyl alpha-L-fucoside	*wild type enzyme, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.143	4-nitrophenyl alpha-L-fucoside	*mutant enzyme C73S, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.018	3-fucosyllactose	*mutant enzyme E315A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	1.34	3-fucosyllactose	*mutant enzyme C317A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	1.35	3-fucosyllactose	*mutant enzyme 249DELTA265, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	3.55	3-fucosyllactose	*mutant enzyme C317S, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	3.87	3-fucosyllactose	*mutant enzyme C73S, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	3.99	3-fucosyllactose	*mutant enzyme C467S, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	4.12	3-fucosyllactose	*wild type enzyme, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.078	Lewis X trisaccharide	*mutant enzyme E315A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.082	Lewis X trisaccharide	*mutant enzyme D242A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	0.23	Lewis X trisaccharide	*mutant enzyme E302A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	9.075	Lewis X trisaccharide	*mutant enzyme C317A, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	21.55	Lewis X trisaccharide	*wild type enzyme, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	23.83	Lewis X trisaccharide	*mutant enzyme 249DELTA265, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	25.43	Lewis X trisaccharide	*mutant enzyme C467S, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	29.07	Lewis X trisaccharide	*mutant enzyme C317S, at pH 4.6 and 37&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	34.47	Lewis X trisaccharide	*mutant enzyme C73S, at pH 4.6 and 37&Acirc;&deg;C

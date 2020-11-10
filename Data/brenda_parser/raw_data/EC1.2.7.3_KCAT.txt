@@ -1,0 +1,1 @@
+ecNumber*1.2.7.3#turnoverNumber*17#turnoverNumberMaximum*#substrate*2-oxoglutarate#commentary*pH 7.8, 30&deg;C#organism*Thauera aromatica#ligandStructureId*34#literature*288468#

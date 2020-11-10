@@ -1,0 +1,40 @@
+KCAT	Aerococcus viridans	0.52	O2	*4&Acirc;&deg;C, pH 7
+KCAT	Mycolicibacterium smegmatis	1.1	O2	*pH 7.0
+KCAT	Aerococcus viridans	4.7	O2	*25&Acirc;&deg;C, pH 7
+KCAT	Homo sapiens	0.7	glyoxylate	*
+KCAT	Homo sapiens	0.83	glyoxylate	*
+KCAT	Rattus sp.	0.014	L-leucine	*isozymes beta1 and beta2
+KCAT	Homo sapiens	54.1	flavin	*pH 7.0, 30&Acirc;&deg;C, flavin reduction
+KCAT	Rattus sp.	0.26	L-lactate	*isozyme beta1
+KCAT	Rattus sp.	0.38	L-lactate	*isozyme beta2
+KCAT	Rattus sp.	0.433	L-lactate	*
+KCAT	Homo sapiens	0.46	L-lactate	*
+KCAT	Aerococcus viridans	0.52	L-lactate	*4&Acirc;&deg;C, pH 7
+KCAT	Aerococcus viridans	4.7	L-lactate	*25&Acirc;&deg;C, pH 7
+KCAT	Mycolicibacterium smegmatis	0.33	glycolate	*pH 7.0
+KCAT	Homo sapiens	3.6	glycolate	*
+KCAT	Homo sapiens	4.1	glycolate	*
+KCAT	Homo sapiens	15.6	glycolate	*
+KCAT	Homo sapiens	15.7	glycolate	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme, first order
+KCAT	Homo sapiens	20	glycolate	*pH 7.5, 30&Acirc;&deg;C, recombinant enzyme, first order
+KCAT	Homo sapiens	31.2	glycolate	*pH 9.0, 30&Acirc;&deg;C, recombinant enzyme, first order
+KCAT	Spinacia oleracea	1.04	glycerate	*pH 8.0
+KCAT	Rattus sp.	0.36	Bromopyruvate	*transhydrogenation reaction
+KCAT	Homo sapiens	0.11	L-Mandelate	*
+KCAT	Rattus sp.	1.55	L-Mandelate	*isozyme beta1
+KCAT	Rattus sp.	2.51	L-Mandelate	*isozyme beta2
+KCAT	Rattus sp.	0.76	DL-2-hydroxybutyrate	*
+KCAT	Rattus sp.	1.66	DL-2-hydroxybutyrate	*isozyme beta1
+KCAT	Rattus sp.	2	DL-2-hydroxybutyrate	*isozyme beta2
+KCAT	Rattus sp.	2	L-2-Hydroxyisocaproate	*isozyme beta1
+KCAT	Rattus sp.	2.4	L-2-Hydroxyisocaproate	*isozyme beta2
+KCAT	Rattus sp.	0.59	L-Phenyllactate	*isozyme beta1
+KCAT	Rattus sp.	0.7	L-Phenyllactate	*isozyme beta2
+KCAT	Rattus sp.	1.9	DL-2-hydroxy-4-methylthiobutanoic acid	*isozyme beta2
+KCAT	Rattus sp.	2.1	DL-2-hydroxy-4-methylthiobutanoic acid	*isozyme beta1
+KCAT	Homo sapiens	0.08	2-oxo-octanoate	*
+KCAT	Gallus gallus	0.74	L-2-hydroxy-4-methylthiobutanoic acid	*
+KCAT	Rattus norvegicus	0.99	L-2-hydroxy octanoate	*
+KCAT	Rattus norvegicus	0.34	L-2-hydroxy palmitate	*
+KCAT	Aerococcus viridans	-999	more	*reduction rate constants and dissociation constants for reaction of lactate oxidases with alpha-1H- and alpha-2H-para-substituted mandelates
+KCAT	Homo sapiens	-999	more	*a second-order rate constant for the capture of glycolate (kcat/Kglycolate) of 68300 M/s, and a second-order rate constant for reaction of the reduced flavin with oxygen (kcat/Koxygen) of 24500 Ms

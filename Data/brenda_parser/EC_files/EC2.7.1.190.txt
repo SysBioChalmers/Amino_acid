@@ -1,0 +1,36 @@
+KCAT	Enterococcus sp.	0.09	ATP	*pH 7.5, 25&Acirc;&deg;C, cosubstrate kanamycin A
+KCAT	Campylobacter jejuni	0.38	ATP	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Enterococcus casseliflavus	1.06	ATP	*mutant F95Y, pH 7.5, 37&Acirc;&deg;C
+KCAT	Enterococcus casseliflavus	3.06	ATP	*mutant F95M, pH 7.5, 37&Acirc;&deg;C
+KCAT	Enterococcus casseliflavus	4.37	ATP	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Campylobacter jejuni	0.4	GTP	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Enterococcus sp.	0.8	GTP	*pH 7.5, 25&Acirc;&deg;C, cosubstrate kanamycin A
+KCAT	Enterococcus casseliflavus	1.15	GTP	*mutant F95Y, pH 7.5, 37&Acirc;&deg;C
+KCAT	Enterococcus casseliflavus	4.35	GTP	*mutant F95M, pH 7.5, 37&Acirc;&deg;C
+KCAT	Enterococcus casseliflavus	5.03	GTP	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Enterococcus sp.	0.14	UTP	*pH 7.5, 25&Acirc;&deg;C, cosubstrate kanamycin A
+KCAT	Enterococcus sp.	2.1	ITP	*pH 7.5, 25&Acirc;&deg;C, cosubstrate kanamycin A
+KCAT	Staphylococcus aureus	0.57	kanamycin A	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Enterococcus sp.	0.8	kanamycin A	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Campylobacter jejuni	1.7	kanamycin A	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.11	tobramycin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Campylobacter jejuni	0.48	tobramycin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Enterococcus sp.	0.7	tobramycin	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Staphylococcus aureus	3.7	amikacin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Campylobacter jejuni	6.5	amikacin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Enterococcus sp.	0.7	netilmicin	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Staphylococcus aureus	6.5	netilmicin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Campylobacter jejuni	18	netilmicin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.12	kanamycin B	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Campylobacter jejuni	0.38	kanamycin B	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Staphylococcus aureus	8.1	sisomicin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Campylobacter jejuni	17	sisomicin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.15	dibekacin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Enterococcus sp.	0.7	dibekacin	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Campylobacter jejuni	0.79	dibekacin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Enterococcus sp.	0.5	gentamicin C	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Staphylococcus aureus	3	gentamicin C	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Campylobacter jejuni	8.3	gentamicin C	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Campylobacter jejuni	0.25	isepamicin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Staphylococcus aureus	2.3	arbekacin	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Campylobacter jejuni	4.3	arbekacin	*pH 7.0, 22&Acirc;&deg;C

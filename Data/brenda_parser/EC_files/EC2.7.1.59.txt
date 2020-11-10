@@ -1,0 +1,7 @@
+KCAT	Candida albicans	0.03	N-acetyl-D-glucosamine	*37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.0325	N-acetyl-D-glucosamine	*37&deg;C, pH 7.5
+KCAT	Arabidopsis thaliana	0.161	N-acetyl-D-galactosamine	*at pH 7.5 and 25&deg;C
+KCAT	Arabidopsis thaliana	1.586	ATP	*at pH 7.5 and 25&deg;C
+KCAT	Arabidopsis thaliana	4.347	N-acetyl-D-glucosamine	*at pH 7.5 and 25&deg;C
+KCAT	Arabidopsis thaliana	6.69	D-glucose	*at pH 7.5 and 25&deg;C
+KCAT	Clostridium acetobutylicum	65	N-acetyl-D-glucosamine	*pH 7.5, 37&deg;C

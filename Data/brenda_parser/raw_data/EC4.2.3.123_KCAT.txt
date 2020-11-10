@@ -1,0 +1,1 @@
+ecNumber*4.2.3.123#turnoverNumber*0.078#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH 8.0, 30&deg;C, recombinant enzyme mutant PmSTS_DELTA124#organism*Persicaria minor#ligandStructureId*81#literature*748839#

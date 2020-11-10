@@ -1,0 +1,11 @@
+KCAT	Aspergillus fumigatus	0.076	glucosamine 6-phosphate	*mutant Y174F
+KCAT	Aspergillus fumigatus	0.12	D-glucosamine 6-phosphate	*mutant V125R
+KCAT	Aspergillus fumigatus	0.34	D-glucosamine 6-phosphate	*mutant G183E
+KCAT	Aspergillus fumigatus	1.34	D-glucosamine 6-phosphate	*mutant E185Y
+KCAT	Aspergillus fumigatus	1.7	D-glucosamine 6-phosphate	*mutant Y189R
+KCAT	Homo sapiens	9	D-glucosamine 6-phosphate	*wild-type
+KCAT	Homo sapiens	9.7	D-glucosamine 6-phosphate	*mutant E156A
+KCAT	Homo sapiens	19.3	D-glucosamine 6-phosphate	*mutant E156D
+KCAT	Homo sapiens	22.1	D-glucosamine 6-phosphate	*wild-type
+KCAT	Aspergillus fumigatus	38	D-glucosamine 6-phosphate	*wild-type
+KCAT	Aspergillus fumigatus	38	glucosamine 6-phosphate	*wild-type

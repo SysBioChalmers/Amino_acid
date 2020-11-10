@@ -1,0 +1,29 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*mutant R160A displays no detectable catalytic turnover with ethanolamine as subtrate
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*the steady-state accumulation, and subsequent cryotrapping, of the Co2-substrate radical pair as the only detectable paramagnetic intermediate, suggest that the step after Co2-substrate radical pair formation is at least partially rate limiting for steady-state turnover
+KCAT	Homo sapiens	-999	more	*Comparison of the rates of steady-state turnover of coenzyme B12-dependent enzymes (kcat 10-100 1/s at 25&deg;C) with the rate of cleavage of the cobalt-carbon bond of coenzyme B12 in solution reveals that the enzyme increases the cleavage rate more than 100000000000fold
+KCAT	Escherichia coli	0.036	ethanolamine	*run 1, pH 8, 37&deg;C, mutant E287A
+KCAT	Escherichia coli	0.038	ethanolamine	*run 2, pH 8, 37&deg;C, mutant D362N
+KCAT	Escherichia coli	0.051	ethanolamine	*run 2, pH 8, 37&deg;C, mutant Q162K
+KCAT	Escherichia coli	0.066	ethanolamine	*run 2, pH 8, 37&deg;C, mutant E287H
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.067	(R)-2-aminopropanol	*
+KCAT	Escherichia coli	0.085	ethanolamine	*run 1, pH 8, 37&deg;C, mutant D362A
+KCAT	Escherichia coli	0.086	ethanolamine	*run 2, pH 8, 37&deg;C, mutant E287Q
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.12	(S)-2-aminopropanol	*
+KCAT	Escherichia coli	0.67	ethanolamine	*run 2, pH 8, 37&deg;C, mutant D362E
+KCAT	Escherichia coli	1	ethanolamine	*run 1, pH 8, 37&deg;C, mutant R160A
+KCAT	Escherichia coli	1.3	ethanolamine	*run 1, pH 8, 37&deg;C, mutant N193A
+KCAT	Escherichia coli	2.1	ethanolamine	*run 2, pH 8, 37&deg;C, mutant E287D
+KCAT	Escherichia coli	3	ethanolamine	*run 2, pH 8, 37&deg;C, mutant N193D
+KCAT	Escherichia coli	6	ethanolamine	*run 2, pH 8, 37&deg;C, mutant Q162H
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	8.5	ethanolamine	*R160K EAL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	16.7	ethanolamine	*reconstituted EAL (from EutB and EutC subunits), pH 7.5, 25&deg;C
+KCAT	Escherichia coli	20	ethanolamine	*run 1, pH 8, 37&deg;C, mutant Q162A
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	22	ethanolamine	*at 0&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	22.7	ethanolamine	*purified EAL, pH 7.5, 25&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	30	ethanolamine	*
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	52.2	ethanolamine	*wild-type
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	55	ethanolamine	*at 22 &deg;C
+KCAT	Escherichia coli	79	ethanolamine	*run 2, pH 8, 37&deg;C, mutant R160K
+KCAT	Escherichia coli	110	ethanolamine	*run 2, pH 8, 37&deg;C, mutant Q162E
+KCAT	Escherichia coli	440	ethanolamine	*run 2, pH 8, 37&deg;C, wild-type
+KCAT	Escherichia coli	770	ethanolamine	*run 1, pH 8, 37&deg;C, wild-type

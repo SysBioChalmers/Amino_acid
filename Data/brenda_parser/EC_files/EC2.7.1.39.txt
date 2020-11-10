@@ -1,0 +1,26 @@
+KCAT	Schizosaccharomyces pombe	14.2	ATP	*in 50 mM HEPES, pH 7.5, 40 mM KCl, 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Schizosaccharomyces pombe	40.8	ATP	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.2	L-homoserine	*mutant R234L
+KCAT	Methanocaldococcus jannaschii	0.75	L-homoserine	*method: isothermal titration calometry
+KCAT	Escherichia coli	9.1	L-homoserine	*mutant H202L
+KCAT	Schizosaccharomyces pombe	11.2	L-homoserine	*in 50 mM HEPES, pH 7.5, 40 mM KCl, 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	18.3	L-homoserine	*wild-type enzyme
+KCAT	Schizosaccharomyces pombe	40.2	L-homoserine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	3.3	D-homoserine	*wild-type enzyme
+KCAT	Escherichia coli	0.021	L-homoserine ethyl ester	*mutant R234L
+KCAT	Escherichia coli	4.1	L-homoserine ethyl ester	*mutant H202L
+KCAT	Escherichia coli	13.6	L-homoserine ethyl ester	*wild-type enzyme
+KCAT	Escherichia coli	0.018	L-homoserine methyl ester	*mutant R234L
+KCAT	Escherichia coli	5.4	L-homoserine methyl ester	*mutant H202L
+KCAT	Escherichia coli	14.7	L-homoserine methyl ester	*wild-type enzyme
+KCAT	Escherichia coli	2.1	L-aspartate beta-semialdehyde	*wild-type enzyme
+KCAT	Escherichia coli	16.4	L-homoserine isobutyl ester	*wild-type enzyme
+KCAT	Escherichia coli	13.6	L-homoserine isopropyl ester	*wild-type enzyme
+KCAT	Escherichia coli	14	L-homoserine n-propyl ester	*wild-type enzyme
+KCAT	Escherichia coli	2	L-2-amino-1,4-butanediol	*wild-type enzyme
+KCAT	Escherichia coli	2.5	L-2-amino-5-hydroxyvalerate	*wild-type enzyme
+KCAT	Escherichia coli	0.007	L-homoserine butyl ester	*mutant R234L
+KCAT	Escherichia coli	2.5	L-homoserine butyl ester	*mutant H202L
+KCAT	Escherichia coli	29.1	L-homoserine n-butyl ester	*wild-type enzyme
+KCAT	Escherichia coli	0.0111	L-homoserine propyl ester	*mutant R234L
+KCAT	Escherichia coli	2.7	L-homoserine propyl ester	*mutant H202L

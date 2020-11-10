@@ -1,0 +1,1 @@
+ecNumber*5.3.3.19#turnoverNumber*24.52#turnoverNumberMaximum*#substrate*3-[(4S)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate#commentary*pH 8.1, 37&deg;C#organism*Bacillus subtilis#ligandStructureId*197793#literature*729968#

@@ -1,0 +1,31 @@
+KCAT	Saccharophagus degradans	0.0149	sodium alginate	*pH 7.5, 30&deg;C, mutant R260A
+KCAT	Saccharophagus degradans	0.0156	sodium alginate	*pH 7.5, 30&deg;C, mutant Q149A
+KCAT	Saccharophagus degradans	0.018	sodium alginate	*pH 7.5, 30&deg;C, mutant R438A
+KCAT	Saccharophagus degradans	0.057	sodium alginate	*pH 7.5, 30&deg;C, H415A
+KCAT	Pseudomonas aeruginosa	1.2	acetylated alginate	*pH 7.1, 25&deg;C
+KCAT	Pseudomonas aeruginosa	1.5	acetylated poly-(beta-(1-&gt;4)-D-mannuronan)	*pH 7.1, 25&deg;C
+KCAT	Flammeovirga sp. NJ-04	2.52	poly(beta-(1,4)-D-mannuronate)	*pH 7.0, 50&deg;C
+KCAT	Flammeovirga sp. NJ-04	3.37	poly(alpha-(1,4)-L-guluronate)	*pH 7.0, 50&deg;C
+KCAT	Flammeovirga sp. NJ-04	3.86	alginate	*pH 7.0, 50&deg;C
+KCAT	Vibrio splendidus	4.5	alginate	*pH 8.0, 20&deg;C
+KCAT	Vibrio splendidus	7.1	alginate	*pH 8.0, 20&deg;C
+KCAT	Persicobacter sp. CCB-QB2	9.24	alginate	*truncated protein lacking both the CBM16 and CBM32 domains, pH 7.0, 23&deg;C
+KCAT	Persicobacter sp. CCB-QB2	10.4	alginate	*truncated protein lacking the CBM16 domain, pH 7.0, 23&deg;C
+KCAT	Saccharophagus degradans	10.9	sodium alginate	*pH 7.5, 30&deg;C, mutant H202L
+KCAT	Zobellia galactanivorans	12.66	sodium alginate	*with L-guluronate content of 66.7%, pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Zobellia galactanivorans	17.89	sodium alginate	*with L-guluronate content of 52.6%, pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Zobellia galactanivorans	19.51	sodium alginate	*with L-guluronate content of 33.3%, pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Isoptericola halotolerans	24.8	poly(alpha-(1,4)-L-guluronate)	*pH 7.5, 55&deg;C
+KCAT	Isoptericola halotolerans	26.9	poly(beta-(1,4)-D-mannuronate)	*pH 7.5, 55&deg;C
+KCAT	Wenyingzhuangia fucanilytica	27.94	alginate	*pH 8.5, 40&deg;C
+KCAT	Vibrio sp. NJ-04	29	poly(alpha-(1,4)-L-guluronate)	*pH 8.0, 40&deg;C
+KCAT	Pseudomonas aeruginosa	32	alginate	*pH 7.1, 25&deg;C
+KCAT	Pseudomonas aeruginosa	32	poly-(beta-(1-&gt;4)-D-mannuronan)	*pH 7.1, 25&deg;C
+KCAT	Persicobacter sp. CCB-QB2	32.2	alginate	*wild-type, pH 7.0, 23&deg;C
+KCAT	Isoptericola halotolerans	45.9	alginate	*pH 7.5, 55&deg;C
+KCAT	Saccharophagus degradans	56.9	sodium alginate	*pH 7.5, 30&deg;C, wild-type enzyme
+KCAT	Vibrio sp. NJ-04	59	alginate	*pH 8.0, 40&deg;C
+KCAT	Microbulbifer sp. ALW1	69.4	alginate	*pH 7.0, 45&deg;C
+KCAT	Vibrio sp. NJ-04	77	poly(beta-(1,4)-D-mannuronate)	*pH 8.0, 40&deg;C
+KCAT	Flavobacterium sp.	872.8	sodium alginate	*recombinant His-tagged enzyme, pH 8.5, 45&deg;C
+KCAT	Flavobacterium sp.	873	alginate	*pH 8.5, 30&deg;C

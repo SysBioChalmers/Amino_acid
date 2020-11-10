@@ -1,0 +1,1 @@
+ecNumber*1.5.1.15#turnoverNumber*1.63#turnoverNumberMaximum*#substrate*L-5,10-methylenetetrahydrofolate#commentary*#organism*Acetobacterium woodii#ligandStructureId*5319#literature*392076#!ecNumber*1.5.1.15#turnoverNumber*1.58#turnoverNumberMaximum*#substrate*L-5,10-methenyltetrahydrofolate#commentary*#organism*Acetobacterium woodii#ligandStructureId*50059#literature*392076#

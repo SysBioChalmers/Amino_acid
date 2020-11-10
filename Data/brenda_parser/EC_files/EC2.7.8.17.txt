@@ -1,0 +1,18 @@
+KCAT	Homo sapiens	0.0041	soybean agglutinin	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.0045	DNase I	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.005	DNase I	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.005	soybean agglutinin	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.008	pro-tripeptidyl peptidase	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.011	uteroferrin	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.03	cathepsin D	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.033	uteroferrin	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.038	pro-tripeptidyl peptidase	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.042	RNase B	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.05	RNase B	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.11	cathepsin D	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.44	NPC2	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.5	methyl alpha-D-mannopyranoside	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.62	NPC2	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.75	Man9GlcNAc1 oligosaccharide	*pH 7.4, 37&deg;C, alpha2beta2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	0.75	methyl alpha-D-mannopyranoside	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+KCAT	Homo sapiens	1.55	Man9GlcNAc1 oligosaccharide	*pH 7.4, 37&deg;C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase

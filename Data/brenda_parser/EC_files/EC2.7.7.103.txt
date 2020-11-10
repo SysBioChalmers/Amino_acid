@@ -1,0 +1,2 @@
+KCAT	Campylobacter jejuni subsp. jejuni serotype O:2	0.095	CTP	*pH 8.0, 25&deg;C
+KCAT	Campylobacter jejuni subsp. jejuni serotype O:2	0.095	N5-phospho-L-glutamine	*pH 8.0, 25&deg;C

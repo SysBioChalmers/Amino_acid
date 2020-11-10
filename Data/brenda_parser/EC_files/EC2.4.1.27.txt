@@ -1,0 +1,5 @@
+KCAT	Escherichia virus T4	1.033	DNA containing 12 5-hydroxymethyl cytosine residues	*pH 7.9, 25&Acirc;&deg;C
+KCAT	Escherichia virus T4	1.283	5-hydroxymethyl cytosine containing phage T4 DNA	*pH 7.9, 25&Acirc;&deg;C
+KCAT	Escherichia virus T4	1.666	DNA containing 6 5-hydroxymethyl cytosine residues	*pH 7.9, 25&Acirc;&deg;C
+KCAT	Escherichia virus T4	2.8	DNA containing 2 5-hydroxymethyl cytosine residues	*pH 7.9, 25&Acirc;&deg;C
+KCAT	Escherichia virus T4	9.66	DNA containing 24 5-hydroxymethyl cytosine residues	*pH 7.9, 25&Acirc;&deg;C

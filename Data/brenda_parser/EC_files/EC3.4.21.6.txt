@@ -1,0 +1,83 @@
+KCAT	Homo sapiens	-999	meizothrombin	*pH 7.4, 22&deg;C, in absence of factor Va
+KCAT	Homo sapiens	-999	more	*kcat values of prothrombinase assembled with mutant cofactor factor Va D334K/Y335F or D334A/Y335A is reduced. Prothrombinase assembled with quadruple mutant molecules E323Y/E330Y/D334K/Y335F or E323Y/E330Y/D334A/Y335A displays a second-order rate constant up to 400fold lower than the value obtained with wild-type factor Va
+KCAT	Homo sapiens	-999	prothrombin	*and monomer. Dimer is about 1000000fold less active toward prothrombin than the monomer, mainly due to a substantial decrease in kcat. Dimerization results in substantial change in tertiary or quarternary structure with a concomitant decrease in alpha-helix
+KCAT	Homo sapiens	0.0000000018	prothrombin	*dimer, presence of 3 mM Ca2+
+KCAT	Homo sapiens	0.000000002	prothrombin	*dimer, presence of 5 mM Ca2+
+KCAT	Homo sapiens	0.0029	prothrombin	*monomer, presence of 3 mM Ca2+
+KCAT	Homo sapiens	0.004	prothrombin	*monomer, presence of 5 mM Ca2+
+KCAT	Homo sapiens	0.0045	prothrombin	*pH 7.4, 22&deg;C, in absence of factor Va
+KCAT	Homo sapiens	0.0057	fragment 1.2:prethrombin-2	*pH 7.4, 22&deg;C, in absence of factor Va
+KCAT	Homo sapiens	0.0068	recombinant prothrombin R155A/R284A/R271A mutant rMZ-II	*pH 7.4, 22&deg;C, in absence of factor Va
+KCAT	Homo sapiens	0.324	recombinant prothrombin R155A/R284A/R320A mutant rP2-II	*pH 7.4, 22&deg;C, in absence of factor Va
+KCAT	Homo sapiens	0.6	prothrombin	*pH 7.4, 25&deg;C, mutant enzyme E36K/E37K/E39K, activated by factor Va; pH 7.4, 25&deg;C, mutant enzyme E36Q/E37Q/E39Q, activated by factor Va
+KCAT	Homo sapiens	1.4	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*recombinant mutant R143A, 22&deg;C
+KCAT	Bos taurus	2.17	Nalpha-benzyloxycarbonyl-L-Lys-p-nitrophenyl ester	*
+KCAT	Homo sapiens	5.7	prothrombin	*pH 7.4, 25&deg;C, wild-type enzyme, activated by factor Va
+KCAT	Homo sapiens	6.39	meizothrombin	*pH 7.4, 22&deg;C, in absence of factor Va
+KCAT	Homo sapiens	6.5	prethrombin-1	*prothrombinase assembled with mutant V17A, pH 7.5
+KCAT	Homo sapiens	6.6	prethrombin-1	*prothrombinase assembled with mutant I16L, pH 7.5
+KCAT	Homo sapiens	7.3	prothrombin	*pH 7.4, 25&deg;C, mutant enzyme E74K/E76K/E77K, activated by factor Va
+KCAT	Homo sapiens	10.3	prothrombin	*prothrombinase assembled with mutant I16L, pH 7.5
+KCAT	Homo sapiens	10.5	prothrombin	*pH 7.4, 25&deg;C, mutant enzyme E74Q, E76Q/E77Q, activated by factor Va
+KCAT	Homo sapiens	14.8	prothrombin	*prothrombinase assembled with mutant V17A, pH 7.5
+KCAT	Homo sapiens	16.9	prothrombin	*recombinant mutant R154A, 22&deg;C
+KCAT	Homo sapiens	17.2	prothrombin	*recombinant mutant R143A, 22&deg;C
+KCAT	Homo sapiens	17.5	prethrombin-1	*prothrombinase assembled with recombinant factor Xa, pH 7.5
+KCAT	Homo sapiens	18.1	prethrombin-1	*prothrombinase assembled with native factor Xa, pH 7.5
+KCAT	Homo sapiens	19	prothrombin	*recombinant mutant K147A, 22&deg;C
+KCAT	Homo sapiens	19.6	prothrombin	*prothrombinase complex, pH 7.4, 22&deg;C
+KCAT	Homo sapiens	20.5	prethrombin-2	*prothrombinase complex, pH 7.4, 22&deg;C
+KCAT	Homo sapiens	21	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*recombinant mutant R150A, 22&deg;C
+KCAT	Homo sapiens	21	S-2765	*wild type enzyme, at pH 7.5 and 25&deg;C
+KCAT	Homo sapiens	21.2	prothrombin	*recombinant mutant R150A, 22&deg;C
+KCAT	Homo sapiens	23	prothrombin	*recombinant wild-type enzyme, 22&deg;C
+KCAT	Homo sapiens	26.5	prothrombin	*native wild-type enzyme, 22&deg;C
+KCAT	Homo sapiens	27.1	Arg-Gly-Arg-4-nitroanilide	*mutant E217A, pH 7.5
+KCAT	Homo sapiens	32.3	prothrombin	*prothrombinase assembled with recombinant factor Xa, pH 7.5
+KCAT	Homo sapiens	33	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	*prothrombinase assembled with mutant I16L, pH 7.5
+KCAT	Homo sapiens	40.4	prothrombin	*prothrombinase assembled with native factor Xa, pH 7.5
+KCAT	Homo sapiens	46	tosyl-glycyl-prolyl-D-arginine-4-nitroanilide	*pH 7.4, 23&deg;C, in presence of 0.001 mM heparin
+KCAT	Homo sapiens	55	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*recombinant mutant K147A, 22&deg;C
+KCAT	Homo sapiens	57.2	Arg-Gly-Arg-4-nitroanilide	*mutant E217A, pH 7.5, presence of 0.5 M NaCl
+KCAT	Homo sapiens	58	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	*mutant I16L, pH 7.5
+KCAT	Homo sapiens	72	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	*prothrombinase assembled with native factor Xa, pH 7.5
+KCAT	Homo sapiens	73	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	*mutant V17A, pH 7.5
+KCAT	Homo sapiens	79	tosyl-glycyl-prolyl-D-arginine-4-nitroanilide	*pH 7.4, 23&deg;C, in absence of heparin
+KCAT	Homo sapiens	81	prothrombin	*pH 7.7, 37&deg;C
+KCAT	Homo sapiens	91	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	*prothrombinase assembled with mutant V17A, pH 7.5
+KCAT	Homo sapiens	94.3	Arg-Gly-Arg-4-nitroanilide	*mutant E217Q, pH 7.5
+KCAT	Homo sapiens	96	prothrombin	*wild-type substrate, for cleavage at Arg320
+KCAT	Homo sapiens	98.6	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*recombinant mutant R143A, 22&deg;C
+KCAT	Homo sapiens	99.2	Arg-Gly-Arg-4-nitroanilide	*mutant K222A, pH 7.5
+KCAT	Homo sapiens	108	prothrombin	*pH 7.4, 22&deg;C, in presence of 20 mM factor Va
+KCAT	Homo sapiens	110	recombinant prothrombin R155A/R284A/R271A mutant rMZ-II	*pH 7.4, 22&deg;C, in presence of 20 mM factor Va
+KCAT	Homo sapiens	114	fragment 1.2:prethrombin-2	*pH 7.4, 22&deg;C, in presence of 20 mM factor Va
+KCAT	Homo sapiens	114	recombinant prothrombin R155A/R284A/R320A mutant rP2-II	*pH 7.4, 22&deg;C, in presence of 20 mM factor Va
+KCAT	Homo sapiens	121	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*native wild-type enzyme, 22&deg;C
+KCAT	Homo sapiens	125.3	Arg-Gly-Arg-4-nitroanilide	*wild-type, pH 7.5
+KCAT	Homo sapiens	126.5	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*recombinant wild-type enzyme, 22&deg;C
+KCAT	Homo sapiens	127	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*recombinant wild-type enzyme, 22&deg;C
+KCAT	Homo sapiens	139	S2222	*pH 7.4, 25&deg;C, mutant enzyme E74K/E76K/E77K
+KCAT	Bos taurus	140	benzoyl-Ile-Glu-(-H/OMe)-Gly-Arg-p-nitroanilide	*enzyme from which the residues 1-44 of the light chain have been removed by chymotryptic proteolysis
+KCAT	Homo sapiens	140	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	*native factor Xa, pH 7.5; prothrombinase assembled with recombinant factor Xa, pH 7.5
+KCAT	Homo sapiens	144	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*pH 7.4, 23&deg;C, in presence of 0.001 mM heparin
+KCAT	Bos taurus	145	benzoyl-Ile-Glu(piperidineamide)-Gly-Arg-p-nitroanilide	*native enzyme
+KCAT	Bos taurus	145	benzoyl-Ile-Glu(piperidineamide)-Gly-Arg-p-nitroanilide	*
+KCAT	Bos taurus	146	benzoyl-Ile-Glu-(-H/OMe)-Gly-Arg-p-nitroanilide	*native enzyme
+KCAT	Bos taurus	146	benzoyl-Ile-Glu-(-H/OMe)-Gly-Arg-p-nitroanilide	*
+KCAT	Homo sapiens	148	S2222	*pH 7.4, 25&deg;C, mutant enzyme E74Q, E76Q/E77Q
+KCAT	Bos taurus	149	benzoyl-Ile-Glu(piperidineamide)-Gly-Arg-p-nitroanilide	*enzyme from which the residues 1-44 of the light chain have been removed by chymotryptic proteolysis
+KCAT	Homo sapiens	150	meizothrombin	*pH 7.4, 22&deg;C, in presence of 20 mM factor Va
+KCAT	Homo sapiens	151.7	Arg-Gly-Arg-4-nitroanilide	*mutant E217Q, pH 7.5, presence of 0.5 M NaCl
+KCAT	Homo sapiens	154.4	Arg-Gly-Arg-4-nitroanilide	*mutant R221A, pH 7.5
+KCAT	Homo sapiens	169	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*pH 7.4, 23&deg;C, in absence of heparin
+KCAT	Homo sapiens	196	S2222	*pH 7.4, 25&deg;C, mutant enzyme E36K/E37K/E39K
+KCAT	Homo sapiens	200	S2222	*pH 7.4, 25&deg;C, mutant enzyme E36Q/E37Q/E39Q
+KCAT	Homo sapiens	210	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	*recombinant factor Xa, pH 7.5
+KCAT	Homo sapiens	211	S2222	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Homo sapiens	214	S2765	*pH 7.4, 25&deg;C, mutant enzyme E36Q/E37Q/E39Q
+KCAT	Homo sapiens	215	S2765	*pH 7.4, 25&deg;C, mutant enzyme E36K/E37K/E39K
+KCAT	Homo sapiens	254	S2765	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Homo sapiens	269	S2765	*pH 7.4, 25&deg;C, mutant enzyme E74K/E76K/E77K
+KCAT	Homo sapiens	270	S2765	*pH 7.4, 25&deg;C, mutant enzyme E74Q, E76Q/E77Q
+KCAT	Homo sapiens	411	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	*recombinant mutant R154A, 22&deg;C

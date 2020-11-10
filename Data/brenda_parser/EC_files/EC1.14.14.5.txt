@@ -1,0 +1,8 @@
+KCAT	Escherichia coli	0.065	octanesulfonate	*mutant E20A, pH 7.5, temperature not specified in the publication
+KCAT	Escherichia coli	0.093	octanesulfonate	*mutant C54A
+KCAT	Escherichia coli	0.47	octanesulfonate	*mutant C54S
+KCAT	Escherichia coli	0.675	octanesulfonate	*mutant D111A, pH 7.5, temperature not specified in the publication
+KCAT	Escherichia coli	0.73	octanesulfonate	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Escherichia coli	0.85	octanesulfonate	*mutant D251A/D252A/E253A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.86	octanesulfonate	*wild-type SsuD
+KCAT	Escherichia coli	0.88	octanesulfonate	*wild-type, pH 7.5, 25&Acirc;&deg;C

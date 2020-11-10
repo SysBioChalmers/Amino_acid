@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	0.11	SUMO-3 precursor	*pH 8.0, 23&deg;C
+KCAT	Homo sapiens	0.72	SUMO-1 precursor	*pH 8.0, 23&deg;C
+KCAT	Homo sapiens	0.77	SUMO-2 precursor	*pH 8.0, 23&deg;C
+KCAT	Homo sapiens	31	(SUMO-1)-Ran GTPase-activating protein 1 conjugate	*pH 8.0, 23&deg;C
+KCAT	Homo sapiens	50.5	(SUMO-2/3)-Ran GTPase-activating protein 1 conjugate	*pH 8.0, 23&deg;C

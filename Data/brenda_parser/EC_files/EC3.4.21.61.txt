@@ -1,0 +1,8 @@
+KCAT	Saccharomyces cerevisiae	3000	Ac-Nle-YKR 4-methylcoumarin 7-amide	*pH 7.0, 21&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	300	Ac-Nle-YKK 4-methylcoumarin 7-amide	*pH 7.0, 21&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	366	t-butyloxycarbonyl-QGR 4-methylcoumarin 7-amide	*pH 7.0, 21&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	21.6	Ac-AYKK 4-methylcoumarin 7-amide	*pH 7.0, 21&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	2640	benzyloxycarbonyl-Ala-Tyr-Lys-Lys 4-methylcoumarin 7-amide	*pH 7.0, 21&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	2940	D-Ac-Nle-Tyr-Lys-Arg 4-methylcoumarin 7-amide	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	2700	Ac-Nle-Tyr-Lys-Arg 4-methylcoumarin 7-amide	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	11.4	t-butyloxycarbonyl-EKK 4-methylcoumarin 7-amide	*pH 7.0, 21&Acirc;&deg;C

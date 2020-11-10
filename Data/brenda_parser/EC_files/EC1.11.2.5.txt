@@ -1,0 +1,2 @@
+KCAT	Streptomyces lavendulae	0.205	L-tyrosine	*pH 9.0, 25&deg;C
+KCAT	Streptomyces lavendulae	0.476	3-methyl-L-tyrosine	*pH 9.0, 25&deg;C

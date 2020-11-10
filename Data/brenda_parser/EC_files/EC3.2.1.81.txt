@@ -1,0 +1,6 @@
+KCAT	Saccharophagus degradans	22	agarose	*in 20 mM Tris-HCl buffer (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Agarivorans albus	41	agarose	*
+KCAT	Catenovulum agarivorans	2400	agarose	*at pH 8.0 and 50&Acirc;&deg;C
+KCAT	Pseudoalteromonas sp. CY24	0.19	neoagarodecaose	*
+KCAT	Pseudoalteromonas sp. CY24	4.77	neoagarododecaose	*
+KCAT	Pseudoalteromonas sp. CY24	5.16	neoagarotetradecaose	*

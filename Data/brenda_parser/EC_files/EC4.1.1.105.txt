@@ -1,0 +1,8 @@
+KCAT	Gelatoporia subvermispora	0.16	5-hydroxy-L-tryptophan	*mutant enzyme G351S, at pH 7.5 and 37&deg;C
+KCAT	Gelatoporia subvermispora	0.17	5-hydroxy-L-tryptophan	*recombinant wild-type enzyme, pH 7.5, 37&deg;C; wild type enzyme, at pH 7.5 and 37&deg;C
+KCAT	Gelatoporia subvermispora	0.26	5-hydroxy-L-tryptophan	*mutant enzyme G351L, at pH 7.5 and 37&deg;C
+KCAT	Gelatoporia subvermispora	0.82	L-tryptophan	*mutant enzyme G351S, at pH 7.5 and 37&deg;C
+KCAT	Gelatoporia subvermispora	1.21	L-tryptophan	*recombinant wild-type enzyme, pH 7.5, 37&deg;C; wild type enzyme, at pH 7.5 and 37&deg;C
+KCAT	Withania coagulans	1.66	L-tryptophan	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Gelatoporia subvermispora	1.79	L-tryptophan	*mutant enzyme G351L, at pH 7.5 and 37&deg;C
+KCAT	Catharanthus roseus	3.33	L-tryptophan	*at pH 7.5, temperature not specified in the publication

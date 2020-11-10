@@ -1,0 +1,1 @@
+ecNumber*1.14.11.38#turnoverNumber*0.19#turnoverNumberMaximum*#substrate*fumitremorgin B#commentary*pH 6.0, 30&Acirc;&deg;C#organism*Aspergillus fumigatus#ligandStructureId*10414#literature*722046#

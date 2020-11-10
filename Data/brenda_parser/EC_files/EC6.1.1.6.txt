@@ -1,0 +1,126 @@
+KCAT	Borreliella burgdorferi	0.00051	ATP	*mutant enzyme Y269S
+KCAT	Borreliella burgdorferi	0.0011	ATP	*mutant enzyme T31G
+KCAT	Escherichia coli	0.013	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E240Q
+KCAT	Escherichia coli	0.017	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E278Q; pH 7.2, 37&Acirc;&deg;C, mutant enzyme E428Q
+KCAT	Borreliella burgdorferi	0.017	ATP	*mutant enzyme Y269F
+KCAT	Escherichia coli	0.054	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E278D
+KCAT	Escherichia coli	0.14	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E240D
+KCAT	Escherichia coli	0.17	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme Y280F
+KCAT	Geobacillus stearothermophilus	0.3	ATP	*ATP-diphosphate exchange reaction, recombinant mutant Y271F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.35	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme Y280S
+KCAT	Borreliella burgdorferi	0.57	ATP	*wild type enzyme
+KCAT	Escherichia coli	0.67	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme F426H
+KCAT	Escherichia coli	0.8	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme G216A
+KCAT	Escherichia coli	1	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E428D; pH 7.2, 37&Acirc;&deg;C, mutant enzyme N424D
+KCAT	Borreliella burgdorferi	1.7	ATP	*mutant enzyme T31S
+KCAT	Escherichia coli	2.2	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme N424Q
+KCAT	Escherichia coli	2.4	ATP	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme F426W
+KCAT	Escherichia coli	3.4	ATP	*pH 7.2, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Cricetinae	5	ATP	*recombinant wild-type enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Cricetinae	5.1	ATP	*recombinant N-terminally truncated enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	34.7	ATP	*ATP-diphosphate exchange reaction, recombinant mutant Y271F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	36.4	ATP	*ATP-diphosphate exchange reaction, recombinant mutant W332F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	37.3	ATP	*ATP-diphosphate exchange reaction, recombinant mutant W314F/W332F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	38.6	ATP	*ATP-diphosphate exchange reaction, recombinant mutant W314F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	40.9	ATP	*ATP-diphosphate exchange
+KCAT	Geobacillus stearothermophilus	42.8	ATP	*ATP-diphosphate exchange reaction, recombinant wild-type enzyme, pH 8.0, 37&Acirc;&deg;C
+KCAT	Borreliella burgdorferi	0.00012	L-lysine	*mutant enzyme H242A
+KCAT	Borreliella burgdorferi	0.00017	L-lysine	*mutant enzyme W220L
+KCAT	Escherichia coli	0.00065	L-lysine	*L-lysine lactam formation, pH 7.4, 37&Acirc;&deg;C
+KCAT	Borreliella burgdorferi	0.00075	L-lysine	*mutant enzyme W220A
+KCAT	Borreliella burgdorferi	0.0026	L-lysine	*mutant enzyme Y269S
+KCAT	Borreliella burgdorferi	0.0046	L-lysine	*mutant enzyme T31G
+KCAT	Escherichia coli	0.0087	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E240Q
+KCAT	Methanothermobacter thermautotrophicus	0.0143	L-lysine	*at 25&Acirc;&deg;C, in 250 mM KCl, 100 mM HEPES, pH 7.5, 10 mM dithiothreitol, 10 mM MgCl2, 0.05 mg/ml bovine serum albumin
+KCAT	Escherichia coli	0.015	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E278Q
+KCAT	Escherichia coli	0.02	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E428D
+KCAT	Escherichia coli	0.031	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme Y280F
+KCAT	Escherichia coli	0.086	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E240D
+KCAT	Borreliella burgdorferi	0.099	L-lysine	*mutant enzyme Y269F
+KCAT	Borreliella burgdorferi	0.13	L-lysine	*mutant enzyme W220Y
+KCAT	Escherichia coli	0.16	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E278D
+KCAT	Borreliella burgdorferi	0.29	L-lysine	*mutant enzyme H242L
+KCAT	Borreliella burgdorferi	0.34	L-lysine	*wild type enzyme
+KCAT	Borreliella burgdorferi	0.45	L-lysine	*mutant enzyme G29A
+KCAT	Borreliella burgdorferi	0.53	L-lysine	*mutant enzyme T31S
+KCAT	Escherichia coli	0.6	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme F426W
+KCAT	Escherichia coli	0.65	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme N424Q
+KCAT	Escherichia coli	1	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme E428D
+KCAT	Escherichia coli	1.6	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme N424D; pH 7.2, 37&Acirc;&deg;C, mutant enzyme Y280S
+KCAT	Escherichia coli	1.8	L-lysine	*pH 7.2, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	2.4	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme F426H
+KCAT	Geobacillus stearothermophilus	3	L-lysine	*aminoacylation reaction, recombinant mutant W332F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	3.13	L-lysine	*aminoacylation reaction, recombinant mutant W314F, pH 8.0, 37&Acirc;&deg;C; aminoacylation reaction, recombinant wild-type enzyme, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	3.2	L-lysine	*native enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	3.23	L-lysine	*aminoacylation reaction, recombinant mutant W332F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	3.3	L-lysine	*aminoacylation reaction, recombinant mutant W314F/W332F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.4	L-lysine	*pH 7.2, 37&Acirc;&deg;C, mutant enzyme G216A
+KCAT	Geobacillus stearothermophilus	3.53	L-lysine	*aminoacylation reaction, recombinant wild-type enzyme, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	3.58	L-lysine	*aminoacylation reaction, recombinant mutant W314F, pH 8.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	3.6	L-lysine	*recombinant enzyme without t7-tag
+KCAT	Geobacillus stearothermophilus	4.1	L-lysine	*recombinant T7-tagged enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Cricetinae	5.1	L-lysine	*recombinant N-terminally truncated enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Cricetinae	5.8	L-lysine	*recombinant wild-type enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	8.2	L-lysine	*mutant enzyme G469A, in 100 mM HEPES (pH 7.2), 30 mM KCl, 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Bacillus cereus	41.7	L-lysine	*wild type enzyme, in 100 mM HEPES (pH 7.2), 30 mM KCl, 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	45.7	L-lysine	*forward reaction, pH 8.0, 30&Acirc;&deg;C
+KCAT	Bacillus cereus	85	L-lysine	*mutant enzyme A233S, in 100 mM HEPES (pH 7.2), 30 mM KCl, 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Borreliella burgdorferi	0.34	tRNALys	*wild-type tRNALys
+KCAT	Homo sapiens	0.38	tRNALys	*human wild-type tRNALys, 30&Acirc;&deg;C, N-terminally truncated mutant enzyme
+KCAT	Homo sapiens	1.7	tRNALys	*human wild-type tRNALys, 20&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	2	tRNALys	*human wild-type tRNALys, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Geobacillus stearothermophilus	14.5	L-Lysine amide	*forward reaction, pH 8.0, 30&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	221	L-Lysine hydroxamate	*forward reaction, pH 8.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.00023	Lys-tRNALys	*deacylation reaction, pH 7.4, 37&Acirc;&deg;C, in absence of DTT
+KCAT	Escherichia coli	0.0088	Lys-tRNALys	*deacylation reaction, pH 7.4, 37&Acirc;&deg;C, in presence of 50 mM DTT
+KCAT	Escherichia coli	0.00056	Met-tRNALys	*deacylation reaction, pH 7.4, 37&Acirc;&deg;C, in absence or presence of 50 mM DTT
+KCAT	Geobacillus stearothermophilus	-999	more	*hyperbolic dependence of kapp on the initial ATP concentration
+KCAT	Borreliella burgdorferi	-999	more	*turnover numbers of tRNALys variants
+KCAT	Borreliella burgdorferi	0.00012	tRNALysUUU	*mutant enzyme W220L
+KCAT	Borreliella burgdorferi	0.00013	tRNALysUUU	*mutant enzyme H242A
+KCAT	Borreliella burgdorferi	0.00018	tRNALysUUC	*
+KCAT	Homo sapiens	0.00026	tRNALys,3'-59mer	*human tRNALys mutant + human tRNALys,3'-7mer mutant, 20&Acirc;&deg;C, wild-type enzyme
+KCAT	Borreliella burgdorferi	0.0004	tRNALysUGU	*
+KCAT	Borreliella burgdorferi	0.00056	tRNALysUUU	*mutant enzyme W220A
+KCAT	Escherichia coli	0.00067	Arg-tRNALys	*deacylation reaction, pH 7.4, 37&Acirc;&deg;C, in absence or presence of 50 mM DTT
+KCAT	Escherichia coli	0.00076	Thr-tRNALys	*deacylation reaction, pH 7.4, 37&Acirc;&deg;C, in absence or presence of 50 mM DTT
+KCAT	Methanococcus maripaludis	0.002	Escherichia coli tRNALys CNBr-treated	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Borreliella burgdorferi	0.0023	tRNALysUUU	*mutant enzyme Y269S
+KCAT	Escherichia coli	0.0025	Escherichia coli G2.U71 tRNA	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.0035	Borellia burgdorferi tRNALys	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Borreliella burgdorferi	0.0035	Escherichia coli G2.U71 tRNA	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Methanococcus maripaludis	0.004	Escherichia coli tRNALys	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Borreliella burgdorferi	0.004	Escherichia coli wild-type tRNA	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Borreliella burgdorferi	0.005	tRNALysUUU	*mutant enzyme T31G
+KCAT	Homo sapiens	0.0068	tRNALysU36A	*human mutant tRNALys, 30&Acirc;&deg;C, N-terminally truncated mutant enzyme
+KCAT	Homo sapiens	0.0079	tRNALysU35C	*human mutant tRNALys, 30&Acirc;&deg;C, N-terminally truncated mutant enzyme
+KCAT	Borreliella burgdorferi	0.0095	tRNALysGUU	*
+KCAT	Borreliella burgdorferi	0.0095	tRNALysUUU	*
+KCAT	Escherichia coli	0.013	tRNATyrCUA	*
+KCAT	Borreliella burgdorferi	0.014	tRNALysCUU	*
+KCAT	Pyrococcus horikoshii	0.043	tRNALysGUU	*wild type enzyme, at 37&Acirc;&deg;C in 100 mM HEPES (pH 7.2), 25 mM KCl, 10 mM MgCl2, 4 mM dithiothreitol, and 5 mM ATP
+KCAT	Homo sapiens	0.046	tRNALysU36C	*human mutant tRNALys, 30&Acirc;&deg;C, N-terminally truncated mutant enzyme
+KCAT	Methanococcus maripaludis	0.05	Methanococcus maripaludis tRNALys CNBr-treated	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.055	Escherichia coli wild-type tRNA	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.062	tRNALysCUU	*wild type enzyme, at 37&Acirc;&deg;C in 100 mM HEPES (pH 7.2), 25 mM KCl, 10 mM MgCl2, 4 mM dithiothreitol, and 5 mM ATP
+KCAT	Borreliella burgdorferi	0.12	tRNALysUUUmodified	*
+KCAT	Borreliella burgdorferi	0.14	tRNALysUUU	*mutant enzyme Y269F
+KCAT	Methanococcus maripaludis	0.2	Methanococcus maripaludis tRNALys	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Borreliella burgdorferi	0.23	tRNALysUUU	*mutant enzyme W220Y
+KCAT	Borreliella burgdorferi	0.29	tRNALysUUU	*mutant enzyme H242L
+KCAT	Borreliella burgdorferi	0.33	tRNALysUUU	*wild type enzyme
+KCAT	Pyrococcus horikoshii	0.44	tRNALysUUU	*wild type enzyme, at 37&Acirc;&deg;C in 100 mM HEPES (pH 7.2), 25 mM KCl, 10 mM MgCl2, 4 mM dithiothreitol, and 5 mM ATP
+KCAT	Borreliella burgdorferi	0.59	tRNALysUUU	*mutant enzyme G29A
+KCAT	Borreliella burgdorferi	0.68	tRNALysUUU	*mutant enzyme T31S
+KCAT	Borreliella burgdorferi	0.79	Borellia burgdorferi tRNALys	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.88	tRNALys,3'-59mer	*human tRNALys mutant + human tRNALys,3'-14mer mutant, 20&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	1.5	tRNALys,3'-59mer	*human tRNALys mutant + human tRNALys,3'-17mer mutant, 20&Acirc;&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	2.7	lysylation	*18S synthetase complex
+KCAT	Geobacillus stearothermophilus	3.2	aminoacylation	*
+KCAT	Rattus norvegicus	5.5	lysylation	*free enzyme
+KCAT	Borreliella burgdorferi	6.08	Borellia burgdorferi tRNALys	*recombinant enzyme, pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.08	tRNALys,3'-59mer	*human tRNALys mutant + human tRNALys,3'-14mer mutant, 20&Acirc;&deg;C, wild-type enzyme
+KCAT	Cricetinae	6.2	human tRNALys,3	*recombinant wild-type enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Cricetinae	6.3	yeast tRNALys	*recombinant wild-type enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Cricetinae	7.1	yeast tRNALys	*recombinant N-terminally truncated enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Cricetinae	7.8	human tRNALys,3	*recombinant N-terminally truncated enzyme, pH 7.5, 25&Acirc;&deg;C

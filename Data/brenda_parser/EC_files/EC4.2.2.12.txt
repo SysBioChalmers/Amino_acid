@@ -1,0 +1,5 @@
+KCAT	Bacillus sp. GL1	9.92	Xanthan	*30&Acirc;&deg;C, pH 5.5, mutant enzyme R313A
+KCAT	Bacillus sp. GL1	1730	Xanthan	*30&Acirc;&deg;C, pH 5.5, Y315F
+KCAT	Bacillus sp. (in: Bacteria)	2170	Xanthan	*wild-type
+KCAT	Bacillus sp. GL1	2170	Xanthan	*30&Acirc;&deg;C, pH 5.5, wild-type enzyme
+KCAT	Bacillus sp. GL1	6120	Xanthan	*30&Acirc;&deg;C, pH 5.5, R612A

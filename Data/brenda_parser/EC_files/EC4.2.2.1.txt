@@ -1,0 +1,8 @@
+KCAT	Streptococcus pyogenes phage H4489A	4.9	hyaluronan	*recombinant enzyme, pH 6.0, 30&Acirc;&deg;C
+KCAT	Streptococcus pyogenes phage H10403	-999	chondroitin sulfate	*after 14 h at pH 5.0 (fibrillar film formation) 20% activity (100% activity at pH 7.0, 0 h, with hyaluronic acid)
+KCAT	Streptococcus pyogenes phage H10403	-999	hyaluronic acid	*after 15 h at pH 5.0 (fibrillar film formation) 68% activity (100% activity at pH 7.0, 0 h, with hyaluronic acid)
+KCAT	Streptococcus pyogenes phage H4489A	2.76	hyaluronic acid	*pH 6.0, 25&Acirc;&deg;C, recombinant mutant Q295E
+KCAT	Streptococcus pyogenes phage H4489A	4.29	hyaluronic acid	*pH 6.0, 25&Acirc;&deg;C, recombinant mutant Y298F
+KCAT	Streptococcus pyogenes phage H4489A	5.65	hyaluronic acid	*pH 6.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Streptococcus equi subsp. equi 4047	7.61	hyaluronic acid	*
+KCAT	Streptococcus pneumoniae	-999	more	*turnover numbers of C-terminal domain swapped chimeras of SpnHL and SagHL, modified enzyme SpnHLv/SagHLv (where the size of linker connecting the alpha-domain to C-terminal domain is enlarged by two amino acid)

@@ -1,0 +1,61 @@
+KCAT	Plasmodium falciparum	-999	more	*
+KCAT	Plasmodium falciparum	0.08	6,7-dimethylquinoline-5,8-dione	*25&deg;C
+KCAT	Plasmodium falciparum	0.1	1,8-dihydroxy-9,10-anthraquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Plasmodium falciparum	0.1	diethyl [2,5-bis(aziridin-1-yl)-3,6-dioxocyclohexa-1,4-diene-1,4-diyl]biscarbamate	*kcat_Km above 0.8 1/sec*mM, pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;Ckcat above 0.1 1/sec, pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Plasmodium falciparum	0.11	1,4-dihydroxy-9,10-anthraquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Homo sapiens	0.11	6,7-dimethylquinoline-5,8-dione	*25&deg;C
+KCAT	Homo sapiens	0.13	7-methylquinoline-5,8-dione	*25&deg;C
+KCAT	Plasmodium falciparum	0.14	2-methyl-1,4-naphthoquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Homo sapiens	0.16	diallyl trisulfide	*
+KCAT	Homo sapiens	0.16	menadione	*25&deg;C
+KCAT	Plasmodium falciparum	0.16	menadione	*25&deg;C
+KCAT	Homo sapiens	0.16	trypanothione	*pH 7.5
+KCAT	Schistosoma mansoni	0.19	GSSG	*truncated recombinant enzyme (lacking the last two amino acids Sec597-Gly598), in 150 mM potassium phosphate pH 7.0, at 37&deg;C
+KCAT	Plasmodium falciparum	0.2	trimethyl-1,4-benzoquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Plasmodium falciparum	0.22	9,10-phenanthrene quinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Plasmodium falciparum	0.3	tetramethyl-1,4-benzoquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Homo sapiens	0.34	(E)-ajoene	*
+KCAT	Homo sapiens	0.34	quinoxaline-5,8-dione	*25&deg;C
+KCAT	Homo sapiens	0.35	6-methylquinoline-5,8-dione	*25&deg;C
+KCAT	Plasmodium falciparum	0.35	6-methylquinoline-5,8-dione	*25&deg;C
+KCAT	Plasmodium falciparum	0.35	quinoxaline-5,8-dione	*25&deg;C
+KCAT	Plasmodium falciparum	0.39	7-methylquinoline-5,8-dione	*25&deg;C
+KCAT	Plasmodium falciparum	1	1,4-Naphthoquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Homo sapiens	1.08	1,4-Naphthoquinone	*25&deg;C
+KCAT	Plasmodium falciparum	1.08	1,4-Naphthoquinone	*25&deg;C
+KCAT	Plasmodium falciparum	1.1	2,6-dimethyl-1,4-benzoquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Schistosoma mansoni	1.2	5,5'-dithiobis(2-nitrobenzoic acid)	*truncated recombinant enzyme (lacking the last two amino acids Sec597-Gly598), in 100 mM potassium phosphate pH 7.0, at 25&deg;C
+KCAT	Homo sapiens	1.47	(E)-ajoene	*+ GSH
+KCAT	Plasmodium falciparum	1.55	quinoline-5,8-dione	*25&deg;C
+KCAT	Plasmodium falciparum	2	glutathione disulfide	*mutant enzyme, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	2.23	quinoline-5,8-dione	*25&deg;C
+KCAT	Homo sapiens	2.6	(Z)-ajoene	*
+KCAT	Haemonchus contortus	2.95	glutathione disulfide	*pH 7.8, 37&deg;C
+KCAT	Plasmodium falciparum	5	2,5-bis(aziridin-1-yl)cyclohexa-2,5-diene-1,4-dione	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;CpH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Homo sapiens	5	glutathione disulfide	*mutant enzyme, pH 7.4, 25&deg;C
+KCAT	Plasmodium falciparum	5.5	5-hydroxy-1,4-naphthoquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Plasmodium falciparum	7	5,8-Dihydroxy-1,4-naphthoquinone	*pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25&deg;C
+KCAT	Schistosoma mansoni	16	5,5'-dithiobis(2-nitrobenzoic acid)	*full length enzyme, in 100 mM potassium phosphate pH 7.0, at 25&deg;C
+KCAT	Homo sapiens	20.8	trypanothione	*recombinant glutathione-trypanothione reductase-like enzyme
+KCAT	Xanthomonas campestris	32.5	NADH	*
+KCAT	Xanthomonas campestris	37.5	NADPH	*
+KCAT	Anabaena sp.	38	NADH	*recombinant enzyme
+KCAT	Homo sapiens	48.3	glutathione disulfide	*reoxidation
+KCAT	Ipomoea batatas	50.14	glutathione disulfide	*in 100 mM potassium phosphate buffer (pH 8.0), at 25&deg;C
+KCAT	Ipomoea batatas	53.72	NADPH	*in 100 mM potassium phosphate buffer (pH 8.0), at 25&deg;C
+KCAT	Escherichia coli	85	trypanothione	*pH 7.5, mutant enzyme N21R
+KCAT	Escherichia coli	101.7	trypanothione	*pH 7.5, wild-type enzyme
+KCAT	Plasmodium falciparum	120	glutathione disulfide	*pH 7.4, 25&deg;C
+KCAT	Homo sapiens	165	glutathione disulfide	*pH 7.4, 25&deg;C
+KCAT	Homo sapiens	210	GSSG	*
+KCAT	Homo sapiens	210	GSSG	*
+KCAT	Homo sapiens	210	GSSG	*
+KCAT	Homo sapiens	210	GSSG	*pH 7.5
+KCAT	Colwellia psychrerythraea	217	NADPH	*4&deg;C, pH not specified in the publication
+KCAT	Euglena gracilis	317	GSSG	*
+KCAT	Anabaena sp.	367	NADPH	*recombinant enzyme
+KCAT	Saccharomyces cerevisiae	463.3	NADPH	*recombinant Glr1
+KCAT	Escherichia coli	538.3	GSSG	*pH 7.5, mutant enzyme N21R
+KCAT	Colwellia psychrerythraea	700	NADPH	*25&deg;C, pH not specified in the publication
+KCAT	Escherichia coli	733.3	GSSG	*pH 7.5, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	900	NADPH	*native Glr1

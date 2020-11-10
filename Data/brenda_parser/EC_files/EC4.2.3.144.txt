@@ -1,0 +1,5 @@
+KCAT	Solanum lycopersicum	0.43	(2E,6E)-farnesyl diphosphate	*pH and temperature not specified in the publication
+KCAT	Solanum lycopersicum	6.85	geranylgeranyl diphosphate	*pH 7.0, temperature not specified in the publication
+KCAT	Solanum lycopersicum	6.85	geranylgeranyl diphosphate	*pH and temperature not specified in the publication
+KCAT	Nicotiana attenuata	7.53	geranylgeranyl diphosphate	*pH 7.0, temperature not specified in the publication
+KCAT	Nicotiana attenuata	7.53	geranylgeranyl diphosphate	*pH and temperature not specified in the publication

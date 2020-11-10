@@ -1,0 +1,28 @@
+KCAT	Lactococcus lactis	62.1	Gly-Pro-7-amido-4-methylcoumarin	*
+KCAT	Lactococcus lactis	69.8	Gly-Pro-7-amido-4-methylcoumarin	*
+KCAT	Lactococcus lactis	2180	Gly-Pro-Ala	*
+KCAT	Lactococcus lactis	17.1	Lys-Ala-7-amido-4-methylcoumarin	*
+KCAT	Lactobacillus helveticus	128	Ala-Pro-4-nitroanilide	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactococcus lactis	61.6	Lys-Pro-7-amido-4-methylcoumarin	*
+KCAT	Lactococcus lactis	62.9	Glu-Pro-7-amido-4-methylcoumarin	*
+KCAT	Lactococcus lactis	43.4	Leu-Pro-7-amido-4-methylcoumarin	*
+KCAT	Lactococcus lactis	78.4	Phe-Pro-7-amido-4-methylcoumarin	*
+KCAT	Lactococcus lactis	2.1	Gly-Ala-7-amido-4-methylcoumarin	*
+KCAT	Lactococcus lactis	178	Gly-Pro 4-nitroanilide	*
+KCAT	Lactococcus lactis	120	Leu-Ala-Pro	*
+KCAT	Lactococcus lactis	46.4	Gly-Pro-Gly-Gly	*
+KCAT	Lactococcus lactis	418	His-Pro-Leu	*
+KCAT	Lactococcus lactis	670	His-Pro-Tyr	*
+KCAT	Lactococcus lactis	181	Arg-Pro 4-nitroanilide	*
+KCAT	Lactococcus lactis	26	Ala-Ala-7-amido-4-methylcoumarin	*
+KCAT	Lactobacillus helveticus	95.9	L-Ala-L-Pro-L-Ser	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	233	L-Ser-L-Pro-L-Ala	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	57.2	L-Ala-L-Pro-L-Arg	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	133	L-Arg-L-Pro-L-Ala	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	199	L-Asp-L-Pro-L-Ala	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	43.5	L-Ala-L-Pro-L-Tyr	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	145	L-Tyr-L-Pro-L-Ala	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	57.2	Ala-Pro-Arg	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	133	Arg-Pro-Ala	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	145	Tyr-Pro-Ala	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactobacillus helveticus	233	Ser-Pro-Ala	*pH 6.5, 37&Acirc;&deg;C

@@ -1,0 +1,3 @@
+KCAT	Oryctolagus cuniculus	0.004	NAD+	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.49	morphine	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.067	trans-naphthalene dihydrodiol	*pH 7.4, 25&Acirc;&deg;C

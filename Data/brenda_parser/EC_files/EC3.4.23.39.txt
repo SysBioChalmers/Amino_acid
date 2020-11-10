@@ -1,0 +1,98 @@
+KCAT	Plasmodium falciparum	10	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C, naturally occuring enzyme
+KCAT	Plasmodium falciparum	13	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	15	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	*pH 4.4
+KCAT	Plasmodium falciparum	0.431	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*F244E mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	0.596	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*delF241 mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	0.845	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*F244K mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	0.875	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*mature enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	1.1	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*autoactivated enzyme
+KCAT	Plasmodium falciparum	1.11	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*F244A mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	6.08	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*delF241 mutant enzyme expressed by a system that bypasses the need for autoactivation; F244K mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	0.952	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*F244E mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	1.05	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*delF241 mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	1.51	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*F244K mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	2.33	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*mature enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	2.51	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*F244A mutant enzyme expressed by a system that bypasses the need for autoactivation
+KCAT	Plasmodium falciparum	2.52	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*autoactivated enzyme
+KCAT	Plasmodium falciparum	1.7	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	2	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C; pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E; pH 4.4, 37&Acirc;&deg;C, mutant enzyme S77D
+KCAT	Plasmodium falciparum	3.5	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.03	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.04	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	*pH 4.7, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.04	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	*pH 4.7, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.06	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	0.08	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme S77D
+KCAT	Plasmodium falciparum	3.1	Lys-Pro-Ile-Nle-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.1	Ala-Leu-Glu-Arg-Nle-Phe-Phe(NO2)-Ser-Phe-Pro	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	2.7	Ala-Leu-Glu-Arg-Nle-Phe-Phe(NO2)-Ser-Phe-Pro	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme S77D
+KCAT	Plasmodium falciparum	5.8	Ala-Leu-Glu-Arg-Nle-Phe-Phe(NO2)-Ser-Phe-Pro	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E
+KCAT	Plasmodium falciparum	7.4	Ala-Leu-Glu-Arg-Nle-Phe-Phe(NO2)-Ser-Phe-Pro	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	9.05	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	17	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	19	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, naturally occuring enzyme
+KCAT	Plasmodium falciparum	9	Leu-Glu-Arg-Val-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.25	Lys-Pro-Ile-Asp-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.44	Lys-Pro-Ile-Asp-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.86	Lys-Pro-Ile-Asp-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	2.31	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-(gamma-aminobutyryl)-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.8	Lys-Ala-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	0.9	Lys-Ala-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	2	Lys-Ala-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.6	Lys-Asp-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	0.9	Lys-Asp-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	1.1	Lys-Asp-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.5	Lys-Glu-Leu-Val-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	6	Lys-Glu-Leu-Val-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, naturally occuring enzyme
+KCAT	Plasmodium falciparum	11	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Arg-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	0.17	Lys-Lys-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.19	Lys-Lys-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	0.4	Lys-Lys-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	1	Lys-Phe-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	1.1	Lys-Phe-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.6	Lys-Phe-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.5	Lys-Pro-Ala-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C; pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.53	Lys-Pro-Ala-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E
+KCAT	Plasmodium falciparum	0.3	Lys-Pro-Asp-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.32	Lys-Pro-Asp-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E
+KCAT	Plasmodium falciparum	0.4	Lys-Pro-Asp-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.73	Lys-Pro-Ile-Ala-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.89	Lys-Pro-Ile-Ala-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	1.8	Lys-Pro-Ile-Ala-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.73	Lys-Pro-Ile-Ser-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	0.91	Lys-Pro-Ile-Ser-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.1	Lys-Pro-Ile-Ser-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.05	Lys-Pro-Lys-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.08	Lys-Pro-Lys-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E
+KCAT	Plasmodium falciparum	0.1	Lys-Pro-Lys-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.4	Lys-Pro-Phe-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.9	Lys-Pro-Phe-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	3.1	Lys-Pro-Phe-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E
+KCAT	Plasmodium falciparum	0.2	Lys-Pro-Ser-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	0.27	Lys-Pro-Ser-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E
+KCAT	Plasmodium falciparum	0.32	Lys-Pro-Ser-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1	Lys-Ser-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme I287E
+KCAT	Plasmodium falciparum	1.1	Lys-Ser-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme M13E/I287E
+KCAT	Plasmodium falciparum	1.3	Lys-Ser-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.103	EDANS-CO-CH2-CH2-CO-Ala-Leu-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-Dap-(DABCYL)-OH	*PMII without prosegment, pH 5, temperature not specified in the publication
+KCAT	Plasmodium falciparum	1.11	EDANS-CO-CH2-CH2-CO-Ala-Leu-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-Dap-(DABCYL)-OH	*chimeric PMII (porcine pepsinogen prosegment fused to the mature region of PMII), pH 5, temperature not specified in the publication
+KCAT	Plasmodium falciparum	2.1	EDANS-CO-CH2-CH2-CO-Ala-Leu-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-Dap-(DABCYL)-OH	*wild-type PMII, pH 5, temperature not specified in the publication
+KCAT	Plasmodium falciparum	7	Lys-Glu-Phe-Asn-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	3.8	Ala-Leu-Glu-Arg-Thr-Phe-Phe(NO2)-Ser-Phe-Pro-Thr	*pH 4.7
+KCAT	Plasmodium falciparum	6	Ala-Leu-Glu-Arg-Thr-Phe-Phe(NO2)-Ser-Phe-Pro-Thr	*pH 4.7, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.6	Lys-Pro-Ile-Val-Phe-Phe(NO2)-Arg-Leu	*pH 4.7
+KCAT	Plasmodium falciparum	3.6	Lys-Pro-Ile-Val-Phe-Phe(NO2)-Arg-Leu	*pH 4.7, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	10.4	Leu-Ser-Phe(NO2)-Nle-Ala-Leu-Ome	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	15.2	Lys-Glu-Phe-Ile-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.84	Lys-Glu-Phe-Val-Lys-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, mutant enzyme S77D
+KCAT	Plasmodium falciparum	5.7	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Ala-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.53	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Arg	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.2	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Asp	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.9	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Ile	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.44	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Ser	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.7	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Val	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	6.3	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Glu-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.6	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Lys-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.7	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Ser-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.6	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Val-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.7	Lys-Pro-Ile-Leu-Phe-Phe(NO2)-Arg-Leu	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	-999	more	*

@@ -1,0 +1,11 @@
+KCAT	Escherichia coli	0.6	acetaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Escherichia coli	0.9	benzaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Escherichia coli	1.8	propionaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Methanocaldococcus jannaschii	3	propionaldehyde	*100 mM TES pH 7.5, 2.5 mM NAD+
+KCAT	Escherichia coli	18.3	glycoaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Methanocaldococcus jannaschii	2	D-Lactaldehyde	*100 mM TES pH 7.5, 2.5 mM NAD+
+KCAT	Escherichia coli	761.5	(S)-lactaldehyde	*wild-type, pH 7.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1026	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1545	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1895	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.5	phenylacetaldehyd	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+

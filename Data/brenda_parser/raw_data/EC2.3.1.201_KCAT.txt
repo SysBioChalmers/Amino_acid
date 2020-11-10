@@ -1,0 +1,1 @@
+ecNumber*2.3.1.201#turnoverNumber*48.3#turnoverNumberMaximum*#substrate*UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate#commentary*in 50 mM HEPES (pH 8.0), 2.5 mM dithiothreitol, and 2 mM MgCl2, at 30&deg;C#organism*Pseudomonas aeruginosa#ligandStructureId*12198#literature*718852#

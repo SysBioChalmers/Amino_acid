@@ -1,0 +1,12 @@
+KCAT	Bos taurus	0.062	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	*endoplasmic reticulum lumen m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30&Acirc;&deg;C
+KCAT	Bos taurus	0.063	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	*endoplasmic reticulum membrane m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30&Acirc;&deg;C
+KCAT	Bos taurus	0.083	succinyl-Leu-Tyr-7-amido-4-methylcoumarin	*endoplasmic reticulum lumen m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30&Acirc;&deg;C
+KCAT	Bos taurus	0.084	succinyl-Leu-Tyr-7-amido-4-methylcoumarin	*endoplasmic reticulum membrane m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30&Acirc;&deg;C
+KCAT	Bos taurus	1.06	t-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	*endoplasmic reticulum membrane m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30&Acirc;&deg;C
+KCAT	Bos taurus	1.08	t-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	*endoplasmic reticulum lumen m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30&Acirc;&deg;C
+KCAT	Bos taurus	0.186	succinyl-Leu-Met-7-amido-4-methylcoumarin	*endoplasmic reticulum membrane m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30&Acirc;&deg;C
+KCAT	Bos taurus	0.189	succinyl-Leu-Met-7-amido-4-methylcoumarin	*endoplasmic reticulum lumen m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30&Acirc;&deg;C
+KCAT	Struthio camelus	0.341	Boc-Val-Leu-Lys-methylcoumarin	*pH 7.5, room temperature
+KCAT	Struthio camelus	0.0394	succinyl-Leu-Leu-Val-Tyr-methylcoumarin	*pH 7.5, room temperature
+KCAT	Struthio camelus	0.04	succinyl-Leu-Tyr-methylcoumarin	*pH 7.5, room temperature
+KCAT	Struthio camelus	0.546	t-Boc-Leu-Met-methylcoumarin	*

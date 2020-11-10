@@ -1,0 +1,48 @@
+KCAT	Saccharomyces cerevisiae	0.007	D-glucose	*mutant enzyme D62F, at 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.019	D-glucose	*mutant enzyme D62A, at 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.034	D-glucose	*wild type enzyme, at 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.037	D-glucose	*mutant enzyme D62L, at 30&deg;C
+KCAT	Escherichia coli	0.0483	6-deoxy-D-galactose	*
+KCAT	Rattus norvegicus	0.05	alpha-D-galactose	*R37A mutant protein
+KCAT	Saccharomyces cerevisiae	0.067	D-glucose	*mutant enzyme D62H, at 30&deg;C
+KCAT	Escherichia coli	0.085	3-deoxy-3-methyl-D-galactose	*
+KCAT	Rattus norvegicus	0.1	alpha-D-galactose	*Y109F mutant protein; Y109H mutant protein
+KCAT	Rattus norvegicus	0.12	alpha-D-galactose	*Y236F mutant protein
+KCAT	Lactococcus lactis	0.15	alpha-D-galactose	*mutant R36A, pH 8.0, 24&deg;C
+KCAT	Escherichia coli	0.195	2-amino-deoxy-D-galactose	*
+KCAT	Streptococcus pneumoniae	0.36	N-acetyl-D-galactosamine	*pH 8.0, 45&deg;C
+KCAT	Trypanosoma cruzi	0.38	D-galactose	*pH 8.6, temperature not specified in the publication
+KCAT	Homo sapiens	0.4	ATP	*pH 8, 37&deg;C, mutant enzyme G346S
+KCAT	Homo sapiens	0.4	D-galactose	*pH 8, 37&deg;C, mutant enzyme G346S
+KCAT	Lactococcus lactis	0.45	alpha-D-galactose	*mutant R36K, pH 8.0, 24&deg;C
+KCAT	Escherichia coli	0.5	2-deoxy-D-galactose	*
+KCAT	Rattus norvegicus	0.65	alpha-D-galactose	*wild-type protein
+KCAT	Homo sapiens	0.9	D-galactose	*mutant E43G, pH 8.0, 37&deg;C
+KCAT	Pyrococcus horikoshii	0.91	ATP	*in 50 mM HEPES-NaOH pH 7.5, at 50&deg;C
+KCAT	Pyrococcus horikoshii	0.91	D-galactose	*in 50 mM HEPES-NaOH pH 7.5, at 50&deg;C
+KCAT	Homo sapiens	1.1	ATP	*pH 8, 37&deg;C, mutant enzyme G347S
+KCAT	Homo sapiens	1.1	D-galactose	*pH 8, 37&deg;C, mutant enzyme G347S
+KCAT	Streptococcus pneumoniae	1.1	D-glucose	*pH 8.0, 45&deg;C
+KCAT	Homo sapiens	1.8	ATP	*pH 8, 37&deg;C, mutant enzyme G349S
+KCAT	Homo sapiens	1.8	D-galactose	*pH 8, 37&deg;C, mutant enzyme G349S
+KCAT	Homo sapiens	2	ATP	*pH 8, 37&deg;C, mutant enzyme H44Y
+KCAT	Homo sapiens	2	D-galactose	*pH 8, 37&deg;C, mutant enzyme H44Y
+KCAT	Streptococcus pneumoniae	2.61	D-galactose	*pH 8.0, 45&deg;C
+KCAT	Saccharomyces cerevisiae	3.13	2-deoxy-D-galactose	*wild type enzyme, at 30&deg;C
+KCAT	Homo sapiens	3.9	ATP	*pH 8, 37&deg;C, mutant enzyme R68C
+KCAT	Homo sapiens	3.9	D-galactose	*pH 8, 37&deg;C, mutant enzyme R68C
+KCAT	Saccharomyces cerevisiae	4.01	2-deoxy-D-galactose	*wild type enzyme, at 30&deg;C
+KCAT	Homo sapiens	5.9	ATP	*pH 8, 37&deg;C, mutant enzyme R198V
+KCAT	Homo sapiens	5.9	D-galactose	*pH 8, 37&deg;C, mutant enzyme R198V
+KCAT	Homo sapiens	6.7	D-galactose	*mutant E43A, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	8.7	ATP	*pH 8, 37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	8.7	D-galactose	*pH 8, 37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	8.7	D-galactose	*wild-type, pH 8.0, 37&deg;C
+KCAT	Lactococcus lactis	11	alpha-D-galactose	*wild-type, pH 8.0, 24&deg;C
+KCAT	Saccharomyces cerevisiae	22.3	D-galactose	*wild type enzyme, at 30&deg;C
+KCAT	Saccharomyces cerevisiae	55.8	ATP	*
+KCAT	Saccharomyces cerevisiae	55.8	ATP	*pH 8.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	55.8	D-galactose	*
+KCAT	Saccharomyces cerevisiae	55.8	D-galactose	*pH 8.0, 30&deg;C
+KCAT	Bifidobacterium longum subsp. infantis	146	ATP	*pH 8, 37&deg;C
+KCAT	Bifidobacterium longum subsp. infantis	146	D-galactose	*pH 8, 37&deg;C

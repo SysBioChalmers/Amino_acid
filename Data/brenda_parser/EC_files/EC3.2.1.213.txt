@@ -1,0 +1,1 @@
+KCAT	Bifidobacterium longum subsp. Longum	261	beta-D-Gal(1-&gt;6)-beta-D-Gal-(1-&gt;6)-D-Gal	*pH 4.5, 40&deg;C

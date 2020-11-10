@@ -1,0 +1,46 @@
+KCAT	Rhodobacter capsulatus	-999	more	*turnover number 4200, biosynthetic activity. 102000, transferase activity
+KCAT	Trichormus azollae	0.33	L-glutamate	*D51E mutant, pH 7.0, 30&deg;C
+KCAT	Exiguobacterium sp.	1.05	ADP	*pH 6.0, 35&deg;C, recombinant wild-type enzyme
+KCAT	Exiguobacterium sp.	1.62	L-glutamine	*pH 6.0, 35&deg;C, recombinant wild-type enzyme
+KCAT	Arabidopsis thaliana	2.16	NH4+	*mutant A174S of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	2.29	L-Glu	*mutant A174S of isoenzyme GLN1,4
+KCAT	Trichormus azollae	2.6	L-glutamate	*D51A mutant, pH 7.0, 30&deg;C
+KCAT	Arabidopsis thaliana	2.81	NH4+	*mutant K49Q/A174S of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	2.96	NH4+	*isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	2.97	L-Glu	*mutant K49Q/A174S of isoenzyme GLN1,4
+KCAT	Escherichia coli	3	ATP	*wild-type enzyme
+KCAT	Exiguobacterium sp.	4	ADP	*pH 6.0, 35&deg;C, recombinant mutant E60A/R64G
+KCAT	Arabidopsis thaliana	4.18	L-Glu	*isoenzyme GLN1,4
+KCAT	Exiguobacterium sp.	4.67	ADP	*pH 6.0, 35&deg;C, recombinant mutant E60A
+KCAT	Arabidopsis thaliana	4.96	L-Glu	*mutant K49Q of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	5.33	NH4+	*mutant K49Q of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	6.19	NH4+	*mutant A174S of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	6.59	L-Glu	*mutant K49Q of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	6.83	NH4+	*mutant K49Q/A174S of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	7.02	L-Glu	*isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	7.1	NH4+	*isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	7.23	NH4+	*mutant K49Q of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	7.97	L-Glu	*mutant A174S of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	8.08	L-Glu	*mutant K49Q/A174S of isoenzyme GLN1,3
+KCAT	Exiguobacterium sp.	8.96	L-glutamine	*pH 6.0, 35&deg;C, recombinant mutant E60A/R64G
+KCAT	Exiguobacterium sp.	9.27	L-glutamine	*pH 6.0, 35&deg;C, recombinant mutant E60A
+KCAT	Exiguobacterium sp.	9.53	ADP	*pH 6.0, 35&deg;C, recombinant mutant R64G
+KCAT	Camellia sinensis	11.6	ATP	*pH 7.8
+KCAT	Pyrococcus sp.	12.83	hydroxylamine	*60&deg;C, pH 7.8
+KCAT	Trichormus azollae	13.1	L-glutamate	*D51S mutant, pH 7.0, 30&deg;C
+KCAT	Exiguobacterium sp.	13.4	L-glutamine	*pH 6.0, 35&deg;C, recombinant mutant R64G
+KCAT	Camellia sinensis	13.5	NH4+	*pH 7.8
+KCAT	Camellia sinensis	15.2	L-glutamate	*pH 7.8
+KCAT	Escherichia coli	25	ATP	*oxidized mutant enzyme E165C
+KCAT	Escherichia coli	27	L-Glu	*oxidized mutant enzyme E165C
+KCAT	Escherichia coli	35	ATP	*reduced mutant enzyme E165C
+KCAT	Pyrococcus sp.	36.5	L-glutamate	*60&deg;C, pH 7.8
+KCAT	Escherichia coli	40	L-Glu	*reduced mutant enzyme E165C
+KCAT	Trichormus azollae	42	L-glutamate	*wild type enzyme, pH 7.0, 30&deg;C
+KCAT	Pyrococcus sp.	52.7	ATP	*60&deg;C, pH 7.8
+KCAT	Trypanosoma cruzi	357	L-glutamate	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KCAT	Trypanosoma cruzi	359	ATP	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KCAT	Trypanosoma cruzi	392	L-glutamate	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication
+KCAT	Trypanosoma cruzi	396	ATP	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication
+KCAT	Trypanosoma cruzi	480	NH4+	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KCAT	Trypanosoma cruzi	535	NH4+	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication

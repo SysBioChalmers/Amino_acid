@@ -1,0 +1,3 @@
+KCAT	Abies grandis	0.002	(2E,6E)-farnesyl diphosphate	*in 25 mM Tris, 15 mM MgCl2, pH 7.5, at 30&Acirc;&deg;C
+KCAT	Santalum album	0.0067	(2E,6E)-farnesyl diphosphate	*at 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Ginkgo biloba	0.01	(2E,6E)-farnesyl diphosphate	*at pH 7.5 and 25&Acirc;&deg;C; pH 7.5, 22&Acirc;&deg;C, recombinant His-tagged enzyme

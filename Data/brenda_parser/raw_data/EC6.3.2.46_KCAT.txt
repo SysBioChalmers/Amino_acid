@@ -1,0 +1,1 @@
+ecNumber*6.3.2.46#turnoverNumber*3.8#turnoverNumberMaximum*#substrate*succinate#commentary*pH 8.0, 22&Acirc;&deg;C#organism*Pantoea agglomerans#ligandStructureId*58#literature*729202#!ecNumber*6.3.2.46#turnoverNumber*11.6#turnoverNumberMaximum*#substrate*fumarate#commentary*pH 8.0, 22&Acirc;&deg;C#organism*Pantoea agglomerans#ligandStructureId*170#literature*729202#

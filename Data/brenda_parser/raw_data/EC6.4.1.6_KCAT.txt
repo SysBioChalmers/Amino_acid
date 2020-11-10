@@ -1,0 +1,1 @@
+ecNumber*6.4.1.6#turnoverNumber*1.33#turnoverNumberMaximum*#substrate*acetone#commentary*#organism*Xanthobacter autotrophicus#ligandStructureId*333#literature*662000#

@@ -1,0 +1,4 @@
+KCAT	Salinispora arenicola	0.0007	S-adenosyl-L-methionine	*pH 7.9, 37&deg;C, mutant enzyme H130Y
+KCAT	Salinispora arenicola	0.0027	S-adenosyl-L-methionine	*pH 7.9, 37&deg;C, mutant enzyme H130A
+KCAT	Salinispora arenicola	0.0075	S-adenosyl-L-methionine	*pH 7.9, 37&deg;C, wild-type enzyme
+KCAT	Pyrococcus horikoshii	0.14	S-adenosyl-L-methionine	*pH 8.5, 37&deg;C

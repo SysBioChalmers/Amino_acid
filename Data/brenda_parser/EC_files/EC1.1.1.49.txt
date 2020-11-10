@@ -1,0 +1,59 @@
+KCAT	Trypanosoma cruzi	2	D-glucose 6-phosphate	*mutant enzyme L80G, at pH 7.5 and 25&deg;C
+KCAT	Trypanosoma cruzi	2.7	NADP+	*mutant enzyme L80G, at pH 7.5 and 25&deg;C
+KCAT	Trypanosoma cruzi	2.8	D-glucose 6-phosphate	*mutant enzyme K83A, at pH 7.5 and 25&deg;C
+KCAT	Trypanosoma cruzi	3	NADP+	*mutant enzyme K83A, at pH 7.5 and 25&deg;C
+KCAT	Trypanosoma cruzi	15	D-glucose 6-phosphate	*mutant enzyme R408A, at pH 7.5 and 25&deg;C
+KCAT	Trypanosoma brucei	16.4	D-glucose 6-phosphate	*
+KCAT	Trypanosoma cruzi	19	NADP+	*mutant enzyme R408A, at pH 7.5 and 25&deg;C
+KCAT	Homo sapiens	20	D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant mutant R454C, with deamino-NADP+
+KCAT	Leishmania mexicana	22.2	D-glucose 6-phosphate	*
+KCAT	Homo sapiens	22.4	2-deoxy-D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant mutant R454C, with NADP+
+KCAT	Trypanosoma cruzi	24.6	D-glucose 6-phosphate	*mutant enzyme K84A, at pH 7.5 and 25&deg;C
+KCAT	Homo sapiens	28.6	D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant mutant R454C, with NADP+
+KCAT	Taenia crassiceps	34	D-glucose 6-phosphate	*25&deg;C
+KCAT	Taenia crassiceps	34	NADP+	*25&deg;C
+KCAT	Homo sapiens	39.9	D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant mutant R454H, with NADP+
+KCAT	Homo sapiens	43	2-deoxyglucose 6-phosphate	*
+KCAT	Trypanosoma cruzi	52	NADP+	*wild type enzyme, at pH 7.5 and 25&deg;C
+KCAT	Trypanosoma cruzi	57.1	D-glucose 6-phosphate	*pH 7.6, temperature not specified in the publication
+KCAT	Trypanosoma cruzi	58	NADP+	*mutant enzyme K84A, at pH 7.5 and 25&deg;C
+KCAT	Trypanosoma cruzi	62	D-glucose 6-phosphate	*wild type enzyme, at pH 7.5 and 25&deg;C
+KCAT	Aspergillus aculeatus	83	D-glucose 6-phosphate	*pH 7.5
+KCAT	Homo sapiens	87.7	D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant mutant R454C, with deamino-NADP+
+KCAT	Homo sapiens	98	deamino-NADP+	*
+KCAT	Escherichia coli	109	NAD+	*mutant enzyme K18A, at pH 8.2 and 25&deg;C
+KCAT	Escherichia coli	143	NADP+	*mutant enzyme K18A, at pH 8.2 and 25&deg;C
+KCAT	Homo sapiens	157	D-galactose 6-phosphate	*
+KCAT	Escherichia coli	165	NAD+	*mutant enzyme K18A/R50A, at pH 8.2 and 25&deg;C
+KCAT	Escherichia coli	171	NAD+	*mutant enzyme R50A, at pH 8.2 and 25&deg;C
+KCAT	Escherichia coli	174	NADP+	*25&deg;C, pH 8.0
+KCAT	Escherichia coli	174	NADP+	*wild type enzyme, at pH 8.2 and 25&deg;C
+KCAT	Escherichia coli	185	NADP+	*mutant enzyme K18A/R50A, at pH 8.2 and 25&deg;C
+KCAT	Escherichia coli	189	NADP+	*mutant enzyme R50A, at pH 8.2 and 25&deg;C
+KCAT	Homo sapiens	192	D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant mutant R393H
+KCAT	Homo sapiens	207	D-glucose 6-phosphate	*25&deg;C, pH 8.0, mutant enzyme G163S
+KCAT	Homo sapiens	207	NADP+	*25&deg;C, pH 8.0, mutant enzyme G163S
+KCAT	Homo sapiens	212	D-glucose 6-phosphate	*clinical mutant G488V
+KCAT	Homo sapiens	232	D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant mutant R393G
+KCAT	Homo sapiens	247	D-glucose 6-phosphate	*at pH 8.0 and 37&deg;C
+KCAT	Homo sapiens	247	NADP+	*at pH 8.0 and 37&deg;C
+KCAT	Homo sapiens	249	D-glucose 6-phosphate	*25&deg;C, pH 8.0, mutant enzyme G163D
+KCAT	Homo sapiens	249	NADP+	*25&deg;C, pH 8.0, mutant enzyme G163D
+KCAT	Homo sapiens	251	D-glucose 6-phosphate	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Homo sapiens	251	NADP+	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Homo sapiens	254	D-glucose 6-phosphate	*clinical mutant G488S
+KCAT	Homo sapiens	275	D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	275	D-glucose 6-phosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with NADP+
+KCAT	Homo sapiens	275	D-glucose 6-phosphate	*native G6PD
+KCAT	Homo sapiens	279	D-glucose 6-phosphate	*refolded G6PD
+KCAT	Escherichia coli	288	NAD+	*25&deg;C, pH 8.0
+KCAT	Escherichia coli	288	NAD+	*wild type enzyme, at pH 8.2 and 25&deg;C
+KCAT	Homo sapiens	571	D-glucose 6-phosphate	*
+KCAT	Thermotoga maritima	1100	NAD+	*pH 7.4, 80&deg;C, recombinant enzyme
+KCAT	Pseudomonas fluorescens	1120	NADP+	*
+KCAT	Pseudomonas fluorescens	1380	NAD+	*
+KCAT	Thermotoga maritima	1800	2-deoxy-D-glucose 6-phosphate	*pH 7.4, 80&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima	2100	thio-NAD+	*pH 7.4, 80&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima	3500	D-glucose 6-phosphate	*pH 7.4, 80&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima	3500	NADP+	*pH 7.4, 80&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima	8000	thio-NADP+	*pH 7.4, 80&deg;C, recombinant enzyme

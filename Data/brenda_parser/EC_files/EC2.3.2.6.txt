@@ -1,0 +1,10 @@
+KCAT	Escherichia coli	0.00052	L-phenylalanyl-tRNAPhe	*apparent value, at pH 9.0 and 37&deg;C
+KCAT	Escherichia coli	0.00183	REPGLCTWQSLR	*amino acid residue on the aminoacyl-tRNA(Phe) transferred to the peptide substrate, 4-azido phenylalanine, Kcat apparent
+KCAT	Escherichia coli	0.002	L-leucyl-tRNALeu	*apparent value, at pH 9.0 and 37&deg;C
+KCAT	Escherichia coli	0.00283	REPGLCTWQSLR	*amino acid residue on the aminoacyl-tRNA(Phe) transferred to the peptide substrate, 4-acetyl-N-(tert-butoxycarbonyl)-L-phenylalanine, Kcat apparent
+KCAT	Escherichia coli	0.00333	REPGLCTWQSLR	*amino acid residue on the aminoacyl-tRNA(Phe) transferred to the peptide substrate, 4-bromo phenylalanine, Kcat apparent
+KCAT	Escherichia coli	0.00367	REPGLCTWQSLR	*amino acid residue on the aminoacyl-tRNA(Phe) transferred to the peptide substrate, phenylalanine, Kcat apparent
+KCAT	Escherichia coli	0.25	KAC-acrydonylalanine	*at pH 7.6 and 37&deg;C
+KCAT	Escherichia coli	0.5	KQC-acrydonylalanine	*at pH 7.6 and 37&deg;C
+KCAT	Escherichia coli	0.8	KPC-acrydonylalanine	*at pH 7.6 and 37&deg;C
+KCAT	Escherichia coli	1	RGPCRAFI	*at pH 7.6 and 37&deg;C

@@ -1,0 +1,4 @@
+KCAT	Narcissus aff. pseudonarcissus MK-2014	0.022	(S)-Coclaurine	*pH 8.0, 30&deg;C
+KCAT	Narcissus aff. pseudonarcissus MK-2014	0.035	(R)-coclaurine	*pH 8.0, 30&deg;C
+KCAT	Narcissus aff. pseudonarcissus MK-2014	0.041	4'-O-methyl-N-methylnorbelladine	*pH 8.0, 30&deg;C
+KCAT	Narcissus aff. pseudonarcissus MK-2014	0.25	4'-O-methylnorbelladine	*pH 8.0, 30&deg;C

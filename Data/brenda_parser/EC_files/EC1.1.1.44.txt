@@ -1,0 +1,49 @@
+KCAT	Homo sapiens	0.217	6-phosphogluconate	*
+KCAT	Ovis aries	0.53	6,7-dideoxy-7-phosphono-D-glucoheptonate	*pH 8.0, 20&deg;C
+KCAT	Trypanosoma brucei	1.4	6,7-dideoxy-7-phosphono-D-glucoheptonate	*pH 8.0, 20&deg;C
+KCAT	Moorella thermoacetica	1.81	NADP+	*mutant enzyme A30D/R31I/T32I, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	1.81	NADP+	*recombinant His-tagged mutant A30D/R31I/T32I, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	3.1	NADP+	*mutant enzyme A30E/R31I/T32D, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	3.1	NADP+	*recombinant His-tagged mutant A30E/R31I/T32D, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	5.75	NAD+	*mutant enzyme A30D/R31I/T32I, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	5.75	NAD+	*recombinant His-tagged mutant A30D/R31I/T32I, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	6	NAD+	*mutant enzyme A30C/R31I/T32K, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	6	NAD+	*recombinant His-tagged mutant A30C/R31I/T32K, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	6.23	NADP+	*mutant enzyme A30C/R31I/T32K, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	6.23	NADP+	*recombinant His-tagged mutant A30C/R31I/T32K, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	8.73	NADP+	*wild type enzyme, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	8.73	NADP+	*recombinant His-tagged wild-type enzyme, pH 7.5, 50&deg;C
+KCAT	Ovis aries	9	6-phosphono-D-gluconate	*pH 8.0, 20&deg;C
+KCAT	Moorella thermoacetica	9.12	NAD+	*mutant enzyme R31T, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	9.12	NAD+	*recombinant His-tagged mutant R31T, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	10.8	NAD+	*mutant enzyme A30E/R31I/T32D, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	10.8	NAD+	*recombinant His-tagged mutant A30E/R31I/T32D, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	10.83	NADP+	*mutant enzyme R31T, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	10.83	NADP+	*recombinant His-tagged mutant R31T, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	11.53	NADP+	*mutant enzyme R31I, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	11.53	NADP+	*recombinant His-tagged mutant R31I, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	11.9	NADP+	*mutant enzyme R31I/T32G, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	11.9	NADP+	*recombinant His-tagged mutant R31I/T32G, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	12.6	NAD+	*wild type enzyme, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	12.6	NAD+	*recombinant His-tagged wild-type enzyme, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	12.94	NAD+	*mutant enzyme R31I/T32G, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	12.94	NAD+	*recombinant His-tagged mutant R31I/T32G, pH 7.5, 50&deg;C
+KCAT	Moorella thermoacetica	15.01	NAD+	*mutant enzyme R31I, at pH 7.5 and 50&deg;C
+KCAT	Moorella thermoacetica	15.01	NAD+	*recombinant His-tagged mutant R31I, pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	15.9	NADP+	*mutant enzyme N32D/R33I/T34I, at pH 7.5 and 70&deg;C; mutant enzyme N32E/R33I/T34I, at pH 7.5 and 70&deg;C
+KCAT	Thermotoga maritima	16.7	NADP+	*mutant enzyme N32D, at pH 7.5 and 70&deg;C
+KCAT	Thermotoga maritima	17.6	NADP+	*wild type enzyme, at pH 7.5 and 70&deg;C
+KCAT	Geobacillus stearothermophilus	22.1	6-phospho-D-gluconate	*free enzyme, at pH 7.5 and 25&deg;C
+KCAT	Geobacillus stearothermophilus	22.1	NADP+	*free enzyme, at pH 7.5 and 25&deg;C
+KCAT	Thermotoga maritima	23.3	NAD+	*wild type enzyme at pH 7.5 and 70&deg;C
+KCAT	Thermotoga maritima	25.4	NAD+	*mutant enzyme N32D/R33L/T34S, at pH 7.5 and 70&deg;C
+KCAT	Thermotoga maritima	29.3	NAD+	*mutant enzyme N32D, at pH 7.5 and 70&deg;C
+KCAT	Trypanosoma brucei	31.8	6-phosphono-D-gluconate	*pH 8.0, 20&deg;C
+KCAT	Thermotoga maritima	32.2	NAD+	*mutant enzyme N32D/R33I/T34I, at pH 7.5 and 70&deg;C
+KCAT	Thermotoga maritima	47.9	NAD+	*mutant enzyme N32E/R33I/T34I, at pH 7.5 and 70&deg;C
+KCAT	Homo sapiens	71	NADP+	*at pH 7.5 and 22&deg;C
+KCAT	Homo sapiens	73	6-phospho-D-gluconate	*at pH 7.5 and 22&deg;C
+KCAT	Trypanosoma cruzi	98	6-phosphono-D-gluconate	*pH 7.5, 30&deg;C, purified native wild-type enzyme
+KCAT	Trypanosoma cruzi	98	NADP+	*pH 7.5, 30&deg;C, purified native wild-type enzyme
+KCAT	Thermotoga maritima	325	6-phospho-D-gluconate	*80&deg;C, pH 7.5
+KCAT	Thermotoga maritima	325	NADP+	*80&deg;C, pH 7.5

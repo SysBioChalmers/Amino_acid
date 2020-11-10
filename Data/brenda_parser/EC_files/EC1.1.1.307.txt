@@ -1,0 +1,87 @@
+KCAT	Scheffersomyces stipitis	2.6	NADPH	*pH 6.0, mutant enzyme K270S/N272P/S271G/R276F
+KCAT	Candida tenuis	21.9	NADPH	*pH 7, 25&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	27.5	NADPH	*pH 6.0, wild-type enzyme, wild-type enzyme
+KCAT	Scheffersomyces stipitis	40.27	NADPH	*wild-type, pH 6.5, 35&Acirc;&deg;C
+KCAT	Neurospora crassa	3600	NADPH	*pH 6.3, 25&Acirc;&deg;C
+KCAT	Rasamsonia emersonii	100900	NADPH	*mutant K271R/N273, pH 6.5, 37&Acirc;&deg;C
+KCAT	Rasamsonia emersonii	324000	NADPH	*wild-type, pH 6.5, 37&Acirc;&deg;C
+KCAT	Candida tenuis	0.89	NAD+	*pH 7, 25&Acirc;&deg;C
+KCAT	Candida tenuis	0.92	NAD+	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	4.7	NADH	*mutant K21A, pH 6.5, 35&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	12	NADH	*pH 6.0, mutant enzyme K270S/N272P/S271G/R276F
+KCAT	Scheffersomyces stipitis	12.7	NADH	*mutant K21A/N272D, pH 6.5, 35&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	13.1	NADH	*wild-type, pH 6.5, 35&Acirc;&deg;C
+KCAT	Candida tenuis	14.2	NADH	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	15.4	NADH	*pH 6.0, wild-type enzyme, wild-type enzyme
+KCAT	Candida tenuis	18.1	NADH	*pH 7, 25&Acirc;&deg;C
+KCAT	Neurospora crassa	310	NADH	*pH 6.3, 25&Acirc;&deg;C
+KCAT	Rasamsonia emersonii	15750	NADH	*wild-type, pH 6.5, 37&Acirc;&deg;C
+KCAT	Rasamsonia emersonii	25110	NADH	*mutant K271R/N273, pH 6.5, 37&Acirc;&deg;C
+KCAT	Candida tenuis	0.82	NADP+	*pH 7, 25&Acirc;&deg;C
+KCAT	Candida intermedia	8.2	D-glucose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Neurospora crassa	1320	D-glucose	*pH 6.3, 25&Acirc;&deg;C
+KCAT	Candida intermedia	9.4	D-galactose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	15.2	D-galactose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Neurospora crassa	1800	D-galactose	*pH 6.3, 25&Acirc;&deg;C
+KCAT	Candida tenuis	0.002	D-xylose	*mutant K80A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Candida tenuis	0.02	D-xylose	*mutant H113A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	2.6	D-xylose	*pH 6.0, cofactor: NADPH, mutant enzyme K270S/N272P/S271G/R276F
+KCAT	Saccharomyces cerevisiae	3	D-xylose	*pH 7.0, 25&Acirc;&deg;C, mutant K274M, with NADPH
+KCAT	Candida tenuis	10	D-xylose	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	11	D-xylose	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme, with NADH
+KCAT	Scheffersomyces stipitis	12	D-xylose	*pH 6.0, cofactor: NADH, mutant enzyme K270S/N272P/S271G/R276F
+KCAT	Saccharomyces cerevisiae	12	D-xylose	*pH 7.0, 25&Acirc;&deg;C, mutant K274M/N276D, with NADH
+KCAT	Saccharomyces cerevisiae	13	D-xylose	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme, with NADPH
+KCAT	Saccharomyces cerevisiae	13.1	D-xylose	*pH 7.0, 22&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	14	D-xylose	*pH 7.0, 25&Acirc;&deg;C, mutant N276D, with NADH
+KCAT	Candida tenuis	14.2	D-xylose	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	15.4	D-xylose	*pH 6.0, cofactor: NADH, wild-type enzyme
+KCAT	Candida intermedia	16.9	D-xylose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida tenuis	18.11	D-xylose	*pH 6.0, 25&Acirc;&deg;C, cosubstrate: NADH
+KCAT	Candida tenuis	18.2	D-xylose	*pH 7, 25&Acirc;&deg;C, cosubstrate: NADH
+KCAT	Saccharomyces cerevisiae	19	D-xylose	*pH 7.0, 25&Acirc;&deg;C, mutant K274M, with NADH
+KCAT	Rhizomucor pusillus	21.3	D-xylose	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Candida tenuis	21.5	D-xylose	*pH 7, 25&Acirc;&deg;C, cosubstrate: NADPH
+KCAT	Candida intermedia	23.5	D-xylose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Scheffersomyces stipitis	27.5	D-xylose	*pH 6.0, cofactor: NADPH, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	30	D-xylose	*pH 7.0, 25&Acirc;&deg;C, mutant K274M/N276D, with NADPH
+KCAT	Saccharomyces cerevisiae	37	D-xylose	*pH 7.0, 25&Acirc;&deg;C, mutant N276D, with NADPH
+KCAT	Candida tropicalis	240	D-xylose	*
+KCAT	Neurospora crassa	310	D-xylose	*pH 6.3, 25&Acirc;&deg;C, cosubstrate: NADH
+KCAT	Neurospora crassa	3600	D-xylose	*pH 6.3, 25&Acirc;&deg;C, cosubstrate: NADPH
+KCAT	Neurospora crassa	4638	D-xylose	*pH 6.3, 25&Acirc;&deg;C
+KCAT	Rasamsonia emersonii	15750	D-xylose	*pH 6.5, 37&Acirc;&deg;C, cosubstrate: NADH, wild-type enzyme
+KCAT	Rasamsonia emersonii	25110	D-xylose	*pH 6.5, 37&Acirc;&deg;C, cosubstrate: NADH, mutant enzyme K271R/N273D
+KCAT	Rasamsonia emersonii	100900	D-xylose	*pH 6.5, 37&Acirc;&deg;C, cosubstrate: NADPH, mutant enzyme K271R/N273D
+KCAT	Rasamsonia emersonii	324000	D-xylose	*pH 6.5, 37&Acirc;&deg;C, cosubstrate: NADPH, wild-type enzyme
+KCAT	Candida intermedia	13.5	L-arabinose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	24.5	L-arabinose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Neurospora crassa	1800	L-arabinose	*pH 6.3, 25&Acirc;&deg;C
+KCAT	Candida intermedia	4.6	propionaldehyde	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	6.9	propionaldehyde	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	4.9	D-ribose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	12.2	D-ribose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Neurospora crassa	3120	D-ribose	*pH 6.3, 25&Acirc;&deg;C
+KCAT	Candida tenuis	0.87	xylitol	*pH 7, 25&Acirc;&deg;C
+KCAT	Candida tenuis	0.92	xylitol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Candida intermedia	14.1	DL-glyceraldehyde	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	24.3	DL-glyceraldehyde	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	6.8	2-deoxy-D-glucose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	5.4	Butanal	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	21.2	Butanal	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida tenuis	0.027	9,10-phenanthrenequinone	*mutant K80A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Candida tenuis	0.043	9,10-phenanthrenequinone	*mutant H113A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Candida tenuis	0.2	9,10-phenanthrenequinone	*mutant Y51A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Candida tenuis	12	9,10-phenanthrenequinone	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Candida intermedia	5.9	pentanal	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	20.7	pentanal	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	10.2	D-fucose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	20.7	D-fucose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	24.3	D-erythrose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	27.5	D-erythrose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	6.6	L-Lyxose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	18.4	L-Lyxose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	3.5	2-deoxy-D-galactose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH
+KCAT	Candida intermedia	8.4	2-deoxy-D-galactose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	1.4	2-deoxy-D-ribose	*pH 7.0, 25&Acirc;&deg;C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+KCAT	Candida intermedia	5.6	L-idose	*pH 7.0, 25&Acirc;&deg;C, dual specific xylose reductase, cofactor: NADH

@@ -1,0 +1,20 @@
+KCAT	Bombyx mori	0.013	juvenile hormone III	*pH 7.4, 22&deg;C, recombinant BmCCE-5
+KCAT	Rhyparobia maderae	0.1	Juvenile hormone	*during vitellogenesis, kcat at ovulation time is 2-3times higher than earlier during vitellogenesis
+KCAT	Tribolium castaneum	0.164	juvenile hormone III	*pH and temperature not specified in the publication
+KCAT	Trichoplusia ni	0.323	juvenile hormone III	*
+KCAT	Rhyparobia maderae	0.39	Juvenile hormone	*at ovulation time, kcat at ovulation time is 2-3times higher than earlier during vitellogenesis
+KCAT	Trichoplusia ni	0.618	juvenile hormone I	*
+KCAT	Manduca sexta	0.7	juvenile hormone III	*wild-type, at 30&deg;C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+KCAT	Manduca sexta	0.7	saturated juvenile hormone III	*wild-type, at 30&deg;C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+KCAT	Drosophila melanogaster	0.8	juvenile hormone III	*10S isomer of juvenile hormone III
+KCAT	Leptinotarsa decemlineata	0.9	juvenile hormone III	*pH 8, major enzyme form with pI 5.6
+KCAT	Drosophila melanogaster	1	juvenile hormone III	*racemic juvenile hormone III
+KCAT	Bombyx mori	1	juvenile hormone III	*pH 7.4, 22&deg;C, recombinant BmJHE
+KCAT	Drosophila melanogaster	1.1	juvenile hormone III	*10R isomer of juvenile hormone III
+KCAT	Drosophila melanogaster	1.6	juvenile hormone I	*
+KCAT	Leptinotarsa decemlineata	1.9	juvenile hormone III	*pH 8, minor enzyme form with pI 5.5
+KCAT	Drosophila melanogaster	3	methyl farnesoate	*
+KCAT	Manduca sexta	3.1	saturated juvenile hormone III	*mutant F259I, at 30&deg;C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+KCAT	Manduca sexta	4	juvenile hormone III	*mutant F259I, at 30&deg;C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+KCAT	Manduca sexta	4.5	juvenile hormone III	*mutant T314V, at 30&deg;C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+KCAT	Manduca sexta	22	Alpha-naphthyl acetate	*wild-type, at 30&deg;C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin

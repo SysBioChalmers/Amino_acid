@@ -1,0 +1,310 @@
+KCAT	Rattus norvegicus	40	O2	*in 75 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	82	O2	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme S335G
+KCAT	Rhodotorula toruloides	120	O2	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme Y238S
+KCAT	Rhodotorula toruloides	125	O2	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme Y238F
+KCAT	Rhodotorula toruloides	350	O2	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodotorula toruloides	350	O2	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.9	glycine	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.6	Gly	*pH 8.3, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.9	Gly	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	0.000167	D-alanine	*mutant D206A
+KCAT	Trigonopsis variabilis	0.001	D-alanine	*mutant D206S
+KCAT	Trigonopsis variabilis	0.00233	D-alanine	*mutant D206E
+KCAT	Trigonopsis variabilis	0.00567	D-alanine	*wild-type
+KCAT	Rhodotorula toruloides	0.05	D-alanine	*mutant R285A
+KCAT	Rhodotorula toruloides	0.05	D-alanine	*
+KCAT	Rhodotorula toruloides	0.33	D-alanine	*pH 8.5, 15&Acirc;&deg;C, mutant G52V
+KCAT	Rhodotorula toruloides	0.63	D-alanine	*mutant enzyme Y223S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.79	D-alanine	*mutant enzyme Q339N, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.8	D-alanine	*mutant R285K
+KCAT	Rhodotorula toruloides	0.8	D-alanine	*
+KCAT	Sus scrofa	0.92	D-alanine	*mutant T317A
+KCAT	Homo sapiens	1.5	D-alanine	*mutant G281C
+KCAT	Homo sapiens	2.6	D-alanine	*FAD-S mutant enzyme
+KCAT	Rhodotorula toruloides	3.7	D-alanine	*mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	4.2	D-alanine	*mutant Y223S
+KCAT	Sus scrofa	5	D-alanine	*mutant Y228F
+KCAT	Homo sapiens	5.2	D-alanine	*apparent value, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	5.2	D-alanine	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	6.9	D-alanine	*mutant enzyme M213E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Sus scrofa	7.3	D-alanine	*apparent value, at 25&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	7.33	D-alanine	*D isotope
+KCAT	Sus scrofa	8.5	D-alanine	*wild-type
+KCAT	Rhodotorula toruloides	9.2	D-alanine	*mutant enzyme S335R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Homo sapiens	10	D-alanine	*wild-type
+KCAT	Homo sapiens	10	D-alanine	*
+KCAT	Sus scrofa	10	D-alanine	*
+KCAT	Rhodotorula toruloides	10	D-alanine	*mutant enzyme M213R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Sus scrofa	10	D-alanine	*at pH 8.3 and 25&Acirc;&deg;C
+KCAT	Sus scrofa	11.6	D-alanine	*mutant Y224F
+KCAT	Sus scrofa	12.7	D-alanine	*wild-type
+KCAT	Rhodotorula toruloides	13.8	D-alanine	*immobilized enzyme
+KCAT	Homo sapiens	14.7	D-alanine	*at pH 8.3 and 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	15	D-alanine	*mutant enzyme Y238R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	23.3	D-alanine	*immobilized enzyme, in 100 mM potassium phosphate buffer at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	25	D-alanine	*mutant enzyme Y228F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value; mutant enzyme Y238S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rattus norvegicus	27	D-alanine	*in 75 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	33.8	D-alanine	*free enzyme
+KCAT	Trigonopsis variabilis	44	D-alanine	*immobilized enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	46	D-alanine	*apparent value, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	48	D-alanine	*mutant enzyme S335G, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	51	D-alanine	*immobilized enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	52.4	D-alanine	*free enzyme, in 100 mM potassium phosphate buffer at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	52.5	D-alanine	*
+KCAT	Trigonopsis variabilis	53	D-alanine	*at pH 8.3 and 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	60	D-alanine	*native enzyme, at 37&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	60	D-alanine	*free enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	67	D-alanine	*mutant enzyme Y223F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	70.8	D-alanine	*D isotope
+KCAT	Trigonopsis variabilis	74	D-alanine	*native enzyme, at 37&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	74	D-alanine	*free enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	75	D-alanine	*mutant enzyme S335H, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	78	D-alanine	*double fusion enzyme, at 37&Acirc;&deg;C
+KCAT	Candida boidinii	80	D-alanine	*apparent value, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	81	D-alanine	*wild type enzyme, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	85	D-alanine	*apparent value, at 25&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	88	D-alanine	*double fusion enzyme, at 37&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	95	D-alanine	*apparent value, reconstituted holoenzyme at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Cyprinus carpio	95	D-alanine	*apparent value, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	140	D-alanine	*pH 8.5, 15&Acirc;&deg;C, mutant Q144R
+KCAT	Rhodotorula toruloides	210	D-alanine	*mutant Y223F
+KCAT	Trigonopsis variabilis	300	D-alanine	*
+KCAT	Rhodotorula toruloides	330	D-alanine	*pH 8.5, 15&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodotorula toruloides	330	D-alanine	*pH 8.5, 15&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodotorula toruloides	345	D-alanine	*
+KCAT	Rhodotorula toruloides	345	D-alanine	*
+KCAT	Rhodotorula toruloides	350	D-alanine	*wild-type
+KCAT	Rhodotorula toruloides	350	D-alanine	*
+KCAT	Rhodotorula toruloides	350	D-alanine	*at pH 8.3 and 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	370	D-alanine	*pH 8.5, 15&Acirc;&deg;C, mutant S19G/S120P/Q144R/K321M/A345V
+KCAT	Rhodotorula toruloides	721	D-alanine	*
+KCAT	Sus scrofa	0.09	L-Ala	*at pH 7.0 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	9.4	L-Ala	*at pH 9.8 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	0.75	D-Ala	*mutant enzyme R221D/Y224G
+KCAT	Sus scrofa	3	D-Ala	*mutant enzyme E220D/Y224G
+KCAT	Homo sapiens	5.2	D-Ala	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	5.5	D-Ala	*pH 8.3, 25&Acirc;&deg;C
+KCAT	Sus scrofa	6.5	D-Ala	*wild-type enzyme
+KCAT	Caenorhabditis elegans	14.9	D-Ala	*pH 8.3, 37&Acirc;&deg;C, recombinant DAO
+KCAT	Rhodotorula toruloides	82	D-Ala	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme S335G
+KCAT	Trigonopsis variabilis	108.6	D-Ala	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	120	D-Ala	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme Y238S
+KCAT	Rhodotorula toruloides	125	D-Ala	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme Y238F
+KCAT	Sus scrofa	133.3	D-Ala	*at pH 9.8 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	151.2	D-Ala	*at pH 7.0 and 37&Acirc;&deg;C
+KCAT	Cyprinus carpio	190	D-Ala	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	278	D-Ala	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Rhodotorula toruloides	350	D-Ala	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodotorula toruloides	350	D-Ala	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Sus scrofa	440	D-Ala	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	630	D-Ala	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Trigonopsis variabilis	2740	D-Ala	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	4880	D-Ala	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	5000	D-Ala	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Sus scrofa	0.89	L-Asp	*at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	1.3	cephalosporin C	*mutant enzyme Y223S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Trigonopsis variabilis	3	cephalosporin C	*immobilized enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	3.6	cephalosporin C	*mutant enzyme M213R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	4.4	cephalosporin C	*mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Trigonopsis variabilis	6.167	cephalosporin C	*recombinant wild-type enzyme, pH 7.5, 22&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	7	cephalosporin C	*mutant enzyme S335R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	7.3	cephalosporin C	*mutant enzyme M213E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	7.8	cephalosporin C	*mutant enzyme Y228F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	15	cephalosporin C	*mutant enzyme Y238S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Trigonopsis variabilis	16.67	cephalosporin C	*recombinant mutant F54S, pH 7.5, 22&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	17	cephalosporin C	*mutant enzyme Y223F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Trigonopsis variabilis	18.33	cephalosporin C	*recombinant mutant F54A, pH 7.5, 22&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	24	cephalosporin C	*mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value; mutant enzyme Y238R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	26	cephalosporin C	*mutant enzyme S335H, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Trigonopsis variabilis	36.67	cephalosporin C	*recombinant mutant F54Y, pH 7.5, 22&Acirc;&deg;C
+KCAT	Sus scrofa	39	cephalosporin C	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	50	cephalosporin C	*mutant enzyme S335G, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Trigonopsis variabilis	55	cephalosporin C	*native enzyme, at 37&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	55	cephalosporin C	*free enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	57	cephalosporin C	*immobilized enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	64	cephalosporin C	*double fusion enzyme, at 37&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	70	cephalosporin C	*native enzyme, at 37&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	70	cephalosporin C	*free enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	72	cephalosporin C	*wild type enzyme, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	80	cephalosporin C	*double fusion enzyme, at 37&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	100	cephalosporin C	*
+KCAT	Rhodotorula toruloides	737	cephalosporin C	*
+KCAT	Trigonopsis variabilis	4300	cephalosporin C	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	4400	cephalosporin C	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Sus scrofa	1.8	D-serine	*mutant T317A
+KCAT	Homo sapiens	2.5	D-serine	*pH 8.5, 25&Acirc;&deg;C, recombinant EGFP-DAAO
+KCAT	Sus scrofa	2.7	D-serine	*wild-type
+KCAT	Homo sapiens	3	D-serine	*pH 8.5, 25&Acirc;&deg;C, recombinant wild-type DAAO
+KCAT	Homo sapiens	3	D-serine	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	4	D-serine	*in 50 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	6.4	D-serine	*in 75 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	0.09	D-Aspartate	*mutant enzyme S335H, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.26	D-Aspartate	*mutant enzyme Y228F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.37	D-Aspartate	*mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.5	D-Aspartate	*mutant enzyme S335G, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value; wild type enzyme, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.56	D-Aspartate	*mutant enzyme Y238S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.67	D-Aspartate	*mutant enzyme S335R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.9	D-Aspartate	*mutant enzyme Y223S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	1	D-Aspartate	*mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	2.5	D-Aspartate	*mutant enzyme Y223F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	3.2	D-Aspartate	*mutant enzyme M213E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	3.9	D-Aspartate	*mutant enzyme M213R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	6	D-Aspartate	*mutant enzyme Y238R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Homo sapiens	6.7	D-Aspartate	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.2	D-tryptophan	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	3.7	D-tryptophan	*in 75 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Sus scrofa	9.7	D-proline	*mutant T317A
+KCAT	Homo sapiens	10.2	D-proline	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Sus scrofa	11.7	D-proline	*mutant Y228F
+KCAT	Sus scrofa	21	D-proline	*wild-type
+KCAT	Rattus norvegicus	47	D-proline	*in 75 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Sus scrofa	83.7	D-proline	*mutant Y224F
+KCAT	Sus scrofa	87.2	D-proline	*wild-type
+KCAT	Sus scrofa	0.4	D-Phe	*mutant enzyme E220D/Y224G
+KCAT	Sus scrofa	3	D-Phe	*mutant enzyme I223D/Y224G
+KCAT	Sus scrofa	3.17	D-Phe	*mutant enzymeY224G
+KCAT	Sus scrofa	3.5	D-Phe	*mutant enzyme G222D/Y224G
+KCAT	Sus scrofa	13	D-Phe	*mutant enzyme R221D/Y224G
+KCAT	Sus scrofa	16.7	D-Phe	*wild-type enzyme
+KCAT	Caenorhabditis elegans	25.1	D-Phe	*pH 8.3, 37&Acirc;&deg;C, recombinant DAO
+KCAT	Trigonopsis variabilis	27.2	D-Phe	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	47.1	D-Phe	*mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Sus scrofa	53.33	D-Phe	*mutant enzyme E220D/Y224G
+KCAT	Trigonopsis variabilis	58.8	D-Phe	*mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	63	D-Phe	*mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Cyprinus carpio	119	D-Phe	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	0.84	D-methionine	*recombinant mutant C108S, pH 7.5, 37&Acirc;&deg;C, with 6-dichloroindophenolate
+KCAT	Trigonopsis variabilis	1.5	D-methionine	*recombinant wild-type enzyme, pH 7.5, 37&Acirc;&deg;C, with 6-dichloroindophenolate
+KCAT	Trigonopsis variabilis	2.8	D-methionine	*recombinant mutant C108D, pH 7.5, 37&Acirc;&deg;C, with 6-dichloroindophenolate
+KCAT	Sus scrofa	47.5	D-methionine	*mutant Y228F
+KCAT	Trigonopsis variabilis	75	D-methionine	*recombinant mutant C108D, pH 7.5, 37&Acirc;&deg;C, with O2
+KCAT	Sus scrofa	92	D-methionine	*mutant Y224F
+KCAT	Trigonopsis variabilis	110	D-methionine	*recombinant mutant C108S, pH 7.5, 37&Acirc;&deg;C, with O2
+KCAT	Sus scrofa	143	D-methionine	*wild-type
+KCAT	Trigonopsis variabilis	200	D-methionine	*recombinant wild-type enzyme, pH 7.5, 37&Acirc;&deg;C, with O2
+KCAT	Caenorhabditis elegans	1.51	D-Ser	*pH 8.3, 37&Acirc;&deg;C, recombinant DAO
+KCAT	Sus scrofa	2.2	D-Ser	*mutant enzyme E220D/Y224G
+KCAT	Homo sapiens	2.83	D-Ser	*pH 8.3, 25&Acirc;&deg;C
+KCAT	Homo sapiens	3	D-Ser	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Sus scrofa	3	D-Ser	*wild-type enzyme
+KCAT	Trigonopsis variabilis	20.5	D-Ser	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Cyprinus carpio	34.5	D-Ser	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Sus scrofa	0.4	L-Pro	*at pH 8.5 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	0.7	L-Pro	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	6.71	L-Pro	*at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	60	D-Glu	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodotorula toruloides	975	D-Glu	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Sus scrofa	2.4	D-phenylalanine	*mutant T317A
+KCAT	Homo sapiens	6.6	D-phenylalanine	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Sus scrofa	7.1	D-phenylalanine	*mutant Y228F
+KCAT	Rattus norvegicus	8.5	D-phenylalanine	*in 75 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Homo sapiens	15.5	D-phenylalanine	*in 50 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Sus scrofa	17	D-phenylalanine	*wild-type
+KCAT	Sus scrofa	48.8	D-phenylalanine	*mutant Y224F
+KCAT	Sus scrofa	55.9	D-phenylalanine	*wild-type
+KCAT	Rhodotorula toruloides	0.2	D-arginine	*kcat less than 0.2/s, mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	0.43	D-arginine	*mutant enzyme Y223S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	2.1	D-arginine	*mutant enzyme S335H, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	2.6	D-arginine	*mutant enzyme Y238R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	3.2	D-arginine	*mutant enzyme M213E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	3.6	D-arginine	*mutant enzyme S335R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	6.5	D-arginine	*mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	7.3	D-arginine	*mutant enzyme Y223F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	8.6	D-arginine	*mutant enzyme S335G, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	11	D-arginine	*mutant enzyme Y228F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	14	D-arginine	*mutant enzyme Y238S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Rhodotorula toruloides	20	D-arginine	*wild type enzyme, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25&Acirc;&deg;C, apparent value
+KCAT	Sus scrofa	1.83	D-Arg	*mutant enzyme I223D/Y224G
+KCAT	Sus scrofa	2	D-Arg	*mutant enzymeY224G
+KCAT	Caenorhabditis elegans	2.83	D-Arg	*pH 8.3, 37&Acirc;&deg;C, recombinant DAO
+KCAT	Sus scrofa	3.5	D-Arg	*wild-type enzyme
+KCAT	Sus scrofa	4	D-Arg	*mutant enzyme E220D/Y224G; mutant enzyme G222D/Y224G
+KCAT	Sus scrofa	7.5	D-Arg	*mutant enzyme R221D/Y224G
+KCAT	Sus scrofa	0.95	D-Asp	*at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.7	D-Asp	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	29	D-Asp	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodotorula toruloides	235	D-Asp	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Rhodotorula toruloides	1665	D-Asp	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R/Y238R
+KCAT	Sus scrofa	1.33	D-Met	*mutant enzyme I223D/Y224G
+KCAT	Sus scrofa	1.38	D-Met	*mutant enzymeY224G
+KCAT	Sus scrofa	2.5	D-Met	*mutant enzyme G222D/Y224G
+KCAT	Sus scrofa	6.83	D-Met	*wild-type enzyme
+KCAT	Sus scrofa	9	D-Met	*mutant enzyme R221D/Y224G
+KCAT	Sus scrofa	10.5	D-Met	*mutant enzyme E220D/Y224G
+KCAT	Trigonopsis variabilis	42	D-Met	*mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	63	D-Met	*mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	80.5	D-Met	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	89	D-Met	*mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	680	D-Met	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Rhodotorula toruloides	4600	D-Met	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	21.67	D-Dopa	*in 50 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Homo sapiens	21.7	D-Dopa	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	14.8	D-tyrosine	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	14.83	D-tyrosine	*in 50 mM sodium diphosphate buffer (pH 8.3) at 25&Acirc;&deg;C
+KCAT	Rubrobacter xylanophilus	24	D-Leu	*at pH 8.0 and 60&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	29.1	D-Leu	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	46	D-Leu	*mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	56	D-Leu	*mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	66.6	D-Leu	*mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Cyprinus carpio	116	D-Leu	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	7.7	D-Trp	*mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	31	D-Trp	*mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	33	D-Trp	*mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	42.4	D-Trp	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Sus scrofa	0.052	D-Pro	*wild-type enzyme
+KCAT	Sus scrofa	1.67	D-Pro	*mutant enzymeY224G
+KCAT	Sus scrofa	3.5	D-Pro	*mutant enzyme G222D/Y224G
+KCAT	Sus scrofa	3.83	D-Pro	*mutant enzyme R221D/Y224G
+KCAT	Sus scrofa	4.33	D-Pro	*mutant enzyme E220D/Y224G
+KCAT	Homo sapiens	10.2	D-Pro	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Sus scrofa	10.33	D-Pro	*wild-type enzyme
+KCAT	Homo sapiens	15	D-Pro	*pH 8.3, 25&Acirc;&deg;C
+KCAT	Sus scrofa	43.3	D-Pro	*at pH 8.5 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	50.2	D-Pro	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	107.3	D-Pro	*at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Cyprinus carpio	142	D-Pro	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	1615	D-Pro	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Rhodotorula toruloides	4640	D-Pro	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Sus scrofa	0.9	D-valine	*mutant T317A
+KCAT	Sus scrofa	2.5	D-valine	*wild-type
+KCAT	Rhodotorula toruloides	6	D-valine	*D isotope
+KCAT	Trigonopsis variabilis	8.67	D-valine	*D isotope
+KCAT	Rhodotorula toruloides	28.8	D-valine	*
+KCAT	Trigonopsis variabilis	41.7	D-valine	*
+KCAT	Rhodotorula toruloides	523	D-valine	*
+KCAT	Trigonopsis variabilis	15.9	D-Tyr	*mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	22.5	D-Tyr	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Rubrobacter xylanophilus	53	D-Tyr	*at pH 8.0 and 60&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	72	D-Tyr	*mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Cyprinus carpio	117	D-Tyr	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Sus scrofa	0.25	D-Val	*mutant enzyme G222D/Y224G
+KCAT	Sus scrofa	0.433	D-Val	*mutant enzymeY224G
+KCAT	Sus scrofa	0.75	D-Val	*mutant enzyme R221D/Y224G
+KCAT	Sus scrofa	1.05	D-Val	*mutant enzyme E220D/Y224G
+KCAT	Sus scrofa	2.5	D-Val	*wild-type enzyme
+KCAT	Trigonopsis variabilis	11.5	D-Val	*mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	14.6	D-Val	*mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Rubrobacter xylanophilus	31.4	D-Val	*at pH 8.0 and 60&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	85.3	D-Val	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Cyprinus carpio	170	D-Val	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	0.7	D-Asn	*Km less than 0.7 s-1, mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	13	D-Asn	*mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	50	D-Asn	*mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	62.4	D-Asn	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Rhodotorula toruloides	106	D-Asn	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Rhodotorula toruloides	1300	D-Asn	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodotorula toruloides	79	N-Methyl-D-aspartate	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Rhodotorula toruloides	290	D-Gln	*pH 8.5, 25&Acirc;&deg;C, mutant enzyme M213R
+KCAT	Rhodotorula toruloides	1135	D-Gln	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Sus scrofa	0.8	D-Lys	*wild-type enzyme
+KCAT	Sus scrofa	2.33	D-Lys	*mutant enzymeY224G
+KCAT	Sus scrofa	3	D-Lys	*mutant enzyme I223D/Y224G
+KCAT	Sus scrofa	3.33	D-Lys	*mutant enzyme E220D/Y224G
+KCAT	Trigonopsis variabilis	3.54	D-Lys	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Sus scrofa	5	D-Lys	*mutant enzyme G222D/Y224G; mutant enzyme R221D/Y224G
+KCAT	Cyprinus carpio	42.3	D-Lys	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trigonopsis variabilis	1.75	D-Thr	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30&Acirc;&deg;C
+KCAT	Rubrobacter xylanophilus	7.6	D-Thr	*at pH 8.0 and 60&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	1.51	D-His	*pH 8.3, 37&Acirc;&deg;C, recombinant DAO
+KCAT	Rubrobacter xylanophilus	23	D-Ile	*at pH 8.0 and 60&Acirc;&deg;C
+KCAT	Cyprinus carpio	76.7	D-Ile	*pH 8.0, 37&Acirc;&deg;C

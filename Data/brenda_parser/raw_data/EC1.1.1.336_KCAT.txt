@@ -1,0 +1,1 @@
+ecNumber*1.1.1.336#turnoverNumber*0.4#turnoverNumberMaximum*#substrate*NAD+#commentary*pH 8.5, 37&deg;C#organism*Methanococcus maripaludis#ligandStructureId*7#literature*692855#

@@ -1,0 +1,10 @@
+KCAT	Bacillus subtilis	0.26	phenyl 6-phospho-alpha-D-glucoside	*at 37&deg;C in Tris-HCl buffer, pH 8.4
+KCAT	Bacillus subtilis	0.42	methyl 6-phospho-alpha-D-glucoside	*at 37&deg;C in HEPES buffer, pH 7.5
+KCAT	Bacillus subtilis	0.7	4-nitrophenyl 6-phospho-alpha-D-glucoside	*at 37&deg;C in HEPES buffer, pH 7.5
+KCAT	Bacillus subtilis	0.72	3,4-dinitrophenyl 6-phospho-alpha-D-glucoside	*at 37&deg;C in HEPES buffer, pH 7.5
+KCAT	Bacillus subtilis	0.81	3,4-dinitrophenyl 6-phospho-alpha-D-glucoside	*at 37&deg;C in Tris-HCl buffer, pH 8.4
+KCAT	Bacillus subtilis	0.85	4-nitrophenyl 6-phospho-alpha-D-glucoside	*at 37&deg;C in Tris-HCl buffer, pH 8.4
+KCAT	Bacillus subtilis	0.9	phenyl 6-phospho-alpha-D-glucoside	*at 37&deg;C in HEPES buffer, pH 7.5
+KCAT	Bacillus subtilis	1.1	methyl 6-phospho-alpha-D-glucoside	*at 37&deg;C in Tris-HCl buffer, pH 8.4
+KCAT	Bacillus subtilis	1.3	maltose 6'-phosphate	*at 37&deg;C in HEPES buffer, pH 7.5; at 37&deg;C in Tris-HCl buffer, pH 8.4
+KCAT	Enterococcus faecalis	128	maltose 6'-phosphate	*at pH 7.0 and 37&deg;C

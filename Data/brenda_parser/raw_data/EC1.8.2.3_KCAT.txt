@@ -1,0 +1,1 @@
+ecNumber*1.8.2.3#turnoverNumber*3.9#turnoverNumberMaximum*#substrate*oxidized heart cytochrome c#commentary*at pH 6.0 and 30&Acirc;&deg;C#organism*Paracoccus pantotrophus#ligandStructureId*#literature*714154#

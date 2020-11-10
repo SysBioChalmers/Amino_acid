@@ -1,0 +1,1 @@
+KCAT	Aspergillus fumigatus	0.19	fumitremorgin B	*pH 6.0, 30&Acirc;&deg;C

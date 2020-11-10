@@ -1,0 +1,20 @@
+KCAT	Amycolatopsis orientalis	-999	more	*kcat for high-molecular mass chitosan is 2832 per min
+KCAT	Photobacterium profundum	0.0047	chitobiose	*mutant enzyme D139A, at pH 7.0 and 37&deg;C
+KCAT	Photobacterium profundum	0.071	chitobiose	*mutant enzyme D139E, at pH 7.0 and 37&deg;C
+KCAT	Photobacterium profundum	0.073	alpha-D-glucosaminyl fluoride	*mutant enzyme D139E, at pH 7.0 and 37&deg;C
+KCAT	Photobacterium profundum	0.087	4-nitrophenyl beta-D-glucosaminide	*pH 7.0, 37&deg;C
+KCAT	Photobacterium profundum	0.19	4-nitrophenyl beta-D-glucoside	*pH 7.0, 37&deg;C
+KCAT	Photobacterium profundum	0.54	chitobiose	*mutant enzyme D139S, at pH 7.0 and 37&deg;C
+KCAT	Aspergillus oryzae	23.8	colloidal chitosan	*wild type enzyme, at pH 5.5 and 50&deg;C
+KCAT	Amycolatopsis orientalis	27	chitohexaose	*2-amino-2-deoxy-D-glucopyranose split off, pH 5.2, 20&deg;C
+KCAT	Aspergillus fumigatus	28.3	chitosan	*
+KCAT	Photobacterium profundum	47.7	cellotriose	*pH 7.0, 37&deg;C
+KCAT	Photobacterium profundum	52	GlcN(beta1-4)GlcN(beta1-4)GlcN(beta1-4)GlcN	*pH 7.0, 37&deg;C
+KCAT	Photobacterium profundum	54.2	cellotetraose	*pH 7.0, 37&deg;C
+KCAT	Photobacterium profundum	68.8	cellobiose	*pH 7.0, 37&deg;C
+KCAT	Photobacterium profundum	77.4	GlcN(beta1-4)GlcN(beta1-4)GlcN	*pH 7.0, 37&deg;C
+KCAT	Photobacterium profundum	87	chitobiose	*wild type enzyme, at pH 7.0 and 37&deg;C
+KCAT	Photobacterium profundum	97.6	GlcN(beta1-4)GlcN(beta1-4)GlcN(beta1-4)GlcN(beta1-4)GlcN	*pH 7.0, 37&deg;C
+KCAT	Aspergillus oryzae	102.6	colloidal chitosan	*mutant enzyme F769W, at pH 5.5 and 50&deg;C
+KCAT	Photobacterium profundum	152.9	chitobiose	*pH 7.0, 37&deg;C
+KCAT	Aspergillus fumigatus	3000	crab shell chitosan	*at pH 5.5 and 40&deg;C

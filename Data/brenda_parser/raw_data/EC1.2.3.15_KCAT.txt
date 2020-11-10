@@ -1,0 +1,1 @@
+ecNumber*1.2.3.15#turnoverNumber*198#turnoverNumberMaximum*#substrate*methylglyoxal#commentary*at pH 4.5 and 25&Acirc;&deg;C#organism*Phanerochaete chrysosporium#ligandStructureId*322#literature*739561#

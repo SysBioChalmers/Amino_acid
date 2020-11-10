@@ -1,0 +1,12 @@
+KCAT	Methanofollis liminatans	85	2-propanol	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	49	2-butanol	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	2.1	2-butanone	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	161.5	reduced coenzyme F420	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	85	oxidized coenzyme F420	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	1.3	2-Pentanone	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	38.5	(S)-2-butanol	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	51.3	(R)-2-butanol	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	23.1	2-Pentanol	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	4.4	Cyclopentanone	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	12.8	Cyclopentanol	*pH 5.8, 37&Acirc;&deg;C
+KCAT	Methanofollis liminatans	161.5	propanone	*pH 5.8, 37&Acirc;&deg;C

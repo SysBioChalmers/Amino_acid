@@ -1,0 +1,3 @@
+KCAT	Zophobas atratus	0.0015	ATP	*at pH 8.5, temperature not specified in the publication
+KCAT	Aquatica lateralis	0.11	Ketoprofen	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Zophobas atratus	0.0015	L-firefly luciferin	*at pH 8.5, temperature not specified in the publication

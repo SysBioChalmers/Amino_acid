@@ -1,0 +1,1 @@
+ecNumber*6.3.1.11#turnoverNumber*5.94#turnoverNumberMaximum*#substrate*putrescine#commentary*pH 8.0 37&deg;C, recombinant enzyme#organism*Escherichia coli K-12#ligandStructureId*155#literature*693086#

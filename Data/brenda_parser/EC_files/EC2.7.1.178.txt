@@ -1,0 +1,4 @@
+KCAT	Saccharolobus solfataricus	3.8	ATP	*pH 7.5, 60&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	5	2-dehydro-3-deoxy-D-gluconate	*pH 7.5, 60&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	60.8	2-dehydro-3-deoxy-D-gluconate	*pH 7.2, 60&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	5.4	2-dehydro-3-deoxy-D-galactonate	*pH 7.5, 60&Acirc;&deg;C

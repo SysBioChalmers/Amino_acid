@@ -1,0 +1,2 @@
+KCAT	Streptomyces globisporus	15	2-amino-2-deoxyisochorismate	*
+KCAT	Streptomyces globisporus	17	FMN	*

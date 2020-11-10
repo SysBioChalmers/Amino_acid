@@ -1,0 +1,3 @@
+KCAT	Homo sapiens	0.83	5-fluoro-alpha-L-idopyranosyluronic acid fluoride	*pH 4.5, 37&deg;C
+KCAT	Homo sapiens	9.4	4-methylumbelliferyl alpha-L-iduronide	*Aldurazyme, at pH 3.5 and 37&deg;C
+KCAT	Homo sapiens	11.8	4-methylumbelliferyl alpha-L-iduronide	*recombinant enzyme, at pH 3.5 and 37&deg;C

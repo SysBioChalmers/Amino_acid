@@ -1,0 +1,6 @@
+KCAT	Oryza sativa	0.185	UDP-beta-L-arabinopyranose	*pH 6.8, 25&Acirc;&deg;C; pH 6.8, 25&Acirc;&deg;C
+KCAT	Chlamydomonas reinhardtii	0.93	UDP-beta-L-arabinopyranose	*pH 6, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Chlamydomonas reinhardtii	1.44	UDP-beta-L-arabinopyranose	*pH 6, 25&Acirc;&deg;C, native enzyme
+KCAT	Oryza sativa	0.474	UDP-beta-L-arabinofuranose	*pH 6.8, 25&Acirc;&deg;C; pH 6.8, 25&Acirc;&deg;C
+KCAT	Chlamydomonas reinhardtii	1.44	UDP-beta-L-arabinofuranose	*pH 6, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Chlamydomonas reinhardtii	5.98	UDP-beta-L-arabinofuranose	*pH 6, 25&Acirc;&deg;C, native enzyme

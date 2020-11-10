@@ -1,0 +1,1 @@
+ecNumber*3.2.1.75#turnoverNumber*28.9#turnoverNumberMaximum*#substrate*Laminarin#commentary*at pH 7.0 and 40&deg;C#organism*Saccharophagus degradans#ligandStructureId*461#literature*749687#!ecNumber*3.2.1.75#turnoverNumber*135.6#turnoverNumberMaximum*#substrate*pustulan#commentary*at pH 7.0 and 40&deg;C#organism*Saccharophagus degradans#ligandStructureId*#literature*749687#

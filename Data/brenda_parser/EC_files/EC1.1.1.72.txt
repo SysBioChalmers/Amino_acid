@@ -1,0 +1,4 @@
+KCAT	Gluconobacter oxydans	2.7	NADPH	*W23A mutant protein, pH 7.0, 30&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	35.4	NADPH	*W23M mutant protein, pH 7.0, 30&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	57.2	NADPH	*wild-type protein, pH 7.0, 30&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	-999	more	*24.2/sec with substrate D/L-glyceraldehyde, W23M mutant protein, pH 7.0, 30&Acirc;&deg;C; 3.2/sec with substrate D/L-glyceraldehyde, W23A mutant protein, pH 7.0, 30&Acirc;&deg;C; 52.8/sec with substrate D/L-glyceraldehyde, wild-type protein, pH 7.0, 30&Acirc;&deg;C

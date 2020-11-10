@@ -1,0 +1,15 @@
+KCAT	Thermococcus sp.	1.6	acetate	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	343	acetaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	950	formaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	720	benzaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	1100	propionaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	62	methyl viologen	*pH 8.4, 85&Acirc;&deg;C, with crotonaldehyde
+KCAT	Thermococcus sp.	250	benzyl viologen	*pH 8.4, 85&Acirc;&deg;C, with crotonaldehyde
+KCAT	Thermococcus sp.	960	phenylacetaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	2.8	glyceraldehyde	*pH 8.4, 45&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	13	Salicylaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	22	crotonaldehyde	*pH 8.4, 45&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	269	crotonaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	55	Indoleacetaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	272	isovalerylaldehyde	*pH 8.4, 85&Acirc;&deg;C, benzyl viologen as electron acceptor
+KCAT	Thermococcus sp.	270	Ferredoxin	*ES-1 ferredoxin, pH 8.4, 85&Acirc;&deg;C, with crotonaldehyde

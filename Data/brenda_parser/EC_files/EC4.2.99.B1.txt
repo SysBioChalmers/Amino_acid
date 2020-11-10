@@ -1,0 +1,8 @@
+KCAT	Homo sapiens	-999	intact apurinic/apyrimidinic site	*200fold lower compared to preincised apurinic/apyrimidinic site as substrate
+KCAT	Crithidia fasciculata	0.0018	28-mer deoxyoligonucleotide with a 5' uracil residue	*pretreated with Eschericia coli uracil N-glycosylase, with concentrations 0.1-2.0 microMol, kcat/Km: 0.24 microMol/min
+KCAT	Homo sapiens	0.0043	preincised apurinic/apyrimidinic DNA	*pH 7.4, 37&deg;C, in presence of 0.2 mM EDTA
+KCAT	Homo sapiens	0.007	35-bp-deoxyoligonucleotide duplex containing a uracil residue at position 15	*full-length 290-kDa Pol theta, pH 7.5, 37&deg;C, kcat/Km: 0.047 microM/min
+KCAT	Homo sapiens	0.0075	DNA with a 5'-incised apurinic/apyrimidinic site at position 21	*dRP lyase activity of beta-pol. To quantify the kinetic parameters for the release of deoxyribose phosphate from a preincused apurinic/apyrimidinic site-containing DNA, deoxyribose phosphate is examined as a function of apurinic/apyrimidinic site concentration. The catalytic efficiency results in a kcat/Km: 0.00015 mM/s. The catalytic efficiency of the 8-kDa amino-terminal domain is 7fold lower than that of the intact 39-kDa beta-pol
+KCAT	Human alphaherpesvirus 1	0.0075	mimic of a preincised DNA duplex with a 5'dRP at the site of the nick	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.01167	35-bp-deoxyoligonucleotide duplex containing a uracil residue at position 15	*98-kDa fragment of Pol theta, pH 7.5, 37&deg;C, kcat/Km: 0.072 microM/min
+KCAT	Homo sapiens	4.5	preincised apurinic/apyrimidinic DNA	*recombinant protein, pH 7.4, 37&deg;C, in presence of 0.2 mM EDTA

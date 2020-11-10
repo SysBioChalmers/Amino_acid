@@ -1,0 +1,16 @@
+KCAT	Cupriavidus necator	0.01	L-cysteine	*pH 6.5, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Rattus norvegicus	0.012	L-cysteine	*assay standart conditions are: the enzyme is incubated at 37&deg;C in the presence of 62.5 mM Mes buffer (pH 6.1), 0.3 mM ferrous sulfate, 0.0125 mM bathocuproine disulfonate and 1.2 mM cysteine
+KCAT	Rattus norvegicus	0.12	L-cysteine	*20% cross-linked wild-type enzyme, pH 9.1, temperature not specified in the publication
+KCAT	Cupriavidus necator	0.25	L-cysteine	*pH 6.5, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Rattus norvegicus	0.25	L-cysteine	*60% cross-linked wild-type enzyme, pH 7.7, temperature not specified in the publication
+KCAT	Streptomyces coelicolor	0.3	L-cysteine	*SCO5772
+KCAT	Streptomyces coelicolor	0.33	L-cysteine	*SCO3035
+KCAT	Rattus norvegicus	0.33	L-cysteine	*not cross-linked wild-type enzyme, pH 7.7, temperature not specified in the publication
+KCAT	Bacillus subtilis	0.39	L-cysteine	*YubC
+KCAT	Rattus norvegicus	0.62	L-cysteine	*
+KCAT	Cupriavidus necator	0.82	3-Mercaptopropionate	*pH 6.5, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Homo sapiens	1.7	L-cysteine	*determind under saturating oxygen conditions
+KCAT	Mus musculus	1.8	L-cysteine	*presence of 0.1 mol Fe2+, absence of EDTA
+KCAT	Bacillus cereus	2	L-cysteine	*
+KCAT	Mus musculus	3.6	L-cysteine	*presence of 0.1 mol Fe2+, absence of EDTA
+KCAT	Homo sapiens	10.35	L-cysteine	*pH 6.1, 37&deg;C, recombinnat wild-type enzyme

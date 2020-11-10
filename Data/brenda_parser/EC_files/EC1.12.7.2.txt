@@ -1,0 +1,4 @@
+KCAT	Sporomusa sphaeroides	0.683	H2	*
+KCAT	Clostridium acetobutylicum	133	H2	*using ferredoxin CAC0587 as electron carrier, at 35&Acirc;&deg;C
+KCAT	Clostridium acetobutylicum	454	H2	*using methyl viologen as electron carrier, at 35&Acirc;&deg;C
+KCAT	Clostridium acetobutylicum	483	H2	*using flavodoxin CAC0587 as electron carrier, at 35&Acirc;&deg;C

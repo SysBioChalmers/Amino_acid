@@ -1,0 +1,10 @@
+KCAT	Streptomyces griseus	153	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	*
+KCAT	Streptomyces griseus	0.066	Suc-AAPF-p-nitroanilide	*pH 8.0, 25&Acirc;&deg;C, mutant S195G
+KCAT	Streptomyces griseus	0.474	Suc-AAPF-p-nitroanilide	*pH 8.0, 25&Acirc;&deg;C, mutant S195A
+KCAT	Streptomyces griseus	1880	Suc-AAPF-p-nitroanilide	*pH 8.0, 25&Acirc;&deg;C, native SGPB
+KCAT	Streptomyces griseus	1884	Suc-AAPF-p-nitroanilide	*pH 8.0, 25&Acirc;&deg;C, native SGPB
+KCAT	Streptomyces griseus	6.7	Acetyl-Pro-Ala-Pro-Phe-NH2	*
+KCAT	Streptomyces griseus	3.3	Succinyl-Ala-Ala-Pro-Phe-4-methylcoumarin 7-amide	*
+KCAT	Streptomyces griseus	7.1	Acetyl-Pro-Ala-Leu-Phe-NH2	*
+KCAT	Streptomyces griseus	0.04	Acetyl-Ala-Ala-Tyr-4-methylcoumarin 7-amide	*
+KCAT	Streptomyces griseus	-999	more	*

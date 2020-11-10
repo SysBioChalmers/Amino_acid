@@ -1,0 +1,1 @@
+KCAT	Enterococcus faecalis	128	maltose 6'-phosphate	*pH 7.0, temperature not specified in the publication

@@ -1,0 +1,2 @@
+KCAT	Escherichia coli	0.2	octanoyl-[acyl-carrier protein]	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.2	apo-H protein	*pH 7.2, 37&Acirc;&deg;C

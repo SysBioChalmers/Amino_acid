@@ -1,0 +1,29 @@
+KCAT	Aspergillus nidulans	2	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme Q356A
+KCAT	Aspergillus nidulans	15	2-oxoglutarate	*30&Acirc;&deg;C, pH 7.4, value depending on preparation, enzyme isolated from Aspergillus nidulans
+KCAT	Aspergillus nidulans	17	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme N358A
+KCAT	Aspergillus nidulans	19	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme C357A
+KCAT	Aspergillus nidulans	21	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme Q101A
+KCAT	Aspergillus nidulans	25	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme D138A
+KCAT	Aspergillus nidulans	31	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme E137A
+KCAT	Aspergillus nidulans	42	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme K122A
+KCAT	Aspergillus nidulans	66.5	2-oxoglutarate	*25&Acirc;&deg;C, pH 7.4, recombinant enzyme isolated from Escherichia coli
+KCAT	Aspergillus nidulans	67	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Aspergillus nidulans	3	xanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme Q101A
+KCAT	Aspergillus nidulans	15	xanthine	*30&Acirc;&deg;C, pH 7.4, value depending on preparation, enzyme isolated from Aspergillus nidulans
+KCAT	Aspergillus nidulans	32	xanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme C357A
+KCAT	Aspergillus nidulans	34	xanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme D138A
+KCAT	Aspergillus nidulans	35	xanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme Q356A
+KCAT	Aspergillus nidulans	38	xanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme N358A
+KCAT	Aspergillus nidulans	40	xanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme E137A
+KCAT	Aspergillus nidulans	60	xanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme K122A
+KCAT	Aspergillus nidulans	71.4	xanthine	*25&Acirc;&deg;C, pH 7.4, recombinant enzyme isolated from Escherichia coli
+KCAT	Aspergillus nidulans	72	xanthine	*pH 7.4, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Aspergillus nidulans	7.6	2-oxoadipate	*25&Acirc;&deg;C, pH 7.4, recombinant enzyme isolated from Escherichia coli
+KCAT	Aspergillus nidulans	0.66	9-methylxanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme Q101A
+KCAT	Aspergillus nidulans	1.26	9-methylxanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme N358A
+KCAT	Aspergillus nidulans	1.4	9-methylxanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme Q356A
+KCAT	Aspergillus nidulans	1.9	9-methylxanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme K122A
+KCAT	Aspergillus nidulans	3.8	9-methylxanthine	*pH 7.4, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Aspergillus nidulans	4.25	9-methylxanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme D138A
+KCAT	Aspergillus nidulans	4.5	9-methylxanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme C357A
+KCAT	Aspergillus nidulans	5.9	9-methylxanthine	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme E137A

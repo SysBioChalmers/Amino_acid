@@ -1,0 +1,7 @@
+KCAT	Alkalilimnicola ehrlichii	1.2	ectoine	*pH 7.5, 32&deg;C
+KCAT	Sphingopyxis alaskensis	1.2	ectoine	*pH 7.5, 32&deg;C
+KCAT	Paenibacillus lautus	1.6	ectoine	*pH 7.5, 32&deg;C
+KCAT	Halomonas elongata	2.8	ectoine	*pH 7.5, 32&deg;C
+KCAT	Acidiphilium cryptum	3.4	ectoine	*pH 7.5, 32&deg;C
+KCAT	Virgibacillus salexigens	7.7	ectoine	*pH 7.5, 32&deg;C
+KCAT	Pseudomonas stutzeri	8.9	ectoine	*pH 7.5, 32&deg;C

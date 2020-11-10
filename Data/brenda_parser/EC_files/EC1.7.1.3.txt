@@ -1,0 +1,10 @@
+KCAT	Neurospora crassa	18	NADPH	*R920D/R932S double mutant
+KCAT	Neurospora crassa	180	NADPH	*S920D mutant
+KCAT	Ogataea angusta	215	NADPH	*
+KCAT	Neurospora crassa	275	NADH	*R932S mutant
+KCAT	Neurospora crassa	290	NADH	*wild type
+KCAT	Neurospora crassa	450	NADPH	*R932S mutant
+KCAT	Neurospora crassa	590	NADH	*R920D/R932S double mutant
+KCAT	Ogataea angusta	618	ferricyanide	*
+KCAT	Neurospora crassa	1400	NADPH	*wild type
+KCAT	Neurospora crassa	1700	NADH	*S920D mutant

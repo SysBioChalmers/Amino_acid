@@ -1,0 +1,3 @@
+KCAT	Oryza sativa	0.16	UDP-D-glucuronate	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Oryza sativa	1.69	UDP-D-glucuronate	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Hordeum vulgare	2.7	UDP-D-glucuronate	*enzyme HvUXS1

@@ -1,0 +1,13 @@
+KCAT	Crithidia fasciculata	-999	more	*
+KCAT	Crithidia fasciculata	-999	more	*
+KCAT	Leishmania donovani	1.3	glutathione	*pH 8.0, 25&deg;C, recombinant enzyme
+KCAT	Trypanosoma brucei	1.8	glutathione	*recombinant enzyme, pH 8.0, 25&deg;C, HEPES buffer, with spermidine
+KCAT	Leishmania major	2	glutathione	*pH 7.7, 25&deg;C, recombinant trypanothione synthase
+KCAT	Trypanosoma brucei	2.1	glutathione	*recombinant enzyme, pH 7.0, 37&deg;C, phosphate buffer, with glutathionylspermidine
+KCAT	Trypanosoma brucei	2.8	glutathione	*recombinant enzyme, pH 7.0, 37&deg;C, phosphate buffer, with spermidine
+KCAT	Trypanosoma cruzi	2.8	N1-(gamma-L-glutamyl-L-cysteinyl-glycyl)-spermidine	*pH 8.0
+KCAT	Trypanosoma brucei	5.2	glutathione	*recombinant enzyme, pH 8.0, 37&deg;C, HEPES buffer, with spermidine
+KCAT	Crithidia fasciculata	8.7	glutathionylspermidine	*pH 7.2, 25&deg;C, recombinant trypanothione synthase
+KCAT	Crithidia fasciculata	10	N1-glutathionylspermidine	*
+KCAT	Crithidia fasciculata	24.3	N8-glutathionylspermidine	*
+KCAT	Crithidia fasciculata	28.6	spermidine	*

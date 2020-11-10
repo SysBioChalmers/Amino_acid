@@ -1,0 +1,333 @@
+KCAT	Salmonella enterica	420	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant E576A
+KCAT	Salmonella enterica	540	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant E578A
+KCAT	Salmonella enterica	1020	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D460T/D462N
+KCAT	Salmonella enterica	1080	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D460T and E494H
+KCAT	Salmonella enterica	1140	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D462N
+KCAT	Salmonella enterica	1200	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D599A and D638Q
+KCAT	Salmonella enterica	1260	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	1320	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D567H and E624H
+KCAT	Trypanosoma evansi	21	Arg-Arg-2-naphthylamide	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	30	Arg-Arg-2-naphthylamide	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Escherichia coli	60	tosyl-Arg methyl ester	*
+KCAT	Trypanosoma evansi	18	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	22	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Leishmania major	0.016	benzoyl-L-Arg-7-amido-4-methylcoumarin	*21&Acirc;&deg;C, pH not specified in the publication
+KCAT	Trypanosoma brucei	0.758	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E607Q, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1.42	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609R, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1.46	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609F, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1.64	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E607Q/E609Q, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	4.98	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609L, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	6.84	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609A, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	7.81	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609Q, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	8.29	benzoyl-L-Arg-7-amido-4-methylcoumarin	*wild type enzyme, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	9.36	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E610Q, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	11.2	benzoyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609Q/E610Q, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	5496	benzoyl-Arg-4-nitroanilide	*pH 7.10, 25&Acirc;&deg;C
+KCAT	Escherichia coli	5500	benzoyl-Arg-4-nitroanilide	*pH 7.10, 25&Acirc;&deg;C
+KCAT	Escherichia coli	6850	benzoyl-Arg-4-nitroanilide	*pH 8.00, 25&Acirc;&deg;C
+KCAT	Escherichia coli	6852	benzoyl-Arg-4-nitroanilide	*pH 8.00, 25&Acirc;&deg;C
+KCAT	Escherichia coli	11290	benzoyl-Arg-4-nitroanilide	*pH 8.03, 25&Acirc;&deg;C
+KCAT	Escherichia coli	11300	benzoyl-Arg-4-nitroanilide	*pH 8.03, 25&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1.24	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E607Q, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1.58	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E607Q/E609Q, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1.77	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609F, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	5.03	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609L, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	5.37	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609R, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	5.42	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609A, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	9.53	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609Q/E610Q, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	13.3	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*wild type enzyme, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	15.2	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E610Q, at 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	15.8	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme E609Q, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	120	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant E576A
+KCAT	Salmonella enterica	240	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant E578A
+KCAT	Salmonella enterica	420	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D460T/D462N
+KCAT	Salmonella enterica	540	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, wild-type, mutant E494H, D599H and D567H
+KCAT	Salmonella enterica	600	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, opdB with polyhistidine affinity tag removed, mutant D460T, D462N and E624H
+KCAT	Salmonella enterica	660	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D638Q
+KCAT	Salmonella enterica	540	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant E576A and E578A
+KCAT	Salmonella enterica	1080	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D460T/D462N
+KCAT	Salmonella enterica	1320	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D460T
+KCAT	Salmonella enterica	1380	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D462N
+KCAT	Salmonella enterica	1740	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C wild-type and mutant D567H
+KCAT	Salmonella enterica	1800	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D599H
+KCAT	Salmonella enterica	1860	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant D638Q
+KCAT	Salmonella enterica	1980	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, mutant E494H and E624H
+KCAT	Salmonella enterica	2040	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C, opdB with polyhistidine affinty tag removed
+KCAT	Trypanosoma evansi	59	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	64	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Escherichia coli	516	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 15&Acirc;&deg;C, 1 M
+KCAT	Escherichia coli	1260	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 25&Acirc;&deg;C, 3 mM
+KCAT	Escherichia coli	1390	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1392	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1416	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 35&Acirc;&deg;C
+KCAT	Escherichia coli	1420	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 35&Acirc;&deg;C
+KCAT	Serratia proteamaculans	14.5	Nalpha-benzoyl-DL-arginine-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	37.7	Nalpha-benzoyl-DL-arginine-4-nitroanilide	*presence of 50 mM Ca2+, pH 8.0, 25&Acirc;&deg;C
+KCAT	Trypanosoma evansi	1	Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	2	Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma cruzi	108	2-aminobenzoyl-AGGRGAPQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	186	2-aminobenzoyl-AGGRGAPQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	312	2-aminobenzoyl-AGGRGAPQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma evansi	11	Gly-Arg-2-naphthylamide	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	12	Gly-Arg-2-naphthylamide	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	17	benzyloxycarbonyl-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	26	benzyloxycarbonyl-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	33	benzyloxycarbonyl-Gly-Gly-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C,recombinant enzyme
+KCAT	Trypanosoma evansi	48	benzyloxycarbonyl-Gly-Gly-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	108	tert-butyloxycarbonyl-Leu-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	154	tert-butyloxycarbonyl-Leu-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	94	tert-butyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	132	tert-butyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	9	tert-butyloxycarbonyl-Ala-Gly-Pro-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	12	tert-butyloxycarbonyl-Ala-Gly-Pro-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	8	tert-butyloxycarbonyl-Val-Pro-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	12	tert-butyloxycarbonyl-Val-Pro-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Serratia proteamaculans	2	Nalpha-benzyloxycarbonyl-L-Phe-L-Arg-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	35.2	Nalpha-benzyloxycarbonyl-L-Phe-L-Arg-4-nitroanilide	*presence of 50 mM Ca2+, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	21.2	benzoyl-L-Pro-L-Phe-L-Arg-4-nitroanilide	*presence of 50 mM Ca2+, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	201.7	benzoyl-L-Pro-L-Phe-L-Arg-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	900	2-aminobenzoyl-AGGRGAMQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1200	2-aminobenzoyl-AGGRGAMQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1020	2-aminobenzoyl-AGGRGANQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1860	2-aminobenzoyl-AGGRGANQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	390	2-aminobenzoyl-AGGRGAQQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	3060	2-aminobenzoyl-AGGRGAQQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	900	2-aminobenzoyl-AGGRGAFQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	4080	2-aminobenzoyl-AGGRGAFQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Serratia proteamaculans	24.3	acetyl-L-Leu-L-Lys-L-Arg-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	32	acetyl-L-Leu-L-Lys-L-Arg-4-nitroanilide	*presence of 50 mM Ca2+, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	55	Tosyl-Lys methyl ester	*
+KCAT	Trypanosoma evansi	23	Ala-Phe-Lys-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	34	Ala-Phe-Lys-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	17	Phe-Arg-2-naphthylamide	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	18	Phe-Arg-2-naphthylamide	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Salmonella enterica	780	Tos-Gly-Pro-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	564	2-aminobenzoyl-AGGRGASQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1620	2-aminobenzoyl-AGGRGASQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	840	2-aminobenzoyl-AGGRGAHQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1500	2-aminobenzoyl-AGGRGAHQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1200	2-aminobenzoyl-AGGRGAYQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	2760	2-aminobenzoyl-AGGRGAYQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2220	2-aminobenzoyl-AGGRGATQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	2880	2-aminobenzoyl-AGGRGATQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma evansi	58	tert-butyloxycarbonyl-Val-Gly-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	64	tert-butyloxycarbonyl-Val-Gly-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	29	Arg-Arg-Arg	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	38	Arg-Arg-Arg	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	40	Gly-Gly-Lys-Arg	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	54	Gly-Gly-Lys-Arg	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Salmonella enterica	1380	Boc-Gly-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	1200	Boc-Gly-Lys-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	156	2-aminobenzoyl-AGGRVAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	288	2-aminobenzoyl-AGGRVAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	660	2-aminobenzoyl-AGGRFAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1440	2-aminobenzoyl-AGGRFAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	660	2-aminobenzoyl-AGGRTAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	720	2-aminobenzoyl-AGGRTAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	660	2-aminobenzoyl-AGGRYAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	780	2-aminobenzoyl-AGGRYAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	840	2-aminobenzoyl-AGGRNAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	840	2-aminobenzoyl-AGGRNAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	186	2-aminobenzoyl-AGGRIAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	240	2-aminobenzoyl-AGGRIAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	720	2-aminobenzoyl-AGGRSAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1260	2-aminobenzoyl-AGGRSAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	660	2-aminobenzoyl-AGGRQAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	720	2-aminobenzoyl-AGGRQAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	552	2-aminobenzoyl-AGGRHAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1620	2-aminobenzoyl-AGGRHAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	3	2-aminobenzoyl-AGSRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	102	2-aminobenzoyl-AGSRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	246	2-aminobenzoyl-AGGRLAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	360	2-aminobenzoyl-AGGRLAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1380	2-aminobenzoyl-AMGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2340	2-aminobenzoyl-AMGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	132	2-aminobenzoyl-APGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	264	2-aminobenzoyl-APGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	312	2-aminobenzoyl-AGGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	354	2-aminobenzoyl-AGGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	396	2-aminobenzoyl-AGIRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	780	2-aminobenzoyl-AGIRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	336	2-aminobenzoyl-AGGRGPGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	450	2-aminobenzoyl-AGGRGPGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	840	2-aminobenzoyl-ALGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1740	2-aminobenzoyl-ALGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	84	2-aminobenzoyl-AGVRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	294	2-aminobenzoyl-AGVRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	600	2-aminobenzoyl-AGQRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	960	2-aminobenzoyl-AGQRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	780	2-aminobenzoyl-AGGREAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	900	2-aminobenzoyl-AGGREAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	900	2-aminobenzoyl-AGGRDAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	900	2-aminobenzoyl-AGGRDAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	486	2-aminobenzoyl-AYGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2820	2-aminobenzoyl-AYGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1800	2-aminobenzoyl-ATGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1800	2-aminobenzoyl-ATGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	780	2-aminobenzoyl-AQGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2520	2-aminobenzoyl-AQGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	900	2-aminobenzoyl-AGLRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1140	2-aminobenzoyl-AGLRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1140	2-aminobenzoyl-AGTRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1620	2-aminobenzoyl-AGTRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1380	2-aminobenzoyl-AIGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2100	2-aminobenzoyl-AIGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	900	2-aminobenzoyl-AGGRGFGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	2160	2-aminobenzoyl-AGGRGFGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1020	2-aminobenzoyl-ASGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2460	2-aminobenzoyl-ASGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	552	2-aminobenzoyl-AGGRGQGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	840	2-aminobenzoyl-AGGRGQGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	582	2-aminobenzoyl-AGFRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1320	2-aminobenzoyl-AGFRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	780	2-aminobenzoyl-AGMRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1440	2-aminobenzoyl-AGMRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	186	2-aminobenzoyl-AVGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2700	2-aminobenzoyl-AVGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	660	2-aminobenzoyl-AGGRGMGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	3240	2-aminobenzoyl-AGGRGMGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	312	2-aminobenzoyl-AFGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2200	2-aminobenzoyl-AFGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1140	2-aminobenzoyl-AHGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1260	2-aminobenzoyl-AHGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	588	2-aminobenzoyl-AGGRGSGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1380	2-aminobenzoyl-AGGRGSGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	960	2-aminobenzoyl-AGGRGHGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1020	2-aminobenzoyl-AGGRGHGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	426	2-aminobenzoyl-AGNRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	468	2-aminobenzoyl-AGNRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1200	2-aminobenzoyl-AGGRGYGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1380	2-aminobenzoyl-AGGRGYGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	432	2-aminobenzoyl-AGGRGNGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	660	2-aminobenzoyl-AGGRGNGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	264	2-aminobenzoyl-AGKRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	444	2-aminobenzoyl-AGKRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1500	2-aminobenzoyl-AGGRGLGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	3720	2-aminobenzoyl-AGGRGLGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1020	2-aminobenzoyl-AGGRGADQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1020	2-aminobenzoyl-AGGRGTGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1140	2-aminobenzoyl-AGGRGTGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1020	2-aminobenzoyl-AGGRMAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1140	2-aminobenzoyl-AGGRMAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	720	2-aminobenzoyl-AGYRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1440	2-aminobenzoyl-AGYRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	264	2-aminobenzoyl-AGGRGDGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	720	2-aminobenzoyl-AGGRGDGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	216	2-aminobenzoyl-AGPRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	720	2-aminobenzoyl-AGPRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2160	2-aminobenzoyl-AGGRGAVQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	2640	2-aminobenzoyl-AGGRGAVQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	720	2-aminobenzoyl-AGGRGEGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1980	2-aminobenzoyl-AGGRGEGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1380	2-aminobenzoyl-AGGRGALQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	2820	2-aminobenzoyl-AGGRGALQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	2400	2-aminobenzoyl-AGGRGVGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	3180	2-aminobenzoyl-AGGRGVGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	414	2-aminobenzoyl-AGGRGAIQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	3300	2-aminobenzoyl-AGGRGAIQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	1680	2-aminobenzoyl-AGGRGIGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1740	2-aminobenzoyl-AGGRGIGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma evansi	81	tert-butyloxycarbonyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	101	tert-butyloxycarbonyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	102	tert-butyloxycarbonyl-Ala-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	122	tert-butyloxycarbonyl-Ala-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, ecombinant mutant enzyme S563A
+KCAT	Trypanosoma evansi	57	tert-butyloxycarbonyl-Leu-Gly-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	74	tert-butyloxycarbonyl-Leu-Gly-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	55	tert-butyloxycarbonyl-Gly-Lys-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C,recombinant enzyme
+KCAT	Trypanosoma evansi	76	tert-butyloxycarbonyl-Gly-Lys-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	59	benzyloxycarbonyl-Phe-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	77	benzyloxycarbonyl-Phe-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	38	Val-Lys-Arg-Arg	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	44	Val-Lys-Arg-Arg	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	12	3-(2-furyl)acryloyl-Tyr-Lys-Arg	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	18	3-(2-furyl)acryloyl-Tyr-Lys-Arg	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Trypanosoma evansi	16	Phe-Arg-Arg	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma evansi	21	Phe-Arg-Arg	*pH 8.0, 37&Acirc;&deg;C, native enzyme
+KCAT	Serratia proteamaculans	53.8	Nalpha-benzyloxycarbonyl-L-lysine thiobenzyl ester	*presence of 50 mM Ca2+, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	55.5	Nalpha-benzyloxycarbonyl-L-lysine thiobenzyl ester	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	7.6	acetyl-L-Leu-L-Leu-L-Arg-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	13.9	acetyl-L-Leu-L-Leu-L-Arg-4-nitroanilide	*presence of 50 mM Ca2+, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	0.5	succinyl-L-AlaL-Ala-L-Pro-L-Arg-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	1.2	succinyl-L-AlaL-Ala-L-Pro-L-Arg-4-nitroanilide	*presence of 50 mM Ca2+, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.024	benzoyl-Arg 2-naphthylamide	*
+KCAT	Escherichia coli	4.4	Benzoyl-Lys 2-naphthylamide	*
+KCAT	Escherichia coli	197	N-benzoyl-Arg ethyl ester	*
+KCAT	Escherichia coli	55	N-Benzyloxycarbonyl-Lys benzyl ester	*
+KCAT	Escherichia coli	4848	benzoyl-Arg-beta-naphthylamide	*pH 8.00, 25&Acirc;&deg;C
+KCAT	Escherichia coli	4850	benzoyl-Arg-beta-naphthylamide	*pH 8.00, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1218	2-aminobenzoyl-Thr-Cit-Arg Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1220	2-aminobenzoyl-Thr-Cit-Arg Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	660	2-aminobenzoyl-AGGRGGGQG-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	780	2-aminobenzoyl-AGGRGGGQG-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.5	N-benzoyl-arginine amide	*
+KCAT	Escherichia coli	57	N-benzoyl-arginine amide	*
+KCAT	Escherichia coli	294	2-aminobenzoyl-Thr-Arg Cit-Phe(NO2)-Ser-Leu-NH2	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Salmonella enterica	1560	Boc-Leu-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	1080	Boc-Leu-Thr-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	1500	benzyloxycarbonyl-Gly-Gly-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	960	Boc-Leu-Gly-Lys-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	900	benzyloxycarbonyl-Val-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	1080	Boc-Leu-Gly-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	1020	Boc-Gln-Gly-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	900	benzyloxycarbonyl-Gly-Arg-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	420	benzyloxycarbonyl-Lys-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	1080	Tos-Gly-Pro-Lys-4-methylcoumarin 7-amide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	108	2-aminobenzoyl-AGERGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	288	2-aminobenzoyl-ADGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	450	2-aminobenzoyl-ANGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	180	2-aminobenzoyl-AGDRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	720	2-aminobenzoyl-AGHRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	402	2-aminobenzoyl-AGGRGAEQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	312	2-aminobenzoyl-AEGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Serratia proteamaculans	1	succinyl-L-Ala-L-Ala-L-Pro-L-Lys-4-nitroanilide	*presence of 50 mM Ca2+, pH 8.0, 25&Acirc;&deg;C
+KCAT	Trypanosoma brucei	5.82	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	8.72	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	11.4	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*mutant R689A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	11.8	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	14.3	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*mutant E490Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Leishmania major	0.01	N-benzyloxycarbonyl-L-Arg-L-Arg-7-amido-4-methylcoumarin	*21&Acirc;&deg;C, pH not specified in the publication
+KCAT	Leishmania major	0.011	N-benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin	*21&Acirc;&deg;C, pH not specified in the publication
+KCAT	Leishmania major	0.013	benzyloxycarbonyl-Gly-L-Arg-L-Arg-7-amido-4-methylcoumarin	*21&Acirc;&deg;C, pH not specified in the publication
+KCAT	Leishmania major	0.02	N-benzyloxycarbonyl-Gly-Gly-L-Arg-7-amido-4-methylcoumarin	*21&Acirc;&deg;C, pH not specified in the publication
+KCAT	Leishmania donovani	4250	benzoyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Leishmania donovani	6830	benzoyl-Gly-Gly-L-Arg-7-amido-4-methylcoumarin	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1.5	Acetyl-Tyr 4-nitroanilide	*
+KCAT	Escherichia coli	43	N-benzyloxycarbonyl-Lys 4-nitrophenyl ester	*
+KCAT	Trypanosoma brucei	1.17	benzyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	*mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	2.91	benzyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	*mutant R689A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	3.36	benzyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	6.93	benzyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	*mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	12.3	benzyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	*mutant E490Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	6.61	benzoyl-Arg-7-amido-4-methylcoumarin	*mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	13.3	benzoyl-Arg-7-amido-4-methylcoumarin	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	13.4	benzoyl-Arg-7-amido-4-methylcoumarin	*mutant R689A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	22.8	benzoyl-Arg-7-amido-4-methylcoumarin	*mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	33.9	benzoyl-Arg-7-amido-4-methylcoumarin	*mutant E490Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	3.62	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*mutant R689A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	3.91	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	7	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	8.29	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	9.55	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*mutant E490Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	1.38	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	*mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	4.25	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	*mutant R689A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	5.16	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	6.64	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	*mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	10	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	*mutant E490Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Serratia proteamaculans	4.73	Nalpha-benzoyl-DL-argininyl-4-nitroanilide	*recombinant mutant K655A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	6.27	Nalpha-benzoyl-DL-argininyl-4-nitroanilide	*recombinant mutant K660A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	6.5	Nalpha-benzoyl-DL-argininyl-4-nitroanilide	*recombinant mutant D647A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	11.31	benzyloxycarbonyl-L-argininyl-L-arginyl-4-nitroanilide	*recombinant mutant K655A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	14.35	Nalpha-benzoyl-DL-argininyl-4-nitroanilide	*recombinant wild-type enzyme, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	16.8	Nalpha-benzoyl-DL-argininyl-4-nitroanilide	*recombinant mutant D649A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	24.05	benzyloxycarbonyl-L-argininyl-L-arginyl-4-nitroanilide	*recombinant mutant K660A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	25.23	benzyloxycarbonyl-L-lysyl-L-arginyl-4-nitroanilide	*recombinant mutant D647A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	27.35	benzyloxycarbonyl-L-lysyl-L-arginyl-4-nitroanilide	*recombinant mutant K655A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	29.97	benzyloxycarbonyl-L-lysyl-L-arginyl-4-nitroanilide	*recombinant mutant K660A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	30.84	benzyloxycarbonyl-L-argininyl-L-arginyl-4-nitroanilide	*recombinant mutant D647A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	32.36	benzyloxycarbonyl-L-argininyl-L-arginyl-4-nitroanilide	*recombinant mutant D649A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	33.975	benzyloxycarbonyl-L-argininyl-L-arginyl-4-nitroanilide	*recombinant wild-type enzyme, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	45.37	benzyloxycarbonyl-L-argininyl-L-arginyl-4-nitroanilide	*recombinant mutant E125A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	51.22	benzyloxycarbonyl-L-lysyl-L-arginyl-4-nitroanilide	*recombinant mutant D649A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	52.34	benzyloxycarbonyl-L-lysyl-L-arginyl-4-nitroanilide	*recombinant wild-type enzyme, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	63.71	Nalpha-benzoyl-DL-argininyl-4-nitroanilide	*recombinant mutant E125A, pH 8.0, 25&Acirc;&deg;C
+KCAT	Serratia proteamaculans	85.55	benzyloxycarbonyl-L-lysyl-L-arginyl-4-nitroanilide	*recombinant mutant E125A, pH 8.0, 25&Acirc;&deg;C

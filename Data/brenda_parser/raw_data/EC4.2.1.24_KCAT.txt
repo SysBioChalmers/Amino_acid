@@ -1,0 +1,1 @@
+ecNumber*4.2.1.24#turnoverNumber*16.1#turnoverNumberMaximum*#substrate*5-aminolevulinic acid#commentary*#organism*Pseudomonas aeruginosa#ligandStructureId*4489#literature*701747#!ecNumber*4.2.1.24#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Homo sapiens#ligandStructureId*#literature*210699#

@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	1.5	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*pH 6.5, room temperature, mutant enzyme N97Q/N108Q/N170Q
+KCAT	Homo sapiens	2.9	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*pH 6.5, room temperature, wild-type enzyme
+KCAT	Homo sapiens	0.2	N-benzyloxycarbonyl-L-Arg-L-Arg-4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	1.3	N-benzyloxycarbonyl-L-Leu-L-Arg-4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	2.5	N-benzyloxycarbonyl-L-Phe-L-Arg-4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	1.3	N-benzyloxycarbonyl-L-Val-L-Arg-4-methylcoumarin 7-amide	*

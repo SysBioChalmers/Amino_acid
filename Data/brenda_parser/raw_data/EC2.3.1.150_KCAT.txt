@@ -1,0 +1,1 @@
+ecNumber*2.3.1.150#turnoverNumber*4.4#turnoverNumberMaximum*#substrate*salutaridinol#commentary*#organism*Papaver somniferum#ligandStructureId*6053#literature*662108#!ecNumber*2.3.1.150#turnoverNumber*3.3#turnoverNumberMaximum*#substrate*nudaurine#commentary*#organism*Papaver somniferum#ligandStructureId*20796#literature*662108#

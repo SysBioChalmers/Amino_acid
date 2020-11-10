@@ -1,0 +1,1 @@
+ecNumber*2.3.1.193#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*kinetic parameters for ATP-hydrolysis or GTP-hydrolysis#organism*Escherichia coli#ligandStructureId*#literature*703441#

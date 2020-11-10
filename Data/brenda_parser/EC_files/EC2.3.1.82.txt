@@ -1,0 +1,147 @@
+KCAT	Enterococcus faecium	0.01	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147A
+KCAT	Enterococcus sp.	0.035	acetyl-CoA	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99A
+KCAT	Enterococcus faecium	0.06	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76P
+KCAT	Enterococcus faecium	0.07	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147F
+KCAT	Enterococcus sp.	0.11	acetyl-CoA	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99E
+KCAT	Enterococcus sp.	0.17	acetyl-CoA	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99N
+KCAT	Enterococcus faecium	0.173	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme W164A
+KCAT	Enterococcus faecium	0.18	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme H74A
+KCAT	Enterococcus faecium	0.23	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76A
+KCAT	Enterococcus faecium	0.4	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus faecium	0.403	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.403	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Serratia marcescens	0.8	acetyl-CoA	*pH 7.5
+KCAT	Enterococcus faecium	0.99	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme E72A
+KCAT	Pseudomonas aeruginosa	1	acetyl-CoA	*reaction with AAC (6')-Ib' domain
+KCAT	Escherichia coli	1.03	acetyl-CoA	*AAC(6')-Ib-cr variant
+KCAT	Enterococcus sp.	1.2	acetyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type AAC(6')-Ie
+KCAT	Enterococcus sp.	1.3	acetyl-CoA	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie Y96F
+KCAT	Enterococcus faecium	1.61	acetyl-CoA	*wild-type enzyme
+KCAT	Serratia marcescens	1.62	acetyl-CoA	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	2.32	acetyl-CoA	*AAC(6')-Ib, wild type
+KCAT	Escherichia coli	5.23	acetyl-CoA	*AAC(6')-Ib-cr variant
+KCAT	Serratia marcescens	12.1	acetyl-CoA	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.317	propionyl-CoA	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.01	kanamycin A	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147A
+KCAT	Enterococcus faecium	0.03	kanamycin A	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147F
+KCAT	Enterococcus sp.	0.033	kanamycin A	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99A
+KCAT	Enterococcus sp.	0.038	kanamycin A	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99N
+KCAT	Enterococcus faecium	0.05	kanamycin A	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme H74A
+KCAT	Enterococcus faecium	0.08	kanamycin A	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme W164A
+KCAT	Enterococcus sp.	0.19	kanamycin A	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99E
+KCAT	Enterococcus faecium	0.27	kanamycin A	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76A
+KCAT	Enterococcus faecium	0.55	kanamycin A	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme E72A
+KCAT	Serratia marcescens	0.8	kanamycin A	*pH 7.5
+KCAT	Enterococcus faecium	0.816	kanamycin A	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.816	kanamycin A	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus faecium	0.82	kanamycin A	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus sp.	1.1	kanamycin A	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie Y96F
+KCAT	Enterococcus faecium	1.68	kanamycin A	*wild-type enzyme
+KCAT	Enterococcus sp.	1.7	kanamycin A	*pH 7.5, 37&Acirc;&deg;C, wild-type AAC(6')-Ie
+KCAT	Pseudomonas aeruginosa	2.4	kanamycin A	*reaction with AAC (6')-Ib' domain
+KCAT	Enterococcus faecium	0.004	tobramycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147A
+KCAT	Enterococcus faecium	0.01	tobramycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76P
+KCAT	Stenotrophomonas maltophilia	0.08	tobramycin	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	0.1	tobramycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147F
+KCAT	Enterococcus faecium	0.3	tobramycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme H74A
+KCAT	Enterococcus faecium	0.8	tobramycin	*wild-type enzyme
+KCAT	Enterococcus faecium	0.89	tobramycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76A
+KCAT	Enterococcus faecium	1.1	tobramycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme E72A; pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus faecium	1.11	tobramycin	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Serratia marcescens	3.73	tobramycin	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Serratia marcescens	3.84	tobramycin	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1.03	Ciprofloxacin	*AAC(6')-Ib-cr variant
+KCAT	Enterococcus faecium	0.003	amikacin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147F
+KCAT	Enterococcus faecium	0.03	amikacin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76A
+KCAT	Enterococcus faecium	0.04	amikacin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme H74A
+KCAT	Enterococcus faecium	0.05	amikacin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme E72A
+KCAT	Serratia marcescens	0.05	amikacin	*pH 7.5
+KCAT	Enterococcus faecium	0.106	amikacin	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.11	amikacin	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Stenotrophomonas maltophilia	0.11	amikacin	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	0.29	amikacin	*wild-type enzyme
+KCAT	Serratia marcescens	2.92	amikacin	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	3.5	amikacin	*reaction with AAC (6')-Ib' domain
+KCAT	Serratia marcescens	7.09	amikacin	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.001	neomycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147A
+KCAT	Enterococcus faecium	0.04	neomycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76P
+KCAT	Enterococcus faecium	0.07	neomycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147F
+KCAT	Enterococcus faecium	0.16	neomycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76A
+KCAT	Enterococcus faecium	0.19	neomycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme H74A
+KCAT	Enterococcus faecium	0.2	neomycin	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus faecium	0.3	neomycin	*wild-type enzyme
+KCAT	Stenotrophomonas maltophilia	0.32	neomycin	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	1.1	neomycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme E72A
+KCAT	Pseudomonas aeruginosa	6	neomycin	*reaction with AAC (6')-Ib' domain
+KCAT	Serratia marcescens	9.06	neomycin	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Serratia marcescens	11.1	neomycin	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.01	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76P
+KCAT	Enterococcus faecium	0.02	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147A
+KCAT	Enterococcus faecium	0.046	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme W164A
+KCAT	Enterococcus faecium	0.12	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147F
+KCAT	Enterococcus faecium	0.15	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76A
+KCAT	Enterococcus faecium	0.23	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme H74A
+KCAT	Enterococcus faecium	0.338	ribostamycin	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.338	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus faecium	0.34	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus faecium	0.35	ribostamycin	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme E72A
+KCAT	Serratia marcescens	3.88	ribostamycin	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Serratia marcescens	5.7	ribostamycin	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.002	neamine	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76P
+KCAT	Enterococcus faecium	0.004	neamine	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147A
+KCAT	Enterococcus sp.	0.028	neamine	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99N
+KCAT	Enterococcus sp.	0.029	neamine	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99A
+KCAT	Enterococcus faecium	0.048	neamine	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme W164A
+KCAT	Enterococcus faecium	0.05	neamine	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme Y147F
+KCAT	Enterococcus sp.	0.066	neamine	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99E
+KCAT	Enterococcus faecium	0.15	neamine	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme H74A
+KCAT	Enterococcus faecium	0.38	neamine	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme L76A
+KCAT	Enterococcus faecium	0.419	neamine	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.419	neamine	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus faecium	0.42	neamine	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Enterococcus sp.	0.43	neamine	*pH 7.5, 37&Acirc;&deg;C, wild-type AAC(6')-Ie
+KCAT	Enterococcus faecium	0.44	neamine	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme E72A
+KCAT	Enterococcus sp.	1.3	neamine	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie Y96F
+KCAT	Enterococcus sp.	0.0004	paromomycin	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99E
+KCAT	Enterococcus sp.	0.026	paromomycin	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie Y96F
+KCAT	Enterococcus sp.	0.059	paromomycin	*pH 7.5, 37&Acirc;&deg;C, wild-type AAC(6')-Ie
+KCAT	Escherichia coli	3.08	neomycin B	*AAC(6')-Ib, wild type
+KCAT	Serratia marcescens	0.5	gentamicin	*pH 7.5
+KCAT	Serratia marcescens	1.11	gentamicin	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	2	gentamicin	*reaction with AAC (6')-Ib' domain
+KCAT	Serratia marcescens	3.33	gentamicin	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Serratia marcescens	0.2	netilmicin	*pH 7.5
+KCAT	Stenotrophomonas maltophilia	0.3	netilmicin	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	0.512	netilmicin	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	1.3	netilmicin	*reaction with AAC (6')-Ib' domain
+KCAT	Serratia marcescens	1.91	netilmicin	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Serratia marcescens	3.21	netilmicin	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Enterococcus faecium	1.08	kanamycin B	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	2.27	kanamycin B	*AAC(6')-Ib, wild type
+KCAT	Escherichia coli	5.25	kanamycin B	*AAC(6')-Ib-cr variant
+KCAT	Stenotrophomonas maltophilia	0.16	sisomicin	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	0.37	sisomicin	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Serratia marcescens	2.93	sisomicin	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Serratia marcescens	5.35	sisomicin	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Stenotrophomonas maltophilia	0.04	kanamycin	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Serratia marcescens	2.13	kanamycin	*isolated AAC(6') domain, pH 7.5, 25&Acirc;&deg;C
+KCAT	Serratia marcescens	3.81	kanamycin	*full length enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.135	neomycin C	*pH 6.0, 37&Acirc;&deg;C, mutant enzyme W164A
+KCAT	Enterococcus faecium	0.205	neomycin C	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.205	neomycin C	*pH 6.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Stenotrophomonas maltophilia	0.25	dibekacin	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	0.632	dibekacin	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	1.3	dibekacin	*reaction with AAC (6')-Ib' domain
+KCAT	Enterococcus sp.	0.0002	fortimicin A	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99A
+KCAT	Enterococcus sp.	0.0008	fortimicin A	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99N
+KCAT	Enterococcus sp.	0.006	fortimicin A	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie D99E
+KCAT	Enterococcus sp.	0.28	fortimicin A	*pH 7.5, 37&Acirc;&deg;C, wild-type AAC(6')-Ie
+KCAT	Enterococcus sp.	0.45	fortimicin A	*pH 7.5, 37&Acirc;&deg;C, mutant AAC(6')-Ie Y96F
+KCAT	Enterococcus faecium	0.466	butirosin	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.0019	poly-L-Lys	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	0.388	gentamicin B	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Enterococcus faecium	1.01	gentamicin C	*wild-type enzyme
+KCAT	Escherichia coli	1.08	Norfloxacin	*AAC(6')-Ib-cr variant
+KCAT	Stenotrophomonas maltophilia	0.05	isepamicin	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	2.4	isepamicin	*reaction with AAC (6')-Ib' domain
+KCAT	Stenotrophomonas maltophilia	0.57	arbekacin	*pH not specified in the publication, temperature not specified in the publication

@@ -1,0 +1,14 @@
+KCAT	Escherichia coli	0.21	D-erythrose 4-phosphate	*25&deg;C, mutant enzyme H176N
+KCAT	Escherichia coli	0.21	NAD+	*25&deg;C, mutant enzyme H176N
+KCAT	Escherichia coli	0.6	D-erythrose 4-phosphate	*25&deg;C, mutant enzyme C311Y
+KCAT	Escherichia coli	0.6	NAD+	*25&deg;C, mutant enzyme C311Y
+KCAT	Escherichia coli	3.5	D-erythrose 4-phosphate	*25&deg;C, mutant enzyme C311A
+KCAT	Escherichia coli	3.5	NAD+	*25&deg;C, mutant enzyme C311A
+KCAT	Escherichia coli	4	D-erythrose 4-phosphate	*25&deg;C, mutant enzyme M179T
+KCAT	Escherichia coli	4	NAD+	*25&deg;C, mutant enzyme M179T
+KCAT	Escherichia coli	7.4	D-erythrose 4-phosphate	*25&deg;C, mutant enzyme E32D
+KCAT	Escherichia coli	7.4	NAD+	*25&deg;C, mutant enzyme E32D
+KCAT	Escherichia coli	20	D-erythrose 4-phosphate	*25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	20	NAD+	*25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	169	NAD+	*
+KCAT	Escherichia coli	200	D-erythrose 4-phosphate	*

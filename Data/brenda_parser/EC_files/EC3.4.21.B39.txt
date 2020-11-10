@@ -1,0 +1,18 @@
+KCAT	Mus musculus	0.13	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*in 0.1 M Tris-HCl buffer (pH 8.0)
+KCAT	Mus musculus	0.11	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	*in 0.1 M Tris-HCl buffer (pH 8.0)
+KCAT	Mus musculus	0.05	benzyloxycarbonyl-Leu-Arg-7-amido-4-methylcoumarin	*in 0.1 M Tris-HCl buffer (pH 8.0)
+KCAT	Homo sapiens	8.5	Abz-KLRSSKQ-EDDnp	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.47	H-Pro-Phe-Ser-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.28	Boc-Val-Pro-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.83	Boc-Phe-Ser-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.04	Z-Gly-Gly-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.07	Boc-Leu-GLy-Arg-7-amido-4-methylcoumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.82	Boc-Leu-Lys-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.31	Boc-Leu-Arg-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.41	Boc-Gln-Arg-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.78	Boc-Gln-Ala-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	Boc-Gln-Gly-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.35	Tos-Gly-Pro-Arg-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.08	Boc-Val-Leu-Lys-7-amido-4-methyl-coumarin	*100 mM phosphate, 0.01% Tween 20, pH 8.0, 37&Acirc;&deg;C
+KCAT	Mus musculus	0.03	diglutamyl-Gly-Arg-7-amido-4-methylcoumarin	*in 0.1 M Tris-HCl buffer (pH 8.0)
+KCAT	Mus musculus	0.03	diglutamyl-Pro-Phe-Arg-7-amido-4-methylcoumarin	*in 0.1 M Tris-HCl buffer (pH 8.0)

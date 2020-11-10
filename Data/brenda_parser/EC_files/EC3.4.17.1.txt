@@ -1,0 +1,90 @@
+KCAT	Bos taurus	-999	more	*comparison of turnover numbers of enzyme crystals and solution
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Bos taurus	0.015	Gly-L-Tyr	*
+KCAT	Homo sapiens	0.042	p-nitrophenyl acetate	*
+KCAT	Bos taurus	0.05	N-[3-(2-furyl)acryloyl]-Phe-Phe	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Bos taurus	0.062	5-dimethyl-aminonaphthalene-1-sulfonyl-Ala-Ala-L-beta-phenyllactate	*
+KCAT	Struthio camelus	0.081	hippuryl-DL-phenyllactate	*
+KCAT	Homo sapiens	0.09	methotrexate-alpha-(1-naphthyl)alanine	*pH 7.4, 25&deg;C, recombinant enzyme
+KCAT	Bos taurus	0.1	hippuryl-DL-beta-phenyllactate	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Bos taurus	0.11	O-(trans-p-chlorocinnamoyl)-L-beta-phenyllactate	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.24	neurotensin	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Bos taurus	0.27	O-(trans-p-chlorocinnamoyl)-L-beta-phenyllactate	*pH 7.5, 25&deg;C, mutant enzyme Y248F
+KCAT	Bos taurus	0.276	L-beta-phenyllactate-alpha-((2-naphthoyl)amino)-cinnamoyl ester	*
+KCAT	Bos taurus	0.33	(S)-hippuryl-alpha-MePhe	*pH 7.5
+KCAT	Bos taurus	0.39	hippuryl-DL-beta-phenyllactate	*pH 7.5, 25&deg;C, mutant enzyme Y248F
+KCAT	Bos taurus	0.46	L-beta-phenyllactate-alpha-(benzoylylamino)-cinnamoyl ester	*
+KCAT	Bos taurus	0.55	N-[3-(2-furyl)acryloyl]-Phe-Phe	*pH 7.5, 25&deg;C, mutant enzyme Y248F
+KCAT	Bos taurus	0.56	O-(trans-p-chlorocinnamoyl)-L-beta-phenyllactate	*pH 7.5, 25&deg;C, mutant enzyme Y248A
+KCAT	Bos taurus	0.725	L-beta-phenyllactate-alpha-(acetylamino)-cinnamoyl ester	*
+KCAT	Bos taurus	0.88	hippuryl-L-Phe	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Bos taurus	1	N-[3-(2-furyl)acryloyl]-Phe-Phe	*pH 7.5, 25&deg;C, mutant enzyme Y248A
+KCAT	Bos taurus	1.18	5-dimethyl-aminonaphthalene-1-sulfonyl-Ala-Ala-Phe	*
+KCAT	Struthio camelus	1.28	Carbobenzoxy-Gly-Leu	*
+KCAT	Homo sapiens	1.45	Met-enkephalin-L-Arg-L-Phe	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	1.9	methotrexate-alpha-phenylalanine	*pH 7.4, 25&deg;C, recombinant enzyme
+KCAT	Homo sapiens	2.33	Leu-enkephalin	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	3.43	Met-enkephalin	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Bos taurus	4	hippuryl-L-Phe	*pH 7.5, 25&deg;C, mutant enzyme Y248F
+KCAT	Rattus norvegicus	4.2	Benzyloxycarbonyl-Gly-Phe	*
+KCAT	Homo sapiens	4.3	hippuryl-L-phenylalanine	*pH 7.4, 25&deg;C, recombinant enzyme
+KCAT	Struthio camelus	5.02	Carbobenzoxy-Gly-Gly-Leu	*
+KCAT	Bos taurus	5.1	hippuryl-L-Phe	*pH 7.5, 25&deg;C, mutant enzyme Y248A
+KCAT	Struthio camelus	5.85	Carbobenzoxy-Gly-Phe	*
+KCAT	Struthio camelus	5.98	hippuryl-Phe	*
+KCAT	Bos taurus	6.08	hippuryl-L-Phe	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Bos taurus	6.08	O-(trans-p-chlorocinnamoyl)-L-beta-phenyllactate	*pH 7.5, 25&deg;C, mutant enzyme Y248A
+KCAT	Struthio camelus	6.13	carbobenzoxy-Gly-Gly-Val	*
+KCAT	Trypanosoma cruzi	7.6	N-(3-[2-furyl]acryloyl)-Phe-Phe	*in the absence of Co2+
+KCAT	Homo sapiens	8.23	angiotensin I	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Trypanosoma cruzi	11	N-(3-[2-furyl]acryloyl)-Phe-Phe	*in the presence of Co2+
+KCAT	Homo sapiens	11.7	benzoyl-Gly-L-Phe	*at 0.1-0.4 mM substrate
+KCAT	Struthio camelus	11.9	Carbobenzoxy-Gly-Gly-Phe	*
+KCAT	Homo sapiens	12.4	3-(2-furyl)acryloyl-L-Phe-L-Ile	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	13.3	benzoyl-Gly-Gly-L-Phe	*
+KCAT	Homo sapiens	13.4	3-(2-furyl)acryloyl-L-Phe-L-Leu	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Rattus norvegicus	14	N-carbobenzoxy-Gly-Gly-L-Leu	*carboxypeptidase 2
+KCAT	Rattus norvegicus	14.4	N-carbobenzoxy-Gly-L-Tyr	*carboxypeptidase 1
+KCAT	Squalus acanthias	14.7	carbobenzoxy-Gly-L-Phe	*
+KCAT	Rattus norvegicus	16	benzoyl-Gly-L-Phe	*
+KCAT	Rattus norvegicus	16.8	N-carbobenzoxy-Gly-L-Phe	*carboxypeptidase 2
+KCAT	Bos taurus	17.7	hippuryl-L-Phe	*
+KCAT	Homo sapiens	19.4	3-(2-furyl)acryloyl-L-Phe-L-Val	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Bos taurus	20	benzoyl-Gly-Gly-Phe	*
+KCAT	Rattus norvegicus	22.4	N-carbobenzoxy-Gly-L-Phe	*carboxypeptidase 1
+KCAT	Homo sapiens	23.9	3-(2-furyl)acryloyl-L-Phe-L-Met	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	24.3	3-(2-furyl)acryloyl-L-Phe-L-Ala	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Rattus norvegicus	26.2	N-carbobenzoxy-Gly-L-Tyr	*carboxypeptidase 2
+KCAT	Sus scrofa	29	carbobenzoxy-Gly-L-Leu	*mixture of isoenzyme 2 and 3
+KCAT	Sus scrofa	29.8	carbobenzoxy-Gly-L-Trp	*mixture of isoenzyme 2 and 3
+KCAT	Rattus norvegicus	40	hippuryl-L-Phe	*
+KCAT	Homo sapiens	44.3	3-(2-furyl)acryloyl-L-Phe-L-Phe	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	48.3	carbobenzoxy-Gly-L-Phe	*at 1-4 mM substrate
+KCAT	Rattus norvegicus	57	N-carbobenzoxy-Gly-Gly-L-Phe	*carboxypeptidase 1
+KCAT	Homo sapiens	57.3	3-(2-furyl)acryloyl-L-Phe-L-Trp	*in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37&deg;C
+KCAT	Rattus norvegicus	66	Benzyloxycarbonyl-Phe-Leu	*
+KCAT	Homo sapiens	66.7	benzoyl-Gly-L-Phe	*at 1-10 mM substrate
+KCAT	Bos taurus	73.4	carbobenzoxy-Gly-L-Trp	*
+KCAT	Bos taurus	76.7	cinnamoyl-L-phenyllactate	*
+KCAT	Bos taurus	81	hippuryl-Phe	*pH 7.5
+KCAT	Bos taurus	85	carbobenzoxy-Gly-Gly-L-Tyr	*
+KCAT	Squalus acanthias	86	N-acetyl-Gly-L-phenyllactic acid	*
+KCAT	Rattus norvegicus	89	Benzyloxycarbonyl-Ala-Phe	*
+KCAT	Bos taurus	90	carbobenzoxy-Gly-L-Phe	*
+KCAT	Bos taurus	91.7	carbobenzoxy-Gly-L-Phe	*
+KCAT	Bos taurus	93.3	benzoyl-Gly-L-Phe	*
+KCAT	Rattus norvegicus	97	N-carbobenzoxy-Gly-Gly-L-Phe	*carboxypeptidase 2
+KCAT	Bos taurus	100	(Ala)4	*
+KCAT	Homo sapiens	112	carbobenzoxy-Gly-L-Phe	*at 4-40 mM substrate
+KCAT	Sus scrofa	139	carbobenzoxy-Gly-L-Phe	*mixture of isoenzyme 2 and 3
+KCAT	Rattus norvegicus	199	N-carbobenzoxy-Gly-Gly-L-Leu	*carboxypeptidase 1
+KCAT	Rattus norvegicus	454	hippuryl-L-phenyllactate	*
+KCAT	Bos taurus	467	benzoyl-Gly-phenyllactate	*
+KCAT	Bos taurus	477	(S)-hippuryl-alpha-methylphenyllactic acid	*pH 7.5
+KCAT	Homo sapiens	505	benzoyl-Gly-L-alpha-hydroxy-beta-phenyllactate	*
+KCAT	Squalus acanthias	635	hippuryl-DL-phenyllactic acid	*
+KCAT	Bos taurus	667	N-(2-furanacryloyl)-Phe-Phe	*
+KCAT	Bos taurus	682	(S)-hippuryl-OPhe	*pH 7.5
+KCAT	Homo sapiens	767	benzoyl-Gly-Gly-L-alpha-hydroxy-beta-phenyllactate	*
+KCAT	Rattus norvegicus	933	hippuryl-L-phenyllactate	*
+KCAT	Sus scrofa	1000	hippuryl-L-phenyllactate	*mixture of isoenzyme 2 and 3

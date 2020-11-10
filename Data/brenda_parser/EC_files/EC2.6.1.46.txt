@@ -1,0 +1,2 @@
+KCAT	Pseudomonas aeruginosa	1.39	pyruvate	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Pseudomonas aeruginosa	1.39	2-oxoglutarate	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme

@@ -1,0 +1,1 @@
+ecNumber*1.4.99.B3#turnoverNumber*8.5#turnoverNumberMaximum*#substrate*L-phenylalanine#commentary*pH 7.5, 25&deg;C#organism*Cosenzaea myxofaciens#ligandStructureId*104#literature*740746#

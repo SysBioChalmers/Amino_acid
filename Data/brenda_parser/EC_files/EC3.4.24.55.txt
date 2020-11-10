@@ -1,0 +1,10 @@
+KCAT	Escherichia coli	0.05	glucagon	*
+KCAT	Bacillus halodurans	0.18	Insulin B-chain	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	0.43	calcitonin	*pH 8.0, 37&deg;C
+KCAT	Bacillus halodurans	0.55	dynorphin A fragment 1-13	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	0.63	Substance P	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	0.9	Vasoactive intestinal peptide	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	2.33	beta-amyloid	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	2.66	Insulin B-chain	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	2.9	(7-Methoxycoumarin-4-yl)acetyl-Nle-Ala-Val-Lys-Tyr-Leu-Asn-Ser-(2,4-dinitrophenyl)Lys-Leu-Asp-D-Lys	*
+KCAT	Escherichia coli	12.5	beta-endorphin	*pH 8.0, 37&deg;C

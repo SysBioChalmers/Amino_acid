@@ -1,0 +1,6 @@
+KCAT	Wickerhamia fluorescens	9.1	Hydroxypyruvate	*pH 6.5, 25&deg;C
+KCAT	Wickerhamia fluorescens	19	glyoxylate	*pH 6.5, 25&deg;C
+KCAT	Wickerhamia fluorescens	31	NADH	*pH 6.5, 25&deg;C
+KCAT	Wickerhamia fluorescens	73	hydroxyphenylpyruvate	*pH 6.5, 25&deg;C
+KCAT	Wickerhamia fluorescens	121	NADPH	*pH 6.5, 25&deg;C
+KCAT	Wickerhamia fluorescens	150	phenylpyruvate	*pH 6.5, 25&deg;C

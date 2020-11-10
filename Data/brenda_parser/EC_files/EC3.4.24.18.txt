@@ -1,0 +1,51 @@
+KCAT	Homo sapiens	0.4	gastrin	*
+KCAT	Homo sapiens	1	KKGYVADAP-4-nitroanilide	*pH 7.4, 30&deg;C, recombinant enzyme; pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Mus musculus	1.1	2-Aminobenzoyl-Arg-Gly-Pro-Phe-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	1.1	2-Aminobenzoyl-Arg-Gly-Pro-Phe-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	2.4	2-Aminobenzoyl-Arg-Pro-Gly-Lys-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	2.4	2-Aminobenzoyl-Arg-Pro-Gly-Lys-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Homo sapiens	3.7	bradykinin	*
+KCAT	Mus musculus	3.8	cholecystokinin 8-sulfate	*pH 7.5, 37&deg;C, mutant P228K
+KCAT	Mus musculus	4.4	secretin	*
+KCAT	Homo sapiens	4.6	parathyphoid hormone 12-34	*
+KCAT	Mus musculus	4.9	2-Aminobenzoyl-Arg-Pro-Gly-Glu-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	4.9	2-Aminobenzoyl-Arg-Pro-Gly-Glu-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	5	Arg-Pro-Pro-Gly-(4-nitro)Phe-Lys-Pro-Phe-Arg	*
+KCAT	Mus musculus	5	Arg-Pro-Pro-Gly-(4-nitro)Phe-Lys-Pro-Phe-Arg	*
+KCAT	Homo sapiens	5.1	protein LHRH	*
+KCAT	Homo sapiens	5.2	Substance P	*
+KCAT	Homo sapiens	6.3	orcokinin	*
+KCAT	Mus musculus	7.6	Arg-Pro-Pro-Gly-(4-nitro)Phe-Phe-Pro-Phe-Arg	*
+KCAT	Mus musculus	7.6	Arg-Pro-Pro-Gly-(4-nitro)Phe-Phe-Pro-Phe-Arg	*
+KCAT	Homo sapiens	8.4	secretin	*
+KCAT	Mus musculus	8.6	cholecystokinin 8-sulfate	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	10.5	protein PTH12-34	*
+KCAT	Mus musculus	10.8	gastrin 17	*pH 7.5, 37&deg;C, mutant Y199K
+KCAT	Mus musculus	11.8	secretin	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	12	2-Aminobenzoyl-Arg-Pro-Gly-Leu-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	12	2-Aminobenzoyl-Arg-Pro-Gly-Leu-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	12.1	Substance P	*
+KCAT	Rattus norvegicus	13.4	bradykinin	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	13.4	cholecystokinin 8-sulfate	*pH 7.5, 37&deg;C, mutant F161R
+KCAT	Mus musculus	14.2	cholecystokinin 8-sulfate	*pH 7.5, 37&deg;C, mutant Y199K
+KCAT	Homo sapiens	16.5	alpha-MSH	*
+KCAT	Mus musculus	16.6	bradykinin	*
+KCAT	Mus musculus	17.4	glucagon	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	18.8	valosin	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	19.6	Arg-Pro-Pro-Gly-(4-nitro)Phe-Arg-Pro-Phe-Arg	*
+KCAT	Mus musculus	19.6	Arg-Pro-Pro-Gly-(4-nitro)Phe-Arg-Pro-Phe-Arg	*
+KCAT	Homo sapiens	19.6	protein GRP	*
+KCAT	Mus musculus	22	bradykinin	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	24.6	protein GRP	*
+KCAT	Mus musculus	26.7	2-Aminobenzoyl-Arg-Hyp-Gly-Phe-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	26.7	2-Aminobenzoyl-Arg-Hyp-Gly-Phe-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	39.4	protein LHRH	*
+KCAT	Mus musculus	40.9	Arg-Pro-Pro-Gly-(4-nitro)Phe-Ser-Pro-Phe-Arg	*
+KCAT	Mus musculus	40.9	Arg-Pro-Pro-Gly-(4-nitro)Phe-Ser-Pro-Phe-Arg	*
+KCAT	Mus musculus	45.4	alpha-MSH	*
+KCAT	Mus musculus	51.5	Arg-Pro-Pro-Gly-(4-nitro)Phe-Ala-Pro-Phe-Arg	*
+KCAT	Mus musculus	51.5	Arg-Pro-Pro-Gly-(4-nitro)Phe-Ala-Pro-Phe-Arg	*
+KCAT	Mus musculus	98.5	2-Aminobenzoyl-Arg-Pro-Gly-Ala-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	98.5	2-Aminobenzoyl-Arg-Pro-Gly-Ala-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	133	2-Aminobenzoyl-Arg-Pro-Ile-Phe-Ser-Pro-(4-nitro)Phe-Arg	*
+KCAT	Mus musculus	133	2-Aminobenzoyl-Arg-Pro-Ile-Phe-Ser-Pro-(4-nitro)Phe-Arg	*

@@ -1,0 +1,16 @@
+KCAT	Mus musculus	-999	2-[5-Amino-2-(4-fluoro-phenyl)-6-oxo-6H-pyrimidin-1-yl]-N-(1-benzyl-2-oxo-2-thiazol-2-yl-ethyl)-acetamide	*substrate specificity with synthetic substrates
+KCAT	Mus musculus	-999	more	*substrate specificity with synthetic substrates
+KCAT	Mus musculus	0.012	dansyl-Pro-Leu-Ala-Leu-Trp-Ala-Arg-NH2	*pH 6.8, 25&deg;C, wild-type enzyme
+KCAT	Mus musculus	0.013	dansyl-Pro-Leu-Ala-Leu-Trp-Ala-Arg-NH2	*pH 6.8, 25&deg;C, mutant Q215L
+KCAT	Mus musculus	0.016	dansyl-Pro-Leu-Ala-Leu-Trp-Ala-Arg-NH2	*pH 6.8, 25&deg;C, mutant Q215R
+KCAT	Mus musculus	0.038	dansyl-Pro-Leu-Ala-Leu-Trp-Ala-Arg-NH2	*pH 6.8, 25&deg;C, mutant Q215Y
+KCAT	Mus musculus	0.078	dansyl-Pro-Leu-Ala-S-[(4-methoxyphenyl)methyl]Cys-Trp-Ala-Arg-NH2	*pH 6.8, 25&deg;C, wild-type enzyme
+KCAT	Mus musculus	0.083	dansyl-Pro-Leu-Ala-S-[(4-methoxyphenyl)methyl]Cys-Trp-Ala-Arg-NH2	*pH 6.8, 25&deg;C, mutant Q215L
+KCAT	Homo sapiens	0.58	GGYAELRMGG	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Mus musculus	0.65	dansyl-Pro-Leu-Ala-S-[(4-methoxyphenyl)methyl]Cys-Trp-Ala-Arg-NH2	*pH 6.8, 25&deg;C, mutant Q215R
+KCAT	Homo sapiens	0.69	GGAANLVRGG	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	1.65	GGAANLVRGG	*pH 7.5, 37&deg;C, recombinant mutant A235P
+KCAT	Homo sapiens	3	GGYAELRMGG	*pH 7.5, 37&deg;C, recombinant mutant A235P
+KCAT	Homo sapiens	3.08	GGYAELRMGG	*pH 7.5, 37&deg;C, recombinant mutant A235P
+KCAT	Homo sapiens	6.08	GGAANLVRGG	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	6.08	GGYAELRMGG	*pH 7.5, 37&deg;C, recombinant wild-type enzyme

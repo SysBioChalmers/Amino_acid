@@ -1,0 +1,133 @@
+KCAT	Hepacivirus C	-999	more	*
+KCAT	Hepacivirus C	0.00167	Ac-DEEMECASHLPYK-NH2	*wild-type NS3 protease, in 50 mM HEPES buffer, pH 7.5, 0.1% 1-O-n-octyl-beta-D-glucopyranoside, 15% glycerol, 30 mM DTT
+KCAT	Hepacivirus C	0.00183	Ac-DEEMECASHLPYK-NH2	*wild-type NS3 protease, in 50 mM HEPES buffer, pH 7.5, 0.1% 1-O-n-octyl-beta-D-glucopyranoside, 15% glycerol, 30 mM DTT, 150 mM NaCl
+KCAT	Hepacivirus C	0.00333	Ac-YQEFDEMEECASH	*
+KCAT	Hepacivirus C	0.005	Ac-EMEECASHLP	*
+KCAT	Hepacivirus C	0.005	Ac-YQEFDEMEECAS	*
+KCAT	Hepacivirus C	0.006	7-methoxycoumarin-4-acetyl-DEMEECASHLPYK-(epsilon-NHCOCH3)	*
+KCAT	Hepacivirus C	0.0065	o-aminobenzoyl (Abz)-L-Asp-L-Asp-L-Ile-L-Val-L-Pro-L-Cys-L-Ser-L-Met-L-Ser-L-Tyr(3-NO2)-L-Thr-NH2	*pH 7.3, 30&deg;C
+KCAT	Hepacivirus C	0.00667	Ac-YQEFDEMEECASHL	*
+KCAT	Hepacivirus C	0.00667	Ac-YQEFDEMEECASHLP	*
+KCAT	Hepacivirus C	0.00833	9-fluorenylmethyloxycarbonyl-YQEFDEMEECASHLPYIEQG	*
+KCAT	West Nile virus	0.011	Ac-KPGLKR-4-nitroanilide	*mutant D129A, pH 9.5, 37&deg;C
+KCAT	Hepacivirus C	0.012	Glu-Asp-Val-Val-4-aminobutyryl-Cys-p-nitroanilide	*absence of cofactor
+KCAT	West Nile virus	0.018	Ac-Leu-Gln-Tyr-Thr-Lys-Arg-p-nitroanilide	*NS3 mutant T111L
+KCAT	West Nile virus	0.019	Ac-KPGLKR-4-nitroanilide	*mutant D129E, pH 9.5, 37&deg;C
+KCAT	Hepacivirus C	0.0233	Ac-DEEMECASHLPYK-NH2	*wild-type NS3 protease plus cofactor NS4A, in 50 mM HEPES buffer, pH 7.5, 0.1% 1-O-n-octyl-beta-D-glucopyranoside, 15% glycerol, 30 mM DTT
+KCAT	Hepacivirus C	0.0253	Ac-DEEMECASHLPYK-NH2	*engineered single-chain protease, in 50 mM HEPES buffer, pH 7.5, 0.1% 1-O-n-octyl-beta-D-glucopyranoside, 15% glycerol, 30 mM DTT
+KCAT	Hepacivirus C	0.0255	Ac-DEEMECASHLPYK-NH2	*engineered single-chain protease plus cofactor NS4A, in 50 mM HEPES buffer, pH 7.5, 0.1% 1-O-n-octyl-beta-D-glucopyranoside, 15% glycerol, 30 mM DTT
+KCAT	Hepacivirus C	0.0267	Ac-DEEMECASHLPYK-NH2	*wild-type or engineered single-chain protease plus cofactor NS4A, in 50 mM HEPES buffer, pH 7.5, 0.1% 1-O-n-octyl-beta-D-glucopyranoside, 15% glycerol, 30 mM DTT, 150 mM NaCl
+KCAT	Hepacivirus C	0.03	Ac-DEEMECASHLPYK-NH2	*engineered single-chain protease, in 50 mM HEPES buffer, pH 7.5, 0.1% 1-O-n-octyl-beta-D-glucopyranoside, 15% glycerol, 30 mM DTT, 150 mM NaCl
+KCAT	Hepacivirus C	0.033	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 3 mutant D168Q, 30&deg;C, pH 6.5
+KCAT	Yellow fever virus	0.034	Boc-Gly-Arg-Arg-AMC	*
+KCAT	West Nile virus	0.036	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant D129E
+KCAT	West Nile virus	0.038	Ac-KPGLKR-4-nitroanilide	*mutant D129N, pH 9.5, 37&deg;C
+KCAT	West Nile virus	0.04	Ac-Leu-Gln-Tyr-Thr-Lys-Arg-p-nitroanilide	*NS3 mutant I162F
+KCAT	West Nile virus	0.0431	2-Naph-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant V154F
+KCAT	West Nile virus	0.048	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant D129A
+KCAT	Hepacivirus C	0.05	DEMEECSQHLPYI	*absence of cofactor
+KCAT	Hepacivirus C	0.05	DTEDVVCCSMSYTWTGK	*protease NS3(1-181)/NS4A
+KCAT	West Nile virus	0.051	Ac-Leu-Gln-Tyr-Thr-Lys-Arg-p-nitroanilide	*NS3 mutant T111F
+KCAT	West Nile virus	0.057	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant V154F
+KCAT	West Nile virus	0.06	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant T111L
+KCAT	West Nile virus	0.062	Z-RR-7-amido-4-methylcoumarin	*pH 8.0, 18&deg;C
+KCAT	West Nile virus	0.073	Boc-RVRR-7-amido-4-methylcoumarin	*pH 8.0, 18&deg;C
+KCAT	Hepacivirus C	0.083	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme K136M/R109Q
+KCAT	Hepacivirus C	0.095	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 and 3 mutant V132L, 30&deg;C, pH 6.5
+KCAT	West Nile virus	0.11	2-Naph-hArg-Lys-Arg-p-nitroanilide	*
+KCAT	Yellow fever virus	0.111	Bz-norleucine-lysine-arginine-arginine-AMC	*
+KCAT	Hepacivirus C	0.13	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 3 mutant R123T, 30&deg;C, pH 6.5
+KCAT	Hepacivirus C	0.133	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 mutant V78A/D79E/Q80G/S122K/V321L, 30&deg;C, pH 6.5
+KCAT	West Nile virus	0.133	Ac-KPGLKR-4-nitroanilide	*mutant Y150F, pH 9.5, 37&deg;C
+KCAT	Hepacivirus C	0.143	acetyl-DEMEECASHLPYK-(epsilon-NHCOCH3)	*presence of inhibitor peptide 4Apep21-34KK
+KCAT	Hepacivirus C	0.15	7-methoxycoumarin-4-acetyl-DEMEECASHLPYK-(epsilon-NHCOCH3)	*presence of inhibitor peptide 4Apep21-34KK
+KCAT	Hepacivirus C	0.16	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 mutant V78A/D79E/Q80G, 30&deg;C, pH 6.5
+KCAT	West Nile virus	0.164	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant I162F
+KCAT	Hepacivirus C	0.167	DTEDVVCCSMSYTWTGK	*protease NS3(1-631)/NS4A(1-54)
+KCAT	Hepacivirus C	0.167	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme K136M
+KCAT	Hepacivirus C	0.18	EDVV-4-aminobutyryl-CSMSY	*absence of cofactor
+KCAT	West Nile virus	0.181	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant A164V
+KCAT	West Nile virus	0.198	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant T111F
+KCAT	Hepacivirus C	0.2	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 mutant T160A, 30&deg;C, pH 6.5
+KCAT	Hepacivirus C	0.2	Ac-L-Asp-L-Glu-L-Asp-(EDANS)-L-Glu-L-Glu-alpha-aminobutyric acid-PSI[COO]-L-Ala-L-Ser-L-Lys-(DABCYL)-NH2	*mutant A156T, pH 7.8, 30&deg;C
+KCAT	Hepacivirus C	0.2	Glu-Asp-Val-Val-4-aminobutyryl-Cys-p-nitroanilide	*presence of cofactor
+KCAT	Hepacivirus C	0.21	anthraniloyl-DDIVP-Abu[C(O)-O] AMY(3-NO2)-TW-OH	*enzyme from hepatitis C virus genotype 4a, in 1 M MES (pH 5.8), at 23&deg;C
+KCAT	Hepacivirus C	0.22	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 mutant D79E, 30&deg;C, pH 6.5; genotype 2 mutant Q80G, 30&deg;C, pH 6.5
+KCAT	Hepacivirus C	0.227	7-methoxycoumarin-4-acetyl-EDASTPCSGSN-(4-nitro)Phe	*presence of inhibitor peptide 4Apep21-34KK
+KCAT	Hepacivirus C	0.243	DEMEECSQHLPYI	*presence of cofactor
+KCAT	West Nile virus	0.245	Ac-Leu-Gln-Tyr-Thr-Lys-Arg-p-nitroanilide	*NS3 mutant V154L
+KCAT	Hepacivirus C	0.25	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 mutant S122K/V132L, 30&deg;C, pH 6.5; genotype 3 mutant R123T/D168Q, 30&deg;C, pH 6.5
+KCAT	West Nile virus	0.26	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant A164S
+KCAT	West Nile virus	0.266	Ac-Leu-Gln-Tyr-Thr-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	0.27	2-Naph-Orn-Orn-Arg-p-nitroanilide	*
+KCAT	West Nile virus	0.297	Ac-Leu-Gln-Tyr-Thr-Lys-Arg-p-nitroanilide	*NS3 mutant V166L
+KCAT	West Nile virus	0.3	2-Naph-Lys-AcLys-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	0.3	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 mutant V78A, 30&deg;C, pH 6.5; genotype 3 mutant R123T/D168Q/V132L, 30&deg;C, pH 6.5
+KCAT	West Nile virus	0.314	Ac-Leu-Gln-Tyr-Thr-Lys-Arg-p-nitroanilide	*NS3 mutant M156A
+KCAT	Hepacivirus C	0.317	DTEDVVCCSMSYTWTGK	*protease NS4A(21-32)-GSGS-NS3(3-181)
+KCAT	West Nile virus	0.32	2-Naph-Cit-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	0.394	Ac-KPGLKR-4-nitroanilide	*mutant S160A, pH 9.5, 37&deg;C
+KCAT	Hepacivirus C	0.4	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 1b enzyme, 30&deg;C, pH 6.5
+KCAT	West Nile virus	0.43	2-Naph-Lys-Cit-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	0.43	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 enzyme, 30&deg;C, pH 6.5
+KCAT	West Nile virus	0.5	Ac-Leu-3Pya-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	0.57	2-Naph-Cit-Orn-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	0.57	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 3 enzyme, 30&deg;C, pH 6.5
+KCAT	Hepacivirus C	0.58	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester	*genotype 2 mutant S122K, 30&deg;C, pH 6.5
+KCAT	West Nile virus	0.59	2-Naph-Lys-hArg-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	0.59	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme R109Q
+KCAT	Hepacivirus C	0.6	Ac-Asp-Glu-Lys(TAMRA)-Glu-Glu-AbuPSI[COO]-Ala-Ser-Lys(QSY-7)-amide	*
+KCAT	Hepacivirus C	0.6	Ac-L-Asp-L-Glu-L-Asp-(EDANS)-L-Glu-L-Glu-alpha-aminobutyric acid-PSI[COO]-L-Ala-L-Ser-L-Lys-(DABCYL)-NH2	*mutant A156V, pH 7.8, 30&deg;C
+KCAT	Hepacivirus C	0.6	EDVV-4-aminobutyryl-CSMSY	*presence of cofactor
+KCAT	Hepacivirus C	0.62	anthranilyl-DDIVPAbu[C(O)-O]AMY(3-NO2)TW-OH	*mutant full-length protease M485A/V524A/Q562A, at 23&deg;C
+KCAT	West Nile virus	0.638	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant V166L
+KCAT	Hepacivirus C	0.67	EAGNNIVPCSMSYTWTGA-OH	*pH 7.5, wild-type enzyme
+KCAT	Hepacivirus C	0.7	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, wild-type enzyme
+KCAT	Hepacivirus C	0.7	EAGNDIVPCSMSYTWTGA-OH	*pH 7.5, wild-type enzyme
+KCAT	West Nile virus	0.72	Ac-Leu-nPhe-Lys-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	0.72	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme K165S/R161S
+KCAT	West Nile virus	0.733	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant I155F
+KCAT	West Nile virus	0.75	Ac-Leu-aPhe-Lys-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	0.77	anthraniloyl-DDIVP-Abu[C(O)-O] AMY(3-NO2)-TW-OH	*enzyme from hepatitis C virus genotype 1b, in 1 M MES (pH 5.8), at 23&deg;C
+KCAT	Hepacivirus C	0.77	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme R161S
+KCAT	West Nile virus	0.778	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant M156A
+KCAT	Hepacivirus C	0.78	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme R155S
+KCAT	West Nile virus	0.8	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*NS3 mutant V154L
+KCAT	Hepacivirus C	0.8	EAGDNIVPCSMSYTWTGA-OH	*pH 7.5, wild-type enzyme
+KCAT	Hepacivirus C	0.83	anthraniloyl-DDIVP-Abu[C(O)-O] AMY(3-NO2)-TW-OH	*enzyme from hepatitis C virus genotype 6a, in 1 M MES (pH 5.8), at 23&deg;C
+KCAT	Hepacivirus C	0.85	anthraniloyl-DDIVP-Abu[C(O)-O] AMY(3-NO2)-TW-OH	*enzyme from hepatitis C virus genotype 2a, in 1 M MES (pH 5.8), at 23&deg;C
+KCAT	Hepacivirus C	0.85	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme R123T
+KCAT	West Nile virus	0.872	Ac-KPGLKR-4-nitroanilide	*mutant V115A, pH 9.5, 37&deg;C
+KCAT	West Nile virus	0.89	2-Naph-Lys-Arg-Arg-p-nitroanilide	*
+KCAT	West Nile virus	0.9	Ac-Leu-4Pya-Lys-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	0.95	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme K165S
+KCAT	West Nile virus	0.96	2-Naph-3Pya-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	0.965	Ac-KPGLKR-4-nitroanilide	*wild-type, pH 9.5, 37&deg;C
+KCAT	West Nile virus	0.98	2-Naph-Orn-Lys-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	1	Ac-Asp-Glu-Lys(TAMRA)-Glu-Glu-AbuPSI[COO]-Ala-Ser-Lys(QSY-7)-amide	*operating at wavelengths 524 nm/600 nm (excitation/emission)
+KCAT	Hepacivirus C	1	Ac-L-Asp-L-Glu-L-Asp-(EDANS)-L-Glu-L-Glu-alpha-aminobutyric acid-PSI[COO]-L-Ala-L-Ser-L-Lys-(DABCYL)-NH2	*wild-type, pH 7.8, 30&deg;C
+KCAT	West Nile virus	1.08	2-Naph-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	1.1	Ac-LQYTKR-4-nitroanilide	*37&deg;C, pH 9.5
+KCAT	Hepacivirus C	1.2	Ac-Asp-Glu-Lys(TAMRA)-Glu-Glu-AbuPSI[COO]-Ala-Ser-Lys(QSY-7)-amide	*operating at wavelengths 515 nm/605 nm (excitation/emission)
+KCAT	West Nile virus	1.3	Ac-DPNRKR-4-nitroanilide	*37&deg;C, pH 9.5
+KCAT	West Nile virus	1.44	Ac-Leu-Cit-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	1.5	Ac-KPGLKR-4-nitroanilide	*37&deg;C, pH 9.5
+KCAT	West Nile virus	1.58	2-Naph-Lys-Orn-Arg-p-nitroanilide	*
+KCAT	West Nile virus	1.6	Ac-Aib-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	1.64	Ac-Leu-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	1.7	anthraniloyl-DDIVP-Abu[C(O)-O] AMY(3-NO2)-TW-OH	*enzyme from hepatitis C virus genotype 5a, in 1 M MES (pH 5.8), at 23&deg;C
+KCAT	West Nile virus	1.74	Ac-Tbg-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	1.78	Ac-Chg-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	1.79	Ac-Leu-Orn-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	1.9	Ac-FASGKR-4-nitroanilide	*37&deg;C, pH 9.5
+KCAT	West Nile virus	2.28	Ac-Cha-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	2.35	Ac-Nle-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	2.36	Ac-Nva-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	Hepacivirus C	2.5	anthranilyl-DDIVPAbu[C(O)-O]AMY(3-NO2)TW-OH	*single chain NS3 protease domain, at 23&deg;C
+KCAT	West Nile virus	2.51	Ac-Aoc-Lys-Lys-Arg-p-nitroanilide	*
+KCAT	West Nile virus	6.08	Ac-KPGLKR-4-nitroanilide	*mutant V115A, pH 9.5, 37&deg;C; wild-type, pH 9.5, 37&deg;C
+KCAT	Hepacivirus C	6.08	EAGDDIVPCSMSYTWTGA-OH	*pH 7.5, mutant enzyme K165S/R161S; pH 7.5, mutant enzyme R109Q; pH 7.5, mutant enzyme R155S; pH 7.5, mutant enzyme R161S
+KCAT	Hepacivirus C	6.08	EAGNNIVPCSMSYTWTGA-OH	*pH 7.5, wild-type enzyme
+KCAT	Hepacivirus C	7.2	Ac-Asp-Glu-Lys(TAMRA)-Glu-Glu-AbuPSI[COO]-Ala-Ser-Lys(QSY-7)-amide	*in the presence of 0.0174% DDM
+KCAT	West Nile virus	43	Pyr-RTKR-7-amido-4-methylcoumarin	*pH 8.0, 18&deg;C
+KCAT	West Nile virus	118	Ac-Leu-hArg-Lys-Arg-p-nitroanilide	*

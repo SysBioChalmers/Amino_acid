@@ -1,0 +1,1 @@
+ecNumber*3.1.5.1#turnoverNumber*4000#turnoverNumberMaximum*#substrate*dGTP#commentary*#organism*Escherichia coli#ligandStructureId*219#literature*135503#

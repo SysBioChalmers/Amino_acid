@@ -1,0 +1,1 @@
+ecNumber*3.2.2.7#turnoverNumber*0.06#turnoverNumberMaximum*#substrate*adenosine#commentary*#organism*Lupinus luteus#ligandStructureId*122#literature*137099#

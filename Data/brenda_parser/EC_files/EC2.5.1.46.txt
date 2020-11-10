@@ -1,0 +1,3 @@
+KCAT	Trypanosoma brucei brucei	0.015	spermidine	*pH 7.5, 37&Acirc;&deg;C, heterotetrameric DHS; pH 7.5, 37&Acirc;&deg;C, heterotetrameric DHS
+KCAT	Trypanosoma brucei brucei	0.018	[eIF5A-precursor]-lysine	*pH 7.5, 37&Acirc;&deg;C, heterotetrameric DHS; pH 7.5, 37&Acirc;&deg;C, heterotetrameric DHS
+KCAT	Senecio vernalis	0.0022	eIF5A-precursor	*+ spermidine

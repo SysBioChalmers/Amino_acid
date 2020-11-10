@@ -1,0 +1,1 @@
+ecNumber*1.1.1.392#turnoverNumber*4.85#turnoverNumberMaximum*#substrate*12alpha-Hydroxy-3-oxo-5beta-cholan-24-oic acid#commentary*pH 7.0, 37&Acirc;&deg;C#organism*Eggerthella lenta#ligandStructureId*42973#literature*736859#

@@ -1,0 +1,16 @@
+KCAT	Homo sapiens	0.01	ATP	*wild-type protein with C-terminal His-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	8.2	ATP	*wild-type protein, FLAG-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	23	ATP	*N-terminally trucated protein, FLAG-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.032	1,2-dioleoyl-sn-glycerol	*wild-type protein with C-terminal His-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.2	1,2-dioleoyl-sn-glycerol	*wild-type protein, FLAG-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.43	1,2-dioleoyl-sn-glycerol	*N-terminally trucated protein, FLAG-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.162	1-stearoyl-2-arachidonoyl-sn-glycerol	*wild-type protein with C-terminal His-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.7	1-stearoyl-2-arachidonoyl-sn-glycerol	*wild-type protein, FLAG-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	5.7	1-stearoyl-2-arachidonoyl-sn-glycerol	*N-terminally trucated protein, FLAG-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.53	1-stearoyl-2-oleoyl-sn-glycerol	*mutant P32A
+KCAT	Homo sapiens	2.35	1-stearoyl-2-oleoyl-sn-glycerol	*wild-type
+KCAT	Homo sapiens	0.087	1-stearoyl-2-linoleoyl-sn-glycerol	*wild-type protein with C-terminal His-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.23	1-stearoyl-2-linoleoyl-sn-glycerol	*wild-type protein, FLAG-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.8	1-stearoyl-2-linoleoyl-sn-glycerol	*N-terminally trucated protein, FLAG-tag, pH 7.2, 25&Acirc;&deg;C
+KCAT	Dictyostelium discoideum	-999	more	*
+KCAT	Homo sapiens	-999	more	*turnover numbers of full-length DGKepsilon with a C-terminal His tag, full-length FLAG-DGKepsilon and truncated FLAG-DGKepsilon

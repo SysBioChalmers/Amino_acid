@@ -1,0 +1,90 @@
+KCAT	Lactobacillus plantarum	0.022	L-cysteine	*formation of (2R,2'R)-3,3'-sulfanediylbis(2-aminopropanoic acid), mutant E223G, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.04	L-cysteine	*37&Acirc;&deg;C, pH 8.6, mutant enzyme I278T
+KCAT	Lactobacillus plantarum	0.6	L-cysteine	*formation of L-cystathionine, mutant E223G, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.06	L-cysteine	*cosubstrate H2O, pH 7.4, 37&Acirc;&deg;C
+KCAT	Lactobacillus plantarum	1.1	L-cysteine	*formation of (2R,2'R)-3,3'-sulfanediylbis(2-aminopropanoic acid), wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.41	L-cysteine	*cosubstrate H2O, presence of S-adenosyl-L-methionine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.95	L-cysteine	*37&Acirc;&deg;C, pH 8.6, mutant enzyme R266K
+KCAT	Lactobacillus plantarum	2	L-cysteine	*formation of L-cystathionine, mutant A70S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.13	L-cysteine	*pH 8.6
+KCAT	Homo sapiens	3.13	L-cysteine	*37&Acirc;&deg;C, pH 8.6, wild-type enzyme
+KCAT	Homo sapiens	4.39	L-cysteine	*pH 8.6
+KCAT	Homo sapiens	4.39	L-cysteine	*37&Acirc;&deg;C, pH 8.6, wild-type enzyme
+KCAT	Homo sapiens	7.09	L-cysteine	*cosubstrate L-homocysteine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Lactobacillus plantarum	7.6	L-cysteine	*formation of L-cystathionine, wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	31.34	L-cysteine	*cosubstrate L-homocysteine, presence of S-adenosyl-L-methionine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.052	L-serine	*37&Acirc;&deg;C, pH 8.6, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	0.082	L-serine	*Q157H mutant, pH 8.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.15	L-serine	*37&Acirc;&deg;C, pH 8.6, mutant enzyme I278T
+KCAT	Homo sapiens	0.39	L-serine	*cosubstrate H2S, pH 7.4, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.45	L-serine	*T81A mutant, pH 8.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.52	L-serine	*37&Acirc;&deg;C, pH 8.0, wild-type enzyme, with S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.62	L-serine	*cosubstrate H2S, presence of S-adenosyl-L-methionine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.85	L-serine	*cosubstrate: L-homocysteine, mutant S289A
+KCAT	Homo sapiens	1.3	L-serine	*pH 8.0, 37&Acirc;&deg;C, reaction with cysteamine, continous UV assay
+KCAT	Homo sapiens	1.67	L-serine	*recombinant 6-His-tagged enzyme, in 50 mM Tris (pH 8.6), at 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.5	L-serine	*pH 8.0, 37&Acirc;&deg;C, reaction with cysteamine, Mudd assay
+KCAT	Homo sapiens	2.9	L-serine	*37&Acirc;&deg;C, pH 8.6, mutant enzyme R266K
+KCAT	Homo sapiens	3.67	L-serine	*37&Acirc;&deg;C, pH 8.0, wild-type enzyme, without S-adenosyl-L-methionine
+KCAT	Homo sapiens	3.67	L-serine	*cosubstrate L-homocysteine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	5.3	L-serine	*S82A mutant, pH 8.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.4	L-serine	*wild-type enzyme, 37&Acirc;&deg;C, absence of S-adenosyl-L-methionine
+KCAT	Homo sapiens	5.9	L-serine	*I435T mutant, 37&Acirc;&deg;C, absence of S-adenosyl-L-methionine
+KCAT	Homo sapiens	7.5	L-serine	*pH 8.0, 37&Acirc;&deg;C, reaction with L-homocysteine
+KCAT	Saccharomyces cerevisiae	7.6	L-serine	*37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	8.2	L-serine	*Y158F mutant, pH 8.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	10.19	L-serine	*37&Acirc;&deg;C, pH 8.6, wild-type enzyme
+KCAT	Homo sapiens	10.2	L-serine	*pH 8.6
+KCAT	Saccharomyces cerevisiae	13.2	L-serine	*T85A mutant, pH 8.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	14.01	L-serine	*37&Acirc;&deg;C, pH 8.0, wild-type enzyme, with S-adenosyl-L-methionine
+KCAT	Homo sapiens	14.01	L-serine	*cosubstrate L-homocysteine, presence of S-adenosyl-L-methionine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	14.6	L-serine	*S466L mutant, 37&Acirc;&deg;C, absence of S-adenosyl-L-methionine
+KCAT	Saccharomyces cerevisiae	14.7	L-serine	*37&Acirc;&deg;C, L-serine pre-treatment
+KCAT	Homo sapiens	15.8	L-serine	*I435T mutant, 37&Acirc;&deg;C, presence of S-adenosyl-L-methionine
+KCAT	Saccharomyces cerevisiae	16.8	L-serine	*37&Acirc;&deg;C, homocysteine pre-treatment
+KCAT	Saccharomyces cerevisiae	17	L-serine	*cosubstrate: L-homocysteine, wild-type
+KCAT	Homo sapiens	19	L-serine	*pH 6.8, 37&Acirc;&deg;C, deltaC143 mutant after L-serine pre-treatment
+KCAT	Homo sapiens	19.7	L-serine	*wild-type enzyme, 37&Acirc;&deg;C, presence of S-adenosyl-L-methionine
+KCAT	Homo sapiens	21	L-serine	*pH 6.8, 37&Acirc;&deg;C, full length enzyme after L-serine pre-treatment
+KCAT	Saccharomyces cerevisiae	21.5	L-serine	*wild-type enzyme, pH 8.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	39	L-serine	*pH 6.8, 37&Acirc;&deg;C, full length enzyme after homocysteine pre-treatment
+KCAT	Homo sapiens	45	L-serine	*pH 6.8, 37&Acirc;&deg;C, deltaC143 mutant after homocysteine pre-treatment
+KCAT	Saccharomyces cerevisiae	7.97	L-Ser	*
+KCAT	Homo sapiens	0.024	L-homocysteine	*recombinant 6-His-tagged enzyme, in 50 mM Tris (pH 8.6), at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.031	L-homocysteine	*37&Acirc;&deg;C, pH 8.6, wild-type enzyme
+KCAT	Homo sapiens	0.04	L-homocysteine	*37&Acirc;&deg;C, pH 8.6, mutant enzyme R266K
+KCAT	Homo sapiens	0.09	L-homocysteine	*37&Acirc;&deg;C, pH 8.6, mutant enzyme I278T
+KCAT	Saccharomyces cerevisiae	0.85	L-homocysteine	*cosubstrate: L-serine, mutant S289A
+KCAT	Homo sapiens	3.3	L-homocysteine	*37&Acirc;&deg;C, pH 8.0, wild-type enzyme, without S-adenosyl-L-methionine
+KCAT	Bacillus anthracis	3.38	L-homocysteine	*wild-type, production of H2S, pH 8.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.66	L-homocysteine	*37&Acirc;&deg;C, pH 8.0, wild-type enzyme, without S-adenosyl-L-methionine
+KCAT	Homo sapiens	4.66	L-homocysteine	*cosubstrate L-serine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	5.74	L-homocysteine	*mutant E220R, pH 8.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	7.93	L-homocysteine	*37&Acirc;&deg;C, pH 8.6, wild-type enzyme
+KCAT	Homo sapiens	8.17	L-homocysteine	*cosubstrate L-cysteine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	8.39	L-homocysteine	*wild-type, pH 8.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	9.06	L-homocysteine	*37&Acirc;&deg;C, pH 8.6, mutant enzyme R266K
+KCAT	Bacillus anthracis	10.91	L-homocysteine	*mutant A72S, pH 8.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	12.7	L-homocysteine	*37&Acirc;&deg;C, pH 8.0, wild-type enzyme, with S-adenosyl-L-methionine
+KCAT	Homo sapiens	12.7	L-homocysteine	*cosubstrate L-serine, presence of S-adenosyl-L-methionine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	17	L-homocysteine	*cosubstrate: L-serine, wild-type
+KCAT	Saccharomyces cerevisiae	21.5	L-homocysteine	*pH 8.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	26.78	L-homocysteine	*cosubstrate L-cysteine, presence of S-adenosyl-L-methionine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.0045	L-cystathionine	*reverse reaction (L-cystathionine hydrolysis), mutant S289A
+KCAT	Saccharomyces cerevisiae	0.083	L-cystathionine	*S82A mutant, pH 8.6, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.133	L-cystathionine	*T85A mutant, pH 8.6, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.418	L-cystathionine	*Y158F mutant, pH 8.6, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.56	L-cystathionine	*pH 8.6, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.56	L-cystathionine	*wild-type enzyme, pH 8.6, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1.03	L-cystathionine	*reverse reaction (L-cystathionine hydrolysis), wild-type
+KCAT	Saccharomyces cerevisiae	6.08	L-cystathionine	*pH 8.6, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	6.08	L-cystathionine	*wild-type enzyme, pH 8.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.35	H2S	*cosubstrate L-serine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.78	H2S	*cosubstrate L-serine, presence of S-adenosyl-L-methionine, pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.9	homocysteine	*I435T mutant, 37&Acirc;&deg;C, absence of S-adenosyl-L-methionine
+KCAT	Homo sapiens	6.2	homocysteine	*wild-type enzyme, 37&Acirc;&deg;C, absence of S-adenosyl-L-methionine
+KCAT	Saccharomyces cerevisiae	7.38	homocysteine	*
+KCAT	Homo sapiens	15.5	homocysteine	*S466L mutant, 37&Acirc;&deg;C, absence of S-adenosyl-L-methionine
+KCAT	Homo sapiens	32.1	homocysteine	*I435T mutant, 37&Acirc;&deg;C, presence of S-adenosyl-L-methionine
+KCAT	Homo sapiens	34	homocysteine	*wild-type enzyme, 37&Acirc;&deg;C, presence of S-adenosyl-L-methionine
+KCAT	Saccharomyces cerevisiae	-999	more	*the kcat for the generation of H2S by cystathionine beta-synthase of 55/s at 37&Acirc;&deg;C, via the condensation of cysteine and homocysteine is 18fold faster than that for the beta-elimination and rehydration to form serine of 3/s-

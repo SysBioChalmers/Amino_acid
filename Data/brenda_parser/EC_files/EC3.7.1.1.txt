@@ -1,0 +1,37 @@
+KCAT	Aspergillus niger	0.00001	oxaloacetate	*mutant enzyme Y44F, in 50 mM K+-HEPES (pH 7.5 and 25&Acirc;&deg;C)
+KCAT	Aspergillus niger	0.081	oxaloacetate	*mutant enzyme C124S, in 50 mM K+-HEPES (pH 7.5 and 25&Acirc;&deg;C)
+KCAT	Aspergillus niger	0.082	oxaloacetate	*mutant enzyme P240T, in 50 mM K+-HEPES (pH 7.5 and 25&Acirc;&deg;C)
+KCAT	Aspergillus niger	0.125	oxaloacetate	*mutant enzyme C124A, in 50 mM K+-HEPES (pH 7.5 and 25&Acirc;&deg;C)
+KCAT	Botrytis cinerea	0.35	oxaloacetate	*cofactor Ca2+, buffer imidazole
+KCAT	Aspergillus niger	0.357	oxaloacetate	*mutant enzyme P240S, in 50 mM K+-HEPES (pH 7.5 and 25&Acirc;&deg;C)
+KCAT	Aspergillus niger	0.48	oxaloacetate	*wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25&Acirc;&deg;C)
+KCAT	Aspergillus niger	0.505	oxaloacetate	*wild type enzyme, in 0.1 M imidazole (pH 7.6 and 25&Acirc;&deg;C)
+KCAT	Botrytis cinerea	0.71	oxaloacetate	*mutant S260A, trial 2
+KCAT	Botrytis cinerea	0.83	oxaloacetate	*mutant S260A, trial 1
+KCAT	Botrytis cinerea	0.96	oxaloacetate	*mutant S260P, trial 1
+KCAT	Botrytis cinerea	0.98	oxaloacetate	*mutant S260P, trial 2
+KCAT	Dianthus caryophyllus	1.14	oxaloacetate	*mutant S257T, trial 1
+KCAT	Dianthus caryophyllus	1.16	oxaloacetate	*mutant S257T, trial 2
+KCAT	Cryphonectria parasitica	1.9	oxaloacetate	*in presence of Ca2+, pH 7.5, 25&Acirc;&deg;C
+KCAT	Botrytis cinerea	2.59	oxaloacetate	*mutant S260T, trial 1
+KCAT	Dianthus caryophyllus	2.72	oxaloacetate	*wild-type protein
+KCAT	Dianthus caryophyllus	2.91	oxaloacetate	*mutant S257A
+KCAT	Botrytis cinerea	3.6	oxaloacetate	*mutant S260T, trial 2
+KCAT	Cryphonectria parasitica	3.6	oxaloacetate	*in presence of Mg2+, pH 7.5, 25&Acirc;&deg;C
+KCAT	Dianthus caryophyllus	4.1	oxaloacetate	*mutant S257P
+KCAT	Botrytis cinerea	9.5	oxaloacetate	*cofactor Mg2+, buffer Tris
+KCAT	Botrytis cinerea	9.6	oxaloacetate	*cofactor Mg2+, buffer Hepes
+KCAT	Botrytis cinerea	10.3	oxaloacetate	*cofactor Mg2+, buffer imidazole
+KCAT	Botrytis cinerea	11.8	oxaloacetate	*cofactor Mg2+, buffer imidazole
+KCAT	Botrytis cinerea	12.5	oxaloacetate	*cofactor Mg2+, buffer Hepes
+KCAT	Botrytis cinerea	17.4	oxaloacetate	*wild-type protein
+KCAT	Botrytis cinerea	32	oxaloacetate	*cofactor Mn2+, buffer Hepes
+KCAT	Cryphonectria parasitica	35.2	oxaloacetate	*in presence of Mn2+, pH 7.5, 25&Acirc;&deg;C
+KCAT	Botrytis cinerea	37	oxaloacetate	*cofactor Mn2+, buffer imidazole
+KCAT	Botrytis cinerea	50	oxaloacetate	*cofactor Mn2+, buffer imidazole
+KCAT	Botrytis cinerea	0.0249	(2R,3S)-2,3-dimethylmalate	*mutant S260A
+KCAT	Botrytis cinerea	0.0293	(2R,3S)-2,3-dimethylmalate	*wild-type protein
+KCAT	Botrytis cinerea	0.074	(2R,3S)-2,3-dimethylmalate	*mutant S260P
+KCAT	Dianthus caryophyllus	5.4	(2R,3S)-2-ethyl-3-methylmalate	*mutant S257A
+KCAT	Dianthus caryophyllus	8.3	(2R,3S)-2-ethyl-3-methylmalate	*mutant S257P
+KCAT	Dianthus caryophyllus	8.4	(2R,3S)-2-ethyl-3-methylmalate	*wild-type protein

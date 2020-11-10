@@ -1,0 +1,49 @@
+KCAT	Rhodococcus rhodochrous	0.000129	Benzonitrile	*wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.00014	3-aminobenzonitrile	*mutant enzyme R129K, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.00015	3-aminobenzonitrile	*mutant enzyme R129H, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.000158	3-methylbenzonitrile	*mutant enzyme R129K, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.000162	Benzonitrile	*mutant enzyme R129K, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.00018	3-methylbenzonitrile	*mutant enzyme R129H, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.000198	3-methylbenzonitrile	*wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.000283	4-aminobenzonitrile	*wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.000288	3-aminobenzonitrile	*wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.00047	Benzonitrile	*mutant enzyme R129H, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.000695	4-methylbenzonitrile	*wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Rhodococcus rhodochrous	0.00085	m-tolunitrile	*mutant enzyme Y142V
+KCAT	Rhodococcus rhodochrous	0.00098	2-Cyanopyridine	*mutant enzyme Y142F
+KCAT	Rhodococcus rhodochrous	0.00115	Benzonitrile	*mutant enzyme Y142V
+KCAT	Rhodococcus rhodochrous	0.00119	m-tolunitrile	*mutant enzyme Y142F
+KCAT	Rhodococcus rhodochrous	0.00131	Benzonitrile	*wild type enzyme
+KCAT	Rhodococcus rhodochrous	0.00146	2-Cyanopyridine	*wild type enzyme
+KCAT	Rhodococcus rhodochrous	0.00157	m-tolunitrile	*mutant enzyme Y142A
+KCAT	Rhodococcus rhodochrous	0.00193	2-Cyanopyridine	*mutant enzyme Y142A
+KCAT	Rhodococcus rhodochrous	0.00198	m-tolunitrile	*wild type enzyme
+KCAT	Rhodococcus rhodochrous	0.0021	Benzonitrile	*mutant enzyme Y142F
+KCAT	Rhodococcus rhodochrous	0.0024	Benzonitrile	*mutant enzyme Y142A
+KCAT	Rhodococcus rhodochrous	0.00313	m-tolunitrile	*mutant enzyme Y142S
+KCAT	Rhodococcus rhodochrous	0.00358	Benzonitrile	*mutant enzyme Y142S
+KCAT	Rhodococcus rhodochrous	0.00612	2-Cyanopyridine	*mutant enzyme Y142S
+KCAT	Saccharolobus solfataricus	0.01	trichloroacetonitrile	*pH 7.4, 70&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.016	Cinnamonitrile	*pH 7.4, 70&deg;C, mutant enzyme K96R
+KCAT	Saccharolobus solfataricus	0.016	phenylglycinenitrile	*pH 7.4, 70&deg;C, mutant enzyme K96R
+KCAT	Saccharolobus solfataricus	0.04	phenylglycinenitrile	*pH 7.4, 70&deg;C, wild-type enzyme
+KCAT	Alcaligenes faecalis	0.072	mandelonitrile	*soluble recombinant enzyme
+KCAT	Alcaligenes faecalis	0.083	mandelonitrile	*recombinant enzyme in cross-linked enzyme aggregates
+KCAT	Saccharolobus solfataricus	0.09	Benzonitrile	*pH 7.4, 70&deg;C, wild-type enzyme
+KCAT	Zea mays	0.13	indole-3-acetonitrile	*
+KCAT	Saccharolobus solfataricus	0.14	Malononitrile	*pH 7.4, 70&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.18	3-anilinoproprionitrile	*pH 7.4, 70&deg;C, mutant enzyme K96R
+KCAT	Saccharolobus solfataricus	0.225	trichloroacetonitrile	*pH 7.4, 70&deg;C, mutant enzyme K96R
+KCAT	Saccharolobus solfataricus	0.28	3-anilinoproprionitrile	*pH 7.4, 70&deg;C, wild-type enzyme
+KCAT	Brassica rapa	0.29	indole-3-acetonitrile	*isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35&deg;C
+KCAT	Saccharolobus solfataricus	1.05	Malononitrile	*pH 7.4, 70&deg;C, mutant enzyme K96R
+KCAT	Paenarthrobacter aurescens	1.57	iminodiacetonitrile	*at pH 7.2 and 30&deg;C
+KCAT	Brassica rapa	15.8	4-phenylbutyronitrile	*isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35&deg;C
+KCAT	Brassica rapa	19.8	allyl cyanide	*isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35&deg;C
+KCAT	Brassica rapa	40.8	heptanenitrile	*isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35&deg;C
+KCAT	Brassica rapa	79.7	3-Phenylpropionitrile	*isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35&deg;C
+KCAT	Alcaligenes sp.	175	mandelonitrile	*at 30&deg;C and pH 8.0
+KCAT	Aeribacillus pallidus	1370	3-chlorobenzonitrile	*
+KCAT	Aeribacillus pallidus	11100	4-Chlorobutyronitrile	*
+KCAT	Aeribacillus pallidus	14400	Benzonitrile	*
+KCAT	Aeribacillus pallidus	43900	4-cyanopyridine	*

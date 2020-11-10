@@ -1,0 +1,30 @@
+KCAT	Agkistrodon contortrix	-999	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg	*
+KCAT	Agkistrodon contortrix	-999	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg	*
+KCAT	Agkistrodon contortrix	6.03	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg	*
+KCAT	Agkistrodon contortrix	6.03	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg	*
+KCAT	Agkistrodon contortrix	2.23	His-Thr-Glu-Lys-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	2.23	His-Thr-Glu-Lys-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	65.7	His-Thr-Glu-Asn-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	65.7	His-Thr-Glu-Asn-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.09	Leu-Val-Glu-Ala-Leu-Tyr-Leu-Val	*
+KCAT	Agkistrodon contortrix	0.09	Leu-Val-Glu-Ala-Leu-Tyr-Leu-Val	*
+KCAT	Agkistrodon contortrix	1.97	His-Thr-Glu-Arg-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	1.97	His-Thr-Glu-Arg-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	5	His-Thr-Glu-Ala-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	5	His-Thr-Glu-Ala-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.16	His-Thr-Glu-Leu-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.16	His-Thr-Glu-Leu-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.45	His-Thr-Glu-Phe-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.45	His-Thr-Glu-Phe-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	5.19	His-Thr-Glu-His-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	5.19	His-Thr-Glu-His-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	1.59	His-Thr-Glu-Pro-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	1.59	His-Thr-Glu-Pro-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.46	His-Thr-Glu-Glu-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.46	His-Thr-Glu-Glu-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	3.98	His-Thr-Glu-Ser-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	3.98	His-Thr-Glu-Ser-Leu-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.2	His-Thr-Glu-Lys-Phe-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.2	His-Thr-Glu-Lys-Phe-Val-Thr-Ser	*
+KCAT	Agkistrodon contortrix	0.0086	low molecular weight kininogen	*
+KCAT	Agkistrodon contortrix	0.0086	low molecular weight kininogen	*

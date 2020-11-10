@@ -1,0 +1,1 @@
+ecNumber*3.5.4.22#turnoverNumber*1.19#turnoverNumberMaximum*#substrate*1-pyrroline-4-hydroxy-2-carboxylate#commentary*at pH 8.0 and 30&Acirc;&deg;C#organism*Pseudomonas putida#ligandStructureId*29294#literature*734191#

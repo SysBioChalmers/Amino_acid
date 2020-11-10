@@ -1,0 +1,19 @@
+KCAT	Spinacia oleracea	-999	more	*turnover number decreases about 20% after treatment with N-bromosuccinimide
+KCAT	Cyanidioschyzon merolae	1.77	nitrite	*mutant G212S/L213T/Y214L/S217C/C220I/S221N, pH not specified in the publication, temperature not specified in the publication
+KCAT	Cyanidioschyzon merolae	2.1	nitrite	*truncated protein, residues 19-731, pH not specified in the publication, temperature not specified in the publication
+KCAT	Cyanidioschyzon merolae	3.77	nitrite	*truncated protein, residues 76-679, pH not specified in the publication, temperature not specified in the publication
+KCAT	Pyropia yezoensis	10	nitrite	*
+KCAT	Chlorella fusca	54	nitrite	*
+KCAT	Nicotiana tabacum	73	nitrite	*wild-type, pH 7.0, 30&deg;C
+KCAT	Cucurbita pepo	89	nitrite	*
+KCAT	Nicotiana tabacum	92	nitrite	*mutant K449Q, pH 7.0, 30&deg;C
+KCAT	Nicotiana tabacum	96	nitrite	*mutant M175E, pH 7.0, 30&deg;C
+KCAT	Synechocystis sp.	101.4	reduced ferredoxin	*substrate Leptolyngbya boryana ferredoxin mutant E94Q/E95Q, pH 7.5, 25&deg;C
+KCAT	Nicotiana tabacum	102	nitrite	*mutant M175GK pH 7.0, 30&deg;C
+KCAT	Nicotiana tabacum	107	nitrite	*mutant Q448K, pH 7.0, 30&deg;C
+KCAT	Spinacia oleracea	110	nitrite	*
+KCAT	Synechocystis sp.	138.2	reduced ferredoxin	*substrate Leptolyngbya boryana ferredoxin, pH 7.5, 25&deg;C
+KCAT	Synechocystis sp.	178.3	reduced ferredoxin	*substrate Leptolyngbya boryana ferredoxin mutant D67N/D68N/D69N, pH 7.5, 25&deg;C
+KCAT	Nicotiana tabacum	200	nitrite	*wild-type, pH 7.0, 30&deg;C
+KCAT	Synechocystis sp.	203.2	reduced ferredoxin	*substrate Leptolyngbya boryana ferredoxin mutant E31Q/E32Q/D36N, pH 7.5, 25&deg;C
+KCAT	Nicotiana tabacum	227	nitrite	*mutant M175G, pH 7.0, 30&deg;C

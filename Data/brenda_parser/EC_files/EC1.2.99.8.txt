@@ -1,0 +1,15 @@
+KCAT	Sulfurisphaera tokodaii	0.43	D-Glyceraldehyde-3-phosphate	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	0.65	D-Glyceraldehyde-3-phosphate	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	0.72	D-glyceraldehyde	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	0.98	D-Glyceraldehyde-3-phosphate	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	2.77	Indoleacetaldehyde	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	3.23	acetaldehyde	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	3.38	acetaldehyde	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	3.46	Indoleacetaldehyde	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	3.58	D-glyceraldehyde	*cosubstrate 2,6-dichlorophenolindophenol, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	3.58	Indoleacetaldehyde	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	3.78	D-glyceraldehyde	*cosubstrate 2,6-dichlorophenolindophenol, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	5.23	D-glyceraldehyde	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	11	Indolepyruvate	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	11.2	D-glyceraldehyde	*cosubstrate methyl viologen, pH 7.0, 70&deg;C
+KCAT	Sulfurisphaera tokodaii	50.5	D-glyceraldehyde	*cosubstrate 2,6-dichlorophenolindophenol, pH 7.0, 70&deg;C

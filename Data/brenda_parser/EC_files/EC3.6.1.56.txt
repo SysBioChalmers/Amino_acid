@@ -1,0 +1,18 @@
+KCAT	Homo sapiens	15.7	dGTP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	15.7	dGTP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	2.1	8-oxo-dGTP	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Homo sapiens	9.54	8-oxo-dGTP	*pH 8.0, 30&Acirc;&deg;C, mutant enzyme D119A
+KCAT	Homo sapiens	12.3	8-oxo-dGTP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	12.3	8-oxo-dGTP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	25.1	8-oxo-dGTP	*pH 8.0, 30&Acirc;&deg;C, mutant enzyme F27A
+KCAT	Homo sapiens	25.9	8-oxo-dGTP	*pH 8.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	4.7	2-hydroxy-dATP	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Homo sapiens	13.9	2-hydroxy-dATP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	13.9	2-hydroxy-dATP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	28.7	2-hydroxy-dATP	*pH 8.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	31	2-hydroxy-dATP	*pH 8.0, 30&Acirc;&deg;C, mutant enzyme F27A
+KCAT	Homo sapiens	2.6	8-oxo-GTP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	4.7	2-hydroxy-ATP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	10.8	8-oxo-dATP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	10.8	8-oxo-dATP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	1.1	8-oxo-ATP	*pH 8.0, 30&Acirc;&deg;C

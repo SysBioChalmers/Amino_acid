@@ -1,0 +1,7 @@
+KCAT	Mus musculus	0.047	CDP	*CDP reduction in the absence of allosteric effectors
+KCAT	Mus musculus	0.16	CDP	*CDP reduction in the presence of 1 mM ATP
+KCAT	Mus musculus	0.26	CDP	*CDP reduction in the presence of 0.2 mM ATP
+KCAT	Mus musculus	0.29	CDP	*CDP reduction in the presence of 4 mM ATP
+KCAT	Escherichia coli	3.33	CDP	*activity of subunit B1 assayed in the presence of an excess of subunit B2
+KCAT	Escherichia coli	12.9	CDP	*activity of subunit B2 assayed in the presence of an excess of subunit B1
+KCAT	Escherichia coli	-999	more	*turnover number of wild-type and mutant proteins of R1 protein

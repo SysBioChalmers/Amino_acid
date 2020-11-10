@@ -1,0 +1,87 @@
+KCAT	Fusarium solani	-999	more	*turnover numbers in presence of surfactants
+KCAT	Fusarium solani	0.0072	4-nitrophenyl butyrate	*pH 7.5, 25&deg;C
+KCAT	Aspergillus oryzae	0.0163	4-nitrophenyl butyrate	*pH 7.5, 25&deg;C
+KCAT	Alternaria brassicicola	0.022	4-nitrophenyl butyrate	*pH 7.5, 25&deg;C
+KCAT	Humicola insolens	0.072	4-nitrophenyl butyrate	*pH 7.5, 25&deg;C
+KCAT	Aspergillus fumigatus	0.0845	4-nitrophenyl butyrate	*pH 7.5, 25&deg;C
+KCAT	Monilinia fructicola	0.25	p-nitrophenylbutanoate	*36&deg;C, mutant H173L; 36&deg;C, mutant S103T
+KCAT	Thielavia terrestris	0.58	4-nitrophenyl acetate	*pH 4.0, 50&deg;C
+KCAT	Thielavia terrestris	0.61	4-nitrophenyl caproate	*pH 4.0, 50&deg;C
+KCAT	Monilinia fructicola	0.66	p-nitrophenylbutanoate	*36&deg;C, wild-type
+KCAT	Thielavia terrestris	0.85	4-nitrophenyl butanoate	*pH 4.0, 50&deg;C
+KCAT	Monilinia fructicola	1.5	p-nitrophenylbutanoate	*36&deg;C, mutant S103A
+KCAT	Thermobifida cellulosilytica	2.4	4-nitrophenyl acetate	*pH and temperature not specified in the publication
+KCAT	Thermobifida alba	2.72	4-nitrophenyl acetate	*pH and temperature not specified in the publication
+KCAT	Thermobifida cellulosilytica	3	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant mutant R19S
+KCAT	Thermobifida cellulosilytica	7	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant mutant Q65E
+KCAT	Fusarium oxysporum	8.3	4-nitrophenyl laurate	*pH 6.0, 40&deg;C
+KCAT	Thermobifida cellulosilytica	15	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant mutant Q65E
+KCAT	Thermobifida cellulosilytica	16	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant wild-type isozyme
+KCAT	Thermobifida cellulosilytica	17	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant wild-type isozyme
+KCAT	Humicola insolens	18	4-nitrophenyl palmitate	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Thermobifida cellulosilytica	25	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant mutant L183A
+KCAT	Thermobifida cellulosilytica	32	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant mutant L183A
+KCAT	Thermobifida cellulosilytica	35	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant mutant R187K
+KCAT	Thermobifida fusca	39.5	4-nitrophenyl acetate	*pH and temperature not specified in the publication
+KCAT	Aspergillus nidulans	40.3	4-nitrophenyl acetate	*pH 9.0, 37&deg;C
+KCAT	Thermobifida cellulosilytica	49	4-nitrophenyl butanoate	*fusion protein Cut1-HFB9b, pH 7.0, 25&deg;C
+KCAT	uncultured bacterium	49	4-nitrophenyl butyrate	*pH 8.0, 70&deg;C, recombinant mutant C275A/C292A, absence of 1% PEG
+KCAT	Thermobifida cellulosilytica	76	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant mutant R19S/R29N/A30V
+KCAT	Thermobifida cellulosilytica	79	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant mutant R187K
+KCAT	Thermobifida cellulosilytica	80	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant mutant R19S
+KCAT	Thermobifida cellulosilytica	86	4-nitrophenyl butanoate	*fusion protein Cut1-HFB4, pH 7.0, 25&deg;C
+KCAT	Thermobifida cellulosilytica	99	4-nitrophenyl acetate	*fusion protein Cut1-HFB4, pH 7.0, 25&deg;C
+KCAT	Thermobifida cellulosilytica	100	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant mutant R29N/A30V
+KCAT	Thermobifida cellulosilytica	105	4-nitrophenyl acetate	*fusion protein Cut1-HFB9b, pH 7.0, 25&deg;C
+KCAT	Fusarium oxysporum	111.9	4-nitrophenyl butanoate	*pH 6.0, 40&deg;C
+KCAT	Thermobifida cellulosilytica	112	4-nitrophenyl butanoate	*fusion protein Cut1-HFB7, pH 7.0, 25&deg;C
+KCAT	Fusarium oxysporum	121	4-nitrophenyl acetate	*pH 6.0, 40&deg;C
+KCAT	Thermobifida cellulosilytica	129	4-nitrophenyl acetate	*fusion protein Cut1-HFB7, pH 7.0, 25&deg;C
+KCAT	Thermobifida cellulosilytica	136	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant mutant R19S/R29N/A30V
+KCAT	Humicola insolens	172	triolein	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Thermobifida cellulosilytica	173	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant mutant R29N/A30V
+KCAT	Thermobifida cellulosilytica	183	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant mutant A30V
+KCAT	Humicola insolens	187	4-nitrophenyl octanoate	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Thermobifida cellulosilytica	191	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant mutant R29N
+KCAT	Humicola insolens	191	4-nitrophenyl butyrate	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	uncultured bacterium	196	4-nitrophenyl butyrate	*pH 8.0, 50&deg;C, recombinant mutant C275A/C292A, absence of 1% PEG
+KCAT	Thermobifida cellulosilytica	207	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant mutant R29N
+KCAT	Thermobifida cellulosilytica	211.9	4-nitrophenyl acetate	*pH and temperature not specified in the publication
+KCAT	uncultured bacterium	213	4-nitrophenyl butyrate	*pH 8.0, 70&deg;C, recombinant wild-type enzyme, absence of 1% PEG
+KCAT	Fusarium solani	230	p-nitrophenylacetate	*without surfactant
+KCAT	uncultured bacterium	232	4-nitrophenyl butyrate	*pH 8.0, 30&deg;C, recombinant wild-type enzyme, absence of 1% PEG
+KCAT	Humicola insolens	238	tributyrin	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Thermobifida cellulosilytica	260	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant mutant A30V
+KCAT	uncultured bacterium	278	4-nitrophenyl butyrate	*pH 8.0, 30&deg;C, recombinant wild-type enzyme, presence of 1% PEG
+KCAT	uncultured bacterium	318	4-nitrophenyl butyrate	*pH 8.0, 70&deg;C, recombinant wild-type enzyme, absence of 1% PEG
+KCAT	Thermobifida cellulosilytica	325	4-nitrophenyl butanoate	*wild-type, pH 7.0, 25&deg;C
+KCAT	Thermobifida cellulosilytica	327	4-nitrophenyl butyrate	*pH 7.0, 25&deg;C, recombinant isozyme
+KCAT	uncultured bacterium	342	4-nitrophenyl butyrate	*pH 8.0, 30&deg;C, recombinant mutant C275A/C292A, absence of 1% PEG
+KCAT	uncultured bacterium	343	4-nitrophenyl butyrate	*pH 8.0, 50&deg;C, recombinant wild-type enzyme, absence of 1% PEG
+KCAT	uncultured bacterium	359	4-nitrophenyl butyrate	*pH 8.0, 50&deg;C, recombinant wild-type enzyme, presence of 1% PEG
+KCAT	Thermobifida cellulosilytica	363	4-nitrophenyl acetate	*wild-type, pH 7.0, 25&deg;C
+KCAT	Thermobifida cellulosilytica	436	4-nitrophenyl acetate	*pH 7.0, 25&deg;C, recombinant isozyme
+KCAT	Thermobifida fusca	483	4-nitrophenyl butyrate	*pH 8.0, 60&deg;C, isozyme Tfu 0882
+KCAT	Humicola insolens	509	tricaprylin	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Fusarium solani	539	p-nitrophenylbutanoate	*without surfactant
+KCAT	Thermobifida fusca	742	4-nitrophenyl butyrate	*pH 8.0, 60&deg;C, isozyme Tfu 0883
+KCAT	Nectria haematococca mpVI	837	4-nitrophenyl butyrate	*pH 8.0, 60&deg;C, recombinant cutinase FspC
+KCAT	Fusarium solani	7900	p-nitrophenyl butyrate	*T179C mutant, sodium dioctyl sulfosuccinate concentration = 0 mM
+KCAT	Fusarium solani	9600	p-nitrophenyl butyrate	*T179Cmutant, sodium dioctyl sulfosuccinate concentration = 0.5 mM
+KCAT	Fusarium solani	11000	p-nitrophenyl butyrate	*L153Q mutant, sodium dioctyl sulfosuccinate concentration = 0 mM; T179C mutant, sodium dioctyl sulfosuccinate concentration = 1.5 mM
+KCAT	Fusarium solani	11100	p-nitrophenyl butyrate	*T179C mutant, sodium dioctyl sulfosuccinate concentration = 1 mM
+KCAT	Fusarium solani	11500	p-nitrophenyl butyrate	*T179C mutant, sodium dioctyl sulfosuccinate concentration = 2 mM
+KCAT	Fusarium solani	13800	p-nitrophenyl butyrate	*wild type, sodium dioctyl sulfosuccinate concentration = 2 mM
+KCAT	Fusarium solani	14700	p-nitrophenyl butyrate	*S54D mutant, sodium dioctyl sulfosuccinate concentration = 0 mM
+KCAT	Fusarium solani	15200	p-nitrophenyl butyrate	*wild type, sodium dioctyl sulfosuccinate concentration = 1.5 mM
+KCAT	Fusarium solani	15500	p-nitrophenyl butyrate	*wild type, sodium dioctyl sulfosuccinate concentration = 0.5 mM
+KCAT	Fusarium solani	15600	p-nitrophenyl butyrate	*wild type, sodium dioctyl sulfosuccinate concentration = 0 mM
+KCAT	Fusarium solani	16000	p-nitrophenyl butyrate	*L153Q mutant, sodium dioctyl sulfosuccinate concentration = 0.5 mM
+KCAT	Fusarium solani	17400	p-nitrophenyl butyrate	*wild type, sodium dioctyl sulfosuccinate concentration = 1 mM
+KCAT	Fusarium solani	17900	p-nitrophenyl butyrate	*L153Q mutant, sodium dioctyl sulfosuccinate concentration = 1 mM
+KCAT	Fusarium solani	24200	p-nitrophenyl butyrate	*S54D mutant, sodium dioctyl sulfosuccinate concentration = 1 mM
+KCAT	Fusarium solani	24700	p-nitrophenyl butyrate	*S54D mutant, sodium dioctyl sulfosuccinate concentration = 0.5 mM
+KCAT	Fusarium solani	25200	p-nitrophenyl butyrate	*S54D mutant, sodium dioctyl sulfosuccinate concentration = 1.5 mM
+KCAT	Fusarium solani	25800	p-nitrophenyl butyrate	*L153Q mutant, sodium dioctyl sulfosuccinate concentration = 1.5 mM
+KCAT	Fusarium solani	28500	p-nitrophenyl butyrate	*L153Q mutant, sodium dioctyl sulfosuccinate concentration = 2 mM
+KCAT	Fusarium solani	32100	p-nitrophenyl butyrate	*S54D mutant, sodium dioctyl sulfosuccinate concentration = 2 mM

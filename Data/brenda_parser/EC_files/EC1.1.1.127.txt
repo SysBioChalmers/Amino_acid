@@ -1,0 +1,2 @@
+KCAT	Pectobacterium carotovorum subsp. carotovorum	0.021	NADPH	*at pH 7.2 and 45&deg;C
+KCAT	Pectobacterium carotovorum subsp. carotovorum	0.024	NADH	*at pH 7.2 and 45&deg;C

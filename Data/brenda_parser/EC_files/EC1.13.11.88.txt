@@ -1,0 +1,4 @@
+KCAT	Pseudomonas nitroreducens	3.8	isoeugenol	*pH 8.0, 30&deg;C
+KCAT	Pseudomonas sp.	4.21	isoeugenol	*wild-type, 30&deg;C, pH not specified in the publication
+KCAT	Pseudomonas putida	5.18	isoeugenol	*pH 7.0, 30&deg;C
+KCAT	Pseudomonas sp.	7.58	isoeugenol	*mutant F281Q, 30&deg;C, pH not specified in the publication

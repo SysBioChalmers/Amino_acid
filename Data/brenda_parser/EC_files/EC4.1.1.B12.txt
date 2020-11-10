@@ -1,0 +1,23 @@
+KCAT	Huperzia serrata	0.155	L-cysteine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Huperzia serrata	0.0859	L-methionine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Huperzia serrata	0.404	L-phenylalanine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Huperzia serrata	0.0859	L-arginine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Lupinus angustifolius	1.18	L-lysine	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Huperzia serrata	1.85	L-lysine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Echinosophora koreensis	1.91	L-lysine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Sophora flavescens	2.32	L-lysine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Lycopodium clavatum	3.17	L-lysine	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Lupinus angustifolius	3.88	L-lysine	*mutant M341L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Lupinus angustifolius	6.33	L-lysine	*mutant F344Y, pH 7.5, 37&Acirc;&deg;C
+KCAT	Lupinus angustifolius	143	L-lysine	*mutant F344H, pH 7.5, 37&Acirc;&deg;C
+KCAT	Lupinus angustifolius	0.29	L-ornithine	*mutant M341L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Lupinus angustifolius	0.4	L-ornithine	*mutant F344Y, pH 7.5, 37&Acirc;&deg;C
+KCAT	Echinosophora koreensis	0.73	L-ornithine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Lupinus angustifolius	0.91	L-ornithine	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Sophora flavescens	1.16	L-ornithine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Lycopodium clavatum	2.13	L-ornithine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Lupinus angustifolius	2.3	L-ornithine	*mutant F344H, pH 7.5, 37&Acirc;&deg;C
+KCAT	Huperzia serrata	2.78	L-ornithine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Huperzia serrata	0.214	L-valine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Huperzia serrata	0.102	L-norleucine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Huperzia serrata	0.102	D-Lysine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme

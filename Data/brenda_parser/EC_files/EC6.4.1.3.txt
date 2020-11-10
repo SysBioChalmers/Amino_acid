@@ -1,0 +1,7 @@
+KCAT	Leptospira interrogans	0.66	acetyl-CoA	*pH 8, 30&Acirc;&deg;C, wild-type
+KCAT	Leptospira interrogans	1.4	acetyl-CoA	*pH 8, 30&Acirc;&deg;C, mutant A431I
+KCAT	Leptospira interrogans	4	acetyl-CoA	*pH 8, 30&Acirc;&deg;C, mutant A431C
+KCAT	Leptospira interrogans	0.47	propionyl-CoA	*pH 8, 30&Acirc;&deg;C, mutant A431I
+KCAT	Leptospira interrogans	1.46	propionyl-CoA	*pH 8, 30&Acirc;&deg;C, mutant A431C
+KCAT	Leptospira interrogans	2.86	propionyl-CoA	*pH 8, 30&Acirc;&deg;C, wild-type
+KCAT	Metallosphaera sedula	2	propanoyl-CoA	*pH 7.5, 65&Acirc;&deg;C

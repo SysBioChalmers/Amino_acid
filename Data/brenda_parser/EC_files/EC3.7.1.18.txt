@@ -1,0 +1,2 @@
+KCAT	Rhodococcus sp.	167	6-oxocamphor	*pH 7.0, 25&deg;C
+KCAT	Rhodococcus sp.	642.9	6-oxocamphor	*wild-type enzyme, pH and temperature not specified in the publication

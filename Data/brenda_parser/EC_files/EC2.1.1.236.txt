@@ -1,0 +1,1 @@
+KCAT	Streptomyces fradiae	0.61	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	*pH and temperature not specified in the publication

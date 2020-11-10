@@ -1,0 +1,18 @@
+KCAT	Homo sapiens	0.6	alpha-tubulin L-lysine	*mutant L164A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.8	alpha-tubulin L-lysine	*mutant F186A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	1	alpha-tubulin L-lysine	*mutant P159A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	2	alpha-tubulin L-lysine	*mutant L173A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	2.4	alpha-tubulin L-lysine	*mutant P178A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	2.8	alpha-tubulin L-lysine	*mutant K103A, pH 6.9, 22&Acirc;&deg;C; mutant Q131A, pH 6.9, 22&Acirc;&deg;C; mutant R69A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	3.2	alpha-tubulin L-lysine	*truncation variant 1-193, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	3.3	alpha-tubulin L-lysine	*mutant R132A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	3.5	alpha-tubulin L-lysine	*mutant K169A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	3.7	alpha-tubulin L-lysine	*mutant S160A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	3.8	alpha-tubulin L-lysine	*truncation variant 1-236, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	4.1	alpha-tubulin L-lysine	*mutant N182A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	4.8	alpha-tubulin L-lysine	*mutant R158A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	4.9	alpha-tubulin L-lysine	*mutant N73A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	5.8	alpha-tubulin L-lysine	*mutant V184A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	6	alpha-tubulin L-lysine	*mutant F190A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	6.5	alpha-tubulin L-lysine	*mutant K162A, pH 6.9, 22&Acirc;&deg;C
+KCAT	Homo sapiens	9.2	alpha-tubulin L-lysine	*mutant S66A, pH 6.9, 22&Acirc;&deg;C

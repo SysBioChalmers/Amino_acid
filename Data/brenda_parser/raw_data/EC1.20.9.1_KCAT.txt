@@ -1,0 +1,1 @@
+ecNumber*1.20.9.1#turnoverNumber*14400#turnoverNumberMaximum*#substrate*arsenate#commentary*#organism*Chrysiogenes arsenatis#ligandStructureId*255#literature*287859#!ecNumber*1.20.9.1#turnoverNumber*27#turnoverNumberMaximum*#substrate*azurin#commentary*#organism*Alcaligenes faecalis#ligandStructureId*2948#literature*287857#

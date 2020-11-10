@@ -1,0 +1,32 @@
+KCAT	Escherichia coli	0.56	4-nitrophenyl phosphate	*pH 8.0, 37&Acirc;&deg;C, YfbR, with Co2+
+KCAT	Escherichia coli	3.55	4-nitrophenyl phosphate	*pH 7.0, 37&Acirc;&deg;C, SurE, with Mn2+
+KCAT	Escherichia coli	4.1	4-nitrophenyl phosphate	*pH 7.5, 37&Acirc;&deg;C, YjjG, with Mn2+
+KCAT	Elizabethkingia meningoseptica	129	p-nitrophenyl phosphate	*37&Acirc;&deg;C, pH6
+KCAT	Escherichia coli	4.9	5'-AMP	*pH 7.0, 37&Acirc;&deg;C, SurE, with Mn2+
+KCAT	Elizabethkingia meningoseptica	173	5'-AMP	*37&Acirc;&deg;C, pH6
+KCAT	Homo sapiens	225	5'-AMP	*at pH 5.0 and 20&Acirc;&deg;C
+KCAT	Escherichia coli	9.84	3'-AMP	*pH 7.0, 37&Acirc;&deg;C, SurE, with Mn2+
+KCAT	Elizabethkingia meningoseptica	160	3'-AMP	*37&Acirc;&deg;C, pH6
+KCAT	Homo sapiens	248	3'-AMP	*at pH 5.0 and 20&Acirc;&deg;C
+KCAT	Escherichia coli	34.2	5'-UMP	*pH 7.5, 37&Acirc;&deg;C, YjjG, with Mn2+
+KCAT	Elizabethkingia meningoseptica	267	5'-UMP	*37&Acirc;&deg;C, pH6
+KCAT	Escherichia coli	0.05	Polyphosphate	*pH 7.0, 37&Acirc;&deg;C, SurE, with Mg2+
+KCAT	Escherichia coli	11	5'-GMP	*pH 7.0, 37&Acirc;&deg;C, SurE, with Mn2+
+KCAT	Elizabethkingia meningoseptica	205	5'-GMP	*37&Acirc;&deg;C, pH6
+KCAT	Homo sapiens	244	5'-GMP	*at pH 5.0 and 20&Acirc;&deg;C
+KCAT	Homo sapiens	254	5'-IMP	*at pH 5.0 and 20&Acirc;&deg;C
+KCAT	Elizabethkingia meningoseptica	303	5'-CMP	*37&Acirc;&deg;C, pH6
+KCAT	Escherichia coli	0.3	5'-dAMP	*pH 8.0, 37&Acirc;&deg;C, YfbR, with Co2+
+KCAT	Escherichia coli	5.93	3'-CMP	*pH 7.0, 37&Acirc;&deg;C, SurE, with Mn2+
+KCAT	Elizabethkingia meningoseptica	188	3'-CMP	*37&Acirc;&deg;C, pH6
+KCAT	Elizabethkingia meningoseptica	138	3'-UMP	*37&Acirc;&deg;C, pH6
+KCAT	Escherichia coli	0.2	5'-dGMP	*pH 8.0, 37&Acirc;&deg;C, YfbR, with Co2+
+KCAT	Escherichia coli	8.04	5'-dGMP	*pH 7.0, 37&Acirc;&deg;C, SurE, with Mn2+
+KCAT	Elizabethkingia meningoseptica	65	D-ribose-5-phosphate	*37&Acirc;&deg;C, pH6
+KCAT	Escherichia coli	0.16	5'-dTMP	*pH 8.0, 37&Acirc;&deg;C, YfbR, with Co2+
+KCAT	Escherichia coli	30.4	5'-dTMP	*pH 7.5, 37&Acirc;&deg;C, YjjG, with Mn2+
+KCAT	Escherichia coli	0.23	5'-dCMP	*pH 8.0, 37&Acirc;&deg;C, YfbR, with Co2+
+KCAT	Elizabethkingia meningoseptica	162	3'-GMP	*37&Acirc;&deg;C, pH6
+KCAT	Escherichia coli	0.23	5'-dUMP	*pH 8.0, 37&Acirc;&deg;C, YfbR, with Co2+
+KCAT	Escherichia coli	21.4	5'-dUMP	*pH 7.5, 37&Acirc;&deg;C, YjjG, with Mn2+
+KCAT	Escherichia coli	0.24	5'-dIMP	*pH 8.0, 37&Acirc;&deg;C, YfbR, with Co2+

@@ -1,0 +1,6 @@
+KCAT	Aspergillus niger	53.4	Pectin	*PGI, 8.9% degree of methylation of pectin
+KCAT	Aspergillus niger	85.4	polygalacturonic acid	*PGI
+KCAT	Aspergillus niger	122.8	Pectin	*PGI, 7.8% degree of methylation of pectin
+KCAT	Aspergillus niger	132.7	Pectin	*PGI, 26% degree of esterification of pectin
+KCAT	Aspergillus niger	133.5	Pectin	*PGI, 6% degree of methylation of pectin
+KCAT	Aspergillus niger	160.2	Pectin	*PGI, 12% degree of methylation of pectin

@@ -1,0 +1,39 @@
+KCAT	Saccharomyces cerevisiae	21	Lys-Pro-Ile-Glu-Phe-L-nitrophenylalanine-Arg-Leu	*T222A mutant, pH 4.7; T287A/P288G mutant, pH 4.7
+KCAT	Saccharomyces cerevisiae	44	Lys-Pro-Ile-Glu-Phe-L-nitrophenylalanine-Arg-Leu	*wild type enzyme, pH 4.7
+KCAT	Saccharomyces cerevisiae	66	Lys-Pro-Ile-Glu-Phe-L-nitrophenylalanine-Arg-Leu	*A213I mutant, pH 4.7
+KCAT	Saccharomyces cerevisiae	3.13	Suc-LFAEVAYD-4-methylcoumarin 7-amide	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	3.73	Suc-LFAEVAYD-4-methylcoumarin 7-amide	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.012	Ala-Pro-Ala-Lys-Phe-(NO2)-Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	14.4	Ala-Pro-Ala-Lys-Phe-(NO2)-Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	14.4	Ala-Ser-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	13.8	Leu-Ser-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	6.6	Ser-Ser-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	15.9	Lys-Pro-Ala-Ala-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	14.7	Arg-Ser-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	18.6	Asp-Ser-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1.9	Lys-Pro-Asp-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	3.3	Lys-Pro-Arg-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	3.5	Lys-Leu-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	2.4	Lys-Asp-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	10.4	Lys-Ser-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	6.7	Lys-Ala-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	10.6	Lys-Pro-Leu-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	8.25	Suc-RFFHLLVY-4-methylcoumarin 7-amide	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1.5	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Ala -Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	5.8	Lys-Arg-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	18.5	Suc-APAKFFRL-4-methylcoumarin 7-amide	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	10.9	Ala-Leu-Ser-Ala-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	6.7	Lys-Pro-Ala-Ser-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1.7	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Leu-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1.7	Lys-Pro-Ala-Asp-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	8.4	Lys-Pro-Ala-Leu-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	19.7	Gly-Ala-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1.7	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Arg-Asp	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	4	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	2	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Asp-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.9	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Ser-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	6.7	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Arg-Ala	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	9.4	Lys-Pro-Ala-Arg-Phe-4-(NO2)Phe-Arg-Leu	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	2.7	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Arg-Arg	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	4.7	Lys-Pro-Ala-Lys-Phe-4-(NO2)Phe-Arg-Ser	*pH 4.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	18.1	(7-methoxycoumarin-4-yl)acetyl-APAKFFRLK(2,4-dinitrophenyl)-NH2	*pH 4.5, 30&Acirc;&deg;C

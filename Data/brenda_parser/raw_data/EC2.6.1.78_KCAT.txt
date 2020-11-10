@@ -1,0 +1,1 @@
+ecNumber*2.6.1.78#turnoverNumber*65#turnoverNumberMaximum*#substrate*L-aspartate#commentary*pH 8.0, 30&deg;C#organism*Arabidopsis thaliana#ligandStructureId*97#literature*722267#

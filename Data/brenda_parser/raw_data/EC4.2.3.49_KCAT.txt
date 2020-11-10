@@ -1,0 +1,1 @@
+ecNumber*4.2.3.49#turnoverNumber*0.371#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*at pH 7.5 and 30&Acirc;&deg;C#organism*Tripterygium wilfordii#ligandStructureId*81#literature*749343#

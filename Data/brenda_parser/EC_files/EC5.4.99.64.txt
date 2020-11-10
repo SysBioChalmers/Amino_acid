@@ -1,0 +1,40 @@
+KCAT	Aquincola tertiaricarbonis	0.001	isobutanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme
+KCAT	Aquincola tertiaricarbonis	0.002	(S)-3-hydroxybutanoyl-CoA	*mutant I90A, pH 6.6, 30&deg;C; pH 6.6, 30&deg;C, mutant enzyme I90A (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.003	(R)-3-hydroxybutanoyl-CoA	*wild-type, pH 6.6, 30&deg;C
+KCAT	Aquincola tertiaricarbonis	0.003	(S)-3-hydroxybutanoyl-CoA	*mutant I90L, pH 6.6, 30&deg;C
+KCAT	Aquincola tertiaricarbonis	0.0033	butanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme
+KCAT	Aquincola tertiaricarbonis	0.0033	(R)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme
+KCAT	Aquincola tertiaricarbonis	0.0033	(R)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme
+KCAT	Aquincola tertiaricarbonis	0.0035	(R)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90A (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.0035	(S)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90L (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.004	(R)-3-hydroxybutanoyl-CoA	*mutant I90A, pH 6.6, 30&deg;C
+KCAT	Aquincola tertiaricarbonis	0.0067	2-hydroxy-2-methylpropanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90L (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.007	2-hydroxy-2-methylpropanoyl-CoA	*mutant I90L, pH 6.6, 30&deg;C
+KCAT	Aquincola tertiaricarbonis	0.009	isovaleryl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90A (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.0093	isovaleryl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90V (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.011	isovaleryl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme
+KCAT	Aquincola tertiaricarbonis	0.013	2,2-dimethylpropanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90A (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.016	2,2-dimethylpropanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme
+KCAT	Aquincola tertiaricarbonis	0.017	2,2-dimethylpropanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90V (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.02	2-hydroxy-2-methylpropanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90V
+KCAT	Aquincola tertiaricarbonis	0.02	2-hydroxy-2-methylpropanoyl-CoA	*mutant I90V, pH 6.6, 30&deg;C; pH 6.6, 30&deg;C, mutant enzyme I90V (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.0245	2-hydroxy-2-methylpropanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90A (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.025	2-hydroxy-2-methylpropanoyl-CoA	*mutant I90A, pH 6.6, 30&deg;C
+KCAT	Aquincola tertiaricarbonis	0.0255	(S)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme D117A (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.026	(S)-3-hydroxybutanoyl-CoA	*mutant D117A, pH 6.6, 30&deg;C
+KCAT	Aquincola tertiaricarbonis	0.027	(R)-3-hydroxybutanoyl-CoA	*mutant D117A, pH 6.6, 30&deg;C; pH 6.6, 30&deg;C, mutant enzyme D117A (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.033	(S)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme I90V
+KCAT	Aquincola tertiaricarbonis	0.033	(S)-3-hydroxybutanoyl-CoA	*mutant I90V, pH 6.6, 30&deg;C; pH 6.6, 30&deg;C, mutant enzyme I90V (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.044	2-hydroxy-2-methylpropanoyl-CoA	*mutant D117A, pH 6.6, 30&deg;C; pH 6.6, 30&deg;C, mutant enzyme D117A (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.045	2-hydroxy-2-methylpropanoyl-CoA	*mutant D117V, pH 6.6, 30&deg;C; pH 6.6, 30&deg;C, mutant enzyme D117V (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.05	2-hydroxy-2-methylpropanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme
+KCAT	Aquincola tertiaricarbonis	0.05	2-hydroxy-2-methylpropanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme; wild-type, pH 6.6, 30&deg;C
+KCAT	Aquincola tertiaricarbonis	0.062	(S)-3-hydroxybutanoyl-CoA	*mutant D117V, pH 6.6, 30&deg;C; pH 6.6, 30&deg;C, mutant enzyme D117V (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.14	2,2-dimethylpropanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme D117V (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.17	(R)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, mutant enzyme D117V (mutation in subunit HcmA)
+KCAT	Aquincola tertiaricarbonis	0.173	(R)-3-hydroxybutanoyl-CoA	*mutant D117V, pH 6.6, 30&deg;C
+KCAT	Aquincola tertiaricarbonis	0.2	(S)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme
+KCAT	Aquincola tertiaricarbonis	0.2	(S)-3-hydroxybutanoyl-CoA	*pH 6.6, 30&deg;C, wild-type enzyme; wild-type, pH 6.6, 30&deg;C
+KCAT	Kyrpidia tusciae DSM 2912	1.6	(S)-3-hydroxybutanoyl-CoA	*pH 7.8, 55&deg;C
+KCAT	Kyrpidia tusciae DSM 2912	3.7	2-hydroxyisobutanoyl-CoA	*pH 7.8, 55&deg;C
+KCAT	Kyrpidia tusciae DSM 2912	4.9	(R)-3-hydroxybutanoyl-CoA	*pH 7.8, 55&deg;C

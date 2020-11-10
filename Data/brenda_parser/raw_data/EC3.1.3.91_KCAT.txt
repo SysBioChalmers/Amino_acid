@@ -1,0 +1,1 @@
+ecNumber*3.1.3.91#turnoverNumber*0.24#turnoverNumberMaximum*#substrate*N7-methyl-GMP#commentary*pH 7.5, 37&deg;C#organism*Homo sapiens#ligandStructureId*15363#literature*725530#!ecNumber*3.1.3.91#turnoverNumber*6.3#turnoverNumberMaximum*#substrate*N7-methyl-GMP#commentary*pH 7.5, 25&deg;C#organism*Drosophila melanogaster#ligandStructureId*15363#literature*725530#

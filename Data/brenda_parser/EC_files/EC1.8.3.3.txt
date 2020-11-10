@@ -1,0 +1,12 @@
+KCAT	Aspergillus oryzae	3600000	glutathione	*pH 7.5, 20&Acirc;&deg;C
+KCAT	Homo sapiens	0.83	dithiothreitol	*mutant enzyme C74A/C85A
+KCAT	Homo sapiens	0.867	dithiothreitol	*mutant enzyme C15A
+KCAT	Homo sapiens	0.9	dithiothreitol	*mutant enzyme C124A
+KCAT	Homo sapiens	0.95	dithiothreitol	*mutant enzyme C15A/C124A
+KCAT	Homo sapiens	1.1	dithiothreitol	*wild type enzyme
+KCAT	Homo sapiens	1.25	dithiothreitol	*mutant enzyme C15A/C74A/C85A/C124A
+KCAT	Aspergillus oryzae	309000	dithiothreitol	*pH 7.5, 20&Acirc;&deg;C
+KCAT	Aspergillus oryzae	50	2-mercaptoethanol	*pH 7.5, 20&Acirc;&deg;C
+KCAT	Homo sapiens	4.5	cytochrome c	*wild type enzyme
+KCAT	Aspergillus oryzae	52300	L-Cys	*pH 7.5, 20&Acirc;&deg;C
+KCAT	Aspergillus oryzae	5950	D-Cys	*pH 7.5, 20&Acirc;&deg;C

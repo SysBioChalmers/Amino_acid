@@ -1,0 +1,1 @@
+ecNumber*1.12.98.4#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*liposomal preparation of enzyme : 2000 min-1; liposomal preparation of membrane fraction: 2600 min-1, sulfide oxidation, liposomal preparation of enzyme: 1300 min-1, sulfide oxidation#organism*Wolinella succinogenes#ligandStructureId*#literature*437771#

@@ -1,0 +1,1 @@
+ecNumber*2.6.1.B16#turnoverNumber*0.094#turnoverNumberMaximum*#substrate*(S)-1-phenylethylamine#commentary*pH 8.0, 37&deg;C#organism*Halomonas elongata#ligandStructureId*31993#literature*738883#

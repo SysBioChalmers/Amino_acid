@@ -1,0 +1,1 @@
+ecNumber*3.5.3.9#turnoverNumber*18#turnoverNumberMaximum*#substrate*Allantoate#commentary*at pH 8.0 and 40&deg;C#organism*Phaseolus vulgaris#ligandStructureId*2334#literature*734856#

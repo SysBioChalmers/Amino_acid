@@ -1,0 +1,8 @@
+KCAT	Azotobacter vinelandii	37.2	L-rhamnose	*pH 9.0, 30&Acirc;&deg;C, cosubstrate: NAD+
+KCAT	Azotobacter vinelandii	74.8	L-rhamnose	*pH 9.0, 30&Acirc;&deg;C, cosubstrate: NADP+
+KCAT	Azotobacter vinelandii	4.8	L-fucose	*pH 9.0, 30&Acirc;&deg;C, cosubstrate: NAD+
+KCAT	Azotobacter vinelandii	9.2	L-fucose	*pH 9.0, 30&Acirc;&deg;C, cosubstrate: NADP+
+KCAT	Azotobacter vinelandii	41.3	L-Lyxose	*pH 9.0, 30&Acirc;&deg;C, cosubstrate: NAD+
+KCAT	Azotobacter vinelandii	79.7	L-Lyxose	*pH 9.0, 30&Acirc;&deg;C, cosubstrate: NADP+
+KCAT	Azotobacter vinelandii	9.4	L-Mannose	*pH 9.0, 30&Acirc;&deg;C, cosubstrate: NAD+
+KCAT	Azotobacter vinelandii	17	L-Mannose	*pH 9.0, 30&Acirc;&deg;C, cosubstrate: NADP+

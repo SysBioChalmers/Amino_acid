@@ -1,0 +1,4 @@
+KCAT	Bacillus cereus	10.2	D-ribose 5-phosphate	*in 25 mM Tris-HCl, pH 8.0, and 0.1 mM MnCl2, 0.0005 mM glucose 1,6-bisphosphate,at 23&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	173	2-deoxy-D-ribose 1-phosphate	*90&Acirc;&deg;C
+KCAT	Thermotoga maritima	55.6	alpha-D-ribose 5-phosphate	*at pH 7.5 and 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	185	alpha-D-ribose 5-phosphate	*at pH 7.5 and 90&Acirc;&deg;C

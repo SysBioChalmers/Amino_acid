@@ -1,0 +1,1 @@
+ecNumber*4.4.1.8#turnoverNumber*930#turnoverNumberMaximum*#substrate*L-cysteine#commentary*pH 10.0, 35&deg;C, recombinant His-tagged enzyme#organism*Lactobacillus sakei#ligandStructureId*74#literature*747857#

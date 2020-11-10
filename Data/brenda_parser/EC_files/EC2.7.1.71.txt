@@ -1,0 +1,9 @@
+KCAT	Dickeya chrysanthemi	23	ATP	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme C13S
+KCAT	Dickeya chrysanthemi	35	ATP	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Dickeya chrysanthemi	40	ATP	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme C162S
+KCAT	Mycobacterium tuberculosis	60	ATP	*at pH 7.6 and 25&Acirc;&deg;C
+KCAT	Acinetobacter baumannii	21.4	shikimate	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Dickeya chrysanthemi	23	shikimate	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme C13S
+KCAT	Dickeya chrysanthemi	35	shikimate	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Dickeya chrysanthemi	40	shikimate	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme C162S
+KCAT	Mycobacterium tuberculosis	60	shikimate	*at pH 7.6 and 25&Acirc;&deg;C

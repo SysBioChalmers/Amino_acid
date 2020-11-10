@@ -1,0 +1,32 @@
+KCAT	Mycobacterium tuberculosis	0.0033	GTP	*full-length bifunctional enzyme ribA2, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.005	GTP	*GCHII-domain of enzyme ribA2, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Streptomyces coelicolor	0.028	GTP	*recombinant enzyme
+KCAT	Bacillus subtilis	0.035	GTP	*wild type enzyme, at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.064	GTP	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.065	GTP	*mutant enzyme Y210C/A290T/Q293R/A296T/K322R/M361I, at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.072	GTP	*mutant enzyme Y210C/A290T/Q293R/A296T/K322R/F339Y/M361I, at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.15	GTP	*
+KCAT	Streptomyces coelicolor	0.42	GTP	*M120D variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	1.2	GTP	*variant Y326F, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	1.8	GTP	*M120W variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	3.18	GTP	*M120E variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol; SCO 2687, variant Y123F, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	4.86	GTP	*variant Y326M, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	10.8	GTP	*M120H variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	20.4	GTP	*M120T variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	42	GTP	*M120A variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	46.8	GTP	*variant M120F, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	57	GTP	*M120G variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	66	GTP	*M120C variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	78	GTP	*M120I variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol; SCO 2687, variant D127A, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	84	GTP	*M120S variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol; variant M120Y, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	108	GTP	*M120N variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	120	GTP	*M120Q variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	150	GTP	*wild type, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	168	GTP	*SCO 2687, variant G209D, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	204	GTP	*SCO 2687, wild type, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	228	GTP	*SCO 2687, variant R123M, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	348	GTP	*SCO 2687, variant Y123M, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Streptomyces coelicolor	432	GTP	*wild type, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+KCAT	Bacillus subtilis	0.05	2-amino-5-formylamino-6-ribosylamino-4(3H)-pyrimidinone 5'-triphosphate	*wild type enzyme, at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.09	2-amino-5-formylamino-6-ribosylamino-4(3H)-pyrimidinone 5'-triphosphate	*mutant enzyme Y210C/A290T/Q293R/A296T/K322R/M361I, at pH 8.5 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.1	2-amino-5-formylamino-6-ribosylamino-4(3H)-pyrimidinone 5'-triphosphate	*mutant enzyme Y210C/A290T/Q293R/A296T/K322R/F339Y/M361I, at pH 8.5 and 30&Acirc;&deg;C

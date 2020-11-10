@@ -1,0 +1,14 @@
+KCAT	Pieris rapae	0.43	hydrogen sulfide	*pH 8.5, 31&deg;C
+KCAT	Pieris rapae	0.43	L-cysteine	*pH 8.5, 31&deg;C
+KCAT	Arabidopsis thaliana	1.5	Na2S	*30&deg;C, pH 8.0
+KCAT	Pieris rapae	1.69	L-cysteine	*pH 8.5, 31&deg;C
+KCAT	Arabidopsis thaliana	2	O-acetyl-L-serine	*30&deg;C, pH 8.0
+KCAT	Arabidopsis thaliana	2.17	KCN	*30&deg;C, pH 10.0
+KCAT	Arabidopsis thaliana	2.67	L-cysteine	*30&deg;C, pH 10.0
+KCAT	Arabidopsis thaliana	2.94	KCN	*30&deg;C, pH 10.0
+KCAT	Arabidopsis thaliana	3	L-cysteine	*30&deg;C, pH 10.0
+KCAT	Pieris rapae	7.49	L-cysteine	*pH 8.5, 31&deg;C
+KCAT	Pieris rapae	10.25	hydrogen sulfide	*pH 8.5, 31&deg;C
+KCAT	Glycine max	38.9	L-cysteine	*recombinant enzyme, pH 9.0, 25&deg;C
+KCAT	Glycine max	39.2	hydrogen cyanide	*recombinant enzyme, pH 9.0, 25&deg;C
+KCAT	Tetranychus urticae	2135	L-cysteine	*pH 8.5, 37&deg;C, recombinant His-tagged enzyme

@@ -1,0 +1,64 @@
+KCAT	Bacillus sp. (in: Bacteria)	1.11	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*at 60&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.066	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Paraburkholderia xenovorans	0.27	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*S112C mutant at 25&Acirc;&deg;C
+KCAT	Paraburkholderia xenovorans	0.98	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*wild-type at 3.2&Acirc;&deg;C
+KCAT	Paraburkholderia xenovorans	2	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*pH 7.5, 25&Acirc;&deg;C, recombinant wild-type BphD, with 12940 mM methanol
+KCAT	Paraburkholderia xenovorans	6.5	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*wild-type at 25&Acirc;&deg;C
+KCAT	Paraburkholderia xenovorans	6.5	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*pH 7.5, 25&Acirc;&deg;C, recombinant wild-type BphD, without methanol
+KCAT	Paraburkholderia xenovorans	26	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*pH 7.5, 25&Acirc;&deg;C, recombinant wild-type BphD, with 494 mM methanol
+KCAT	Paraburkholderia xenovorans	0.0009	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	*mutant S112A
+KCAT	Paraburkholderia xenovorans	0.0016	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	*mutant H265A
+KCAT	Paraburkholderia xenovorans	0.028	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	*mutant D237N
+KCAT	Escherichia coli	0.036	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	*mutant H114A
+KCAT	Paraburkholderia xenovorans	6.5	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	*His6-BphD
+KCAT	Burkholderia cepacia	0.0089	(2Z,4E)-3-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*
+KCAT	Rhodococcus globerulus	0.0172	(2Z,4E)-3-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*
+KCAT	Burkholderia cepacia	0.00059	(2E,4Z)-4-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*
+KCAT	Burkholderia cepacia	0.0055	(2E,4Z)-2,4-dihydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*
+KCAT	Rhodococcus globerulus	1.03	(2E,4Z)-5-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*
+KCAT	Burkholderia cepacia	1.53	(2E,4Z)-5-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*
+KCAT	Mycobacterium tuberculosis	0.33	8-(2-chlorophenyl)-2-hydroxy-5-methyl-6-oxoocta-2,4-dienoic acid	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Burkholderia cepacia	4.18	(2E,4E)-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*not chlorinated
+KCAT	Rhodococcus globerulus	7.6	(2E,4E)-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*not chlorinated
+KCAT	Rhodococcus globerulus	1.74	(2E,4E)-6-(2-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	*
+KCAT	Burkholderia cepacia	2.1	(2E,4E)-6-(2-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	*
+KCAT	Burkholderia cepacia	3.9	(2E,4E)-6-(3-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	*
+KCAT	Rhodococcus globerulus	15.3	(2E,4E)-6-(3-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	*
+KCAT	Burkholderia cepacia	3.13	(2E,4E)-2-hydroxy-6-(4-chlorophenyl)-6-oxohexa-2,4-dienoic acid	*
+KCAT	Rhodococcus globerulus	33.7	(2E,4E)-2-hydroxy-6-(4-chlorophenyl)-6-oxohexa-2,4-dienoic acid	*
+KCAT	Rhodococcus globerulus	11.2	(2E,4E)-6-(3,5-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	*
+KCAT	Rhodococcus globerulus	29	(2E,4E)-6-(3,4-dichlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	*
+KCAT	Pseudomonas sp.	1300	2-hydroxy-6-oxo-6-(2-aminophenyl)hexa-2,4-dienoic acid	*
+KCAT	Paraburkholderia xenovorans	6.3	4-nitrophenyl benzoate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Dyella ginsengisoli	0.13	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148P
+KCAT	Dyella ginsengisoli	0.86	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148R
+KCAT	Dyella ginsengisoli	1.5	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148S; pH 7.0, 25&Acirc;&deg;C, mutant M148Y
+KCAT	Dyella ginsengisoli	2.4	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148K
+KCAT	Dyella ginsengisoli	2.5	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148C
+KCAT	Dyella ginsengisoli	2.6	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148H
+KCAT	Dyella ginsengisoli	3.1	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148L
+KCAT	Dyella ginsengisoli	4.1	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148E
+KCAT	Dyella ginsengisoli	4.5	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148D
+KCAT	Dyella ginsengisoli	4.8	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148V
+KCAT	Dyella ginsengisoli	5.7	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148W
+KCAT	Dyella ginsengisoli	6.5	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148T
+KCAT	Dyella ginsengisoli	6.7	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148N
+KCAT	Dyella ginsengisoli	8	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148F
+KCAT	Dyella ginsengisoli	8.4	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148Q
+KCAT	Dyella ginsengisoli	9.4	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148G
+KCAT	Dyella ginsengisoli	9.5	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148I
+KCAT	Dyella ginsengisoli	9.6	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Dyella ginsengisoli	9.9	2,6-dioxo-6-phenylhexa-3-enoate	*pH 7.0, 25&Acirc;&deg;C, mutant M148A
+KCAT	Pseudomonas sp.	-999	more	*values between 0.88 and 5.85 s-1 for processing of the 6-acryl-2-hydroxy-6-ketohexa-2,4-dienoic acid substrates
+KCAT	Paraburkholderia xenovorans	-999	more	*in the steady-state hydrolysis of HOPDA, kcat/Km values are independent of methanol concentration, while both kcat and Km values increase with methanol concentration, stopped-flow spectrophotometry and steady-state kinetics, overview
+KCAT	Paraburkholderia xenovorans	0.009	meta-ring fission intermediate	*R188K
+KCAT	Paraburkholderia xenovorans	0.016	meta-ring fission intermediate	*R188Q
+KCAT	Escherichia coli	0.08	meta-ring fission intermediate	*N109H
+KCAT	Escherichia coli	0.1	meta-ring fission intermediate	*R188Q
+KCAT	Escherichia coli	0.13	meta-ring fission intermediate	*N109A
+KCAT	Escherichia coli	0.26	meta-ring fission intermediate	*F173D
+KCAT	Escherichia coli	0.74	meta-ring fission intermediate	*R188K
+KCAT	Escherichia coli	2	meta-ring fission intermediate	*wild-type
+KCAT	Paraburkholderia xenovorans	6.5	meta-ring fission intermediate	*wild-type
+KCAT	Escherichia coli	7.5	meta-ring fission intermediate	*F173G
+KCAT	Escherichia coli	12	meta-ring fission intermediate	*C261A

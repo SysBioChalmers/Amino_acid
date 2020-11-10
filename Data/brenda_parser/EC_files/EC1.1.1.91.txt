@@ -1,0 +1,34 @@
+KCAT	Ralstonia sp.	0.00003	NADP+	*mutant N15G/G37D/R38V/R39S, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.0025	NADP+	*mutant G37D, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.0047	(R)-1-phenylethanol	*wild-type, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.0115	(S)-1-phenylethanol	*wild-type, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.022	NAD+	*wild-type, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.023	(S)-1-phenylethanol	*mutant N15G/G37D/R38V/R39S/A86N/S88A, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.03	NAD+	*mutant N15G/G37D/R38V/R39S/A86N/S88A, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.038	NAD+	*mutant G37D, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.042	(S)-1-phenylethanol	*mutant N15G/G37D/R38V/R39S, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.08	NAD+	*mutant N15G/G37D/R38V/R39S, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	0.783	(S)-1-phenylethanol	*mutant G37D, pH 8.3, 30&deg;C
+KCAT	Ralstonia sp.	1.65	NADP+	*wild-type, pH 8.3, 30&deg;C
+KCAT	Phanerochaete chrysosporium	2	NADH	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	2.55	3,4-dimethoxybenzyl alcohol	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	2.56	NADP+	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	2.93	5-(hydroxymethyl)-2-furaldehyde	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	3.33	4-Hydroxy-3-methoxy-benzaldehyde	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	3.83	3-hydroxy-4-methoxy-benzaldehyde	*pH 6.1, 30&deg;C
+KCAT	Cupriavidus necator	4.3	(S)-2-octanol	*isoform SDR B3, at pH 10.0 and 40&deg;C
+KCAT	Phanerochaete chrysosporium	4.33	4-hydroxy-3-methoxy-benzyl alcohol	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	7.16	benzaldehyde	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	8.16	4-methoxybenzaldehyde	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	8.833	3,4-dimethoxybenzaldehyde	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	9.83	3,5-dimethoxybenzaldehyde	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	11.16	phenylacetaldehyde	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	11.16	trans-cinnamaldehyde	*pH 6.1, 30&deg;C
+KCAT	Phanerochaete chrysosporium	11.33	NADPH	*pH 6.1, 30&deg;C
+KCAT	Cupriavidus necator	13.7	(S)-2-octanol	*isoform SDR A5, at pH 10.0 and 40&deg;C
+KCAT	Yokenella sp. WZY002	93.3	benzyl alcohol	*at pH 6.5 and 65&deg;C
+KCAT	Yokenella sp. WZY002	101	crotonyl alcohol	*at pH 8.0 and 55&deg;C
+KCAT	Yokenella sp. WZY002	194	NADP+	*with crotyl alcohol as cosubstrate, at pH 8.0 and 55&deg;C
+KCAT	Yokenella sp. WZY002	360	benzaldehyde	*at pH 6.5 and 65&deg;C
+KCAT	Yokenella sp. WZY002	405	crotonaldehyde	*at pH 8.0 and 55&deg;C
+KCAT	Yokenella sp. WZY002	433	NADP+	*with crotonaldehyde as cosubstrate, at pH 8.0 and 55&deg;C

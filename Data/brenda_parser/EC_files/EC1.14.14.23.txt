@@ -1,0 +1,13 @@
+KCAT	Homo sapiens	0.008	cholesterol	*pH 7.2, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.023	cholesterol	*pH 7.2, 37&Acirc;&deg;C, T104L mutant enzyme
+KCAT	Rattus norvegicus	0.0417	cholesterol	*isoenzyme I
+KCAT	Rattus norvegicus	0.0778	cholesterol	*isoenzyme II
+KCAT	Rattus norvegicus	0.833	cholesterol	*
+KCAT	Homo sapiens	0.015	25-hydroxycholesterol	*pH 7.2, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.04	7-dehydrocholesterol	*pH 7.4, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.003	cholest-4-en-3-one	*pH 7.2, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.117	cholest-4-en-3-one	*pH 7.2, 37&Acirc;&deg;C, T104L mutant enzyme
+KCAT	Homo sapiens	0.0685	27-Hydroxycholesterol	*pH 7.2, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.117	27-Hydroxycholesterol	*pH 7.2, 37&Acirc;&deg;C, T104L mutant enzyme
+KCAT	Homo sapiens	0.06	lathosterol	*7-oxocholestanol formation, pH 7.4, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.12	lathosterol	*epoxide formation, pH 7.4, 30&Acirc;&deg;C

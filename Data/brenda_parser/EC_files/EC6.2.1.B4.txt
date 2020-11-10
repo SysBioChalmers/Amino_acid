@@ -1,0 +1,2 @@
+KCAT	Bradyrhizobium japonicum	0.093	[acyl-carrier protein Blr6284]	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Bradyrhizobium japonicum	0.11	[acyl-carrier protein Bsr0959]	*pH 7.5, 30&Acirc;&deg;C

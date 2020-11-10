@@ -1,0 +1,184 @@
+KCAT	Homo sapiens	0.026	D-Ile-Pro-Arg-p-nitroanilide	*value for tctPA, in the presence of stimulater Fibrin C (with cleaved C-terminal lysines)
+KCAT	Homo sapiens	0.027	D-Ile-Pro-Arg-p-nitroanilide	*value for tctPA, in the presence of stimulater Fibrin normal
+KCAT	Homo sapiens	0.028	D-Ile-Pro-Arg-p-nitroanilide	*value for tctPA, in the presence of stimulater Fibrin P (treated with plasmin-Sepharose)
+KCAT	Homo sapiens	0.0341	D-Ile-Pro-Arg-p-nitroanilide	*value for sctPA, in the presence of stimulater Fibrin C (with cleaved C-terminal lysines)
+KCAT	Homo sapiens	0.086	D-Ile-Pro-Arg-p-nitroanilide	*value for sctPA, in the presence of stimulater Fibrin P (treated with plasmin-Sepharose)
+KCAT	Homo sapiens	0.087	D-Ile-Pro-Arg-p-nitroanilide	*value for sctPA, in the presence of stimulater Fibrin normal
+KCAT	Homo sapiens	7.3	D-Ile-Pro-Arg-p-nitroanilide	*value for sctPA
+KCAT	Homo sapiens	10.7	D-Ile-Pro-Arg-p-nitroanilide	*value for tctPA
+KCAT	Homo sapiens	2	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant F423E/R275E, single chain form
+KCAT	Homo sapiens	3	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant S421G, two-chain form
+KCAT	Homo sapiens	14	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant P422G/R275E, single chain form
+KCAT	Homo sapiens	23	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant S421G/R275E, single chain form
+KCAT	Homo sapiens	26	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant S421E/R275E, single chain form
+KCAT	Homo sapiens	27	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant F423A/R275E, single chain form
+KCAT	Homo sapiens	29	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant L420E/R275E, single chain form
+KCAT	Homo sapiens	31	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant P422E/R275E, single chain form
+KCAT	Homo sapiens	32	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant P422A/R275E, single chain form
+KCAT	Homo sapiens	33	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant R275E, single chain form
+KCAT	Homo sapiens	42	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant L420A/R275E, single chain form
+KCAT	Homo sapiens	45	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant L420A, L420E, two-chain form
+KCAT	Homo sapiens	46	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant S421E, two-chain form
+KCAT	Homo sapiens	47	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, wild-type t-PA, mutant P422A, two-chain form
+KCAT	Homo sapiens	49	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant L420A/R275E, two-chain form
+KCAT	Homo sapiens	57	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant F423E, two-chain form
+KCAT	Homo sapiens	60	spectrozyme tPA	*pH 7.2, 37&Acirc;&deg;C, mutant P422E, F423A, two-chain form
+KCAT	Homo sapiens	0.11	Boc-(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.44	Boc-(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	1.03	Boc-(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	4	Boc-(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	6.08	Boc-(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.036	Boc-D-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.082	Boc-D-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	Boc-D-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.34	Boc-D-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	5	Boc-D-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.059	D-VPRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.16	D-VPRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.7	D-VPRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.71	D-VPRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.7	D-VPRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.099	(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.37	(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	1.47	(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.7	(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	6.08	(p-F)-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.022	Boc-D-LSRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.097	Boc-D-LSRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.53	Boc-D-LSRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	4.4	Boc-D-LSRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	6.08	Boc-D-LSRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.038	Boc-D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.2	Boc-D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.54	Boc-D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	5.3	Boc-D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	6.08	Boc-D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.061	D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.17	D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.31	D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.8	D-LPRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.012	Boc-D-LGRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.04	Boc-D-LGRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.097	Boc-D-LGRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.3	Boc-D-LGRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.019	Boc-D-FVRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.044	Boc-D-FVRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.15	Boc-D-FVRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.49	Boc-D-FVRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.01	Boc-D-FLRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.021	Boc-D-FLRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.047	Boc-D-FLRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.1	Boc-D-FLRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	4.7	Boc-D-FLRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.09	D-FPRANSN-C2H5-C2H5	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.14	D-FPRANSN-C2H5-C2H5	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	1.6	D-FPRANSN-C2H5-C2H5	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.019	D-LSRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.1	D-LSRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	5.3	D-LSRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.065	Boc-D-VPRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.25	Boc-D-VPRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C; pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	3.8	Boc-D-VPRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.29	D-FPRANSNH-i-C3H7	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.69	D-FPRANSNH-i-C3H7	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	6.08	D-FPRANSNH-i-C3H7	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.13	D-FPRANSN-(CH2)6	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.22	D-FPRANSN-(CH2)6	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	1.7	D-FPRANSN-(CH2)6	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.54	D-FPRANSNH-C6H5CH2	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	1.2	D-FPRANSNH-C6H5CH2	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	6.08	D-FPRANSNH-C6H5CH2	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.011	D-FVRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	2.3	D-FVRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.021	D-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.19	D-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	9	D-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.27	D-FPRANSNH-C2H4OCH3	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.66	D-FPRANSNH-C2H4OCH3	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	2.4	D-FPRANSNH-C2H4OCH3	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	6.08	D-FPRANSNH-C2H4OCH3	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.33	D-FPRANSNH-n-C4H9	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	1.4	D-FPRANSNH-n-C4H9	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.32	D-FPRANSNH-c-C6H11	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	2.1	D-FPRANSNH-c-C6H11	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.0084	D-LGRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.057	D-LGRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	32	D-FPRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.083	D-FPRANSNH-CH2COOCH3	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.15	D-FPRANSNH-CH2COOCH3	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	1.8	D-FPRANSNH-CH2COOCH3	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.017	Boc-D-FPRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.15	Boc-D-FPRANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.04	L-FPRANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.3	D-FPR-ANSNH-n-C6H13	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	3.6	D-FPR-ANSNH-n-C6H13	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.018	D-FLRANSNH-C3H7	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	1.1	D-FPRANSNH-n-C6H13	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.084	Boc-L-VGRANSNHC4H9	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.25	D-FPRANSN-H-t-C4H9	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.94	D-FPRANSN-H-t-C4H9	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	6.08	D-FPRANSN-H-t-C4H9	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.009	Lys-Lys-Cys-Pro-Gly-Arg-Val-Val-Gly-Gly-Cys-Val-Ala-His	*
+KCAT	Homo sapiens	0.0012	Lys-Lys-Ser-Pro-Gly-Arg-Val-Val-Gly-Gly-Ser-Val-Ala-His	*
+KCAT	Homo sapiens	0.08	L-VGRANSNH-C4H9	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.034	D-LGR-ANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	4	D-LGR-ANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	0.51	D-FPR-ANSNHC6H11	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	6.08	D-FPR-ANSNHC6H11	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.016	D-FPR-ANSNH-C6H11	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.025	D-FVR-ANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	89	D-LSRANSNHC3H7	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.15	D-FPRANSN-H-c-C6H11	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.2	D-FPRANSN-H-i-C3H7	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	0.45	D-FPR-ANSNH-C6H5CH2	*pH 7.4, 25&Acirc;&deg;C, sc-tPA
+KCAT	Homo sapiens	0.47	D-FPR-ANSNH-n-C4H9	*pH 7.4, 25&Acirc;&deg;C, tc-tPA
+KCAT	Homo sapiens	3.8	D-FPR-ANSNH-t-C4H9	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	7.9	Boc-D-FVR-ANSNH-C2H5	*pH 7.4, 25&Acirc;&deg;C, ratio tc/sc
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	0.0005	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant P422E/R275E, single-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.0008	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant P422G/R275E, single-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.001	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant S421G/R275E, single-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.0015	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant P422E, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.002	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant L420E/R275E and S421E/R275E, single-chain form, absence of soluble fibrin
+KCAT	Bos taurus	0.0025	plasminogen	*pH 7.4, 37&Acirc;&deg;C, absence of fibrinogen
+KCAT	Homo sapiens	0.0028	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant P422G, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.003	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant F423E/R275E, single-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.004	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant F423A/R275E, single-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.0041	[SNase]-PFGRSA	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.005	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant L420E, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.006	[SNase]-PQRGRSAG	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.007	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant P422A/R275E, single-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.0075	[SNase]-PGPFGRSAG	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.008	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant L420A/R275E, single-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.01	[SNase]-PGPFGRSAGG	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.011	[SNase]-PPFGRSAG	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.012	[SNase]-PHYGRSGG	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.014	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant L420A, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.016	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant S421E, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.017	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant F423E, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.018	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant S421G, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.018	[SNase]-PFGRSAG	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.02	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant F423A, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.024	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant R275E, single-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.028	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant P422A, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.06	plasminogen	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.068	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, wild-type, two-chain form, absence of soluble fibrin
+KCAT	Homo sapiens	0.1	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, wild-type, two-chain form, presence of soluble fibrin
+KCAT	Homo sapiens	0.11	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant S421G and P422A, two-chain form, presence of soluble fibrin
+KCAT	Homo sapiens	0.1149	plasminogen	*in the presence of bovine serum albumin
+KCAT	Homo sapiens	0.12	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, two-chain form of mutant F423A, presence of soluble fibrin
+KCAT	Homo sapiens	0.13	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant R275E, single-chain form, presence of soluble fibrin
+KCAT	Homo sapiens	0.15	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, two-chain form of mutant S421E, P422E and P422G, single chain form of mutant L420E/R275E, P422A/R275E and F423E/R275E, presence of soluble fibrin
+KCAT	Homo sapiens	0.17	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, two-chain form of mutant L420E and L420A, single chain form of mutant P422E/R275E, presence of soluble fibrin
+KCAT	Homo sapiens	0.18	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, two-chain form of mutant F423E, single-chain form of mutant L420A/R275E, presence of soluble fibrin
+KCAT	Homo sapiens	0.19	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant S421G/R275E, single-chain form, presence of soluble fibrin
+KCAT	Homo sapiens	0.2	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant F423A/R275E, single-chain form, presence of soluble fibrin
+KCAT	Homo sapiens	0.2	plasminogen	*without fibrin and activated with fibrin
+KCAT	Homo sapiens	0.21	acetyl-GTGR-4-nitroanilide	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.21	Lys-plasminogen	*pH 7.2, 37&Acirc;&deg;C, mutant P422G/R275E and S421E/R275E, single-chain form, presence of soluble fibrin
+KCAT	Homo sapiens	0.231	plasminogen	*in the presence of beta2-glycoprotein I
+KCAT	Homo sapiens	0.24	acetyl-FTAR-4-nitroanilide	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.36	acetyl-GTAR-4-nitroanilide	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.46	acetyl-QYAR-4-nitroanilide	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.4718	plasminogen	*in the presence of beta2-glycoprotein I domain V
+KCAT	Homo sapiens	0.86	acetyl-FYAR-4-nitroanilide	*pH and temperature not specified in the publication

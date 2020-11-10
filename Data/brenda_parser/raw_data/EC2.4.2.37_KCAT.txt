@@ -1,0 +1,1 @@
+ecNumber*2.4.2.37#turnoverNumber*0.501#turnoverNumberMaximum*#substrate*NAD+#commentary*pH 7.5, 30&deg;C, Fe protein as the acceptor of ADP-ribose, in the presence of MgADP-#organism*Azospirillum brasilense#ligandStructureId*7#literature*722556#

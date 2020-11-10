@@ -1,0 +1,3 @@
+KCAT	Methanocaldococcus jannaschii	0.42	S-Inosyl-L-homocysteine	*pH 7.0, 70&deg;C
+KCAT	Methanocaldococcus jannaschii	0.83	Inosine	*pH 7.0, 70&deg;C
+KCAT	Methanocaldococcus jannaschii	0.83	L-homocysteine	*pH 7.0, 70&deg;C

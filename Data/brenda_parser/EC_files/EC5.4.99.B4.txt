@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	0.033	50S ribosomal subunit	*His-tagged enzyme, in 50 mM Tris/HCl at pH 8.0, 100 mM NH4Cl, 10 mM MgCl2, and 1 mM dithiothreitol, at 37&deg;C

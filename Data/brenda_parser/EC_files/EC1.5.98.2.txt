@@ -1,0 +1,2 @@
+KCAT	Methanopyrus kandleri	275	reduced coenzyme F420	*65&Acirc;&deg;C, pH 6.8
+KCAT	Methanopyrus kandleri	275	N5,N10-methylenetetrahydromethanopterin	*65&Acirc;&deg;C, pH 6.8

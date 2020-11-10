@@ -1,0 +1,11 @@
+KCAT	Withania somnifera	0.0087	UDP-glucose	*for the cytosolic enzyme
+KCAT	Kluyveromyces lactis	475	cholesterol	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Ogataea angusta	650.6	cholesterol	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Withania somnifera	0.0072	dehydroepiandrosterone	*for the cytosolic enzyme
+KCAT	Ogataea angusta	351.9	testosterone	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Withania somnifera	0.0047	pregnenolone	*for the cytosolic enzyme
+KCAT	Withania somnifera	0.0088	stigmasterol	*for the cytosolic enzyme
+KCAT	Withania somnifera	0.0037	beta-sitosterol	*for the cytosolic enzyme
+KCAT	Withania somnifera	0.0023	diosgenin	*for the cytosolic enzyme
+KCAT	Withania somnifera	0.0093	3-beta-hydroxy-pregna-5,16-dien-20-one	*for the cytosolic enzyme
+KCAT	Withania somnifera	0.38	24-methylene cholesterol	*for the cytosolic enzyme

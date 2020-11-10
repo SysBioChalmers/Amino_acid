@@ -1,0 +1,107 @@
+KCAT	Mesocricetus auratus	1.19	angiotensin II	*
+KCAT	Homo sapiens	65	angiotensin I	*
+KCAT	Homo sapiens	140	angiotensin I	*glycosylated enzyme
+KCAT	Homo sapiens	143	angiotensin I	*deglycosylated enzyme
+KCAT	Mesocricetus auratus	149	angiotensin I	*
+KCAT	Mus musculus	1.25	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*enzyme form 1E
+KCAT	Mus musculus	1.66	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*enzyme form 1B
+KCAT	Mus musculus	2.33	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*enzyme form 1A
+KCAT	Mus musculus	2.54	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*enzyme form 1D
+KCAT	Mus musculus	2.84	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*enzyme form 1C
+KCAT	Homo sapiens	65	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	24.7	Big endothelin-1	*untreated enzyme
+KCAT	Homo sapiens	25.6	Big endothelin-1	*deglycosylated enzyme
+KCAT	Homo sapiens	7.5	succinyl-Phe-Leu-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	17	succinyl-Phe-Leu-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	19	succinyl-Phe-Leu-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	25	succinyl-Met-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Canis lupus familiaris	30	succinyl-Met-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	53	succinyl-Met-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	24	succinyl-Phe-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Canis lupus familiaris	33	succinyl-Phe-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	56	succinyl-Phe-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	5.4	succinyl-Phe-Ser-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	6.2	succinyl-Phe-Ser-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	57	succinyl-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	75	succinyl-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	75	succinyl-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	38	succinyl-Ala-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	51	succinyl-Ala-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	17	succinyl-Phe-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	24	succinyl-Phe-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	28	succinyl-Phe-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	38	succinyl-Thr-Pro-Phe-4-nitroanilide	*
+KCAT	Canis lupus familiaris	65	succinyl-Thr-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	120	succinyl-Thr-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	13	succinyl-Val-Pro-Leu-4-nitroanilide	*
+KCAT	Homo sapiens	21	succinyl-Val-Pro-Leu-4-nitroanilide	*
+KCAT	Homo sapiens	21	succinyl-Val-Pro-Leu-4-nitroanilide	*
+KCAT	Homo sapiens	1.2	succinyl-Val-Pro-Met-4-nitroanilide	*
+KCAT	Rattus norvegicus	5	succinyl-Val-Pro-Met-4-nitroanilide	*
+KCAT	Homo sapiens	8.7	succinyl-Val-Pro-Met-4-nitroanilide	*
+KCAT	Homo sapiens	8.7	succinyl-Val-Pro-Met-4-nitroanilide	*
+KCAT	Cavia porcellus	0.028	Ala-Ala-Pro-Phe-4-nitroanilide	*wild type enzyme
+KCAT	Cavia porcellus	16	Ala-Ala-Pro-Phe-4-nitroanilide	*mutant enzyme A216G
+KCAT	Homo sapiens	143	Ala-Ala-Pro-Phe-4-nitroanilide	*wild type enzyme
+KCAT	Cavia porcellus	0.93	Ala-Ala-Pro-Leu-4-nitroanilide	*wild type enzyme
+KCAT	Cavia porcellus	3.9	Ala-Ala-Pro-Leu-4-nitroanilide	*mutant enzyme A216G
+KCAT	Homo sapiens	19.3	Ala-Ala-Pro-Leu-4-nitroanilide	*wild type enzyme
+KCAT	Cavia porcellus	0.098	Ala-Ala-Pro-Met-4-nitroanilide	*wild type enzyme
+KCAT	Cavia porcellus	13	Ala-Ala-Pro-Met-4-nitroanilide	*mutant enzyme A216G
+KCAT	Homo sapiens	23	Ala-Ala-Pro-Met-4-nitroanilide	*wild type enzyme
+KCAT	Homo sapiens	6.7	succinyl-Ala-Ala-Pro-Leu-4-nitroanilide	*
+KCAT	Rattus norvegicus	86	succinyl-epsilon-(2-picolinyl)Lys-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	480	succinyl-epsilon-(2-picolinyl)Lys-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	56	succinyl-Gln-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	86	succinyl-Gln-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	9.2	succinyl-Glu-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	61	succinyl-Glu-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	53	succinyl-Glu-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	68	succinyl-Glu-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	37	succinyl-Leu-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	77	succinyl-Leu-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	19	succinyl-Leu-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	79	succinyl-Leu-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	14	succinyl-Lys-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	32	succinyl-Lys-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	58	succinyl-Lys-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	66	succinyl-Lys-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	25	succinyl-Met-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	100	succinyl-Met-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	7.1	succinyl-Phe-Ala-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	10	succinyl-Phe-Ala-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	3.9	succinyl-Phe-Gln-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	25	succinyl-Phe-Gln-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	0.9	succinyl-Phe-Glu-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	8.4	succinyl-Phe-Glu-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	5.9	succinyl-Phe-Met-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	8.2	succinyl-Phe-Met-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	9.3	succinyl-Phe-Thr-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	10	succinyl-Phe-Thr-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	4	succinyl-Phe-Val-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	15	succinyl-Phe-Val-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	20	succinyl-Ser-Pro-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	38	succinyl-Ser-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	130	succinyl-Val-Pro-Pro-Phe-SCH2C6H5	*
+KCAT	Homo sapiens	400	succinyl-Val-Pro-Pro-Phe-SCH2C6H5	*
+KCAT	Rattus norvegicus	5.6	succinyl-Val-Pro-Trp-4-nitroanilide	*
+KCAT	Rattus norvegicus	8.4	succinyl-Val-Pro-Trp-4-nitroanilide	*
+KCAT	Rattus norvegicus	5.5	succinyl-Val-Pro-Tyr-4-nitroanilide	*
+KCAT	Homo sapiens	19	succinyl-Val-Pro-Tyr-4-nitroanilide	*
+KCAT	Homo sapiens	46	DRVYIHPLHL	*
+KCAT	Homo sapiens	2.5	succinyl-Ala-Ala-Pro-Met-4-nitroanilide	*
+KCAT	Rattus norvegicus	11	succinyl-Phe-Pro-Thr-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	19	succinyl-Phe-Pro-Thr-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	2.5	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	*in the presence of heparin, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.6	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	*in the absence of heparin, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	160	DRVWIHPFHL	*
+KCAT	Homo sapiens	210	DRVWIHPWHL	*
+KCAT	Rattus norvegicus	13	H2N(CH2)5CO-Ala-Ala-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	10	methoxysuccinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	17	succinyl-Ala-Val-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	4.7	succinyl-epsilon-(2-picolinyl)Lys-Pro-Phe-4-nitroanilide	*
+KCAT	Rattus norvegicus	23	succinyl-Phe-epsilon-(2-picolinyl)Lys-4-nitroanilide	*
+KCAT	Rattus norvegicus	18	succinyl-Phe-Lys-Phe-4-nitroanilide	*
+KCAT	Homo sapiens	17.5	(25R)-3beta-hydroxycholest-5-en-27-oate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Homo sapiens	12.6	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-thiobenzyl ester	*in the absence of heparin, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	17.8	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-thiobenzyl ester	*in the presence of heparin, at pH 7.4 and 37&Acirc;&deg;C

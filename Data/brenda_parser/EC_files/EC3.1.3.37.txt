@@ -1,0 +1,5 @@
+KCAT	Spinacia oleracea	0.42	fructose 1,6-diphosphate	*oxidized enzyme
+KCAT	Spinacia oleracea	21	fructose 1,6-diphosphate	*reduced enzyme
+KCAT	Spinacia oleracea	0.84	sedoheptulose 1,7-diphosphate	*oxidized enzyme
+KCAT	Spinacia oleracea	81	sedoheptulose 1,7-diphosphate	*reduced enzyme
+KCAT	Synechocystis sp.	4.2	sedoheptulose 1,7-bisphosphate	*in 50 mM Tris/HCl, pH 8.0, 15 mM MgCl2, 10 mM dithiothreitol, at 289&Acirc;&deg;C

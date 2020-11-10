@@ -1,0 +1,1 @@
+ecNumber*2.4.1.185#turnoverNumber*0.89#turnoverNumberMaximum*#substrate*naringenin#commentary*at pH 7.2 and 30&Acirc;&deg;C#organism*Lycium barbarum#ligandStructureId*586#literature*705189#

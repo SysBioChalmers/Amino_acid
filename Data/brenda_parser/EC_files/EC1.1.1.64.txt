@@ -1,0 +1,1 @@
+KCAT	Homo sapiens	0.148	4-oxo-2-nonenal	*pH 7.4, 25&Acirc;&deg;C

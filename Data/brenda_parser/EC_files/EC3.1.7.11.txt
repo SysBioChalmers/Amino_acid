@@ -1,0 +1,3 @@
+KCAT	Ocimum basilicum	0.6	geranyl diphosphate	*pH 8.5, 37&deg;C, Ser35 truncated mutant
+KCAT	Ocimum basilicum	0.8	geranyl diphosphate	*pH 8.5, 37&deg;C, wild-type enzyme
+KCAT	Ocimum basilicum	1	geranyl diphosphate	*pH 8.5, 37&deg;C, Met44-truncated mutant

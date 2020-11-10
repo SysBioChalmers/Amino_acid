@@ -1,0 +1,1 @@
+ecNumber*2.1.1.80#turnoverNumber*0.167#turnoverNumberMaximum*#substrate*protein L-glutamate#commentary*#organism*Salmonella enterica subsp. enterica serovar Typhimurium#ligandStructureId*16250#literature*485636#

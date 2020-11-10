@@ -1,0 +1,6 @@
+KCAT	Saccharomyces cerevisiae	8.92	CTP	*pH 6.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	8.92	phosphatidate	*pH 6.5, 30&Acirc;&deg;C
+KCAT	Homo sapiens	2.9	1-stearoyl-2-arachidonoyl-sn-phosphatidic acid	*pH 8.0, 22&Acirc;&deg;C; pH 8.0, 22&Acirc;&deg;C, recombinant CDS1
+KCAT	Homo sapiens	2.9	1-stearoyl-2-linoleoyl-sn-phosphatidic acid	*pH 8.0, 22&Acirc;&deg;C; pH 8.0, 22&Acirc;&deg;C, recombinant CDS2
+KCAT	Homo sapiens	3.2	1-stearoyl-2-linoleoyl-sn-phosphatidic acid	*pH 8.0, 22&Acirc;&deg;C; pH 8.0, 22&Acirc;&deg;C, recombinant CDS1
+KCAT	Homo sapiens	8	1-stearoyl-2-arachidonoyl-sn-phosphatidic acid	*pH 8.0, 22&Acirc;&deg;C; pH 8.0, 22&Acirc;&deg;C, recombinant CDS2

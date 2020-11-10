@@ -1,0 +1,8 @@
+KCAT	Homo sapiens	0.002	carnosine	*pH 7.5, 30&deg;C
+KCAT	Gallus gallus	0.003	carnosine	*pH 7.5, 30&deg;C
+KCAT	Rattus norvegicus	0.003	carnosine	*pH 7.5, 30&deg;C
+KCAT	Gallus gallus	0.008	carnosine	*pH 7.5, 37&deg;C
+KCAT	Gallus gallus	0.011	S-adenosyl-L-methionine	*pH 7.5, 37&deg;C
+KCAT	Gallus gallus	0.042	S-adenosyl-L-methionine	*pH 7.5, 30&deg;C
+KCAT	Homo sapiens	0.06	S-adenosyl-L-methionine	*pH 7.5, 30&deg;C
+KCAT	Rattus norvegicus	0.078	S-adenosyl-L-methionine	*pH 7.5, 30&deg;C

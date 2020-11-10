@@ -1,0 +1,12 @@
+KCAT	Pseudomonas pseudoalcaligenes	0.0497	ethylbenzene	*Pseudomonas pseudoalcaligenes strain KF707
+KCAT	Pseudomonas pseudoalcaligenes	0.056	Benzene	*Pseudomonas pseudoalcaligenes strain 1072
+KCAT	Pseudomonas pseudoalcaligenes	0.113	biphenyl	*Pseudomonas pseudoalcaligenes strain KF707
+KCAT	Pseudomonas pseudoalcaligenes	0.114	biphenyl	*Pseudomonas pseudoalcaligenes strain LB400
+KCAT	Pseudomonas pseudoalcaligenes	0.115	Toluene	*Pseudomonas pseudoalcaligenes strain 1072
+KCAT	Pseudomonas pseudoalcaligenes	0.168	biphenyl	*Pseudomonas pseudoalcaligenes strain 1072
+KCAT	Pseudomonas pseudoalcaligenes	0.219	ethylbenzene	*Pseudomonas pseudoalcaligenes strain 1072
+KCAT	Paraburkholderia xenovorans	0.4	biphenyl	*pH 6, 25&deg;C
+KCAT	Pseudomonas sp.	1.1	biphenyl	*4&deg;C
+KCAT	Pseudomonas sp.	2.2	biphenyl	*10&deg;C
+KCAT	Pandoraea pnomenusa	4.1	biphenyl	*pH 6, 25&deg;C
+KCAT	Pseudomonas sp.	4.6	biphenyl	*25&deg;C

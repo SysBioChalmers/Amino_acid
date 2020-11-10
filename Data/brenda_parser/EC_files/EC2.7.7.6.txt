@@ -1,0 +1,22 @@
+KCAT	Escherichia phage T7	0.00065	ATP	*pH 7.9, 37&Acirc;&deg;C, mutant enzyme R425A
+KCAT	Escherichia phage T7	0.0013	ATP	*pH 7.9, 37&Acirc;&deg;C, mutant enzyme R423A
+KCAT	Escherichia phage T7	0.005	ATP	*pH 7.9, 37&Acirc;&deg;C, mutant enzyme D421A
+KCAT	Escherichia phage T7	0.0135	ATP	*pH 7.9, 37&Acirc;&deg;C, mutant enzyme R425K
+KCAT	Escherichia phage T7	0.253	ATP	*pH 7.9, 37&Acirc;&deg;C, mutant enzyme Y427A
+KCAT	Escherichia phage T7	0.35	ATP	*pH 7.9, 37&Acirc;&deg;C, mutant enzyme W422A
+KCAT	Escherichia phage T7	0.482	ATP	*pH 7.9, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia phage T7	0.1	dGTP	*pH 8.0, 37&Acirc;&deg;C, initiating nucleotide in dGrA synthesis, mutant enzyme Y639F/S641A
+KCAT	Escherichia phage T7	0.22	dGTP	*pH 8.0, 37&Acirc;&deg;C, initiating nucleotide in dGrA synthesis, wild-type enzyme
+KCAT	Escherichia phage T7	0.32	dGTP	*pH 8.0, 37&Acirc;&deg;C, initiating nucleotide in dGrA synthesis, mutant enzyme S641A
+KCAT	Escherichia phage T7	0.34	dGTP	*pH 8.0, 37&Acirc;&deg;C, initiating nucleotide in dGrA synthesis, mutant enzyme Y639F
+KCAT	Escherichia phage T7	0.25	rGTP	*pH 8.0, 37&Acirc;&deg;C, initiating nucleotide in rGrA synthesis, mutant enzyme Y639F/S641A
+KCAT	Escherichia phage T7	0.26	rGTP	*pH 8.0, 37&Acirc;&deg;C, initiating nucleotide in rGrA synthesis, wild-type enzyme
+KCAT	Escherichia phage T7	0.28	rGTP	*pH 8.0, 37&Acirc;&deg;C, initiating nucleotide in rGrA synthesis, mutant enzyme Y639F
+KCAT	Escherichia phage T7	0.38	rGTP	*pH 8.0, 37&Acirc;&deg;C, initiating nucleotide in rGrA synthesis, mutant enzyme S641A
+KCAT	Escherichia phage T7	-999	more	*
+KCAT	Escherichia phage T7	-999	more	*
+KCAT	Escherichia phage T7	0.03	G2CAC2C	*
+KCAT	Escherichia phage T7	0.23	T10G2T2C2C	*
+KCAT	Escherichia phage T7	0.26	A10G2A2C2C	*
+KCAT	Escherichia phage T7	4	A9G3A2C2C	*
+KCAT	Escherichia phage T7	8.3	promoter complex	*

@@ -1,0 +1,2 @@
+KCAT	Streptomyces sp.	0.11	3-hydroxybenzoate	*at pH 6.5 and 26&deg;C
+KCAT	Streptomyces hygroscopicus	22.4	chorismate	*in deuterated potassium phosphate buffer (20 mM, pH 7.0), at 20&deg;C

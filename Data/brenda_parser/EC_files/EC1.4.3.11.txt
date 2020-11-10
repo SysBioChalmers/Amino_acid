@@ -1,0 +1,6 @@
+KCAT	Streptomyces sp. X-119-6	27	L-glutamate	*pH 6.0, 30&deg;C, recombinant enzyme before proteolysis by metalloendopeptidase from Streptomyces griseus
+KCAT	Streptomyces sp. X-119-6	33	L-glutamate	*pH 7.4, 30&deg;C, recombinant enzyme before proteolysis by metalloendopeptidase from Streptomyces griseus
+KCAT	Streptomyces sp. X-119-6	49	L-glutamate	*pH 6.0, 30&deg;C, recombinant enzyme treated with metalloendopeptidase from Streptomyces griseus
+KCAT	Streptomyces sp.	53.2	L-glutamate	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. X-119-6	75	L-glutamate	*pH 7.4, 30&deg;C, recombinant enzyme treated with metalloendopeptidase from Streptomyces griseus
+KCAT	Streptomyces sp.	85.8	L-glutamate	*pH 5.6, 37&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.14.13.29#turnoverNumber*0.127#turnoverNumberMaximum*#substrate*4-nitrophenol#commentary*reconstituted system of purified isozyme 3a, dilaroylglyceryl-3-phosphorylcholine and NADPH-cytochrome P-450 reductase at pH 7.6#organism*Oryctolagus cuniculus#ligandStructureId*80#literature*438903#

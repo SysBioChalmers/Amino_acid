@@ -1,0 +1,1 @@
+ecNumber*4.3.1.29#turnoverNumber*27.4#turnoverNumberMaximum*#substrate*2-amino-2-deoxy-D-gluconate 6-phosphate#commentary*pH 8, 37&deg;C#organism*Salmonella enterica subsp. enterica serovar Typhimurium#ligandStructureId*227599#literature*747201#

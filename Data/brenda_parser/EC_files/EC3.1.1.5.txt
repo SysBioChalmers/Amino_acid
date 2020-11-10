@@ -1,0 +1,4 @@
+KCAT	Bacillus thermoamylovorans	227.3	4-nitrophenyl palmitate	*at pH 7.5 and 55&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	921.1	1-palmitoyl-glycerophosphocholine	*at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	1016	1-hexyl-glycerophosphocholine	*at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	1975	1-lauryl-glycerophosphocholine	*at pH 8.0 and 37&Acirc;&deg;C

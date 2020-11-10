@@ -1,0 +1,38 @@
+KCAT	Escherichia coli	0.034	L-homoserine	*pH 7.2, 25&deg;C, recombinant mutant K47A
+KCAT	Escherichia coli	0.34	succinyl-CoA	*pH 7.2, 25&deg;C, recombinant mutant K47A
+KCAT	Escherichia coli	0.8	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant E237A
+KCAT	Escherichia coli	1.2	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant R193A/E246A
+KCAT	Escherichia coli	1.26	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant K46L
+KCAT	Escherichia coli	1.6	glutaryl-CoA	*recombinant protein
+KCAT	Escherichia coli	1.8	L-homoserine	*pH 7.2, 25&deg;C, recombinant mutant K47R
+KCAT	Escherichia coli	1.8	succinyl-CoA	*pH 7.2, 25&deg;C, recombinant mutant K47R
+KCAT	Escherichia coli	2	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant R249K
+KCAT	Escherichia coli	2	L-homoserine	*pH 7.2, 25&deg;C, recombinant mutant K46R/K47R
+KCAT	Escherichia coli	2	succinyl-CoA	*pH 7.2, 25&deg;C, recombinant mutant K46R/K47R
+KCAT	Escherichia coli	3.3	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant R193A
+KCAT	Escherichia coli	3.4	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant R193K
+KCAT	Escherichia coli	4.1	L-homoserine	*pH 7.2, 25&deg;C, recombinant mutant K46A
+KCAT	Escherichia coli	4.1	succinyl-CoA	*pH 7.2, 25&deg;C, recombinant mutant K46A
+KCAT	Escherichia coli	5.23	coenzyme A	*recombinant protein
+KCAT	Escherichia coli	5.23	O-succinyl-L-homoserine	*recombinant protein
+KCAT	Escherichia coli	6.7	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant E237D
+KCAT	Escherichia coli	6.9	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant E246A
+KCAT	Escherichia coli	8.9	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant Y238F/E246A
+KCAT	Escherichia coli	10	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant R249A
+KCAT	Escherichia coli	12	D-homoserine	*recombinant protein
+KCAT	Escherichia coli	13	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant Y238F
+KCAT	Escherichia coli	15	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant E246D
+KCAT	Escherichia coli	24	L-homoserine	*recombinant protein
+KCAT	Escherichia coli	24	succinyl-CoA	*recombinant protein
+KCAT	Escherichia coli	25.7	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	36.72	L-homoserine	*recombinant His-tagged wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Escherichia coli	36.72	succinyl-CoA	*recombinant His-tagged wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Escherichia coli	37	L-homoserine	*pH 7.2, 25&deg;C, recombinant mutant K46R
+KCAT	Escherichia coli	37	succinyl-CoA	*pH 7.2, 25&deg;C, recombinant mutant K46R
+KCAT	Escherichia coli	38.59	L-homoserine	*recombinant His-tagged mutant I124L, pH and temperature not specified in the publication
+KCAT	Escherichia coli	38.59	succinyl-CoA	*recombinant His-tagged mutant I124L, pH and temperature not specified in the publication
+KCAT	Escherichia coli	39.28	L-homoserine	*recombinant His-tagged mutant I229Y, pH and temperature not specified in the publication
+KCAT	Escherichia coli	39.28	succinyl-CoA	*recombinant His-tagged mutant I229Y, pH and temperature not specified in the publication
+KCAT	Escherichia coli	40.1	succinyl-CoA	*pH 7.5, 25&deg;C, recombinant mutant K45L
+KCAT	Escherichia coli	130	L-homoserine	*pH 7.2, 25&deg;C, recombinant mutant C90S; pH 7.2, 25&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	130	succinyl-CoA	*pH 7.2, 25&deg;C, recombinant mutant C90S; pH 7.2, 25&deg;C, recombinant wild-type enzyme

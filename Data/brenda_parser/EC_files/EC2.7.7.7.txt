@@ -1,0 +1,212 @@
+KCAT	Streptococcus pneumoniae	0.056	ATP	*polymerase activity, D190A mutant, pH 7.6, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.000016	dATP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo3
+KCAT	Saccharolobus solfataricus	0.000083	dATP	*pH 7.8, 37&Acirc;&deg;C, incorporation of dATP opposite (G) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(G)CACT-5'
+KCAT	Saccharolobus solfataricus	0.0002	dATP	*pH 7.8, 37&Acirc;&deg;C, dATP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCAT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-GAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.00024	dATP	*pH 7.8, 37&Acirc;&deg;C, dATP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCGT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-TCAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.00025	dATP	*pH 7.8, 37&Acirc;&deg;C, dATP insertion opposite an unmodified deoxyguanosine in 5'-TCAT-G-GAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.00029	dATP	*pH 7.8, 37&Acirc;&deg;C, dATP insertion opposite an unmodified deoxyguanosine in 5'-TCGT-G-TCAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.0012	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+KCAT	Saccharolobus solfataricus	0.0016	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+KCAT	Thermococcus litoralis	0.0017	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+KCAT	Saccharolobus solfataricus	0.0018	dATP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo1
+KCAT	Saccharolobus solfataricus	0.0025	dATP	*pH 7.8, 37&Acirc;&deg;C, incorporation of dATP opposite (8oxoG) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(8oxoG)CACT-5'
+KCAT	Saccharolobus solfataricus	0.0027	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+KCAT	Saccharolobus solfataricus	0.0028	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: G
+KCAT	Thermococcus litoralis	0.0029	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+KCAT	Saccharolobus solfataricus	0.0036	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+KCAT	Thermococcus litoralis	0.0053	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+KCAT	Saccharolobus solfataricus	0.0057	dATP	*template base: dG, pH 7.5, 37&Acirc;&deg;C
+KCAT	Thermococcus litoralis	0.0068	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+KCAT	Thermococcus litoralis	0.0098	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: G
+KCAT	Saccharolobus solfataricus	0.011	dATP	*template base: dC, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.012	dATP	*template base: dI, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.02	dATP	*template base: dX, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.021	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template: abasic site
+KCAT	Pyrococcus furiosus	0.022	dATP	*55&Acirc;&deg;C, pH not specified in the publication, mutant enzyme L409I
+KCAT	Saccharolobus solfataricus	0.022	dATP	*template base: dA, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.023	dATP	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.028	dATP	*55&Acirc;&deg;C, pH not specified in the publication, mutant enzyme L409M
+KCAT	Pyrococcus furiosus	0.029	dATP	*55&Acirc;&deg;C, pH not specified in the publication, mutant enzyme Y410V
+KCAT	Pyrococcus furiosus	0.034	dATP	*55&Acirc;&deg;C, pH not specified in the publication, mutant enzyme L409V
+KCAT	Pyrococcus furiosus	0.037	dATP	*55&Acirc;&deg;C, pH not specified in the publication, mutant enzyme A408S
+KCAT	Thermococcus litoralis	0.043	dATP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template: abasic site
+KCAT	Saccharolobus solfataricus	0.045	dATP	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 3'-thymine of a cis-syn thymine dimer of the template
+KCAT	Saccharolobus solfataricus	0.063	dATP	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite an abasic site
+KCAT	Saccharolobus solfataricus	0.073	dATP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo4
+KCAT	Saccharomyces cerevisiae	0.14	dATP	*
+KCAT	Geobacillus anatolicus	0.185	dATP	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Pyrococcus furiosus	0.22	dATP	*55&Acirc;&deg;C, pH not specified in the publication, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.23	dATP	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 5'-thymine of an nondamaged template
+KCAT	Saccharolobus solfataricus	0.24	dATP	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 5'-thymine of a cis-syn thymine dimer of the template
+KCAT	Saccharolobus solfataricus	0.3	dATP	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.31	dATP	*55&Acirc;&deg;C, pH not specified in the publication, mutant enzyme Y410L
+KCAT	Pyrococcus furiosus	0.32	dATP	*55&Acirc;&deg;C, pH not specified in the publication, mutant enzyme Y410I
+KCAT	Saccharolobus solfataricus	0.36	dATP	*template base: dT, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.38	dATP	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 3'-thymine of an nondamaged template
+KCAT	Geobacillus anatolicus	0.4	dATP	*pH 8.0, 50&Acirc;&deg;C, recombinant enzyme
+KCAT	Thermus aquaticus	0.96	dATP	*pH 9.0, 37&Acirc;&deg;C, recombinant mutant enzyme
+KCAT	Saccharolobus solfataricus	2.5	dATP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.0000072	dTTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo2
+KCAT	Saccharolobus solfataricus	0.00011	dTTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo3
+KCAT	Saccharolobus solfataricus	0.00013	dTTP	*pH 7.8, 37&Acirc;&deg;C, dTTP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCAT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-GAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.00019	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+KCAT	Saccharolobus solfataricus	0.00029	dTTP	*pH 7.8, 37&Acirc;&deg;C, dTTP insertion opposite an unmodified deoxyguanosine in 5'-TCAT-G-GAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Thermococcus litoralis	0.0004	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+KCAT	Thermococcus litoralis	0.0021	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+KCAT	Saccharolobus solfataricus	0.0023	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+KCAT	Thermococcus litoralis	0.003	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+KCAT	Saccharolobus solfataricus	0.0046	dTTP	*template base: 2-bromo-2'-deoxyinosine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.0047	dTTP	*template base: 2-fluoro-2'-deoxyinosine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Danio rerio	0.0096	dTTP	*pH 8.8, 30&Acirc;&deg;C, recombinant enzyme, in presence of Mn2+
+KCAT	Thermococcus litoralis	0.012	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: G
+KCAT	Danio rerio	0.0123	dTTP	*pH 8.8, 30&Acirc;&deg;C, recombinant enzyme, in presence of Mg2+
+KCAT	Thermococcus litoralis	0.014	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+KCAT	Saccharolobus solfataricus	0.014	dTTP	*template base: dI, pH 7.5, 37&Acirc;&deg;C
+KCAT	Thermococcus litoralis	0.017	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template: abasic site
+KCAT	Saccharolobus solfataricus	0.017	dTTP	*template base: dC, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.021	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: G
+KCAT	Saccharolobus solfataricus	0.025	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template: abasic site; pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+KCAT	Saccharolobus solfataricus	0.031	dTTP	*template base: dT, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.034	dTTP	*template base: dG, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.035	dTTP	*template base: dX, pH 7.5, 37&Acirc;&deg;C
+KCAT	Thermococcus litoralis	0.043	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: G
+KCAT	Saccharolobus solfataricus	0.063	dTTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+KCAT	Geobacillus anatolicus	0.096	dTTP	*pH 8.0, 22&Acirc;&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	0.096	dTTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo1
+KCAT	Saccharolobus solfataricus	0.16	dTTP	*template base: dA, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.28	dTTP	*pH 7.5, 37&Acirc;&deg;C, dTTP insertion opposite the N6dA-butanetriol in 5'-TCTC-N6dA-butanetriol-GTTTATGGACCACC-3'
+KCAT	Saccharolobus solfataricus	0.35	dTTP	*pH 7.5, 37&Acirc;&deg;C, dTTP insertion opposite the N6dA-(OH)2butyl-GSH in 5'-TCTC-N6dA-(OH)2butyl-GSH-GTTTATGGACCACC-3'
+KCAT	Saccharolobus solfataricus	0.36	dTTP	*pH 7.5, 37&Acirc;&deg;C, dTTP insertion opposite an unmodified deoxyadenosine in 5'-TCTCAGTTTATGGACCACC-3'
+KCAT	Saccharolobus solfataricus	0.48	dTTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo4
+KCAT	Saccharolobus solfataricus	0.64	dTTP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Thermus thermophilus	1	dTTP	*pH 8.2, 50&Acirc;&deg;C, recombinant M1pol
+KCAT	Thermus aquaticus	1.4	dTTP	*pH 9.0, 37&Acirc;&deg;C, recombinant mutant enzyme
+KCAT	Thermotoga petrophila	1.7	dTTP	*pH 8.2, 50&Acirc;&deg;C, recombinant enzyme mutant K4polL329A
+KCAT	Geobacillus anatolicus	25.8	dTTP	*pH 8.0, 22&Acirc;&deg;C, recombinant enzyme
+KCAT	Geobacillus anatolicus	75.6	dTTP	*pH 8.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Geobacillus anatolicus	175	dTTP	*pH 8.0, 50&Acirc;&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	0.000053	dCTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo2
+KCAT	Thermococcus litoralis	0.0001	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+KCAT	Saccharolobus solfataricus	0.00024	dCTP	*pH 7.8, 37&Acirc;&deg;C, dCTP insertion opposite an unmodified deoxyguanosine in 5'-TCGT-G-TCAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.00027	dCTP	*pH 7.8, 37&Acirc;&deg;C, dCTP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCAT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-GAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.0003	dCTP	*pH 7.8, 37&Acirc;&deg;C, dCTP insertion opposite an unmodified deoxyguanosine in 5'-TCAT-G-GAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.00053	dCTP	*pH 7.8, 37&Acirc;&deg;C, dCTP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCGT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-TCAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.00053	dCTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo3
+KCAT	Thermococcus litoralis	0.0008	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+KCAT	Thermococcus litoralis	0.0021	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template: abasic site
+KCAT	Saccharolobus solfataricus	0.0022	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template: abasic site
+KCAT	Saccharolobus solfataricus	0.005	dCTP	*pH 7.8, 37&Acirc;&deg;C, incorporation of dCTP opposite (8oxoG) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(8oxoG)CACT-5'
+KCAT	Saccharolobus solfataricus	0.0054	dCTP	*template base: dA, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.0055	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+KCAT	Saccharolobus solfataricus	0.0057	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+KCAT	Saccharolobus solfataricus	0.0062	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+KCAT	Saccharolobus solfataricus	0.011	dCTP	*template base: dC, pH 7.5, 37&Acirc;&deg;C; template base: dX, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.013	dCTP	*pH 7.8, 37&Acirc;&deg;C, incorporation of dCTP opposite (G) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(G)CACT-5'
+KCAT	Saccharolobus solfataricus	0.015	dCTP	*template base: dT, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.019	dCTP	*template base: 2-bromo-2'-deoxyinosine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.02	dCTP	*pH 7.4, 37&Acirc;&deg;C, steady-state kinetics for single nucleotide primer extension with O6-methylguanine as template
+KCAT	Thermococcus litoralis	0.022	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+KCAT	Thermococcus litoralis	0.027	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+KCAT	Saccharolobus solfataricus	0.038	dCTP	*pH 7.5, 37&Acirc;&deg;C, dCTP insertion opposite the N6dA-(OH)2butyl-GSH in 5'-TCTC-N6dA-(OH)2butyl-GSH-GTTTATGGACCACC-3'
+KCAT	Saccharolobus solfataricus	0.042	dCTP	*pH 7.5, 37&Acirc;&deg;C, dCTP insertion opposite the N6dA-butanetriol in 5'-TCTC-N6dA-butanetriol-GTTTATGGACCACC-3'
+KCAT	Saccharolobus solfataricus	0.044	dCTP	*template base: 2-fluoro-2'-deoxyinosine, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.056	dCTP	*pH 7.5, 37&Acirc;&deg;C, dCTP insertion opposite an unmodified deoxyadenosine in 5'-TCTCAGTTTATGGACCACC-3'
+KCAT	Thermococcus litoralis	0.065	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: G
+KCAT	Saccharolobus solfataricus	0.092	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+KCAT	Saccharomyces cerevisiae	0.16	dCTP	*
+KCAT	Saccharolobus solfataricus	0.23	dCTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo1
+KCAT	Saccharolobus solfataricus	0.28	dCTP	*pH 7.4, 37&Acirc;&deg;C, steady-state kinetics for single nucleotide primer extension with guanine as template
+KCAT	Saccharolobus solfataricus	0.34	dCTP	*37&Acirc;&deg;C, pH 7.4, mutant enzyme T239W
+KCAT	Saccharolobus solfataricus	0.38	dCTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: G
+KCAT	Saccharolobus solfataricus	0.41	dCTP	*template base: dI, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.47	dCTP	*37&Acirc;&deg;C, pH 7.4, mutant enzyme N188W
+KCAT	Thermus aquaticus	0.89	dCTP	*pH 9.0, 37&Acirc;&deg;C, recombinant mutant enzyme
+KCAT	Saccharolobus solfataricus	0.93	dCTP	*template base: dG, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	5.6	dCTP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	12	dCTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo4
+KCAT	Saccharolobus solfataricus	0.000013	dGTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo3
+KCAT	Thermococcus litoralis	0.0002	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+KCAT	Saccharolobus solfataricus	0.00032	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+KCAT	Saccharolobus solfataricus	0.00038	dGTP	*pH 7.8, 37&Acirc;&deg;C, incorporation of dGTP opposite (8oxoG) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(8oxoG)CACT-5'
+KCAT	Saccharolobus solfataricus	0.00043	dGTP	*pH 7.8, 37&Acirc;&deg;C, dGTP insertion opposite an unmodified deoxyguanosine in 5'-TCAT-G-GAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Saccharolobus solfataricus	0.00055	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+KCAT	Saccharolobus solfataricus	0.0006	dGTP	*pH 7.8, 37&Acirc;&deg;C, dGTP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCAT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-GAATCCTTACGAGCATCGCCCCC-3'
+KCAT	Thermococcus litoralis	0.0006	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+KCAT	Saccharolobus solfataricus	0.00068	dGTP	*pH 7.8, 37&Acirc;&deg;C, incorporation of dGTP opposite (G) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(G)CACT-5'
+KCAT	Saccharolobus solfataricus	0.0016	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+KCAT	Saccharolobus solfataricus	0.0016	dGTP	*template base: dI, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.0033	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template: abasic site
+KCAT	Saccharolobus solfataricus	0.0045	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: G
+KCAT	Saccharolobus solfataricus	0.0046	dGTP	*template base: dA, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.0049	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+KCAT	Thermococcus litoralis	0.0052	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+KCAT	Saccharolobus solfataricus	0.0063	dGTP	*template base: dG, pH 7.5, 37&Acirc;&deg;C
+KCAT	Thermococcus litoralis	0.0067	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+KCAT	Saccharolobus solfataricus	0.0068	dGTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo1
+KCAT	Saccharolobus solfataricus	0.01	dGTP	*template base: dX, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.042	dGTP	*template base: dT, pH 7.5, 37&Acirc;&deg;C
+KCAT	Thermococcus litoralis	0.043	dGTP	*pH 7.5, 37&Acirc;&deg;C, dNTP incorporation opposite DNA lesions, template: abasic site
+KCAT	Saccharolobus solfataricus	0.15	dGTP	*pH 7.5, 37&Acirc;&deg;C, DNA polymerase Dpo4
+KCAT	Saccharolobus solfataricus	0.54	dGTP	*template base: dC, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	3.7	dGTP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Thermococcus waiotapuensis	2.4	DNAn	*pH 8.6, 75&Acirc;&deg;C, mM of template, in the presence of an excess of annealed primer, mutant enzyme H633R
+KCAT	Thermococcus waiotapuensis	2.6	DNAn	*pH 8.6, 75&Acirc;&deg;C, mM of template, in the presence of an excess of annealed primer, wild-type enzyme
+KCAT	Thermococcus pacificus	12.9	DNAn	*pH 7.5, 75&Acirc;&deg;C, mol of template, in the presence of an excess of annealed primer, fusion protein of the Sso7d protein to the C-terminus of Tpa DNA polymerase
+KCAT	Thermococcus pacificus	13.6	DNAn	*pH 7.5, 75&Acirc;&deg;C, mol of template, in the presence of an excess of annealed primer, unmodified Tpa DNA polymerase
+KCAT	Thermus aquaticus	0.0667	deoxynucleoside triphosphate	*wild-type enzyme, pH 7.5, 60&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.0667	deoxynucleoside triphosphate	*wild-type enzyme, pH 7.5, 60&Acirc;&deg;C
+KCAT	Thermus aquaticus	0.15	deoxynucleoside triphosphate	*G418K/E507Q mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.15	deoxynucleoside triphosphate	*G418K/E507Q mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Bacillus caldotenax	1.05	deoxynucleoside triphosphate	*equimolar mixture of all nucleotides, pH 7.5, 70&Acirc;&deg;C
+KCAT	Enterobacteria phage PRD1	2.5	deoxynucleoside triphosphate	*pH 7.6, 30&Acirc;&deg;C
+KCAT	Thermococcus waiotapuensis	3.9	deoxynucleoside triphosphate	*pH 8.6, 75&Acirc;&deg;C, mM of each nucleotide in an equimolar mixture of the four nucleotides, wild-type enzyme
+KCAT	Thermococcus waiotapuensis	4.2	deoxynucleoside triphosphate	*pH 8.6, 75&Acirc;&deg;C, mM of each nucleotide in an equimolar mixture of the four nucleotides, mutant enzyme H633R
+KCAT	Thermococcus pacificus	92	deoxynucleoside triphosphate	*pH 7.5, 75&Acirc;&deg;C, turnover number of each nucleotide in an equimolar mixture of the four nucleotides, unmodified Tpa DNA polymerase
+KCAT	Thermococcus pacificus	116	deoxynucleoside triphosphate	*pH 7.5, 75&Acirc;&deg;C, turnover number of each nucleotide in an equimolar mixture of the four nucleotides, fusion protein of the Sso7d protein to the C-terminus of Tpa DNA polymerase
+KCAT	Saccharolobus solfataricus	0.02	5-Methyl-dCTP	*pH 7.4, 37&Acirc;&deg;C, steady-state kinetics for single nucleotide primer extension with O6-methylguanine as template
+KCAT	Saccharolobus solfataricus	0.33	5-Methyl-dCTP	*pH 7.4, 37&Acirc;&deg;C, steady-state kinetics for single nucleotide primer extension with guanine as template
+KCAT	Bacillus caldotenax	1	dNTP	*
+KCAT	Saccharolobus solfataricus	0.068	7-deaza-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 3'-thymine of a cis-syn thymine dimer of the template
+KCAT	Saccharolobus solfataricus	0.085	7-deaza-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite an abasic site
+KCAT	Saccharolobus solfataricus	0.2	7-deaza-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 5'-thymine of a cis-syn thymine dimer of the template
+KCAT	Saccharolobus solfataricus	0.265	7-deaza-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 5'-thymine of an nondamaged template
+KCAT	Saccharolobus solfataricus	0.405	7-deaza-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 3'-thymine of an nondamaged template
+KCAT	Saccharolobus solfataricus	0.012	N1-methyl-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 3'-thymine of a cis-syn thymine dimer of the template
+KCAT	Saccharolobus solfataricus	0.028	N1-methyl-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite an abasic site
+KCAT	Saccharolobus solfataricus	0.063	N1-methyl-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 5'-thymine of a cis-syn thymine dimer of the template
+KCAT	Saccharolobus solfataricus	0.145	N1-methyl-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 5'-thymine of an nondamaged template
+KCAT	Saccharolobus solfataricus	0.15	N1-methyl-2'-deoxyadenosine 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 3'-thymine of an nondamaged template
+KCAT	Escherichia coli	4.17	Nucleotide	*pol II
+KCAT	Escherichia coli	16.7	Nucleotide	*pol I
+KCAT	Escherichia coli	250	Nucleotide	*pol III
+KCAT	Saccharolobus solfataricus	0.014	North-methanocarba-dATP	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.08	North-methanocarba-dATP	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.29	2-aminopurine-2'-deoxy-D-ribose 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 5'-thymine of a cis-syn thymine dimer of the template
+KCAT	Saccharolobus solfataricus	0.34	2-aminopurine-2'-deoxy-D-ribose 5'-triphosphate	*pH 7.5, 60&Acirc;&deg;C, incorporation opposite the 5'-thymine of an nondamaged template
+KCAT	Saccharolobus solfataricus	0.03	2-thio-dCTP	*pH 7.4, 37&Acirc;&deg;C, steady-state kinetics for single nucleotide primer extension with O6-methylguanine as template
+KCAT	Saccharolobus solfataricus	0.04	2-thio-dCTP	*pH 7.4, 37&Acirc;&deg;C, steady-state kinetics for single nucleotide primer extension with guanine as template
+KCAT	Saccharomyces cerevisiae	0.072	rATP	*
+KCAT	Saccharomyces cerevisiae	0.09	rCTP	*
+KCAT	Saccharolobus solfataricus	0.05	dPTP	*pH 7.4, 37&Acirc;&deg;C, steady-state kinetics for single nucleotide primer extension with guanine as template
+KCAT	Saccharolobus solfataricus	0.0088	South-methanocarba-dATP	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Saccharolobus solfataricus	-999	more	*steady-state kinetic parameters for single-base extension reactions by Dpo4 in the presence of either Ca2+ or Mg2+
+KCAT	Saccharolobus solfataricus	-999	more	*the fidelity of nucleotide incorporation by Dpo3 from the polymerase active site alone is 1000-10000 at 37&Acirc;&deg;C. The functional exonuclease proofreading active site will increase fidelity by at least 100
+KCAT	Saccharolobus solfataricus	-999	more	*DNA polymerase IV (Dpo4) shows 90-fold higher incorporation efficiency of dCTP &gt; dATP opposite 8-oxoG and 4-fold higher efficiency of extension beyond an 8-oxoG:C pair than an 8-oxoG:A pair. The catalytic efficiency for these events (with dCTP or C) is similar for G and 8-oxoG templates. Extension beyond an 8-oxoG:C pair is similar to G:C and faster than for an 8-oxoG:A pair, in contrast to other polymerases. dCTP insertion opposite 8-oxoG was lower than for opposite guanine
+KCAT	Saccharolobus solfataricus	-999	more	*steady-state kinetic parameters for one-base incorporation
+KCAT	Saccharolobus solfataricus	-999	more	*steady-state kinetic parameters for the single dNTP incorporation by Dpo4 T239W
+KCAT	Saccharolobus solfataricus	-999	more	*steady-state kinetic parameters for one-base incorporation opposite G and N2-alkyl G adducts by Dpo4. Steady-state kinetic parameters for next base extension from G (or N2-alkyl G):C (or T) template primer termini by Dpo4
+KCAT	Saccharolobus solfataricus	-999	more	*steady-state kinetic parameters for dCTP incorporation by Dpo4 T239W
+KCAT	Saccharolobus solfataricus	-999	more	*pre-steady-state kinetic constants for dNTP and rNTP incorporation by wild-type and F12A mutant enzyme
+KCAT	Thermococcus pacificus	-999	more	*Tpa-S DNA polymerase (the fusion of the Sso7d protein to the C-terminus of Tpa DNA polymerase) has nearly an identical turnover rate for DNA with the unmodified Tpa DNA polymerase. However, Tpa-S DNA polymerase has a somewhat higher (about 1.26fold) turnover rate in nucleotide incorporation than Tpa DNA polymerase
+KCAT	Saccharolobus solfataricus	-999	more	*steady-state kinetic parameters for single-nucleotide incorporation opposite the C8- and N2-2-amino-3-methylimidazo[4,5-f]quinoline adducts of dGuo at the G3- and G1-positions of the NarI recognition sequence by Dpo4
+KCAT	Saccharolobus solfataricus	-999	more	*steady-state parameters for the enzyme catalyzed insertion opposite and extension past O2-alkyl-dT
+KCAT	Saccharolobus solfataricus	-999	more	*steady-state kinetic parameters for next base extension from G:C and AP site:A (or C) template:primer termini
+KCAT	Thermococcus litoralis	-999	more	*steady-state kinetic parameters for next base extension from G:C and AP site:A (or C) template:primer termini
+KCAT	Saccharolobus solfataricus	-999	more	*pH 7.5, 50&Acirc;&deg;C, kcat is 0.16/s for incorporation of dTTP in a 61mer template containing N6-furfuryl-deoxyadenosine
+KCAT	Saccharolobus solfataricus	-999	more	*kinetic for nucleotide insertion opposite template cytosine
+KCAT	Saccharolobus solfataricus	-999	more	*kinetic parameters for single dNTP incorporation opposite template 26-mer-N-(deoxyguanosin-8-yl)-1-aminopyrene
+KCAT	Saccharolobus solfataricus	-999	more	*pH 7.5, 24&Acirc;&deg;C, steady-state kinetic parameters for mispair extension by Dpo4
+KCAT	Streptococcus pneumoniae	0.000042	primed M13	*exonuclease activity, D190A mutant, pH 7.6, 37&Acirc;&deg;C
+KCAT	Streptococcus pneumoniae	0.011	primed M13	*exonuclease activity, wild-type, pH 7.6, 37&Acirc;&deg;C

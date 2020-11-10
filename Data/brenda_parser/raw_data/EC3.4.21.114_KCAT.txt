@@ -1,0 +1,1 @@
+ecNumber*3.4.21.114#turnoverNumber*0.0073#turnoverNumberMaximum*#substrate*dabsyl-Lys-Thr-Ala-Tyr-Phe-Gln-Leu-Glu-Gly-Arg-His-Phe-Glu-EDANS#commentary*#organism*porcine reproductive and respiratory syndrome virus#ligandStructureId*40534#literature*709528#

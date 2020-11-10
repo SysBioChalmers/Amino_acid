@@ -1,0 +1,12 @@
+KCAT	Lactobacillus brevis	2.5	L-Dopa	*purified recombinant mutant Y398A, pH 5.0-7.4, 40&deg;C
+KCAT	Pyrococcus furiosus	2.83	L-tyrosine	*pH 6.0, 75&deg;C
+KCAT	Lactobacillus brevis	9.8	L-tyrosine	*purified recombinant mutant Y398A, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	12.3	L-Dopa	*purified recombinant mutant Y398F, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	31.9	L-tyrosine	*purified recombinant mutant Y398F, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	64.7	L-Dopa	*purified recombinant mutant K240A, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	76.5	L-Dopa	*purified recombinant His-tagged wild-type enzyme, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	124.8	L-tyrosine	*purified recombinant His-tagged wild-type enzyme, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	126	L-Dopa	*purified recombinant mutant S586A, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	224.5	L-tyrosine	*purified recombinant mutant K240A, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	250.9	L-tyrosine	*purified recombinant mutant S586A, pH 5.0-7.4, 40&deg;C
+KCAT	Lactobacillus brevis	343	L-tyrosine	*pH 5.0, 40&deg;C

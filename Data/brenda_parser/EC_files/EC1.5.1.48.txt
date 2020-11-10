@@ -1,0 +1,11 @@
+KCAT	Streptomyces sp. GF3587	0.0215	6-cyclohexyl-2,3,4,5-tetrahydropyridine	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	0.141	3,4-dihydroisoquinoline	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	0.189	1-methyl-3,4-dihydroisoquinoline	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	0.263	6-(4-methoxyphenyl)-2,3,4,5-tetrahydropyridine	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	0.351	2-methyl-1-pyrroline	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	0.643	6-(thiophen-2-yl)-2,3,4,5-tetrahydropyridine	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	1.057	2-methyl-3,4-dihydroisoquinolin-2-ium	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	2.35	6-(prop-1-en-2-yl)-2,3,4,5-tetrahydropyridine	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	3.64	6-phenyl-2,3,4,5-tetrahydropyridine	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	4.21	6-methyl-2,3,4,5-tetrahydropyridine	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Streptomyces sp. GF3587	4.63	6-propyl-2,3,4,5-tetrahydropyridine	*recombinant enzyme, pH and temperature not specified in the publication

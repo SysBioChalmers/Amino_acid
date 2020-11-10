@@ -1,0 +1,1 @@
+ecNumber*3.5.3.20#turnoverNumber*1330#turnoverNumberMaximum*#substrate*1,4-Diguanidinobutane#commentary*per subunit#organism*Pseudomonas putida#ligandStructureId*15439#literature*209444#

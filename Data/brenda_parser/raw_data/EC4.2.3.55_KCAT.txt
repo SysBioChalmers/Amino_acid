@@ -1,0 +1,1 @@
+ecNumber*4.2.3.55#turnoverNumber*0.00067#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH 7.4, 30&deg;C, recombinant His6-tagged enzyme#organism*Santalum album#ligandStructureId*81#literature*749302#

@@ -1,0 +1,17 @@
+KCAT	Nicotiana suaveolens	0.000058	geranyl diphosphate	*recombinant mutant F266T, pH and temperature not specified in the publication
+KCAT	Nicotiana suaveolens	0.00008	geranyl diphosphate	*recombinant mutant F266V, pH and temperature not specified in the publication
+KCAT	Nicotiana suaveolens	0.00029	geranyl diphosphate	*recombinant mutant F266S, pH and temperature not specified in the publication
+KCAT	Nicotiana suaveolens	0.00041	geranyl diphosphate	*recombinant wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.001	geranyl diphosphate	*temperature not specified in the publication, pH not specified in the publication
+KCAT	Salvia fruticosa	0.0043	geranyl diphosphate	*mutant N338I/A339T/G447S/I449P/P450T, pH 7.0, 22&Acirc;&deg;C; mutant N338I/A339T/G447S, pH 7.0, 22&Acirc;&deg;C
+KCAT	Lavandula x intermedia	0.0088	geranyl diphosphate	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Salvia fruticosa	0.009	geranyl diphosphate	*mutant N338L, pH 7.0, 22&Acirc;&deg;C
+KCAT	Salvia fruticosa	0.012	geranyl diphosphate	*mutant N338V, pH 7.0, 22&Acirc;&deg;C
+KCAT	Salvia fruticosa	0.022	geranyl diphosphate	*mutant N338S, pH 7.0, 22&Acirc;&deg;C
+KCAT	Salvia fruticosa	0.024	geranyl diphosphate	*mutant N338I/A339T, pH 7.0, 22&Acirc;&deg;C
+KCAT	Salvia fruticosa	0.052	geranyl diphosphate	*mutant N338C, pH 7.0, 22&Acirc;&deg;C
+KCAT	Salvia fruticosa	0.053	geranyl diphosphate	*wild-type, pH 7.0, 22&Acirc;&deg;C
+KCAT	Salvia fruticosa	0.069	geranyl diphosphate	*mutant N338A, pH 7.0, 22&Acirc;&deg;C
+KCAT	Streptomyces clavuligerus	0.079	geranyl diphosphate	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Salvia fruticosa	0.096	geranyl diphosphate	*mutant N338I, pH 7.0, 22&Acirc;&deg;C
+KCAT	Artemisia annua	4.46	geranyl diphosphate	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme

@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	1.86	Pro-Phe-Arg-7-amido-4-methylcoumarin	*20 mM Tris, 150 mM NaCl, 0.01% Tween 20 (pH7.5), 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.45	Val-Pro-Arg-7-amido-4-methylcoumarin	*20 mM Tris, 150 mM NaCl, 0.01% Tween 20 (pH7.5), 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.39	Phe-Ser-Arg-7-amido-4-methylcoumarin	*20 mM Tris, 150 mM NaCl, 0.01% Tween 20 (pH7.5), 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.21	Gly-Pro-Arg-7-amido-4-methylcoumarin	*20 mM Tris, 150 mM NaCl, 0.01% Tween 20 (pH7.5), 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.23	Gln-Ala-Arg-7-amido-4-methylcoumarin	*20 mM Tris, 150 mM NaCl, 0.01% Tween 20 (pH7.5), 37&Acirc;&deg;C

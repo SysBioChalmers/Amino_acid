@@ -1,0 +1,1 @@
+ecNumber*1.97.1.1#turnoverNumber*46#turnoverNumberMaximum*#substrate*Chlorate#commentary*pH 8, 40&Acirc;&deg;C#organism*Haloferax mediterranei#ligandStructureId*2266#literature*729317#

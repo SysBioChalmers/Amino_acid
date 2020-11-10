@@ -1,0 +1,5 @@
+KCAT	Crotalus atrox	0.0267	oxidized insulin B-chain	*Gly23-Phe24 bond
+KCAT	Crotalus atrox	0.0317	oxidized insulin B-chain	*His5-Leu6 bond
+KCAT	Crotalus atrox	0.132	oxidized insulin B-chain	*His10-Leu11 bond
+KCAT	Crotalus atrox	0.803	oxidized insulin B-chain	*Ala14-Leu15 bond
+KCAT	Crotalus atrox	1.02	oxidized insulin B-chain	*Tyr16-Leu17 bond

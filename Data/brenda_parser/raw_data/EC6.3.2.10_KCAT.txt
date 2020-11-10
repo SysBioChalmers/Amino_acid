@@ -1,0 +1,1 @@
+ecNumber*6.3.2.10#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Escherichia coli#ligandStructureId*#literature*987#

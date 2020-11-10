@@ -1,0 +1,1 @@
+ecNumber*1.1.99.39#turnoverNumber*0.8#turnoverNumberMaximum*#substrate*(R)-2-hydroxyglutarate#commentary*25&Acirc;&deg;C, pH 8.75, cofactor oxidized 2,6-dichlorophenolindophenol#organism*Arabidopsis thaliana#ligandStructureId*5078#literature*698932#

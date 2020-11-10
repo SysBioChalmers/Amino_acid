@@ -1,0 +1,2 @@
+KCAT	Aspergillus terreus	-999	more	*kcat-value for hydrolysis of lovastain to monacolin J is 0.0035/s
+KCAT	Aspergillus terreus	0.806	(S)-2-methylbutanoyl-[2-methylbutanoate polyketide synthase]	*pH and temperature not specified in the publication

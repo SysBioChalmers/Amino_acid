@@ -1,0 +1,22 @@
+KCAT	Bacillus subtilis	0.0001	D-ribose 5-phosphate	*pyridoxal 5'-phosphate formation, His-tagged H115A/R138A mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.00013	D-ribose 5-phosphate	*pyridoxal 5'-phosphate formation, His-tagged H115A mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Geobacillus kaustophilus	0.00017	D-glyceraldehyde 3-phosphate	*pH 8.5, 37&deg;C
+KCAT	Geobacillus kaustophilus	0.00017	D-ribose 5-phosphate	*pH 8.5, 37&deg;C
+KCAT	Bacillus subtilis	0.0002	D-ribose 5-phosphate	*pyridoxal 5'-phosphate formation, His-tagged E105D mutant Pdx1 protein, pH 7.5, 37&deg;C; pyridoxal 5'-phosphate formation, His-tagged R138A mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.00033	D-ribose 5-phosphate	*pH 8.0, 37&deg;C
+KCAT	Bacillus subtilis	0.00033	D-ribose 5-phosphate	*pH 8.0, 37&deg;C, mutant enzyme K149R
+KCAT	Bacillus subtilis	0.0005	D-ribose 5-phosphate	*pyridoxal 5'-phosphate formation, His-tagged K187A mutant Pdx1 protein, pH 7.5, 37&deg;C; pyridoxal 5'-phosphate formation, R288A mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.00055	D-ribose 5-phosphate	*pyridoxal 5'-phosphate formation, wild-type protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.0006	D-ribose 5-phosphate	*pyridoxal 5'-phosphate formation, His-tagged wild-type protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.00062	D-ribose 5-phosphate	*pyridoxal 5'-phosphate formation, R288K mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.00067	D-ribose 5-phosphate	*pH 8.0, 37&deg;C, free pyridoxal 5'-phosphate synthase subunit (Pdx1)
+KCAT	Bacillus subtilis	0.0007	D-ribulose 5-phosphate	*pH 8.0, 37&deg;C, free pyridoxal 5'-phosphate synthase subunit (Pdx1)
+KCAT	Geobacillus kaustophilus	0.001	L-glutamine	*pH 8.5, 37&deg;C, glutaminase activity
+KCAT	Bacillus subtilis	0.004	D-ribose 5-phosphate	*pH 8.0, 37&deg;C, wild-type enzyme
+KCAT	Bacillus subtilis	0.022	L-glutamine	*Pdx2 glutaminase activity, His-tagged H115A mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.024	L-glutamine	*Pdx2 glutaminase activity, His-tagged H115A/R138A mutant Pdx1 protein, pH 7.5, 37&deg;C; Pdx2 glutaminase activity, His-tagged K187A mutant Pdx1 protein, pH 7.5, 37&deg;C; Pdx2 glutaminase activity, His-tagged R138A mutant Pdx1 protein, pH 7.5, 37&deg;C; Pdx2 glutaminase activity, His-tagged wild-type protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.026	L-glutamine	*Pdx2 glutaminase activity, His-tagged E105D mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.0295	L-glutamine	*Pdx2 glutaminase activity, wild-type protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.0305	L-glutamine	*Pdx2 glutaminase activity, R288A mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.0307	L-glutamine	*Pdx2 glutaminase activity, R288K mutant Pdx1 protein, pH 7.5, 37&deg;C
+KCAT	Bacillus subtilis	0.127	L-glutamine	*pH 8.0, 37&deg;C

@@ -1,0 +1,1 @@
+ecNumber*4.2.1.95#turnoverNumber*4.77#turnoverNumberMaximum*#substrate*xanthohumol#commentary*pH 6.0, 35&deg;C, recombinant enzyme#organism*Nectria haematococca#ligandStructureId*14743#literature*749123#

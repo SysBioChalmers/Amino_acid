@@ -1,0 +1,2 @@
+KCAT	Mycobacterium tuberculosis	4.25	2-oxoglutarate	*at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	5.29	glyoxylate	*at pH 6.5 and 37&Acirc;&deg;C

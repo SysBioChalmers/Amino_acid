@@ -1,0 +1,1 @@
+KCAT	Synechocystis sp. PCC 6803	16.5	[L-Asp(4-Arg)]n	*30&deg;C in 50 mM N-[2-hydroxy-1,1-bis(hydroxymethyl) ethyl]glycine, pH 8.0, maximum at pH 9.0

@@ -1,0 +1,11 @@
+KCAT	Homo sapiens	89	glutathione	*solubilized enzyme, at pH 6.8 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	128	glutathione	*enzyme in nanodiscs, at pH 6.8 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	382	sulfite	*solubilized enzyme, at pH 6.8 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	650	sulfite	*enzyme in nanodiscs, at pH 6.8 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	62	Sulfide	*solubilized enzyme, at pH 6.8 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	74	Sulfide	*with homocysteine as acceptor, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	84	Sulfide	*enzyme in nanodiscs, at pH 6.8 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	92	Sulfide	*with cysteine as acceptor, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	94	Sulfide	*with glutathione as acceptor, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	113	Sulfide	*with sulfite as acceptor, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	373	Sulfide	*at pH 7.4 and 37&Acirc;&deg;C

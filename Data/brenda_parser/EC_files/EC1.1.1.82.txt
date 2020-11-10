@@ -1,0 +1,12 @@
+KCAT	Aeropyrum pernix	0.16	(2S,3R)-tartrate	*pH 10.0, 50&deg;C, with cofactor NAD+, recombinant enzyme
+KCAT	Aeropyrum pernix	0.2	(2S,3R)-tartrate	*pH 10.0, 50&deg;C, with cofactor NADP+, recombinant enzyme
+KCAT	Aeropyrum pernix	0.37	(2S,3S)-tartrate	*pH 10.0, 50&deg;C, with cofactor NAD+, recombinant enzyme
+KCAT	Sorghum sp.	0.5	(S)-malate	*mutant enzyme D201A
+KCAT	Sorghum sp.	0.9	(S)-malate	*mutant enzyme D201N
+KCAT	Aeropyrum pernix	1.4	(S)-malate	*pH 10.0, 50&deg;C, with cofactor NADP+, recombinant enzyme
+KCAT	Aeropyrum pernix	2.6	(S)-malate	*pH 10.0, 50&deg;C, with cofactor NAD+, recombinant enzyme
+KCAT	Aeropyrum pernix	4.1	(2S,3S)-tartrate	*pH 10.0, 50&deg;C, with cofactor NADP+, recombinant enzyme
+KCAT	Sorghum sp.	110	oxaloacetate	*mutant enzyme D201N
+KCAT	Sorghum sp.	130	oxaloacetate	*mutant enzyme D201A
+KCAT	Sorghum sp.	233	(S)-malate	*wild-type enzyme D201A
+KCAT	Sorghum sp.	1520	oxaloacetate	*wild-type enzyme

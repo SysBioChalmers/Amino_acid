@@ -1,0 +1,1 @@
+ecNumber*5.4.99.61#turnoverNumber*0.00142#turnoverNumberMaximum*#substrate*precorrin-8X#commentary*#organism*Pseudomonas denitrificans (nomen rejiciendum)#ligandStructureId*9246#literature*3210#

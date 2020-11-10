@@ -1,0 +1,2 @@
+KCAT	Aspergillus fumigatus	0.03	dimethylallyl diphosphate	*37&Acirc;&deg;C, pH not specified in the publication
+KCAT	Aspergillus fumigatus	0.03	12alpha,13alpha-dihydroxyfumitremorgin C	*37&Acirc;&deg;C, pH not specified in the publication

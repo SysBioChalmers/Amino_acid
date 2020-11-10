@@ -1,0 +1,48 @@
+KCAT	Escherichia coli	0.57	ATP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E208alphaQ
+KCAT	Escherichia coli	0.85	ATP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E197betaQ
+KCAT	Alcanivorax borkumensis	3.6	ATP	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli	6.08	ATP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E208alphaQ
+KCAT	Escherichia coli K-12	19.6	ATP	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	23	ATP	*at 55&Acirc;&deg;C
+KCAT	Advenella mimigardefordensis	58.8	ATP	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli	1775	ATP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E197betaD
+KCAT	Escherichia coli	1780	ATP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E197betaD
+KCAT	Escherichia coli	2340	ATP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E208alphaD
+KCAT	Escherichia coli	2343	ATP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E208alphaD
+KCAT	Thermococcus kodakarensis	22	ADP	*at 55&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	20	phosphate	*at 55&Acirc;&deg;C
+KCAT	Alcanivorax borkumensis	1.6	CoA	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	25	CoA	*at 55&Acirc;&deg;C
+KCAT	Escherichia coli K-12	26.7	CoA	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Advenella mimigardefordensis	40.3	CoA	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Acetobacter aceti	75.2	acetyl-CoA	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.21	GTP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E197betaQ
+KCAT	Escherichia coli	0.28	GTP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E208alphaQ
+KCAT	Escherichia coli	302	GTP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E208alphaD
+KCAT	Escherichia coli	1775	GTP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E197betaD
+KCAT	Escherichia coli	1780	GTP	*pH 7.4, 22&Acirc;&deg;C, mutant enzyme E197betaD
+KCAT	Acetobacter aceti	280	acetate	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.3	succinate	*mutant enzyme C123ALPHAA, apparent value
+KCAT	Alcanivorax borkumensis	2.7	succinate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	14.3	succinate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli	15.3	succinate	*mutant enzyme C123ALPHAV, apparent value
+KCAT	Thermococcus kodakarensis	29	succinate	*at 55&Acirc;&deg;C
+KCAT	Escherichia coli	29.25	succinate	*mutant enzyme C123ALPHAS, apparent value
+KCAT	Escherichia coli	31	succinate	*mutant enzyme C123ALPHAT, apparent value
+KCAT	Advenella mimigardefordensis	31.1	succinate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli	35.38	succinate	*mutant enzyme C123ALPHAA, apparent value
+KCAT	Escherichia coli	44.73	succinate	*wild type enzyme, apparent value
+KCAT	Acetobacter aceti	70.9	succinate	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Acetobacter aceti	201	succinyl-CoA	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Alcanivorax borkumensis	1.1	L-malate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	1.8	L-malate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Advenella mimigardefordensis	2.6	L-malate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	1.2	D-malate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Alcanivorax borkumensis	1.7	D-malate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Advenella mimigardefordensis	2.1	D-malate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Alcanivorax borkumensis	0.5	Itaconate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	1.5	Itaconate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Advenella mimigardefordensis	5.3	Itaconate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Advenella mimigardefordensis	0.2	3-sulfinopropionate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	0.2	3-sulfinopropionate	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C; recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli	-999	more	*

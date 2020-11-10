@@ -1,0 +1,5 @@
+KCAT	uncultured bacterium HF130_AEPn_1	2	(2-amino-1-hydroxyethyl)phosphonate	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant H62A
+KCAT	uncultured bacterium HF130_AEPn_1	3	(2-amino-1-hydroxyethyl)phosphonate	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant E27A
+KCAT	uncultured bacterium HF130_AEPn_1	4	(2-amino-1-hydroxyethyl)phosphonate	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant H80A
+KCAT	uncultured bacterium HF130_AEPn_1	8	(2-amino-1-hydroxyethyl)phosphonate	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant Y24E
+KCAT	uncultured bacterium HF130_AEPn_1	11	(2-amino-1-hydroxyethyl)phosphonate	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant Y24F; pH 7.0, 25&Acirc;&deg;C, recombinant wild-type enzyme

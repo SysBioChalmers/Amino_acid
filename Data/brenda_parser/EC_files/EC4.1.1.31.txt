@@ -1,0 +1,16 @@
+KCAT	Corynebacterium glutamicum	0.005	phosphoenolpyruvate	*mutant K653Q, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	0.038	phosphoenolpyruvate	*mutant K653R, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	0.055	phosphoenolpyruvate	*wild-type, pH 8.5, 25&Acirc;&deg;C
+KCAT	Sorghum bicolor	0.174	phosphoenolpyruvate	*DELTAC4, deletion of the last 4 c-terminal amino acids
+KCAT	Alternanthera sessilis	6.1	phosphoenolpyruvate	*without 5 mM glucose 6-phosphate
+KCAT	Sorghum bicolor	7.2	phosphoenolpyruvate	*G961V
+KCAT	Sorghum bicolor	9.5	phosphoenolpyruvate	*DELTAC1, deletion of the last c-terminal amino acid
+KCAT	Alternanthera sessilis	16	phosphoenolpyruvate	*+ 5 mM glucose 6-phosphate
+KCAT	Sorghum bicolor	17.4	phosphoenolpyruvate	*G961A
+KCAT	Alternanthera ficoidea	33	phosphoenolpyruvate	*+ 5 mM D-glucose 6-phosphate; without 5 mM D-glucose 6-phosphate
+KCAT	Alternanthera pungens	38	phosphoenolpyruvate	*+ 5 mM D-glucose 6-phosphate; without 5 mM D-glucose 6-phosphate
+KCAT	Spinacia oleracea	43	phosphoenolpyruvate	*with Mn2+ as activator
+KCAT	Sorghum bicolor	66	phosphoenolpyruvate	*
+KCAT	Spinacia oleracea	69	phosphoenolpyruvate	*with Mg2+ as activator
+KCAT	Escherichia coli	540	phosphoenolpyruvate	*wild-type enzyme
+KCAT	Escherichia coli	-999	more	*

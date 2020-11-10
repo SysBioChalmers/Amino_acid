@@ -1,0 +1,1 @@
+KCAT	Thermotoga maritima	325	6-phospho-D-gluconate	*with NADP+ as cosubstrate, in 50 mM HEPES buffer (pH 7.5), at 80&Acirc;&deg;C

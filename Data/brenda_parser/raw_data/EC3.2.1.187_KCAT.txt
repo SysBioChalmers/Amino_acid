@@ -1,0 +1,1 @@
+ecNumber*3.2.1.187#turnoverNumber*2.7#turnoverNumberMaximum*#substrate*4-O-(beta-L-arabinofuranosyl-(1-&gt;2)-beta-L-arabinofuranosyl-(1-&gt;2)-beta-L-arabinofuranosyl)-(2S,4S)-4-hydroxyproline#commentary*in 50 mM sodium acetate (pH 6.0), at 37&deg;C#organism*Bifidobacterium longum#ligandStructureId*28987#literature*725455#

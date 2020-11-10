@@ -1,0 +1,23 @@
+KCAT	Homo sapiens	0.2	2''-O-acetyl-ADP-D-ribose	*at pH 7.3 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.2	2''-O-acetyl-ADP-D-ribose	*mutant enzyme D35A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.72	2''-O-acetyl-ADP-D-ribose	*at pH 6.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.814	2''-O-acetyl-ADP-D-ribose	*mutant enzyme N25A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	1.31	2''-O-acetyl-ADP-D-ribose	*wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.002	O-acetyl-ADP-D-ribose	*mutant G270E of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Escherichia coli	0.005	O-acetyl-ADP-D-ribose	*mutant G124E, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.007	O-acetyl-ADP-D-ribose	*mutant G214E, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.014	O-acetyl-ADP-D-ribose	*mutant N174A/D184A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.078	O-acetyl-ADP-D-ribose	*mutant D184A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.082	O-acetyl-ADP-D-ribose	*mutant N171A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.113	O-acetyl-ADP-D-ribose	*mutant N174A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.114	O-acetyl-ADP-D-ribose	*mutant D160A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C; mutant H188A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.12	O-acetyl-ADP-D-ribose	*isoform MacroD2, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.136	O-acetyl-ADP-D-ribose	*mutant D167A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.153	O-acetyl-ADP-D-ribose	*mutant S268A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.179	O-acetyl-ADP-D-ribose	*mutant C199A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.195	O-acetyl-ADP-D-ribose	*mutant S176A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.198	O-acetyl-ADP-D-ribose	*isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Homo sapiens	0.204	O-acetyl-ADP-D-ribose	*mutant T226A of isoform MacroD1, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Escherichia coli	0.48	O-acetyl-ADP-D-ribose	*wild type enzyme, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.679	O-acetyl-ADP-D-ribose	*mutant D122A, at pH 7.3 and 23&Acirc;&deg;C
+KCAT	Staphylococcus aureus	2.77	O-acetyl-ADP-D-ribose	*wild type enzyme, at pH 7.3 and 23&Acirc;&deg;C

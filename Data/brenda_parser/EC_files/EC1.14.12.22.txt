@@ -1,0 +1,3 @@
+KCAT	Janthinobacterium sp. J3	4	9H-carbazole	*mutant enzyme Q282N, at pH 7.5 and 30&deg;C
+KCAT	Janthinobacterium sp. J3	4.62	9H-carbazole	*mutant enzyme I262V, at pH 7.5 and 30&deg;C
+KCAT	Janthinobacterium sp. J3	5.49	9H-carbazole	*mutant enzyme Q282Y, at pH 7.5 and 30&deg;C

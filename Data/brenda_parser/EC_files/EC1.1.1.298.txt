@@ -1,0 +1,4 @@
+KCAT	Bacillus cereus	0.21	3-hydroxypropanoate	*pH 8.5, 37&deg;C
+KCAT	Bacillus cereus	0.21	3-hydroxypropionate	*pH 8.5, 37&deg;C; pH 8.5, 37&deg;C, recombinant enzyme
+KCAT	Metallosphaera sedula	115	malonate semialdehyde	*pH 7.4, 65&deg;C
+KCAT	Metallosphaera sedula	115	NADPH	*pH 7.4, 65&deg;C

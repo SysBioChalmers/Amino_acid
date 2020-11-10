@@ -1,0 +1,24 @@
+KCAT	Homo sapiens	0.15	LEED-p-nitroanilide	*pH 7.75
+KCAT	Homo sapiens	0.22	LEED-p-nitroanilide	*pH 7.75
+KCAT	Homo sapiens	0.3	VEID-p-nitroanilide	*pH 7.75
+KCAT	Homo sapiens	0.6	2-aminobenzoyl-VVAESSMESK-dnp	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.7	2-aminobenzoyl-IEPDSSMEK-dnp	*pH 7.4, 37&deg;C, mutant K27A
+KCAT	Homo sapiens	0.72	VEID-p-nitroanilide	*pH 7.75
+KCAT	Homo sapiens	1.5	2-aminobenzoyl-VVADSSMESK-dnp	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	3.7	2-aminobenzoyl-VVADSSMASK-dnp	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	4.2	2-aminobenzoyl-IEPDSSMEK-dnp	*pH 7.4, 37&deg;C, mutant K24A
+KCAT	Homo sapiens	4.34	acetyl-IETD-p-nitroanilide	*native enzyme, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	4.4	2-aminobenzoyl-IEPDSSMEK-dnp	*pH 7.4, 37&deg;C, wild-type
+KCAT	Homo sapiens	4.4	2-aminobenzoyl-IEPDSSMESK-dnp	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	4.4	Abz-IEPDSSMESK-2,4-dinitrophenyl	*wild-type, 37&deg;C
+KCAT	Homo sapiens	4.6	Abz-IEPDSSMESK-2,4-dinitrophenyl	*mutant Q48R/P88A/Y245H, 37&deg;C
+KCAT	Homo sapiens	4.9	IEPD-p-nitroanilide	*pH 7.75
+KCAT	Homo sapiens	5	IEPD-p-nitroanilide	*pH 7.75
+KCAT	Homo sapiens	5.23	acetyl-IETD-p-nitroanilide	*recombinant enzyme, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	11	Boc-Ala-Ala-Asp-SBzl	*pH 7.5, 25&deg;C, native enzyme
+KCAT	Homo sapiens	11	Nalpha-tert-Butyloxycarbonyl-L-Ala-L-Ala-L-Asp thiobenzyl ester	*
+KCAT	Homo sapiens	12	Boc-Ala-Ala-Asp-SBzl	*pH 7.5, 25&deg;C, recombinant enzyme
+KCAT	Mus musculus	16	Boc-Ala-Ala-Asp-SBzl	*pH 7.5, 23&deg;C
+KCAT	Homo sapiens	18	Boc-Ala-Ala-Asp-SBzl	*pH 7.5, 23&deg;C
+KCAT	Mus musculus	24	Nalpha-tert-Butyloxycarbonyl-Ala-Ala-Met thiobenzyl ester	*mouse
+KCAT	Mus musculus	116	Nalpha-tert-butyloxycarbonyl-Ala-Ala-Asp thiobenzyl ester	*mouse

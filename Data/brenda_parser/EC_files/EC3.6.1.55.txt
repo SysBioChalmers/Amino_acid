@@ -1,0 +1,1 @@
+KCAT	Ciona intestinalis	2.55	8-oxo-dGTP	*pH 9.5, 30&Acirc;&deg;C

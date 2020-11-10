@@ -1,0 +1,1 @@
+ecNumber*3.5.1.66#turnoverNumber*2.3#turnoverNumberMaximum*#substrate*2-(Hydroxymethyl)-3-(acetamidomethylene)succinate#commentary*turnover no./subunit, 25&Acirc;&deg;C#organism*Arthrobacter sp.#ligandStructureId*9004#literature*172028#

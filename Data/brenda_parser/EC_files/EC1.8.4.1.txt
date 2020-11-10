@@ -1,0 +1,2 @@
+KCAT	Aspergillus flavipes	0.056	cysteine	*pH 5.2, 40&deg;C
+KCAT	Aspergillus flavipes	0.078	glutathione	*pH 5.2, 40&deg;C

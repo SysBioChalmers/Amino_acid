@@ -1,0 +1,1 @@
+ecNumber*1.1.1.262#turnoverNumber*1.4#turnoverNumberMaximum*#substrate*4-(phosphohydroxy)-L-threonine#commentary*#organism*Escherichia coli#ligandStructureId*32083#literature*207962#

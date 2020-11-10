@@ -1,0 +1,16 @@
+KCAT	Kluyveromyces lactis	0.78	Urea	*mutant S177A, pH 8.0, temperature not specified in the publication
+KCAT	Kluyveromyces lactis	1.33	Urea	*mutant K1605A, pH 8.0, temperature not specified in the publication
+KCAT	Kluyveromyces lactis	1.44	Urea	*mutant enzyme K1605A, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22&deg;C
+KCAT	Kluyveromyces lactis	3	Urea	*mutant G559E/G572E, pH 8.0, temperature not specified in the publication
+KCAT	Kluyveromyces lactis	3.16	Urea	*mutant enzyme D1321A, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22&deg;C
+KCAT	Kluyveromyces lactis	10.07	Urea	*isolated urea carboxyxlase domain plus allophanate hydrolase domain, pH 8.0, temperature not specified in the publication
+KCAT	Kluyveromyces lactis	12.68	Urea	*mixture of mutants S177A and mutant K1605A, pH 8.0, temperature not specified in the publication
+KCAT	Kluyveromyces lactis	13.9	Urea	*wild-type, pH 8.0, temperature not specified in the publication
+KCAT	Oleomonas sagaranensis	16.8	Formamide	*30&deg;C, pH 7.5
+KCAT	Oleomonas sagaranensis	40.4	acetamide	*30&deg;C, pH 7.5
+KCAT	Oleomonas sagaranensis	44.2	Urea	*30&deg;C, pH 7.5
+KCAT	Kluyveromyces lactis	45.8	Urea	*mutant enzyme Y1324F, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22&deg;C
+KCAT	Kluyveromyces lactis	61.8	Urea	*mutant enzyme D1564N, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22&deg;C
+KCAT	Kluyveromyces lactis	64.9	Urea	*mutant enzyme Y1628F, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22&deg;C
+KCAT	Kluyveromyces lactis	68.7	Urea	*mutant enzyme E1792A, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22&deg;C
+KCAT	Kluyveromyces lactis	210.8	Urea	*wild type enzyme, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22&deg;C

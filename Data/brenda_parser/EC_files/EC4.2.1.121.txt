@@ -1,0 +1,2 @@
+KCAT	Solanum lycopersicum	890	(9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoate	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Solanum lycopersicum	500	(9S,10E,12Z,15Z)-9-hydroperoxy-10,12,15-octadecatrienoate	*pH 7.0, 25&Acirc;&deg;C

@@ -1,0 +1,162 @@
+KCAT	Homo sapiens	0.01	UTP	*cosubstrate L-2'-deoxycytidine, wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.012	ATP	*cosubstrate L-2'-deoxycytidine, wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.015	deoxycytidine	*pH 7.6, 37&deg;C, wild-type enzyme, with co-substrate ATP
+KCAT	Homo sapiens	0.02	2,5-difluoro-4-[1-(2-deoxy-beta-L-ribofuranosyl)]-aniline	*pH 7.6, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	0.021	deoxycytidine	*pH 7.6, 37&deg;C, wild-type enzyme, with co-substrate UTP
+KCAT	Homo sapiens	0.028	ATP	*wild type enzyme with 2'-deoxycytidine as cosubstrate
+KCAT	Homo sapiens	0.028	ATP	*cosubstrate (-)-beta-2',3'-dideoxy-3'-thiacytidine, mutant C9S/C45S/C59S/C146S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.028	(-)-beta-2',3'-dideoxy-3'-thiacytidine	*C9S/C45S/C59S/C146S mutant enzyme with ATP as phosphate donor, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.03	ATP	*cosubstrate (-)-beta-2',3'-dideoxy-3'-thiacytidine, wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.03	(-)-beta-2',3'-dideoxy-3'-thiacytidine	*wild type enzyme with ATP as phosphate donor, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.031	UTP	*wild type enzyme deletion mutant with 2'-deoxycytidine as cosubstrate
+KCAT	Homo sapiens	0.033	2'-deoxycytidine	*less than 0.001 mM, wild type enzyme with ATP as cosubstrate
+KCAT	Homo sapiens	0.033	ATP	*cosubstrate D-2'-deoxycytidine, wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.035	deoxycytidine	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.036	ATP	*cosubstrate L-2'-deoxycytidine, mutant C9S/C45S/C59S/C146S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.039	ATP	*residues 65-79 deletion mutant with 2'-deoxycytidine as cosubstrate
+KCAT	Homo sapiens	0.04	2'-deoxycytidine	*mutant S74A, pH 7.5, 25&deg;C; mutant S74Q, pH 7.5, 25&deg;C; wild-type, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.04	2'-deoxycytidine	*wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	0.041	UTP	*residues 65-79 deletion mutant with 2'-deoxycytidine as cosubstrate
+KCAT	Homo sapiens	0.042	UTP	*cosubstrate L-2'-deoxycytidine, mutant C9S/C45S/C59S/C146S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.044	2'-deoxycytidine	*less than 0.001 mM, wild type enzyme with UTP as cosubstrate
+KCAT	Homo sapiens	0.049	2'-deoxycytidine	*residues 65-79 deletion mutant with ATP as cosubstrate
+KCAT	Homo sapiens	0.049	UTP	*cosubstrate D-2'-deoxycytidine, wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.064	deoxycytidine	*wild-type, pH 7.5, 30&deg;C; wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.072	(-)-beta-2',3'-dideoxy-3'-thiacytidine	*C9S/C45S/C59S/C146S mutant enzyme with UTP as phosphate donor, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.072	UTP	*cosubstrate (-)-beta-2',3'-dideoxy-3'-thiacytidine, mutant C9S/C45S/C59S/C146S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.075	UTP	*residues 65-79 deletion mutant with 1-beta-D-arabinofuranosylcytosine as cosubstrate
+KCAT	Homo sapiens	0.0804	cladribine	*pH 7.6, 37&deg;C, wild-type enzyme, with co-substrate UTP
+KCAT	Homo sapiens	0.088	2'-deoxycytidine	*less than 0.001 mM, residues 65-79 deletion mutant with UTP as cosubstrate
+KCAT	Homo sapiens	0.093	UTP	*wild type enzyme deletion mutant with 1-beta-D-arabinofuranosylcytosine as cosubstrate
+KCAT	Homo sapiens	0.095	ATP	*cosubstrate troxacitabine, wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.095	troxacitabine	*wild type enzyme with ATP as phosphate donor, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.102	(-)-beta-2',3'-dideoxy-3'-thiacytidine	*wild type enzyme with UTP as phosphate donor, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.102	UTP	*cosubstrate (-)-beta-2',3'-dideoxy-3'-thiacytidine, wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.11	2'-deoxycytidine	*pH 7.6, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	0.123	deoxycytidine	*pH 7.6, 37&deg;C, enzyme mutant S74E, with co-substrate UTP
+KCAT	Homo sapiens	0.15	1-beta-D-arabinofuranosylcytosine	*residues 65-79 deletion mutant with UTP as cosubstrate
+KCAT	Homo sapiens	0.16	2'-deoxycytidine	*mutant S74D, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.17	1-beta-D-arabinofuranosylcytosine	*wild type enzyme with UTP as cosubstrate
+KCAT	Homo sapiens	0.172	cladribine	*pH 7.6, 37&deg;C, wild-type enzyme, with co-substrate ATP
+KCAT	Homo sapiens	0.173	ATP	*cosubstrate D-2'-deoxycytidine, mutant C9S/C45S/C59S/C146S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.177	fludarabine	*pH 7.6, 37&deg;C, wild-type enzyme, with co-substrate UTP
+KCAT	Homo sapiens	0.179	UTP	*cosubstrate troxacitabine, wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.183	deoxycytidine	*pH 7.6, 37&deg;C, enzyme mutant S74E, with co-substrate ATP
+KCAT	Homo sapiens	0.192	ATP	*cosubstrate troxacitabine, mutant C9S/C45S/C59S/C146S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.192	troxacitabine	*C9S/C45S/C59S/C146S mutant enzyme with ATP as phosphate donor, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.21	deoxycytidine	*mutant D47E/R104Q/D133G/N163I/F242L, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	0.211	cladribine	*pH 7.6, 37&deg;C, enzyme mutant S74E, with co-substrate UTP
+KCAT	Homo sapiens	0.217	UTP	*cosubstrate D-2'-deoxycytidine, mutant C9S/C45S/C59S/C146S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.25	2'-deoxycytidine	*mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	0.3	1-beta-D-arabinofuranosylcytosine	*wild type enzyme with ATP as cosubstrate
+KCAT	Homo sapiens	0.3	1-beta-D-arabinofuranosylcytosine	*mutant S74Q, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.31	2'-deoxyadenosine	*residues 65-79 deletion mutant with UTP as cosubstrate
+KCAT	Homo sapiens	0.31	2'-deoxyguanosine	*mutant A100V/R104M/D133A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.32	1-beta-D-arabinofuranosylcytosine	*wild-type, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.32	2'-deoxyguanosine	*residues 65-79 deletion mutant with UTP as cosubstrate
+KCAT	Homo sapiens	0.33	1-beta-D-arabinofuranosylcytosine	*mutant S74A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.33	2'-deoxyadenosine	*wild type enzyme with UTP as cosubstrate
+KCAT	Homo sapiens	0.33	2'-deoxyguanosine	*wild type enzyme with UTP as cosubstrate
+KCAT	Homo sapiens	0.34	1-beta-D-arabinosylcytosine	*wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	0.36	2'-deoxyguanosine	*mutant S74E, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.36	ATP	*residues 65-79 deletion mutant with 1-beta-D-arabinofuranosylcytosine as cosubstrate
+KCAT	Homo sapiens	0.363	fludarabine	*pH 7.6, 37&deg;C, enzyme mutant S74E, with co-substrate UTP
+KCAT	Homo sapiens	0.37	2-chlorodeoxyadenosine	*cosubstrate UTP, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.37	2'-deoxyadenosine	*cosubstrate UTP, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.37	deoxycytidine	*mutant R104Q/D133G, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	0.38	cytarabine	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.38	thymidine	*wild-type, pH 7.5, 30&deg;C; wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.39	gemcitabine	*wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	0.4	ATP	*wild type enzyme with 1-beta-D-arabinofuranosylcytosine as cosubstrate
+KCAT	Homo sapiens	0.41	1-beta-D-arabinofuranosylcytosine	*residues 65-79 deletion mutant with ATP as cosubstrate
+KCAT	Homo sapiens	0.44	2',2'-difluorodeoxycytidine	*wild-type, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.45	2',2'-difluorodeoxycytidine	*mutant S74Q, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.45	2'-deoxycytidine	*mutant S74E, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.486	clofarabine	*pH 7.6, 37&deg;C, wild-type enzyme, with co-substrate UTP
+KCAT	Homo sapiens	0.5	2',2'-difluorodeoxycytidine	*mutant S74A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.524	UTP	*cosubstrate troxacitabine, mutant C9S/C45S/C59S/C146S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.53	2'-deoxyguanosine	*cosubstrate UTP, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.57	1-beta-D-arabinofuranosylcytosine	*mutant S74D, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.57	2'-deoxyguanosine	*mutant S74D, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.57	gemcitabine	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.58	deoxycytidine	*mutant R104M/D133A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.6	2-chlorodeoxyadenosine	*cosubstrate ATP, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.65	2'-deoxyguanosine	*mutant S74Q, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.68	2'-deoxyguanosine	*mutant S74A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.68	thymidine	*mutant D47E/R104Q/D133G/N163I/F242L, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	0.69	2'-deoxyadenosine	*mutant S74E, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.73	2'-deoxyguanosine	*wild-type, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.77	2'-deoxyadenosine	*wild-type, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.79	1-beta-D-arabinosylcytosine	*mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	0.88	clofarabine	*pH 7.6, 37&deg;C, enzyme mutant S74E, with co-substrate UTP
+KCAT	Homo sapiens	0.9	2',2'-difluorodeoxycytidine	*mutant S74D, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.9	2'-deoxyadenosine	*mutant S74Q, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	1	2'-deoxyadenosine	*mutant S74D, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	1.005	fludarabine	*pH 7.6, 37&deg;C, enzyme mutant S74E, with co-substrate ATP
+KCAT	Homo sapiens	1.01	thymidine	*mutant R104Q/D133G, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	1.06	1-beta-D-arabinofuranosylcytosine	*mutant S74E, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	1.08	2'-deoxyadenosine	*mutant D47E/R104Q/D133G/N163I/F242L, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	1.11	clofarabine	*pH 7.6, 37&deg;C, wild-type enzyme, with co-substrate ATP
+KCAT	Homo sapiens	1.12	2'-deoxyadenosine	*mutant S74A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	1.18	2'-deoxyguanosine	*mutant D47E/R104Q/D133G/N163I/F242L, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	1.2	deoxycytidine	*mutant A100V/R104M/D133A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.21	2',2'-difluorodeoxycytidine	*mutant S74E, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	1.23	2'-deoxyguanosine	*mutant R104M/D133A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.3	deoxycytidine	*mutant R104Q/D133N, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	1.33	L-thymidine	*mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	1.334	fludarabine	*pH 7.6, 37&deg;C, wild-type enzyme, with co-substrate ATP
+KCAT	Homo sapiens	1.386	cladribine	*pH 7.6, 37&deg;C, enzyme mutant S74E, with co-substrate ATP
+KCAT	Homo sapiens	1.43	1-beta-D-arabinosylcytosine	*mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	1.49	thymidine	*mutant R104M/D133T, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.5	2'-deoxyguanosine	*mutant R104Q/D133G, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	1.51	thymidine	*mutant R104Q/D133N, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	1.57	thymidine	*mutant A100V/R104M/D133T, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.7	2'-deoxyadenosine	*wild type enzyme with ATP as cosubstrate
+KCAT	Homo sapiens	1.7	deoxycytidine	*mutant R104M/D133S, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.72	2'-deoxyguanosine	*mutant A100V/R104M/D133S, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.73	2'-deoxyguanosine	*mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	1.74	D-thymidine	*mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	1.75	2'-deoxyadenosine	*mutant R104Q/D133G, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	1.8	2'-deoxycytidine	*mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	1.88	thymidine	*mutant R104M/D133A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.91	thymidine	*mutant A100V/R104M/D133S, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.92	2'-deoxyguanosine	*mutant R104Q/D133N, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	2	2'-deoxyadenosine	*mutant R104Q/D133N, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	2.01	gemcitabine	*mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	2.1	2'-deoxyadenosine	*cosubstrate ATP, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.1	deoxycytidine	*mutant A100V/R104M/D133S, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.13	2'-deoxyadenosine	*wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	2.2	2'-deoxyguanosine	*residues 65-79 deletion mutant with ATP as cosubstrate
+KCAT	Homo sapiens	2.23	deoxycytidine	*mutant R104M/D133N, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.27	thymidine	*mutant R104M/D133N, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.29	2'-deoxyguanosine	*mutant A100V/R104M/D133T, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.33	thymidine	*mutant R104M/D133S, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.45	clofarabine	*pH 7.6, 37&deg;C, enzyme mutant S74E, with co-substrate ATP
+KCAT	Homo sapiens	2.5	2'-deoxyguanosine	*mutant R104M/D133T, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.5	2'-deoxyguanosine	*cosubstrate ATP, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.6	2'-deoxyguanosine	*wild type enzyme with ATP as cosubstrate
+KCAT	Homo sapiens	2.6	2'-deoxyguanosine	*wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	2.67	2'-deoxyadenosine	*mutant A100V/R104M/D133T, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.68	gemcitabine	*mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	2.71	2'-deoxyadenosine	*mutant R104M/D133A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.8	2'-deoxyadenosine	*residues 65-79 deletion mutant with ATP as cosubstrate
+KCAT	Homo sapiens	2.86	deoxycytidine	*mutant R104M/D133T, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.1	2'-deoxyadenosine	*wild-type, pH 7.5, 30&deg;C; wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.13	L-thymidine	*mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	3.2	D-thymidine	*mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	3.26	2'-deoxyguanosine	*wild-type, pH 7.5, 30&deg;C; wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.29	thymidine	*mutant A100V/R104M/D133A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.37	2'-deoxyadenosine	*mutant A100V/R104M/D133S, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.4	2'-deoxyadenosine	*mutant A100V/R104M/D133A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.47	2'-deoxyadenosine	*mutant R104M/D133N, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.54	deoxycytidine	*mutant A100V/R104M/D133T, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.59	2'-deoxyguanosine	*mutant R104M/D133N, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.66	2'-deoxyguanosine	*mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	4.14	2'-deoxyadenosine	*mutant R104M/D133T, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	4.38	2'-deoxyguanosine	*mutant R104M/D133S, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	4.51	2'-deoxyadenosine	*mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	4.85	2'-deoxyadenosine	*mutant R104M/D133S, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	5.72	2'-deoxyadenosine	*mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37&deg;C
+KCAT	Homo sapiens	6.08	troxacitabine	*C9S/C45S/C59S/C146S mutant enzyme with UTP as phosphate donor, 37&deg;C, pH 7.5
+KCAT	Mus musculus	1330	deoxycytidine	*cytosine arabinoside-induced cells
+KCAT	Mus musculus	78300	deoxycytidine	*

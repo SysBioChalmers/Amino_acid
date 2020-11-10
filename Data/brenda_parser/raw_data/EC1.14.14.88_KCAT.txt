@@ -1,0 +1,1 @@
+ecNumber*1.14.14.88#turnoverNumber*0.028#turnoverNumberMaximum*#substrate*formononetin#commentary*pH 8.0, 2 mM NADPH#organism*Medicago truncatula#ligandStructureId*2655#literature*660173#!ecNumber*1.14.14.88#turnoverNumber*0.1#turnoverNumberMaximum*#substrate*Biochanin A#commentary*pH 8.0, 2 mM NADPH#organism*Medicago truncatula#ligandStructureId*1435#literature*660173#

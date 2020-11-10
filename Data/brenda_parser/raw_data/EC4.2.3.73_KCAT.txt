@@ -1,0 +1,1 @@
+ecNumber*4.2.3.73#turnoverNumber*0.0032#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH 7.0, 30&Acirc;&deg;C#organism*Callitropsis nootkatensis#ligandStructureId*81#literature*730580#

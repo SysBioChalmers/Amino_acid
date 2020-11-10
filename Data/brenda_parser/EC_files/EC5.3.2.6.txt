@@ -1,0 +1,45 @@
+KCAT	Pseudomonas putida	0.4	2-hydroxy-2,4-hexadienedioate	*below, pH 7.3, 23&Acirc;&deg;C, mutant R11A/R39A
+KCAT	Pseudomonas putida	2	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 23&Acirc;&deg;C, mutant R39A
+KCAT	Chloroflexus aurantiacus	3	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant betaP1A
+KCAT	Pseudomonas putida	9	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 23&Acirc;&deg;C, mutant R39Q
+KCAT	Pseudomonas putida	40	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 23&Acirc;&deg;C, mutant R11A
+KCAT	Chloroflexus aurantiacus	43	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant alphaR12A
+KCAT	Chloroflexus aurantiacus	65	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant alphaR40A
+KCAT	Chloroflexus aurantiacus	733	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant betaR39A
+KCAT	Chloroflexus aurantiacus	3000	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 24&Acirc;&deg;C, recombinant wild-type hh4-OT
+KCAT	Pseudomonas putida	3500	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 23&Acirc;&deg;C, wild-type enzyme
+KCAT	Chloroflexus aurantiacus	3500	2-hydroxy-2,4-hexadienedioate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant betaR11A
+KCAT	Chloroflexus aurantiacus	0.2	phenylenolpyruvate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant betaP1A
+KCAT	Chloroflexus aurantiacus	0.6	phenylenolpyruvate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant alphaR12A
+KCAT	Archaeoglobus fulgidus	2.4	phenylenolpyruvate	*pH 7.3, 23&Acirc;&deg;C
+KCAT	Helicobacter pylori	2.6	phenylenolpyruvate	*pH 7.3, 23&Acirc;&deg;C
+KCAT	Chloroflexus aurantiacus	11	phenylenolpyruvate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant betaR39A
+KCAT	Chloroflexus aurantiacus	13	phenylenolpyruvate	*pH 7.3, 24&Acirc;&deg;C, recombinant wild-type hh4-OT
+KCAT	Chloroflexus aurantiacus	17	phenylenolpyruvate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant betaR11A
+KCAT	Chloroflexus aurantiacus	44	phenylenolpyruvate	*pH 7.3, 24&Acirc;&deg;C, recombinant hh4-OT mutant alphaR40A
+KCAT	Pseudomonas putida	0.2	2-hydroxymuconate	*mutant enzyme R39A, in 10 mM potassium phosphate buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Pseudomonas putida	0.3	2-hydroxymuconate	*mutant 4-OT L8R/I52E, pH 7.3, 23&Acirc;&deg;C
+KCAT	Pseudomonas putida	1.5	2-hydroxymuconate	*mutant enzyme P1A, in 10 mM potassium phosphate buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Pseudomonas putida	14	2-hydroxymuconate	*mutant enzyme R11A, in 10 mM potassium phosphate buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Methylibium petroleiphilum	18.5	2-hydroxymuconate	*isoform 4-oxalocrotonate tautomerase II, in 10 mM potassium phosphate buffer, pH 7.3, at 24&Acirc;&deg;C
+KCAT	Pseudomonas putida	32	2-hydroxymuconate	*mutant 4-OT I52E, pH 7.3, 23&Acirc;&deg;C
+KCAT	Pseudomonas putida	61	2-hydroxymuconate	*mutant 4-OT L8R, pH 7.3, 23&Acirc;&deg;C
+KCAT	Pseudomonas putida	360	2-hydroxymuconate	*mutant enzyme R61A, in 10 mM potassium phosphate buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Pseudomonas putida	1850	2-hydroxymuconate	*wild type enzyme, in 10 mM potassium phosphate buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Pseudomonas putida	3500	2-hydroxymuconate	*wild-type 4-OT, pH 7.3, 23&Acirc;&deg;C
+KCAT	Methylibium petroleiphilum	4600	2-hydroxymuconate	*isoform 4-oxalocrotonate tautomerase I, in 10 mM potassium phosphate buffer, pH 7.3, at 24&Acirc;&deg;C
+KCAT	Pseudomonas putida	139000	2-hydroxymuconate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.05	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate	*pH 7.3, 23&Acirc;&deg;C, conversion to compound 5
+KCAT	Archaeoglobus fulgidus	0.2	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate	*pH 7.3, 23&Acirc;&deg;C, conversion to (3E)-2-oxohex-3-enedioate
+KCAT	Helicobacter pylori	0.6	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate	*pH 7.3, 23&Acirc;&deg;C, conversion to (3E)-2-oxohex-3-enedioate; pH 7.3, 23&Acirc;&deg;C, conversion to compound 5
+KCAT	Pseudomonas putida	1330	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate	*at pH 7.3 and 22&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.1	2-hydroxy-2,4-pentadienoate	*pH 7.3, 23&Acirc;&deg;C
+KCAT	Pseudomonas putida	0.4	2-hydroxy-2,4-pentadienoate	*pH 7.3, 23&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	1	2-hydroxy-2,4-pentadienoate	*pH 7.3, 23&Acirc;&deg;C, mutant R11A
+KCAT	Helicobacter pylori	2.5	2-hydroxy-2,4-pentadienoate	*pH 7.3, 23&Acirc;&deg;C
+KCAT	Pseudomonas putida	288000	2-oxo-3-hexenedioate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	2890	2-oxo-4(E)-hexenedioate	*D-4OT enantiomer, pH 7.3, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	2940	2-oxo-4(E)-hexenedioate	*L-4OT enantiomer, pH 7.3, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	16	(2E)-2-hydroxy-3-phenylprop-2-enoate	*wild type enzyme, in 10 mM potassium phosphate buffer, pH 7.3, at 22&Acirc;&deg;C
+KCAT	Methylibium petroleiphilum	3.4	5-(methyl)-2-hydroxymuconate	*isoform 4-oxalocrotonate tautomerase II, in 10 mM potassium phosphate buffer, pH 7.3, at 24&Acirc;&deg;C
+KCAT	Methylibium petroleiphilum	107	5-(methyl)-2-hydroxymuconate	*isoform 4-oxalocrotonate tautomerase I, in 10 mM potassium phosphate buffer, pH 7.3, at 24&Acirc;&deg;C

@@ -1,0 +1,2 @@
+KCAT	Pseudomonas putida	29	Alpha-naphthyl acetate	*37&deg;C, pH 7.5
+KCAT	Pseudomonas putida	64	4-nitrophenyl acetate	*37&deg;C, pH 7.5

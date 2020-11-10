@@ -1,0 +1,3 @@
+KCAT	Burkholderia lata	0.01	chorismate	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	0.16	chorismate	*ammonium sulfate as ammonia source, pH 7.0, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	2.2	chorismate	*L-glutamine as ammonia source, pH 7.0, 25&Acirc;&deg;C

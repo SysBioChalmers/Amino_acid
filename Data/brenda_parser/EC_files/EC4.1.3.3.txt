@@ -1,0 +1,107 @@
+KCAT	Escherichia coli	0.0002	N-acetyl-L-neuraminic acid	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.0045	N-acetyl-L-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/V251I
+KCAT	Escherichia coli	0.0068	N-acetyl-L-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/V251I/V265I
+KCAT	Haemophilus influenzae	0.013	N-acetylneuraminate	*mutant Y137F enzyme, pH 7.4, 30&deg;C
+KCAT	Staphylococcus aureus	0.013	N-acetylneuraminate	*purified recombinant mutant K165C, pH 7.4, 30&deg;C
+KCAT	Staphylococcus aureus	0.015	N-acetylneuraminate	*purified recombinant mutant K165-gamma-thialysine, pH 6.8, 30&deg;C
+KCAT	Escherichia coli	0.02	N-acetyl-L-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme E60A/Y98H/F115L/N153Y/D150G/V251I/V265I/Y281C/N153Y; pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/N153Y/V251I/V265I/Y281C
+KCAT	Staphylococcus aureus	0.023	N-acetylneuraminate	*purified recombinant mutant K165-gamma-thialysine, pH 7.4, 30&deg;C
+KCAT	Lactobacillus antri	0.032	N-acetylneuraminate	*mutant enzyme G211S, at pH 7.0 and 37&deg;C
+KCAT	Staphylococcus aureus	0.036	N-acetylneuraminate	*purified recombinant wild-type enzyme, pH 7.4, 30&deg;C
+KCAT	Staphylococcus aureus	0.04	N-acetylneuraminate	*purified recombinant wild-type enzyme, pH 6.8, 30&deg;C
+KCAT	Haemophilus influenzae	0.057	(2R,3R,4R)-6-[(aminooxy)carbonyl]-3,4,6-trihydroxy-N-propyltetrahydro-2H-pyran-2-carboxamide	*mutant enzyme E192N
+KCAT	Escherichia coli	0.1	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192D mutant protein, pH 7.5, 25&deg;C
+KCAT	Lactobacillus antri	0.13	N-acetylneuraminate	*mutant enzyme P193Y, at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	0.29	N-acetylneuraminate	*mutant enzyme L199N/I229D, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	0.42	N-acetylneuraminic acid	*E192P mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	0.43	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192S mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	0.44	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	*pH 7.5, 25&deg;C, mutant enzyme S208G
+KCAT	Lactobacillus antri	0.47	N-acetylneuraminate	*mutant enzyme G210S/Y213G, at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	0.63	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192H mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	0.664	N-acetylneuraminate	*mutant enzyme L199N/I229N, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	0.82	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192P mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	0.83	N-acetylneuraminic acid	*E192S mutant protein, pH 7.5, 25&deg;C
+KCAT	Lactobacillus sakei	0.9	N-acetylneuraminate	*wild type enzyme, at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	0.91	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	*pH 7.5, 25&deg;C, mutant enzyme D191P
+KCAT	Lactobacillus antri	0.99	pyruvate	*mutant enzyme P193Y, at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	1.1	L-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L; pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	1.17	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192M mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	1.17	N-acetylneuraminic acid	*E192M mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	1.2	D-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	1.22	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	1.22	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*wild type (E192), pH 7.5, 25&deg;C
+KCAT	Haemophilus influenzae	1.23	(2R,3R,4R)-6-[(aminooxy)carbonyl]-3,4,6-trihydroxy-N-propyltetrahydro-2H-pyran-2-carboxamide	*wild-type enzyme
+KCAT	Escherichia coli	1.47	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192F mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	1.5	D-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L
+KCAT	Escherichia coli	1.5	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme E60A/Y98H/F115L/N153Y/D150G/V251I/V265I/Y281C/N153Y
+KCAT	Escherichia coli	1.58	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	*pH 7.5, 25&deg;C, mutant enzyme E192V
+KCAT	Escherichia coli	1.58	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192V mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	1.7	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/N153Y/V251I/V265I/Y281C
+KCAT	Escherichia coli K-12	1.8	pyruvate	*
+KCAT	Escherichia coli	1.85	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	*pH 7.5, 25&deg;C, mutant enzyme E192S
+KCAT	Escherichia coli	1.9	L-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/V251I
+KCAT	Lactobacillus antri	1.9	N-acetylneuraminate	*wild type enzyme, at pH 7.0 and 37&deg;C
+KCAT	Pasteurella multocida	1.9	pyruvate	*
+KCAT	Escherichia coli	1.97	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme E192V
+KCAT	Escherichia coli	2	N-acetylneuraminic acid	*E192D mutant protein, pH 7.5, 25&deg;C; E192H mutant protein, pH 7.5, 25&deg;C; E192V mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	2.17	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192N mutant protein, pH 7.7.5, 25&deg;C
+KCAT	Escherichia coli	2.18	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	*pH 7.5, 25&deg;C, mutant enzyme E192N
+KCAT	Escherichia coli	2.2	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/V251I/V265I
+KCAT	Lactobacillus antri	2.4	N-acetyl-D-mannosamine	*mutant enzyme P193Y, at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	2.5	L-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/V251I/V265I
+KCAT	Escherichia coli	2.67	N-acetylneuraminic acid	*E192F mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	2.77	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme E192N
+KCAT	Escherichia coli	2.8	D-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/V251I
+KCAT	Escherichia coli	2.83	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	*E192Q mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	2.83	N-acetylneuraminic acid	*E192N mutant protein, pH 7.7.5, 25&deg;C
+KCAT	Haemophilus influenzae	2.833	sialic acid	*mutant enzyme E192N
+KCAT	Staphylococcus carnosus	2.9	pyruvate	*recombinant His-taggged enzyme, pH 7.0, 37&deg;C
+KCAT	Haemophilus influenzae	3	sialic acid	*mutant enzyme E192N
+KCAT	Lactobacillus antri	3	pyruvate	*mutant enzyme G210S/Y213G, at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	3.15	N-acetylneuraminate	*mutant enzyme L171N/I229N, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	3.2	D-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/V251I/V265I
+KCAT	Lactobacillus sakei	3.9	pyruvate	*wild type enzyme, at pH 7.0 and 37&deg;C
+KCAT	Staphylococcus carnosus	4	N-acetylneuraminate	*recombinant His-taggged enzyme, pH 7.0, 37&deg;C
+KCAT	Escherichia coli	4.15	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme S208G
+KCAT	Haemophilus influenzae	4.17	N-acetylneuraminate	*wild-type enzyme, pH 7.4, 30&deg;C
+KCAT	Escherichia coli	4.2	L-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/N153Y/V251I/V265I/Y281C
+KCAT	Escherichia coli	4.25	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme E192S
+KCAT	Escherichia coli	4.3	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	4.33	N-acetylneuraminic acid	*wild type (E192), pH 7.5, 25&deg;C
+KCAT	Haemophilus influenzae	4.33	sialic acid	*wild-type enzyme
+KCAT	Staphylococcus carnosus	4.5	N-acetyl-D-mannosamine	*recombinant His-taggged enzyme, pH 7.0, 37&deg;C
+KCAT	Lactobacillus sakei	4.6	N-acetyl-D-mannosamine	*wild type enzyme, at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	4.69	N-acetylneuraminate	*mutant enzyme I229D, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	5	N-acetylneuraminic acid	*E192Q mutant protein, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	5.1	D-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/N153Y/V251I/V265I/Y281C
+KCAT	Lactobacillus antri	5.4	N-acetyl-D-mannosamine	*wild type enzyme, at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	5.49	N-acetylneuraminate	*mutant enzyme L171R, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Lactobacillus antri	5.6	pyruvate	*wild type enzyme, at pH 7.0 and 37&deg;C
+KCAT	Corynebacterium glutamicum	5.67	N-acetyl-D-mannosamine	*at pH 7.5 and 37&deg;C
+KCAT	Corynebacterium glutamicum	6.1	pyruvate	*at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	6.75	N-acetylneuraminate	*wild type enzyme, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	6.8	N-acetylneuraminic acid	*pH 7.2, 25&deg;C, L142R/Y190D/E192A mutant
+KCAT	Escherichia coli	7.4	N-acetylneuraminate	*mutant enzyme I229N, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	7.7	N-acetylneuraminic acid	*pH 7.2, 25&deg;C, wild-type
+KCAT	Escherichia coli	7.72	N-acetylneuraminate	*mutant enzyme I229R, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	7.94	N-acetylneuraminate	*mutant enzyme L199N, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	8.9	D-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme E60A/Y98H/F115L/N153Y/D150G/V251I/V265I/Y281C/N153Y
+KCAT	Escherichia coli	8.9	N-acetylneuraminate	*mutant enzyme L199N/I229R, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli K-12	9	N-acetyl-D-mannosamine	*
+KCAT	Corynebacterium glutamicum	9.3	N-acetylneuraminate	*at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	9.7	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, mutant enzyme Y98H/F115L/V251I
+KCAT	Escherichia coli K-12	10	N-acetylneuraminate	*
+KCAT	Escherichia coli	10.3	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, Y98H/F115L
+KCAT	Escherichia coli	10.4	L-3-deoxy-manno-2-octulosonic acid	*pH 7.5, 25&deg;C, mutant enzyme E60A/Y98H/F115L/N153Y/D150G/V251I/V265I/Y281C/N153Y
+KCAT	Escherichia coli	10.5	N-acetyl-D-neuraminic acid	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Haemophilus influenzae	10.83	(2R,3R,4R)-6-[(aminooxy)carbonyl]-3,4,6-trihydroxy-N-propyltetrahydro-2H-pyran-2-carboxamide	*mutant enzyme E192N
+KCAT	Pasteurella multocida	11	N-acetyl-D-mannosamine	*
+KCAT	Escherichia coli	11.87	N-acetylneuraminate	*mutant enzyme L199R/I229N, in sodium phosphate buffer (100 mM, pH 7.6), at 30&deg;C
+KCAT	Escherichia coli	12.1	N-acetylneuraminic acid	*pH 7.2, 25&deg;C, L142R mutant
+KCAT	Lactobacillus antri	15.3	N-acetyl-D-mannosamine	*mutant enzyme G210S/Y213G, at pH 7.0 and 37&deg;C
+KCAT	Pasteurella multocida	16	N-acetylneuraminate	*
+KCAT	Clostridium perfringens	16.7	N-acetylneuraminic acid	*
+KCAT	Staphylococcus aureus	22.1	N-acetylneuraminate	*at 30&deg;C, pH not specified in the publication
+KCAT	Corynebacterium glutamicum	40.67	N-acetyl-D-mannosamine	*at pH 8.5 and 37&deg;C
+KCAT	Corynebacterium glutamicum	42.58	pyruvate	*at pH 8.5 and 37&deg;C
+KCAT	Corynebacterium glutamicum	44.2	N-acetylneuraminate	*at pH 8.5 and 37&deg;C

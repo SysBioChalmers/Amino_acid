@@ -1,0 +1,2 @@
+KCAT	Mus musculus	0.13	glutathione	*pH 8..0, 37&deg;C
+KCAT	Homo sapiens	0.27	glutathione	*pH 8.0, 37&deg;C

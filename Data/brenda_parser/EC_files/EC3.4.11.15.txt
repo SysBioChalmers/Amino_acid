@@ -1,0 +1,5 @@
+KCAT	Pyrococcus furiosus	305	Lys-Gly-Gly	*pH 8.0, 100&Acirc;&deg;C, enzyme from Pyrococcus furiosus
+KCAT	Pyrococcus furiosus	1460	Lys-Gly-Gly	*pH 8.0, 100&Acirc;&deg;C, recombinant enzyme
+KCAT	Pyrococcus furiosus	1260	L-lysine 4-nitroanilide	*pH 8.0, 100&Acirc;&deg;C, enzyme from Pyrococcus furiosus
+KCAT	Pyrococcus furiosus	1840	L-lysine 4-nitroanilide	*pH 8.0, 100&Acirc;&deg;C, recombinant enzyme
+KCAT	Pyrococcus furiosus	769	L-arginine 4-nitroanilide	*pH 8.0, 100&Acirc;&deg;C, recombinant enzyme

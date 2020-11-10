@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	7	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate	*dodecylmaltoside activated
+KCAT	Homo sapiens	21	glutathione	*
+KCAT	Homo sapiens	50	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate	*
+KCAT	Homo sapiens	50	prostaglandin H2	*
+KCAT	Homo sapiens	75	prostaglandine G2	*
+KCAT	Homo sapiens	75	prostaglandin G2	*

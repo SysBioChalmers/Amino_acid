@@ -1,0 +1,197 @@
+KCAT	Homo sapiens	3	NADPH	*mutant E255-, pH 7.0
+KCAT	Rattus norvegicus	5.2	NADPH	*D239E mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	8	NADPH	*mutant G179V, pH 7.0
+KCAT	Rattus norvegicus	12	NADPH	*mutant G179T, pH 7.0
+KCAT	Rattus norvegicus	17	NADPH	*mutant G179P, pH 7.0
+KCAT	Homo sapiens	19	NADPH	*mutant G291D, pH 7.0
+KCAT	Rattus norvegicus	33	NADPH	*wild type enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	33	NADPH	*wild-type, pH 7.0
+KCAT	Homo sapiens	33	NADPH	*wild-type, pH 7.0
+KCAT	Rattus norvegicus	48	NADPH	*mutant G179A, pH 7.0
+KCAT	Rattus norvegicus	50	NADPH	*F251R mutant enzyme, pH 7.0, 25&Acirc;&deg;C; F251Y mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	190	NADPH	*mutant D239G, pH 7.0
+KCAT	Rattus norvegicus	200	NADPH	*D239S/F251R mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	217	NADPH	*D239S mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	267	NADPH	*D239T mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Musca domestica	297	NADPH	*
+KCAT	Rattus norvegicus	417	NADPH	*D239S/F251Y mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	550	NADPH	*D239T/F251R mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.733	NADH	*wild-type, cosubstrate ferricyanide, 25&Acirc;&deg;C, pH 7.0
+KCAT	Homo sapiens	0.8	NADH	*mutant P275L, cosubstrate ferricyanide, 25&Acirc;&deg;C, pH 7.0
+KCAT	Sus scrofa	21.7	NADH	*mutant enzyme P247L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P247L, ferricyanide as electron acceptor
+KCAT	Sus scrofa	53	NADH	*G273 mutant enzyme
+KCAT	Sus scrofa	77	NADH	*H49E mutant enzyme
+KCAT	Sus scrofa	100	NADH	*pH 7.0, 25&Acirc;&deg;C,T66V mutant enzyme
+KCAT	Sus scrofa	180	NADH	*Y65A mutant enzyme
+KCAT	Rattus norvegicus	250	NADH	*D239S/F251R mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	310	NADH	*DELTAF272 mutant enzyme
+KCAT	Musca domestica	332	NADH	*
+KCAT	Rattus norvegicus	333	NADH	*D239T mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	354	NADH	*mutant enzyme P247A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P247A, ferricyanide as electron acceptor
+KCAT	Rattus norvegicus	367	NADH	*F251Y mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	375	NADH	*S99V mutant enzyme
+KCAT	Sus scrofa	390	NADH	*native enzyme
+KCAT	Sus scrofa	403	NADH	*R63A mutant enzyme
+KCAT	Sus scrofa	412	NADH	*R63Q mutant enzyme
+KCAT	Rattus norvegicus	433	NADH	*D239S mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	435	NADH	*S99A mutant enzyme
+KCAT	Sus scrofa	440	NADH	*H49A mutant enzyme
+KCAT	Rattus norvegicus	467	NADH	*D239S/F251Y mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Bos taurus	500	NADH	*
+KCAT	Rattus norvegicus	500	NADH	*F251R mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	501	NADH	*Y65F mutant enzyme
+KCAT	Sus scrofa	515	NADH	*R63K mutant enzyme
+KCAT	Rattus norvegicus	517	NADH	*D239E mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	540	NADH	*mutant enzyme P248L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P248L, ferricyanide as electron acceptor
+KCAT	Sus scrofa	559	NADH	*mutant enzyme P248A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P248A, ferricyanide as electron acceptor
+KCAT	Sus scrofa	570	NADH	*recombinant wild-type enzyme
+KCAT	Sus scrofa	681	NADH	*mutant enzyme P249A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P249A, ferricyanide as electron acceptor
+KCAT	Sus scrofa	710	NADH	*H49K mutant enzyme
+KCAT	Rattus norvegicus	717	NADH	*D239T/F251R mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	742	NADH	*ferricyanide as electron acceptor; wild type enzyme, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C
+KCAT	Sus scrofa	750	NADH	*H49Y mutant enzyme
+KCAT	Homo sapiens	754	NADH	*mutant D239G, pH 7.0; mutant E255-, pH 7.0; mutant G291D, pH 7.0; wild-type, pH 7.0
+KCAT	Rattus norvegicus	800	NADH	*wild type enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	851	NADH	*S99T mutant enzyme
+KCAT	Sus scrofa	909	NADH	*K97R mutant enzyme
+KCAT	Sus scrofa	984	NADH	*pH 7.0, 25&Acirc;&deg;C,T66A mutant enzyme
+KCAT	Sus scrofa	1059	NADH	*mutant enzyme P249L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P249L, ferricyanide as electron acceptor
+KCAT	Sus scrofa	1060	NADH	*K97A mutant enzyme
+KCAT	Sus scrofa	1100	NADH	*recombinant wild-type enzyme
+KCAT	Sus scrofa	1100	NADH	*pH 7.0, 25&Acirc;&deg;C, wild type enzyme
+KCAT	Sus scrofa	1150	NADH	*pH 7.0, 25&Acirc;&deg;C,T66S mutant enzyme
+KCAT	Rattus norvegicus	8.3	cytochrome c	*cytochrome b5/cytochrome b5 reductase FAD-domain fusion protein
+KCAT	Rattus norvegicus	12	ferricyanide	*mutant G179V, pH 7.0
+KCAT	Rattus norvegicus	21.7	ferricyanide	*cytochrome b5/cytochrome b5 reductase FAD-domain fusion protein
+KCAT	Sus scrofa	30.8	ferricyanide	*mutant enzyme P247L, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P247L
+KCAT	Rattus norvegicus	33	ferricyanide	*mutant G179T, pH 7.0
+KCAT	Rattus norvegicus	40	ferricyanide	*K110Q mutant enzyme
+KCAT	Rattus norvegicus	42	ferricyanide	*mutant G179P, pH 7.0
+KCAT	Sus scrofa	76	ferricyanide	*G273 mutant enzyme
+KCAT	Sus scrofa	77	ferricyanide	*pH 7.0, 25&Acirc;&deg;C,T66V mutant enzyme
+KCAT	Rattus norvegicus	83	ferricyanide	*mutant Y93D, pH 7.0, 25&Acirc;&deg;C; mutant Y93H, pH 7.0, 25&Acirc;&deg;C; mutant Y93W, pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	98.3	ferricyanide	*enzyme from liver microsomes, protease solubilized
+KCAT	Rattus norvegicus	100	ferricyanide	*P144L/L148P mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	110	ferricyanide	*H49E mutant enzyme
+KCAT	Rattus norvegicus	120	ferricyanide	*K110E mutant enzyme
+KCAT	Rattus norvegicus	133	ferricyanide	*mutant Y93S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	133	ferricyanide	*mutant G75S
+KCAT	Homo sapiens	187	ferricyanide	*mutant G75S/V252M
+KCAT	Rattus norvegicus	200	ferricyanide	*mutant Y93A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	270	ferricyanide	*K110A mutant enzyme
+KCAT	Rattus norvegicus	283	ferricyanide	*P144L mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	300	ferricyanide	*L148P mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	300	ferricyanide	*pH 7.0, S127P mutant enzyme
+KCAT	Musca domestica	307	ferricyanide	*
+KCAT	Sus scrofa	337	ferricyanide	*; wild type enzyme, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	340	ferricyanide	*K110H mutant enzyme
+KCAT	Sus scrofa	357	ferricyanide	*mutant enzyme P247A, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P247A
+KCAT	Pisum sativum	367	ferricyanide	*
+KCAT	Sus scrofa	399	ferricyanide	*mutant enzyme P248A, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P248A
+KCAT	Sus scrofa	400	ferricyanide	*DELTAF272 mutant enzyme
+KCAT	Rattus norvegicus	467	ferricyanide	*mutant P92G, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	470	ferricyanide	*H49A mutant enzyme
+KCAT	Rattus norvegicus	470	ferricyanide	*K110R mutant enzyme
+KCAT	Rattus norvegicus	483	ferricyanide	*mutant Y93F, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	490	ferricyanide	*H49K mutant enzyme
+KCAT	Homo sapiens	500	ferricyanide	*
+KCAT	Sus scrofa	504	ferricyanide	*mutant enzyme P248L, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P248L
+KCAT	Rattus norvegicus	517	ferricyanide	*mutant P92A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	559	ferricyanide	*mutant G179A, pH 7.0
+KCAT	Sus scrofa	630	ferricyanide	*native enzyme
+KCAT	Homo sapiens	633	ferricyanide	*mutant V252M
+KCAT	Oryctolagus cuniculus	667	ferricyanide	*
+KCAT	Homo sapiens	677	ferricyanide	*enzyme from erythrocyte membrane
+KCAT	Sus scrofa	684	ferricyanide	*pH 7.0, 25&Acirc;&deg;C,T66A mutant enzyme
+KCAT	Homo sapiens	700	ferricyanide	*enzyme from erythrocyte cytosol
+KCAT	Sus scrofa	727	ferricyanide	*H49Y mutant enzyme
+KCAT	Canis lupus familiaris	767	ferricyanide	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	800	ferricyanide	*recombinant wild-type enzyme
+KCAT	Rattus norvegicus	800	ferricyanide	*wild type enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	800	ferricyanide	*pH 7.0, wild type enzyme
+KCAT	Rattus norvegicus	800	ferricyanide	*wild-type, pH 7.0
+KCAT	Rattus norvegicus	800	ferricyanide	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	800	ferricyanide	*wild-type
+KCAT	Sus scrofa	810	ferricyanide	*recombinant wild-type enzyme
+KCAT	Sus scrofa	822	ferricyanide	*pH 7.0, 25&Acirc;&deg;C, wild type enzyme
+KCAT	Homo sapiens	827	ferricyanide	*enzyme from liver microsomes, detergent solubilized
+KCAT	Sus scrofa	838	ferricyanide	*mutant enzyme P249A, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P249A
+KCAT	Rattus norvegicus	880	ferricyanide	*mutant P92S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	976	ferricyanide	*pH 7.0, 25&Acirc;&deg;C,T66S mutant enzyme
+KCAT	Sus scrofa	1241	ferricyanide	*mutant enzyme P249L, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C; mutant P249L
+KCAT	Musca domestica	50.2	2,6-dichlorophenolindophenol	*
+KCAT	Rattus norvegicus	14	ferricytochrome b5	*mutant Y93D, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	19	ferricytochrome b5	*mutant Y93W, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	27	ferricytochrome b5	*mutant Y93H, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	32	ferricytochrome b5	*mutant Y93S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	38	ferricytochrome b5	*pH 7.0, 25&Acirc;&deg;C,T66V mutant enzyme
+KCAT	Rattus norvegicus	57	ferricytochrome b5	*mutant Y93A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	60	ferricytochrome b5	*mutant G75S
+KCAT	Homo sapiens	67	ferricytochrome b5	*mutant P275L, 25&Acirc;&deg;C, pH 7.0
+KCAT	Homo sapiens	85	ferricytochrome b5	*mutant G75S/V252M
+KCAT	Rattus norvegicus	106	ferricytochrome b5	*pH 7.0, S127P mutant enzyme
+KCAT	Sus scrofa	147	ferricytochrome b5	*wild type enzyme, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C
+KCAT	Sus scrofa	167	ferricytochrome b5	*mutant enzyme P247A, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C
+KCAT	Homo sapiens	285	ferricytochrome b5	*mutant V252M
+KCAT	Rattus norvegicus	295	ferricytochrome b5	*mutant Y93F, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	301	ferricytochrome b5	*mutant enzyme P248A, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C
+KCAT	Sus scrofa	314	ferricytochrome b5	*pH 7.0, 25&Acirc;&deg;C,T66A mutant enzyme
+KCAT	Rattus norvegicus	315	ferricytochrome b5	*mutant P92S, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	320	ferricytochrome b5	*mutant P92A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	335	ferricytochrome b5	*mutant P92G, pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	360	ferricytochrome b5	*wild-type
+KCAT	Rattus norvegicus	367	ferricytochrome b5	*pH 7.0, wild type enzyme
+KCAT	Rattus norvegicus	400	ferricytochrome b5	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	540	ferricytochrome b5	*mutant enzyme P249A, in 100 mM potassium phosphate buffer (pH 7.0) at 25&Acirc;&deg;C
+KCAT	Homo sapiens	600	ferricytochrome b5	*wild-type, 25&Acirc;&deg;C, pH 7.0
+KCAT	Sus scrofa	705	ferricytochrome b5	*pH 7.0, 25&Acirc;&deg;C,T66S mutant enzyme
+KCAT	Sus scrofa	911	ferricytochrome b5	*pH 7.0, 25&Acirc;&deg;C, wild type enzyme
+KCAT	Rattus norvegicus	10	ferrocytochrome b5	*mutant G179P, pH 7.0
+KCAT	Rattus norvegicus	17	ferrocytochrome b5	*mutant G179V, pH 7.0
+KCAT	Rattus norvegicus	18	ferrocytochrome b5	*mutant G179T, pH 7.0
+KCAT	Rattus norvegicus	245	ferrocytochrome b5	*mutant G179A, pH 7.0
+KCAT	Rattus norvegicus	400	ferrocytochrome b5	*wild-type, pH 7.0
+KCAT	Canis lupus familiaris	600	ferrocytochrome b5	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	1	cytochrome b5	*K110E mutant enzyme
+KCAT	Rattus norvegicus	4	cytochrome b5	*K110Q mutant enzyme
+KCAT	Homo sapiens	21.3	cytochrome b5	*
+KCAT	Sus scrofa	27.2	cytochrome b5	*mutant P247L
+KCAT	Rattus norvegicus	33	ferricytochome b5	*P144L/L148P mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	57	cytochrome b5	*G273 mutant enzyme
+KCAT	Rattus norvegicus	90	cytochrome b5	*K110A mutant enzyme
+KCAT	Sus scrofa	105	cytochrome b5	*R63Q mutant enzyme
+KCAT	Sus scrofa	107	cytochrome b5	*Y65A mutant enzyme
+KCAT	Rattus norvegicus	110	cytochrome b5	*K110H mutant enzyme
+KCAT	Rattus norvegicus	117	ferricytochome b5	*P144L mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	121	cytochrome b5	*R63A mutant enzyme
+KCAT	Homo sapiens	125	cytochrome b5	*L41A mutant enzyme
+KCAT	Rattus norvegicus	130	ferricytochome b5	*L148P mutant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	160	cytochrome b5	*H49E mutant enzyme
+KCAT	Sus scrofa	165	cytochrome b5	*S99V mutant enzyme
+KCAT	Sus scrofa	167	cytochrome b5	*
+KCAT	Sus scrofa	191	cytochrome b5	*K97A mutant enzyme
+KCAT	Rattus norvegicus	200	cytochrome b5	*K110R mutant enzyme
+KCAT	Sus scrofa	200	cytochrome b5	*mutant P247A
+KCAT	Rattus norvegicus	270	cytochrome b5	*recombinant wild-type enzyme
+KCAT	Sus scrofa	270	cytochrome b5	*mutant P249L
+KCAT	Sus scrofa	275	cytochrome b5	*mutant P248L
+KCAT	Sus scrofa	288	cytochrome b5	*mutant P248A
+KCAT	Sus scrofa	295	cytochrome b5	*S99A mutant enzyme
+KCAT	Sus scrofa	305	cytochrome b5	*Y65F mutant enzyme
+KCAT	Sus scrofa	347	cytochrome b5	*R63K mutant enzyme
+KCAT	Sus scrofa	380	cytochrome b5	*H49A mutant enzyme
+KCAT	Sus scrofa	415	cytochrome b5	*K97R mutant enzyme
+KCAT	Rattus norvegicus	417	ferricytochome b5	*wild type enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	420	cytochrome b5	*H49K mutant enzyme
+KCAT	Sus scrofa	441	cytochrome b5	*mutant P249A
+KCAT	Sus scrofa	450	cytochrome b5	*DELTAF272 mutant enzyme
+KCAT	Homo sapiens	472	cytochrome b5	*L125A mutant enzyme
+KCAT	Sus scrofa	510	cytochrome b5	*native enzyme
+KCAT	Sus scrofa	520	cytochrome b5	*S99T mutant enzyme
+KCAT	Sus scrofa	560	cytochrome b5	*recombinant wild-type enzyme
+KCAT	Homo sapiens	563	cytochrome b5	*recombinant K110M mutant enzyme
+KCAT	Sus scrofa	580	cytochrome b5	*H49Y mutant enzyme
+KCAT	Sus scrofa	661	cytochrome b5	*recombinant wild-type enzyme
+KCAT	Homo sapiens	742	cytochrome b5	*recombinant K110A mutant enzyme
+KCAT	Homo sapiens	872	cytochrome b5	*recombinant wild-type enzyme
+KCAT	Homo sapiens	877	cytochrome b5	*recombinant K110R mutant enzyme

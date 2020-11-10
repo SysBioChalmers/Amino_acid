@@ -1,0 +1,5 @@
+KCAT	Rhodococcus erythropolis	3.9	(1S,4R)-1-hydroxy-2-oxolimonene	*30&Acirc;&deg;C and glyine/NaOH buffer, pH 9.5
+KCAT	Rhodococcus erythropolis	3.6	(1R,4S)-menthone	*30&Acirc;&deg;C and glyine/NaOH buffer, pH 9.5
+KCAT	Rhodococcus erythropolis	3.9	(4R)-dihydrocarvone	*30&Acirc;&deg;C and glyine/NaOH buffer, pH 9.5
+KCAT	Rhodococcus erythropolis	4.9	(1R,4S)-1-hydroxy-2-oxolimonene	*30&Acirc;&deg;C and glyine/NaOH buffer, pH 9.5
+KCAT	Rhodococcus erythropolis	6	(1S,4R)-menthone	*30&Acirc;&deg;C and glyine/NaOH buffer, pH 9.5

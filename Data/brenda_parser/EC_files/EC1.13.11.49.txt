@@ -1,0 +1,13 @@
+KCAT	Nitrospira defluvii	2.8	Chlorite	*mutant R173A, pH 7.0, 30&deg;C
+KCAT	Nitrospira defluvii	7.1	Chlorite	*pH 7.0, 30&deg;C, recombinant mutant R137A
+KCAT	Nitrospira defluvii	14	Chlorite	*mutant R173K, pH 7.0, 30&deg;C
+KCAT	Nitrospira defluvii	21	Chlorite	*pH 7.0, 30&deg;C, recombinant mutant R137K
+KCAT	Nitrospira defluvii	35	Chlorite	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Nitrospira defluvii	43	Chlorite	*wild-type, pH 7.0, 30&deg;C
+KCAT	Nitrobacter winogradskyi	190	Chlorite	*pH 7.0, 30&deg;C, recombinant enzyme
+KCAT	Nitrospira defluvii	960	Chlorite	*
+KCAT	Cyanothece sp. PCC 7425	1144	Chlorite	*ppH 5.0, 25&deg;C
+KCAT	Ideonella dechloratans	1800	Chlorite	*
+KCAT	Klebsiella pneumoniae	1900	Chlorite	*pH 5.0, 20&deg;C
+KCAT	Dechloromonas agitata	7550	Chlorite	*
+KCAT	Dechloromonas aromatica	200000	Chlorite	*pH 5.2, 4&deg;C

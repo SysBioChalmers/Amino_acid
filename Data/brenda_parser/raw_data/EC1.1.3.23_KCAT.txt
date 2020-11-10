@@ -1,0 +1,1 @@
+ecNumber*1.1.3.23#turnoverNumber*5#turnoverNumberMaximum*#substrate*H+#commentary*release of H+#organism*unidentified soil bacterium#ligandStructureId*12#literature*389743#!ecNumber*1.1.3.23#turnoverNumber*1.67#turnoverNumberMaximum*#substrate*thiamine#commentary*thiamine acetate formed#organism*unidentified soil bacterium#ligandStructureId*642#literature*389741#

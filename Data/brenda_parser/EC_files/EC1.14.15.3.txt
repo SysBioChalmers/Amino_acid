@@ -1,0 +1,31 @@
+KCAT	Homo sapiens	0.0025	arachidonic acid	*(omega-1)-hydroxylation
+KCAT	Homo sapiens	0.00917	arachidonic acid	*omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.167	arachidonic acid	*CYP4A7, R90W mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.217	arachidonic acid	*CYP4A7, R90W/W93S mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.45	arachidonic acid	*CYP4A7, W93S mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.717	arachidonic acid	*CYP4A7wt, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.783	arachidonic acid	*CYP4A4wt, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	2.15	arachidonic acid	*CYP4A7, S255F mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	2.17	arachidonic acid	*CYP4A7, H206Y/S255F mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	2.33	arachidonic acid	*CYP4A7, H206Y mutant, omega-hydroxylation
+KCAT	Homo sapiens	0.013	palmitate	*omega-hydroxylation
+KCAT	Homo sapiens	0.0105	palmitic acid	*(omega-1)-hydroxylation
+KCAT	Homo sapiens	0.0367	palmitic acid	*omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.0267	laurate	*CYP4A7, R90W mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.117	laurate	*CYP4A4wt, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.2	laurate	*CYP4A7, R90W/W93S mutant, omega-hydroxylation
+KCAT	Homo sapiens	0.245	laurate	*omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.5	laurate	*CYP4A7, W93S mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.767	laurate	*CYP4A7wt, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	2.23	laurate	*CYP4A7, H206Y mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	2.45	laurate	*CYP4A7, H206Y/S255F mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	2.67	laurate	*CYP4A7, S255F mutant, omega-hydroxylation
+KCAT	Homo sapiens	0.0085	lauric acid	*(omega-1)-hydroxylation
+KCAT	Homo sapiens	0.163	lauric acid	*omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.183	prostaglandin E1	*CYP4A7wt, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.25	prostaglandin E1	*CYP4A7, R90W/W93S mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.283	prostaglandin E1	*CYP4A7, R90W mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.3	prostaglandin E1	*CYP4A7, H206Y/S255F mutant, omega-hydroxylation; CYP4A7, S255F mutant, omega-hydroxylation; CYP4A7, W93S mutant, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.383	prostaglandin E1	*CYP4A4wt, omega-hydroxylation
+KCAT	Oryctolagus cuniculus	0.417	prostaglandin E1	*CYP4A7, H206Y mutant, omega-hydroxylation
+KCAT	Homo sapiens	0.00133	PGA1	*omega-hydroxylation

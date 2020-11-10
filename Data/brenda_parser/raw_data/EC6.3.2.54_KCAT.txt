@@ -1,0 +1,1 @@
+ecNumber*6.3.2.54#turnoverNumber*0.268#turnoverNumberMaximum*#substrate*citrate#commentary*pH 7.4, temperature not specified in the publication#organism*Staphylococcus aureus#ligandStructureId*131#literature*751593#

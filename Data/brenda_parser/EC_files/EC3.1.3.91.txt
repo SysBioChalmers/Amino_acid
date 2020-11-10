@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	0.24	N7-methyl-GMP	*pH 7.5, 37&deg;C
+KCAT	Drosophila melanogaster	6.3	N7-methyl-GMP	*pH 7.5, 25&deg;C

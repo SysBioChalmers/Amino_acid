@@ -1,0 +1,2 @@
+KCAT	Saccharomyces cerevisiae	2.1	benzoyl-Tyr ethyl ester	*
+KCAT	Saccharomyces cerevisiae	9.6	Acetyl-Tyr ethyl ester	*

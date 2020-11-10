@@ -1,0 +1,1 @@
+KCAT	Saccharopolyspora spinosa	0.043	dTDP-4-dehydro-2,6-dideoxy-alpha-D-glucose	*pH 7.5, 24&Acirc;&deg;C

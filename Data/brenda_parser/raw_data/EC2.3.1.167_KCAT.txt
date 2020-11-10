@@ -1,0 +1,1 @@
+ecNumber*2.3.1.167#turnoverNumber*0.58#turnoverNumberMaximum*#substrate*10-deacetylbaccatin III#commentary*#organism*Taxus cuspidata#ligandStructureId*5317#literature*704167#

@@ -1,0 +1,12 @@
+KCAT	Escherichia coli	0.3	2-dehydro-3-deoxy-L-lyxonate	*pH 8.0, 25&deg;C, Mg2+-activated
+KCAT	Escherichia coli	0.3	2-dehydro-3-deoxy-L-lyxonate	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	0.3	2-dehydro-3-deoxy-L-rhamnonate	*pH 8.0, 25&deg;C, Mg2+-activated
+KCAT	Escherichia coli	0.3	2-dehydro-3-deoxy-L-rhamnonate	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	0.4	2-dehydro-3-deoxy-L-rhamnonate	*pH 8.0, 25&deg;C, Mg2+-activated
+KCAT	Escherichia coli	0.4	2-dehydro-3-deoxy-L-rhamnonate	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	0.54	4-hydroxy-2-oxoheptane-1,7-dioate	*pH 8.0, 25&deg;C, Mg2+-activated
+KCAT	Scheffersomyces stipitis	49.3	2-dehydro-3-deoxy-L-rhamnonate	*in 50 mM sodium phosphate (pH 7.0), 5 mM Mn2+, temperature not specified in the publication
+KCAT	Azotobacter vinelandii	54.7	2-dehydro-3-deoxy-L-rhamnonate	*in 50 mM sodium phosphate (pH 7.0), 5 mM Mn2+, temperature not specified in the publication
+KCAT	Escherichia coli	299	4-hydroxy-2-oxoheptane-1,7-dioate	*pH 8.0, 25&deg;C, Ni2+-activated
+KCAT	Escherichia coli	396	4-hydroxy-2-oxopentanoate	*pH 8.0, 25&deg;C, 25&deg;C, Ni2+-activated
+KCAT	Escherichia coli	447	4-hydroxy-2-oxohexanoate	*pH 8.0, 25&deg;C, 25&deg;C, Ni2+-activated

@@ -1,0 +1,1 @@
+ecNumber*2.6.1.59#turnoverNumber*0.38#turnoverNumberMaximum*#substrate*dTDP-4-dehydro-6-deoxy-D-glucose#commentary*pH 7.5, 25&Acirc;&deg;C#organism*Escherichia coli#ligandStructureId*3071#literature*658427#

@@ -1,0 +1,10 @@
+KCAT	Homo sapiens	0.000333	UDP-Gal	*
+KCAT	Homo sapiens	0.000333	UDP-Gal	*
+KCAT	Homo sapiens	0.00035	UDP-GlcNAc	*
+KCAT	Homo sapiens	0.0817	UDP-GalNAc	*
+KCAT	Homo sapiens	0.0817	UDP-GalNAc	*
+KCAT	Homo sapiens	0.24	UDP-GalNAc	*G176R/P234S/S235G/M266L/A268G mutant
+KCAT	Homo sapiens	0.292	UDP-GalNAc	*wild-type
+KCAT	Homo sapiens	1.3	alpha-L-Fucp-(1,2)-beta-D-Galp-(1,3)-beta-DGlcNAcp-O(CH2)7CH3	*37&deg;C, pH 7.0
+KCAT	Homo sapiens	1.8	alpha-L-Fucp-(1,2)-beta-D-Galp-(1,4)-beta-D-GlcNAcp-O-(CH2)8CO2CH3	*37&deg;C, pH 7.0
+KCAT	Homo sapiens	7.6	alpha-L-Fucp-(1,2)-beta-D-Galp-O(CH2)7CH3	*37&deg;C, pH 7.0

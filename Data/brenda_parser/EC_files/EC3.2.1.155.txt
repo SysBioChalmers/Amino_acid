@@ -1,0 +1,7 @@
+KCAT	Paenibacillus sp.	3	xyloglucan	*
+KCAT	Trichoderma reesei	55	xyloglucan	*
+KCAT	Paenibacillus sp.	77.6	xyloglucan	*
+KCAT	Chrysosporium lucknowense	99	xyloglucan	*
+KCAT	Trichoderma reesei	12	beta-Glucan	*
+KCAT	Chrysosporium lucknowense	30	beta-Glucan	*
+KCAT	Trichoderma reesei	46	carboxymethylcellulose	*

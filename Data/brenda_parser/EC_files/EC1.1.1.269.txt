@@ -1,0 +1,20 @@
+KCAT	Xanthobacter autotrophicus	1.7	2-propanol	*mutant K214A, pH 7.5, 30&Acirc;&deg;C; mutant R211A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	2	2-propanol	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.039	2-butanone	*mutant K214A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.044	2-butanone	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.072	2-butanone	*mutant R211A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	2.6	(S)-2-butanol	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	1	(R)-2-butanol	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	8.6	2-oxopropyl-CoM	*mutant R211A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	9.6	2-oxopropyl-CoM	*mutant K214A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	11	2-oxopropyl-CoM	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	29	2-oxopropyl-CoM	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.013	2-(S)-hydroxypropyl-CoM	*mutant S143A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.12	2-(S)-hydroxypropyl-CoM	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.65	2-(S)-hydroxypropyl-CoM	*mutant Y156A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	5.8	2-(S)-hydroxypropyl-CoM	*mutant K214A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	16	2-(S)-hydroxypropyl-CoM	*mutant R211A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	25	2-(S)-hydroxypropyl-CoM	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	5.5	2-(R)-hydroxypropyl-CoM	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	49	2-(R)-hydroxypropyl-CoM	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	3.8	2-(2-hydroxyethylthio)ethanesulfonate	*wild-type, pH 7.5, 30&Acirc;&deg;C

@@ -1,0 +1,23 @@
+KCAT	Hathewaya histolytica	-999	more	*
+KCAT	Hathewaya histolytica	4.2	L-leucine 4-nitroanilide	*
+KCAT	Hathewaya histolytica	276	Val-Gly-Gly	*
+KCAT	Hathewaya histolytica	276	Val-Gly-Gly	*
+KCAT	Hathewaya histolytica	276	Val-Gly-Gly	*
+KCAT	Hathewaya histolytica	337	Pro-Gly-Pro-Pro	*
+KCAT	Hathewaya histolytica	337	Pro-Gly-Pro-Pro	*
+KCAT	Hathewaya histolytica	337	Pro-Gly-Pro-Pro	*
+KCAT	Hathewaya histolytica	561	Pro-Gly-Pro	*
+KCAT	Hathewaya histolytica	561	Pro-Gly-Pro	*
+KCAT	Hathewaya histolytica	561	Pro-Gly-Pro	*
+KCAT	Hathewaya histolytica	667	Phe-Gly-Gly	*
+KCAT	Hathewaya histolytica	667	Phe-Gly-Gly	*
+KCAT	Hathewaya histolytica	667	Phe-Gly-Gly	*
+KCAT	Hathewaya histolytica	917	Leu-Gly-Gly	*
+KCAT	Hathewaya histolytica	917	Leu-Gly-Gly	*
+KCAT	Hathewaya histolytica	917	Leu-Gly-Gly	*
+KCAT	Hathewaya histolytica	1360	Pro-Gly-Gly	*
+KCAT	Hathewaya histolytica	1360	Pro-Gly-Gly	*
+KCAT	Hathewaya histolytica	1360	Pro-Gly-Gly	*
+KCAT	Hathewaya histolytica	1830	Ala-Gly-Gly	*
+KCAT	Hathewaya histolytica	1830	Ala-Gly-Gly	*
+KCAT	Hathewaya histolytica	1830	Ala-Gly-Gly	*

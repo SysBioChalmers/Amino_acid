@@ -1,0 +1,37 @@
+KCAT	Methanothermobacter thermautotrophicus	0.57	tRNA precursor	*pH 8.0, 50&Acirc;&deg;C, in presence of 50 mM ammonium acetate and 30 mM MgCl2
+KCAT	Methanocaldococcus jannaschii	0.88	tRNA precursor	*pH 8.0, 65&Acirc;&deg;C, in presence of 800 mM ammonium acetate and 5 mM MgCl2
+KCAT	Saccharomyces cerevisiae	1.3	tRNA precursor	*nuclear enzyme form
+KCAT	Bacillus subtilis	6	tRNA precursor	*enzyme RNA moiety, pH 7.0
+KCAT	Escherichia coli	-999	more	*
+KCAT	Bacteria	-999	more	*
+KCAT	Bacillus subtilis	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Saccharomyces cerevisiae	-999	more	*KM-values for pre-tRNATyr, mutant enzymes
+KCAT	Saccharomyces cerevisiae	-999	more	*native RNase P turnover at steady state is limited by product release
+KCAT	Bacillus subtilis	0.000011	human pre-tRNATyr	*pH 8.0, 37&Acirc;&deg;C, 20 mM Mg2+
+KCAT	Escherichia coli	0.00002	human pre-tRNATyr	*pH 8.0, 37&Acirc;&deg;C, 20 mM Mg2+
+KCAT	Escherichia coli	0.00004	human pre-tRNATyr	*pH 8.0, 37&Acirc;&deg;C, 40 mM Mg2+
+KCAT	Bacillus subtilis	0.000056	human pre-tRNATyr	*pH 8.0, 37&Acirc;&deg;C, 40 mM Mg2+
+KCAT	Spinacia oleracea	0.0005	tRNAPhe (G+1) precursor	*37&Acirc;&deg;C, substrate substituted with phosphothionate from GMPaS
+KCAT	Spinacia oleracea	0.003	tRNAPhe (G+1) precursor	*37&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.0063	ptRNATyr	*from Escherichia coli, enzyme substrate Rnase P RNA
+KCAT	Pyrococcus horikoshii	0.009	pre-tRNATyr	*wild-type enzyme, pH not specified in the publication, 65&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.01	ptRNATyr	*enzyme subunit RNase P RNA + RNase P protein 21 + RNase P protein 29
+KCAT	Bacillus subtilis	0.02	pre-tRNAAsp	*catalyzed by RNase P RNA
+KCAT	Arabidopsis thaliana	0.03	pre-tRNA-Asp	*25&Acirc;&deg;C, pH 7.8
+KCAT	Escherichia coli	0.04	human pre-tRNATyr	*pH 7.6, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.06	pre-tRNA-Cys	*25&Acirc;&deg;C, pH 7.8
+KCAT	Escherichia coli	0.07	pre-tRNA	*absence of spiramycin
+KCAT	Saccharomyces cerevisiae	0.077	pre-tRNA-Tyr	*pre-tRNA-Tyr without the 3'-UUUUU trailer, at 20&Acirc;&deg;C, pH 8.0, in 10 mM HEPES buffer with 10 mM MgCl2 and 100 mM KCl
+KCAT	Saccharomyces cerevisiae	0.08	pre-tRNA-Tyr	*pre-tRNA-Tyr with the 3'-UUUUU trailer, at 20&Acirc;&deg;C, pH 8.0, in 10 mM HEPES buffer with 10 mM MgCl2 and 100 mM KCl
+KCAT	Bacillus subtilis	0.09	pre-tRNAAsp	*catalyzed by circular RNnase P RNA
+KCAT	Prochlorothrix hollandica	0.107	pre-tRNATyr	*from E. coli, RNase P RNA
+KCAT	Thermotoga maritima	0.137	tRNATyr precursor	*pH 7, 50&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.14	tRNATyr precursor	*pH 7.5, 50&Acirc;&deg;C, enzyme RNA subunit
+KCAT	Pyrococcus furiosus	0.1583	ptRNATyr	*from Escherichia coli, enzyme subunit RNase P RNA + Pop5 + RNase P protein 30 + RNase P protein 21 + RNase P protein 29
+KCAT	Methanococcus maripaludis	0.17	pre-tRNATyr	*37&Acirc;&deg;C, pH 7.5, in the absence of L7Ae
+KCAT	Escherichia coli	0.18	pre-tRNA	*presence of spiramycin
+KCAT	Pyrococcus furiosus	0.1917	ptRNATyr	*from Escherichia coli, emzyme subunit RNase P RNA + Pop5 + RNase P protein 30
+KCAT	Methanococcus maripaludis	1.05	pre-tRNATyr	*37&Acirc;&deg;C, pH 7.5, in the presence of L7Ae
+KCAT	Saccharomyces cerevisiae	1.3	pre-tRNATyr	*

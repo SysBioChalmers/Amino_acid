@@ -1,0 +1,3 @@
+KCAT	Homo sapiens	0.00016	ethanolamine	*
+KCAT	Trypanosoma brucei	6.56	ethanolamine	*pH 7.8
+KCAT	Trypanosoma brucei	12.9	ethanolamine	*pH 7.8

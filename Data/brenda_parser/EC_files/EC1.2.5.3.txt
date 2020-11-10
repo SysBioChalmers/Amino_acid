@@ -1,0 +1,2 @@
+KCAT	Oligotropha carboxidovorans	51.1	CO	*pH 7.2, 25&deg;C, reductive half-reaction of enzyme CODH with CO
+KCAT	Oligotropha carboxidovorans	93.3	CO	*pH 7.2, 25&deg;C

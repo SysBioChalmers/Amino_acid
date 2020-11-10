@@ -1,0 +1,1 @@
+ecNumber*2.3.1.277#turnoverNumber*2#turnoverNumberMaximum*#substrate*glycerone phosphate#commentary*pH 7.5, 15&deg;C#organism*Streptomyces griseus#ligandStructureId*482#literature*746281#

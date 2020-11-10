@@ -1,0 +1,43 @@
+KCAT	Neurospora crassa	-999	more	*in presence of microtubule the ATP hydrolysis is activated 3fold to 4fold compared to kcat, 125 vs. 34 s-1, while phosphate release is approximately equally fast: 29 s-1; steady state ATPase parameters, kcat values and gliding velocities of truncated NcKin3 constructs
+KCAT	Homo sapiens	0.0009	methylanthraniloyl-ATP	*basal activity, in absence of tubulin or microtubles, pH 6.9, 25&deg;C
+KCAT	Homo sapiens	0.00095	ATP	*basal activity, in absence of tubulin or microtubles, pH 6.9, 25&deg;C
+KCAT	Mus musculus	0.004	ATP	*mutant A247C, pH 6.7, 25&deg;C
+KCAT	Mus musculus	0.005	ATP	*mutant G272C, pH 6.7, 25&deg;C
+KCAT	Mus musculus	0.014	ATP	*mutant A252C, pH 6.7, 25&deg;C
+KCAT	Mus musculus	0.021	ATP	*mutant L249C, pH 6.7, 25&deg;C
+KCAT	Mus musculus	0.023	ATP	*mutant S275C, pH 6.7, 25&deg;C; wild-type, pH 6.7, 25&deg;C
+KCAT	Homo sapiens	0.069	ATP	*pH 6.8, 25&deg;C, tubulin-vinblastine-stimulated recombinant Kif2C functional domain mutant L2
+KCAT	Homo sapiens	0.079	ATP	*pH 6.8, 25&deg;C, tubuline-stimulated recombinant Kif2C functional domain mutant DSK
+KCAT	Homo sapiens	0.1	ATP	*pH 6.8, 25&deg;C, tubuline-stimulated recombinant Kif2C functional domain mutant DVK
+KCAT	Homo sapiens	0.117	ATP	*pH 6.8, 25&deg;C, tubulin-stimulated recombinant Kif2C functional domain mutant L2
+KCAT	Homo sapiens	0.123	ATP	*in presence of unpolymerized tubulin, pH 6.9, 25&deg;C
+KCAT	Homo sapiens	0.152	ATP	*pH 6.8, 25&deg;C, tubulin-stimulated recombinant Kif2C functional domain wild-type
+KCAT	Homo sapiens	0.18	ATP	*pH 6.8, 25&deg;C, microtubule-stimulated recombinant Kif2C functional domain mutant DSK
+KCAT	Homo sapiens	0.2	ATP	*in the absence of microtubules
+KCAT	Homo sapiens	0.21	ATP	*pH 6.8, 25&deg;C, microtubule-stimulated recombinant Kif2C functional domain mutant L2
+KCAT	Homo sapiens	0.48	ATP	*dimeric Eg5-513
+KCAT	Homo sapiens	0.62	ATP	*pH 6.8, 25&deg;C, tubulin-vinblastine-stimulated recombinant Kif2C functional domain wild-type
+KCAT	Homo sapiens	0.97	ATP	*pH 6.8, 25&deg;C, microtubule-stimulated recombinant Kif2C functional domain mutant DVK
+KCAT	Homo sapiens	1.4	ATP	*in the absence of microtubules with 0.05 mM kinesin spindle protein activator-1
+KCAT	Schizosaccharomyces pombe	2.4	ATP	*
+KCAT	Homo sapiens	2.9	ATP	*25&deg;C, pH 7.2, Eg5-437
+KCAT	Homo sapiens	4.4	ATP	*in the presence of microtubules, with 0.03 mM kinesin spindle protein activator-1
+KCAT	Homo sapiens	4.5	ATP	*in presence of mutant microtubles alpha-E415A, pH 6.8, 25&deg;C
+KCAT	Homo sapiens	4.97	ATP	*in presence of microtubles, pH 6.9, 25&deg;C
+KCAT	Homo sapiens	5.4	ATP	*
+KCAT	Homo sapiens	5.5	ATP	*25&deg;C, pH 7.2, Eg5-367
+KCAT	Homo sapiens	13	ATP	*in the presence of microtubules
+KCAT	Homo sapiens	17.6	ATP	*in presence of mutant microtubles alpha-E416A, pH 6.8, 25&deg;C
+KCAT	Homo sapiens	18	ATP	*in presence of mutant microtubles alpha-E418A, pH 6.8, 25&deg;C
+KCAT	Drosophila melanogaster	20	ATP	*22-25&deg;C, pH 7.2, kinesin-microtubules complex
+KCAT	Homo sapiens	20.7	ATP	*in presence of mutant microtubles alpha-E421A, pH 6.8, 25&deg;C
+KCAT	Homo sapiens	22	ATP	*in presence of wild type microtubles, pH 6.8, 25&deg;C
+KCAT	Neurospora crassa	23.2	ATP	*in 12.5 mM ACES-KOH, 25 mM potassium acetate, 5 mM MgCl2, 0.5 M EGTA, pH 6.8, at 22&deg;C
+KCAT	Homo sapiens	25.9	ATP	*in presence of mutant microtubles beta-D417A, pH 6.8, 25&deg;C
+KCAT	Homo sapiens	26.7	ATP	*in presence of mutant microtubles beta-E410A, pH 6.8, 25&deg;C
+KCAT	Neurospora crassa	29	phosphate	*in presence of microtubule the ATP hydrolysis is activated 3fold to 4fold compared to kcat, 125 vs. 34 s-1, while phosphate release is approximately equally fast: 29 s-1, pH and temperature not specified in the publication
+KCAT	Neurospora crassa	34	ADP	*in presence of microtubule the ATP hydrolysis is activated 3fold to 4fold compared to kcat, 125 vs. 34 s-1, while phosphate release is approximately equally fast: 29 s-1, pH and temperature not specified in the publication
+KCAT	Mus musculus	42.1	ATP	*wild-type KIF4 enzyme, pH and temperature not specified in the publication
+KCAT	Dictyostelium discoideum	45.9	ATP	*truncated protein Kif3-342, 22&deg;C, pH 6.8
+KCAT	Dictyostelium discoideum	60.5	ATP	*truncated protein Kif3-592, 22&deg;C, pH 6.8
+KCAT	Dictyostelium discoideum	144	ATP	*full-length protein, 22&deg;C, pH 6.8

@@ -1,0 +1,9 @@
+KCAT	Arabidopsis thaliana	0.015	dihydroquercetin	*mutant E295Q, 37&deg;C
+KCAT	Arabidopsis thaliana	0.019	dihydroquercetin	*mutant F134L, 37&deg;C
+KCAT	Arabidopsis thaliana	0.024	dihydroquercetin	*mutant S289T, 37&deg;C
+KCAT	Arabidopsis thaliana	0.03	dihydroquercetin	*mutant H132Y, 37&deg;C
+KCAT	Arabidopsis thaliana	0.034	dihydroquercetin	*mutant H132F, 37&deg;C
+KCAT	Arabidopsis thaliana	0.056	dihydroquercetin	*wild-type, 37&deg;C
+KCAT	Camellia sinensis	0.16	dihydroquercetin	*pH 7.5, 30&deg;C
+KCAT	Zea mays	3.9	dihydroquercetin	*recombinant FLS1, pH not specified in the publication, temperature not specified in the publication
+KCAT	Zea mays	6.6	dihydrokaempferol	*recombinant FLS1, pH not specified in the publication, temperature not specified in the publication

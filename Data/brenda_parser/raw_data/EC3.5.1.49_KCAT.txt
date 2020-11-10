@@ -1,0 +1,1 @@
+ecNumber*3.5.1.49#turnoverNumber*60.7#turnoverNumberMaximum*#substrate*Formamide#commentary*#organism*Methylophilus methylotrophus#ligandStructureId*3075#literature*209145#

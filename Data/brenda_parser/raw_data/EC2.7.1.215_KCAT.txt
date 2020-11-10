@@ -1,0 +1,1 @@
+ecNumber*2.7.1.215#turnoverNumber*230#turnoverNumberMaximum*#substrate*ATP#commentary*pH 8.0, 22&deg;C#organism*Brucella abortus#ligandStructureId*4#literature*641260#!ecNumber*2.7.1.215#turnoverNumber*230#turnoverNumberMaximum*#substrate*meso-erythritol#commentary*pH 8.0, 22&deg;C#organism*Brucella abortus#ligandStructureId*4268#literature*641260#

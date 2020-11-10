@@ -1,0 +1,16 @@
+KCAT	Hathewaya histolytica	-999	more	*effect of pH-value on the turnover-number for hydrolysis of alpha-benzoyl-Arg ethyl ester, effect of temperature on turnover numbers
+KCAT	Hathewaya histolytica	9.8	Nalpha-p-tosyl-L-Arg methyl ester	*
+KCAT	Hathewaya histolytica	10	Nalpha-p-tosyl-L-Arg amide	*
+KCAT	Hathewaya histolytica	22	Nalpha-benzoyl-L-Lys methyl ester	*
+KCAT	Clostridium perfringens	22.53	Ac-L-Lys-4-nitroanilide	*
+KCAT	Hathewaya histolytica	31	p-Nitrophenyl p-guanidinobenzoate	*
+KCAT	Hathewaya histolytica	38.8	Nalpha-benzoyl-L-arginine-4-nitroanilide	*commercial enzyme preparation, in 50 mM Tris-HCl, 5 mM dithiothreitol, and 5 mM CaCl2, at pH 7.5 and 25&deg;C
+KCAT	Hathewaya histolytica	69.5	Nalpha-benzoyl-L-arginine-4-nitroanilide	*purified recombinant enzyme, in 50 mM Tris-HCl, 5 mM dithiothreitol, and 5 mM CaCl2, at pH 7.5 and 25&deg;C
+KCAT	Hathewaya histolytica	86	p-toluenesulfonyl-L-Arg methyl ester	*
+KCAT	Hathewaya histolytica	87	N-benzoyl-L-Arg amide	*
+KCAT	Hathewaya histolytica	91	alpha-benzoyl-Arg ethyl ester	*depending on assay method
+KCAT	Clostridium perfringens	109.3	benzoyl-L-Arg-4-nitroanilide	*
+KCAT	Hathewaya histolytica	580	alpha-benzoyl-Arg ethyl ester	*
+KCAT	Hathewaya histolytica	643	alpha-benzoyl-Arg ethyl ester	*
+KCAT	Hathewaya histolytica	824	maleyl-Tyr-Arg ethyl ester	*
+KCAT	Hathewaya histolytica	1170	benzoyl-Arg ethyl ester	*

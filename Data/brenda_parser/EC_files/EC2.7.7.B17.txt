@@ -1,0 +1,1 @@
+KCAT	Sulfolobus islandicus	-999	more	*pH 7.5, 50&deg;C, kinetic properties of the primase activity

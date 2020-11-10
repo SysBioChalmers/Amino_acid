@@ -1,0 +1,13 @@
+KCAT	Pseudomonas fluorescens	1.6	2-hydroxypropiophenone	*mutant enzyme A28S, at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	2.8	2-hydroxypropiophenone	*mutant enzyme H286A, at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	3.4	2-hydroxypropiophenone	*wild type enzyme, at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	4	2-hydroxypropiophenone	*mutant enzyme F484I, at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	4.9	2-hydroxypropiophenone	*mutant enzyme A480I, at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	6.6	Benzoin	*mutant enzyme A480I, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	9.5	Benzoin	*mutant enzyme A28S, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	22	Benzoin	*mutant enzyme F484I, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	45.44	3,5-dimethoxy-benzaldehyde	*simplified model
+KCAT	Pseudomonas fluorescens	46.12	3,5-dimethoxy-benzaldehyde	*mechanistic model
+KCAT	Pseudomonas fluorescens	46.15	3,5-dimethoxy-benzaldehyde	*mechanistic model
+KCAT	Pseudomonas fluorescens	56.4	Benzoin	*mutant enzyme H286A, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30&deg;C and pH 7.5
+KCAT	Pseudomonas fluorescens	66.9	Benzoin	*wild type enzyme, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30&deg;C and pH 7.5

@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	0.1	dehydroepiandrosterone	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.13	androsterone	*pH 7.5, 37&deg;C

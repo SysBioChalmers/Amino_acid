@@ -1,0 +1,16 @@
+KCAT	Listeria monocytogenes	1.78	ATP	*mutant enzyme E667A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	2.1	ATP	*mutant enzyme T136V, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	2.39	ATP	*mutant enzyme R117A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	2.71	ATP	*mutant enzyme R666A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	2.87	ATP	*wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	12.91	ATP	*mutant enzyme, Y351F, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	15.35	ATP	*mutant enzyme Q337A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	33.53	ATP	*mutant enzyme V368T, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	39.9	ATP	*mutant enzyme V368E, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	43.21	ATP	*mutant enzyme E297A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	2.25	rifampicin	*wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	15.37	rifampicin	*mutant enzyme Q337A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	15.9	rifampicin	*mutant enzyme, Y351F, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	30.02	rifampicin	*mutant enzyme V368T, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	45	rifampicin	*mutant enzyme E297A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Listeria monocytogenes	45.72	rifampicin	*mutant enzyme V368E, at pH 7.5 and 25&Acirc;&deg;C

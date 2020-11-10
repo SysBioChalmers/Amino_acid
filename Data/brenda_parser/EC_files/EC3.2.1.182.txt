@@ -1,0 +1,68 @@
+KCAT	Secale cereale	10.7	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F198A
+KCAT	Triticum aestivum	10.7	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F198A
+KCAT	Secale cereale	25.1	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378A
+KCAT	Triticum aestivum	25.1	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378A
+KCAT	Secale cereale	31.2	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant S464F
+KCAT	Triticum aestivum	31.2	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant S464F
+KCAT	Secale cereale	46.1	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378F
+KCAT	Triticum aestivum	46.1	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378F
+KCAT	Secale cereale	52	4-nitrophenyl beta-D-glucoside	*pH 5.8, 37&Acirc;&deg;C, native protein
+KCAT	Secale cereale	54.6	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F471Y
+KCAT	Triticum aestivum	54.6	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F471Y
+KCAT	Secale cereale	72.8	4-nitrophenyl beta-D-glucoside	*pH 5.8, 37&Acirc;&deg;C, recombinant protein
+KCAT	Secale cereale	99.2	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Triticum aestivum	99.2	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Triticum aestivum	128	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Triticum aestivum	235.9	4-nitrophenyl beta-D-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Consolida orientalis	52	Dhurrin	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Sorghum bicolor	19.54	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+KCAT	Zea mays	19.54	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+KCAT	Sorghum bicolor	20.15	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+KCAT	Zea mays	20.15	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+KCAT	Sorghum bicolor	24.02	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+KCAT	Zea mays	24.02	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+KCAT	Sorghum bicolor	25.67	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+KCAT	Zea mays	25.67	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+KCAT	Zea mays	29.16	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, wild-type
+KCAT	Sorghum bicolor	43.33	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+KCAT	Zea mays	43.33	DIMBOA-glucoside	*pH 5.8, 37&Acirc;&deg;C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+KCAT	Secale cereale	73.3	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant S464F
+KCAT	Triticum aestivum	73.3	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant S464F
+KCAT	Secale cereale	85.1	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378F
+KCAT	Triticum aestivum	85.1	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378F
+KCAT	Secale cereale	110	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F198A
+KCAT	Triticum aestivum	110	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F198A
+KCAT	Secale cereale	124	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378A
+KCAT	Triticum aestivum	124	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378A
+KCAT	Secale cereale	192	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F471Y
+KCAT	Triticum aestivum	192	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F471Y
+KCAT	Secale cereale	338	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Triticum aestivum	338	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Triticum aestivum	773	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Triticum aestivum	1201	DIMBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Secale cereale	3.3	4-nitrophenyl beta-D-galactoside	*pH 5.8, 37&Acirc;&deg;C, recombinant protein
+KCAT	Secale cereale	3.5	4-nitrophenyl beta-D-galactoside	*pH 5.8, 37&Acirc;&deg;C, native protein
+KCAT	Secale cereale	66.8	4-nitrophenyl beta-D-fucoside	*pH 5.8, 37&Acirc;&deg;C, native protein
+KCAT	Secale cereale	86.5	4-nitrophenyl beta-D-fucoside	*pH 5.8, 37&Acirc;&deg;C, recombinant protein
+KCAT	Secale cereale	4.7	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378F
+KCAT	Triticum aestivum	4.7	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378F
+KCAT	Secale cereale	6.7	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F198A
+KCAT	Triticum aestivum	6.7	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F198A
+KCAT	Secale cereale	26.4	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378A
+KCAT	Triticum aestivum	26.4	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant Y378A
+KCAT	Secale cereale	48.8	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Triticum aestivum	48.8	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Secale cereale	83.5	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F471Y
+KCAT	Triticum aestivum	83.5	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant F471Y
+KCAT	Secale cereale	84	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant S464F
+KCAT	Triticum aestivum	84	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, mutant S464F
+KCAT	Triticum aestivum	137	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Triticum aestivum	214	DIBOA-glucoside	*pH 5.5, 30&Acirc;&deg;C, wild-type
+KCAT	Secale cereale	159	2-Nitrophenyl beta-D-glucoside	*pH 5.8, 37&Acirc;&deg;C, native protein
+KCAT	Secale cereale	204.2	2-Nitrophenyl beta-D-glucoside	*pH 5.8, 37&Acirc;&deg;C, recombinant protein
+KCAT	Consolida orientalis	32	(2R)-4-hydroxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl beta-D-glucopyranoside	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Secale cereale	169	DIBOA beta-D-glucoside	*pH 5.8, 37&Acirc;&deg;C, recombinant protein
+KCAT	Secale cereale	172	DIBOA beta-D-glucoside	*pH 5.8, 37&Acirc;&deg;C, native protein
+KCAT	Secale cereale	97.4	DIMBOA beta-D-glucoside	*pH 5.8, 37&Acirc;&deg;C, recombinant protein
+KCAT	Secale cereale	119	DIMBOA beta-D-glucoside	*pH 5.8, 37&Acirc;&deg;C, native protein
+KCAT	Consolida orientalis	4.2	(2R)-4-hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl beta-D-glucopyranoside	*recombinant enzyme, pH and temperature not specified in the publication

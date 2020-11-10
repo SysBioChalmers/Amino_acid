@@ -1,0 +1,1 @@
+ecNumber*1.8.1.20#turnoverNumber*2.5#turnoverNumberMaximum*#substrate*4,4'-disulfanediyldibutanoate#commentary*at pH 8.0 and 37&deg;C#organism*Rhodococcus erythropolis#ligandStructureId*219225#literature*743195#

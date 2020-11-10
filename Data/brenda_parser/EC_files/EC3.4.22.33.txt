@@ -1,0 +1,3 @@
+KCAT	Ananas comosus	0.0094	Nalpha-benzoyl-Arg amide	*fruit bromelain C
+KCAT	Ananas comosus	0.027	Nalpha-benzoyl-Arg amide	*fruit bromelain B
+KCAT	Ananas comosus	0.033	Nalpha-benzoyl-Arg amide	*fruit bromelain A

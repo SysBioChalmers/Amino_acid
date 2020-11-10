@@ -1,0 +1,106 @@
+KCAT	Pyrococcus furiosus	-999	more	*mutants enzymes R77Q and R77Q/N206D show a biphasic behavior for the hydrolysis of 4-nitrophenyl beta-D-mannopyranoside with separate kinetic parameters above and below 1 mM 4-nitrophenyl beta-D-mannopyranoside
+KCAT	Pyrococcus furiosus	0.03	lactose	*pH 5.0, 95&deg;C, mutant enzyme Q150W; pH 5.0, 95&deg;C, mutant enzyme Q77R/Q150W
+KCAT	Pyrococcus furiosus	0.05	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 95&deg;C, mutant enzyme Q77R/Q150W
+KCAT	Pyrococcus furiosus	0.08	lactose	*pH 5.0, 100&deg;C
+KCAT	Pyrococcus furiosus	0.1	cellobiose	*pH 5.0, 95&deg;C, mutant enzyme Q77R/Q150W
+KCAT	Pyrococcus furiosus	0.11	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 95&deg;C, mutant enzyme Q77R/Q150W
+KCAT	Pyrococcus furiosus	0.13	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 95&deg;C, mutant enzyme Q150W
+KCAT	Pyrococcus furiosus	0.13	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 95&deg;C, mutant enzyme Q150W
+KCAT	Pyrococcus furiosus	0.16	cellobiose	*pH 5.0, 100&deg;C
+KCAT	Pyrococcus furiosus	0.22	2-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 95&deg;C, mutant enzyme Q77R/Q150W
+KCAT	Pyrococcus furiosus	0.22	quercitrin	*pH 5.0, 95&deg;C
+KCAT	Pyrococcus furiosus	0.23	2-nitrophenyl beta-D-galactopyranoside	*pH 5.0, 100&deg;C
+KCAT	Pyrococcus furiosus	0.26	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 100&deg;C
+KCAT	Pyrococcus furiosus	0.3	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 100&deg;C
+KCAT	Pyrococcus furiosus	0.45	2-nitrophenyl beta-D-glucopyranoside	*mutant E372A, pH 5.0, 65&deg;C
+KCAT	Pyrococcus furiosus	0.67	2-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 95&deg;C, mutant enzyme Q150W
+KCAT	Pyrococcus furiosus	0.74	cellobiose	*pH 5.0, 95&deg;C, mutant enzyme Q150W
+KCAT	Pyrococcus furiosus	0.8	4-nitrophenyl beta-D-glucoside	*pH 5.0, 95&deg;C, mutant enzyme M424K/F426Y
+KCAT	Pyrococcus furiosus	0.85	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 90&deg;C, mutant enzyme R77Q, below 1 mM 4-nitrophenyl beta-D-mannopyranoside. The mutant enzyme shows a biphasic behavior for the hydrolysis of 4-nitrophenyl beta-D-mannopyranoside with separate kinetic parameters above and below 1 mM 4-nitrophenyl beta-D-mannopyranoside
+KCAT	Pyrococcus furiosus	0.9	4-nitrophenyl beta-D-glucoside	*pH 5.0, 95&deg;C, mutant enzyme F426Y
+KCAT	Pyrococcus furiosus	1.02	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 90&deg;C, mutant enzyme R77Q/N206D, below 1 mM 4-nitrophenyl beta-D-mannopyranoside. The mutant enzyme shows a biphasic behavior for the hydrolysis of 4-nitrophenyl beta-D-mannopyranoside with separate kinetic parameters above and below 1 mM 4-nitrophenyl beta-D-mannopyranoside
+KCAT	Pyrococcus furiosus	1.22	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 90&deg;C, mutant enzyme R77Q, above 1 mM 4-nitrophenyl beta-D-mannopyranoside. The mutant enzyme shows a biphasic behavior for the hydrolysis of 4-nitrophenyl beta-D-mannopyranoside with separate kinetic parameters above and below 1 mM 4-nitrophenyl beta-D-mannopyranoside
+KCAT	Pyrococcus furiosus	1.9	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 90&deg;C, mutant enzyme R77Q/N206D, above 1 mM 4-nitrophenyl beta-D-mannopyranoside. The mutant enzyme shows a biphasic behavior for the hydrolysis of 4-nitrophenyl beta-D-mannopyranoside with separate kinetic parameters above and below 1 mM 4-nitrophenyl beta-D-mannopyranoside
+KCAT	Pyrococcus furiosus	1.97	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 90&deg;C, mutant enzyme N206D
+KCAT	Pyrococcus furiosus	3.9	2-nitrophenyl beta-D-glucopyranoside	*mutant E372A, pH 6.5, 65&deg;C, presence of 2 M formate
+KCAT	Pyrococcus furiosus	4.2	4-nitrophenyl beta-D-galactopyranoside	*mutant N4515S, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	5	4-nitrophenyl beta-D-glucoside	*pH 5.0, 95&deg;C, mutant enzyme M424K
+KCAT	Pyrococcus furiosus	6.7	2-nitrophenyl beta-D-glucopyranoside	*mutant E372A, pH 4.0, 65&deg;C
+KCAT	Pyrococcus furiosus	7.1	4-nitrophenyl beta-D-glucoside	*pH 5.0, 95&deg;C, wild-type enzyme
+KCAT	Pyrococcus furiosus	8.3	methyl beta-D-galactoside	*release of methanol, pH 7.5, 80&deg;C
+KCAT	Pyrococcus furiosus	9.1	4-nitrophenyl beta-D-galactopyranoside	*wild-type, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	11	4-nitrophenyl beta-D-galactopyranoside	*mutant T371A, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	12	4-nitrophenyl beta-D-galactopyranoside	*mutant M424V, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	13	4-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	13	lactose	*wild-type, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	14	4-nitrophenyl beta-D-galactopyranoside	*mutant A419T, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	15	cellobiose	*mutant T371A, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	15	lactose	*mutant A419T, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	16	cellobiose	*wild-type, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	17	lactose	*mutant T371A, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	18	cellobiose	*mutant M424V, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	19	cellobiose	*mutant A419T, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	20	2-nitrophenyl beta-D-galactopyranoside	*wild-type, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	20	cellobiose	*mutant N4515S, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	21	lactose	*mutant M424V, pH 4.8, 20&deg;C; mutant N4515S, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	26	2-nitrophenyl beta-D-galactopyranoside-6-phosphate	*mutant F426Y, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	26	4-nitrophenyl beta-D-glucopyranoside	*mutant T371A, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	27.7	naringin	*pH 5.5, 95&deg;C
+KCAT	Pyrococcus furiosus	29.2	4-nitrophenyl beta-D-galactopyranoside	*pH 5.0, 90&deg;C, mutant enzyme R77Q/N206D
+KCAT	Pyrococcus furiosus	37.6	cellobiose	*pH 5.0, 70&deg;C
+KCAT	Pyrococcus furiosus	40	4-nitrophenyl beta-D-glucopyranoside	*mutant A419T, pH 4.8, 20&deg;C; mutant M424V, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	47	4-nitrophenyl beta-D-glucopyranoside	*mutant N4515S, pH 4.8, 20&deg;C
+KCAT	Pyrococcus furiosus	47.6	2-nitrophenyl beta-D-glucopyranoside	*mutant E372A, pH 3.0, 65&deg;C
+KCAT	Pyrococcus furiosus	49	2-nitrophenyl beta-D-galactopyranoside-6-phosphate	*wild-type, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	53.3	isoquercitrin	*pH 5.0, 95&deg;C
+KCAT	Pyrococcus furiosus	65.9	4-nitrophenyl beta-D-mannopyranoside	*pH 5.0, 90&deg;C, wild-type enzyme
+KCAT	Pyrococcus furiosus	68.4	hesperidin	*pH 5.5, 95&deg;C
+KCAT	Pyrococcus furiosus	69	2-nitrophenyl beta-D-galactopyranoside-6-phosphate	*mutant E417S/M424K/F426Y, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	69.2	4-nitrophenyl beta-D-galactopyranoside	*pH 5.0, 90&deg;C, mutant enzyme R77Q
+KCAT	Pyrococcus furiosus	74.1	narirutin	*pH 5.5, 95&deg;C
+KCAT	Pyrococcus furiosus	84.8	neohesperidin	*pH 5.5, 95&deg;C
+KCAT	Pyrococcus furiosus	90	4-nitrophenyl beta-D-galactopyranoside	*pH 5.4, 30&deg;C
+KCAT	Pyrococcus furiosus	116	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 90&deg;C, mutant enzyme N206D
+KCAT	Pyrococcus furiosus	171	2-nitrophenyl beta-D-galactopyranoside-6-phosphate	*mutant E417S, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	172	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 90&deg;C, mutant enzyme R77Q/N206D
+KCAT	Pyrococcus furiosus	175	2-nitrophenyl beta-D-galactopyranoside	*mutant E417S/M424K/F426Y, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	180	4-nitrophenyl beta-D-galactopyranoside	*pH 5.0, 90&deg;C, mutant enzyme N206D
+KCAT	Pyrococcus furiosus	206	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 70&deg;C
+KCAT	Pyrococcus furiosus	207	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 90&deg;C, mutant enzyme R77Q
+KCAT	Pyrococcus furiosus	236	4-nitrophenyl beta-D-galactopyranoside	*pH 5.4, 40&deg;C
+KCAT	Pyrococcus furiosus	240	cellobiose	*mutant N4515S, pH 4.8, 90&deg;C
+KCAT	Pyrococcus furiosus	286	lactose	*pH 5.0, 70&deg;C
+KCAT	Pyrococcus furiosus	298	4-nitrophenyl beta-D-galactopyranoside	*pH 5.0, 70&deg;C
+KCAT	Pyrococcus furiosus	454	cellobiose	*pH 5, 80&deg;C
+KCAT	Pyrococcus furiosus	530	lactose	*mutant N4515S, pH 4.8, 90&deg;C
+KCAT	Pyrococcus furiosus	580	4-nitrophenyl beta-D-galactopyranoside	*pH 5.4, 50&deg;C
+KCAT	Pyrococcus furiosus	610	glycitin	*pH 6.0, 95&deg;C
+KCAT	Pyrococcus furiosus	670	cellobiose	*wild-type, pH 4.8, 90&deg;C
+KCAT	Pyrococcus furiosus	772	2-nitrophenyl beta-D-glucopyranoside	*mutant M424K, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	777	2-nitrophenyl beta-D-glucopyranoside	*mutant E417S/M424K/F426Y, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	840	2-nitrophenyl beta-D-glucopyranoside	*mutant F426Y, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	860	2-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	892	2-nitrophenyl beta-D-galactopyranoside	*mutant F426Y, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	1000	4-nitrophenyl beta-D-galactopyranoside	*mutant N4515S, pH 4.8, 90&deg;C
+KCAT	Pyrococcus furiosus	1060	2-nitrophenyl beta-D-galactopyranoside	*mutant E417S, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	1140	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 90&deg;C, wild-type enzyme
+KCAT	Pyrococcus furiosus	1189	2-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 6.5, 65&deg;C, presence of 2 M formate
+KCAT	Pyrococcus furiosus	1222	4-nitrophenyl beta-D-galactopyranoside	*pH 5.4, 60&deg;C
+KCAT	Pyrococcus furiosus	1300	lactose	*wild-type, pH 4.8, 90&deg;C
+KCAT	Pyrococcus furiosus	1400	4-nitrophenyl beta-D-glucopyranoside	*mutant N4515S, pH 4.8, 90&deg;C
+KCAT	Pyrococcus furiosus	1486	4-nitrophenyl beta-D-galactopyranoside	*pH 5.4, 65&deg;C
+KCAT	Pyrococcus furiosus	1600	4-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 4.8, 90&deg;C
+KCAT	Pyrococcus furiosus	1797	2-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 6.5, 65&deg;C
+KCAT	Pyrococcus furiosus	1880	2-nitrophenyl beta-D-galactopyranoside	*mutant M424K, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	1880	daidzin	*pH 6.0, 95&deg;C
+KCAT	Pyrococcus furiosus	2400	4-nitrophenyl beta-D-galactopyranoside	*wild-type, pH 4.8, 90&deg;C
+KCAT	Pyrococcus furiosus	2600	4-nitrophenyl beta-D-glucopyranoside	*pH 5.4, 75&deg;C
+KCAT	Pyrococcus furiosus	2827	4-nitrophenyl beta-D-galactopyranoside	*pH 5.0, 90&deg;C, wild-type enzyme
+KCAT	Pyrococcus furiosus	2907	4-nitrophenyl beta-D-galactopyranoside	*pH 5.4, 75&deg;C
+KCAT	Pyrococcus furiosus	3300	2-nitrophenyl beta-D-glucopyranoside	*mutant E417S, pH 5.0, 90&deg;C
+KCAT	Pyrococcus furiosus	3300	2-nitrophenyl beta-D-glucopyranoside	*pH 5.4, 75&deg;C
+KCAT	Pyrococcus furiosus	3800	lactose	*release of D-glucose, pH 7.5, 80&deg;C
+KCAT	Pyrococcus furiosus	4863	4-nitrophenyl beta-D-galactopyranoside	*pH 5.4, 85&deg;C
+KCAT	Pyrococcus furiosus	6050	genistin	*pH 6.0, 95&deg;C
+KCAT	Pyrococcus furiosus	9600	2-nitrophenyl beta-D-galactopyranoside	*pH 5.4, 75&deg;C
+KCAT	Pyrococcus furiosus	10000	2-nitrophenyl beta-D-galactoside	*release of 2-nitrophenol, pH 7.5, 80&deg;C

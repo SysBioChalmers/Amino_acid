@@ -1,0 +1,5 @@
+KCAT	Delftia sp. HT23	0.18	L-serine	*at pH 8.5 and 50&deg;C
+KCAT	Delftia sp. HT23	3.03	L-threo-3-hydroxyaspartate	*at pH 8.5 and 50&deg;C
+KCAT	Delftia sp. HT23	8.68	D-serine	*at pH 8.5 and 50&deg;C
+KCAT	Delftia sp. HT23	8.68	L-erythro-3-hydroxyaspartate	*at pH 8.5 and 50&deg;C
+KCAT	Delftia sp. HT23	10.93	D-threo-3-hydroxyaspartate	*at pH 8.5 and 50&deg;C

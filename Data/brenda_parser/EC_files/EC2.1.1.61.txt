@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	1.23	5-aminomethyl-2-thiouridine	*

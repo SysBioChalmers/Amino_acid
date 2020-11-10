@@ -1,0 +1,44 @@
+KCAT	Pseudomonas aeruginosa	0.076	D-mannose 6-phosphate	*pH 7.1, 25&deg;C
+KCAT	Pseudomonas aeruginosa	0.25	D-mannose 6-phosphate	*mutant R472A, pH 7.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	0.54	D-mannose 6-phosphate	*mutant R479A, pH 7.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	0.75	D-mannose 6-phosphate	*mutant R373A, pH 7.0, 25&deg;C
+KCAT	Dehalococcoides mccartyi	0.84	D-mannose 6-phosphate	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas aeruginosa	1.38	D-mannose 6-phosphate	*wild-type, pH 7.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	2.63	D-mannose 6-phosphate	*mutant E410A, pH 7.0, 25&deg;C
+KCAT	Homo sapiens	3	beta-D-mannose 6-phosphate	*in 50 mM HEPES buffer, pH 7.1, at 25&deg;C
+KCAT	Pseudomonas aeruginosa	3.25	D-mannose 6-phosphate	*mutant E458A, pH 7.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	3.5	D-mannose 6-phosphate	*mutant N433A, pH 7.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	4.41	D-mannose 6-phosphate	*mutant H411A, pH 7.0, 25&deg;C
+KCAT	Thermus thermophilus	11	D-mannose 6-phosphate	*mutant enzyme W13A, pH 7.0, 80&deg;C
+KCAT	Thermus thermophilus	19	D-mannose 6-phosphate	*mutant enzyme E132A, pH 7.0, 80&deg;C
+KCAT	Burkholderia cepacia	19.4	D-mannose 6-phosphate	*pH 7.6, presence of 5 mM Mg2+
+KCAT	Burkholderia cepacia	19.4	D-mannose 6-phosphate	*pH 7.6, 5 mM Mg2+, temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	20	D-mannose 6-phosphate	*pH 7.1, 25&deg;C
+KCAT	Escherichia coli	23	beta-D-mannose 6-phosphate	*in 50 mM HEPES buffer, pH 7.1, at 25&deg;C
+KCAT	Thermus thermophilus	31	D-mannose 6-phosphate	*mutant enzyme E67A, pH 7.0, 80&deg;C
+KCAT	Thermus thermophilus	37	D-mannose 6-phosphate	*mutant enzyme Q48A, pH 7.0, 80&deg;C
+KCAT	Thermus thermophilus	54	D-mannose 6-phosphate	*mutant enzyme H50A, pH 7.0, 80&deg;C
+KCAT	Thermus thermophilus	70	D-mannose 6-phosphate	*mutant enzyme R142A, pH 7.0, 80&deg;C
+KCAT	Bacillus subtilis	72	D-ribose	*pH 7.5, 40&deg;C, recombinant enzyme
+KCAT	Thermus thermophilus	75	D-mannose 6-phosphate	*mutant enzyme H122A, pH 7.0, 80&deg;C
+KCAT	Candida albicans	121	mannose 6-phosphate	*selenomethionine-labelled enzyme
+KCAT	Thermus thermophilus	141	D-fructose 6-phosphate	*wild type enzyme, pH 7.0, 80&deg;C
+KCAT	Candida albicans	162	mannose 6-phosphate	*wild-type enzyme
+KCAT	Bacillus subtilis	920	L-allose	*pH 7.5, 40&deg;C, recombinant enzyme
+KCAT	Thermus thermophilus	1371	D-mannose 6-phosphate	*wild type enzyme, pH 7.0, 80&deg;C
+KCAT	Bacillus subtilis	3748	D-mannose	*pH 7.5, 40&deg;C, recombinant enzyme
+KCAT	Bacillus subtilis	7089	D-Lyxose	*pH 7.5, 40&deg;C, recombinant enzyme
+KCAT	Bacillus subtilis	17600	L-ribose	*pH 7.5, 40&deg;C, recombinant enzyme
+KCAT	Geobacillus thermodenitrificans	23550	D-mannose 6-phosphate	*wild type enzyme, at pH 7.0 and 70&deg;C
+KCAT	Thermus thermophilus	32670	L-ribulose	*mutant enzyme R142E, at pH 7.0 and 75&deg;C
+KCAT	Thermus thermophilus	48300	L-ribulose	*mutant enzyme R142Q, at pH 7.0 and 75&deg;C
+KCAT	Thermus thermophilus	50640	L-ribulose	*wild type enzyme, at pH 7.0 and 75&deg;C
+KCAT	Geobacillus thermodenitrificans	55120	D-mannose 6-phosphate	*mutant enzyme L129F, at pH 7.0 and 70&deg;C
+KCAT	Thermus thermophilus	56180	L-ribulose	*mutant enzyme R142Y, at pH 7.0 and 75&deg;C
+KCAT	Bacillus subtilis	63970	D-talose	*pH 7.5, 40&deg;C, recombinant enzyme
+KCAT	Thermus thermophilus	64870	L-ribulose	*mutant enzyme R142A, at pH 7.0 and 75&deg;C
+KCAT	Thermus thermophilus	68880	L-ribulose	*mutant enzyme R142K, at pH 7.0 and 75&deg;C
+KCAT	Thermus thermophilus	81060	L-ribulose	*mutant enzyme R142N, at pH 7.0 and 75&deg;C
+KCAT	Geobacillus thermodenitrificans	85720	D-mannose 6-phosphate	*mutant enzyme N90A/L129F, at pH 7.0 and 70&deg;C
+KCAT	Bacillus amyloliquefaciens	106000	D-mannose 6-phosphate	*pH 7.5, 70&deg;C
+KCAT	Geobacillus thermodenitrificans	112100	D-mannose 6-phosphate	*mutant enzyme W17Q/N90A/L129F, at pH 7.0 and 70&deg;C

@@ -1,0 +1,13 @@
+KCAT	Bacillus halodurans	0.42	D-xylose	*mutant Y198F/D263N
+KCAT	Bacillus halodurans	5.04	D-xylose	*
+KCAT	Bacillus halodurans	11.9	D-xylose	*mutant Y198F
+KCAT	Paenibacillus barcinonensis	118.8	xylotriose	*pH 7.0, 40&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus halodurans	21	beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranose	*mutant enzyme H319A
+KCAT	Bacillus halodurans	163	beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranose	*
+KCAT	Bacillus halodurans	162	beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranose	*
+KCAT	Bacillus halodurans	73	beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranose	*
+KCAT	Bacillus halodurans	175	beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranosyl-(1-4)-beta-D-xylopyranose	*
+KCAT	uncultured bacterium	138	oat spelt xylan	*apparent value, at pH 6.0, 40&Acirc;&deg;C
+KCAT	Pseudoalteromonas haloplanktis	166	oat spelt xylan	*apparent value, at pH 6.0, 40&Acirc;&deg;C
+KCAT	uncultured bacterium	1099	wheat flour arabinoxylan	*apparent value, at pH 6.0, 40&Acirc;&deg;C
+KCAT	Pseudoalteromonas haloplanktis	1455	wheat flour arabinoxylan	*apparent value, at pH 6.0, 40&Acirc;&deg;C

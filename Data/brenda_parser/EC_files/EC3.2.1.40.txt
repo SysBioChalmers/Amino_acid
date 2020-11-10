@@ -1,0 +1,31 @@
+KCAT	Alternaria sp. L1	0.0246	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 55&deg;C, mutant enzyme W261Y
+KCAT	Alternaria sp. L1	0.0498	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 55&deg;C, mutant enzyme Y316F
+KCAT	Alternaria sp. L1	0.16	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 55&deg;C, mutant enzyme W555A
+KCAT	Dictyoglomus thermophilum	0.17	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 5.0, 37&deg;C
+KCAT	Alternaria sp. L1	0.55	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 55&deg;C, mutant enzyme Y302F
+KCAT	Alternaria sp. L1	1.77	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 55&deg;C, mutant enzyme R548A
+KCAT	Alternaria sp. L1	3.07	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 55&deg;C, wild-type enzyme
+KCAT	Novosphingobium sp. PP1Y	12.2	quercitrin	*pH 6.9, 37&deg;C
+KCAT	Novosphingobium sp. PP1Y	12.7	hesperidin	*pH 6.9, 37&deg;C
+KCAT	Fusarium verticillioides	15.6	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 10.5 (0.2M sodium phosphate buffer), 50&deg;C
+KCAT	Novosphingobium sp. PP1Y	18.2	rutin	*pH 6.9, 37&deg;C
+KCAT	Bacteroides thetaiotaomicron	69.8	4-nitrophenyl alpha-L-rhamnopyranoside	*50&deg;C, pH 6.5
+KCAT	Novosphingobium sp. PP1Y	126	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.9, 37&deg;C, mutant enzyme D763A
+KCAT	Aspergillus oryzae	210	naringin	*pH 5.0, 50&deg;C
+KCAT	Novosphingobium sp. PP1Y	214	naringin	*pH 6.9, 37&deg;C
+KCAT	Aspergillus terreus	362.5	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 65&deg;C, in presence of 1.0 M sorbitol
+KCAT	Aspergillus terreus	379.2	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 65&deg;C, in presence of 0.6 M sorbitol
+KCAT	Aspergillus terreus	407.6	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 65&deg;C, without additives
+KCAT	Aspergillus terreus	412	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 65&deg;C, wild-type enzyme
+KCAT	Aspergillus terreus	434	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 65&deg;C, mutant enzyme D594Q/G827K
+KCAT	Novosphingobium sp. PP1Y	458	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.9, 37&deg;C, mutant enzyme D552A
+KCAT	Aspergillus terreus	458	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 65&deg;C, mutant enzyme D594Q
+KCAT	Aspergillus oryzae	550	rutin	*pH 5.0, 50&deg;C
+KCAT	Novosphingobium sp. PP1Y	692	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.9, 37&deg;C, wild-type enzyme
+KCAT	Aspergillus oryzae	1080	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 5.0, 50&deg;C
+KCAT	Aspergillus oryzae	1624	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 4.5, 65&deg;C
+KCAT	Bacteroides thetaiotaomicron	1743.29	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 6.5, 55&deg;C
+KCAT	Aspergillus oryzae	2810	hesperidin	*pH 5.0, 50&deg;C
+KCAT	Aspergillus niger	5380	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 5.0, 60&deg;C, mutant enzyme V529A
+KCAT	Aspergillus niger	10200	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 5.0, 60&deg;C, wild-type enzyme
+KCAT	Aspergillus tubingensis	48900	naringin	*pH 4.0, 60&deg;C

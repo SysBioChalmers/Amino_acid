@@ -1,0 +1,18 @@
+KCAT	Escherichia coli	0.0667	reduced acetylpyridine adenine dinucleotide	*reverse reaction of wild-type domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	0.1	reduced acetylpyridine adenine dinucleotide	*reverse reaction of A432C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	0.117	reduced acetylpyridine adenine dinucleotide	*reverse reaction of D393C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	0.167	reduced acetylpyridine adenine dinucleotide	*reverse reaction of H345C mutant domain III/R. rubrum domain I mixture; reverse reaction of R350C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	0.283	reduced acetylpyridine adenine dinucleotide	*reverse reaction of K424C mutant domain III/R. rubrum domain I mixture; reverse reaction of R425C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	0.55	reduced acetylpyridine adenine dinucleotide	*reverse reaction of A348C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	0.567	reduced acetylpyridine adenine dinucleotide	*reverse reaction of G430C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	0.917	reduced acetylpyridine adenine dinucleotide	*reverse reaction of D392C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	10	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of R425C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	11.7	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of G430C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	15	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of D392C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	20.8	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of H345C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	33.3	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of R350C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	36.7	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of K424C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	40	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of D393C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	51.7	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of A432C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	55	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of A348C mutant domain III/R. rubrum domain I mixture
+KCAT	Escherichia coli	81.7	reduced acetylpyridine adenine dinucleotide	*cyclic reaction of wild-type domain III/R. rubrum domain I mixture

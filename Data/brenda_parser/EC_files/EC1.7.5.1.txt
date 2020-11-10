@@ -1,0 +1,4 @@
+KCAT	Escherichia coli	10	nitrate	*mutant enzyme K86A
+KCAT	Escherichia coli	68	2-hydroxy-3-(3-methyl-2-butenyl)-1,4-naphthoquinol	*pH 7
+KCAT	Escherichia coli	68	nitrate	*wild-type enzyme
+KCAT	Escherichia coli	120	5-hydroxy-2-methyl-1,4-naphthoquinol	*pH 7

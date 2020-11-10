@@ -1,0 +1,4 @@
+KCAT	Paenarthrobacter aurescens	1054	inulin	*pH 5.5, 60&Acirc;&deg;C, pressure of 0.1 MPa
+KCAT	Paenarthrobacter aurescens	1244	inulin	*pH 5.5, 60&Acirc;&deg;C, pressure of 100 MPa
+KCAT	Paenarthrobacter aurescens	1327	inulin	*pH 5.5, 60&Acirc;&deg;C, pressure of 150 MPa
+KCAT	Paenarthrobacter aurescens	1437	inulin	*pH 5.5, 60&Acirc;&deg;C, pressure of 200 MPa

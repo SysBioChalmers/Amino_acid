@@ -1,0 +1,7 @@
+KCAT	Psychrobacter arcticus	0.0017	L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanine	*pH 8.4, temperature not specified in the publication, recombinant His-tagged enzyme
+KCAT	Psychrobacter arcticus	0.0042	L-alanyl-gamma-D-glutamyl-L-lysine	*pH 8.4, temperature not specified in the publication, recombinant His-tagged enzyme
+KCAT	Psychrobacter arcticus	0.0117	L-alanine	*pH 8.4, temperature not specified in the publication, recombinant His-tagged enzyme
+KCAT	Psychrobacter arcticus	0.023	L-alanyl-gamma-D-glutamate	*pH 8.4, temperature not specified in the publication, recombinant His-tagged enzyme
+KCAT	Psychrobacter arcticus	0.088	L-alanyl-gamma-D-glutamyl-meso-diaminopimelyl-D-alanyl-D-alanine	*pH 8.4, temperature not specified in the publication, recombinant His-tagged enzyme
+KCAT	Psychrobacter arcticus	0.098	L-alanyl-gamma-D-glutamyl-meso-diaminopimelyl-D-alanine	*pH 8.4, temperature not specified in the publication, recombinant His-tagged enzyme
+KCAT	Psychrobacter arcticus	4.33	L-alanyl-gamma-D-glutamyl-meso-diaminopimelate	*pH 8.4, temperature not specified in the publication, recombinant His-tagged enzyme

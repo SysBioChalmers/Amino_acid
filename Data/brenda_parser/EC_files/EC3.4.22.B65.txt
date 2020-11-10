@@ -1,0 +1,43 @@
+KCAT	Mus musculus	0.0014	o-aminobenzoic acid-KLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5, presence of 2.5 M Na2SO4
+KCAT	Mus musculus	0.0016	o-aminobenzoic acid-KLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5, presence of 1 M Na2SO4
+KCAT	Mus musculus	0.004	o-aminobenzoic acid-KLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.016	o-aminobenzoic acid-KLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.004	o-aminobenzoic acid-EIFVFKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5, presence of 2.5 M Na2SO4
+KCAT	Mus musculus	0.005	o-aminobenzoic acid-EIFVFKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5, presence of 1 M Na2SO4
+KCAT	Mus musculus	0.006	o-aminobenzoic acid-EIFVFKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.006	o-aminobenzoic acid-KLQSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.016	o-aminobenzoic acid-KNLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.016	o-aminobenzoic acid-KLFSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.013	o-aminobenzoic acid-KLMSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.012	o-aminobenzoic acid-KLLSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.015	o-aminobenzoic acid-KLYSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.007	o-aminobenzoic acid-KLTSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.009	o-aminobenzoic acid-KLASSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.05	o-aminobenzoic acid-KIRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.017	o-aminobenzoic acid-KVRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.02	o-aminobenzoic acid-KMRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.005	o-aminobenzoic acid-KYRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.004	o-aminobenzoic acid-KFRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.013	o-aminobenzoic acid-KTRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.008	o-aminobenzoic acid-KARSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.006	o-aminobenzoic acid-KQRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.001	o-aminobenzoic acid-KRRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.021	o-aminobenzoic acid-ELRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.013	o-aminobenzoic acid-VLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.013	o-aminobenzoic acid-HLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.024	o-aminobenzoic acid-FLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.023	o-aminobenzoic acid-RLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.035	o-aminobenzoic acid-ALRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.016	o-aminobenzoic acid-ILRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.029	o-aminobenzoic acid-LLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.012	o-aminobenzoic acid-NLRSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.009	o-aminobenzoic acid-KLRVSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.018	o-aminobenzoic acid-KLRLSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.029	o-aminobenzoic acid-KLRQSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.014	o-aminobenzoic acid-KLRESKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.044	o-aminobenzoic acid-KLRNSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.018	o-aminobenzoic acid-KLRRSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.01	o-aminobenzoic acid-KLRFSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.007	o-aminobenzoic acid-KLRGSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.009	o-aminobenzoic acid-KLRHSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Mus musculus	0.02	o-aminobenzoic acid-KLKSSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 6.5

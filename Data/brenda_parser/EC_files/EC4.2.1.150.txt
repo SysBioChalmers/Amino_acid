@@ -1,0 +1,2 @@
+KCAT	Meiothermus ruber	14.9	crotonyl-CoA	*pH 7.0, 50&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Metallosphaera sedula	19	crotonyl-CoA	*pH 8.0, 70&Acirc;&deg;C

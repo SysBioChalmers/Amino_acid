@@ -1,0 +1,40 @@
+KCAT	Corynebacterium ammoniagenes	0.042	ATP	*apparent value, mutant enzyme N210D, at 37&Acirc;&deg;C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+KCAT	Corynebacterium ammoniagenes	0.07	ATP	*apparent value, mutant enzyme E268D, at 37&Acirc;&deg;C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+KCAT	Corynebacterium ammoniagenes	0.4	ATP	*mutant enzyme R66E, at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	0.5	ATP	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant R66A
+KCAT	Corynebacterium ammoniagenes	0.7	ATP	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant R66E
+KCAT	Corynebacterium ammoniagenes	0.75	ATP	*mutant enzyme H28A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C; mutant enzyme T165D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	0.77	ATP	*mutant enzyme N125A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	0.92	ATP	*mutant enzyme H28D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C; mutant enzyme S164D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	0.97	ATP	*mutant enzyme H31A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	0.98	ATP	*mutant enzyme S164A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	1.08	ATP	*mutant enzyme R161A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	1.1	ATP	*mutant enzyme T165A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	1.13	ATP	*apparent value, wild type enzyme, at 37&Acirc;&deg;C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+KCAT	Corynebacterium ammoniagenes	1.13	ATP	*mutant enzyme R161D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C; wild type enzyme, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	1.33	ATP	*mutant enzyme N125D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	2.6	ATP	*wild type enzyme, at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	6.8	ATP	*pH 7.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Neurospora crassa	0.1	MgATP2-	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	0.045	riboflavin	*apparent value, mutant enzyme E268D, at 37&Acirc;&deg;C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+KCAT	Corynebacterium ammoniagenes	0.085	riboflavin	*apparent value, mutant enzyme N210D, at 37&Acirc;&deg;C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+KCAT	Neurospora crassa	0.1	riboflavin	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Streptomyces davaonensis	0.3	riboflavin	*37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	0.5	riboflavin	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant R66A
+KCAT	Bacillus subtilis	0.7	riboflavin	*37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	0.7	riboflavin	*mutant enzyme R66E, at pH 7.0 and 25&Acirc;&deg;C; pH 7.0, 25&Acirc;&deg;C, recombinant mutant R66E
+KCAT	Corynebacterium ammoniagenes	1.85	riboflavin	*mutant enzyme N125A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	2.82	riboflavin	*mutant enzyme H31A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	2.85	riboflavin	*mutant enzyme T165A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	3	riboflavin	*mutant enzyme T165D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	3.08	riboflavin	*mutant enzyme S164D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	4.32	riboflavin	*mutant enzyme S164A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	4.78	riboflavin	*mutant enzyme H28D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	5	riboflavin	*apparent value, wild type enzyme, at 37&Acirc;&deg;C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+KCAT	Corynebacterium ammoniagenes	5	riboflavin	*mutant enzyme R161A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C; mutant enzyme R161D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	5.02	riboflavin	*wild type enzyme, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	6.8	riboflavin	*pH 7.0, 25&Acirc;&deg;C, recombinant wild-type enzyme; wild type enzyme, at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	6.92	riboflavin	*mutant enzyme N125D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Corynebacterium ammoniagenes	7.12	riboflavin	*mutant enzyme H28A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.4	roseoflavin	*37&Acirc;&deg;C
+KCAT	Streptomyces davaonensis	0.5	roseoflavin	*37&Acirc;&deg;C

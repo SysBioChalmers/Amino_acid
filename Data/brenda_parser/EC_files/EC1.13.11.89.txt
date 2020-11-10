@@ -1,0 +1,3 @@
+KCAT	Gimesia maris	0.55	(hydroxymethyl)phosphonate	*pH 7.0, 25&deg;C
+KCAT	Gimesia maris	1.54	(R)-1-hydroxyethylphosphonic acid	*pH 7.0, 25&deg;C
+KCAT	Gimesia maris	2.5	(1R)-[2-amino-1-hydroxyethyl]phosphonic acid	*pH 7.0, 25&deg;C

@@ -1,0 +1,42 @@
+KCAT	Trypanosoma cruzi	0.19	thio-NADPH	*recombinant mutants C53S, C53A, C58S
+KCAT	Trypanosoma cruzi	0.21	NADPH	*recombinant mutants C53S, C53A, C58S
+KCAT	Trypanosoma cruzi	0.67	(E,Z)-ajoene	*
+KCAT	Leishmania infantum	0.8	trypanothione disulfide	*mutant enzyme E436A, pH and temperature not specified in the publication
+KCAT	Trypanosoma congolense	2.9	9,10-phenanthrenequinone	*
+KCAT	Trypanosoma congolense	4.8	1,4-benzoquinone	*
+KCAT	Trypanosoma congolense	5.1	trypanothione disulfide	*mutant E201Q
+KCAT	Trypanosoma congolense	5.3	trypanothione disulfide	*mutant E201D
+KCAT	Trypanosoma cruzi	6.33	NADPH	*recombinant wild-type
+KCAT	Trypanosoma cruzi	7.02	thio-NADPH	*recombinant wild-type
+KCAT	Trypanosoma congolense	9.4	9,10-phenanthrenequinone	*mutant E201Q
+KCAT	Leishmania infantum	11.4	trypanothione disulfide	*in the absence of 4-((1-(4-ethylphenyl)-2-methyl-5-(4-(methylthio)phenyl)-1H-pyrrol-3-yl)methyl)thiomorpholine, at 20&deg;C, pH not specified in the publication
+KCAT	Trypanosoma congolense	13.6	1,4-benzoquinone	*mutant E201D
+KCAT	Leishmania infantum	16.6	trypanothione disulfide	*mutant enzyme W81A, pH and temperature not specified in the publication
+KCAT	Leishmania infantum	18	trypanothione disulfide	*in the presence of 0.01 mM 4-((1-(4-ethylphenyl)-2-methyl-5-(4-(methylthio)phenyl)-1H-pyrrol-3-yl)methyl)thiomorpholine, at 20&deg;C, pH not specified in the publication
+KCAT	Leishmania donovani	18.18	trypanothione disulfide	*pH 7.8, 25&deg;C, recombinant enzyme
+KCAT	Leishmania infantum	19	trypanothione disulfide	*in the presence of 0.03 mM 4-((1-(4-ethylphenyl)-2-methyl-5-(4-(methylthio)phenyl)-1H-pyrrol-3-yl)methyl)thiomorpholine, at 20&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	20.8	trypanothione disulfide	*recombinant glutathione-trypanothione reductase-like enzyme
+KCAT	Crithidia fasciculata	21.8	4-aminobutyryl-L-cysteinylglycyl-3-dimethylaminopropylamide disulfide	*
+KCAT	Trypanosoma congolense	24.5	1,4-benzoquinone	*mutant E201Q
+KCAT	Trypanosoma congolense	29	9,10-phenanthrenequinone	*mutant E201D
+KCAT	Leishmania infantum	30.2	trypanothione disulfide	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Leishmania infantum	40.8	trypanothione disulfide	*mutant enzyme Q439A, pH and temperature not specified in the publication
+KCAT	Trypanosoma brucei	46.8	trypanothione disulfide	*in 40 mM HEPES, pH 7.4, 1 mM EDTA
+KCAT	Crithidia fasciculata	53.2	L-cysteinylglycyl-3-dimethylaminopropylamide disulfide	*
+KCAT	Crithidia fasciculata	61.3	L-beta-aspartyl-L-cysteinylglycyl-3-dimethylaminopropylamide disulfide	*
+KCAT	Trypanosoma congolense	83.3	deazatrypanothione disulfide	*
+KCAT	Trypanosoma cruzi	85.4	glutathionylspermidine disulfide	*recombinant wild-type
+KCAT	Crithidia fasciculata	101	tert-butyloxycarbonyl-L-cysteinylglycyl-3-dimethylaminopropylamide disulfide	*
+KCAT	Trypanosoma cruzi	108	trypanothione disulfide	*recombinant wild-type
+KCAT	Crithidia fasciculata	109	N-benzyloxycarbonyl-L-cysteinylglycyl-3-dimethylaminopropylamide disulfide	*
+KCAT	Trypanosoma congolense	122	trypanothione disulfide	*
+KCAT	Trypanosoma cruzi	125	5,5'-dithiobis(N-[3-(4-methylpiperazin-1-yl)propyl]-2-nitrobenzamide)	*recombinant enzyme
+KCAT	Trypanosoma cruzi	125	5,5'-dithiobis(N-[3-(dimethylamino)propyl]-2-nitrobenzamide)	*recombinant enzyme
+KCAT	Trypanosoma congolense	160	trypanothione disulfide	*
+KCAT	Leishmania donovani	179	trypanothione disulfide	*
+KCAT	Trypanosoma cruzi	237	trypanothione disulfide	*dependent on assay conditions
+KCAT	Trypanosoma cruzi	240	trypanothione disulfide	*recombinant enzyme
+KCAT	Euglena gracilis	242	glutathionylspermidine disulfide	*
+KCAT	Euglena gracilis	283	trypanothione disulfide	*
+KCAT	Crithidia fasciculata	517	trypanothione disulfide	*
+KCAT	Crithidia fasciculata	818	L-gamma-glutamyl-L-cysteinylglycyl-3-dimethylaminopropylamide disulfide	*

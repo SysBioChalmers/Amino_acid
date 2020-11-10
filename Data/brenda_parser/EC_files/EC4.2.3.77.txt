@@ -1,0 +1,3 @@
+KCAT	Actinidia deliciosa	0.017	(2E,6E)-farnesyl diphosphate	*pH 7.5, 30&deg;C, presence of Mg2+
+KCAT	Solidago canadensis	0.02	(2E,6E)-farnesyl diphosphate	*25&deg;C, pH not specified in the publication
+KCAT	Solidago canadensis	0.04	(2E,6E)-farnesyl diphosphate	*pH 7.8, 12&deg;C

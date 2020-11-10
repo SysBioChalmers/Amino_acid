@@ -1,0 +1,13 @@
+KCAT	Homo sapiens	0.0272	Phenylglyoxal	*pH and temperature not specified in the publication
+KCAT	Escherichia coli	0.095	methylglyoxal	*pH 7.5, temperature not specified in the publication, mutant enzyme H184A
+KCAT	Schizosaccharomyces pombe	0.518	methylglyoxal	*recombinant Hsp3101, pH and temperature not specified in the publication
+KCAT	Schizosaccharomyces pombe	0.967	methylglyoxal	*recombinant Hsp3102, pH and temperature not specified in the publication
+KCAT	Schizosaccharomyces pombe	1.09	methylglyoxal	*recombinant mutant SpDJ-1 H130A, pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	1.25	methylglyoxal	*recombinant ScHsp31, pH and temperature not specified in the publication
+KCAT	Schizosaccharomyces pombe	1.43	methylglyoxal	*recombinant wild-type SpDJ-1, pH and temperature not specified in the publication
+KCAT	Escherichia coli	2.61	methylglyoxal	*pH 7.5, temperature not specified in the publication, wild-type enzyme
+KCAT	Escherichia coli	0.08	2-oxopropanal	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Escherichia coli	0.29	2-oxopropanal	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Escherichia coli	1.43	2-oxopropanal	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.15	2-oxoethanal	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Escherichia coli	0.42	2-oxoethanal	*pH 7.0, 22&Acirc;&deg;C

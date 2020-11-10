@@ -1,0 +1,13 @@
+KCAT	Streptococcus pyogenes	0.021	NAD+	*enzyme variant SPNJ4 mutant R289N, pH 7.4, 37&Acirc;&deg;C
+KCAT	Streptococcus pyogenes	0.023	NAD+	*enzyme variant SPNJ4 mutant R289K, pH 7.4, 37&Acirc;&deg;C
+KCAT	Streptococcus pyogenes	0.037	NAD+	*enzyme variant SPNJ4, pH 7.4, 37&Acirc;&deg;C
+KCAT	Streptococcus pyogenes	0.063	NAD+	*enzyme variant SPNJ4 mutant R289N/D330G, pH 7.4, 37&Acirc;&deg;C
+KCAT	Streptococcus pyogenes	0.105	NAD+	*enzyme variant SPNJ4 mutant R289K/D330G, pH 7.4, 37&Acirc;&deg;C
+KCAT	Streptococcus pyogenes	0.192	NAD+	*enzyme variant SPNJ4 mutant D330G/I374V, pH 7.4, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.358	NAD+	*
+KCAT	Streptococcus pyogenes	0.66	NAD+	*enzyme variant SPNJ4 mutant D330G, pH 7.4, 37&Acirc;&deg;C
+KCAT	Streptococcus pyogenes	2.2	NAD+	*pH 7.4, 37&Acirc;&deg;C, recombinant mutant enzyme
+KCAT	Deinagkistrodon acutus	22.3	NAD+	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Bos taurus	53.6	NAD+	*
+KCAT	Aplysia californica	442	NAD+	*
+KCAT	Streptococcus pyogenes	8390	NAD+	*pH 7.4, 37&Acirc;&deg;C, recombinant wild-type enzyme

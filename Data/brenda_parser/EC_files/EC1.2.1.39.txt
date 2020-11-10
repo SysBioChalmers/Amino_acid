@@ -1,0 +1,11 @@
+KCAT	Escherichia coli	0.16	benzaldehyde	*pH 7.5
+KCAT	Escherichia coli	3.5	NAD+	*pH 7.5, cosubstrate: propionaldehyde
+KCAT	Escherichia coli	9	NADP+	*pH 7.5, cosubstrate: propionaldehyde
+KCAT	Escherichia coli	14.5	acetaldehyde	*pH 7.5
+KCAT	Escherichia coli	20.17	NAD+	*pH 7.5, cosubstrate: propionaldehyde
+KCAT	Escherichia coli	20.8	propionaldehyde	*pH 7.5
+KCAT	Escherichia coli	21.8	hexanal	*pH 7.5
+KCAT	Escherichia coli	26.7	Heptanal	*pH 7.5
+KCAT	Aromatoleum aromaticum	53	NAD+	*pH 8.5, 28&deg;C
+KCAT	Aromatoleum aromaticum	63	NADP+	*pH 8.5, 28&deg;C
+KCAT	Escherichia coli	96.8	phenylacetaldehyde	*pH 7.5

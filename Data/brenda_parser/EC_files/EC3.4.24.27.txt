@@ -1,0 +1,109 @@
+KCAT	Bacillus thermoproteolyticus	-999	more	*effect of various n-pentanal concentrations of turnover number
+KCAT	Bacillus thermoproteolyticus	-999	more	*overview: turnover number of synthetic oligopeptides
+KCAT	Bacillus thermoproteolyticus	0.006	GFL	*pH 8.0, 37&deg;C, 5 M glycerol, product GF
+KCAT	Bacillus thermoproteolyticus	0.013	GFL	*pH 8.0, 37&deg;C, product GF
+KCAT	Bacillus thermoproteolyticus	0.026	GFL	*pH 8.0, 37&deg;C, 5 M glycerol, product FL
+KCAT	Bacillus thermoproteolyticus	0.035	GFS	*pH 8.0, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	0.045	GFL	*pH 8.0, 37&deg;C, product FL
+KCAT	Bacillus thermoproteolyticus	0.0463	N,N'-diBoc-dityrosyl-(Phe-isoniazid)2	*pH 7.5, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	0.05	GFS	*pH 8.0, 37&deg;C, 5 M glycerol
+KCAT	Bacillus thermoproteolyticus	0.06	GFA	*pH 8.0, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	0.07	GFSA	*pH 8.0, 37&deg;C, product FSA
+KCAT	Bacillus thermoproteolyticus	0.076	GFA	*pH 8.0, 37&deg;C, 5 M glycerol
+KCAT	Bacillus thermoproteolyticus	0.083	leucine enkephalin	*pH 6.8, 37&deg;C, mutant R203M
+KCAT	Bacillus thermoproteolyticus	0.173	GFSA	*pH 8.0, 37&deg;C, 5 M glycerol, product FSA
+KCAT	Bacillus thermoproteolyticus	0.238	N,N'-diBoc-dityrosyl-(Ile-isoniazid)2	*pH 7.5, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	0.3	GFSA	*pH 8.0, 37&deg;C, product GF
+KCAT	Bacillus thermoproteolyticus	0.3	L-phenylalanine methyl ester	*mutant enzyme F114A, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	0.3	N-carbobenzoxy-L-aspartic acid	*mutant enzyme F114A, at pH 7.5, at 25&deg;C
+KCAT	Geobacillus stearothermophilus	0.37	5,6-carboxyfluorescein-PAGLAC(carboxyfluorescein)-NH2	*pH 7.4, 30&deg;C
+KCAT	Bacillus thermoproteolyticus	0.556	N-(benzyloxycarbonyl)-L-Phe	*
+KCAT	Bacillus thermoproteolyticus	0.591	GFSA	*pH 8.0, 37&deg;C, 5 M glycerol, product GF
+KCAT	Geobacillus stearothermophilus	0.7	5,6-carboxyfluorescein-PAGLAC(Alexa Fluor 647)-NH2	*pH 7.4, 30&deg;C
+KCAT	Bacillus thermoproteolyticus	1.3	L-phenylalanine methyl ester	*wild type enzyme, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	1.3	N-carbobenzoxy-L-aspartic acid	*wild type enzyme, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	1.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant mutant Q225A
+KCAT	Bacillus thermoproteolyticus	1.4	Dansyl-Gly-Phe-Ala	*depending on assay method
+KCAT	Bacillus thermoproteolyticus	1.5	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	*mutant enzyme F114A, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	1.6	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant mutant Q225V
+KCAT	Bacillus thermoproteolyticus	1.69	N-(benzyloxycarbonyl)-L-Phe	*
+KCAT	Bacillus thermoproteolyticus	2.1	L-phenylalanine methyl ester	*mutant enzyme D150A, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	2.1	N-carbobenzoxy-L-aspartic acid	*mutant enzyme D150A, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	2.3	L-phenylalanine methyl ester	*mutant enzyme N227H, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	2.3	N-carbobenzoxy-L-aspartic acid	*mutant enzyme N227H, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	2.36	(7-methoxycoumarin-4yl) acetyl-L-Pro-L-Leu-Gly-L-Leu-[N3-(2,4-dinitrophenyl)-L-2,3-diamino-propionyl]-L-Ala-L-Arg-NH2	*pH and temperature not specified in the publication
+KCAT	Bacillus thermoproteolyticus	2.5	L-phenylalanine methyl ester	*mutant enzyme D150E, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	2.5	N-carbobenzoxy-L-aspartic acid	*mutant enzyme D150E, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	2.6	(europium(III) complex of a modified terpyridine)-K1K2K2GFSAK2K-black hole quencher 2	*pH and temperature not specified in the publication
+KCAT	Bacillus thermoproteolyticus	2.94	leucine enkephalin	*pH 6.8, 37&deg;C, mutant D170A
+KCAT	Bacillus thermoproteolyticus	2.94	leucine enkephalin	*pH 7.4, 37&deg;C, mutant Y157F
+KCAT	Geobacillus stearothermophilus	2.96	5,6-carboxyfluorescein-PVAGLAGC(carboxyfluorescein)-NH2	*pH 7.4, 30&deg;C
+KCAT	Bacillus thermoproteolyticus	3.2	L-phenylalanine methyl ester	*mutant enzyme D150W, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	3.2	N-carbobenzoxy-L-aspartic acid	*mutant enzyme D150W, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	3.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.0, 25&deg;C, recombinant mutant G8C/N60C/S65P
+KCAT	Bacillus thermoproteolyticus	3.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant mutant Q225D
+KCAT	Bacillus thermoproteolyticus	3.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme S53D/L155A/G8C/N60C/S65P, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	3.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.0, 25&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus thermoproteolyticus	3.6	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant mutant Q225R
+KCAT	Bacillus thermoproteolyticus	3.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant mutant Q128K
+KCAT	Bacillus thermoproteolyticus	3.8	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant enzyme
+KCAT	Bacillus thermoproteolyticus	3.8	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus thermoproteolyticus	3.8	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant mutant Q128A
+KCAT	Bacillus thermoproteolyticus	4.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, native enzyme
+KCAT	Bacillus thermoproteolyticus	4.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, native wild-type enzyme
+KCAT	Bacillus thermoproteolyticus	4.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant mutants Q128E and Q225E
+KCAT	Bacillus thermoproteolyticus	4.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.5, 25&deg;C, recombinant wild-type enzyme and mutant Q225K
+KCAT	Bacillus thermoproteolyticus	4.8	N-benzyloxycarbonyl-L-Asp-L-Phe-methyl ester	*recombinant mutant G117R, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	4.9	L-phenylalanine methyl ester	*mutant enzyme I168A, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	4.9	N-carbobenzoxy-L-aspartic acid	*mutant enzyme I168A, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	5.4	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	*purified recombinant mutant N116T, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	5.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme G8C/N60C/S65P, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Geobacillus stearothermophilus	5.7	5,6-carboxyfluorescein-PSVAGLAGGC(Alexa Fluor 647)-NH2	*pH 7.4, 30&deg;C
+KCAT	Bacillus thermoproteolyticus	5.9	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*wild type enzyme, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	6.08	GFSA	*pH 8.0, 37&deg;C, 5 M glycerol, product GF
+KCAT	Bacillus thermoproteolyticus	6.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme L155A/G8C/N60C/S65P, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	6.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme S53D/L155A, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	6.7	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	*purified recombinant mutant N116A, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	6.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.0, 25&deg;C, recombinant mutant L144S
+KCAT	Bacillus thermoproteolyticus	6.9	N-[3-(2-furyl)acryloyl]-Gly-L-Leu amide	*mutant enzyme S53D, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*pH 7.0, 25&deg;C, recombinant mutant G8C/N60C/S65P/L144S
+KCAT	Bacillus thermoproteolyticus	7.1	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	*purified recombinant mutant N116Q, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	7.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme S53D/G8C/N60C/S65P, in the absence of 4 M NaCl, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	7.7	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	*purified recombinant wild-type enzyme, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	7.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme I168A, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Geobacillus stearothermophilus	7.82	5,6-carboxyfluorescein-PSVAGLAGGC(carboxyfluorescein)-NH2	*pH 7.4, 30&deg;C
+KCAT	Bacillus thermoproteolyticus	7.9	N-benzyloxycarbonyl-L-Asp-L-Phe-methyl ester	*recombinant wild-type enzyme, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	8.4	N-benzyloxycarbonyl-L-Asp-L-Phe-methyl ester	*recombinant mutant G117K, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	8.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme L155A, in the absence of 4 M NaCl, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	9.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme L144S, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	9.5	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	*wild type enzyme, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	10.5	N-benzyloxycarbonyl-L-Asp-L-Phe-methyl ester	*recombinant mutant G117E, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	12	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	*purified recombinant mutant N116D, pH 7.5, 25&deg;C
+KCAT	Bacillus thermoproteolyticus	12.3	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	*mutant enzyme I168A, at pH 7.5, at 25&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	13.58	N-benzyloxycarbonyl-Gly-L-Leu amide	*recombinant mutant L155A/I156V, pH 7.0, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	15.5	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme D150E/I168A, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	15.6	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme L144S/D150E/S53D, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	16.5	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme D150E, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	17	N-carbobenzoxy-L-Asp-L-Phe methyl ester	*mutant enzyme L144S/D150E, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	17.1	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	*mutant enzyme N227H, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	20.5	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	*mutant enzyme D150E, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	23.3	N-carbobenzoxy-Gly-L-Leu-NH2	*mutant L155F, 37&deg;C, pH 7.0
+KCAT	Bacillus thermoproteolyticus	24.4	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	*mutant enzyme D150A, at pH 7.5, at 25&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	26.67	N-benzyloxycarbonyl-Gly-L-Leu amide	*recombinant mutant L155A/I156N, pH 7.0, 37&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	48.33	N-benzyloxycarbonyl-Gly-L-Leu amide	*recombinant mutant L155S/I156N, pH 7.0, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	49.4	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	*mutant enzyme D150W, at pH 7.5, at 25&deg;C
+KCAT	Bacillus thermoproteolyticus	51.6	N-carbobenzoxy-Gly-L-Leu-NH2	*wild-type, 37&deg;C, pH 7.0
+KCAT	Bacillus sp. (in: Bacteria)	51.67	N-benzyloxycarbonyl-Gly-L-Leu amide	*recombinant wild-type enzyme, pH 7.0, 37&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	80	N-benzyloxycarbonyl-Gly-L-Leu amide	*recombinant mutant L155A, pH 7.0, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	80	N-carbobenzoxy-Gly-L-Leu-NH2	*mutant L155A, 37&deg;C, pH 7.0
+KCAT	Bacillus sp. (in: Bacteria)	105	N-benzyloxycarbonyl-Gly-L-Leu amide	*recombinant mutant L155S/I156V, pH 7.0, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	150	N-carbobenzoxy-Gly-L-Leu-NH2	*mutant L155G, 37&deg;C, pH 7.0
+KCAT	Bacillus thermoproteolyticus	155.5	leucine enkephalin	*pH 7.4, 37&deg;C, wild-type
+KCAT	Bacillus thermoproteolyticus	156	leucine enkephalin	*pH 7.4, 37&deg;C, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	165	N-benzyloxycarbonyl-Gly-L-Leu amide	*recombinant mutant L155S, pH 7.0, 37&deg;C
+KCAT	Bacillus thermoproteolyticus	165	N-carbobenzoxy-Gly-L-Leu-NH2	*mutant L155S, 37&deg;C, pH 7.0
+KCAT	Bacillus thermoproteolyticus	362	Benzyloxycarbonyl-Phe-Leu-Ala	*depending on mode of preparation of the form of enzyme
+KCAT	Bacillus thermoproteolyticus	407	Benzyloxycarbonyl-Gly-Phe-Leu-Ala	*depending on mode of preparation of the form of enzyme
+KCAT	Bacillus thermoproteolyticus	861	Benzyloxycarbonyl-(4-nitro)Phe-Leu-Ala	*depending on mode of preparation of the form of enzyme
+KCAT	Bacillus thermoproteolyticus	1555	leucine enkephalin	*pH 6.8, 37&deg;C, wild-type
+KCAT	Bacillus thermoproteolyticus	1560	leucine enkephalin	*pH 6.8, 37&deg;C, wild-type

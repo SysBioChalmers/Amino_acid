@@ -1,0 +1,1 @@
+ecNumber*1.1.1.61#turnoverNumber*1329#turnoverNumberMaximum*#substrate*succinate semialdehyde#commentary*with NADH as cosubstrate, at pH 8.0 and 37&deg;C#organism*Porphyromonas gingivalis#ligandStructureId*528#literature*737764#

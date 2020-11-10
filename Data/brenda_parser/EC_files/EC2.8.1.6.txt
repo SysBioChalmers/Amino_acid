@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	-999	more	*BioB is active for only one turnover, during which the [2Fe-2S]2+ cluster is destroyed, one sulfide from the cluster is incorporated as the biotin thiophane sulfur, while Fe2+ ions and the remaining S2- ion are released from the protein
+KCAT	Bacillus subtilis	0.0000005	dethiobiotin	*pH 7.5, 30&deg;C, cell free extract
+KCAT	Escherichia coli	0.0000142	dethiobiotin	*pH 7.5, 30&deg;C, cell free extract
+KCAT	Arabidopsis thaliana	0.00055	dethiobiotin	*pH 8, 37&deg;C
+KCAT	Escherichia coli	13.9	dethiobiotin	*pH 7.5, 37&deg;C

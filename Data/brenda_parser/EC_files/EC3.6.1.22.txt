@@ -1,0 +1,8 @@
+KCAT	Caenorhabditis elegans	0.000167	NAD+	*
+KCAT	Saccharomyces cerevisiae	0.000167	NAD+	*
+KCAT	Escherichia coli	0.001	NADH	*based on two active sites/dimer
+KCAT	Caenorhabditis elegans	0.00117	NADH	*
+KCAT	Saccharomyces cerevisiae	0.0025	NADH	*
+KCAT	Escherichia coli	10	NADH	*pH 7.5, 30&deg;C
+KCAT	Escherichia coli	19.3	NAD+	*pH 7.5, 30&deg;C
+KCAT	Escherichia coli	1492	NMN	*pH 7.5, 30&deg;C

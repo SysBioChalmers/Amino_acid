@@ -1,0 +1,11 @@
+KCAT	Escherichia coli	1	2-Cyclohexen-1-ol	*
+KCAT	Escherichia coli	17.5	methyl 2,3-dihydro-2,3-dihydroxybenzoate	*
+KCAT	Escherichia coli	0.733	trans-3-hydroxycyclohexane-1-carboxylic acid	*
+KCAT	Escherichia coli	5	trans-3-hydroxy-2-cyclohexene-1-carboxylate	*
+KCAT	Escherichia coli	1	trans-3,5-cyclohexadiene-1,2-diol	*
+KCAT	Escherichia coli	16.7	cis-3,5-cyclohexadiene-1,2-diol	*
+KCAT	Escherichia coli	23	cis-3-hydroxy-4-cyclohexene-1-carboxylate	*
+KCAT	Escherichia coli	5	cis-3-hydroxycyclohexane-1-carboxylic acid	*
+KCAT	Escherichia coli	3	methyl-3-hydroxy-1,4-cyclohexadiene-1-carboxylate	*
+KCAT	Escherichia coli	25.3	2,3-dihydo-2,3-dihydroxybenzoate	*
+KCAT	Escherichia coli	92.5	trans-2,3-dihydro-2,3-dihydroxy-benzoate	*

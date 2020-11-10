@@ -1,0 +1,1 @@
+KCAT	Campylobacter jejuni subsp. jejuni serotype O:2	0.55	N5-(cytidine 5'-diphosphoramidyl)-L-glutamine	*pH 8.0, 25&deg;C

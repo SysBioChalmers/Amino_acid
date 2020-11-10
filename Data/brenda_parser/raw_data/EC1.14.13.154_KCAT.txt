@@ -1,0 +1,1 @@
+ecNumber*1.14.13.154#turnoverNumber*1.8#turnoverNumberMaximum*#substrate*erythromycin D#commentary*pH 7.5, 30&deg;C#organism*Saccharopolyspora erythraea#ligandStructureId*7926#literature*714134#

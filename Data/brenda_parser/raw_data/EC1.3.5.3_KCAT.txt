@@ -1,0 +1,1 @@
+ecNumber*1.3.5.3#turnoverNumber*0.281#turnoverNumberMaximum*#substrate*menadione#commentary*pH 8.0, 37&Acirc;&deg;C#organism*Escherichia coli#ligandStructureId*240#literature*696347#!ecNumber*1.3.5.3#turnoverNumber*0.292#turnoverNumberMaximum*#substrate*protoporphyrinogen IX#commentary*pH 8.0, 37&Acirc;&deg;C#organism*Escherichia coli#ligandStructureId*1119#literature*696347#

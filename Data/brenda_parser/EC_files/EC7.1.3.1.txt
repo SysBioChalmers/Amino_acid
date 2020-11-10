@@ -1,0 +1,18 @@
+KCAT	Bacillus sp. PS3	1.3	diphosphate	*P104A mutant enzyme, pH 8.0, 37&deg;C
+KCAT	Bacillus sp. PS3	2.8	diphosphate	*P100A mutant enzyme, pH 8.0, 37&deg;C
+KCAT	Trypanosoma brucei	3.5	Polyphosphate	*in the presence of Zn2+, pH 7.5, 25&deg;C
+KCAT	Leishmania amazonensis	8	polyphosphate-n28	*25&deg;C
+KCAT	Bacillus sp. PS3	19	diphosphate	*P146A mutant enzyme, pH 8.0, 37&deg;C
+KCAT	Trypanosoma brucei	52	tripolyphosphate	*in the presence of Zn2+, pH 7.5, 25&deg;C
+KCAT	Trypanosoma brucei	56	diphosphate	*in the presence of Zn2+, pH 7.5, 25&deg;C
+KCAT	Bacillus sp. PS3	74.3	diphosphate	*P14A mutant enzyme, pH 8.0, 37&deg;C
+KCAT	Leishmania amazonensis	125	diphosphate	*25&deg;C
+KCAT	Leishmania amazonensis	131	Triphosphate	*25&deg;C
+KCAT	Bacillus sp. PS3	236.7	diphosphate	*P116A mutant enzyme, pH 8.0, 37&deg;C
+KCAT	Bacillus sp. PS3	288.7	diphosphate	*P43A mutant enzyme, pH 8.0, 37&deg;C
+KCAT	Trypanosoma brucei	385	diphosphate	*in the presence of Mg2+, pH 7.5, 25&deg;C
+KCAT	Bacillus sp. PS3	413.3	diphosphate	*P59A mutant enzyme, pH 8.0, 37&deg;C
+KCAT	Ascaris suum	638	diphosphate	*recombinant protein, pH 7.5, 55&deg;C
+KCAT	Bacillus sp. PS3	744.3	diphosphate	*P69A mutant enzyme, pH 8.0, 37&deg;C
+KCAT	Bacillus sp. PS3	817	diphosphate	*wild type enzyme, pH 8.0, 37&deg;C
+KCAT	Bacillus sp. PS3	1098	diphosphate	*P39A mutant enzyme, pH 8.0, 37&deg;C

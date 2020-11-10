@@ -1,0 +1,1 @@
+ecNumber*3.1.3.67#turnoverNumber*0.12#turnoverNumberMaximum*#substrate*phosphatidylinositol 3,4-bisphosphate#commentary*pH not specified in the publication, 23&deg;C, Vmax: 0.121 nmol/min/microgram#organism*Ciona intestinalis#ligandStructureId*7460#literature*732809#

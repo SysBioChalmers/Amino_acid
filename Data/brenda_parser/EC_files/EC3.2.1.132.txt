@@ -1,0 +1,42 @@
+KCAT	Streptomyces sp. N174	0.0167	chitosan	*mutant D40G/T45D, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp. N174	0.024	chitosan	*mutant E36A/D40G, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp. N174	0.0368	chitosan	*mutant T45E, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp. N174	0.0683	chitosan	*mutant E36Q/D40G, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp. N174	0.44	chitosan	*mutant D40G, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Aspergillus sp. W-2	0.47	chitosan	*pH 6.0, 55&Acirc;&deg;C
+KCAT	Streptomyces sp.	0.9	chitosan	*mutant enzyme R42K, at 37&Acirc;&deg;C in 50 mM sodium acetate buffer (pH 5.5)
+KCAT	Streptomyces sp.	1.6	chitosan	*mutant enzyme R42E at 37&Acirc;&deg;C in 50 mM sodium acetate buffer (pH 5.5)
+KCAT	Sus scrofa	2.3	chitosan	*40&Acirc;&deg;C, pH 4, isoform PSC-II
+KCAT	Paenibacillus ehimensis	2.5	chitosan	*40&Acirc;&deg;C, pH not specified in the publication, wild-type enzyme, calculated as micromol reducing sugar liberated from chitosan
+KCAT	Paenibacillus ehimensis	4.9	chitosan	*40&Acirc;&deg;C, pH not specified in the publication, mutant enzyme A207C/L286C, calculated as micromol reducing sugar liberated from chitosan
+KCAT	Sus scrofa	5.9	chitosan	*40&Acirc;&deg;C, pH 4, isoform PSC-I
+KCAT	Sus scrofa	6.2	chitosan	*40&Acirc;&deg;C, pH 4, isoform PSC-III
+KCAT	Streptomyces sp.	6.5	chitosan	*chitosan with 75-85% deacetylation, at pH 6.0 and 45&Acirc;&deg;C
+KCAT	Streptomyces sp. N174	6.827	chitosan	*mutant E36N, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp. N174	8.34	chitosan	*mutant E36D, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp.	10	chitosan	*chitosan with less than 75% deacetylation, at pH 6.0 and 45&Acirc;&deg;C
+KCAT	Streptomyces sp. N174	10.48	chitosan	*mutant T45S, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp.	10.7	chitosan	*wild type enzyme, at 37&Acirc;&deg;C in 50 mM sodium acetate buffer (pH 5.5)
+KCAT	Streptomyces sp.	11.2	chitosan	*chitosan with more than 90% deacetylation, at pH 6.0 and 45&Acirc;&deg;C
+KCAT	Streptomyces sp. N174	11.47	chitosan	*mutant E36A, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp. N174	11.66	chitosan	*mutant E36Q, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Streptomyces sp. N174	12.4	chitosan	*wild-type, assayed as the amount of D-glucosamine released from chitosan
+KCAT	Paenibacillus sp.	126.5	chitosan	*at pH 4.8 and 37&Acirc;&deg;C
+KCAT	Microbacterium sp.	205	chitosan	*at pH 5.6 and 37&Acirc;&deg;C
+KCAT	Bacillus sp. TS	19400	chitosan	*pH 5.0, 50&Acirc;&deg;C, mutant enzyme D318R
+KCAT	Bacillus sp. TS	20500	chitosan	*pH 5.0, 50&Acirc;&deg;C, mutant enzyme D318E
+KCAT	Renibacterium sp. QD1	20800	chitosan	*fusion protein of Renibacterium sp. QD1 chitosanase CsnA and the carbohydrate binding module AoCBM35 from Amycolatopsis orientalis (CsnA-CBM35), pH 5.6, 55&Acirc;&deg;C
+KCAT	Bacillus sp. TS	21700	chitosan	*pH 5.0, 50&Acirc;&deg;C, mutant enzyme D318K
+KCAT	Renibacterium sp. QD1	30100	chitosan	*fusion protein of Renibacterium sp. QD1 chitosanase CsnA and the carbohydrate binding module PfCBM32-2 from Paenibacillus fukuinensis (CsnA-CBM32-2), pH 5.6, 55&Acirc;&deg;C
+KCAT	Renibacterium sp. QD1	64400	chitosan	*fusion protein of Renibacterium sp. QD1 chitosanase CsnA and the carbohydrate binding module BgCBM5 from Burkholderia gladioli (CsnA-CBM5), pH 5.6, 55&Acirc;&deg;C
+KCAT	Renibacterium sp. QD1	72000	chitosan	*wild-type enzyme, pH 5.6, 55&Acirc;&deg;C
+KCAT	Bacillus sp. TS	201000	chitosan	*pH 5.0, 50&Acirc;&deg;C, mutant enzyme D318A
+KCAT	Bacillus sp. TS	505000	chitosan	*pH 5.0, 50&Acirc;&deg;C, wild-type enzyme
+KCAT	Bacillus sp. TS	943000	chitosan	*pH 5.0, 50&Acirc;&deg;C, mutant enzyme D318N
+KCAT	Streptomyces sp.	107	chitohexaose	*40&Acirc;&deg;C, pH 5.5
+KCAT	Streptomyces sp.	0.000081	4-methylumbelliferyl beta-chitotrioside	*40&Acirc;&deg;C, pH 5.5
+KCAT	Streptomyces sp.	38.4	30% N-acetylated chitosan	*40&Acirc;&deg;C, pH 5.5, W227F
+KCAT	Streptomyces sp.	42.1	30% N-acetylated chitosan	*40&Acirc;&deg;C, pH 5.5, W28F/W101F
+KCAT	Streptomyces sp.	45.1	30% N-acetylated chitosan	*40&Acirc;&deg;C, pH 5.5, W101F
+KCAT	Streptomyces sp.	50.1	30% N-acetylated chitosan	*40&Acirc;&deg;C, pH 5.5, W28F
+KCAT	Streptomyces sp.	71.4	30% N-acetylated chitosan	*40&Acirc;&deg;C, pH 5.5, wild-type

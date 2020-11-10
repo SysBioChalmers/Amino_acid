@@ -1,0 +1,28 @@
+KCAT	Corynebacterium glutamicum	0.013	L-Histidinol phosphate	*pH 7.4, 30&deg;C
+KCAT	Lactococcus lactis subsp. lactis	0.031	L-Histidinol phosphate	*mutant enzyme D228N, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	0.62	L-Histidinol phosphate	*mutant enzyme H42N, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	0.74	L-Histidinol phosphate	*mutant enzyme R160M, at pH 9.0 and 22&deg;C
+KCAT	Thermus thermophilus	0.93	L-Histidinol phosphate	*
+KCAT	Mycobacterium tuberculosis	0.99	L-Histidinol phosphate	*pH 8.0, 37&deg;C, recombinant enzyme
+KCAT	Corynebacterium glutamicum	1.04	L-Histidinol phosphate	*pH 7.4, 30&deg;C
+KCAT	Arabidopsis thaliana	1.3	L-histidinol 1-phosphate	*pH 7.5, 25&deg;C
+KCAT	Medicago truncatula	3.6	L-Histidinol phosphate	*pH 8.4, 22&deg;C
+KCAT	Thermococcus onnurineus	11	D-fructose 6-phosphate	*in the presence of 1 mM Co2+, at 80&deg;C and pH 6.5
+KCAT	Thermococcus onnurineus	14	L-phosphoserine	*in the presence of 1 mM Co2+, at 80&deg;C and pH 6.5
+KCAT	Escherichia coli	20	L-Histidinol phosphate	*in 25 mM Tris-HCl (pH 7.5), 70 nM enzyme, 0.025 mM Mg2+, and 0.2 mM histidinol phosphate, at 25&deg;C, in the presence of 0.05 mM Co2+
+KCAT	Thermococcus onnurineus	29	AMP	*in the presence of 1 mM Co2+, at 80&deg;C and pH 6.5
+KCAT	Lactococcus lactis subsp. lactis	31	L-Histidinol phosphate	*mutant enzyme E115Q, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	38	L-Histidinol phosphate	*mutant enzyme R197M, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	48	L-Histidinol phosphate	*mutant enzyme Y161A, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	53	L-Histidinol phosphate	*mutant enzyme Y117A, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	61	L-Histidinol phosphate	*mutant enzyme HY157F, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	110	L-Histidinol phosphate	*mutant enzyme Y117F, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	174	L-Histidinol phosphate	*wild type enzyme, at pH 9.0 and 22&deg;C
+KCAT	Lactococcus lactis subsp. lactis	180	L-Histidinol phosphate	*mutant enzyme Y161F, at pH 9.0 and 22&deg;C
+KCAT	Thermococcus onnurineus	260	L-Histidinol phosphate	*in the presence of 1 mM Co2+, at 80&deg;C and pH 6.5
+KCAT	Thermococcus onnurineus	290	L-Histidinol phosphate	*in the presence of 1 mM Ni2+, at 80&deg;C and pH 6.5
+KCAT	Thermococcus onnurineus	320	L-Histidinol phosphate	*in the presence of 1 mM Mn2+, at 80&deg;C and pH 6.5
+KCAT	Thermococcus onnurineus	420	L-Histidinol phosphate	*in the presence of 1 mM Mg2+, at 80&deg;C and pH 6.5
+KCAT	Escherichia coli	960	L-Histidinol phosphate	*in 25 mM Tris-HCl (pH 7.5), 70 nM enzyme, 0.025 mM Mg2+, and 0.2 mM histidinol phosphate, at 25&deg;C, in the presence of 0.05 mM Mn2+
+KCAT	Escherichia coli	1410	L-Histidinol phosphate	*in 25 mM Tris-HCl (pH 7.5), 70 nM enzyme, 0.025 mM Mg2+, and 0.2 mM histidinol phosphate, at 25&deg;C, in the presence of 0.05 mM Zn2+
+KCAT	Escherichia coli	2140	L-Histidinol phosphate	*in 25 mM Tris-HCl (pH 7.5), 70 nM enzyme, 0.025 mM Mg2+, and 0.2 mM histidinol phosphate, at 25&deg;C, in the presence of 0.05 mM Mg2+

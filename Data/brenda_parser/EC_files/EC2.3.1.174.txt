@@ -1,0 +1,2 @@
+KCAT	Pseudomonas sp.	7.8	3-oxoadipyl-CoA	*
+KCAT	Pseudomonas sp.	7.8	CoA	*

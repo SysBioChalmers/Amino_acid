@@ -1,0 +1,10 @@
+KCAT	Arachis hypogaea	0.26	ATP	*recombinant mutant Y317F
+KCAT	Arachis hypogaea	0.54	ATP	*recombinant mutant Y297F
+KCAT	Arachis hypogaea	1.02	ATP	*recombinant mutant Y148F
+KCAT	Arachis hypogaea	5.25	ATP	*recombinant wild-type enzyme
+KCAT	Arachis hypogaea	14.5	ATP	*recombinant mutant Y213F
+KCAT	Arachis hypogaea	3.09	histone H1	*recombinant mutant Y148F
+KCAT	Arachis hypogaea	3.3	histone H1	*recombinant mutant Y317F
+KCAT	Arachis hypogaea	3.71	histone H1	*recombinant mutant Y297F
+KCAT	Arachis hypogaea	4.74	histone H1	*recombinant mutant Y317F
+KCAT	Arachis hypogaea	18.4	histone H1	*recombinant mutant Y213F

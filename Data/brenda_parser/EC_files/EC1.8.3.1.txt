@@ -1,0 +1,177 @@
+KCAT	Homo sapiens	0.14	sulfite	*mutant enzyme G473D in 20 mM Tris at pH 6.0
+KCAT	Homo sapiens	0.14	sulfite	*mutant enzyme G473D, pH 6.0
+KCAT	Homo sapiens	0.15	sulfite	*mutant enzyme A208D in 20 mM Tris at pH 6.0
+KCAT	Homo sapiens	0.28	sulfite	*mutant enzyme G473D, pH 6.5
+KCAT	Homo sapiens	0.34	cytochrome c	*mutant enzyme G473D, pH 6.0
+KCAT	Thermus thermophilus	0.4	sulfite	*
+KCAT	Homo sapiens	0.42	sulfite	*mutant enzyme G473D, pH 9.1
+KCAT	Homo sapiens	0.46	sulfite	*mutant R472M, 25&deg;C, pH 10.0
+KCAT	Homo sapiens	0.48	cytochrome c	*mutant enzyme G473D, pH 8.6
+KCAT	Homo sapiens	0.5	sulfite	*mutant enzyme G473D, pH 7.0
+KCAT	Homo sapiens	0.52	sulfite	*mutant R472Q, 25&deg;C, pH 10.0
+KCAT	Homo sapiens	0.53	cytochrome c	*mutant enzyme G473D, pH 6.5
+KCAT	Homo sapiens	0.54	sulfite	*mutant enzyme G473D in 20 mM Tris at pH 8.5
+KCAT	Homo sapiens	0.54	sulfite	*mutant enzyme G473D, pH 8.5
+KCAT	Homo sapiens	0.57	sulfite	*mutant enzyme G473D, pH 7.5
+KCAT	Homo sapiens	0.58	sulfite	*mutant enzyme G473D, pH 8.0
+KCAT	Homo sapiens	0.59	cytochrome c	*mutant enzyme G473D, pH 8.0
+KCAT	Homo sapiens	0.6	sulfite	*mutant enzyme G473W in 20 mM Tris at pH 6.0
+KCAT	Homo sapiens	0.6	sulfite	*mutant enzyme G473W, pH 6.0
+KCAT	Homo sapiens	0.62	cytochrome c	*mutant enzyme G473D, pH 7.5
+KCAT	Homo sapiens	0.75	sulfite	*mutant enzyme A208D in 20 mM Tris at pH 8.5
+KCAT	Homo sapiens	0.78	cytochrome c	*mutant enzyme G473D, pH 7.0
+KCAT	Homo sapiens	0.97	sulfite	*mutant Y343N/R472Q, 25&deg;C, pH 9.5
+KCAT	Homo sapiens	1.13	sulfite	*mutant Y343N/R472Q, 25&deg;C, pH 7.0; mutant Y343N/R472Q, 25&deg;C, pH 9.0
+KCAT	Homo sapiens	1.33	sulfite	*mutant Y343N/R472Q, 25&deg;C, pH 8.0
+KCAT	Homo sapiens	1.35	sulfite	*mutant enzyme G473W, pH 9.0
+KCAT	Homo sapiens	1.35	sulfite	*mutant Y343N/R472Q, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	1.42	sulfite	*mutant Y343N/R472Q, 25&deg;C, pH 8.5
+KCAT	Homo sapiens	1.44	sulfite	*mutant Y343F/R472Q, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	1.67	cytochrome c	*mutant enzyme G473W, pH 6.0
+KCAT	Homo sapiens	1.7	sulfite	*mutant R472Q, 25&deg;C, pH 9.5
+KCAT	Homo sapiens	1.73	sulfite	*mutant Y343F/R472Q, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	1.8	sulfite	*mutant enzyme G473W, pH 7.0
+KCAT	Homo sapiens	1.8	sulfite	*mutant R472M, 25&deg;C, pH 9.5
+KCAT	Homo sapiens	1.9	sulfite	*mutant Y343N/R472M/V474M, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	1.95	cytochrome c	*mutant enzyme G473W, pH 8.5
+KCAT	Homo sapiens	2.05	sulfite	*mutant Y343F/R472Q, 25&deg;C, pH 8.0
+KCAT	Homo sapiens	2.06	sulfite	*25&deg;C, pH 7.0, 100 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	2.25	sulfite	*mutant Y343F/R472Q, 25&deg;C, pH 8.5
+KCAT	Homo sapiens	2.3	sulfite	*mutant Y343F/R472Q, 25&deg;C, pH 9.0
+KCAT	Homo sapiens	2.48	sulfite	*mutant enzyme G473W in 20 mM Tris at pH 8.5
+KCAT	Homo sapiens	2.48	sulfite	*mutant enzyme G473W, pH 8.5
+KCAT	Gallus gallus	2.52	sulfite	*mutant Y322N/R450M, 25&deg;C, pH 8.5
+KCAT	Homo sapiens	2.8	sulfite	*mutant Y343N/R472M/V474M, 25&deg;C, pH 10.0
+KCAT	Homo sapiens	2.94	cytochrome c	*mutant enzyme G473W, pH 7.0
+KCAT	Homo sapiens	2.96	sulfite	*mutant Y343F/R472Q, 25&deg;C, pH 10.0
+KCAT	Homo sapiens	3	sulfite	*mutant Y83F, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	3.11	sulfite	*25&deg;C, pH 6.0, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	3.17	sulfite	*mutant Y343N, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	3.26	sulfite	*25&deg;C, pH 7.5, 100 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	3.4	sulfite	*mutant Y343N/R472M/V474M, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	3.45	sulfite	*mutant R472M, 25&deg;C, pH 9.0
+KCAT	Homo sapiens	3.5	sulfite	*mutant R472M, 25&deg;C, pH 8.0
+KCAT	Homo sapiens	3.58	sulfite	*mutant Y343N/R472M/V474M, 25&deg;C, pH 8.0
+KCAT	Homo sapiens	3.6	sulfite	*mutant R472M, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	3.8	sulfite	*mutant R472M, 25&deg;C, pH 8.5
+KCAT	Homo sapiens	3.83	cytochrome c	*mutant enzyme G473A, pH 6.0
+KCAT	Homo sapiens	3.9	sulfite	*mutant Y343N/R472M/V474M, 25&deg;C, pH 8.5
+KCAT	Homo sapiens	4.14	sulfite	*25&deg;C, pH 6.5, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	4.15	sulfite	*mutant enzyme G473A in 20 mM Tris at pH 6.0
+KCAT	Homo sapiens	4.15	sulfite	*mutant enzyme G473A, pH 6.0
+KCAT	Homo sapiens	4.24	sulfite	*mutant R472Q, 25&deg;C, pH 9.0
+KCAT	Homo sapiens	4.38	sulfite	*mutant Y343N, 25&deg;C, pH 10.0
+KCAT	Homo sapiens	4.59	sulfite	*25&deg;C, pH 7.0, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	4.6	sulfite	*mutant R472Q, 25&deg;C, pH 8.5
+KCAT	Gallus gallus	4.83	sulfite	*mutant Y322N/R450M, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	4.9	sulfite	*mutant Y343F/R472Q, 25&deg;C, pH 9.5
+KCAT	Homo sapiens	5	sulfite	*mutant R472M, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	5.23	sulfite	*mutant Y343N/R472M/V474M, 25&deg;C, pH 9.5
+KCAT	Homo sapiens	5.6	sulfite	*mutant Y343N/R472M/V474M, 25&deg;C, pH 9.0
+KCAT	Homo sapiens	5.7	sulfite	*mutant R472D, pH 6.5, 25&deg;C
+KCAT	Homo sapiens	5.8	sulfite	*mutant R472Q, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	5.96	sulfite	*mutant V474M, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	6.35	sulfite	*25&deg;C, pH 7.5, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	7	sulfite	*mutant Y83A, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	7.17	sulfite	*25&deg;C, pH 8.0, 100 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	8.1	sulfite	*mutant Y343N, 25&deg;C, pH 9.5
+KCAT	Homo sapiens	8.2	sulfite	*mutant R472Q, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	8.21	sulfite	*25&deg;C, pH 10.0, 100 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	8.51	sulfite	*25&deg;C, pH 10.0, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	8.59	sulfite	*25&deg;C, pH 8.0, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	8.72	sulfite	*25&deg;C, pH 8.25, 100 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	9.08	sulfite	*25&deg;C, pH 8.25, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	9.2	sulfite	*25&deg;C, pH 8.5, 100 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	9.24	sulfite	*25&deg;C, pH 8.5, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	9.3	sulfite	*mutant R472Q, 25&deg;C, pH 8.0
+KCAT	Homo sapiens	9.4	sulfite	*with ferricanide, pH 6.0, 25&deg;C, recombinant mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	9.47	sulfite	*25&deg;C, pH 9.0, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	9.63	sulfite	*25&deg;C, pH 9.5, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	9.92	sulfite	*25&deg;C, pH 9.75, 20 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	9.99	sulfite	*25&deg;C, pH 9.0, 100 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	10.5	sulfite	*25&deg;C, pH 9.5, 100 mM buffer, mutant enzyme Y343F
+KCAT	Homo sapiens	11.4	sulfite	*mutant V474M, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	12.1	sulfite	*25&deg;C, pH 7.0, 100 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	12.4	cytochrome c	*wild type enzyme, pH 6.0
+KCAT	Homo sapiens	12.4	sulfite	*mutant V474M, 25&deg;C, pH 10.0
+KCAT	Homo sapiens	12.8	cytochrome c	*mutant enzyme G473A, pH 7.0
+KCAT	Homo sapiens	12.8	sulfite	*mutant Y343N, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	13	sulfite	*wild-type, 25&deg;C, pH 10.0
+KCAT	Homo sapiens	13	sulfite	*mutant F79A, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	13.2	sulfite	*25&deg;C, pH 6.0, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	13.2	sulfite	*wild type enzyme in 20 mM Tris at pH 6.0
+KCAT	Homo sapiens	13.2	sulfite	*wild type enzyme, pH 6.0
+KCAT	Homo sapiens	13.2	sulfite	*wild-type, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	13.75	sulfite	*mutant Y343N, 25&deg;C, pH 8.0
+KCAT	Homo sapiens	13.9	sulfite	*with ferricanide, pH 6.0, 25&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	14.1	sulfite	*mutant R472D, pH 7.6, 25&deg;C
+KCAT	Homo sapiens	15.1	sulfite	*mutant enzyme G473A, pH 10.0
+KCAT	Homo sapiens	15.5	sulfite	*mutant Y343N, 25&deg;C, pH 9.0
+KCAT	Homo sapiens	15.8	sulfite	*mutant V474M, 25&deg;C, pH 8.5
+KCAT	Homo sapiens	15.9	sulfite	*mutant enzyme G473A, pH 7.0
+KCAT	Homo sapiens	16	sulfite	*mutant F57A, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	16.2	sulfite	*with ferricanide, pH 7.1, 25&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	16.9	sulfite	*mutant Y343N, 25&deg;C, pH 8.5
+KCAT	Homo sapiens	17.1	sulfite	*mutant V474M, 25&deg;C, pH 9.5
+KCAT	Homo sapiens	17.2	sulfite	*25&deg;C, pH 7.5, 100 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	17.7	sulfite	*25&deg;C, pH 6.5, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	17.7	sulfite	*wild type enzyme, pH 6.5
+KCAT	Homo sapiens	17.8	sulfite	*mutant V474M, 25&deg;C, pH 8.0
+KCAT	Homo sapiens	18.1	cytochrome c	*wild type enzyme, pH 7.0
+KCAT	Homo sapiens	18.5	sulfite	*mutant R472K, pH 7.6, 25&deg;C
+KCAT	Homo sapiens	19	sulfite	*mutant F57Y, pH 8.0, 25&deg;C; mutant H90F, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	19.6	sulfite	*mutant V474M, 25&deg;C, pH 9.0
+KCAT	Homo sapiens	19.8	sulfite	*with ferricanide, pH 7.1, 25&deg;C, recombinant mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	20.8	sulfite	*with ferricanide, pH 7.1, 25&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	21.6	sulfite	*mutant enzyme G473A, pH 7.4
+KCAT	Homo sapiens	23	sulfite	*mutant D342K, pH 7.6, 25&deg;C
+KCAT	Homo sapiens	23.6	sulfite	*25&deg;C, pH 8.75, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	24.2	sulfite	*25&deg;C, pH 7.0, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	24.2	sulfite	*wild type enzyme, pH 7.0
+KCAT	Homo sapiens	24.2	sulfite	*wild-type, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	24.6	sulfite	*25&deg;C, pH 9.5, 100 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	24.7	sulfite	*25&deg;C, pH 7.5, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	24.7	sulfite	*wild type enzyme, pH 7.5
+KCAT	Homo sapiens	24.8	sulfite	*25&deg;C, pH 8.25, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	25	sulfite	*25&deg;C, pH 8.0, 100 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	25.4	cytochrome c	*mutant enzyme G473A, pH 8.5
+KCAT	Homo sapiens	25.7	sulfite	*25&deg;C, pH 9.0, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	25.7	sulfite	*wild type enzyme, pH 9.0
+KCAT	Homo sapiens	25.7	sulfite	*wild-type, 25&deg;C, pH 9.0
+KCAT	Homo sapiens	25.8	sulfite	*with ferricanide, pH 8.4, 25&deg;C, recombinant mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	25.9	sulfite	*25&deg;C, pH 8.0, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	25.9	sulfite	*wild type enzyme, pH 8.0
+KCAT	Homo sapiens	25.9	sulfite	*wild-type, 25&deg;C, pH 8.0
+KCAT	Homo sapiens	26.1	sulfite	*with ferricanide, pH 6.0, 25&deg;C, recombinant selenomethionine-labeled mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	26.2	sulfite	*mutant enzyme G473A, pH 8.0
+KCAT	Homo sapiens	26.3	sulfite	*25&deg;C, pH 9.5, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	26.3	sulfite	*wild type enzyme, pH 9.5
+KCAT	Homo sapiens	26.3	sulfite	*wild-type, 25&deg;C, pH 9.5
+KCAT	Homo sapiens	26.6	sulfite	*mutant R472Q, pH 7.6, 25&deg;C
+KCAT	Homo sapiens	26.9	cytochrome c	*wild type enzyme, pH 8.5
+KCAT	Homo sapiens	26.9	sulfite	*25&deg;C, pH 8.5, 100 mM buffer, wild-type enzyme; 25&deg;C, pH 8.5, 20 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	26.9	sulfite	*wild type enzyme in 20 mM Tris at pH 8.5
+KCAT	Homo sapiens	26.9	sulfite	*wild type enzyme, pH 8.5
+KCAT	Homo sapiens	26.9	sulfite	*wild-type, 25&deg;C, pH 8.5
+KCAT	Homo sapiens	26.9	sulfite	*wild-type, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	27	sulfite	*25&deg;C, pH 8.25, 100 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	27	sulfite	*wild-type, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	27	sulfite	*mutant R472M, pH 7.6, 25&deg;C
+KCAT	Homo sapiens	27.3	sulfite	*with ferricanide, pH 8.9, 25&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	28.1	sulfite	*25&deg;C, pH 9.0, 100 mM buffer, wild-type enzyme
+KCAT	Homo sapiens	28.4	sulfite	*mutant enzyme G473A in 20 mM Tris at pH 8.5
+KCAT	Homo sapiens	28.4	sulfite	*mutant enzyme G473A, pH 8.5
+KCAT	Homo sapiens	31.8	sulfite	*with ferricanide, pH 8.9, 25&deg;C, recombinant selenomethionine-labeled mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	31.9	sulfite	*mutant enzyme G473A, pH 9.1
+KCAT	Homo sapiens	32.4	sulfite	*with ferricanide, pH 8.4, 25&deg;C, recombinant wild-type enzyme
+KCAT	Gallus gallus	36.1	sulfite	*wild-type, 25&deg;C, pH 7.0
+KCAT	Homo sapiens	36.2	sulfite	*with ferricanide, pH 8.9, 25&deg;C, recombinant mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	37.7	sulfite	*with ferricanide, pH 7.1, 25&deg;C, recombinant selenomethionine-labeled mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	41.2	sulfite	*with ferricanide, pH 8.4, 25&deg;C, recombinant selenomethionine-labeled mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	42	sulfite	*mutant H90Y, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	46.6	sulfite	*with ferricanide, pH 7.1, 25&deg;C, recombinant selenomethionine-labeled mutant C242S/C253S/C260S/C451S
+KCAT	Homo sapiens	47	sulfite	*mutant R472D/D342K, pH 7.6, 25&deg;C
+KCAT	Thermus thermophilus	53.32	sulfite	*
+KCAT	Gallus gallus	73	sulfite	*wild-type, 25&deg;C, pH 8.5
+KCAT	Gallus gallus	85	cytochrome c	*
+KCAT	Arabidopsis thaliana	4500	sulfite	*

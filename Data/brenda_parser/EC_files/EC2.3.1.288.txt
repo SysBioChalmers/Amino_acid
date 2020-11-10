@@ -1,0 +1,2 @@
+KCAT	Mycobacterium tuberculosis	0.0032	palmitoyl-CoA	*pH 7.5, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.0067	2-O-sulfo-alpha,alpha-trehalose	*pH 7.5, 25&deg;C

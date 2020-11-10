@@ -1,0 +1,7 @@
+KCAT	Homo sapiens	0.0037	2,3-diphosphoglycerate	*wild-type
+KCAT	Homo sapiens	0.00623	2,3-diphosphoglycerate	*mutant C22S
+KCAT	Homo sapiens	0.00845	2,3-diphosphoglycerate	*mutant S23G
+KCAT	Homo sapiens	0.152	2,3-diphosphoglycerate	*mutant C22T
+KCAT	Equus caballus	3.6	1,3-diphosphoglycerate	*4&deg;C
+KCAT	Equus caballus	12.5	1,3-diphosphoglycerate	*25&deg;C
+KCAT	Equus caballus	23.4	1,3-diphosphoglycerate	*37&deg;C

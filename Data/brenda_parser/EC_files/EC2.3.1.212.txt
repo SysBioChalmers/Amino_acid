@@ -1,0 +1,7 @@
+KCAT	Rheum palmatum	0.0247	N-methylanthraniloyl-CoA	*pH 8.0, temperature not specified in the publication
+KCAT	Rheum palmatum	0.0296	malonyl-CoA	*pH 8.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Rheum palmatum	0.0298	4-coumaroyl-CoA	*pH 8.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Rheum palmatum	0.0298	4-coumaroyl-CoA	*pH 8.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Rheum palmatum	0.0298	4-coumaroyl-CoA	*pH 8.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Rheum palmatum	0.135	D-phenylalanyl-CoA	*pH 8.0, temperature not specified in the publication
+KCAT	Rheum palmatum	0.463	L-phenylalanyl-CoA	*pH 8.0, temperature not specified in the publication

@@ -1,0 +1,7 @@
+KCAT	Clavibacter michiganensis	9	gypenoside XVII	*pH 7.5, 35&deg;C, recombinant mutant W512A; pH 7.5, 35&deg;C, recombinant mutant W512R
+KCAT	Clavibacter michiganensis	22	gypenoside XVII	*pH 7.5, 35&deg;C, recombinant wild-type enzyme
+KCAT	Clavibacter michiganensis	343	ginsenoside Rb1	*pH 7.5, 35&deg;C, recombinant mutant W512R
+KCAT	Clavibacter michiganensis	795	ginsenoside Rb1	*pH 7.5, 35&deg;C, recombinant mutant W512A
+KCAT	Clavibacter michiganensis	1025	ginsenoside Rb1	*pH 7.5, 35&deg;C, recombinant wild-type enzyme
+KCAT	Clavibacter michiganensis	1151	ginsenoside Rb1	*pH 7.5, 35&deg;C, recombinant mutant W512E
+KCAT	Gordonia terrae	6292	4-nitrophenyl-beta-D-glucopyranoside	*recombinant enzyme, pH 6.5, 30&deg;C

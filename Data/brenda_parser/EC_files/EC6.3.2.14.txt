@@ -1,0 +1,7 @@
+KCAT	Escherichia coli	0.3	3-hydroxybenzoate	*pH 7.8, 25&deg;C, recombinant EntE
+KCAT	Escherichia coli	0.8	salicylic acid	*pH 7.8, 25&deg;C, recombinant EntE
+KCAT	Escherichia coli	2.8	2,3-Dihydroxybenzoate	*pH 7.8, 25&deg;C, recombinant EntE
+KCAT	Escherichia coli	2.8	ATP	*pH 7.8, 25&deg;C, recombinant EntE
+KCAT	Escherichia coli	2.8	phosphopantetheinylated EntB	*pH 7.8, 25&deg;C, recombinant EntE
+KCAT	Escherichia coli	4.4	4-aminosalicylic acid	*pH 7.8, 25&deg;C, recombinant EntE
+KCAT	Escherichia coli	12.7	L-Ser	*L-Ser-dependent ATP-diphosphate exchange

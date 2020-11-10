@@ -1,0 +1,4 @@
+KCAT	Serratia marcescens	1.02	(2S,3S)-2,3-butanediol	*pH 5.0, 40&deg;C
+KCAT	Serratia marcescens	6.2	meso-2,3-butanediol	*pH 5.0, 40&deg;C
+KCAT	Serratia marcescens	11.5	diacetyl	*pH 8.0, 40&deg;C
+KCAT	Serratia marcescens	19.7	(3R)-acetoin	*pH 8.0, 40&deg;C

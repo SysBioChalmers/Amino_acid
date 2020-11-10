@@ -1,0 +1,1 @@
+ecNumber*1.97.1.9#turnoverNumber*5#turnoverNumberMaximum*#substrate*selenate#commentary*using electron donormethyl viologen#organism*Enterobacter cloacae#ligandStructureId*2162#literature*699361#!ecNumber*1.97.1.9#turnoverNumber*387#turnoverNumberMaximum*#substrate*selenate#commentary*pH 6.0#organism*Thauera selenatis#ligandStructureId*2162#literature*644811#

@@ -1,0 +1,1 @@
+ecNumber*2.1.1.315#turnoverNumber*87#turnoverNumberMaximum*#substrate*27-O-demethylrifamycin SV#commentary*pH 8.0, 30&Acirc;&deg;C#organism*Amycolatopsis mediterranei#ligandStructureId*197628#literature*729094#

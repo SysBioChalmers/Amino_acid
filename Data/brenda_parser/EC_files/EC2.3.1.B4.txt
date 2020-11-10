@@ -1,0 +1,7 @@
+KCAT	Allochromatium vinosum	1.43	(R)-3-hydroxypentanoyl-CoA	*30&deg;C, second phase of reaction
+KCAT	Allochromatium vinosum	2	(R)-3-hydroxypentanoyl-CoA	*30&deg;C, first phase of reaction
+KCAT	Allochromatium vinosum	18.67	(R)-3-hydroxybutyryl-CoA	*30&deg;C, second phase of reaction
+KCAT	Allochromatium vinosum	65.33	(R)-3-hydroxybutyryl-CoA	*30&deg;C, first phase of reaction
+KCAT	Ectothiorhodospira shaposhnikovii	122	(R)-3-hydroxyvaleryl-CoA	*based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site; based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site
+KCAT	Ectothiorhodospira shaposhnikovii	297	4-hydroxybutyryl-CoA	*based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site; based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site
+KCAT	Ectothiorhodospira shaposhnikovii	320	(R)-3-hydroxybutyryl-CoA	*based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site; based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site

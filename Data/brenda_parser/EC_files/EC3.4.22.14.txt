@@ -1,0 +1,14 @@
+KCAT	Actinidia chinensis	-999	more	*pH-dependence of turnover number
+KCAT	Actinidia chinensis	-999	more	*
+KCAT	Actinidia chinensis	0.029	benzoyl-Arg p-nitroanilide	*
+KCAT	Actinidia chinensis	0.7	acetyl-Lys methyl ester	*
+KCAT	Actinidia chinensis	2.6	benzoyl-L-Arg ethyl ester	*pH 5.6, 25&deg;C, in 0.3 M KCl
+KCAT	Actinidia chinensis	3.4	benzyloxycarbonyl p-nitrophenyl ester	*
+KCAT	Actinidia chinensis	4.5	benzoyl-Arg ethyl ester	*
+KCAT	Actinidia chinensis	5.8	benzoyl-Gly p-nitrophenyl ester	*
+KCAT	Actinidia chinensis	6	Benzyloxycarbonyl-Lys methyl ester	*
+KCAT	Actinidia deliciosa	20.74	casein	*pH 8.5, 20&deg;C, immobilized actinidin
+KCAT	Actinidia chinensis	29	benzyloxycarbonyl-Lys p-nitrophenyl ester	*
+KCAT	Actinidia deliciosa	29.2	casein	*pH 8.5, 20&deg;C, free actinidin
+KCAT	Actinidia chinensis	33	Nalpha-benzyloxycarbonyl-L-Lys p-nitrophenyl ester	*
+KCAT	Actinidia deliciosa	42.8	N-alpha-benzyloxycarbonyl-L-lysine 4-nitrophenyl ester	*pH 6.5, 27&deg;C

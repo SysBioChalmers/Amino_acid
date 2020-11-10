@@ -1,0 +1,2 @@
+KCAT	Anisodus acutangulus	1	L-hyoscyamine	*pH 8.0, 35&deg;C, wild-type enzyme
+KCAT	Anisodus acutangulus	3.9	L-hyoscyamine	*pH 8.0, 35&deg;C, mutant enzyme S14P/K97A

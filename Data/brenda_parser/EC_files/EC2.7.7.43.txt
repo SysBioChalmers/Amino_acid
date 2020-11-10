@@ -1,0 +1,40 @@
+KCAT	Neisseria meningitidis	0.001	CTP	*mutant D211A, pH 7.5, 22&Acirc;&deg;C
+KCAT	Neisseria meningitidis	0.05	CTP	*mutant Y179A, pH 7.5, 22&Acirc;&deg;C
+KCAT	Haemophilus ducreyi	1.8	CTP	*pH 7.1, 25&Acirc;&deg;C
+KCAT	Neisseria meningitidis	2.2	CTP	*mutant Q104A, pH 7.5, 22&Acirc;&deg;C
+KCAT	Mus musculus	2.57	CTP	*CMP-sialic acid synthetase
+KCAT	Hungateiclostridium thermocellum	3.33	CTP	*; at 50&Acirc;&deg;C, 10 mM MnCl2, 50 mM Tris buffer (pH 9.5)
+KCAT	Mus musculus	3.87	CTP	*N-terminal domain and C-terminal domain of CMP-sialic acid synthetase
+KCAT	Mus musculus	3.89	CTP	*N-terminal domain of CMP-sialic acid synthetase
+KCAT	Pasteurella multocida	4.6	CTP	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	5	CTP	*mutant F193A, pH 7.5, 22&Acirc;&deg;C
+KCAT	Haemophilus ducreyi	5.2	CTP	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	7	CTP	*mutant R173A, pH 7.5, 22&Acirc;&deg;C
+KCAT	Neisseria meningitidis	8.8	CTP	*mutant S81R, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	10.2	CTP	*wild-type, pH 7.5, 22&Acirc;&deg;C
+KCAT	Streptococcus agalactiae	14	CTP	*
+KCAT	Neisseria meningitidis	20	CTP	*mutant F192A, pH 7.5, 22&Acirc;&deg;C
+KCAT	Neisseria meningitidis	21	CTP	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	25	CTP	*mutant N175A, pH 7.5, 22&Acirc;&deg;C
+KCAT	Pasteurella multocida	4.2	N-acetylneuraminate	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Haemophilus ducreyi	4.8	N-acetylneuraminate	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	7.4	N-acetylneuraminate	*mutant S81R, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	19	N-acetylneuraminate	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	32	N-acetylneuraminate	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Mus musculus	2.29	sialic acid	*CMP-sialic acid synthetase, substrate N-acetylneuraminic acid
+KCAT	Mus musculus	3.47	sialic acid	*N-terminal domain and C-terminal domain of CMP-sialic acid synthetase, substrate N-acetylneuraminic acid
+KCAT	Mus musculus	3.56	sialic acid	*N-terminal domain of CMP-sialic acid synthetase, substrate N-acetylneuraminic acid
+KCAT	Neisseria meningitidis	3.2	N-glycolylneuraminate	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	23	N-glycolylneuraminate	*mutant S81R, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	36	N-glycolylneuraminate	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Hungateiclostridium thermocellum	2.25	N-acylneuraminate	*at 50&Acirc;&deg;C, 10 mM MnCl2, 50 mM Tris buffer (pH 9.5)
+KCAT	Streptococcus agalactiae	0.68	N-glycolylneuraminic acid	*
+KCAT	Hungateiclostridium thermocellum	1.66	N-glycolylneuraminic acid	*at 50&Acirc;&deg;C, 10 mM MnCl2, 50 mM Tris buffer (pH 9.5)
+KCAT	Streptococcus agalactiae	16	Neu5Ac	*
+KCAT	Neisseria meningitidis	1.9	8-O-methyl-N-acetylneuraminate	*mutant S81R, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	21	8-O-methyl-N-acetylneuraminate	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	2.9	N-methylglycolylneuraminate	*wild-type, pH 8.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	12	N-methylglycolylneuraminate	*mutant S81R, pH 8.5, 37&Acirc;&deg;C
+KCAT	Streptococcus agalactiae	0.067	deaminoneuraminic acid	*
+KCAT	Hungateiclostridium thermocellum	2.25	NeuAc	*
+KCAT	Hungateiclostridium thermocellum	1.66	NeuGc	*

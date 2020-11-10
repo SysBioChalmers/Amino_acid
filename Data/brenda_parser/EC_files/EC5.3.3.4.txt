@@ -1,0 +1,12 @@
+KCAT	Cupriavidus necator	0.03	(4S)-2-chloromuconolactone	*pH 7.5, 25&deg;C
+KCAT	Cupriavidus necator	7.17	(4S)-2-chloromuconolactone	*pH 7.5, 25&deg;C
+KCAT	Cupriavidus necator	42.5	(4R,5R/4S,5S)-(+/-)-5-chloro-3-methylmuconolactone	*
+KCAT	Cupriavidus necator	42.5	(4R,5R)-5-chloro-3-methylmuconolactone	*pH 7.5, 25&deg;C
+KCAT	Rhodococcus sp.	66.67	muconolactone	*
+KCAT	Cupriavidus necator	267	(4R,5R/4S,5S)-(+/-)-5-chloro-3-methylmuconolactone	*
+KCAT	Cupriavidus necator	286	(4S)-muconolactone	*pH 7.5, 25&deg;C
+KCAT	Cupriavidus necator	317	(4R,5S)-(+)-5-Chloromuconolactone	*
+KCAT	Cupriavidus necator	367	(4S)-(+)-muconolactone	*
+KCAT	Cupriavidus necator	683	(4S)-(+)-muconolactone	*
+KCAT	Cupriavidus necator	5950	(4R,5S)-(+)-5-Chloromuconolactone	*
+KCAT	Cupriavidus necator	5950	(4R,5S)-5-chloromuconolactone	*pH 7.5, 25&deg;C

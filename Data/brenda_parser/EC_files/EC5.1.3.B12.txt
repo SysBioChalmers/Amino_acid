@@ -1,0 +1,36 @@
+KCAT	Agrobacterium tumefaciens	0.029	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme D183E
+KCAT	Agrobacterium tumefaciens	4.9	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme R215K
+KCAT	Agrobacterium tumefaciens	7.7	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme H209A
+KCAT	Agrobacterium tumefaciens	17	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme E156D
+KCAT	Agrobacterium tumefaciens	26	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme A107V
+KCAT	Agrobacterium tumefaciens	26	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme W112F
+KCAT	Agrobacterium tumefaciens	62	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66C
+KCAT	Agrobacterium tumefaciens	68.3	D-fructose	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme I33L/S213C
+KCAT	Agrobacterium tumefaciens	70	D-fructose	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme I33L; pH 8.0, 50&Acirc;&deg;C, mutant enzyme S213C
+KCAT	Agrobacterium tumefaciens	71.6	D-fructose	*pH 8.0, 50&Acirc;&deg;C, wild-type enzyme
+KCAT	Agrobacterium tumefaciens	72	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66Y
+KCAT	Agrobacterium tumefaciens	88	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme A107I; pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66V
+KCAT	Agrobacterium tumefaciens	116	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66W
+KCAT	Agrobacterium tumefaciens	152	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66G
+KCAT	Agrobacterium tumefaciens	168	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66F
+KCAT	Agrobacterium tumefaciens	176	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66L
+KCAT	Agrobacterium tumefaciens	308	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66A
+KCAT	Agrobacterium tumefaciens	341	D-fructose	*pH 8.0, 45&Acirc;&deg;C, wild-type enzyme
+KCAT	Agrobacterium tumefaciens	341	D-fructose	*pH 8.0, 45&Acirc;&deg;C, wild-type enzyme
+KCAT	Agrobacterium tumefaciens	996	D-fructose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme A107P
+KCAT	Agrobacterium tumefaciens	2068	D-fructose	*pH 8.0, 50&Acirc;&deg;C
+KCAT	Agrobacterium tumefaciens	23	D-psicose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme R215K
+KCAT	Agrobacterium tumefaciens	44	D-psicose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme W112F
+KCAT	Agrobacterium tumefaciens	46	D-psicose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme E156D
+KCAT	Agrobacterium tumefaciens	478	D-psicose	*pH 8.0, 45&Acirc;&deg;C, wild-type enzyme
+KCAT	Agrobacterium tumefaciens	2381	D-psicose	*pH 8.0, 50&Acirc;&deg;C
+KCAT	Agrobacterium tumefaciens	11	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66W
+KCAT	Agrobacterium tumefaciens	23	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66A
+KCAT	Agrobacterium tumefaciens	33	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66G
+KCAT	Agrobacterium tumefaciens	44	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66C
+KCAT	Agrobacterium tumefaciens	50	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66L
+KCAT	Agrobacterium tumefaciens	56	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66Y
+KCAT	Agrobacterium tumefaciens	64	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66F
+KCAT	Agrobacterium tumefaciens	100	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme I66V
+KCAT	Agrobacterium tumefaciens	136	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, mutant enzyme A107P
+KCAT	Agrobacterium tumefaciens	194	D-tagatose	*pH 8.0, 45&Acirc;&deg;C, wild-type enzyme

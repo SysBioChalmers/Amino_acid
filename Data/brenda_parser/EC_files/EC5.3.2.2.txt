@@ -1,0 +1,5 @@
+KCAT	Bos taurus	26.7	enol-oxaloacetate	*enzyme form OAT-2, 25&Acirc;&deg;C, pH 9.0
+KCAT	Bos taurus	26.7	enol-oxaloacetate	*enzyme form OAT-2, 25&Acirc;&deg;C, pH 9.0
+KCAT	Bos taurus	45	enol-oxaloacetate	*enzyme form OAT-1, 25&Acirc;&deg;C, pH 9.0
+KCAT	Bos taurus	45.7	enol-oxaloacetate	*enzyme form OAT-1, 25&Acirc;&deg;C, pH 9.0
+KCAT	Bos taurus	3.58	keto-oxaloacetate	*enzyme form OAT-1, 25&Acirc;&deg;C, pH 9.0

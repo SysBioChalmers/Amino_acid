@@ -1,0 +1,63 @@
+KCAT	Escherichia coli	0.0000046	pyruvate	*pH 7.5, K133Q/T161K mutant
+KCAT	Escherichia coli	0.0121	pyruvate	*pH 7.5, wild-type
+KCAT	Escherichia coli	0.000001	benzaldehyde	*pH 7.5, K133Q/T161K mutant
+KCAT	Escherichia coli	0.019	2-dehydro-3-deoxy-D-gluconate	*wild type enzyme, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	0.04	2-dehydro-3-deoxy-D-gluconate	*mutant enzyme S184A, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	0.08	2-dehydro-3-deoxy-D-gluconate	*mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	0.11	2-dehydro-3-deoxy-D-gluconate	*mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	0.00029	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	0.0026	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	0.0063	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*wild type enzyme, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	0.02	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*mutant enzyme T161V, in 20 mM HEPES, pH 7.5, at 23&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.0333	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*
+KCAT	Thermotoga maritima	2	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*pH 7.5, 40&Acirc;&deg;C
+KCAT	Escherichia coli	2.5	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*KA3 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	3.2	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+KCAT	Thermotoga maritima	3.9	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Escherichia coli	7.8	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*KA3-L1 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	9.8	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*mutant enzyme T161A, in 20 mM HEPES, pH 7.5, at 23&Acirc;&deg;C
+KCAT	Escherichia coli	11.2	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*KA3-L2 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	52	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*KA2 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	74	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	80	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*wild type enzyme, in 20 mM HEPES, pH 7.5, at 23&Acirc;&deg;C
+KCAT	Escherichia coli	83	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*wild type enzyme, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	93	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*KA1-2 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	97	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*mutant enzyme S184A, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	108	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*KA1-3 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	284	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*wild-type enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	533	6-phospho-2-dehydro-3-deoxy-D-gluconate	*
+KCAT	Escherichia coli	0.016	D-2-dehydro-deoxygluconate	*wild-type enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.021	D-2-dehydro-deoxygluconate	*KA3-L1 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.1	D-2-dehydro-deoxygluconate	*KA1-1 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.11	D-2-dehydro-deoxygluconate	*KA1-4 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.13	D-2-dehydro-deoxygluconate	*KA1-3 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.16	D-2-dehydro-deoxygluconate	*KA1-2 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.43	D-2-dehydro-deoxygluconate	*KA3-L2 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.58	D-2-dehydro-deoxygluconate	*KA2 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1.09	D-2-dehydro-deoxygluconate	*KA3 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	6.08	D-2-dehydro-deoxygluconate	*KA2 variant, pH 7.5, 25&Acirc;&deg;C; KA3 variant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	27	2-dehydro-3-deoxy-6-phospho-D-gluconate	*mutant T161S, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	31	2-dehydro-3-deoxy-6-phospho-D-gluconate	*mutant T161S/S184F, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	40	2-dehydro-3-deoxy-6-phospho-D-gluconate	*mutant S184F, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	41	2-dehydro-3-deoxy-6-phospho-D-gluconate	*mutant T161S/S18L, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	83	2-dehydro-3-deoxy-6-phospho-D-gluconate	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1.8	2-dehydro-4-hydroxyoctonate	*mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	2	2-dehydro-4-hydroxyoctonate	*wild type enzyme, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	2.6	2-dehydro-4-hydroxyoctonate	*mutant enzyme S184A, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	2.9	2-dehydro-4-hydroxyoctonate	*mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	6	2-dehydro-4-hydroxy-4-(2'-pyridyl)butyrate	*mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	11	2-dehydro-4-hydroxy-4-(2'-pyridyl)butyrate	*wild type enzyme, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	27	2-dehydro-4-hydroxy-4-(2'-pyridyl)butyrate	*mutant enzyme S184A, in 100 mM HEPES, pH 7.5
+KCAT	Escherichia coli	40	2-dehydro-4-hydroxy-4-(2'-pyridyl)butyrate	*mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+KCAT	Thermotoga maritima	80	2-keto-3-deoxy-6-phosphogluconate	*
+KCAT	Escherichia coli	1.5	4-hydroxy-2-oxooctonate	*mutant S184F, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	1.7	4-hydroxy-2-oxooctonate	*mutant T161S, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	2	4-hydroxy-2-oxooctonate	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	3.1	4-hydroxy-2-oxooctonate	*mutant T161S/S18L, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	11	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	19	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	*mutant S184F, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	175	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	*mutant T161S, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	212	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	*mutant T161S/S184F, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	240	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	*mutant T161S/S18L, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas putida	-999	more	*
+KCAT	Pseudomonas putida	-999	more	*

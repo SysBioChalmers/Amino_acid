@@ -1,0 +1,37 @@
+KCAT	Corynebacterium glutamicum	-999	more	*kcat for NaHCO3: 6.7 s-1
+KCAT	Ascaris suum	0.4	2'-deoxyguanosine 5'-diphosphate	*pH 7.4, 25&deg;C, C306S mutant
+KCAT	Ascaris suum	0.5	2'-deoxyguanosine 5'-diphosphate	*pH 7.4, 25&deg;C, C306A mutant
+KCAT	Rattus norvegicus	1	CO2	*mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Rattus norvegicus	1	GDP	*mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Rattus norvegicus	1	phosphoenolpyruvate	*mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Ascaris suum	1.8	phosphoenolpyruvate	*pH 7.4, 25&deg;C, C306A mutant
+KCAT	Ascaris suum	2.1	phosphoenolpyruvate	*pH 7.4, 25&deg;C, C306S mutant
+KCAT	Ascaris suum	2.3	2'-deoxyguanosine 5'-triphosphate	*pH 7.4, 25&deg;C, C306A mutant
+KCAT	Ascaris suum	2.3	IDP	*pH 7.4, 25&deg;C, C306S mutant
+KCAT	Ascaris suum	2.4	2'-deoxyguanosine 5'-triphosphate	*pH 7.4, 25&deg;C, C306S mutant
+KCAT	Ascaris suum	2.4	IDP	*pH 7.4, 25&deg;C, C306A mutant
+KCAT	Ascaris suum	3.4	2'-deoxyguanosine 5'-triphosphate	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Ascaris suum	3.5	GDP	*pH 7.4, 25&deg;C, C306S mutant
+KCAT	Ascaris suum	4.1	GDP	*pH 7.4, 25&deg;C, C306A mutant
+KCAT	Ascaris suum	4.6	2'-deoxyguanosine 5'-diphosphate	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Corynebacterium glutamicum	6.1	phosphoenolpyruvate	*pH 6.8
+KCAT	Ascaris suum	6.5	GDP	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Ascaris suum	6.9	IDP	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Corynebacterium glutamicum	7.2	GDP	*pH 6.8
+KCAT	Ascaris suum	9.3	phosphoenolpyruvate	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Ascaris suum	10.3	GTP	*pH 7.4, 25&deg;C, C306S mutant
+KCAT	Ascaris suum	10.7	ITP	*pH 7.4, 25&deg;C, C306A mutant
+KCAT	Ascaris suum	12.4	GTP	*pH 7.4, 25&deg;C, C306A mutant
+KCAT	Ascaris suum	12.8	ITP	*pH 7.4, 25&deg;C, C306S mutant
+KCAT	Ascaris suum	13.3	oxaloacetate	*pH 7.4, 25&deg;C, C306S mutant
+KCAT	Ascaris suum	13.9	GTP	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	14	GTP	*mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Rattus norvegicus	14	oxaloacetate	*mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Ascaris suum	14.5	oxaloacetate	*pH 7.4, 25&deg;C, C306A mutant
+KCAT	Ascaris suum	15.6	ITP	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Ascaris suum	17.8	oxaloacetate	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	19	CO2	*wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Rattus norvegicus	19	GDP	*wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Rattus norvegicus	19	phosphoenolpyruvate	*wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Rattus norvegicus	54	GTP	*wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C
+KCAT	Rattus norvegicus	54	oxaloacetate	*wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25&deg;C

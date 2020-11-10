@@ -1,0 +1,15 @@
+KCAT	Rhodococcus erythropolis	5.1	(Z)-phenylacetaldoxime	*mutant enzyme H320A, pH 7.0, 30&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	6.8	(Z)-phenylacetaldoxime	*mutant enzyme E143Q, pH 7.0, 30&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	11.1	(Z)-phenylacetaldoxime	*mutant enzyme S219A, pH 7.0, 30&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	15.7	(Z)-phenylacetaldoxime	*mutant enzyme F306A, pH 7.0, 30&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	17.2	(Z)-phenylacetaldoxime	*mutant enzyme R178Q, pH 7.0, 30&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	47.3	(Z)-phenylacetaldoxime	*wild-type enzyme, pH 7.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas chlororaphis	324	(E/Z)-n-butyraldoxime	*pH 7, 30&Acirc;&deg;C
+KCAT	Pseudomonas chlororaphis	5.4	(E/Z)-pyridine-2-aldoxime	*pH 7, 30&Acirc;&deg;C
+KCAT	Pseudomonas chlororaphis	336	(E/Z)-acetaldoxime	*pH 7, 30&Acirc;&deg;C
+KCAT	Rhodococcus sp. N-771	0.08	5-nitro-1,2-benzoxazole	*ferric oxidation state, pH 7.0, 23&Acirc;&deg;C
+KCAT	Bacillus sp. OxB-1	0.14	5-nitro-1,2-benzoxazole	*ferric oxidation state, pH 7.0, 23&Acirc;&deg;C
+KCAT	Pseudomonas chlororaphis	0.18	5-nitro-1,2-benzoxazole	*ferric oxidation state, pH 7.0, 23&Acirc;&deg;C
+KCAT	Bacillus sp. OxB-1	9.58	5-nitro-1,2-benzoxazole	*ferrous oxidation state, pH 7.0, 23&Acirc;&deg;C
+KCAT	Pseudomonas chlororaphis	9.97	5-nitro-1,2-benzoxazole	*ferrous oxidation state, pH 7.0, 23&Acirc;&deg;C
+KCAT	Rhodococcus sp. N-771	17.03	5-nitro-1,2-benzoxazole	*ferrous oxidation state, pH 7.0, 23&Acirc;&deg;C

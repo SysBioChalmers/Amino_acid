@@ -1,0 +1,51 @@
+KCAT	Zea mays	-999	more	*
+KCAT	Staphylococcus aureus	0.02	S-nitrosoglutathione	*at pH 7.6
+KCAT	Helicobacter pylori	0.1	3-nitrotyrosine	*pH 7.5, 37&deg;C
+KCAT	Arabidopsis thaliana	0.1	farnesol	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.217	12-Hydroxydodecanoic acid	*
+KCAT	Homo sapiens	0.217	NAD+	*reaction with 12-hydroxydodecanoic acid
+KCAT	Komagataella pastoris	0.233	glutathione	*
+KCAT	Komagataella pastoris	0.267	formaldehyde	*
+KCAT	Helicobacter pylori	0.5	Nitrofurantoin	*pH 7.5, 37&deg;C
+KCAT	Helicobacter pylori	0.5	S-nitrosoglutathione	*pH 7.5, 37&deg;C
+KCAT	Helicobacter pylori	0.6	metronidazole	*pH 7.5, 37&deg;C
+KCAT	Helicobacter pylori	0.6	S-nitrosocysteine	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.92	NAD+	*mutant E67L, pH 7.5
+KCAT	Helicobacter pylori	1	nitrofurazone	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.04	NAD+	*
+KCAT	Homo sapiens	1.04	S-hydroxymethyl glutathione	*
+KCAT	Bos taurus	1.05	S-hydroxymethyl glutathione	*enzyme form F6.0
+KCAT	Bos taurus	1.13	S-hydroxymethyl glutathione	*enzyme form F6.2
+KCAT	Homo sapiens	1.4	S-hydroxymethylglutathione	*mutant E67L, pH 7.5, 30&deg;C
+KCAT	Bos taurus	1.42	S-hydroxymethyl glutathione	*enzyme form F6.5
+KCAT	Bos taurus	1.42	S-hydroxymethyl glutathione	*
+KCAT	Arabidopsis thaliana	2.1	farnesol	*pH 10, 25&deg;C
+KCAT	Homo sapiens	2.5	NAD+	*wild type enzyme, pH 7.5
+KCAT	Homo sapiens	2.5	S-hydroxymethylglutathione	*wild type enzyme, pH 7.5, 30&deg;C
+KCAT	Branchiostoma floridae	2.5	S-hydroxymethylglutathione	*
+KCAT	Homo sapiens	2.5	S-hydroxymethylglutathione	*in 0.1 M potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Homo sapiens	3.33	S-hydroxymethyl glutathione	*
+KCAT	Rattus norvegicus	3.6	S-hydroxymethyl glutathione	*
+KCAT	Saccharomyces cerevisiae	4.75	S-hydroxymethyl glutathione	*mutant D267E/T269I
+KCAT	Arabidopsis thaliana	5.4	cinnamyl alcohol	*pH 7.5, 25&deg;C
+KCAT	Arabidopsis thaliana	5.6	12-Hydroxydodecanoic acid	*pH 10, 25&deg;C
+KCAT	Pisum sativum	6.33	S-hydroxymethyl glutathione	*
+KCAT	Homo sapiens	7.5	S-nitrosoglutathione	*
+KCAT	Homo sapiens	15.3	S-nitrosoglutathione	*mutant R368L, pH 7.5, 25&deg;C
+KCAT	Drosophila melanogaster	16	S-hydroxymethyl glutathione	*
+KCAT	Homo sapiens	16.7	NAD+	*mutant R368L, pH 7.5
+KCAT	Branchiostoma floridae	16.7	S-nitrosoglutathione	*
+KCAT	Arabidopsis thaliana	20	geraniol	*pH 10, 25&deg;C
+KCAT	Homo sapiens	20	S-hydroxymethylglutathione	*mutant R368L, pH 7.5, 30&deg;C
+KCAT	Homo sapiens	20	S-nitrosoglutathione	*in 0.1 M potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Homo sapiens	20	S-nitrosoglutathione	*
+KCAT	Arabidopsis thaliana	20.33	cinnamyl alcohol	*pH 10, 25&deg;C
+KCAT	Arabidopsis thaliana	22.5	S-(hydroxymethyl)glutathione	*pH 8, 25&deg;C
+KCAT	Homo sapiens	29.3	S-nitrosoglutathione	*wild type enzyme, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	34.5	NADH	*wild type enzyme, pH 7.5
+KCAT	Saccharomyces cerevisiae	51.7	S-hydroxymethylglutathione	*wild-type enzyme
+KCAT	Saccharomyces cerevisiae	88.3	S-hydroxymethyl glutathione	*
+KCAT	Escherichia coli	156	S-hydroxymethyl glutathione	*
+KCAT	Homo sapiens	203.3	S-nitrosoglutathione	*mutant R368L, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	230	NADH	*mutant R368L, pH 7.5
+KCAT	Homo sapiens	72000	S-nitrosoglutathione	*

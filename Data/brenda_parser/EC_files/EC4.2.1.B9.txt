@@ -1,0 +1,4 @@
+KCAT	Allium sativum	70	(9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoate	*pH 7.0
+KCAT	Allium sativum	550	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoate	*pH 7.0
+KCAT	Allium sativum	10	(9S,10E,12Z,15Z)-9-hydroperoxy-10,12,15-octadecatrienoate	*pH 7.0
+KCAT	Allium sativum	40	13-hydroperoxy-octadecatrienoate	*pH 7.0

@@ -1,0 +1,14 @@
+KCAT	Spinacia oleracea	2.1	Nalpha-benzoyl-Arg 4-nitroanilide	*
+KCAT	Spinacia oleracea	21.3	Nalpha-benzoyl-Leu 4-nitroanilide	*
+KCAT	Spinacia oleracea	1.2	Nalpha-benzoyl-Gly 4-nitroanilide	*
+KCAT	Spinacia oleracea	6.1	Nalpha-benzoyl-Val 4-nitroanilide	*
+KCAT	Spinacia oleracea	94	Nalpha-carbobenzoxy-Ala 4-nitrophenyl ester	*
+KCAT	Spinacia oleracea	43	Nalpha-carbobenzoxy-Arg 4-nitrophenyl ester	*
+KCAT	Spinacia oleracea	21	Nalpha-carbobenzoxy-Gly 4-nitrophenyl ester	*
+KCAT	Spinacia oleracea	140	Nalpha-carbobenzoxy-Ile 4-nitrophenyl ester	*
+KCAT	Spinacia oleracea	430	Nalpha-carbobenzoxy-Leu 4-nitrophenyl ester	*
+KCAT	Spinacia oleracea	45	Nalpha-carbobenzoxy-Lys 4-nitrophenyl ester	*
+KCAT	Spinacia oleracea	140	Nalpha-carbobenzoxy-Val 4-nitrophenyl ester	*
+KCAT	Spinacia oleracea	4.9	Nalpha-benzoyl-L-Ala 4-nitroanilide	*
+KCAT	Spinacia oleracea	1.8	Nalpha-benzoyl-L-Lys 4-nitroanilide	*
+KCAT	Spinacia oleracea	-999	more	*the acylation step is the rate-limiting in catalysis

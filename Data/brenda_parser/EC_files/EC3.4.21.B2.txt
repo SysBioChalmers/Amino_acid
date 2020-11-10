@@ -1,0 +1,47 @@
+KCAT	Homo sapiens	0.0044	acetyl-VPL-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.00785	N-benzyloxycarbonyl-prolyl-prolyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	0.03	N2-[(benzyloxy)carbonyl]-N6-(tert-butoxycarbonyl)-L-lysyl-L-prolyl-L-methionyl thiobenzyl ester	*
+KCAT	Homo sapiens	0.031	N-benzyloxycarbonyl-lysyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	0.042	N2-Cbz-L-Asp(O-tBut)-L-Pro-L-Met thiobenzyl ester	*
+KCAT	Homo sapiens	0.06	acetyl-KYAL-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.077	acetyl-KVAM-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.0784	N-benzyloxycarbonyl-phenylalanyl-prolyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	0.0903	N-benzyloxycarbonyl-alanyl-aspartyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	0.0917	N2-CBZ-O3-tBut-L-Ser-L-Pro-L-Met-SBzl	*
+KCAT	Homo sapiens	0.115	acetyl-KYPM-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.142	acetyl-MEPL-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.161	N2-CBZ-O3-tBut-L-Ser-L-Pro-L-Met-SBzl	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	0.22	acetyl-RYPL-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.26	N-benzyloxycarbonyl-seryl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	0.335	N2-[(benzyloxy)carbonyl]-N6-(tert-butoxycarbonyl)-L-lysyl-L-prolyl-L-methionyl thiobenzyl ester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	0.42	acetyl-KEPM-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.438	N-benzyloxycarbonyl-alanyl-aspartyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	0.634	N-benzyloxycarbonyl-phenylalanyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	0.7	acetyl-KVPL-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.74	acetyl-KVPM-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.77	acetyl-KYPL-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.79	acetyl-KEPL-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.973	N-benzyloxycarbonyl-prolyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	1.68	N-benzyloxycarbonyl-alanyl-seryl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	2.13	N2-Cbz-L-Asp(O-tBut)-L-Pro-L-Met thiobenzyl ester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	2.46	N-benzyloxycarbonyl-alanyl-alanyl-methionine-thiobenzylester	*murine granzyme M without bovine serum albumin
+KCAT	Homo sapiens	3.56	N-benzyloxycarbonyl-alanyl-seryl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	4.35	N-benzyloxycarbonyl-alanyl-alanyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	6.07	N-benzyloxycarbonyl-alanyl-lysyl-methionine-thiobenzylester	*murine granzyme M without bovine serum albumin
+KCAT	Homo sapiens	6.08	N-benzyloxycarbonyl-phenylalanyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	6.08	N-benzyloxycarbonyl-prolyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	8.01	N-benzyloxycarbonyl-lysyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	9.68	N-benzyloxycarbonyl-alanyl-lysyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	10.6	N-benzyloxycarbonyl-alanyl-prolyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	10.8	N-benzyloxycarbonyl-alanyl-alanyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	12.3	N-benzyloxycarbonyl-alanyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	12.8	N-benzyloxycarbonyl-alanyl-seryl-methionine-thiobenzylester	*murine granzyme M without bovine serum albumin
+KCAT	Homo sapiens	13.1	N-benzyloxycarbonyl-alanyl-alanyl-prolyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	13.1	N-benzyloxycarbonyl-lysyl-prolyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	16.1	N-benzyloxycarbonyl-alanyl-alanyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	17.3	N-benzyloxycarbonyl-aspartyl-prolyl-methionine-thiobenzylester	*
+KCAT	Homo sapiens	18.1	N-benzyloxycarbonyl-alanyl-prolyl-methionine-thiobenzylester	*murine granzyme M without bovine serum albumin
+KCAT	Homo sapiens	29	N-benzyloxycarbonyl-aspartyl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	30	N-benzyloxycarbonyl-alanyl-alanyl-prolyl-methionine-thiobenzylester	*murine granzyme M without bovine serum albumin
+KCAT	Homo sapiens	52.1	N-benzyloxycarbonyl-seryl-prolyl-methionine-thiobenzylester	*murine granzyme M with bovine serum albumin
+KCAT	Homo sapiens	255	N-benzyloxycarbonyl-seryl-prolyl-methionine-thiobenzylester	*

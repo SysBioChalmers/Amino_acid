@@ -1,0 +1,144 @@
+KCAT	Homo sapiens	10	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N321A, expressed in Sf9 cells
+KCAT	Homo sapiens	13	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N229A, expressed in Sf9 cells
+KCAT	Homo sapiens	14	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N520A, expressed in Sf9 cells
+KCAT	Homo sapiens	16	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N85A, expressed in Sf9 cells
+KCAT	Homo sapiens	17	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N281A, expressed in Sf9 cells
+KCAT	Homo sapiens	19	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N92A, N150A, and N219A, expressed in Sf9 cells
+KCAT	Homo sapiens	20	Gly-Pro-4-nitroanilide	*pH 7.4, wild-type soluble enzyme, expressed in Sf9 cells
+KCAT	Homo sapiens	21	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N685A, expressed in Sf9 cells
+KCAT	Homo sapiens	24	Gly-Pro-4-nitroanilide	*pH 7.4, wild-type soluble enzyme, expressed in Hi5 cells
+KCAT	Homo sapiens	30	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N85A, expressed in Hi5 cells
+KCAT	Homo sapiens	32	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N685A, expressed in Hi5 cells
+KCAT	Homo sapiens	34	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N92A, expressed in Hi5 cells
+KCAT	Homo sapiens	35	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N321A and N520A, expressed in Hi5 cells
+KCAT	Homo sapiens	40	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N150A, expressed in Hi5 cells
+KCAT	Homo sapiens	43	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N229A and N281A, expressed in Hi5 cells
+KCAT	Homo sapiens	45	Gly-Pro-4-nitroanilide	*pH 7.4, mutant N219A, expressed in Hi5 cells
+KCAT	Rattus norvegicus	52.3	Gly-Pro-4-nitroanilide	*pH 8.0, 37&Acirc;&deg;C, microsomes
+KCAT	Lactococcus lactis	62.1	Gly-Pro-4-nitroanilide	*
+KCAT	Lactococcus lactis	178	Gly-Pro-4-nitroanilide	*
+KCAT	Homo sapiens	5560	Gly-Pro-4-nitroanilide	*pH 7.4, mutant enzymeY547F
+KCAT	Homo sapiens	279000	Gly-Pro-4-nitroanilide	*pH 7.4, wild-type enzyme
+KCAT	Homo sapiens	0.05	Gly-Pro-p-nitroanilide	*monomeric mutant enzyme Y735A
+KCAT	Homo sapiens	0.2	Gly-Pro-p-nitroanilide	*monomeric mutant enzymeF730A
+KCAT	Homo sapiens	0.3	Gly-Pro-p-nitroanilide	*monomeric mutant enzyme W734A
+KCAT	Homo sapiens	0.5	Gly-Pro-p-nitroanilide	*monomeric mutant enzyme V724A
+KCAT	Homo sapiens	1.8	Gly-Pro-p-nitroanilide	*monomeric mutant enzyme F713A
+KCAT	Homo sapiens	2	Gly-Pro-p-nitroanilide	*dimeric mutant enzyme F730A
+KCAT	Homo sapiens	48	Gly-Pro-p-nitroanilide	*dimeric mutant enzyme C724A
+KCAT	Homo sapiens	87	Gly-Pro-p-nitroanilide	*dimeric rDPP-IV
+KCAT	Homo sapiens	3	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N520A, expressed in Hi5 cells
+KCAT	Homo sapiens	9	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N321A, expressed in Sf9 cells
+KCAT	Homo sapiens	12	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N229A, expressed in Sf9 cells
+KCAT	Homo sapiens	13	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N520A, expressed in Sf9 cells
+KCAT	Homo sapiens	15	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N281A, expressed in Sf9 cells
+KCAT	Homo sapiens	16	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N85A, expressed in Sf9 cells
+KCAT	Homo sapiens	18	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, wild-type soluble enzyme, mutant N150A, N219A, and N92A, expressed in Sf9 cells
+KCAT	Homo sapiens	19	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N685A, expressed in Sf9 cells
+KCAT	Hordeum vulgare	23	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	23	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, wild-type soluble enzyme, expressed in Hi5 cells
+KCAT	Homo sapiens	27	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N85A, expressed in Hi5 cells
+KCAT	Homo sapiens	30	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N685A, expressed in Hi5 cells
+KCAT	Homo sapiens	31	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N92A, expressed in Hi5 cells
+KCAT	Homo sapiens	34	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N321A, expressed in Hi5 cells
+KCAT	Homo sapiens	37	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N150A, expressed in Hi5 cells
+KCAT	Homo sapiens	40	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N229A and N281A, expressed in Hi5 cells
+KCAT	Homo sapiens	42	Ala-Pro-7-amido-4-methylcoumarin	*pH 7.4, mutant N219A, expressed in Hi5 cells
+KCAT	Homo sapiens	9	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.4, mutant enzyme N321A expressed in Sf9 cells
+KCAT	Homo sapiens	12	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.4, mutant enzyme N229A expressed in Sf9 cells
+KCAT	Homo sapiens	13	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.4, mutant enzyme N520A expressed in Sf9 cells
+KCAT	Homo sapiens	15	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.4, mutant enzyme N281A expressed in Sf9 cells
+KCAT	Homo sapiens	16	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.4, mutant enzyme N85A expressed in Sf9 cells
+KCAT	Homo sapiens	18	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.4, mutant enzyme N150A expressed in Sf9 cells; pH 7.4, mutant enzyme N219A expressed in Sf9 cells; pH 7.4, mutant enzyme N92A expressed in Sf9 cells; pH 7.4, wild-type enzyme expressed in Sf9 cells
+KCAT	Homo sapiens	19	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.4, mutant enzyme N685A expressed in Sf9 cells
+KCAT	Hordeum vulgare	60	Gly-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Lactococcus lactis	69.8	Gly-Pro-7-amido-4-methylcoumarin	*
+KCAT	Lactococcus lactis	2180	Gly-Pro-Ala	*
+KCAT	Rattus norvegicus	50.3	Arg-Pro-Lys-Pro-Gln-Gln-Phe-Phe-Gly-Leu-Met-NH2	*
+KCAT	Lactococcus lactis	17.1	Lys-Ala-7-amido-4-methylcoumarin	*
+KCAT	Hordeum vulgare	92	Lys-Ala-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Lactococcus lactis	61.6	Lys-Pro-7-amido-4-methylcoumarin	*
+KCAT	Hordeum vulgare	90	Lys-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	15.1	L-Ala-L-Ala-L-Ala	*
+KCAT	Lactococcus lactis	181	Arg-Pro-4-nitroanilide	*
+KCAT	Hordeum vulgare	10	Glu-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Lactococcus lactis	62.9	Glu-Pro-7-amido-4-methylcoumarin	*
+KCAT	Hordeum vulgare	22	Leu-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Lactococcus lactis	43.8	Leu-Pro-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	37.3	Ala-Pro-7-amido-4-trifluoromethyl coumarin	*pH 7.8, 25&Acirc;&deg;C, glycosylated recombinant soluble enzyme ectodomain
+KCAT	Homo sapiens	39.6	Ala-Pro-7-amido-4-trifluoromethyl coumarin	*pH 7.8, 25&Acirc;&deg;C, deglycosylated recombinant soluble enzyme ectodomain bound to adenosine deaminase
+KCAT	Homo sapiens	43.1	Ala-Pro-7-amido-4-trifluoromethyl coumarin	*pH 7.8, 25&Acirc;&deg;C, deglycosylated recombinant soluble enzyme ectodomain
+KCAT	Lactococcus lactis	26	Ala-Ala-4-nitroanilide	*
+KCAT	Rattus norvegicus	66.1	Arg-Pro-Lys-Pro	*
+KCAT	Hordeum vulgare	1.8	Phe-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Lactococcus lactis	78.4	Phe-Pro-7-amido-4-methylcoumarin	*
+KCAT	Rattus norvegicus	71.4	Tyr-Pro-Phe-Val-Glu-Pro-Ile	*
+KCAT	Lactococcus lactis	2.1	Gly-Ala-7-amido-4-methylcoumarin	*
+KCAT	Rattus norvegicus	102	Tyr-Pro-Phe-Pro-Gly	*
+KCAT	Homo sapiens	0.4	L-Lys-L-Pro-p-nitroanilide	*mutant enzyme F842A, in PBS, pH 8.0
+KCAT	Homo sapiens	5	L-Lys-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Lactococcus lactis	120	Leu-Ala-Pro	*
+KCAT	Rattus norvegicus	60.3	Arg-Pro-Lys-Pro-Gln-Gln-Phe-Phe-Gly	*
+KCAT	Rattus norvegicus	87.5	Tyr-Pro-Phe	*
+KCAT	Rattus norvegicus	90.8	Tyr-Pro-Phe-Pro	*
+KCAT	Sus scrofa	0.55	N-(Ala-Pro)-N'-6-(3,4-dichloromaleimidyl)-hexanoyl-rhodamine 110	*
+KCAT	Sus scrofa	0.55	N-(Ala-Pro)-N'-6-(3,4-dichloromaleimidyl)-hexanoyl-rhodamine 110	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Sus scrofa	3.4	N-(Gly-Pro)-N'-(4-chloromethyl)benzoyl-rhodamine 110	*
+KCAT	Sus scrofa	3.4	N-(Gly-Pro)-N'-(4-chloromethyl)benzoyl-rhodamine 110	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Sus scrofa	3.22	N-(Gly-Pro)-N'-(5-bromopentanoyl)-rhodamine 110	*
+KCAT	Sus scrofa	3.22	N-(Gly-Pro)-N'-(5-bromopentanoyl)-rhodamine 110	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Sus scrofa	8	N-(Gly-Pro)-N'-4-(maleimidyl)butanoyl-rhodamine 110	*
+KCAT	Sus scrofa	8	N-(Gly-Pro)-N'-4-(maleimidyl)butanoyl-rhodamine 110	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Sus scrofa	0.7	N-(Gly-Pro)-N'-(4-chlorobutanoyl)-rhodamine 110	*
+KCAT	Sus scrofa	0.7	N-(Gly-Pro)-N'-(4-chlorobutanoyl)-rhodamine 110	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Sus scrofa	8	N-(Gly-Pro)-N'-(5-chloropentanoyl)-rhodamine 110	*
+KCAT	Sus scrofa	8	N-(Gly-Pro)-N'-(5-chloropentanoyl)-rhodamine 110	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Sus scrofa	1.6	N-(Gly-Pro)-N'-chloroacetyl-rhodamine 110	*
+KCAT	Sus scrofa	1.6	N-(Gly-Pro)-N'-chloroacetyl-rhodamine 110	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Hordeum vulgare	117	Thr-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	128	Gly-L-Pro-2-naphthylamide	*
+KCAT	Homo sapiens	0.6	L-Ala-L-Pro-p-nitroanilide	*mutant enzyme F842A, in PBS, pH 8.0
+KCAT	Homo sapiens	33	L-Ala-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Homo sapiens	1.9	L-Leu-L-Pro-p-nitroanilide	*mutant enzyme F842A, in PBS, pH 8.0
+KCAT	Homo sapiens	6.3	L-Leu-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Lactococcus lactis	418	His-Pro-Leu	*
+KCAT	Lactococcus lactis	670	His-Pro-Tyr	*
+KCAT	Rattus norvegicus	52.3	L-Ala-L-Ala-2-naphthylamide	*
+KCAT	Rattus norvegicus	46.2	L-Ala-L-Pro-Gly	*
+KCAT	Rattus norvegicus	990	L-Phe-L-Pro-2-naphthylamide	*
+KCAT	Hordeum vulgare	41	His-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	5.3	hemorphin-7	*pH 8.0, 37&Acirc;&deg;C, microsomes
+KCAT	Rattus norvegicus	1770	hemorphin-4	*pH 8.0, 37&Acirc;&deg;C, microsomes
+KCAT	Rattus norvegicus	1774	hemorphin-4	*pH 8.0, 37&Acirc;&deg;C, microsomes
+KCAT	Homo sapiens	8.7	L-Met-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Rattus norvegicus	5.6	Gly-L-Ala-2-naphthylamide	*
+KCAT	Rattus norvegicus	31.3	Gly-L-Pro-Gly-Gly	*
+KCAT	Rattus norvegicus	82.3	Gly-L-Pro-L-Ala	*
+KCAT	Homo sapiens	810	Gly-Pro-3,5-dibromo-4-hydroxyanilide	*
+KCAT	Rattus norvegicus	11.2	L-Leu-L-Ala-2-naphthylamide	*
+KCAT	Rattus norvegicus	1.5	L-Leu-L-Leu-Gly	*
+KCAT	Rattus norvegicus	2.7	L-Leu-L-Leu-L-Leu	*
+KCAT	Rattus norvegicus	82.8	L-Leu-L-Pro-Gly-Gly	*
+KCAT	Rattus norvegicus	6.3	L-Lys-L-Ala-2-naphthylamide	*
+KCAT	Rattus norvegicus	88.3	Lys-Pro-Gln-Gln-Phe-Phe-Gly-Leu-Met-NH2	*
+KCAT	Hordeum vulgare	4.6	Asp-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	35	Asn-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	102	Met-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	10	Gln-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	58	Ser-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	41	Pro-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	99	Tyr-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	67	Ile-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	71	Arg-Pro-7-amido-4-methylcoumarin	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Homo sapiens	20.3	Gly-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Homo sapiens	18	L-Ser-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Homo sapiens	7.7	L-Arg-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Homo sapiens	11	L-Asn-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Homo sapiens	7	L-Glu-L-Pro-p-nitroanilide	*wild type enzyme, in PBS, pH 8.0
+KCAT	Rattus norvegicus	62.3	Arg-Pro-Lys-Pro-Gln-Gln-Phe-Gly	*
+KCAT	Rattus norvegicus	103	Tyr-Pro-Phe-Val-Glu-Pro-Ileu	*
+KCAT	Pseudoxanthomonas mexicana	19.2	Gly-L-Pro-7-amido-4-methylcoumarin	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	-999	more	*turnover-numbers for X-Pro-4-nitroanilides
+KCAT	Bos taurus	0.027	amyloid beta42	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Bos taurus	0.063	amyloid beta40	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.2	BRI peptide (1-23)	*in 40 mM HEPES-buffer, pH 7.4, at 37&Acirc;&deg;C

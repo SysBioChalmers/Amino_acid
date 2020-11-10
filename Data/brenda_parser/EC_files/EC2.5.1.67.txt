@@ -1,0 +1,1 @@
+KCAT	Tanacetum cinerariifolium	0.008	dimethylallyl diphosphate	*pH 7.5, 30&deg;C, His-tagged or detagged recombinant enzyme

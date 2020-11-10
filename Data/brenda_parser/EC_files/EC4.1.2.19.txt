@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	9.1	dihydroxyacetone phosphate	*
+KCAT	Thermotoga maritima	2.52	L-rhamnulose 1-phosphate	*at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	38.3	L-rhamnulose 1-phosphate	*
+KCAT	Escherichia coli	38.3	L-rhamnulose 1-phosphate	*
+KCAT	Escherichia coli	38.3	L-rhamnulose 1-phosphate	*

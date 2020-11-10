@@ -1,0 +1,89 @@
+KCAT	Weissella confusa	0.004	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme del I81/delK82/delN87/delP88
+KCAT	Weissella confusa	0.03	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme del I81/delK82
+KCAT	Weissella confusa	0.07	oxo-tert-leucine	*pH 7.0, 30&deg;C, mutant enzyme F236S
+KCAT	Weissella confusa	0.075	oxo-tert-leucine	*pH 7.0, 30&deg;C, mutant enzyme L239M/T245A
+KCAT	Weissella confusa	0.1	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme L239M/T245A
+KCAT	Weissella confusa	0.1	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme F236V
+KCAT	Weissella confusa	0.2	oxo-tert-leucine	*pH 7.0, 30&deg;C, mutant enzyme G234V/G235D
+KCAT	Weissella confusa	0.2	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme F236V
+KCAT	Weissella confusa	0.2	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme L239W
+KCAT	Weissella confusa	0.23	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme del I81
+KCAT	Weissella confusa	0.3	oxo-tert-leucine	*pH 7.0, 30&deg;C, mutant enzyme L239A
+KCAT	Weissella confusa	0.4	oxo-tert-leucine	*pH 7.0, 30&deg;C, mutant enzyme L239M
+KCAT	Weissella confusa	0.63	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme del I81
+KCAT	Weissella confusa	0.76	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme delK82
+KCAT	Weissella confusa	0.9	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme L239A
+KCAT	Weissella confusa	1.3	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme T245A
+KCAT	Weissella confusa	1.7	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, mutant enzyme del I81
+KCAT	Weissella confusa	2	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239M/T245A
+KCAT	Weissella confusa	6.58	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239M/T245A
+KCAT	Weissella confusa	8	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme del I81
+KCAT	Weissella confusa	9.5	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme F236S
+KCAT	Weissella confusa	13	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme del I81/delK82/delN87/delP88
+KCAT	Weissella confusa	15	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme delN87
+KCAT	Weissella confusa	17	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme delN87/delP88
+KCAT	Weissella confusa	20	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme del I81/delK82
+KCAT	Weissella confusa	20	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme L239F
+KCAT	Weissella confusa	20	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme F236S
+KCAT	Weissella confusa	22	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme L239W
+KCAT	Weissella confusa	25	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, mutant enzyme del I81/delK82
+KCAT	Weissella confusa	25	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme L239M/T245A
+KCAT	Weissella confusa	27	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme T245A
+KCAT	Weissella confusa	32	oxo-tert-leucine	*pH 7.0, 30&deg;C, mutant enzyme T245A
+KCAT	Weissella confusa	39	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, mutant enzyme del I81/delK82/delN87/delP88
+KCAT	Weissella confusa	40	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme delK82
+KCAT	Weissella confusa	46	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme delP88
+KCAT	Weissella confusa	51	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme T245A
+KCAT	Weissella confusa	52	oxo-tert-leucine	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	90	pyruvate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	90	pyruvate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	92	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme G234V/G235D
+KCAT	Weissella confusa	100	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme L239M
+KCAT	Weissella confusa	150	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme L239M
+KCAT	Weissella confusa	210	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme T245A
+KCAT	Weissella confusa	280	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme delK82
+KCAT	Weissella confusa	320	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239F
+KCAT	Weissella confusa	340	pyruvate	*pH 7.0, 30&deg;C, mutant enzyme G234V/G235D
+KCAT	Weissella confusa	350	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme L239F
+KCAT	Weissella confusa	420	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239F
+KCAT	Weissella confusa	490	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, mutant enzyme delP88
+KCAT	Weissella confusa	520	phenylglyoxylate	*pH 7.0, 30&deg;C, mutant enzyme L239A
+KCAT	Weissella confusa	620	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme delP88
+KCAT	Weissella confusa	750	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme delP88
+KCAT	Weissella confusa	920	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme F236S
+KCAT	Weissella confusa	920	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, mutant enzyme delK82
+KCAT	Weissella confusa	1000	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme del L 83
+KCAT	Weissella confusa	1000	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme F236V
+KCAT	Weissella confusa	1200	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme del L 83
+KCAT	Weissella confusa	2100	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme F236S
+KCAT	Weissella confusa	2400	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239W
+KCAT	Weissella confusa	2400	2-oxoisocaproate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	2400	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	2500	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme G234V/G235D
+KCAT	Weissella confusa	2500	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme G234V/G235D
+KCAT	Weissella confusa	2600	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme del I81/delK82
+KCAT	Weissella confusa	3400	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239W
+KCAT	Weissella confusa	3500	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme L239A
+KCAT	Weissella confusa	4100	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme L239W
+KCAT	Weissella confusa	4200	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, mutant enzyme del L 83
+KCAT	Weissella confusa	4400	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme delN87
+KCAT	Weissella confusa	4400	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239A
+KCAT	Weissella confusa	5600	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239A
+KCAT	Weissella confusa	6400	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme F236S
+KCAT	Weissella confusa	6900	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme F236V
+KCAT	Weissella confusa	7300	phenylpyruvate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	7300	phenylpyruvate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	7600	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme G234V/G235D
+KCAT	Weissella confusa	7900	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239M
+KCAT	Weissella confusa	11000	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme L239M
+KCAT	Weissella confusa	12000	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme del I81/delK82/delN87/delP88
+KCAT	Weissella confusa	13000	2-oxoisocaproate	*pH 7.0, 30&deg;C, mutant enzyme L239M
+KCAT	Weissella confusa	15000	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, mutant enzyme delN87
+KCAT	Weissella confusa	15000	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme F236V
+KCAT	Weissella confusa	18000	phenylglyoxylate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	19000	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme delN87
+KCAT	Weissella confusa	21000	2-oxocaproate	*pH 7.0, 30&deg;C, mutant enzyme delN87/delP88
+KCAT	Weissella confusa	89000	phenylpyruvate	*pH 7.0, 30&deg;C, mutant enzyme delN87/delP88
+KCAT	Weissella confusa	360000	2-oxocaproate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	360000	2-oxocaproate	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Weissella confusa	520000	4-methyl-2-oxopentanoate	*pH 7.0, 30&deg;C, mutant enzyme delN87/delP88

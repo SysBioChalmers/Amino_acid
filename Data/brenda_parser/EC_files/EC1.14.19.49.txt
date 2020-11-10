@@ -1,0 +1,1 @@
+KCAT	Kitasatospora aureofaciens	0.0085	(4S)-tetracycline	*pH 7.4, 30&deg;C

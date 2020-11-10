@@ -1,0 +1,4 @@
+KCAT	Mus musculus	1.61	methylmalonyl-CoA	*pH 7.1, 30&deg;C, recombinant enzyme in absence of ATP-Mg2-
+KCAT	Mus musculus	1.81	methylmalonyl-CoA	*pH 7.1, 30&deg;C, recombinant enzyme in presence of 5 mM ATP-Mg2-
+KCAT	Mus musculus	9.5	(S)-ethylmalonyl-CoA	*pH 7.1, 30&deg;C, recombinant enzyme in absence of ATP-Mg2-
+KCAT	Mus musculus	10	(S)-ethylmalonyl-CoA	*pH 7.1, 30&deg;C, recombinant enzyme in presence of 5 mM ATP-Mg2-

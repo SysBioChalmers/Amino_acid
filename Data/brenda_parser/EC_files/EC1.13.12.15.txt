@@ -1,0 +1,3 @@
+KCAT	Sus scrofa	4.5	L-Dopa	*Y332F DDC mutant, reaction in 50 mM Hepes, pH 7.5, at 25&Acirc;&deg;C causes the production of ammonia and 3,4-dihydroxyphenylacetaldehyde along with the consumption of molecular oxygen in a 1:2 molar ratio
+KCAT	Rhodobacter sphaeroides	0.68	3,4-dihydroxy-L-phenylalanine	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Sus scrofa	-999	more	*mutant T246A presents a decarboxylase activity, the kcat value is decreased by 29fold with respect to wild-type, an oxidative deamination reaction of aromatic amines does not occur; T246A mutant catalyzes the oxidative deamination of D-tryptophan methyl ester with a kcat value approximately 5% with respect to the measured value for wild-type

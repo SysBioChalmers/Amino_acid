@@ -1,0 +1,2 @@
+KCAT	Variovorax sp.	105	3-phosphonopyruvate	*25&deg;C, pH 7.5, wild-type enzyme
+KCAT	Variovorax sp.	121	3-phosphonopyruvate	*25&deg;C, pH 7.5, mutant enzyme R188A

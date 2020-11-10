@@ -1,0 +1,2 @@
+KCAT	Escherichia coli	0.281	menadione	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.292	protoporphyrinogen IX	*pH 8.0, 37&Acirc;&deg;C

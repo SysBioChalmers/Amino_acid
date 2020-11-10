@@ -1,0 +1,57 @@
+KCAT	Canis lupus familiaris	0.026	4-nitrophenol	*mutant enzyme D247L, enzyme form SULT1D1
+KCAT	Canis lupus familiaris	0.089	4-nitrophenol	*mutant enzyme O86D, enzyme form SULT1D1
+KCAT	Canis lupus familiaris	0.15	4-nitrophenol	*wild-type enzyme, enzyme form SULT1D1
+KCAT	Drosophila melanogaster	30	4-nitrophenol	*isoform ST1, in 50 mM sodium phosphate, pH 6.8, at 37&Acirc;&deg;C
+KCAT	Drosophila melanogaster	70	4-nitrophenol	*isoform ST4, in 50 mM sodium phosphate, pH 6.8, at 37&Acirc;&deg;C
+KCAT	Drosophila melanogaster	330	4-nitrophenol	*isoform ST3, in 50 mM sodium phosphate, pH 6.8, at 37&Acirc;&deg;C
+KCAT	Drosophila melanogaster	8.5	3'-phosphoadenylyl sulfate	*isoform ST1, in 50 mM sodium phosphate, pH 6.8, at 37&Acirc;&deg;C
+KCAT	Drosophila melanogaster	27	3'-phosphoadenylyl sulfate	*isoform ST4, in 50 mM sodium phosphate, pH 6.8, at 37&Acirc;&deg;C
+KCAT	Drosophila melanogaster	40.7	3'-phosphoadenylyl sulfate	*isoform ST3, in 50 mM sodium phosphate, pH 6.8, at 37&Acirc;&deg;C
+KCAT	Canis lupus familiaris	0.028	dopamine	*mutant enzyme D247L, enzyme form SULT1D1
+KCAT	Canis lupus familiaris	0.09	dopamine	*mutant enzyme O86D, enzyme form SULT1D1
+KCAT	Canis lupus familiaris	0.18	dopamine	*wild-type enzyme, enzyme form SULT1D1
+KCAT	Rattus norvegicus	0.113	phenol	*isoenzyme I
+KCAT	Rattus norvegicus	0.113	phenol	*isoenzyme I
+KCAT	Rattus norvegicus	0.122	phenol	*isoenzyme II
+KCAT	Rattus norvegicus	0.122	phenol	*isoenzyme II
+KCAT	Homo sapiens	0.0015	genistein	*enzyme form SULT2A1, 4'-sulfate formation
+KCAT	Homo sapiens	0.0062	genistein	*enzyme form SULT2A1, 7-sulfate formation
+KCAT	Homo sapiens	0.013	genistein	*enzyme form SULT1A1, 4'-sulfate formation
+KCAT	Homo sapiens	0.024	genistein	*enzyme form SULT1A3, 4'-sulfate formation
+KCAT	Homo sapiens	0.11	genistein	*enzyme form SULT1A1, 7-sulfate formation
+KCAT	Homo sapiens	0.12	genistein	*enzyme form SULT1E1, 7-sulfate formation
+KCAT	Homo sapiens	0.124	genistein	*enzyme form SULT1E1, 4'-sulfate formation
+KCAT	Homo sapiens	0.00033	daidzein	*enzyme form SULT2A1, 4'-sulfate formation
+KCAT	Homo sapiens	0.0035	daidzein	*enzyme form SULT2A1, 7-sulfate formation
+KCAT	Homo sapiens	0.005	daidzein	*enzyme form SULT1A3, 4'-sulfate formation
+KCAT	Homo sapiens	0.0055	daidzein	*enzyme form SULT1A1, 4'-sulfate formation
+KCAT	Homo sapiens	0.02	daidzein	*enzyme form SULT1A1, 7-sulfate formation
+KCAT	Homo sapiens	0.095	daidzein	*enzyme form SULT1E1, 7-sulfate formation
+KCAT	Homo sapiens	0.1065	daidzein	*enzyme form SULT1E1, 4'-sulfate formation
+KCAT	Rattus norvegicus	0.783	2-naphthol	*isoenzyme I
+KCAT	Rattus norvegicus	0.783	2-naphthol	*isoenzyme I
+KCAT	Rattus norvegicus	0.9	2-naphthol	*isoenzyme II
+KCAT	Rattus norvegicus	0.9	2-naphthol	*isoenzyme II
+KCAT	Rattus norvegicus	0.667	4-Chlorophenol	*isoenzyme II
+KCAT	Rattus norvegicus	0.8	4-Chlorophenol	*isoenzyme I
+KCAT	Rattus norvegicus	0.01	5-hydroxytryptamine	*isoenzyme II
+KCAT	Rattus norvegicus	0.025	5-hydroxytryptamine	*isoenzyme I
+KCAT	Rattus norvegicus	1.55	4-methoxyphenol	*isoenzyme I
+KCAT	Rattus norvegicus	1.55	4-methoxyphenol	*isoenzyme I
+KCAT	Rattus norvegicus	2	4-methoxyphenol	*isoenzyme II
+KCAT	Rattus norvegicus	2	4-methoxyphenol	*isoenzyme II
+KCAT	Rattus norvegicus	0.733	2-chlorophenol	*isoenzyme I
+KCAT	Rattus norvegicus	0.6	5-hydroxyindole	*isoenzyme II
+KCAT	Rattus norvegicus	0.65	5-hydroxyindole	*isoenzyme I
+KCAT	Homo sapiens	0.00183	daidzein 4'-sulfate	*enzyme form SULT1A1
+KCAT	Homo sapiens	0.063	daidzein 4'-sulfate	*enzyme form SULT1E1
+KCAT	Homo sapiens	0.00116	genistein 7-sulfate	*enzyme form SULT1A1
+KCAT	Homo sapiens	0.06	genistein 7-sulfate	*enzyme form SULT1E1
+KCAT	Homo sapiens	0.0067	genistein 4'-sulfate	*enzyme form SULT1A1
+KCAT	Homo sapiens	0.035	genistein 4'-sulfate	*enzyme form SULT1E1
+KCAT	Rattus norvegicus	0.65	3-hydroxyindole	*
+KCAT	Rattus norvegicus	0.733	3-hydroxyindole	*isoenzyme I
+KCAT	Homo sapiens	0.00016	daidzein 7-sulfate	*enzyme form SULT1A1
+KCAT	Homo sapiens	0.076	daidzein 7-sulfate	*enzyme form SULT1E1
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Rattus norvegicus	-999	more	*

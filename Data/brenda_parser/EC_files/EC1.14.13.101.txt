@@ -1,0 +1,5 @@
+KCAT	Zonocerus variegatus	0.37	atropine	*in 100 mM glycine/NaOH buffer pH 9.0, at 37&Acirc;&deg;C
+KCAT	Zonocerus variegatus	0.99	senecionine	*in 100 mM glycine/NaOH buffer pH 9.0, at 37&Acirc;&deg;C
+KCAT	Zonocerus variegatus	0.96	monocrotaline	*in 100 mM glycine/NaOH buffer pH 9.0, at 37&Acirc;&deg;C
+KCAT	Zonocerus variegatus	0.12	heliotrine	*in 100 mM glycine/NaOH buffer pH 9.0, at 37&Acirc;&deg;C
+KCAT	Zonocerus variegatus	0.13	phalaenopsine	*in 100 mM glycine/NaOH buffer pH 9.0, at 37&Acirc;&deg;C

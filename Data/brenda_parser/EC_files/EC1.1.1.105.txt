@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	0.02	all-trans-retinol	*37&deg;C
+KCAT	Kangiella koreensis	0.028	all-trans-retinal	*at pH 6.5 and 60&deg;C

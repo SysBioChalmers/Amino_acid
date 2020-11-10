@@ -1,0 +1,5 @@
+KCAT	Zea mays	0.01	cis-zeatin	*
+KCAT	Zea mays	0.03	o-topolin	*
+KCAT	Oryza sativa Japonica Group	0.16	cis-zeatin	*pH 7.0, 30&deg;C
+KCAT	Oryza sativa Japonica Group	0.53	cis-zeatin	*pH 6.0, 30&deg;C
+KCAT	Oryza sativa Japonica Group	0.9	cis-zeatin	*pH 6.0, 30&deg;C

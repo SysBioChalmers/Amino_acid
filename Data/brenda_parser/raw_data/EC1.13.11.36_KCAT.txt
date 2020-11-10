@@ -1,0 +1,1 @@
+ecNumber*1.13.11.36#turnoverNumber*13.3#turnoverNumberMaximum*#substrate*catechol#commentary*#organism*Phenylobacterium immobile#ligandStructureId*156#literature*439433#

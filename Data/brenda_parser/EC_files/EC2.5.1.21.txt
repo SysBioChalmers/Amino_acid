@@ -1,0 +1,6 @@
+KCAT	Methylococcus capsulatus	0.478	NADPH	*pH 8.0, 33&Acirc;&deg;C, recombinant enzyme
+KCAT	Methylococcus capsulatus	0.478	(2E,6E)-farnesyl diphosphate	*pH 8.0, 33&Acirc;&deg;C, recombinant enzyme
+KCAT	Mortierella alpina	0.48	(2E,6E)-farnesyl diphosphate	*pH 7.2, 37&Acirc;&deg;C, recombinant mutant E186K enzyme
+KCAT	Saccharomyces cerevisiae	0.53	farnesyl diphosphate	*cosubstrate + NAD(P)H
+KCAT	Thermosynechococcus elongatus	1.74	farnesyl diphosphate	*
+KCAT	Saccharomyces cerevisiae	3.3	farnesyl diphosphate	*in presence of 1% Tween 80 and Mg2+

@@ -1,0 +1,3 @@
+KCAT	Xanthobacter autotrophicus	0.072	2-(2-oxopropylthio)ethanesulfonate	*mutant M140A, pH 7.4, 30&deg;C
+KCAT	Xanthobacter autotrophicus	0.22	2-(2-oxopropylthio)ethanesulfonate	*wild-type, pH 7.4, 30&deg;C
+KCAT	Xanthobacter sp.	0.263	acetoacetate	*

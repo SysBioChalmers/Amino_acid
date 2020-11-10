@@ -1,0 +1,137 @@
+KCAT	Methanosarcina thermophila	0.11	ATP	*mutant R91A, pH 7.0
+KCAT	Methanosarcina thermophila	0.22	ATP	*mutant R91L, pH 7.0
+KCAT	Escherichia coli	0.34	ATP	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant N213T/G332D/E336L/T385N
+KCAT	Methanosarcina thermophila	0.4	ATP	*R241K/Q43W, double mutant
+KCAT	Methanosarcina thermophila	0.68	ATP	*mutant R241A, pH 7.0
+KCAT	Methanosarcina thermophila	1.3	ATP	*mutant R241K, pH 7.0
+KCAT	Methanosarcina thermophila	1.38	ATP	*mutant R241L, pH 7.0
+KCAT	Methanosarcina thermophila	1.83	ATP	*R241A/Q43W, double mutant
+KCAT	Methanosarcina thermophila	2.07	ATP	*R91A/Q43W, double mutant
+KCAT	Methanosarcina thermophila	2.2	ATP	*mutant F179A, pH 7.0
+KCAT	Methylomicrobium alcaliphilum	2.36	ATP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Methanosarcina thermophila	3.7	ATP	*mutant R91K, pH 7.0
+KCAT	Methanosarcina thermophila	6.8	ATP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G239S
+KCAT	Escherichia coli	9.9	ATP	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant G332D
+KCAT	Escherichia coli	10.5	ATP	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant I334M
+KCAT	Methanosarcina thermophila	11.8	ATP	*R91K/Q43W, double mutant
+KCAT	Methanosarcina thermophila	13	ATP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme N211S
+KCAT	Methanosarcina thermophila	16	ATP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331Q
+KCAT	Escherichia coli	16.3	ATP	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant N213T
+KCAT	Methanosarcina thermophila	32	ATP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme N211T
+KCAT	Escherichia coli	41	ATP	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant G333Q
+KCAT	Methanosarcina thermophila	77	ATP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G239A
+KCAT	Methanosarcina thermophila	88	ATP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331A
+KCAT	Methanosarcina thermophila	132	ATP	*mutant P232A, pH 7.0
+KCAT	Methanosarcina thermophila	150	ATP	*mutant L122A, pH 7.0
+KCAT	Shewanella sp.	205	ATP	*pH 7.5, 10&Acirc;&deg;C, recombinant enzyme
+KCAT	Shewanella sp.	235	ATP	*pH 7.5, 15&Acirc;&deg;C, recombinant enzyme
+KCAT	Clostridium acetobutylicum	238	ATP	*pH 7.0, 36&Acirc;&deg;C
+KCAT	Acholeplasma laidlawii	268	ATP	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Shewanella sp.	305	ATP	*pH 7.5, 20&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	347	ATP	*mutant V93G, pH 7.0
+KCAT	Shewanella sp.	350	ATP	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	374	ATP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme N211A
+KCAT	Escherichia coli	395	ATP	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant N337E
+KCAT	Escherichia coli	565	ATP	*pH 7.5, 10&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	699	ATP	*Q43W, mutant
+KCAT	Methanosarcina thermophila	715	ATP	*37&Acirc;&deg;C, pH 7.0-7.5, wild-type enzyme
+KCAT	Escherichia coli	745	ATP	*pH 7.5, 15&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	844	ATP	*mutant V93A, pH 7.0
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	870	ATP	*co-substrate: formate, pH 7.5, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	900	ATP	*co-substrate: propionate, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	908	ATP	*pH 6.5, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Methanosarcina thermophila	913	ATP	*wild-type, pH 7.0
+KCAT	Methanosarcina thermophila	913	ATP	*wild-type
+KCAT	Methanosarcina thermophila	1055	ATP	*wild-type, pH 7.0
+KCAT	Escherichia coli	1130	ATP	*pH 7.5, 20&Acirc;&deg;C, recombinant enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1170	ATP	*co-substrate: acetate, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1500	ATP	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	0.42	ADP	*mutant R241L, pH 7.4
+KCAT	Methylomicrobium alcaliphilum	1.28	ADP	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Methanosarcina thermophila	2.63	ADP	*R91A/Q43W, double mutant
+KCAT	Methanosarcina thermophila	3.5	ADP	*mutant R91A, pH 7.4
+KCAT	Methanosarcina thermophila	4.5	ADP	*mutant R241A, pH 7.4; mutant R241K, pH 7.4
+KCAT	Methanosarcina thermophila	7.7	ADP	*mutant R91L, pH 7.4
+KCAT	Methanosarcina thermophila	10.5	ADP	*R241K/Q43W, double mutant
+KCAT	Methanosarcina thermophila	14.6	ADP	*R241A/Q43W, double mutant
+KCAT	Methanosarcina thermophila	23	ADP	*mutant R91K, pH 7.4
+KCAT	Methanosarcina thermophila	25.7	ADP	*R91K/Q43W, double mutant
+KCAT	Acholeplasma laidlawii	177	ADP	*pH 7.4, 25&Acirc;&deg;C, 0.5 M NaCl
+KCAT	Acholeplasma laidlawii	318	ADP	*pH 7.4, 25&Acirc;&deg;C, 0.5 M NaCl
+KCAT	Clostridium acetobutylicum	532	ADP	*pH 7.0, 36&Acirc;&deg;C
+KCAT	Shewanella sp.	884	ADP	*pH 7.5, 10&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	892	ADP	*pH 7.5, 10&Acirc;&deg;C, recombinant enzyme
+KCAT	Acholeplasma laidlawii	1000	ADP	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Methanosarcina thermophila	1255	ADP	*wild-type
+KCAT	Methanosarcina thermophila	1260	ADP	*wild-type, pH 7.4
+KCAT	Shewanella sp.	1350	ADP	*pH 7.5, 15&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	1565	ADP	*pH 7.5, 15&Acirc;&deg;C, recombinant enzyme
+KCAT	Shewanella sp.	1700	ADP	*pH 7.5, 20&Acirc;&deg;C, recombinant enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1750	ADP	*co-substrate: acetate, pH 7.5, 37&Acirc;&deg;C
+KCAT	Shewanella sp.	2135	ADP	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	2178	ADP	*pH 7.5, 20&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	2650	ADP	*Q43W, mutant
+KCAT	Escherichia coli	3515	ADP	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	8.6	GTP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331Q
+KCAT	Methanosarcina thermophila	67	GTP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331A
+KCAT	Methanosarcina thermophila	571	GTP	*37&Acirc;&deg;C, pH 7.0-7.5, wild-type enzyme
+KCAT	Lactococcus lactis	80	acetate	*pH 7.5, 30&Acirc;&deg;C, recombinant His-tagged isozyme AckA2
+KCAT	Methanosarcina thermophila	190	acetate	*mutant E97D, pH 7.5, 37&Acirc;&deg;C
+KCAT	Shewanella sp.	195	acetate	*pH 7.5, 10&Acirc;&deg;C, recombinant enzyme
+KCAT	Methylomicrobium alcaliphilum	233	acetate	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Methylomicrobium alcaliphilum	233.3	acetate	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Shewanella sp.	245	acetate	*pH 7.5, 15&Acirc;&deg;C, recombinant enzyme
+KCAT	Clostridium acetobutylicum	280	acetate	*pH 7.0, 36&Acirc;&deg;C
+KCAT	Shewanella sp.	300	acetate	*pH 7.5, 20&Acirc;&deg;C, recombinant enzyme
+KCAT	Shewanella sp.	385	acetate	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	560	acetate	*pH 7.5, 10&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	760	acetate	*pH 7.5, 15&Acirc;&deg;C, recombinant enzyme
+KCAT	Lactococcus lactis	761	acetate	*pH 7.5, 30&Acirc;&deg;C, recombinant His-tagged isozyme AckA1
+KCAT	Methanosarcina thermophila	1042	acetate	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1165	acetate	*pH 7.5, 20&Acirc;&deg;C, recombinant enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1180	acetate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1420	acetate	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	2.1	CTP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331Q
+KCAT	Methanosarcina thermophila	17	CTP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331A
+KCAT	Methanosarcina thermophila	460	CTP	*37&Acirc;&deg;C, pH 7.0-7.5, wild-type enzyme
+KCAT	Methanosarcina thermophila	2.8	UTP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331Q
+KCAT	Methanosarcina thermophila	43	UTP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331A
+KCAT	Methanosarcina thermophila	415	UTP	*37&Acirc;&deg;C, pH 7.0-7.5, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	880	formate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Methanosarcina thermophila	11	ITP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331Q
+KCAT	Methanosarcina thermophila	84	ITP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331A
+KCAT	Methanosarcina thermophila	742	ITP	*37&Acirc;&deg;C, pH 7.0-7.5, wild-type enzyme
+KCAT	Methanosarcina thermophila	0.37	propionate	*mutant F179A, pH 7.0
+KCAT	Methanosarcina thermophila	6.7	propionate	*mutant L122A, pH 7.0
+KCAT	Methanosarcina thermophila	8.5	propionate	*mutant P232A, pH 7.0
+KCAT	Methanosarcina thermophila	218	propionate	*wild-type, pH 7.0
+KCAT	Methanosarcina thermophila	840	propionate	*mutant V93G, pH 7.0
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	940	propionate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Methanosarcina thermophila	1029	propionate	*mutant V93A, pH 7.0
+KCAT	Methanosarcina thermophila	12	acetyl phosphate	*mutant F179A, pH 7.4
+KCAT	Lactococcus lactis	93	acetyl phosphate	*pH 7.5, 30&Acirc;&deg;C, recombinant His-tagged isozyme AckA2
+KCAT	Methylomicrobium alcaliphilum	316.7	acetyl phosphate	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Clostridium acetobutylicum	700	acetyl phosphate	*pH 7.0, 36&Acirc;&deg;C
+KCAT	Acholeplasma laidlawii	875	acetyl phosphate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Shewanella sp.	875	acetyl phosphate	*pH 7.5, 10&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	890	acetyl phosphate	*pH 7.5, 10&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	1039	acetyl phosphate	*mutant L122A, pH 7.4
+KCAT	Lactococcus lactis	1105	acetyl phosphate	*pH 7.5, 30&Acirc;&deg;C, recombinant His-tagged isozyme AckA1
+KCAT	Shewanella sp.	1340	acetyl phosphate	*pH 7.5, 15&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	1550	acetyl phosphate	*pH 7.5, 15&Acirc;&deg;C, recombinant enzyme
+KCAT	Shewanella sp.	1700	acetyl phosphate	*pH 7.5, 20&Acirc;&deg;C, recombinant enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1764	acetyl phosphate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Shewanella sp.	2100	acetyl phosphate	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	2150	acetyl phosphate	*pH 7.5, 20&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	2396	acetyl phosphate	*mutant P232A, pH 7.4
+KCAT	Methanosarcina thermophila	2572	acetyl phosphate	*mutant V93G, pH 7.4
+KCAT	Methanosarcina thermophila	2680	acetyl phosphate	*wild-type, pH 7.4
+KCAT	Methylomicrobium alcaliphilum	3167	acetyl phosphate	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	3600	acetyl phosphate	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina thermophila	3869	acetyl phosphate	*mutant V93A, pH 7.4
+KCAT	Methanosarcina thermophila	0.18	Butyrate	*wild-type, pH 7.0
+KCAT	Methanosarcina thermophila	42.4	Butyrate	*mutant V93A, pH 7.0
+KCAT	Methanosarcina thermophila	294	Butyrate	*mutant V93G, pH 7.0
+KCAT	Methanosarcina thermophila	2.8	TTP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331Q
+KCAT	Methanosarcina thermophila	20	TTP	*37&Acirc;&deg;C, pH 7.0-7.5, mutant enzyme G331A
+KCAT	Methanosarcina thermophila	540	TTP	*37&Acirc;&deg;C, pH 7.0-7.5, wild-type enzyme

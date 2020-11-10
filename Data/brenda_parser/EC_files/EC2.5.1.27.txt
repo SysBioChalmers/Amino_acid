@@ -1,0 +1,17 @@
+KCAT	Agrobacterium tumefaciens	0.00023	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	*mutant Y211T
+KCAT	Agrobacterium tumefaciens	0.00058	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	*mutant H214L
+KCAT	Agrobacterium tumefaciens	0.001	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	*mutant D173G
+KCAT	Agrobacterium tumefaciens	0.002	dimethylallyl diphosphate	*mutant Y211T
+KCAT	Humulus lupulus	0.00828	AMP	*pH 8.0, 25&deg;C
+KCAT	Agrobacterium tumefaciens	0.01	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	*mutant E210N
+KCAT	Humulus lupulus	0.022	ATP	*pH 8.0, 25&deg;C
+KCAT	Agrobacterium tumefaciens	0.023	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	*mutant E213Q
+KCAT	Agrobacterium tumefaciens	0.023	dimethylallyl diphosphate	*mutant D173G; mutant E210N
+KCAT	Morus alba	0.0235	ADP	*
+KCAT	Humulus lupulus	0.024	ADP	*pH 8.0, 25&deg;C
+KCAT	Agrobacterium tumefaciens	0.025	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	*wild-type
+KCAT	Humulus lupulus	0.027	dimethylallyl diphosphate	*pH 8.0, 25&deg;C
+KCAT	Agrobacterium tumefaciens	0.033	dimethylallyl diphosphate	*mutant E213Q
+KCAT	Morus alba	0.0345	dimethylallyl diphosphate	*
+KCAT	Agrobacterium tumefaciens	0.053	dimethylallyl diphosphate	*wild-type
+KCAT	Agrobacterium tumefaciens	0.09	dimethylallyl diphosphate	*mutant H214L

@@ -1,0 +1,12 @@
+KCAT	Oryctolagus cuniculus	0.076	L-gamma-glutamylcyclopentylamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.18	L-gamma-glutamyl-beta-alanine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.18	L-gamma-glutamylneohexylamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.19	L-gamma-glutamyl-2-methylbutylamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.2	Nepsilon-(L-gamma-glutamyl)-L-lysine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.21	L-gamma-glutamyl-(2S)-2-methylbutylamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.21	L-gamma-glutamyl-n-butylamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.23	L-gamma-glutamyl-n-propylamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.25	Nepsilon-(L-gamma-glutamyl)-D-lysine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.26	S-(cyclohexylamine)-L-cysteine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.27	S-(n-butylcarbamyl)-L-cysteine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Oryctolagus cuniculus	0.4	L-gamma-glutamylbenzylamine	*pH not specified in the publication, temperature not specified in the publication

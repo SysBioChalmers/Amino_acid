@@ -1,0 +1,22 @@
+KCAT	Escherichia virus T4	-999	more	*the kinetic mechanism of single-turnover nick sealing by T4 Rnl2-AMP is explored by using a rapid mix-quench method and the effects of 3'-OH mispairs and base damage lesions on the rates of nick 5'-adenylylation and phosphodiester synthesis is determined. With respect to the sealing of perfectly paired nicks the rates of step 2 catalysis are rapid (9.5-17.9/sec) and similar in magnitude to the step 3 rates (7.9-32/sec). Rnl2 is kinetically sensitive to all 3'-OH base mispairs
+KCAT	Escherichia virus T4	0.017	GTP	*pH 7.4, 37&deg;C
+KCAT	Escherichia virus T4	0.028	etidronate	*
+KCAT	synthetic construct	0.05	(RNA)n	*pH 6.0, 22&deg;C, multiple-turnover derivatives 210t and 207t, engineered by changing the arrangement of the base pairs in the P2 stem
+KCAT	Escherichia virus T4	0.055	ATP	*pH 7.4, 30&deg;C, ATP as acceptor of AMP, Ap4A synthesis
+KCAT	synthetic construct	0.266	(RNA)n	*pH 8.0, 22&deg;C, multiple-turnover derivative 207t, engineered by changing the arrangement of the base pairs in the P2 stem
+KCAT	Escherichia virus T4	0.28	methylenebisphosphonate	*
+KCAT	Escherichia virus T4	0.29	clodronate	*
+KCAT	synthetic construct	0.583	(RNA)n	*pH 9.0, 22&deg;C, multiple-turnover derivative 207t, engineered by changing the arrangement of the base pairs in the P2 stem
+KCAT	Escherichia virus T4	0.9	isopentenyl diphosphate	*
+KCAT	synthetic construct	1.66	(ribonucleotide)n+m	*pH 8.0, 22&deg;C
+KCAT	synthetic construct	2.33	(RNA)n	*pH 8.0, 22&deg;C, multiple-turnover derivative 210t, engineered by changing the arrangement of the base pairs in the P2 stem
+KCAT	synthetic construct	2.94	(ribonucleotide)n+m	*pH 8.0, 22&deg;C
+KCAT	synthetic construct	2.94	(RNA)n	*pH 8.0, 22&deg;C, multiple-turnover derivative 210t, engineered by changing the arrangement of the base pairs in the P2 stem
+KCAT	Escherichia virus T4	3.1	dimethylallyl diphosphate	*
+KCAT	synthetic construct	6	(RNA)n	*pH 9.0, 22&deg;C, multiple-turnover derivative 210t, engineered by changing the arrangement of the base pairs in the P2 stem
+KCAT	synthetic construct	6.08	(RNA)n	*pH 9.0, 22&deg;C, multiple-turnover derivative 207t, engineered by changing the arrangement of the base pairs in the P2 stem
+KCAT	Escherichia virus T4	6.7	isopentenyl triphosphate	*
+KCAT	Escherichia virus T4	8.6	geranyl diphosphate	*
+KCAT	Escherichia virus T4	11.6	(2E,6E)-farnesyl triphosphate	*
+KCAT	Escherichia virus T4	12.1	(2E,6E)-farnesyl diphosphate	*
+KCAT	Escherichia virus T4	52.2	geranyl triphosphate	*

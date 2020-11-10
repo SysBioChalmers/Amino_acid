@@ -1,0 +1,23 @@
+KCAT	Homo sapiens	1.7	ATP	*pH 8.0, 37&Acirc;&deg;C, PAPSS 1
+KCAT	Homo sapiens	2.3	ATP	*pH 8.0, 37&Acirc;&deg;C, PAPSS 2a
+KCAT	Homo sapiens	4.4	ATP	*pH 8.0, 37&Acirc;&deg;C, PAPSS 2b
+KCAT	Arabidopsis thaliana	14.1	adenosine 5'-phosphosulfate	*oxidized wild type enzyme, at pH 7.5 and 17&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	14.1	adenosine 5'-phosphosulfate	*oxidized wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	29	adenosine 5'-phosphosulfate	*mutant enzyme D136A, at pH 7.5 and 17&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	45	adenosine 5'-phosphosulfate	*mutant enzyme D136N, at pH 7.5 and 17&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	82.3	adenosine 5'-phosphosulfate	*N-terminal truncation variant APSKDELTA96, at pH 7.5 and 17&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	136	adenosine 5'-phosphosulfate	*mutant enzyme R93A, at pH 7.5 and 17&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	203	adenosine 5'-phosphosulfate	*oxidized mutant enzyme C86A/C119A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	239	adenosine 5'-phosphosulfate	*reduced mutant enzyme C86A/C119A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	272	adenosine 5'-phosphosulfate	*wild type enzyme, at pH 7.5 and 17&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	272	adenosine 5'-phosphosulfate	*reduced wild type enzyme, at pH 7.5 and 17&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	272	adenosine 5'-phosphosulfate	*reduced wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.17	adenylyl sulfate	*mutant R40A
+KCAT	Homo sapiens	0.2	adenylyl sulfate	*deletion mutant lacking the first 50 amino acids of the N-terminus, delta50N
+KCAT	Homo sapiens	0.207	adenylyl sulfate	*mutant R37A
+KCAT	Homo sapiens	0.315	adenylyl sulfate	*deletion mutant lacking the first 34 amino acids of the N-terminus, delta34N
+KCAT	Homo sapiens	0.364	adenylyl sulfate	*wildtype adenylyl sulfate
+KCAT	Oryza sativa	2.17	adenosine-5'-phosphosulfate	*mutant enzyme C36A/C69A, at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Oryza sativa	5	adenosine-5'-phosphosulfate	*wild type enzyme, at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.09	adenosine 5'-O-(3-thiotriphosphate)	*pH 8.0
+KCAT	Escherichia coli	50	adenosine 5-phosphosulfate	*pH 8.0, 30&Acirc;&deg;C

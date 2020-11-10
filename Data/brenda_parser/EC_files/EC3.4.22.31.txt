@@ -1,0 +1,21 @@
+KCAT	Ananas comosus	0.13	benzyloxycarbonyl-Arg-Arg 4-nitroanilide	*
+KCAT	Ananas comosus	0.16	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	0.321	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	0.321	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	0.36	PLN	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	1.58	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	3.54	Benzyloxycarbonyl-Gly-Phe-citrulline 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	3.58	ALK	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	4.96	ALR	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	5.62	PLR	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	6.08	PLK	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	6.29	VLK	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	7	benzyloxycarbonyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	7	benzyloxycarbonyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	7.13	VLR	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	9.8	PLQ	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	10.9	benzoyl-Phe-Val-Arg 4-nitroanilide	*
+KCAT	Ananas comosus	13.9	benzyloxycarbonyl-Phe-Val-Arg-7-amido-4-methylcoumarin	*pH 7.4, 37&deg;C
+KCAT	Ananas comosus	21	Benzyloxycarbonyl-Phe-citrulline 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	63.8	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	63.8	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*

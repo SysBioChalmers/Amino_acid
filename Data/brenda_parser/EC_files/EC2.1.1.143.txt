@@ -1,0 +1,4 @@
+KCAT	Glycine max	0.001	24-methylenelophenol	*wild-type enzyme
+KCAT	Glycine max	0.005	24-methylenelophenol	*mutant enzyme Y83F
+KCAT	Glycine max	0.013	24(28)-methylene lophenol	*pH 7.5, 35&deg;C
+KCAT	Glycine max	0.022	24(28)-methylene lophenol	*pH 7.5, 35&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.325#turnoverNumber*5#turnoverNumberMaximum*#substrate*NADPH#commentary*pH 8.8, 45&deg;C#organism*Chlorobaculum tepidum#ligandStructureId*5#literature*286026#!ecNumber*1.1.1.325#turnoverNumber*5#turnoverNumberMaximum*#substrate*sepiapterin#commentary*pH 8.8, 45&deg;C#organism*Chlorobaculum tepidum#ligandStructureId*1452#literature*286026#

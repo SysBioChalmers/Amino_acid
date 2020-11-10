@@ -1,0 +1,1 @@
+ecNumber*1.5.99.4#turnoverNumber*0.468#turnoverNumberMaximum*#substrate*(S)-nicotine#commentary*respiratory#organism*Oryctolagus cuniculus#ligandStructureId*6751#literature*392540#!ecNumber*1.5.99.4#turnoverNumber*0.597#turnoverNumberMaximum*#substrate*(S)-nicotine#commentary*olfactory#organism*Oryctolagus cuniculus#ligandStructureId*6751#literature*392540#

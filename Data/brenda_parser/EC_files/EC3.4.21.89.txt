@@ -1,0 +1,50 @@
+KCAT	Escherichia coli	0.037	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R318A
+KCAT	Escherichia coli	0.08	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R318A
+KCAT	Escherichia coli	0.248	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R77A
+KCAT	Escherichia coli	0.27	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R222A
+KCAT	Escherichia coli	0.32	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R222K
+KCAT	Escherichia coli	0.42	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R315A
+KCAT	Escherichia coli	0.71	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R77K
+KCAT	Escherichia coli	0.96	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R226A
+KCAT	Escherichia coli	1	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R275A
+KCAT	Escherichia coli	1.02	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R315K
+KCAT	Escherichia coli	1.11	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R127A; 37&Acirc;&deg;C, pH 7.7, mutant enzyme R198A
+KCAT	Escherichia coli	1.2	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R282A; 37&Acirc;&deg;C, pH 7.7, mutant enzyme R295A
+KCAT	Escherichia coli	1.31	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R199A; 37&Acirc;&deg;C, pH 7.7, mutant enzyme R236A
+KCAT	Escherichia coli	1.44	FSASALAKI	*37&Acirc;&deg;C, pH 7.7, mutant enzyme R146A; 37&Acirc;&deg;C, pH 7.7, wild-type enzyme
+KCAT	Thermococcus kodakarensis	2	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme R221A
+KCAT	Thermococcus kodakarensis	4	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme S184A
+KCAT	Thermococcus kodakarensis	8.6	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme H191A
+KCAT	Thermococcus kodakarensis	8.8	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme D215A
+KCAT	Thermococcus kodakarensis	9.1	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme K209A
+KCAT	Thermococcus kodakarensis	16	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme E227A; 60&Acirc;&deg;C, pH 10.0, wild-type enzyme
+KCAT	Thermococcus kodakarensis	21	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme E226A
+KCAT	Thermococcus kodakarensis	23	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme K150A; 60&Acirc;&deg;C, pH 10.0, mutant enzyme R250A
+KCAT	Thermococcus kodakarensis	25	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme D277A
+KCAT	Thermococcus kodakarensis	37	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme Y165A
+KCAT	Thermococcus kodakarensis	110	Ala-Ala-Phe-4-methylcoumaryl-7-amide	*60&Acirc;&deg;C, pH 10.0, mutant enzyme S128A
+KCAT	Escherichia coli	0.00028	YFSASALA-4-methylcoumarin 7-amide	*pH 8.1, 37&Acirc;&deg;C, nD2O 0.85
+KCAT	Escherichia coli	0.00034	YFSASALA-4-methylcoumarin 7-amide	*pH 8.1, 37&Acirc;&deg;C, nD2O 0.64
+KCAT	Escherichia coli	0.000407	YFSASALA-4-methylcoumarin 7-amide	*pH 8.1, 37&Acirc;&deg;C, nD2O 0.43
+KCAT	Escherichia coli	0.000467	YFSASALA-4-methylcoumarin 7-amide	*pH 8.1, 37&Acirc;&deg;C, nD2O 0.21
+KCAT	Escherichia coli	0.000528	YFSASALA-4-methylcoumarin 7-amide	*pH 8.1, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.0212	Phe-Ser-Ala-Ser-Ala-Leu-Ala-Lys-Ile	*
+KCAT	Escherichia coli	0.024	Phe-Ser-Ala-Ser-Ala-Leu-Ala-Lys-Ile	*
+KCAT	Escherichia coli	0.001	Y-NO2-FSASALAKIK-2-aminobenzoyl-NH2	*pH 8.1, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1.5	Y-NO2-FSASALAKIK-2-aminobenzoyl-NH2	*pH 8.1, 37&Acirc;&deg;C
+KCAT	Staphylococcus aureus	67	decanoyl-LTPTAKAASKIDD-OH	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Staphylococcus aureus	418	decanoyl-LTPTAKAASKIDD-OH	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.033	Phe-Ser-Ala-Ser-Ala-Leu-Ala-Lys-Ile-NH2	*
+KCAT	Escherichia coli	0.03	FSASALA-KI	*pH 8.1, 37&Acirc;&deg;C
+KCAT	Escherichia coli	-999	more	*effect of the length of the polypeptide chain of substrates on the turnover number
+KCAT	Bacillus subtilis	0.014	preprotein substrate PONA	*pH 8.0, 37&Acirc;&deg;C, A14PONA mutant, SipS
+KCAT	Bacillus subtilis	0.034	preprotein substrate PONA	*pH 8.0, 37&Acirc;&deg;C, SipS
+KCAT	Escherichia coli	0.04	pro-ompA-nuclease	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.043	preprotein substrate PONA	*pH 8.0, 37&Acirc;&deg;C, A14PONA mutant, Lep
+KCAT	Escherichia coli	3	pro-OmpA-nuclease A	*
+KCAT	Escherichia coli	5	pro-ompA-nuclease	*pH 8.0, 37.5&Acirc;&deg;C
+KCAT	Escherichia coli	8.73	pro-ompA-nuclease	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	8.73	pro-ompA-nuclease	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	8.73	pro-OmpA-nuclease A	*
+KCAT	Escherichia coli	11	alkaline phosphatase signal peptide fused to full-length mammalian cytochrome b5	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	44	preprotein substrate PONA	*pH 8.0, 37&Acirc;&deg;C, Lep

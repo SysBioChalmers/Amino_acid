@@ -1,0 +1,2 @@
+KCAT	Delphinium grandiflorum	0.1	1-O-vanilloyl-beta-D-glucose	*pH 5.0, 30&deg;C, recombinant enzyme
+KCAT	Delphinium grandiflorum	0.17	cyanidin 3-O-beta-D-glucoside	*pH 5.0, 30&deg;C, recombinant enzyme

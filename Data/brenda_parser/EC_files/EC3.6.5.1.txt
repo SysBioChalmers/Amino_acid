@@ -1,0 +1,24 @@
+KCAT	Mus musculus	0.0018	GTP	*GtalphaQ200L
+KCAT	Oryza sativa	0.012	GTP	*30&Acirc;&deg;C, pH 5, presence of CuCl2, 2 mM
+KCAT	Mus musculus	0.019	GTP	*Gtalpha
+KCAT	Oryza sativa	0.144	GTP	*30&Acirc;&deg;C, pH 5, presence of NiCl2, 2 mM
+KCAT	Oryza sativa	0.186	GTP	*30&Acirc;&deg;C, pH 5, presence of FeCl2, 2 mM
+KCAT	Saccharolobus solfataricus	0.2	GTP	*SsEF-2, 10% glycol
+KCAT	Saccharolobus solfataricus	0.2	GTP	*50&Acirc;&deg;C
+KCAT	Oryza sativa	0.486	GTP	*30&Acirc;&deg;C, pH 5, presence of MnCl2, 2 mM
+KCAT	Oryza sativa	0.6	GTP	*30&Acirc;&deg;C, pH 6, presence of CaCl2, 2 mM
+KCAT	Saccharolobus solfataricus	0.8	GTP	*60&Acirc;&deg;C
+KCAT	Oryza sativa	1.14	GTP	*30&Acirc;&deg;C, pH 6, presence of MgCl2, 2 mM
+KCAT	Oryza sativa	1.554	GTP	*30&Acirc;&deg;C, pH 4, presence of NaCl, 2 mM
+KCAT	Saccharolobus solfataricus	1.7	GTP	*70&Acirc;&deg;C
+KCAT	Oryza sativa	1.74	GTP	*30&Acirc;&deg;C, pH 4, presence of KCl, 2 mM
+KCAT	Saccharolobus solfataricus	1.9	GTP	*SsEF-2, 40% glycol
+KCAT	Oryza sativa	2.118	GTP	*30&Acirc;&deg;C, pH 4, presence of NH4Cl, 2 mM
+KCAT	Saccharolobus solfataricus	2.7	GTP	*75&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	3.5	GTP	*80&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	6.2	GTP	*87&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	7.2	GTP	*A26GSsEF-2, 10% glycol
+KCAT	Saccharolobus solfataricus	8	GTP	*A26GSsEF-2, 0% glycol
+KCAT	Saccharolobus solfataricus	8.8	GTP	*91&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	9.9	GTP	*A26GSsEF-2, 40% glycol
+KCAT	Bos taurus	21	GTP	*alpha-subunit of transducin

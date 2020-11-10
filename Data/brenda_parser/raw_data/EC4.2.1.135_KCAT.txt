@@ -1,0 +1,1 @@
+ecNumber*4.2.1.135#turnoverNumber*0.118#turnoverNumberMaximum*#substrate*UDP-N-acetyl-alpha-D-glucosamine#commentary*pH 7.7, 37&Acirc;&deg;C, full-length GST-PglF#organism*Campylobacter jejuni#ligandStructureId*1424#literature*714160#

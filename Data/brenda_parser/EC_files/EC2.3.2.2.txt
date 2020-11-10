@@ -1,0 +1,30 @@
+KCAT	Bacillus licheniformis	0.105	5-L-glutamyl-4-nitroanilide	*
+KCAT	Escherichia coli	0.49	5-L-glutamyl-4-nitroanilide	*mutant S463T, pH 9.0, 37&deg;C
+KCAT	Escherichia coli	0.62	5-L-glutamyl-4-nitroanilide	*wild-type, pH 9.0, 37&deg;C
+KCAT	Bacillus licheniformis	1.42	5-L-glutamyl-4-nitroanilide	*mutant T399S, pH 8.0, 40&deg;C
+KCAT	Raphanus sativus	11	GSH	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A
+KCAT	Raphanus sativus	12	GSH	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+KCAT	Raphanus sativus	13	gamma-Glu-Cys	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A; 37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+KCAT	Raphanus sativus	15	5-L-glutamyl-4-nitroanilide	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+KCAT	Raphanus sativus	16	5-L-glutamyl-4-nitroanilide	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+KCAT	Raphanus sativus	20	GS-bimane	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+KCAT	Raphanus sativus	21	GS-bimane	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A
+KCAT	Raphanus sativus	23	GSSG	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A
+KCAT	Bacillus licheniformis	24.24	5-L-glutamyl-4-nitroanilide	*mutant T417S, pH 8.0, 40&deg;C
+KCAT	Raphanus sativus	27	GSSG	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+KCAT	Raphanus sativus	30	gamma-Glu-Cys	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+KCAT	Raphanus sativus	30	GSSG	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+KCAT	Raphanus sativus	31	gamma-Glu-Cys	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+KCAT	Raphanus sativus	31	GSH	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+KCAT	Raphanus sativus	32	GSH	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+KCAT	Raphanus sativus	32	GSSG	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+KCAT	Raphanus sativus	33	GS-bimane	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+KCAT	Raphanus sativus	38	5-L-glutamyl-4-nitroanilide	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+KCAT	Raphanus sativus	39	5-L-glutamyl-4-nitroanilide	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A
+KCAT	Raphanus sativus	40	GS-bimane	*37&deg;C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+KCAT	Bacillus subtilis	43.33	5-L-glutamyl-4-nitroanilide	*wild-type enzyme
+KCAT	Bacillus subtilis	56.33	5-L-glutamyl-4-nitroanilide	*mutant enzyme D445A
+KCAT	Bacillus licheniformis	97	5-L-glutamyl-4-nitroanilide	*in 1 mM MgCl2, 50 mM Tris-HCl buffer (pH 8.0), at 40&deg;C
+KCAT	Bacillus licheniformis	109.5	5-L-glutamyl-4-nitroanilide	*wild-type, pH 8.0, 40&deg;C
+KCAT	Homo sapiens	1150	4-nitroanilide	*
+KCAT	Rattus norvegicus	1250	4-nitroanilide	*

@@ -1,0 +1,1 @@
+ecNumber*1.13.11.32#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*kinetic parameters of reductive half reaction#organism*Cyberlindnera mrakii#ligandStructureId*#literature*696605#

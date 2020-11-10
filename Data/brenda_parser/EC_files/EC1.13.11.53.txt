@@ -1,0 +1,4 @@
+KCAT	Klebsiella pneumoniae	500	O2	*
+KCAT	Klebsiella pneumoniae	500	1,2-dihydroxy-3-keto-1-hexene	*
+KCAT	Mus musculus	7.87	(1Z)-1,2-dihydroxyhex-1-en-3-one	*Co2+ bound enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Mus musculus	17.1	(1Z)-1,2-dihydroxyhex-1-en-3-one	*Ni2+ bound enzyme, pH 7.0, 25&Acirc;&deg;C

@@ -1,0 +1,14 @@
+KCAT	Cryptococcus neoformans	0.0383	C6-7-nitro-2,1,3-benzoxadiazole-glucosylceramide	*isoform EGCrP1, at pH 6.0 and 37&deg;C
+KCAT	Rhodococcus hoagii	0.069	ganglioside Gb3Cer	*isoform EHCase II, pH 5.5 and 37&deg;C
+KCAT	Rhodococcus sp.	0.07	D-erythro-sphingosine	*
+KCAT	Rhodococcus sp. M-777	0.088	beta-D-Gal-(1-&gt;3)-beta-D-GalNAc-(1-&gt;4)-(alpha-Neu5Ac-(2-&gt;3))-beta-D-Gal-(1-&gt;4)-beta-D-Glc-(1&lt;-&gt;1')-ceramide	*pH 6.0, 37&deg;C
+KCAT	Rhodococcus sp.	0.12	D-erythro-dihydrosphingosine	*
+KCAT	Cryptococcus neoformans	0.53	C6-7-nitro-2,1,3-benzoxadiazole-glucosylceramide	*isoform EGCrP2, at pH 6.0 and 37&deg;C
+KCAT	Rhodococcus hoagii	5.7	ganglioside GM1a	*isoform EHCase II, pH 5.5 and 37&deg;C
+KCAT	Cryptococcus neoformans	8.8	4-methylumbelliferyl beta-D-glucoside	*isoform EGCrP2, at pH 6.0 and 37&deg;C
+KCAT	Rhodococcus hoagii	10.5	beta-D-Gal-(1-&gt;3)-beta-D-GalNAc-(1-&gt;4)-(alpha-Neu5Ac-(2-&gt;3))-beta-D-Gal-(1-&gt;4)-beta-D-Glc-(1&lt;-&gt;1')-ceramide	*pH 6.0, 37&deg;C
+KCAT	Rhodococcus hoagii	13.3	Galbeta1-6Galbeta1-6Galbeta1-1'ceramide	*
+KCAT	Cryptococcus neoformans	13.8	4-nitrophenyl-beta-D-glucoside	*isoform EGCrP2, at pH 6.0 and 37&deg;C
+KCAT	Cryptococcus neoformans	21.9	resorufin	*isoform EGCrP2, at pH 6.0 and 37&deg;C
+KCAT	Rhodococcus hoagii	85	ganglioside Gb3Cer	*isoform EHCase I, pH 5.5 and 37&deg;C
+KCAT	Rhodococcus hoagii	120	ganglioside GM1a	*isoform EHCase I, pH 5.5 and 37&deg;C

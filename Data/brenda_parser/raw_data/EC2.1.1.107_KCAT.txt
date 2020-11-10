@@ -1,0 +1,1 @@
+ecNumber*2.1.1.107#turnoverNumber*38#turnoverNumberMaximum*#substrate*uroporphyrinogen III#commentary*#organism*Pseudomonas denitrificans (nomen rejiciendum)#ligandStructureId*2363#literature*485085#

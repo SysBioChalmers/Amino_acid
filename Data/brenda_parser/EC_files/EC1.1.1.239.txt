@@ -1,0 +1,115 @@
+KCAT	Oryctolagus cuniculus	0.004	NAD+	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.025	NAD+	*pH 7.4, 25&Acirc;&deg;C, with substrate S-tetralol
+KCAT	Oryctolagus cuniculus	0.1	NAD+	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.283	NAD+	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.123	NADH	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.167	NADH	*pH 7.4, 25&Acirc;&deg;C, with substrate S-camphorquinone
+KCAT	Oryctolagus cuniculus	0.217	NADH	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.683	NADH	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.0917	NADP+	*pH 7.4, 25&Acirc;&deg;C, with substrate S-camphorquinone
+KCAT	Oryctolagus cuniculus	0.0079	testosterone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0082	testosterone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.098	testosterone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.417	testosterone	*
+KCAT	Oryctolagus cuniculus	0.152	9,10-phenanthrenequinone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.233	9,10-phenanthrenequinone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.617	9,10-phenanthrenequinone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.0011	estrone	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0063	17beta-estradiol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0217	17beta-estradiol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.183	isatin	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.217	isatin	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.65	isatin	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.015	geraniol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.0153	geraniol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.019	geraniol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.028	geraniol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.118	2,3-Butanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.233	2,3-Butanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.55	2,3-Butanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.49	morphine	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.00067	lithocholic acid	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.015	lithocholic acid	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.018	lithocholic acid	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.05	lithocholic acid	*
+KCAT	Oryctolagus cuniculus	0.0027	5alpha-androstane-3alpha,17beta-diol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.055	5alpha-androstane-3alpha,17beta-diol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.115	nerol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.025	Pyridine-3-aldehyde	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.085	Pyridine-3-aldehyde	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.2	Pyridine-3-aldehyde	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.045	trans-benzene dihydrodiol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.0052	5alpha-androstan-17beta-ol-3-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0103	5alpha-androstan-17beta-ol-3-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.065	5alpha-androstan-17beta-ol-3-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0033	5alpha-Androstan-3alpha-ol-17-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.058	5alpha-Androstan-3alpha-ol-17-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.0045	farnesol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.0055	farnesol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.027	farnesol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.167	5beta-androstan-3,17-dione	*
+KCAT	Mesocricetus auratus	0.283	1-Acenaphthenol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Mesocricetus auratus	0.158	5beta-pregnan-3,20-dione	*
+KCAT	Oryctolagus cuniculus	0.0023	5beta-Androstan-3alpha-ol-17-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.052	5beta-Androstan-3alpha-ol-17-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0008	geranylgeraniol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0127	geranylgeraniol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.038	geranylgeraniol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.005	5beta-Pregnan-3alpha-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0074	5beta-Pregnan-3alpha-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.023	5beta-Pregnan-3alpha-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.233	5beta-Pregnan-3alpha-ol-20-one	*
+KCAT	Mesocricetus auratus	0.028	2-Cyclohexen-1-ol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.06	2-Cyclohexen-1-ol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.072	2-Cyclohexen-1-ol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.16	2-Cyclohexen-1-ol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.155	1-phenyl-1,2-propanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.2	1-phenyl-1,2-propanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.45	1-phenyl-1,2-propanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.25	glycolithocholic acid	*
+KCAT	Mesocricetus auratus	0.02	glycochenodeoxycholic acid	*
+KCAT	Oryctolagus cuniculus	0.039	(S)-1-indanol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.1	(S)-1-indanol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.13	(S)-1-indanol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.4	(S)-1-indanol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.002	5beta-androstan-17beta-ol-3-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0032	5beta-androstan-17beta-ol-3-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0167	5beta-androstan-17beta-ol-3-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.367	5beta-androstan-17beta-ol-3-one	*
+KCAT	Mesocricetus auratus	0.032	cis-benzene dihydrodiol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.004	5beta-androstane-3alpha,17beta-diol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0122	5beta-androstane-3alpha,17beta-diol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0012	5alpha-pregnan-3alpha-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0072	5alpha-pregnan-3alpha-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.45	5alpha-androstan-3alpha,17beta-diol	*
+KCAT	Mesocricetus auratus	0.85	5beta-Androstan-3alpha,17beta-diol	*
+KCAT	Oryctolagus cuniculus	0.0143	alpha-tetralone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.07	alpha-tetralone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.2	alpha-tetralone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.267	5alpha-Pregnan-3alpha,21-diol-20-one	*
+KCAT	Oryctolagus cuniculus	0.088	benzene dihydrodiol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.127	benzene dihydrodiol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.29	benzene dihydrodiol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.148	4-oxo-2-nonenal	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.367	5beta-Pregnan-3alpha,21-diol-20-one	*
+KCAT	Oryctolagus cuniculus	0.067	Naphthalene dihydrodiol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.052	6-tert-butyl-2,3-epoxy-4-hydroxy-5-cyclohexen-1-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.108	6-tert-butyl-2,3-epoxy-4-hydroxy-5-cyclohexen-1-one	*pH 7.4, 25&Acirc;&deg;C; pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.042	(S)-1,2,3,4-tetrahydro-1-naphthol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.1	(S)-1,2,3,4-tetrahydro-1-naphthol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.105	(S)-1,2,3,4-tetrahydro-1-naphthol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.367	(S)-1,2,3,4-tetrahydro-1-naphthol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0014	4-pregnen-3alpha-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0032	4-pregnen-3alpha-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.012	4-pregnen-3alpha-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0075	beta-ionol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.028	beta-ionol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.053	beta-ionol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Oryctolagus cuniculus	0.183	(S)-camphorquinone	*pH 7.4, 25&Acirc;&deg;C; pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.98	(S)-camphorquinone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.157	16-oxoestrone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.267	16-oxoestrone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.867	16-oxoestrone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mesocricetus auratus	0.0967	beta-3-hydroxyhexobarbital	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Mesocricetus auratus	0.04	alpha-3-hydroxyhexobarbital	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Mesocricetus auratus	0.0075	(R)-1,2,3,4-tetrahydro-1-naphthol	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme

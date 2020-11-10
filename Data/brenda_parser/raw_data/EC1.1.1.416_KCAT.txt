@@ -1,0 +1,1 @@
+ecNumber*1.1.1.416#turnoverNumber*10#turnoverNumberMaximum*#substrate*Isopyridoxal#commentary*pH 8.0, 25&deg;C#organism*Arthrobacter sp. Cr-7#ligandStructureId*30098#literature*745254#

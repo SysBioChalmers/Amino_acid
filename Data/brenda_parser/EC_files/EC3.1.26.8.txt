@@ -1,0 +1,2 @@
+KCAT	Bacillus subtilis	0.00667	artificial 5S rRNA precursor	*
+KCAT	Bacillus subtilis	0.0567	artificial 5S rRNA precursor substrate in complex with BL16 subunit	*

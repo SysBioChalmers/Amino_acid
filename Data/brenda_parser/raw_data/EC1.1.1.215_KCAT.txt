@@ -1,0 +1,1 @@
+ecNumber*1.1.1.215#turnoverNumber*48.2#turnoverNumberMaximum*#substrate*2-oxo-D-gluconate#commentary*pH 7.0, 25&Acirc;&deg;C#organism*Gluconobacter oxydans#ligandStructureId*13115#literature*721369#

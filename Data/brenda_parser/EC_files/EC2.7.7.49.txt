@@ -1,0 +1,60 @@
+KCAT	Human immunodeficiency virus 1	-999	more	*
+KCAT	Human immunodeficiency virus 1	-999	more	*
+KCAT	Human immunodeficiency virus 1	-999	more	*
+KCAT	Human immunodeficiency virus 1	0.000083	dCTP	*pH and temperature not specified in the publication
+KCAT	Human immunodeficiency virus 1	0.00075	dATP	*pH and temperature not specified in the publication
+KCAT	Human immunodeficiency virus 1	0.00088	dGTP	*pH and temperature not specified in the publication
+KCAT	Streptococcus agalactiae	0.0117	deoxy-5'-CTP	*at 37&deg;C
+KCAT	Streptococcus agalactiae	0.0265	2'-deoxyadenosine 5'-triphosphate	*at 37&deg;C
+KCAT	Streptococcus agalactiae	0.034	2'-deoxythymidine 5'-triphosphate	*at 37&deg;C
+KCAT	Human immunodeficiency virus 1	0.042	(-)-beta-2',3'-dideoxy-3'-thiacytidine triphosphate	*mutant enzyme Y1152-naphthyl-Tyr
+KCAT	Human immunodeficiency virus 1	0.042	borano-3TCTP	*mutant enzyme Y1152-naphthyl-Tyr
+KCAT	Human immunodeficiency virus 1	0.07	N-cyclobutyladenosine-phosphonyl diphosphate	*pH and temperature not specified in the publication, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	0.077	2',3'-dideoxy-CTP	*mutant enzyme Y1152-naphthyl-Tyr
+KCAT	Human immunodeficiency virus 1	0.15	(-)-beta-2',3'-dideoxy-3'-thiacytidine triphosphate	*wild-type enzyme
+KCAT	Human immunodeficiency virus 1	0.15	borano-3TCTP	*wild-type enzyme
+KCAT	feline leukemia virus	0.15	dCTP	*
+KCAT	Human immunodeficiency virus 1	0.15	tenofovir diphosphate	*pH and temperature not specified in the publication, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	0.16	3'-azido-2',3'-dideoxy-2,6-diaminopurine-beta-D-ribofuranosyl 5'-triphosphate	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	0.16	(-)-beta-2',3'-dideoxy-3'-thiacytidine triphosphate	*mutant enzyme Y115aminomethyl-Phe
+KCAT	Human immunodeficiency virus 1	0.16	borano-3TCTP	*mutant enzyme Y115aminomethyl-Phe
+KCAT	feline leukemia virus	0.17	dTTP	*
+KCAT	feline leukemia virus	0.18	dATP	*
+KCAT	feline immunodeficiency virus	0.21	dATP	*
+KCAT	Human immunodeficiency virus 1	0.22	3'-azido-2',3'-dideoxy-2-amino-6-methoxypurine-beta-D-ribofuranosyl 5'-triphosphate	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	feline immunodeficiency virus	0.22	dCTP	*
+KCAT	Thermus aquaticus	0.25	dATP	*pH 9.0, 37&deg;C, recombinant mutant enzyme, N483Q/S486Q/T539N/Y545Q/D547T/P548Q/A570Q/D578Q/A597T/W604R/S612N/V730L/R736Q/S739N/M747R
+KCAT	feline immunodeficiency virus	0.28	dTTP	*
+KCAT	Human immunodeficiency virus 1	0.29	dTTP	*pH 8.0, 37&deg;C, reaction with poly(rA)*oligo(dT)20, enzyme from group O
+KCAT	Human immunodeficiency virus 1	0.35	DNAn	*pH 8.3, 25&deg;C, recombinant enzyme, HIV-1 M RT
+KCAT	Human immunodeficiency virus 1	0.35	dTTP	*pH 8.3, 25&deg;C, recombinant enzyme, HIV-1 M RT
+KCAT	Human immunodeficiency virus 1	0.37	3'-azido-2',3'-dideoxy-2-amino-6-chloropurine-beta-D-ribofuranosyl 5'-triphosphate	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	0.4	dATP	*pH and temperature not specified in the publication, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	0.47	dTTP	*pH 8.0, 37&deg;C, reaction with poly(rA)*oligo(dT)20, enzyme from group M
+KCAT	Human immunodeficiency virus 1	0.49	2',3'-dideoxy-CTP	*mutant enzyme Y115aminomethyl-Phe
+KCAT	feline immunodeficiency virus	0.51	dGTP	*
+KCAT	feline leukemia virus	0.56	dGTP	*
+KCAT	Human immunodeficiency virus 1	0.67	2',3'-dideoxy-CTP	*wild-type enzyme
+KCAT	Thermus aquaticus	0.67	dTTP	*pH 9.0, 37&deg;C, recombinant mutant enzyme, N483Q/S486Q/T539N/Y545Q/D547T/P548Q/A570Q/D578Q/A597T/W604R/S612N/V730L/R736Q/S739N/M747R
+KCAT	Human immunodeficiency virus 1	0.76	dCTP	*mutant enzyme Y115aminomethyl-Phe
+KCAT	Thermus aquaticus	0.83	dCTP	*pH 9.0, 37&deg;C, recombinant mutant enzyme, N483Q/S486Q/T539N/Y545Q/D547T/P548Q/A570Q/D578Q/A597T/W604R/S612N/V730L/R736Q/S739N/M747R
+KCAT	Human immunodeficiency virus 1	1.1	DNAn	*pH 8.3, 25&deg;C, recombinant enzyme, HIV-1 O RT
+KCAT	Human immunodeficiency virus 1	1.1	dTTP	*pH 8.3, 25&deg;C, recombinant enzyme, HIV-1 O RT
+KCAT	Human immunodeficiency virus 1	1.25	dCTP	*wild-type enzyme
+KCAT	Streptococcus agalactiae	1.33	2'-deoxyguanosine 5'-triphosphate	*at 37&deg;C
+KCAT	Human immunodeficiency virus 1	1.64	dCTP	*wild-type enzyme
+KCAT	Human immunodeficiency virus 1	2.1	3'-azido-2',3'-dideoxy-2-amino-6-N-allylaminopurine-beta-D-ribofuranosyl 5'-triphosphate	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	2.7	3'-azido-2',3'-dideoxy-2-amino-6-chloropurine-beta-D-ribofuranosyl 5'-triphosphate	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	2.8	3'-azido-2',3'-dideoxy-2-amino-6-methoxypurine-beta-D-ribofuranosyl 5'-triphosphate	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Simian foamy virus	3	deoxynucleoside triphosphate	*determined for dNTPs on a heteropolymeric single stranded M13 substrate, pH and temperature not specified in the publication, recombinant His-tagged protease domain
+KCAT	prototype foamy virus	4	deoxynucleoside triphosphate	*determined for dNTPs on a heteropolymeric single stranded M13 substrate, pH and temperature not specified in the publication, recombinant His-tagged protease domain
+KCAT	prototype foamy virus	5.5	dTTP	*determined for TTP on the homopolymeric substrate poly(rA)/oligo(dT), pH and temperature not specified in the publication, recombinant His-tagged protease domain
+KCAT	Simian foamy virus	7.1	dTTP	*determined for TTP on the homopolymeric substrate poly(rA)/oligo(dT), pH and temperature not specified in the publication, recombinant His-tagged protease domain
+KCAT	Human immunodeficiency virus 1	14	3'-azido-2',3'-dideoxy-2,6-diaminopurine-beta-D-ribofuranosyl 5'-triphosphate	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	14	3'-azido-2',3'-dideoxyadenosine triphosphate	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	17	dATP	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Human immunodeficiency virus 1	17.3	dGTP	*pH 7.5, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	29	DNAn	*pH 8.3, 25&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	29	DNAn	*pH 8.2, 37&deg;C, recombinant enzyme, substrate is poly(rA)-p(dT)45
+KCAT	Moloney murine leukemia virus	29	dTTP	*pH 8.3, 25&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	35	dTTP	*pH 8.2, 37&deg;C, recombinant enzyme

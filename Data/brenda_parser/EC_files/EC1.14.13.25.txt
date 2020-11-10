@@ -1,0 +1,6 @@
+KCAT	Methylosinus trichosporium	-999	more	*turnover numbers of component A
+KCAT	Methylococcus capsulatus	-999	more	*
+KCAT	Methylococcus capsulatus	0.23	propylene	*25&deg;C, purified enzyme
+KCAT	Methylosinus trichosporium	3.7	methane	*
+KCAT	Methylosinus trichosporium	4.4	Propene	*
+KCAT	Methylosinus trichosporium	7.6	furan	*

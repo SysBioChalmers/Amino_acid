@@ -1,0 +1,12 @@
+KCAT	Myxococcus xanthus	0.00093	3',5'-cAMP	*PdeB, in 50 mM Tris-HCl, pH 8.0, 0.05 mM MnCl2, at 40&deg;C
+KCAT	Myxococcus xanthus	0.00096	3',5'-cAMP	*PdeA, in 50 mM Tris-HCl, pH 8.0, 0.05 mM MnCl2, at 40&deg;C
+KCAT	Homo sapiens	0.3	cAMP	*
+KCAT	Homo sapiens	0.48	cGMP	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.66	cAMP	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	1.19	cGMP	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	1.56	cAMP	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	1.6	3',5'-cGMP	*wild type PDE8A1 catalytic domain, in 20 mM Tris-HCl, pH 7.5, 4 mM MnCl2, at 24&deg;C
+KCAT	Homo sapiens	4	3',5'-cAMP	*wild type PDE8A1 catalytic domain, in 20 mM Tris-HCl, pH 7.5, 4 mM MnCl2, at 24&deg;C
+KCAT	Homo sapiens	4.3	3',5'-cAMP	*mutant enzyme T748A, in 20 mM Tris-HCl, pH 7.5, 4 mM MnCl2, at 24&deg;C
+KCAT	Homo sapiens	5.4	cAMP	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	6.7	cAMP	*pH 7.5, 25&deg;C

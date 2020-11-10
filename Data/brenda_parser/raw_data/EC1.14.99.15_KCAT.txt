@@ -1,0 +1,1 @@
+ecNumber*1.14.99.15#turnoverNumber*37.9#turnoverNumberMaximum*#substrate*4-Methoxybenzoate#commentary*pH 7.4, 30&Acirc;&deg;C#organism*Rhodopseudomonas palustris#ligandStructureId*3443#literature*727349#

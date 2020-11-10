@@ -1,0 +1,96 @@
+KCAT	Homo sapiens	-999	more	*analysis of temperature dependence of pseudo-first order rate constants for enzyme-catalyzed hydrolysis of prothrombin-derived substrates, in presence and absence of Ca2+
+KCAT	Homo sapiens	0.00102	p-nitrophenyl-p'-(Nbeta,n-butyl-Nalpha-guanidino)benzoate	*
+KCAT	Homo sapiens	0.0018	p-nitrophenyl-p'-guanidinobenzoate	*
+KCAT	Homo sapiens	0.00197	p-nitrophenyl-p'-(Nbeta,n-hexyl-Nalpha-guanidino)benzoate	*
+KCAT	Homo sapiens	0.01	Fc-[RFSRPQL]-PEG	*
+KCAT	Homo sapiens	0.018	D-Phe-Pro-Lys-4-nitroanilide	*mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM NaCl
+KCAT	Homo sapiens	0.018	D-Phe-Pro-Phe-4-nitroanilide	*mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mN NaCl
+KCAT	Homo sapiens	0.065	protein C	*wild-type enzyme
+KCAT	Homo sapiens	0.11	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*mutant enzyme E217C/K224C, in Tris-HCl (pH 7.5) with 0.2 M choline chloride, at 22&deg;C
+KCAT	Homo sapiens	0.148	protein C	*mutant enzyme E229W
+KCAT	Homo sapiens	0.19	protein C	*mutant enzyme E229A
+KCAT	Homo sapiens	0.19	protein C	*mutant enzyme E229A
+KCAT	Homo sapiens	0.21	protein C	*mutant enzyme E229K
+KCAT	Homo sapiens	0.23	D-Phe-Pro-Phe-4-nitroanilide	*mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM choline chloride
+KCAT	Homo sapiens	0.26	D-Phe-Pro-Lys-4-nitroanilide	*mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM choline chloride
+KCAT	Homo sapiens	0.315	thrombin-activatable fibrinolysis inhibitor	*presence of thrombomodulin, kcat(app) value
+KCAT	Homo sapiens	0.32	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*mutant enzyme E217C/K224C, in Tris-HCl (pH 7.5) with 0.2 M NaCl, at 22&deg;C
+KCAT	Homo sapiens	0.65	protein C	*wild-type enzyme
+KCAT	Homo sapiens	1.2	Ac-Gly-Gly-Val-Arg-7-amido-4-methylcoumarin	*pH 8.0, 25&deg;C
+KCAT	Homo sapiens	1.4	D-Phe-Pro-Phe-4-nitroanilide	*wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM choline chloride
+KCAT	Homo sapiens	1.82	Fibrinopeptide A	*pH 8.0, 25&deg;C, mutant DELTAK9
+KCAT	Homo sapiens	2	D-Phe-Pro-Lys-4-nitroanilide	*wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM NaCl
+KCAT	Homo sapiens	2.53	fibrinogen	*mutant enzyme E229K
+KCAT	Homo sapiens	2.57	factor XIII	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Homo sapiens	2.94	Fibrinopeptide A	*pH 8.0, 25&deg;C, mutant DELTAK9
+KCAT	Homo sapiens	3	factor VIII(341-376) peptide	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	3.12	fibrinogen	*mutant enzyme E229W
+KCAT	Homo sapiens	3.24	factor VIII(341-376) peptide	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	3.27	tosyl-Arg ethyl ester	*0.15 M NaCl
+KCAT	Homo sapiens	3.5	D-Phe-Pro-Arg-4-nitroanilide	*wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM choline chloride
+KCAT	Homo sapiens	3.78	tosyl-Arg ethyl ester	*0.15 M NaNO3
+KCAT	Homo sapiens	4.2	PAR1 peptide	*pH 8.0, 25&deg;C, mutant DELTAK9
+KCAT	Homo sapiens	4.53	fibrinogen Aalpha chain	*mutant enzyme E229A
+KCAT	Homo sapiens	5.8	Ac-Nle-Thr-Leu-Arg-7-amido-4-methylcoumarin	*pH 8.0, 25&deg;C
+KCAT	Bos taurus	5.8	GVVPRGVNL	*pH 7.4, 25&deg;C
+KCAT	Homo sapiens	5.9	fibrinogen	*wild-type enzyme
+KCAT	Homo sapiens	6	D-Phe-Pro-Arg-4-nitroanilide	*mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM NaCl
+KCAT	Bos taurus	6.2	TVELQGVVPRGVNL	*pH 7.4, 25&deg;C
+KCAT	Homo sapiens	7.5	D-Phe-Pro-Arg-4-nitroanilide	*mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM choline chloride
+KCAT	Homo sapiens	7.88	fibrinogen	*mutant enzyme E229A
+KCAT	Homo sapiens	8.3	D-Phe-Pro-Phe-4-nitroanilide	*wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mN NaCl
+KCAT	Homo sapiens	9.33	tosyl-Arg ethyl ester	*0.15 M RbCl
+KCAT	Homo sapiens	9.4	tosyl-Arg ethyl ester	*0.15 M KCl
+KCAT	Homo sapiens	10	tosyl-Arg ethyl ester	*0.15 M CsNO3
+KCAT	Homo sapiens	10.3	tosyl-Arg ethyl ester	*0.15 M CsCl
+KCAT	Homo sapiens	12	D-Phe-Pro-Lys-4-nitroanilide	*wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM choline chloride
+KCAT	Homo sapiens	13.7	benzoyl-Arg ethyl ester	*0.15 M NaNO3
+KCAT	Homo sapiens	14	benzoyl-Arg methyl ester	*0.15 M NaCl
+KCAT	Homo sapiens	14.1	benzoyl-Arg ethyl ester	*0.15 M NaCl
+KCAT	Homo sapiens	15	benzoyl-Arg methyl ester	*0.15 M KCl
+KCAT	Homo sapiens	15	spectrozyme-TH	*pH 8.0, 25&deg;C, absence of Na+
+KCAT	Homo sapiens	15.2	benzoyl-Arg ethyl ester	*0.15 M KCl
+KCAT	Bos taurus	15.2	TVELQGLVPRGVNL	*pH 7.4, 25&deg;C
+KCAT	Homo sapiens	15.6	Ac-Leu-Gly-Val-Arg-7-amido-4-methylcoumarin	*pH 8.0, 25&deg;C
+KCAT	Homo sapiens	15.8	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*wild type enzyme, in Tris-HCl (pH 7.5) with 0.2 M choline chloride, at 22&deg;C
+KCAT	Homo sapiens	16.1	benzoyl-Arg ethyl ester	*0.15 M CsCl
+KCAT	Homo sapiens	17.8	benzoyl-Arg ethyl ester	*0.15 M CsNO3
+KCAT	Mus musculus	21	spectrozyme-TH	*mutant K222D, pH 8.0, 25&deg;C, absence of Na+
+KCAT	Homo sapiens	21.2	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*mutant enzyme R67C/I82C, in Tris-HCl (pH 7.5) with 0.2 M choline chloride, at 22&deg;C
+KCAT	Homo sapiens	22.9	factor XIII V34L mutant	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Bos taurus	24.3	GLVPRGVNL	*pH 7.4, 25&deg;C
+KCAT	Homo sapiens	25	platelet thrombin receptor peptide	*mutant enzyme E229A
+KCAT	Homo sapiens	29	D-Phe-Pro-Arg-4-nitroanilide	*wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25&deg;C, 200 mM NaCl
+KCAT	Homo sapiens	30.8	Ac-Val-Thr-Pro-Arg-7-amido-4-methylcoumarin	*pH 8.0, 25&deg;C
+KCAT	Mus musculus	32	spectrozyme-TH	*wild-type, pH 8.0, 25&deg;C, absence of Na+; wild-type, pH 8.0, 25&deg;C, presence of 0.2 M Na+
+KCAT	Homo sapiens	34	platelet thrombin receptor peptide	*wild-type enzyme
+KCAT	Homo sapiens	38	D-Phe-L-pipecolyl-L-Arg-p-nitroanilide	*mutant enzyme E229A
+KCAT	Homo sapiens	41.2	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*mutant enzyme E217C/K224C, in Tris-HCl (pH 7.5) with 0.2 M NaCl and dithiothreitol, at 22&deg;C
+KCAT	Homo sapiens	45	Ac-Nle-Thr-Pro-Arg-7-amido-4-methylcoumarin	*pH 8.0, 25&deg;C
+KCAT	Homo sapiens	45.3	Fibrinopeptide A	*pH 8.0, 25&deg;C, wild-type enzyme
+KCAT	Homo sapiens	46.6	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*wild type enzyme, in Tris-HCl (pH 7.5) with 0.2 M NaCl and dithiothreitol, at 22&deg;C
+KCAT	Homo sapiens	47.9	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*mutant enzyme E217C/K224C, in Tris-HCl (pH 7.5) with 1.0 M NaCl and dithiothreitol, at 22&deg;C
+KCAT	Homo sapiens	51	D-Phe-L-pipecolyl-L-Arg-p-nitroanilide	*wild-type enzyme
+KCAT	Homo sapiens	53.8	D-Phe-L-pipecolyl-L-Arg-p-nitroanilide	*recombinant thrombin
+KCAT	Homo sapiens	55.5	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*wild type enzyme, in Tris-HCl (pH 7.5) with 1.0 M NaCl and dithiothreitol, at 22&deg;C
+KCAT	Homo sapiens	56.5	D-Phe-L-pipecolyl-L-Arg-p-nitroanilide	*beta-thrombin
+KCAT	Homo sapiens	57	fibrinogen Aalpha chain	*wild-type enzyme
+KCAT	Homo sapiens	63.3	D-Phe-L-pipecolyl-L-Arg-p-nitroanilide	*alpha thrombin
+KCAT	Homo sapiens	75	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*wild type enzyme, in Tris-HCl (pH 7.5) with 0.2 M NaCl, at 22&deg;C
+KCAT	Homo sapiens	77.8	D-Phe-L-pipecolyl-L-Arg-p-nitroanilide	*alpha-thrombin
+KCAT	Mus musculus	80	spectrozyme-TH	*mutant K222D, pH 8.0, 25&deg;C, presence of 0.2 M Na+
+KCAT	Homo sapiens	84.4	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*mutant enzyme R67C/I82C, in Tris-HCl (pH 7.5) with 0.2 M NaCl, at 22&deg;C
+KCAT	Homo sapiens	91	spectrozyme-TH	*pH 8.0, 25&deg;C, presence of 0.2 M Na+
+KCAT	Homo sapiens	101.9	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*no additive
+KCAT	Homo sapiens	106.8	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*in the presence of 0.01 mM HD22
+KCAT	Homo sapiens	146	PAR1 peptide	*pH 8.0, 25&deg;C, wild-type enzyme
+KCAT	Homo sapiens	156.5	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*in the presence of 0.01 mM hirudin-(54-65)
+KCAT	Homo sapiens	192.8	tosyl-Gly-Pro-Arg-4-nitroanilide	*in the presence of 0.01 mM HD22
+KCAT	Homo sapiens	209.4	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	*in the presence of 0.01 mM HD1
+KCAT	Homo sapiens	217.1	di-L-Glu-L-Pro-L-Arg-4-nitroanilide	*in the presence of 0.01 mM HD1
+KCAT	Homo sapiens	231.1	di-L-Glu-L-Pro-L-Arg-4-nitroanilide	*in the presence of 0.01 mM HD22
+KCAT	Homo sapiens	234.5	tosyl-Gly-Pro-Arg-4-nitroanilide	*no additive
+KCAT	Homo sapiens	240.3	tosyl-Gly-Pro-Arg-4-nitroanilide	*in the presence of 0.01 mM HD1
+KCAT	Homo sapiens	249.5	di-L-Glu-L-Pro-L-Arg-4-nitroanilide	*no additive
+KCAT	Homo sapiens	251.6	tosyl-Gly-Pro-Arg-4-nitroanilide	*in the presence of 0.01 mM hirudin-(54-65)
+KCAT	Homo sapiens	278.6	di-L-Glu-L-Pro-L-Arg-4-nitroanilide	*in the presence of 0.01 mM hirudin-(54-65)

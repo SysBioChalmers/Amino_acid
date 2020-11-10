@@ -1,0 +1,24 @@
+KCAT	Synechocystis sp.	0.0003	ATP	*in the presence of Cl-
+KCAT	Synechocystis sp.	0.00045	ATP	*in the presence of HCO3-
+KCAT	Yersinia pestis	0.0057	ATP	*wild type enzyme, at pH 7.0, in Tris buffer at 37&deg;C
+KCAT	Yersinia pestis	0.0349	ATP	*wild type enzyme, at pH 7.5, in Tris buffer at 37&deg;C
+KCAT	Rattus norvegicus	0.0833	ATP	*
+KCAT	Yersinia pestis	0.1002	ATP	*wild type enzyme, at pH 8.0, in Tris buffer at 37&deg;C
+KCAT	Yersinia pestis	0.2519	ATP	*wild type enzyme, at pH 8.5, in Tris buffer at 37&deg;C
+KCAT	Yersinia pestis	0.4943	ATP	*wild type enzyme, at pH 9.0, in Tris buffer at 37&deg;C
+KCAT	Yersinia pestis	0.7449	ATP	*wild type enzyme, at pH 9.5, in Tris buffer at 37&deg;C
+KCAT	Yersinia pestis	0.8368	ATP	*wild type enzyme, at pH 10.0, in Tris buffer at 37&deg;C
+KCAT	Yersinia pestis	0.889	ATP	*wild type enzyme, at pH 10.4, in Tris buffer at 37&deg;C
+KCAT	Bos taurus	1.33	ATP	*
+KCAT	Escherichia coli	1.67	ATP	*
+KCAT	Glutamicibacter nicotianae	1.67	ATP	*
+KCAT	Rattus norvegicus	8.8	ATP	*after activation of soluble AC with the stimulatory G protein alpha protein and GTP-gamma-S in the presence of Mn2+
+KCAT	Mammalia	12	ATP	*
+KCAT	Rattus norvegicus	15.5	ATP	*after activation of soluble AC with the stimulatory G protein alpha protein and GTP-gamma-S in the presence of Mg2+
+KCAT	Rattus norvegicus	34	ATP	*
+KCAT	Bordetella pertussis	450	ATP	*
+KCAT	Bordetella pertussis	650	ATP	*mutant enzyme R338A/D360A, at pH 8.0 and 30&deg;C
+KCAT	Bordetella pertussis	1180	ATP	*
+KCAT	Bordetella pertussis	2250	ATP	*mutant enzyme N347A, at pH 8.0 and 30&deg;C
+KCAT	Bordetella pertussis	4600	ATP	*wild type enzyme, at pH 8.0 and 30&deg;C
+KCAT	Bordetella pertussis	6000	ATP	*mutant enzyme R338A/D360A, at pH 8.0 and 30&deg;C

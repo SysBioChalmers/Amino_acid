@@ -1,0 +1,2 @@
+KCAT	Thauera aromatica	24	4-hydroxybenzoate	*pH and temperature not specified in the publication
+KCAT	Pseudomonas sp.	30	4-hydroxybenzoate	*pH 7.8, 37&deg;C

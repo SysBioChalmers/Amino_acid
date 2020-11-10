@@ -1,0 +1,1 @@
+ecNumber*1.8.1.6#turnoverNumber*30.3#turnoverNumberMaximum*#substrate*L-cystine#commentary*pH 7.5, 22&deg;C, wild-type enzyme TRP14#organism*Homo sapiens#ligandStructureId*1218#literature*743682#

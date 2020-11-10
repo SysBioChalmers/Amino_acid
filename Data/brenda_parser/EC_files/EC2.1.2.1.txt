@@ -1,0 +1,69 @@
+KCAT	Oryctolagus cuniculus	-999	more	*
+KCAT	Macaca radiata	-999	more	*
+KCAT	Mus musculus	-999	more	*
+KCAT	Glycine max	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Trichomonas vaginalis	0.005	tetrahydrofolate	*mutant K251R, without pyridoxal phosphate
+KCAT	Ovis aries	0.01	L-serine	*mutant enzyme E74Q
+KCAT	Oryctolagus cuniculus	0.02	L-Ser	*mutant enzyme E75Q
+KCAT	Homo sapiens	0.02	tetrahydrofolate	*mutant S394N, in the presence of pyridoxal phosphate
+KCAT	Homo sapiens	0.02167	tetrahydrofolate	*mutant L474F, in the presence of pyridoxal phosphate
+KCAT	Oryctolagus cuniculus	0.033	tetrahydrofolate	*mutant L474F, in the presence of pyridoxal phosphate
+KCAT	Homo sapiens	0.04	tetrahydrofolate	*wild-type, in the presence of pyridoxal phosphate
+KCAT	Oryctolagus cuniculus	0.045	tetrahydrofolate	*mutant S394N, in the presence of pyridoxal phosphate
+KCAT	Oryctolagus cuniculus	0.07	tetrahydrofolate	*wild-type, in the presence of pyridoxal phosphate
+KCAT	Ovis aries	0.0967	L-serine	*mutant enzyme Y82F
+KCAT	Escherichia coli	0.12	L-Ser	*mutant enzyme P264G
+KCAT	Escherichia coli	0.12	tetrahydrofolate	*mutant enzyme P264G
+KCAT	Plasmodium falciparum	0.16	L-serine	*in 50 mM Tris-HCl pH 8.0, at 37&deg;C
+KCAT	Ovis aries	0.2	L-Ser	*pH 7.4, 37&deg;C, mutant enzyme S52C
+KCAT	Plasmodium falciparum	0.246	D-serine	*apparent value, in 50 mM HEPES, pH 8.0 containing 0.5 mM EDTA, 1 mM dithiothreitol, at 25&deg;C
+KCAT	Plasmodium vivax	0.26	D-serine	*in 50 mM HEPES buffer (pH 7.0), at 25&deg;C
+KCAT	Plasmodium falciparum	0.43	L-serine	*in phosphate buffer, pH 7.45, at 25&deg;C
+KCAT	Escherichia coli	0.6	L-Ser	*mutant enzyme P216G
+KCAT	Escherichia coli	0.6	tetrahydrofolate	*mutant enzyme P216G
+KCAT	Ovis aries	0.7	L-Ser	*pH 7.4, 37&deg;C, mutant enzyme S52A
+KCAT	Ovis aries	0.7	L-serine	*mutant enzyme
+KCAT	Plasmodium falciparum	0.74	L-serine	*in 50 mM HEPES buffer, pH 7.45, at 25&deg;C
+KCAT	Ovis aries	0.8	L-Ser	*pH 7.4, 37&deg;C, mutant enzyme R262A
+KCAT	Plasmodium vivax	0.98	L-serine	*in 50 mM HEPES buffer (pH 7.0), at 25&deg;C
+KCAT	Plasmodium vivax	0.98	tetrahydrofolate	*in 50 mM HEPES buffer (pH 7.0), at 25&deg;C
+KCAT	Plasmodium vivax	1.09	L-serine	*pH 7.0-8.0, 25&deg;C
+KCAT	Trichomonas vaginalis	1.13	tetrahydrofolate	*mutant K251R, in the presence of 0.25 mM pyridoxal phosphate
+KCAT	Trichomonas vaginalis	1.29	tetrahydrofolate	*wild-type, without pyridoxal phosphate
+KCAT	Trichomonas vaginalis	1.3	tetrahydrofolate	*wild-type, in the presence of 0.25 mM pyridoxal phosphate
+KCAT	Escherichia coli	1.6	L-Ser	*mutant enzyme P264A
+KCAT	Escherichia coli	1.6	tetrahydrofolate	*mutant enzyme P264A
+KCAT	Homo sapiens	2	L-serine	*pH 7.0, 25&deg;C, recombinant enzyme, in HEPES buffer
+KCAT	Escherichia coli	3.3	L-Ser	*mutant enzyme P214A; mutant enzyme P214G; mutant enzyme P216A; mutant enzyme P218G
+KCAT	Escherichia coli	3.3	tetrahydrofolate	*mutant enzyme P214A; mutant enzyme P214G; mutant enzyme P216A; mutant enzyme P218G
+KCAT	Methanocaldococcus jannaschii	3.53	L-Ser	*pH 7.4, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	3.53	tetrahydromethanopterin	*pH 7.4, 37&deg;C
+KCAT	Geobacillus stearothermophilus	3.6	L-serine	*only tetrameric form
+KCAT	Geobacillus stearothermophilus	3.9	L-serine	*mutant enzyme F315G, at 37&deg;C; wild type enzyme, at 37&deg;C
+KCAT	Ovis aries	4.1	L-serine	*
+KCAT	Ovis aries	4.2	L-Ser	*pH 7.4, 37&deg;C, wild-type enzyme
+KCAT	Ovis aries	4.2	L-serine	*
+KCAT	Geobacillus stearothermophilus	4.3	L-serine	*
+KCAT	Escherichia coli	4.5	L-Ser	*mutant enzyme P218A
+KCAT	Escherichia coli	4.5	tetrahydrofolate	*mutant enzyme P218A
+KCAT	Hydrogenobacter thermophilus	5	glycine	*pH 7.5, 70&deg;C
+KCAT	Escherichia coli	5	L-Ser	*wild-type enzyme
+KCAT	Geobacillus stearothermophilus	5	L-serine	*only dimeric form
+KCAT	Escherichia coli	5	tetrahydrofolate	*wild-type enzyme
+KCAT	Danio rerio	5.85	L-serine	*
+KCAT	Escherichia coli	6.7	L-serine	*mutant enzyme L276A, at 20&deg;C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA; mutant enzyme L85A/L276A, at 20&deg;C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA
+KCAT	Danio rerio	8.95	serine	*
+KCAT	Psychromonas ingrahamii	9.25	L-serine	*pH 7.2, 20&deg;C
+KCAT	Homo sapiens	9.58	L-serine	*
+KCAT	Oryctolagus cuniculus	10	L-Ser	*recombinant wild-type enzyme
+KCAT	Oryctolagus cuniculus	10.5	L-serine	*
+KCAT	Escherichia coli	10.7	L-serine	*
+KCAT	Escherichia coli	10.8	L-serine	*mutant enzyme L85A, at 20&deg;C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA
+KCAT	Escherichia coli	11.4	L-serine	*wild type enzyme, at 20&deg;C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA
+KCAT	Escherichia coli	13.17	L-serine	*pH 7.2, 20&deg;C
+KCAT	Oryctolagus cuniculus	14.2	L-serine	*recombinant enzyme
+KCAT	Homo sapiens	15	L-serine	*pH 7.0, 25&deg;C, recombinant enzyme, in phosphate buffer
+KCAT	Arabidopsis thaliana	15.8	tetrahydrofolate	*pH 8.5, temperature not specified in the publication, recombinant AtSHMT3
+KCAT	Hydrogenobacter thermophilus	18.7	L-serine	*pH 7.5, 70&deg;C
+KCAT	Escherichia coli	640	L-serine	*wild-type enzyme, pH and temperature not specified in the publication

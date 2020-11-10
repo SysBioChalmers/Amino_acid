@@ -1,0 +1,1 @@
+ecNumber*3.2.1.213#turnoverNumber*261#turnoverNumberMaximum*#substrate*beta-D-Gal(1-&gt;6)-beta-D-Gal-(1-&gt;6)-D-Gal#commentary*pH 4.5, 40&deg;C#organism*Bifidobacterium longum subsp. Longum#ligandStructureId*#literature*752571#

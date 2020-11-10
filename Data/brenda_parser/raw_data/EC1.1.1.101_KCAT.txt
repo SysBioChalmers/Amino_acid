@@ -1,0 +1,1 @@
+ecNumber*1.1.1.101#turnoverNumber*100#turnoverNumberMaximum*#substrate*NADPH#commentary*#organism*Cavia porcellus#ligandStructureId*5#literature*285690#

@@ -1,0 +1,6 @@
+KCAT	Euglena gracilis	160	D-gulono-1,5-lactone	*recombinant enzyme
+KCAT	Euglena gracilis	192	D-glucono-1,5-lactone	*wild type enzyme
+KCAT	Euglena gracilis	450	L-galactono-1,4-lactone	*recombinant enzyme
+KCAT	Euglena gracilis	615	L-galactonic acid	*recombinant enzyme
+KCAT	Euglena gracilis	1040	L-gulono-1,4-lactone	*recombinant enzyme
+KCAT	Euglena gracilis	1503	L-Gulonic acid	*recombinant enzyme

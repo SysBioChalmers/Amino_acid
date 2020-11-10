@@ -1,0 +1,2 @@
+KCAT	Saccharolobus solfataricus	1.08	D-galactonate	*pH 6.0, 70&deg;C
+KCAT	Saccharolobus solfataricus	10.4	D-gluconate	*pH 6.0, 70&deg;C

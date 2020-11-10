@@ -1,0 +1,20 @@
+KCAT	Streptomyces albus	0.000483	L-valine	*K79A mutant
+KCAT	Streptomyces albus	0.0252	L-valine	*K91A mutant
+KCAT	Streptomyces albus	5.7	L-valine	*A124G mutant
+KCAT	Streptomyces cinnamonensis	5.75	L-isoleucine	*
+KCAT	Streptomyces albus	7.22	2-oxoisovalerate	*K79A mutant
+KCAT	Streptomyces cinnamonensis	11.9	L-leucine	*
+KCAT	Streptomyces albus	13	2-oxoisovalerate	*K91A mutant
+KCAT	Streptomyces cinnamonensis	17.9	L-norleucine	*
+KCAT	Streptomyces cinnamonensis	18	L-norvaline	*
+KCAT	Streptomyces cinnamonensis	28.3	L-valine	*
+KCAT	Streptomyces albus	47.5	L-valine	*
+KCAT	Streptomyces albus	47.5	L-valine	*
+KCAT	Streptomyces cinnamonensis	71.9	2-oxoisocaproate	*
+KCAT	Streptomyces cinnamonensis	99	2-oxobutyrate	*
+KCAT	Streptomyces cinnamonensis	104	L-2-aminobutyrate	*
+KCAT	Streptomyces cinnamonensis	107	2-oxocaproate	*
+KCAT	Streptomyces cinnamonensis	114	pyruvate	*
+KCAT	Streptomyces cinnamonensis	164	2-oxovalerate	*
+KCAT	Streptomyces cinnamonensis	226	2-oxoisovalerate	*
+KCAT	Streptomyces albus	315	2-oxoisovalerate	*

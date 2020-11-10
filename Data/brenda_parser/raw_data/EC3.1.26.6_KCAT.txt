@@ -1,0 +1,1 @@
+ecNumber*3.1.26.6#turnoverNumber*28.3#turnoverNumberMaximum*#substrate*Poly(A)#commentary*#organism*Gallus gallus#ligandStructureId*1687#literature*134466#

@@ -1,0 +1,30 @@
+KCAT	Symbiobacterium thermophilum	2.92	NADPH	*mutant enzyme R35S, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	4.17	NADPH	*mutant enzyme R71A, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	6.97	NADPH	*wild type enzyme, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	17.91	NADP+	*mutant enzyme R35S, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	25.47	NADP+	*wild type enzyme, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	58.16	NADP+	*mutant enzyme R71A, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	2.96	pyruvate	*mutant enzyme R35S, at pH 8.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	3.31	pyruvate	*mutant enzyme R71A, at pH 8.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	7	pyruvate	*wild type enzyme, at pH 8.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	664	pyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant F146W/M152Q
+KCAT	Symbiobacterium thermophilum	1010	pyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant M152Q
+KCAT	Symbiobacterium thermophilum	7850	pyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Symbiobacterium thermophilum	10100	pyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant F1446W
+KCAT	Symbiobacterium thermophilum	0.11	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Symbiobacterium thermophilum	0.53	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutantT171P
+KCAT	Symbiobacterium thermophilum	0.7	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant T171S/R181F
+KCAT	Symbiobacterium thermophilum	0.88	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant T171S
+KCAT	Symbiobacterium thermophilum	1.07	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant R181F
+KCAT	Symbiobacterium thermophilum	2.09	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant T171S/R181F/H227V
+KCAT	Symbiobacterium thermophilum	2.37	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant T171S/H227V
+KCAT	Symbiobacterium thermophilum	2.48	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant H227C
+KCAT	Symbiobacterium thermophilum	3.43	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant R181F/H227V
+KCAT	Symbiobacterium thermophilum	3.98	phenylpyruvate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant H227V
+KCAT	Symbiobacterium thermophilum	29.44	meso-2,6-diaminoheptanedioate	*mutant enzyme R35S, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	40.46	meso-2,6-diaminoheptanedioate	*mutant enzyme R71A, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	40.47	meso-2,6-diaminoheptanedioate	*wild type enzyme, at pH 9.6 and 25&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	6780	meso-2,6-diaminoheptanedioate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant F146W/M152Q
+KCAT	Symbiobacterium thermophilum	15100	meso-2,6-diaminoheptanedioate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant F1446W
+KCAT	Symbiobacterium thermophilum	35700	meso-2,6-diaminoheptanedioate	*pH 8.5, 30&Acirc;&deg;C, recombinant mutant M152Q
+KCAT	Symbiobacterium thermophilum	127000	meso-2,6-diaminoheptanedioate	*pH 8.5, 30&Acirc;&deg;C, recombinant wild-type enzyme

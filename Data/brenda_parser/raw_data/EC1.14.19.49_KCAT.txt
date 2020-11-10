@@ -1,0 +1,1 @@
+ecNumber*1.14.19.49#turnoverNumber*0.0085#turnoverNumberMaximum*#substrate*(4S)-tetracycline#commentary*pH 7.4, 30&deg;C#organism*Kitasatospora aureofaciens#ligandStructureId*212547#literature*738978#

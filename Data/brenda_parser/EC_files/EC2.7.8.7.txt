@@ -1,0 +1,105 @@
+KCAT	Bacillus subtilis	-999	more	*turnover numbers with mutants of peptidyl-carrier protein as substrate
+KCAT	Pseudomonas aeruginosa	-999	more	*
+KCAT	Homo sapiens	0.000098	acetyl-CoA	*mutant D129A
+KCAT	Bacillus subtilis	0.00017	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, mutant F44M ACP substrate from Leishmania major
+KCAT	Homo sapiens	0.00025	acetyl-CoA	*mutant K185A
+KCAT	Homo sapiens	0.0003	Mg2+	*mutant K185A
+KCAT	Homo sapiens	0.00032	Mg2+	*double mutant Q112E, E181Q
+KCAT	Homo sapiens	0.00038	Mg2+	*mutant E181A
+KCAT	Homo sapiens	0.0004	acetyl-CoA	*double mutant Q112E, E181Q
+KCAT	Mycoplasma pneumoniae	0.0004	malonyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.0005	GDSLSWLLRLLN	*
+KCAT	Escherichia coli	0.0005	GDSLSWLVRLLN	*
+KCAT	Homo sapiens	0.00065	Mg2+	*mutant E181Q
+KCAT	Escherichia coli	0.0007	GDSLSWLVRCLN	*
+KCAT	Homo sapiens	0.0007	Mg2+	*mutant D129A
+KCAT	Homo sapiens	0.00072	acetyl-CoA	*mutant E181A
+KCAT	Homo sapiens	0.00073	acetyl-CoA	*mutant E181Q
+KCAT	Bacillus subtilis	0.00083	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, wild-type ACP substrate from Leishmania major
+KCAT	Mycoplasma pneumoniae	0.001	acetoacetyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Bacillus subtilis	0.001	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, mutant N35D/F44M/Q48E ACP substrate from Leishmania major
+KCAT	Escherichia coli	0.001	GDSLSWLLRCLN	*
+KCAT	Bacillus subtilis	0.0012	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, mutant N35D/F44M ACP substrate from Leishmania major
+KCAT	Escherichia coli	0.0013	GDSLSWLLRSLN	*
+KCAT	Bacillus subtilis	0.0017	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, mutant N35D/Q48E ACP substrate from Leishmania major
+KCAT	Mycoplasma pneumoniae	0.002	apo-[acyl-carrier protein]	*pH 7.5, 22&deg;C
+KCAT	Mycoplasma pneumoniae	0.002	CoA	*pH 7.5, 22&deg;C
+KCAT	Bacillus subtilis	0.0027	CoA-[4'-phosphopantetheine]	*in 100 mM Tris-HCl, pH 7.8, at 30&deg;C
+KCAT	Mycoplasma pneumoniae	0.003	myristoyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Mycoplasma pneumoniae	0.003	palmitoleoyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Bacillus subtilis	0.0038	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, mutant N35D ACP substrate from Leishmania major
+KCAT	Mycoplasma pneumoniae	0.004	butyryl-CoA	*pH 7.5, 22&deg;C
+KCAT	Mycoplasma pneumoniae	0.004	decanoyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Bacillus subtilis	0.004	GDSLDMLEWSLM	*
+KCAT	Mycoplasma pneumoniae	0.005	crotonyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Bacillus subtilis	0.0082	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, Escherichia coli mutant M44F ACP substrate
+KCAT	Mycoplasma pneumoniae	0.009	acetyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Bacillus subtilis	0.0103	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, ACP substrate from Mycobacterium tuberculosis
+KCAT	Escherichia coli	0.013	DSLEFIASKLA	*
+KCAT	Bacillus subtilis	0.014	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, Escherichia coli ACP substrate
+KCAT	Bacillus subtilis	0.0192	apo-[acyl-carrier protein]	*pH 8.0, 37&deg;C, recombinant His-tagged enzyme, ACP substrate from Plasmodium falciparum
+KCAT	Homo sapiens	0.022	Mg2+	*mutant Q112E
+KCAT	Bacillus subtilis	0.0283	apo-acyl-carrier protein	*pH 8.8, 37&deg;C, isoenzyme Sfp, 0.002-0.008 mM substrate
+KCAT	Escherichia coli	0.03	GDSLDMLEWSLM	*
+KCAT	Bacillus subtilis	0.035	apo-[BpsA protein]	*in 100 mM Tris-HCl, pH 7.8, at 30&deg;C
+KCAT	Homo sapiens	0.037	acetyl-CoA	*mutant Q112E
+KCAT	Pseudomonas putida	0.037	CoA-[4'-phosphopantetheine]	*in 100 mM Tris-HCl, pH 7.8, at 30&deg;C
+KCAT	Bacillus subtilis	0.05	GDSLSWLVRLLN	*
+KCAT	Bacillus subtilis	0.07	GDSLSWLVRCLN	*
+KCAT	Pseudomonas aeruginosa	0.075	CoA-[4'-phosphopantetheine]	*in 100 mM Tris-HCl, pH 7.8, at 30&deg;C
+KCAT	Escherichia coli	0.09	apo-[Streptomyces sp. tetracenomycin-acyl-carrier protein(His6)]	*pH 7.0, 37&deg;C, E. coli ACP
+KCAT	Bacillus subtilis	0.0967	apo-acyl-carrier protein	*pH 6.0, 33&deg;C
+KCAT	Escherichia coli	0.1	malonyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.1	malonyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	0.102	acetyl-CoA	*mutant H111A
+KCAT	Homo sapiens	0.122	Mg2+	*mutant H111A
+KCAT	Bacillus subtilis	0.14	GDSLSWLLRSLN	*
+KCAT	Escherichia coli	0.167	apo-[Streptomyces sp. oxytetracycline-acyl-carrier protein]	*pH 7.0, 37&deg;C, E. coli ACP
+KCAT	Bacillus subtilis	0.17	GDSLSWLLRCLN	*
+KCAT	Bacillus subtilis	0.17	GDSLSWLLRLLN	*
+KCAT	Bacillus subtilis	0.18	DSLEFIASKLA	*
+KCAT	Pseudomonas putida	0.183	apo-[BpsA protein]	*in 100 mM Tris-HCl, pH 7.8, at 30&deg;C
+KCAT	Streptomyces verticillus	0.183	apo-[peptidyl carrier protein]	*pH 8.0, 37&deg;C, substrate BlmI
+KCAT	Escherichia coli	0.2	acetoacetyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.2	acetoacetyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.2	acetyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.2	butyryl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.2	crotonyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Bacillus subtilis	0.208	apo-acyl-carrier protein	*pH 8.8, 37&deg;C, isoenzyme Sfp, 0.02-0.2 mM substrate
+KCAT	Bacillus subtilis	0.239	apo-peptidyl carrier protein	*pH 8.8, 37&deg;C, isoenzyme AcpS, apo-hPCP
+KCAT	Homo sapiens	0.24	acetyl-CoA	*wild-type
+KCAT	Homo sapiens	0.24	Mg2+	*wild-type
+KCAT	Streptococcus pneumoniae	0.3	butyryl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.3	CoA	*pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.317	apo-[Streptomyces sp. frenolicin-acyl-carrier protein]	*pH 7.0, 37&deg;C, E. coli ACP
+KCAT	Bacillus subtilis	0.367	apo-acyl-carrier protein	*pH 8.8, 37&deg;C, isoenzyme AcpS, 0.002-0.008 mM substrate
+KCAT	Escherichia coli	0.4	acetyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.4	palmitoleoyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.4	palmitoyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.5	apo-[Streptomyces sp. granaticin-acyl-carrier protein]	*pH 7.0, 37&deg;C, E. coli ACP
+KCAT	Streptococcus pneumoniae	0.5	decanoyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.5	myristoleoyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Streptococcus pneumoniae	0.5	myristoyl-CoA	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	0.57	acetyl-CoA	*mutant R47A
+KCAT	Streptococcus pneumoniae	0.6	apo-[acyl-carrier protein]	*pH 7.5, 22&deg;C
+KCAT	Pseudomonas aeruginosa	0.683	apo-[BpsA protein]	*in 100 mM Tris-HCl, pH 7.8, at 30&deg;C
+KCAT	Escherichia coli	0.7	apo-[acyl-carrier protein]	*pH 7.5, 22&deg;C
+KCAT	Streptomyces griseus	0.75	apo-[fredericamycin H acyl-carrier protein]	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.8	Mg2+	*mutant R47A
+KCAT	Bacillus subtilis	0.933	apo-[PCPH6SrfB2.18]	*pH 6.0, 37&deg;C
+KCAT	Streptomyces griseus	0.95	apo-[fredericamycin H acyl-carrier protein]	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.973	acetyl-CoA	*mutant R86A
+KCAT	Escherichia coli	1	CoA	*pH 7.5, 22&deg;C
+KCAT	Escherichia coli	1.03	apo-acyl-carrier protein	*pH 8.8, 37&deg;C, 250 mM NaCl
+KCAT	Escherichia coli	1.08	apo-acyl-carrier protein	*pH 8.8, 37&deg;C
+KCAT	Bacillus subtilis	1.08	apo-[EntB-ArCP-H6 Escherichia coli]	*pH 6.0, 37&deg;C
+KCAT	Escherichia coli	1.17	apo-acyl-carrier protein	*pH 8.8, 37&deg;C
+KCAT	Bacillus subtilis	1.17	apo-[Lys2-PCP-H6 Saccharomyces cerevisiae]	*pH 6.0, 37&deg;C
+KCAT	Homo sapiens	1.2	Mg2+	*mutant R86A
+KCAT	Escherichia coli	1.33	apo-acyl-carrier protein	*pH 7.0, 37&deg;C, E. coli ACP
+KCAT	Streptomyces verticillus	1.43	apo-[peptidyl carrier protein]	*pH 8.0, 37&deg;C, substrate TcmM
+KCAT	Bacillus subtilis	1.6	apo-peptidyl carrier protein	*pH 8.8, 37&deg;C, isoenzyme Sfp; pH 8.8, 37&deg;C, isoenzyme Sfp, apo-hPCP
+KCAT	Bacillus subtilis	1.7	apo-acyl-carrier protein	*pH 6.0, 37&deg;C
+KCAT	Bacillus subtilis	1.73	apo-[PCPH6SrfB1.18]	*pH 6.0, 37&deg;C
+KCAT	Bacillus subtilis	2.08	apo-acyl-carrier protein	*pH 8.8, 37&deg;C, isoenzyme AcpS, 0.02-0.2 mM substrate
+KCAT	Pseudomonas aeruginosa	2.8	CoA	*

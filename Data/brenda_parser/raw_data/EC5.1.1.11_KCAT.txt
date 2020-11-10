@@ -1,0 +1,1 @@
+ecNumber*5.1.1.11#turnoverNumber*0.25#turnoverNumberMaximum*#substrate*L-Phe#commentary*mutant A-PCP(delta-4Cys)#organism*Brevibacillus brevis#ligandStructureId*203#literature*703679#!ecNumber*5.1.1.11#turnoverNumber*0.38#turnoverNumberMaximum*#substrate*L-Phe#commentary*#organism*Brevibacillus brevis#ligandStructureId*203#literature*703679#

@@ -1,0 +1,1 @@
+KCAT	Streptomyces coelicolor	0.017	flaviolin	*pH 7.5, 37&deg;C

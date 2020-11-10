@@ -1,0 +1,7 @@
+KCAT	Lactobacillus plantarum	9.6	pyruvate	*electron acceptor: O2
+KCAT	Lactobacillus plantarum	15.5	pyruvate	*pH 6.0, 25&Acirc;&deg;C, mutant V265A
+KCAT	Lactobacillus plantarum	16	pyruvate	*electron acceptor: O2
+KCAT	Lactobacillus plantarum	17.9	pyruvate	*electron acceptor: 2,6-dichlorophenolindophenol
+KCAT	Lactobacillus plantarum	26	pyruvate	*electron acceptor: 2,6-dichlorophenolindophenol
+KCAT	Lactobacillus plantarum	0.32	(25R)-3beta-hydroxycholest-5-en-27-oate	*in phosphate-free medium
+KCAT	Lactobacillus plantarum	35	(25R)-3beta-hydroxycholest-5-en-27-oate	*in phosphate buffer

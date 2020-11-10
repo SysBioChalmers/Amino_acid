@@ -1,0 +1,12 @@
+KCAT	Anas platyrhynchos	0.12	argininosuccinate	*mutant enzyme S284A
+KCAT	Anas platyrhynchos	0.43	argininosuccinate	*mutant enzyme Y323F
+KCAT	Anas platyrhynchos	0.62	argininosuccinate	*mutant enzyme R113N
+KCAT	Anas platyrhynchos	2.42	argininosuccinate	*mutant enzyme S114A
+KCAT	Homo sapiens	3.28	argininosuccinate	*
+KCAT	Anas platyrhynchos	4.9	argininosuccinate	*wild-type enzyme
+KCAT	Mycobacterium tuberculosis	14.63	2-(Nomega-L-arginino)succinate	*pH 7.4, 25&deg;C, wild-type enzyme
+KCAT	Mycobacterium tuberculosis	29.27	2-(Nomega-L-arginino)succinate	*pH 7.4, 25&deg;C, mutant enzyme C441S
+KCAT	Homo sapiens	34.5	N,N'-bis(tert-butoxycarbonyl)-5-[(3-aminopropyl)amino]pentan-1-ol	*pH 7.6
+KCAT	Homo sapiens	34.5	N,N'-bis(tert-butoxycarbonyl)-5-[(3-aminopropyl)amino]pentan-1-ol	*
+KCAT	Anser sp.	2500	argininosuccinate	*
+KCAT	Anas platyrhynchos	2930	argininosuccinate	*

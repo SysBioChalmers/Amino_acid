@@ -1,0 +1,3 @@
+KCAT	Carica papaya	0.08	tert-butyloxycarbonyl-Ala-Ala-Ala 4-methylcoumarin 7-amide	*
+KCAT	Carica papaya	5	tert-butyloxycarbonyl-Ala-Ala-Gly 4-methylcoumarin 7-amide	*
+KCAT	Carica papaya	22	tert-butyloxycarbonyl-Ala-Ala-Gly 4-nitroanilide	*

@@ -1,0 +1,1 @@
+KCAT	Saccharomyces cerevisiae	0.0705	adenine37 in tRNAAla	*30&deg;C, pH 7,9

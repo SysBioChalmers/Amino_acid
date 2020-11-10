@@ -1,0 +1,11 @@
+KCAT	Glycine max	8.4	glutathione	*30&Acirc;&deg;C, pH 8.5
+KCAT	Glycine max	10.1	dithiothreitol	*30&Acirc;&deg;C, pH 8.5
+KCAT	Physcomitrella patens	0.176	adenosine 5'-phosphosulfate	*
+KCAT	Physcomitrella patens	0.00075	3'-phosphoadenosine 5'-phosphosulfate	*
+KCAT	Mycobacterium tuberculosis	0.153	5'-adenylylsulfate	*assay conditions: APS reductase (0.00021 mM), PK (8.4 units/ml), LDH (18.0 units/ml), adenylate kinase (10 units/ml), thioredoxin (0.0373 mM), MgCl2 (3.0 mM), DTT (2.0 mM), ATP (1.0 mM), PEP (1.0 mM), EDTA (1.0 mM), GSH (5.0 mM), NADH (0.030 mM), and Hepes (50 mM, pH 8.0), at 25&Acirc;&deg;C
+KCAT	Catharanthus roseus	2.1	5'-adenylylsulfate	*with glutathione as reductant
+KCAT	Catharanthus roseus	3.4	5'-adenylylsulfate	*with DTT as reductant
+KCAT	Lemna minor	56	5'-adenylylsulfate	*
+KCAT	Mycobacterium tuberculosis	0.012	3'-phosphoadenosine-5'-phosphosulfate	*assay conditions: APS reductase (0.0009 mM), EST (0.10 unit/ml), thioredoxin (0.037 mM), MgCl2 (3.0 mM), DTT (2.0 mM), pNPS (10 mM), GSH (5.0 mM), and Hepes (50 mM, pH 8.0), at 25&Acirc;&deg;C
+KCAT	Glycine max	8.4	5'-adenylyl sulfate	*30&Acirc;&deg;C, pH 8.5, cosubstrate: dithiothreitol
+KCAT	Glycine max	11.3	5'-adenylyl sulfate	*30&Acirc;&deg;C, pH 8.5, cosubstrate: glutathione

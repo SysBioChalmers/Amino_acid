@@ -1,0 +1,17 @@
+KCAT	Aspergillus giganteus	0.000009	GpA	*pH 7.0, 25&deg;C
+KCAT	Aspergillus giganteus	0.000012	ApA	*pH 5.0, 37&deg;C, mutant R121K
+KCAT	Aspergillus giganteus	0.000014	ApA	*pH 7.0, 37&deg;C, mutant H50Q
+KCAT	Aspergillus giganteus	0.000016	ApA	*pH 5.0, 37&deg;C, mutant H50Q
+KCAT	Aspergillus giganteus	0.000051	CpC	*
+KCAT	Aspergillus giganteus	0.00007	ApA	*Y48F mutant
+KCAT	Aspergillus giganteus	0.000079	ApA	*pH 5.0, 37&deg;C, mutant R121Q
+KCAT	Aspergillus giganteus	0.000089	ApA	*pH 5.0, 37&deg;C, mutant L145F
+KCAT	Aspergillus giganteus	0.0001	ApA	*pH 7.0, 25&deg;C
+KCAT	Aspergillus giganteus	0.0001	ApA	*pH 7.0, 37&deg;C
+KCAT	Aspergillus giganteus	0.0001	ApA	*wild-type
+KCAT	Aspergillus giganteus	0.0001	ApA	*
+KCAT	Aspergillus giganteus	0.0002	ApA	*pH 5.0, 37&deg;C
+KCAT	Aspergillus giganteus	0.00027	ApA	*pH 5.0, 37&deg;C, wild-type
+KCAT	Aspergillus giganteus	0.00027	ApA	*pH 5.0, 37&deg;C, wild-type
+KCAT	Aspergillus giganteus	0.917	28 S rRNA	*pH 7.5, 37&deg;C
+KCAT	Aspergillus giganteus	0.917	28 S rRNA	*

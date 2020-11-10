@@ -1,0 +1,12 @@
+KCAT	Caulobacter vibrioides	-999	cyclic di-3',5'-guanylate	*double mutant R148A/R178A, inhibited, no activity detected; mutant R313A, inhibited, no activity detected; wild-type, inhibited, no activity detected
+KCAT	Caulobacter vibrioides	0.00081	cyclic di-3',5'-guanylate	*triple mutant R148A/R178A/R313A, inhibited
+KCAT	Caulobacter vibrioides	0.0009	cyclic di-3',5'-guanylate	*wild-type
+KCAT	Caulobacter vibrioides	0.004	cyclic di-3',5'-guanylate	*mutant R313A
+KCAT	Xanthomonas citri pv. citri	0.014	GTP	*mutant K759A, Michaelis-Menten model, pH 8.0, 30&deg;C
+KCAT	Caulobacter vibrioides	0.015	cyclic di-3',5'-guanylate	*double mutant R148A/R178A
+KCAT	Caulobacter vibrioides	0.016	cyclic di-3',5'-guanylate	*triple mutant R148A/R178A/R313A
+KCAT	Thermotoga maritima	0.0433	more	*R158A mutant
+KCAT	Xanthomonas citri pv. citri	1.2	GTP	*wild-type, Michaelis-Menten model, pH 8.0, 30&deg;C
+KCAT	Pseudomonas syringae	4.5	GTP	*WspR full-length, cyclic di-3',5'-guanylate-free
+KCAT	Pseudomonas syringae	40.56	GTP	*WspGCN4-RGGDEF, cyclic di-3',5'-guanylate-bound
+KCAT	Pseudomonas syringae	59.05	GTP	*WspGCN4-RGGDEF, cyclic di-3',5'-guanylate-free

@@ -1,0 +1,1 @@
+ecNumber*3.5.4.34#turnoverNumber*0.0705#turnoverNumberMaximum*#substrate*adenine37 in tRNAAla#commentary*30&deg;C, pH 7,9#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*719355#

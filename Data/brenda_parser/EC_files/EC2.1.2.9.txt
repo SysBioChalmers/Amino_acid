@@ -1,0 +1,32 @@
+KCAT	Escherichia coli	-999	more	*kinetic parameters of the formylation of various mutant methionyl-tRNAs
+KCAT	Bos taurus	-999	more	*kinetic parameters of the formylation of various mutant methionyl-tRNAs
+KCAT	Escherichia coli	-999	more	*values for wild-type and mutant enzyme with wild-type and mutant initiator tRNAs
+KCAT	Escherichia coli	-999	more	*values for wild-type and mutant enzyme with wild-type and mutant initiator tRNAs
+KCAT	Escherichia coli	-999	more	*values for several mutant enzymes in the linker region and C-terminal domain
+KCAT	Saccharomyces cerevisiae	-999	more	*kinetic parameters of the formylation of various mutant methionyl-tRNAs
+KCAT	Haemophilus influenzae	-999	more	*values for several mutant enzymes
+KCAT	Saccharomyces cerevisiae	0.0005	E. coli isoleucyl-tRNAfMet	*
+KCAT	Saccharomyces cerevisiae	0.009	E. coli valyl-tRNAfMet	*
+KCAT	Bos taurus	0.03	E. coli methionyl-tRNA1Val(CAU)	*above
+KCAT	Bos taurus	0.04	E. coli methionyl-tRNAmMet	*above
+KCAT	Saccharomyces cerevisiae	0.13	E. coli methionyl-tRNAfMet	*
+KCAT	Escherichia coli	0.2	methionyl-tRNAfMet	*MTFDeltaC20
+KCAT	Escherichia coli	0.45	methionyl-tRNAfMet	*G41R/R42L double mutant enzyme
+KCAT	Escherichia coli	0.483	methionyl-tRNAfMet	*R42L mutant enzyme
+KCAT	Bos taurus	0.93	E. coli methionyl-tRNAfMet	*
+KCAT	Escherichia coli	3.1	methionyl-tRNAfMet	*R42Q mutant enzyme
+KCAT	Escherichia coli	8.27	methionyl-tRNAfMet	*R38L mutant enzyme
+KCAT	Escherichia coli	8.9	methionyl-tRNAfMet	*G178E mutant enzyme
+KCAT	Haemophilus influenzae	11.3	E. coli methionyl-tRNAfMet	*
+KCAT	Escherichia coli	11.4	methionyl-tRNAfMet	*G41R mutant enzyme
+KCAT	Escherichia coli	13.9	methionyl-tRNAfMet	*wild-type enzyme
+KCAT	Escherichia coli	14.6	methionyl-tRNAfMet	*G41K mutant enzyme
+KCAT	Escherichia coli	20	methionyl-tRNAfMet	*
+KCAT	Escherichia coli	20	methionyl-tRNAfMet	*+ 10-formyltetrahydrofolate
+KCAT	Escherichia coli	27.7	methionyl-tRNAfMet	*R42K mutant enzyme
+KCAT	Escherichia coli	31.5	methionyl-tRNAfMet	*G41L mutant enzyme
+KCAT	Escherichia coli	33	methionyl-tRNAfMet	*G41D mutant enzyme
+KCAT	Escherichia coli	37.3	methionyl-tRNAfMet	*wild-type enzyme
+KCAT	Escherichia coli	39.1	methionyl-tRNAfMet	*wild-type enzyme
+KCAT	Escherichia coli	41.5	methionyl-tRNAfMet	*
+KCAT	Escherichia coli	46.3	methionyl-tRNAfMet	*R38K mutant enzyme

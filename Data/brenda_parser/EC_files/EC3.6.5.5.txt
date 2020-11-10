@@ -1,0 +1,26 @@
+KCAT	Homo sapiens	0.0003	GTP	*37&Acirc;&deg;C, T65D and T65H mutant dynamin, basal GTPase activity
+KCAT	Homo sapiens	0.0013	GTP	*37&Acirc;&deg;C, T65A mutant dynamin, basal GTPase activity
+KCAT	Homo sapiens	0.0025	GTP	*37&Acirc;&deg;C, T141D mutant dynamin, basal GTPase activity
+KCAT	Homo sapiens	0.0032	GTP	*22&Acirc;&deg;C, wild-type dynamin, basal GTPase activity
+KCAT	Homo sapiens	0.0072	GTP	*37&Acirc;&deg;C, S61D mutant dynamin, basal GTPase activity
+KCAT	Rattus norvegicus	0.0079	GTP	*37&Acirc;&deg;C, mutant enzyme R59K
+KCAT	Homo sapiens	0.016	GTP	*37&Acirc;&deg;C, T65D and T65H mutant dynamin, lipid tubule stimulated GTPase activity
+KCAT	Rattus norvegicus	0.016	GTP	*37&Acirc;&deg;C, mutant enzyme R59A
+KCAT	Homo sapiens	0.02	GTP	*37&Acirc;&deg;C, T65A mutant dynamin, lipid tubule stimulated GTPase activity
+KCAT	Bos taurus	0.023	GTP	*T65A mutant of the GTPase domain of dynamin
+KCAT	Rattus norvegicus	0.024	GTP	*37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.025	GTP	*37&Acirc;&deg;C, T141D mutant dynamin, lipid tubule stimulated GTPase activity
+KCAT	Homo sapiens	0.032	GTP	*37&Acirc;&deg;C, S61A mutant dynamin, basal GTPase activity
+KCAT	Homo sapiens	0.043	GTP	*37&Acirc;&deg;C, wild-type dynamin, basal GTPase activity
+KCAT	Bos taurus	0.083	GTP	*S45N mutant of the GTPase domain of dynamin
+KCAT	Homo sapiens	0.112	GTP	*37&Acirc;&deg;C, T141A mutant dynamin, basal GTPase activity
+KCAT	Homo sapiens	0.13	GTP	*22&Acirc;&deg;C, wild-type dynamin, lipid tubule stimulated GTPase activity
+KCAT	Homo sapiens	0.44	GTP	*37&Acirc;&deg;C, S61D mutant dynamin, lipid tubule stimulated GTPase activity
+KCAT	Bos taurus	0.45	GTP	*R66A mutant of the GTPase domain of dynamin
+KCAT	Bos taurus	0.55	GTP	*T141Q mutant of the GTPase domain of dynamin
+KCAT	Homo sapiens	1.43	GTP	*37&Acirc;&deg;C, S61A mutant dynamin, lipid tubule stimulated GTPase activity
+KCAT	Homo sapiens	1.75	GTP	*37&Acirc;&deg;C, wild-type dynamin, lipid tubule stimulated GTPase activity
+KCAT	Bos taurus	1.8	GTP	*K142A mutant of the GTPase domain of dynamin
+KCAT	Homo sapiens	3.08	GTP	*37&Acirc;&deg;C, T141A mutant dynamin, lipid tubule stimulated GTPase activity
+KCAT	Bos taurus	3.1	GTP	*wild-type dynamin
+KCAT	Homo sapiens	-999	more	*kinetic data, temperature-dependent effects on kinetic parameters

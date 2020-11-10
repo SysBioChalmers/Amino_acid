@@ -1,0 +1,38 @@
+KCAT	Homo sapiens	0.00004	hippuryl-arginine	*mutant S90D/S94V/S90D, activation of TAFI by plasmin
+KCAT	Homo sapiens	0.00008	hippuryl-arginine	*mutant S90P, activation of TAFI by plasmin
+KCAT	Homo sapiens	0.0002	hippuryl-arginine	*mutant P91S, activation of TAFI by plasmin
+KCAT	Homo sapiens	0.0003	hippuryl-arginine	*mutant S94V, activation of TAFI by plasmin
+KCAT	Homo sapiens	0.00039	hippuryl-arginine	*mutant R92K, activation of TAFI by plasmin
+KCAT	Homo sapiens	0.00042	hippuryl-arginine	*wild-type, activation of TAFI by plasmin
+KCAT	Homo sapiens	0.00043	hippuryl-arginine	*mutant A93V, activation of TAFI by plasmin
+KCAT	Homo sapiens	0.205	p-anisylazoformyl-L-arginine	*mutant A93V, activation of TAFI by thrombin in the presence of thrombomodulin
+KCAT	Homo sapiens	0.215	p-anisylazoformyl-L-arginine	*mutant R92K, activation of TAFI by thrombin in the presence of thrombomodulin
+KCAT	Homo sapiens	0.315	p-anisylazoformyl-L-arginine	*wild-type, activation of TAFI by thrombin in the presence of thrombomodulin
+KCAT	Homo sapiens	0.328	p-anisylazoformyl-L-arginine	*mutant S94V, activation of TAFI by thrombin in the presence of thrombomodulin
+KCAT	Homo sapiens	0.377	p-anisylazoformyl-L-arginine	*mutant S90P, activation of TAFI by thrombin in the presence of thrombomodulin
+KCAT	Homo sapiens	2.3	biotinyl-(epsilon-aminocaproic acid)-(epsilon-aminocaproic acid)-Gly-Leu-Met-Val-Gly-Gly-Val-Val-Arg-OH	*room temperature
+KCAT	Homo sapiens	2.67	hippuryl-Arg	*
+KCAT	Bos taurus	2.74	hippuryl-Arg	*
+KCAT	Homo sapiens	15	Hippuryl-L-Lys	*
+KCAT	Homo sapiens	15.9	anisylazoformyl-Lys	*24&deg;C
+KCAT	Homo sapiens	26	hippuryl-L-Arg	*
+KCAT	Homo sapiens	26.8	anisylazoformyl-Lys	*24&deg;C
+KCAT	Homo sapiens	27	anisylazoformyl-Lys	*24&deg;C
+KCAT	Homo sapiens	27.4	anisylazoformyl-Lys	*24&deg;C
+KCAT	Homo sapiens	29	N-[3-(2-Furylacryloyl)]-L-Ala-L-Lys	*
+KCAT	Homo sapiens	29.5	anisylazoformyl-Lys	*24&deg;C
+KCAT	Homo sapiens	36	N-[3-(2-Furylacryloyl)]-L-Ala-L-Arg	*
+KCAT	Homo sapiens	40.7	Hippuryl-L-Lys	*plasma-derived enzyme
+KCAT	Homo sapiens	45.6	Hippuryl-L-Lys	*recombinant enzyme
+KCAT	Homo sapiens	52.4	hippuryl-L-Arg	*plasma-derived enzyme
+KCAT	Homo sapiens	56.7	hippuryl-L-Arg	*recombinant enzyme
+KCAT	Homo sapiens	59	N-benzoyl-2'-cyano-L-Phe-L-Arg	*in 50 mM HEPES (pH 8.0) at 25&deg;C
+KCAT	Homo sapiens	64	N-benzoyl-Gly-L-Arg	*in 50 mM HEPES (pH 8.0) at 25&deg;C
+KCAT	Homo sapiens	121	bradykinin	*
+KCAT	Homo sapiens	169	Hippuryl-L-argininic acid	*
+KCAT	Homo sapiens	248	N-[3-(2-Furylacryloyl)]-L-Ala-L-Lys	*recombinant enzyme
+KCAT	Homo sapiens	282	Lys6-Leu5-enkephalin	*
+KCAT	Homo sapiens	290	Lys6-Met5-enkephalin	*
+KCAT	Homo sapiens	293	N-[3-(2-Furylacryloyl)]-L-Ala-L-Lys	*plasma-derived enzyme
+KCAT	Homo sapiens	647	Arg6-Met5-enkephalin	*
+KCAT	Homo sapiens	748	Arg6-Leu5-enkephalin	*

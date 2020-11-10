@@ -1,0 +1,39 @@
+KCAT	Escherichia coli K-12	0.0056	guanosine	*pH 7.0, 35&deg;C, recombinant enzyme
+KCAT	Escherichia coli K-12	0.0154	adenosine	*pH 7.0, 35&deg;C, recombinant enzyme
+KCAT	Escherichia coli	0.035	Inosine	*mutant enzyme T223Y, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Leishmania braziliensis	0.039	adenosine	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli K-12	0.043	Inosine	*pH 7.0, 35&deg;C, recombinant enzyme
+KCAT	Leishmania braziliensis	0.066	cytidine	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	0.086	Inosine	*wild type enzyme, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	0.109	Inosine	*mutant enzyme T223F, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	0.125	Inosine	*mutant enzyme Q227F, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	0.18	Inosine	*mutant enzyme T223A, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	0.182	Inosine	*mutant enzyme Q227A, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	0.382	Inosine	*mutant enzyme T223F/Q227Y, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	0.593	Inosine	*mutant enzyme Q227Y, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	3.62	Inosine	*mutant enzyme T223Y/Q227Y, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	4.4	uridine	*pH 7.3, 37&deg;C, H239A mutant
+KCAT	Escherichia coli	4.7	uridine	*pH 7.3, 37&deg;C
+KCAT	Leishmania braziliensis	5.1	uridine	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	5.4	uridine	*wild type enzyme, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Saccharolobus solfataricus	7.1	uridine	*pH 7.4, 80&deg;C
+KCAT	Leishmania braziliensis	11.2	Inosine	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	11.6	cytidine	*pH 7.3, 37&deg;C
+KCAT	Escherichia coli K-12	11.6	cytidine	*pH 7.0, 35&deg;C, recombinant enzyme
+KCAT	Escherichia coli K-12	13.9	uridine	*pH 7.0, 35&deg;C, recombinant enzyme
+KCAT	Escherichia coli	14.7	5-fluorouridine	*pH 7.3, 37&deg;C
+KCAT	Escherichia coli	15.1	uridine	*mutant enzyme Q227Y, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	15.5	uridine	*pH 7.3, 37&deg;C, H82N mutant
+KCAT	Escherichia coli	18.8	uridine	*mutant enzyme T223F, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	25.5	5-methyluridine	*pH 7.3, 37&deg;C
+KCAT	Escherichia coli	30.8	5-Bromouridine	*pH 7.3, 37&deg;C
+KCAT	Escherichia coli K-12	39	4-nitrophenyl ribopyranoside	*pH 7.0, 35&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	39.4	cytidine	*pH 7.4, 80&deg;C
+KCAT	Escherichia coli	39.8	uridine	*mutant enzyme T223A, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	42.7	5-iodouridine	*pH 7.3, 37&deg;C
+KCAT	Escherichia coli	44.3	uridine	*mutant enzyme T223Y, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	46.9	uridine	*mutant enzyme Q227A, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	52.5	uridine	*mutant enzyme Q227F, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	59.1	uridine	*mutant enzyme T223F/Q227Y, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Escherichia coli	72.9	uridine	*mutant enzyme T223Y/Q227Y, in 50 mM HEPES buffer (pH 7.3), at 37&deg;C
+KCAT	Leishmania braziliensis	344	4-nitrophenyl beta-D-ribofuranoside	*pH 7.5, 25&deg;C

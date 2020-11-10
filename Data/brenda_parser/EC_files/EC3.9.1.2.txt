@@ -1,0 +1,2 @@
+KCAT	Geobacillus stearothermophilus	0.19	4-nitrophenyl phosphate	*mutant C14S, pH 7.6, 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	1.12	4-nitrophenyl phosphate	*wild-type, pH 7.6, 25&Acirc;&deg;C

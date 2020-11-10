@@ -1,0 +1,1 @@
+ecNumber*3.1.1.113#turnoverNumber*29#turnoverNumberMaximum*#substrate*Alpha-naphthyl acetate#commentary*37&deg;C, pH 7.5#organism*Pseudomonas putida#ligandStructureId*1254#literature*752538#!ecNumber*3.1.1.113#turnoverNumber*64#turnoverNumberMaximum*#substrate*4-nitrophenyl acetate#commentary*37&deg;C, pH 7.5#organism*Pseudomonas putida#ligandStructureId*418#literature*752538#

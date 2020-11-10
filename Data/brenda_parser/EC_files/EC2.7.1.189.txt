@@ -1,0 +1,5 @@
+KCAT	Salmonella enterica	1.5	1,2-dihydroxyoctane-3,4-dione	*pH and temperature not specified in the publication
+KCAT	Salmonella enterica	5.8	1,2-dihydroxyheptane-3,4-dione	*pH and temperature not specified in the publication
+KCAT	Salmonella enterica	5.8	1,2-dihydroxyhexane-3,4-dione	*pH and temperature not specified in the publication
+KCAT	Salmonella enterica	7.6	4,5-dihydroxypentane-2,3-dione	*pH and temperature not specified in the publication
+KCAT	Salmonella enterica	7.6	ATP	*pH and temperature not specified in the publication

@@ -1,0 +1,2 @@
+KCAT	Mimosa pudica	310	cystathionine	*pH 8.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Mimosa pudica	12180	mimosine	*pH 8.5, 37&Acirc;&deg;C, recombinant enzyme

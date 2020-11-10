@@ -1,0 +1,166 @@
+KCAT	Vibrio sp.	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*kcat/KM (1/Msec) wild-type: 140000, mutant R166K: 20, mutant R166S: 24
+KCAT	Escherichia coli	-999	more	*wild-type enzyme: kcat/KM (1/M*sec) (4-nitrophenyl phosphate): 33000000, (3-nitrobenzyl phosphate): 18000000, (methyl phosphate): 1200000, (methyl 4-nitrophenyl phosphate): 18, (bis-4-nitrophenyl phosphate): 0.05, (4-nitrophenyl sulfate): 0.01
+KCAT	Bos taurus	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Escherichia coli	0.000029	4-nitrophenyl phosphate	*mutant enzyme D101A/R166S/D153A/E322Y/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.000057	4-nitrophenyl phosphate	*mutant enzyme R166S/E322Y/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.00021	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, recombinant mutant T59R
+KCAT	Escherichia coli	0.00024	4-nitrophenyl phosphate	*mutant enzyme D101A/D153A/E322Y/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.00032	4-nitrophenyl phosphate	*mutant enzyme D101A/R166S/D153A/E322Y, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.00073	4-nitrophenyl phosphate	*mutant enzyme D153A/E322Y/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.00089	4-nitrophenyl phosphate	*mutant enzyme D101A/E322Y/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.00096	4-nitrophenyl phosphate	*mutant enzyme R166S/D153A/E322Y/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.0014	4-nitrophenyl phosphate	*mutant enzyme D153A/E322Y, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.0026	4-nitrophenyl phosphate	*mutant enzyme R166S/D153A/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.0034	4-nitrophenyl phosphate	*mutant enzyme E322Y/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.0083	4-nitrophenyl phosphate	*mutant enzyme R166S/D153A/E322Y, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.01	p-nitrophenyl phosphate	*mutant enzyme D369A, in absence of a phosphate acceptor
+KCAT	Escherichia coli	0.016	4-nitrophenyl phosphate	*mutant E322K, pH 8.0, 25&deg;C, in absence of a phosphoryl group acceptor
+KCAT	Escherichia coli	0.016	4-nitrophenyl phosphate	*mutant enzyme R166S/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.027	4-nitrophenyl phosphate	*mutant E322K, pH 8.0, 25&deg;C, in presence of a phosphoryl group acceptor
+KCAT	Bos taurus	0.037	4-nitrophenyl phosphate	*37&deg;C, enzyme with amino-group modification in the dark, pH 7, with 12.5 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+KCAT	Escherichia coli	0.042	4-nitrophenyl phosphate	*mutant E341K, pH 8.0, 25&deg;C, in absence of a phosphoryl group acceptor
+KCAT	Escherichia coli	0.052	4-nitrophenyl phosphate	*mutant T155M, pH 8.0, 25&deg;C, in absence of a phosphoryl group acceptor
+KCAT	Escherichia coli	0.059	4-nitrophenyl phosphate	*mutant H412Y, pH 8.0, 25&deg;C, in presence of a phosphoryl group acceptor
+KCAT	Escherichia coli	0.061	4-nitrophenyl phosphate	*mutant enzyme D101A/R166S/D153A/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.067	4-nitrophenyl phosphate	*mutant H412Y, pH 8.0, 25&deg;C, in absence of a phosphoryl group acceptor
+KCAT	Escherichia coli	0.07	4-nitrophenyl phosphate	*mutant enzyme R166S/D153A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.083	4-nitrophenyl phosphate	*mutant enzyme D101A/R166S/D153A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	0.1	4-nitrophenyl phosphate	*mutant E341K, pH 8.0, 25&deg;C, in presence of a phosphoryl group acceptor
+KCAT	Escherichia coli	0.3	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, mutant R166A
+KCAT	Escherichia coli	0.32	4-nitrophenyl phosphate	*mutant T155M, pH 8.0, 25&deg;C, in presence of a phosphoryl group acceptor
+KCAT	Escherichia coli	0.39	4-nitrophenyl phosphate	*mutant D369N, pH 8.0, 25&deg;C, in absence of a phosphoryl group acceptor
+KCAT	Escherichia coli	0.4	p-nitrophenyl phosphate	*mutant enzyme D369N, in absence of a phosphate acceptor
+KCAT	Escherichia coli	0.5	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, mutant R166S
+KCAT	Escherichia coli	0.5	4-nitrophenyl phosphate	*mutant enzyme R166S, at pH 8.0 and 25&deg;C
+KCAT	Pandalus borealis	0.55	4-nitrophenyl phosphate	*10&deg;C, enzyme with aliphatic-group modification by 3,3',4,4'-tetracarboxylic acid in a photo-assisted reaction
+KCAT	Escherichia coli	0.65	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, mutant R166K
+KCAT	Escherichia coli	1.1	4-nitrophenyl phosphate	*mutant enzyme D153A/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	1.5	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, recombinant mutant T59A
+KCAT	Escherichia coli	1.6	4-nitrophenyl phosphate	*mutant enzyme D101A/D153A/K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	2.2	4-nitrophenyl phosphate	*mutant enzyme D101A/D153A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	2.3	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	2.4	4-nitrophenyl phosphate	*mutant D369N, pH 8.0, 25&deg;C, in presence of a phosphoryl group acceptor
+KCAT	Escherichia coli	3	4-nitrophenyl phosphate	*mutant enzyme D101A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	3.4	4-nitrophenyl phosphate	*25&deg;C, pH 8, mutant enzyme T81A
+KCAT	Escherichia coli	3.4	4-nitrophenyl phosphate	*mutant enzyme K328A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	3.8	4-nitrophenyl phosphate	*mutant S105L, pH 8.0, 25&deg;C, in absence of a phosphoryl group acceptor
+KCAT	Escherichia coli	4.2	4-nitrophenyl phosphate	*mutant enzyme D101A/R166S, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	4.6	4-nitrophenyl phosphate	*mutant enzyme D101A/E322Y, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	5.8	4-nitrophenyl phosphate	*mutant S105L, pH 8.0, 25&deg;C, in presence of a phosphoryl group acceptor
+KCAT	Thermus sp. NTU-237	6.08	4-nitrophenyl phosphate	*at pH 10.5 and 70&deg;C
+KCAT	Escherichia coli	7.6	4-nitrophenyl phosphate	*mutant enzyme D153A, at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	12	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, wild-type
+KCAT	Escherichia coli	12	4-nitrophenyl phosphate	*wild type enzyme, at pH 8.0 and 25&deg;C
+KCAT	Burkholderia cenocepacia	14.1	phosphoenolpyruvate	*
+KCAT	Pandalus borealis	14.67	4-nitrophenyl phosphate	*10&deg;C, enzyme with aliphatic-group modification by 3,3',4,4'-tetracarboxylic acid in a photo-assisted reaction
+KCAT	Thermotoga maritima	16	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C
+KCAT	Bacillus licheniformis	16	4-nitrophenyl phosphate	*at pH 10.0 and 50&deg;C
+KCAT	Escherichia coli	18	4-nitrophenyl phosphate	*25&deg;C, pH 10.5, mutant enzyme T81A
+KCAT	Bos taurus	20	4-nitrophenyl phosphate	*57&deg;C, enzyme with amino-group modification in the dark, pH 8, with 6.25 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+KCAT	Escherichia coli	24.39	4-nitrophenyl phosphate	*25&deg;C, pH 10.5, mutant enzyme T81A
+KCAT	Escherichia coli	26	4-nitrophenyl phosphate	*25&deg;C, pH10.5, wild-type enzyme
+KCAT	Anabaena sp.	29.9	4-nitrophenyl phosphate	*pH 8, 25&deg;C, in the presence of phosphate acceptor (1 M Tris-HCl buffer)
+KCAT	Antarctic bacterium TAB5	30	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant S86A/G87A
+KCAT	Escherichia coli	33	2'-[2-benzthiazole]-6'-hydroxybenzthiazole phosphate	*
+KCAT	Escherichia coli	34	4-nitrophenyl phosphate	*25&deg;C, pH 8, wild-type enzyme
+KCAT	Homo sapiens	34	4-nitrophenyl phosphate	*pH 10.5, mutant V406A
+KCAT	Vibrio splendidus	35.6	4-nitrophenyl phosphate	*at pH 8.0 and 25&deg;C
+KCAT	Escherichia coli	36.98	4-nitrophenyl phosphate	*25&deg;C, pH 8, mutant enzyme T81A
+KCAT	Escherichia coli	38	p-nitrophenyl phosphate	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Bos taurus	42.55	4-nitrophenyl phosphate	*37&deg;C, pH 9.5, glycine-NaOH buffer
+KCAT	Vibrio splendidus	44	4-nitrophenyl phosphate	*mutant enzyme W475F, at pH 9.8 and 10&deg;C
+KCAT	Escherichia coli	44.4	4-nitrophenyl phosphate	*wild-type enzyme, pH 8.0, 25&deg;C, in absence of a phosphoryl group acceptor
+KCAT	Escherichia coli	44.5	p-nitrophenyl phosphate	*wild type enzyme
+KCAT	Burkholderia cenocepacia	48.3	O-phosphoserine	*
+KCAT	Escherichia coli	56.3	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, recombinant mutant T59A
+KCAT	Escherichia coli	61.84	4-nitrophenyl phosphate	*25&deg;C, pH 8, wild-type enzyme
+KCAT	Bos taurus	65	4-nitrophenyl phosphate	*37&deg;C, native enzyme
+KCAT	Vibrio splendidus	65	4-nitrophenyl phosphate	*mutant enzyme W460F, at pH 9.8 and 10&deg;C
+KCAT	Escherichia coli	65.6	4-nitrophenyl phosphate	*mutant D434E, pH 8.0, 25&deg;C, in absence of a phosphoryl group acceptor
+KCAT	Antarctic bacterium TAB5	70	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant S42G/H135E
+KCAT	Antarctic bacterium TAB5	71	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant S42G/S338T
+KCAT	Escherichia coli	74.7	4-nitrophenyl phosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme
+KCAT	Thermus yunnanensis	76	4-nitrophenyl phosphate	*pH 9.5, 70&deg;C, wild-type enzyme
+KCAT	Bos taurus	77.4	4-nitrophenyl phosphate	*37&deg;C, native enzyme, enzyme with amino-group modification in the dark, pH 8, with 6.25 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+KCAT	Bos taurus	78.83	4-nitrophenyl phosphate	*37&deg;C, enzyme with amino-group modification in the dark, pH 7, with 12.5 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+KCAT	Vibrio splendidus	80	4-nitrophenyl phosphate	*at pH 10.5 and 25&deg;C
+KCAT	Escherichia coli	80.5	4-nitrophenyl phosphate	*wild-type enzyme, pH 8.0, 25&deg;C, in presence of a phosphoryl group acceptor
+KCAT	Escherichia coli	80.5	p-nitrophenyl phosphate	*wild type enzyme, in presence of a phosphate acceptor
+KCAT	Bos taurus	82.98	4-nitrophenyl phosphate	*37&deg;C, pH 11, Tris-HCl buffer
+KCAT	Bos taurus	87.83	4-nitrophenyl phosphate	*57&deg;C, enzyme with amino-group modification in the dark, pH 8, with 6.25 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+KCAT	Homo sapiens	92	pyridoxal 5'-phosphate	*allozyme D, pH 7.5, 37&deg;C, in presence of Mg2+ and Zn2+
+KCAT	Penaeus merguiensis	95	4-nitrophenyl phosphate	*at pH 11.0 and 25&deg;C
+KCAT	Vibrio splendidus	99	4-nitrophenyl phosphate	*with 0.5 M NaCl, at pH 10.5 and 25&deg;C
+KCAT	Thermotoga maritima	100	4-nitrophenyl phosphate	*pH 8.0, 65&deg;C
+KCAT	Antarctic bacterium TAB5	100	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant G87A
+KCAT	Vibrio splendidus	102	4-nitrophenyl phosphate	*at pH 9.0 and 25&deg;C
+KCAT	Escherichia coli	113.6	4-nitrophenyl phosphate	*single-chain Fv antibody fusion protein
+KCAT	Antarctic bacterium TAB5	114	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant S338T
+KCAT	Bos taurus	115.9	4-nitrophenyl phosphate	*37&deg;C, native enzyme
+KCAT	Antarctic bacterium TAB5	117	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant G149D
+KCAT	Vibrio splendidus	125	4-nitrophenyl phosphate	*mutant enzyme W155F, at pH 9.8 and 10&deg;C
+KCAT	Vibrio sp.	132	4-nitrophenyl phosphate	*25&deg;C, pH 8.0, mutant enzyme G51C
+KCAT	Antarctic bacterium TAB5	133	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant S42G
+KCAT	Vibrio splendidus	137	4-nitrophenyl phosphate	*mutant enzyme W301F, at pH 9.8 and 10&deg;C
+KCAT	Burkholderia cenocepacia	138.1	O-Phosphotyrosine	*
+KCAT	Bos taurus	140	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 0.05 M methylamine
+KCAT	Vibrio splendidus	145	4-nitrophenyl phosphate	*with 0.5 M NaCl, at pH 8.0 and 25&deg;C
+KCAT	Burkholderia cenocepacia	147.9	p-nitrophenyl phosphate	*
+KCAT	Bos taurus	150	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 0.02 M dimethylamine
+KCAT	Pandalus borealis	153.9	4-nitrophenyl phosphate	*37&deg;C, enzyme with aliphatic-group modification by 3,3',4,4'-tetracarboxylic acid in a photo-assisted reaction
+KCAT	Pandalus borealis	155.7	4-nitrophenyl phosphate	*10&deg;C, native enzyme
+KCAT	Bos taurus	183.3	4-nitrophenyl phosphate	*57&deg;C, native enzyme
+KCAT	Bos taurus	190	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 0.05 M diethanolamine
+KCAT	Antarctic bacterium TAB5	203	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant S86A
+KCAT	Vibrio sp.	204	4-nitrophenyl phosphate	*25&deg;C, pH 8.0, mutant enzyme S52C
+KCAT	Vibrio sp.	217	4-nitrophenyl phosphate	*25&deg;C, pH 8.0, mutant enzyme S53C
+KCAT	Vibrio sp.	220	p-nitrophenyl phosphate	*25&deg;C, pH 9.8, mutant enzyme W274K
+KCAT	Escherichia coli	230	p-nitrophenyl phosphate	*mutant enzyme D369N, in presence of a phosphate acceptor
+KCAT	Antarctic bacterium TAB5	236	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, wild-type
+KCAT	Vibrio splendidus	243	4-nitrophenyl phosphate	*with 0.5 M NaCl, at pH 9.0 and 25&deg;C
+KCAT	Homo sapiens	244	diphosphate	*allozyme D, pH 7.5, 37&deg;C, in presence of Mg2+ and Zn2+
+KCAT	Vibrio splendidus	255	4-nitrophenyl phosphate	*mutant enzyme F355W, at pH 9.8 and 10&deg;C
+KCAT	Vibrio splendidus	275	4-nitrophenyl phosphate	*mutant enzyme W460Y, at pH 9.8 and 10&deg;C
+KCAT	Escherichia coli	285	4-nitrophenyl phosphate	*conjugate between enzyme and ZZ protein, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bos taurus	300	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 1 M ethanolamine
+KCAT	Vibrio splendidus	300	4-nitrophenyl phosphate	*mutant enzyme W274F, at pH 9.8 and 10&deg;C
+KCAT	Vibrio splendidus	302	4-nitrophenyl phosphate	*wild type enzyme, at pH 9.8 and 10&deg;C
+KCAT	Antarctic bacterium TAB5	303	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant H135E
+KCAT	Vibrio splendidus	313	4-nitrophenyl phosphate	*mutant enzyme W512F, at pH 9.8 and 10&deg;C
+KCAT	Bos taurus	330	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 1 M methylamine
+KCAT	Vibrio sp.	350	4-nitrophenyl phosphate	*pH 10.0, 25&deg;C
+KCAT	Vibrio sp.	350	4-nitrophenyl phosphate	*25&deg;C, pH 8.0, mutant enzyme I50C
+KCAT	Antarctic bacterium TAB5	361	4-nitrophenyl phosphate	*pH 10.0, 15&deg;C, mutant H135E/G149D
+KCAT	Bos taurus	370	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 1 M dimethylamine
+KCAT	Escherichia coli	370	4-nitrophenyl phosphate	*fusion protein with ZZ protein, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	378	4-nitrophenyl phosphate	*native enzyme, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	379	4-nitrophenyl phosphate	*allozyme D, pH 9.8, in presence of Mg2+ and Zn2+
+KCAT	Bos taurus	400	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 1 M ethylamine
+KCAT	Bos taurus	450	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 0.02 M ethylamine
+KCAT	Bos taurus	500	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 0.2 M N-methylethanolamine
+KCAT	Bos taurus	610	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 0.05 M ethanolamine
+KCAT	Pandalus borealis	812.3	4-nitrophenyl phosphate	*37&deg;C, native enzyme
+KCAT	Vibrio sp.	830	p-nitrophenyl phosphate	*25&deg;C, pH 9.8, mutant enzyme H116D
+KCAT	Bos taurus	840	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 0.1 M triethanolamine
+KCAT	Vibrio sp.	930	p-nitrophenyl phosphate	*25&deg;C, pH 9.8, mutant enzyme H116D/W274K
+KCAT	Homo sapiens	971	4-nitrophenyl phosphate	*pH 10.5, wild-type
+KCAT	Thermus yunnanensis	1130	4-nitrophenyl phosphate	*pH 9.5, 70&deg;C, Co2+-combined enzyme
+KCAT	Bos taurus	1240	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 1 M diethanolamine
+KCAT	Dioszegia sp.	1400	4-nitrophenyl phosphate	*at pH 9.0 and 47&deg;C; pH 9.0, 47&deg;C
+KCAT	Pandalus borealis	1443	4-nitrophenyl phosphate	*37&deg;C, enzyme with amino-group modification in the dark, pH 7, with 12.5 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+KCAT	Bos taurus	1450	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 1 M triethanolamine
+KCAT	Cobetia marina	1500	4-nitrophenyl phosphate	*25&deg;C, pH 18.0, Tris-HCl buffer
+KCAT	Vibrio sp.	1580	p-nitrophenyl phosphate	*25&deg;C, pH 9.8, wild-type enzyme
+KCAT	Vibrio sp.	2086	4-nitrophenyl phosphate	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Bos taurus	2250	4-nitrophenyl phosphate	*pH 9.8, 20&deg;C, 1 M N-methylethanolamine
+KCAT	Cobetia marina	3710	4-nitrophenyl phosphate	*25&deg;C, pH 10.3, Tris-HCl buffer
+KCAT	Shewanella sp. T3-3	7000	4-nitrophenyl phosphate	*at pH 9.8 and 37&deg;C
+KCAT	Pandalus borealis	16230	4-nitrophenyl phosphate	*37&deg;C, native enzyme, enzyme with amino-group modification in the dark, pH 8, with 6.25 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+KCAT	Cobetia marina	24000	4-nitrophenyl phosphate	*25&deg;C, pH 18.0, diethanolamine buffer
+KCAT	Cobetia marina	28300	4-nitrophenyl phosphate	*25&deg;C, pH 10.3, diethanolamine buffer

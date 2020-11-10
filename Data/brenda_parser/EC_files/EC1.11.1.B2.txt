@@ -1,0 +1,16 @@
+KCAT	Curvularia inaequalis	15.2	H2O2	*pH 6.3, recombinant VCPO
+KCAT	Curvularia inaequalis	63.8	H2O2	*pH 5.0, mutant enzyme S402A
+KCAT	Curvularia inaequalis	183	H2O2	*pH 5.0, recombinant VCPO
+KCAT	Curvularia inaequalis	1.13	Cl-	*pH 5.0, mutant enzyme S402A
+KCAT	Curvularia inaequalis	1.42	Cl-	*pH 6.3, mutant enzyme S402A
+KCAT	Curvularia inaequalis	5.7	Cl-	*pH pH 6.3, mutant enzyme F397H
+KCAT	Curvularia inaequalis	6.5	Cl-	*pH 5.0, mutant enzyme F397H
+KCAT	Curvularia inaequalis	7.3	Cl-	*pH 6.3, recombinant VCPO
+KCAT	Curvularia inaequalis	23	Cl-	*pH 5.0, recombinant VCPO
+KCAT	Curvularia inaequalis	8.1	Br-	*pH 6.3, mutant enzyme S402A
+KCAT	Curvularia inaequalis	21.3	Br-	*pH 6.3, recombinant VCPO
+KCAT	Curvularia inaequalis	33.5	Br-	*pH pH 6.3, mutant enzyme F397H
+KCAT	Curvularia inaequalis	81.7	Br-	*pH 5.0, mutant enzyme S402A
+KCAT	Curvularia inaequalis	84.4	Br-	*pH 5.0, mutant enzyme F397H
+KCAT	Curvularia inaequalis	200	Br-	*pH 5.0, recombinant VCPO
+KCAT	Curvularia inaequalis	-999	more	*

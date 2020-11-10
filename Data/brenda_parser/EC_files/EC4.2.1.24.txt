@@ -1,0 +1,2 @@
+KCAT	Pseudomonas aeruginosa	16.1	5-aminolevulinic acid	*
+KCAT	Homo sapiens	-999	more	*

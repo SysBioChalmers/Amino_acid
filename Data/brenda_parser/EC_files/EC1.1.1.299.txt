@@ -1,0 +1,8 @@
+KCAT	Flavobacterium frigidimaris	41	NAD+	*10&deg;C
+KCAT	Flavobacterium frigidimaris	41.3	L-malate	*10&deg;C
+KCAT	Flavobacterium frigidimaris	48.4	L-malate	*20&deg;C
+KCAT	Flavobacterium frigidimaris	48.6	NAD+	*20&deg;C
+KCAT	Flavobacterium frigidimaris	83.2	L-malate	*30&deg;C
+KCAT	Flavobacterium frigidimaris	83.4	NAD+	*30&deg;C
+KCAT	Flavobacterium frigidimaris	138	L-malate	*40&deg;C
+KCAT	Flavobacterium frigidimaris	139	NAD+	*40&deg;C

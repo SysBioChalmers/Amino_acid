@@ -1,0 +1,21 @@
+KCAT	Bos taurus	0.13	6-Mercaptopurine	*25&deg;C
+KCAT	Homo sapiens	0.33	hypoxanthine	*pH 8.5, 25&deg;C, recombinant mutant R881M
+KCAT	Rattus norvegicus	0.41	xanthine	*xanthine oxidoreductase mutant W335A/F336L, pH 7.8, 25&deg;C
+KCAT	Bos taurus	1.16	xanthine	*pH not specified in the publication, temperature not specified in the publication, mutant E802Q
+KCAT	Bos taurus	1.28	NADPH	*cosubstrate cytochrome c
+KCAT	Homo sapiens	1.35	xanthine	*pH 8.5, 25&deg;C, recombinant mutant E308V
+KCAT	Bos taurus	1.98	2-mercaptopurine	*25&deg;C
+KCAT	Rhodobacter capsulatus	2.14	xanthine	*pH 8.5, 25&deg;c, recombinant mutant E232Q
+KCAT	Bos taurus	2.57	NADPH	*cosubstrate indophenol
+KCAT	Bos taurus	2.76	6-Thioxanthine	*25&deg;C
+KCAT	Bos taurus	3.32	2-Thioxanthine	*25&deg;C
+KCAT	Bos taurus	4.35	hypoxanthine	*cofactor 2,6-dichlorophenolindophenol
+KCAT	Bos taurus	4.92	xanthine	*(+ O2)
+KCAT	Bos taurus	5.25	xanthine	*cofactor 2,6-dichlorophenolindophenol
+KCAT	Rattus norvegicus	9.73	xanthine	*xanthine oxidoreductase mutant W335A/F336L treated with dithiothreitol, pH 7.8, 25&deg;C
+KCAT	Rattus norvegicus	12.47	xanthine	*xanthine oxidoreductase mutant W335A/F336L, pH 7.8, 25&deg;C
+KCAT	Bos taurus	16.2	xanthine	*pH 8.2, 23.5&deg;C
+KCAT	Homo sapiens	18.3	xanthine	*pH 8.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	30	hypoxanthine	*pH 8.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Bos taurus	108	xanthine	*pH not specified in the publication, temperature not specified in the publication, wild-type enzyme
+KCAT	Rhodobacter capsulatus	135	xanthine	*pH 8.5, 25&deg;C, recombinant wild-type enzyme

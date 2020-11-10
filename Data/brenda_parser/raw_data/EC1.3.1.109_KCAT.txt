@@ -1,0 +1,1 @@
+ecNumber*1.3.1.109#turnoverNumber*2#turnoverNumberMaximum*8#substrate*butanoyl-CoA#commentary*pH 7.5, 22-25&Acirc;&deg;C#organism*Clostridioides difficile#ligandStructureId*802#literature*725287#

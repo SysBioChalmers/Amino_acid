@@ -1,0 +1,1 @@
+ecNumber*4.1.99.20#turnoverNumber*0.025#turnoverNumberMaximum*#substrate*2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate#commentary*30&Acirc;&deg;C, pH 7.2#organism*Streptomyces griseus#ligandStructureId*28959#literature*722650#

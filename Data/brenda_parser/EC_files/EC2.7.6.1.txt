@@ -1,0 +1,11 @@
+KCAT	Mycobacterium tuberculosis	0.66	ATP	*in 50 mM Tris-HCl pH 8.0, at 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	35.1	D-ribose 5-phosphate	*in the presence of 5 mM Mg2+, in 50 mM potassium phosphate pH 8.0, at 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	37	D-ribose 5-phosphate	*in the absence of Mg2+ or Mn2+, in 50 mM potassium phosphate pH 8.0, at 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	44.7	D-ribose 5-phosphate	*in the presence of 5 mM Mn2+, in 50 mM potassium phosphate pH 8.0, at 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	60.68	D-ribose 5-phosphate	*cosubstrate ATP, in 50 mM Tris-HCl pH 8.0, at 25&Acirc;&deg;C
+KCAT	Pyrobaculum calidifontis	311	D-ribose 5-phosphate	*pH 10.5, 55&Acirc;&deg;C, recombinant enzyme
+KCAT	Mycobacterium tuberculosis	34.6	Mg-ATP2-	*in the presence of 5 mM Mg2+, in 50 mM potassium phosphate pH 8.0, at 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	35.5	Mg-ATP2-	*in the absence of free Mg2+ or Mn2+, in 50 mM potassium phosphate pH 8.0, at 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	44.3	Mg-ATP2-	*in the presence of 5 mM Mn2+, in 50 mM potassium phosphate pH 8.0, at 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	45.1	Mn-ATP2-	*in the presence of 5 mM Mn2+, in 50 mM potassium phosphate pH 8.0, at 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	46.3	Mn-ATP2-	*in the absence of free Mg2+ or Mn2+, in 50 mM potassium phosphate pH 8.0, at 37&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.3.1.100#turnoverNumber*38.5#turnoverNumberMaximum*#substrate*chanoclavine-I aldehyde#commentary*pH and temperature not specified in the publication#organism*Aspergillus fumigatus#ligandStructureId*6391#literature*722448#

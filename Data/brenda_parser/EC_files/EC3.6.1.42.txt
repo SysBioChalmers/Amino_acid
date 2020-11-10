@@ -1,0 +1,1 @@
+KCAT	Saccharomyces cerevisiae	3830	GDP	*

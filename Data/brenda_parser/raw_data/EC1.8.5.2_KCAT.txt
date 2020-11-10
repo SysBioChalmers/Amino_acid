@@ -1,0 +1,1 @@
+ecNumber*1.8.5.2#turnoverNumber*167#turnoverNumberMaximum*#substrate*thiosulfate#commentary*; 80&Acirc;&deg;C, pH 6.0#organism*Acidianus ambivalens#ligandStructureId*475#literature*656833#

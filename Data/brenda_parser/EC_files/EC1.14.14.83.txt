@@ -1,0 +1,2 @@
+KCAT	Catharanthus roseus	0.131	geraniol	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Catharanthus roseus	2.8	geraniol	*pH 7.4, 27&deg;C

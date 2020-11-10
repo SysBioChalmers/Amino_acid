@@ -1,0 +1,29 @@
+KCAT	Fusarium verticillioides	-999	more	*the turnover number for homogalacturonan is 104 per sec
+KCAT	Kluyveromyces marxianus	1.83	polygalacturonic acid	*
+KCAT	Tetracoccosporium sp.	1.894	polygalacturonic acid	*
+KCAT	Tetracoccosporium sp.	2.94	polygalacturonic acid	*
+KCAT	Kluyveromyces marxianus	6.08	Pectin	*apple pectin, 75% degree of esterification
+KCAT	Fusarium verticillioides	6.7	Polygalacturonate	*pH 5.0, 40&deg;C
+KCAT	Rhizopus oryzae	8.6	trigalacturonate	*at pH 4.0 and 30&deg;C
+KCAT	Chondrostereum purpureum	12.4	Pectin	*pro-enzyme, at pH 4.5 and 30&deg;C
+KCAT	Chondrostereum purpureum	20.2	Pectin	*pro-enzyme, at pH 4.0 and 30&deg;C
+KCAT	Fusarium verticillioides	21.6	alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonate	*
+KCAT	Fusarium verticillioides	24.7	alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonate	*
+KCAT	Aspergillus japonicus	26	Polygalacturonate	*polygalacturonase II
+KCAT	Rhizopus oryzae	27.4	tetragalacturonate	*at pH 4.0 and 30&deg;C
+KCAT	Rhizopus oryzae	35.8	pentagalacturonate	*at pH 4.0 and 30&deg;C
+KCAT	Aspergillus fumigatus	44	Polygalacturonate	*at pH 10.0 and 30&deg;C
+KCAT	Rhizopus oryzae	45.7	hexagalacturonate	*at pH 4.0 and 30&deg;C
+KCAT	Fusarium verticillioides	70	Polygalacturonate	*pH 4.8, 45&deg;C
+KCAT	Fusarium verticillioides	81.1	alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonate	*
+KCAT	Aspergillus japonicus	90	Polygalacturonate	*polygalacturonase I
+KCAT	Fusarium verticillioides	106.3	alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonate	*
+KCAT	Fusarium verticillioides	122.5	alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonosyl-(1,4)-O-alpha-D-galacturonate	*
+KCAT	Chondrostereum purpureum	230	Pectin	*mature enzyme, at pH 4.5 and 30&deg;C
+KCAT	Chondrostereum purpureum	334	Polygalacturonate	*pro-enzyme, at pH 4.5 and 30&deg;C
+KCAT	Penicillium oxalicum	552.3	Pectin	*pH 5.0, 50&deg;C, recombinant wild-type full-length enzyme
+KCAT	Trichoderma harzianum	592	polygalacturonic acid	*
+KCAT	Chondrostereum purpureum	996	Polygalacturonate	*mature enzyme, at pH 4.5 and 30&deg;C
+KCAT	Chondrostereum purpureum	1670	Polygalacturonate	*pro-enzyme, at pH 4.0 and 30&deg;C
+KCAT	Penicillium oxalicum	2022	polygalacturonic acid	*pH 5.0, 50&deg;C, recombinant catalytic polygalacturonase domain
+KCAT	Penicillium oxalicum	4068	polygalacturonic acid	*pH 5.0, 50&deg;C, recombinant wild-type full-length enzyme

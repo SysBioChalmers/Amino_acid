@@ -1,0 +1,9 @@
+KCAT	Saccharolobus solfataricus	0.48	amylopectin	*pH 6.5, 75&Acirc;&deg;C, calculated as microMol maltose released from the substrate, in absence of DMSO
+KCAT	Saccharolobus solfataricus	0.923	amylopectin	*pH 5.5, 75&Acirc;&deg;C, calculated as microMol maltose released from the substrate, in absence of DMSO
+KCAT	Saccharolobus solfataricus	7.57	amylopectin	*pH 5.5, 75&Acirc;&deg;C, calculated as microMol maltose released from the substrate, in presence of DMSO
+KCAT	Saccharolobus solfataricus	17.35	amylopectin	*pH 5.5, 75&Acirc;&deg;C, calculated as microMol maltose released from the substrate, in presence of DMSO
+KCAT	Nostoc punctiforme	0.0205	maltononaose	*in 50 mM sodium phosphate buffer (pH 7.5) at 30&Acirc;&deg;C
+KCAT	Nostoc punctiforme	0.0452	maltoundecaose	*in 50 mM sodium phosphate buffer (pH 7.5) at 30&Acirc;&deg;C
+KCAT	Nostoc punctiforme	0.045	maltodecaose	*in 50 mM sodium phosphate buffer (pH 7.5) at 30&Acirc;&deg;C
+KCAT	Nostoc punctiforme	0.0478	maltododecaose	*in 50 mM sodium phosphate buffer (pH 7.5) at 30&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	2570	6-O-alpha-maltotetraosyl-beta-cyclodextrin	*pH 5.5, 75&Acirc;&deg;C

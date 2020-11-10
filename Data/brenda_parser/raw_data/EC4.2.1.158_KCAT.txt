@@ -1,0 +1,1 @@
+ecNumber*4.2.1.158#turnoverNumber*6.8#turnoverNumberMaximum*#substrate*galactarate#commentary*pH 8.0, 30&Acirc;&deg;C#organism*Oceanobacillus iheyensis#ligandStructureId*3374#literature*702265#

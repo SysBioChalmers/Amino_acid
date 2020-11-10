@@ -1,0 +1,1 @@
+KCAT	Pyrococcus furiosus	3.8	hydroxylamine	*purified enzyme, at 70&deg;C and pH 9.0

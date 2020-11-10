@@ -1,0 +1,1 @@
+ecNumber*1.2.1.B25#turnoverNumber*0.006#turnoverNumberMaximum*#substrate*stearoyl-CoA#commentary*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme#organism*Synechococcus elongatus#ligandStructureId*526#literature*742484#

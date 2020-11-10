@@ -1,0 +1,3 @@
+KCAT	Sinorhizobium meliloti	0.002	NADPH	*pH 7.5, 22C
+KCAT	Sinorhizobium meliloti	0.002	NADH	*pH 7.5, 22C
+KCAT	Sinorhizobium meliloti	0.018	FMNH2	*pH 7.5, 22C

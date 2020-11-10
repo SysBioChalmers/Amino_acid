@@ -1,0 +1,1 @@
+ecNumber*7.2.2.12#turnoverNumber*300#turnoverNumberMaximum*#substrate*ATP#commentary*in the presence of Zn2+ or Cd2+, in 0.6 M Tris, 2 M NaCl and 0.1 M MgCl2, pH 8.0, at 30&deg;C#organism*Noccaea caerulescens#ligandStructureId*4#literature*718974#

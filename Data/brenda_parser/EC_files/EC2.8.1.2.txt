@@ -1,0 +1,27 @@
+KCAT	Rattus norvegicus	0.0783	3-Mercaptopyruvate	*S249K mutant
+KCAT	Rattus norvegicus	0.233	3-Mercaptopyruvate	*G248R mutant
+KCAT	Homo sapiens	0.3	glutathione	*in 200 mM of HEPES, pH 7.4, at 37&deg;C
+KCAT	Homo sapiens	0.8	L-homocysteine	*in 200 mM of HEPES, pH 7.4, at 37&deg;C
+KCAT	Rattus norvegicus	0.917	3-Mercaptopyruvate	*S249A mutant
+KCAT	Rattus norvegicus	1.03	3-Mercaptopyruvate	*wild-type enzyme
+KCAT	Rattus norvegicus	1.07	3-Mercaptopyruvate	*R196G mutant
+KCAT	Homo sapiens	1.1	L-cysteine	*in 200 mM of HEPES, pH 7.4, at 37&deg;C
+KCAT	Homo sapiens	1.3	thioredoxin	*in 200 mM of HEPES, pH 7.4, at 37&deg;C
+KCAT	Homo sapiens	1.7	dihydrolipoic acid	*in 200 mM of HEPES, pH 7.4, at 37&deg;C
+KCAT	Homo sapiens	2.4	cyanide	*in 200 mM of HEPES, pH 7.4, at 37&deg;C
+KCAT	Rattus norvegicus	5.67	3-Mercaptopyruvate	*R187G mutant
+KCAT	Homo sapiens	6.1	dithiothreitol	*in 200 mM of HEPES, pH 7.4, at 37&deg;C
+KCAT	Homo sapiens	8.6	3-Mercaptopyruvate	*isoform TUM1-Iso2, with cyanide as cosubstrate, at pH 10.5 and 37&deg;C
+KCAT	Homo sapiens	8.8	3-Mercaptopyruvate	*isoform TUM1-Iso1, with cyanide as cosubstrate, at pH 10.5 and 37&deg;C
+KCAT	Trichomonas vaginalis	11.3	thiosulfate	*pH 8.4, 30&deg;C
+KCAT	Escherichia coli	12.5	3-Mercaptopyruvate	*in the presence of cyanide, pH 9.55, 37&deg;C
+KCAT	Homo sapiens	20.2	3-Mercaptopyruvate	*isoform TUM1-Iso2, with dithiothreitol as cosubstrate, at pH 10.5 and 37&deg;C
+KCAT	Homo sapiens	20.9	3-Mercaptopyruvate	*isoform TUM1-Iso1, with dithiothreitol as cosubstrate, at pH 10.5 and 37&deg;C
+KCAT	Rattus norvegicus	25	3-Mercaptopyruvate	*pH 9.55
+KCAT	Arabidopsis thaliana	30	3-Mercaptopyruvate	*MST2, 30&deg;C
+KCAT	Arabidopsis thaliana	165	3-Mercaptopyruvate	*MST1, 30&deg;C
+KCAT	Trichomonas vaginalis	172	thioredoxin	*pH 8.4, 30&deg;C
+KCAT	Homo sapiens	229	2-mercaptoethanol	*in 200 mM of HEPES, pH 7.4, at 37&deg;C
+KCAT	Trichomonas vaginalis	2240	cysteine	*pH 8.4, 30&deg;C
+KCAT	Trichomonas vaginalis	2260	3-Mercaptopyruvate	*pH 8.4, 30&deg;C
+KCAT	Trichomonas vaginalis	5310	2-mercaptoethanol	*pH 8.4, 30&deg;C

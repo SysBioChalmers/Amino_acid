@@ -1,0 +1,4 @@
+KCAT	Pseudomonas putida	-999	more	*overview: values for cytochrome LIN P-450 with various synthetic substrates
+KCAT	Pseudomonas putida	2	NADH	*substrate-stimulated NADH oxidation using excess amounts of P-450 and FAD component of the enzyme
+KCAT	Pseudomonas putida	32	NADH	*substrate-stimulated NADH oxidation using excess amounts of iron-sulfur and FAD component of the enzyme
+KCAT	Pseudomonas putida	43	NADH	*substrate-stimulated NADH oxidation using excess amounts of iron sulfur and P-450 component of the enzyme

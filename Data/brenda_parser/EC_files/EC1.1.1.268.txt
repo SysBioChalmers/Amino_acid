@@ -1,0 +1,30 @@
+KCAT	Xanthobacter autotrophicus	2.9	2-propanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.012	2-butanone	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R203A
+KCAT	Xanthobacter autotrophicus	0.027	2-butanone	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Xanthobacter autotrophicus	0.028	2-butanone	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R152A
+KCAT	Xanthobacter autotrophicus	0.032	2-butanone	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R209A
+KCAT	Xanthobacter autotrophicus	0.033	2-butanone	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R196A
+KCAT	Xanthobacter autotrophicus	2.2	(S)-2-butanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	9.3	(S)-2-butanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.98	(R)-2-butanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	1.9	(R)-2-butanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter sp.	24.5	2-oxopropyl-CoM	*
+KCAT	Xanthobacter autotrophicus	29	2-oxopropyl-CoM	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.12	2-(S)-hydroxypropyl-CoM	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	2.9	(S)-2-pentanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	1.1	(R)-2-pentanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter sp.	25.8	2-(R)-hydroxypropyl-CoM	*
+KCAT	Xanthobacter autotrophicus	29	2-(R)-hydroxypropyl-CoM	*pH 7.4, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	49	2-(R)-hydroxypropyl-CoM	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	1.7	(R)-2-octanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	1.4	2-(2-ketopropylthio)ethanesulfonate	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R152A
+KCAT	Xanthobacter autotrophicus	2.4	2-(2-ketopropylthio)ethanesulfonate	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R196A
+KCAT	Xanthobacter autotrophicus	15	2-(2-ketopropylthio)ethanesulfonate	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R209A
+KCAT	Xanthobacter autotrophicus	24.5	2-(2-ketopropylthio)ethanesulfonate	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Xanthobacter autotrophicus	27.9	2-(2-ketopropylthio)ethanesulfonate	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R203A
+KCAT	Xanthobacter sp.	0.29	2-(2-hydroxyethylthio)ethanesulfonate	*
+KCAT	Xanthobacter autotrophicus	0.55	2-(2-hydroxyethylthio)ethanesulfonate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	1.8	(R)-2-heptanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	2.7	(R)-2-hexanol	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	26.8	2-[(R)-2-hydroxypropylthio]ethanesulfonate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Xanthobacter autotrophicus	0.044	2-[(S)-2-hydroxypropylthio]ethanesulfonate	*pH 7.5, 30&Acirc;&deg;C

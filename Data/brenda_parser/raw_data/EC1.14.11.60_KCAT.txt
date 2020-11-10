@@ -1,0 +1,1 @@
+ecNumber*1.14.11.60#turnoverNumber*1.73#turnoverNumberMaximum*#substrate*scopoletin#commentary*pH 8.0, 31.5&Acirc;&deg;C#organism*Arabidopsis thaliana#ligandStructureId*1357#literature*748335#

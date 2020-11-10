@@ -1,0 +1,3 @@
+KCAT	Bacillus circulans	0.02	S-adenosyl-L-methionine	*pH 8.0, 28&Acirc;&deg;C
+KCAT	Bacillus circulans	0.021	S-adenosyl-L-methionine	*pH 8.0, 28&Acirc;&deg;C, EDTA-treated enzyme
+KCAT	Bacillus circulans	0.033	2-deoxy-scyllo-inosamine	*pH 8.0, 28&Acirc;&deg;C

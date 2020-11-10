@@ -1,0 +1,4 @@
+KCAT	Streptococcus sp.	11.2	L-alpha-glycerophosphate	*10 microM enzyme and 0.77 mM O2, substrate concentration ranges between 2.5 and 50 mM, pH 7.0, 5&Acirc;&deg;C, recombinant deletion mutant
+KCAT	Streptococcus sp.	14.1	L-alpha-glycerophosphate	*10 microM enzyme and 0.77 mM O2, substrate concentration ranges between 2.5 and 50 mM, pH 7.0, 5&Acirc;&deg;C, wild-type enzyme, nicked
+KCAT	Streptococcus sp.	17.9	L-alpha-glycerophosphate	*10 microM enzyme and 0.77 mM O2, substrate concentration ranges between 2.5 and 50 mM, pH 7.0, 5&Acirc;&deg;C, wild-type enzyme, intact
+KCAT	Enterococcus faecium	23.8	L-glycerophosphate	*strain ATCC 12755

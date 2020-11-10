@@ -1,0 +1,2 @@
+KCAT	Aspergillus fumigatus	0.38	chanoclavine-I	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Trichophyton benhamiae	0.76	chanoclavine-I	*pH 7.5, 37&Acirc;&deg;C

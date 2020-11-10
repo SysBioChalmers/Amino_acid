@@ -1,0 +1,14 @@
+KCAT	Escherichia coli	0.001	bis(p-nitrophenyl)phosphate	*mutant D164A, pH 7.1, 25&deg;C, presence of Mn2+; mutant D54A, pH 7.1, 25&deg;C, presence of Mn2+; mutant D80A, pH 7.1, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	0.003	bis(p-nitrophenyl)phosphate	*mutant H78A, pH 7.1, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	0.03	bis(p-nitrophenyl)phosphate	*pH 7.2, 25&deg;C, presence of Zn2+
+KCAT	Escherichia coli	0.08	thymidine 5'-monophosphate p-nitrophenyl ester	*pH 7.2, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	0.13	bis(p-nitrophenyl)phosphate	*mutant H222A, pH 7.1, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	0.25	bis(p-nitrophenyl)phosphate	*mutant T75A, pH 7.1, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	0.55	bis(p-nitrophenyl)phosphate	*mutant H200A, pH 7.1, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	0.64	2',3'-cCMP	*pH 7.2, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	0.88	bis(p-nitrophenyl)phosphate	*mutant D187A, pH 7.1, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	1.07	bis(p-nitrophenyl)phosphate	*wild-type, pH 7.1, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	1.19	bis(p-nitrophenyl)phosphate	*pH 7.2, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	1.23	2',3'-cGMP	*pH 7.2, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	1.71	2',3'-cAMP	*pH 7.2, 25&deg;C, presence of Mn2+
+KCAT	Escherichia coli	4.1	bis(p-nitrophenyl)phosphate	*pH 7.2, 25&deg;C, presence of Ni2+

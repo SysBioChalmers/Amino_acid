@@ -1,0 +1,1 @@
+ecNumber*6.2.1.B5#turnoverNumber*0.31#turnoverNumberMaximum*#substrate*[acyl-carrier protein Atu2571]#commentary*pH 7.5, 30&deg;C#organism*Agrobacterium tumefaciens#ligandStructureId*#literature*706553#

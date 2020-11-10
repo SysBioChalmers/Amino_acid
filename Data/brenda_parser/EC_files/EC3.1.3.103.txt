@@ -1,0 +1,6 @@
+KCAT	Bacteroides thetaiotaomicron	0.73	N-acetylneuraminic acid 9-phosphate	*pH 7, 25&Acirc;&deg;C
+KCAT	Bacteroides thetaiotaomicron	0.026	3-deoxy-D-glycero-D-galacto-nononate 9-phosphate	*mutant E56A, pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacteroides thetaiotaomicron	0.09	3-deoxy-D-glycero-D-galacto-nononate 9-phosphate	*mutant T34A, pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacteroides thetaiotaomicron	1.2	3-deoxy-D-glycero-D-galacto-nononate 9-phosphate	*pH 7, 25&Acirc;&deg;C
+KCAT	Bacteroides thetaiotaomicron	1.2	3-deoxy-D-glycero-D-galacto-nononate 9-phosphate	*mutant S37A, pH 7.0, 37&Acirc;&deg;C; wild-type, pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacteroides thetaiotaomicron	0.06	2-dehydro-3-deoxy-D-manno-octulosonic acid 8-phosphate	*pH 7, 25&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*3.5.99.11#turnoverNumber*208#turnoverNumberMaximum*#substrate*2-aminomuconate#commentary*pH 6.6, 25&Acirc;&deg;C#organism*Pseudomonas pseudoalcaligenes#ligandStructureId*7093#literature*172186#

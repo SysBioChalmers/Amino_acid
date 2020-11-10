@@ -1,0 +1,19 @@
+KCAT	Escherichia coli	-999	more	*values for mutant enzymes
+KCAT	Escherichia coli	2.1	5,10-methylenetetrahydrofolate	*N-terminal deletion mutant, His-tagged
+KCAT	Escherichia coli	2.9	reduced H-protein	*N-terminal deletion mutant, His-tagged
+KCAT	Escherichia coli	3.9	NH4Cl	*N-terminal deletion mutant, His-tagged
+KCAT	Escherichia coli	7.8	5,10-methylenetetrahydrofolate	*mutant T4A, His-tagged
+KCAT	Escherichia coli	8.5	reduced H-protein	*mutant T4A, His-tagged
+KCAT	Escherichia coli	8.75	5,10-methylenetetrahydropteroyltetraglutamate	*
+KCAT	Escherichia coli	9.5	5,10-methylenetetrahydropteroyltetraglutamate	*N-terminal deletion mutant, His-tagged
+KCAT	Escherichia coli	9.6	NH4Cl	*mutant T4A, His-tagged
+KCAT	Escherichia coli	10.3	5,10-methylenetetrahydrofolate	*mutant L6A, His-tagged
+KCAT	Escherichia coli	10.5	5,10-methylenetetrahydropteroyltetraglutamate	*wild-type with His-tag
+KCAT	Escherichia coli	10.6	5,10-methylenetetrahydropteroyltetraglutamate	*mutant L6A, His-tagged
+KCAT	Escherichia coli	11.6	5,10-methylenetetrahydropteroyltetraglutamate	*mutant T4A, His-tagged
+KCAT	Escherichia coli	11.6	NH4Cl	*mutant L6A, His-tagged
+KCAT	Escherichia coli	13.3	reduced H-protein	*mutant L6A, His-tagged
+KCAT	Escherichia coli	14.4	5,10-methylenetetrahydrofolate	*
+KCAT	Escherichia coli	18.4	5,10-methylenetetrahydrofolate	*wild-type with His-tag
+KCAT	Escherichia coli	19.4	reduced H-protein	*wild-type with His-tag
+KCAT	Escherichia coli	20.9	NH4Cl	*wild-type with His-tag

@@ -1,0 +1,8 @@
+KCAT	Escherichia coli	0.04	ferric diglucosyl-enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	0.05	ferric enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	0.05	ferric monoglucosyl-enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	0.13	ferric triglucosyl-enterobactin	*turnover number above 0.13 1/sec, at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	5.33	diglucosyl-enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	6.25	enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	7.17	monoglucosyl-enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	7.5	triglucosyl-enterobactin	*at pH 7.5 and 23&deg;C

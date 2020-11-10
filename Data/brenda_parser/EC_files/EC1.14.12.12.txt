@@ -1,0 +1,2 @@
+KCAT	Sphingomonas sp.	1.01	biphenyl	*at 30&deg;C in reaction mixtures containing 0.00013 mM ht-PhnI and 0.5 mM NADH in 50 mM potassium phosphate buffer, pH 7.0
+KCAT	Sphingomonas sp.	1.82	Naphthalene	*at 30&deg;C in reaction mixtures containing 0.00013 mM ht-PhnI and 0.5 mM NADH in 50 mM potassium phosphate buffer, pH 7.0

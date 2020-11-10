@@ -1,0 +1,11 @@
+KCAT	Mus musculus	17.5	2-Oxoglutaramate	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Zea mays	50.8	2-Oxoglutaramate	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Zea mays	63.1	2-Oxoglutaramate	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Solanum lycopersicum	72.7	2-Oxoglutaramate	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Mus musculus	0.87	2-oxosuccinamate	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Mus musculus	1.15	2-oxosuccinamate	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Mus musculus	4.1	Glutaramate	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Mus musculus	8.8	Glutaramate	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Mus musculus	2	succinamate	*pH 7.2, 30&Acirc;&deg;C
+KCAT	Mus musculus	2.8	succinamate	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Mus musculus	134.5	gamma-monomethyl-2-oxoglutaramate	*pH 7.2, 30&Acirc;&deg;C

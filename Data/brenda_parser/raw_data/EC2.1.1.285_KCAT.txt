@@ -1,0 +1,1 @@
+ecNumber*2.1.1.285#turnoverNumber*0.4#turnoverNumberMaximum*#substrate*demethyldecarbamoylnovobiocin#commentary*pH 8.5, 22&deg;C#organism*Streptomyces niveus#ligandStructureId*28940#literature*721284#

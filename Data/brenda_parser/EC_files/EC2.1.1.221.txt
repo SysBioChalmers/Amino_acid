@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	0.0023	guanine9 in tRNAGlyGCC	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Schizosaccharomyces pombe	0.0027	guanine9 in tRNAGly	*tRNA from Schizosaccharomyces pombe, recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	0.0028	guanine9 in tRNAGly	*tRNA from Schizosaccharomyces pombe, recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	0.0052	guanine9 in tRNAValUAC	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Saccharomyces cerevisiae	0.009	guanine9 in tRNAGlyGCC	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Homo sapiens	0.012	guanine9 in tRNAValUAC	*pH 8.0, 30&deg;C, recombinant enzyme

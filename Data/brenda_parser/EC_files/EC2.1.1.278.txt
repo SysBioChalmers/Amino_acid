@@ -1,0 +1,3 @@
+KCAT	Oryza sativa Japonica Group	0.025	S-adenosyl-L-methionine	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	0.025	(indol-3-yl)acetate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.028	(indol-3-yl)acetate	*pH 7.5, 25&Acirc;&deg;C

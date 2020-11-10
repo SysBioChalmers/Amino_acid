@@ -1,0 +1,1 @@
+ecNumber*3.1.1.27#turnoverNumber*1.4#turnoverNumberMaximum*#substrate*4-pyridoxate#commentary*pH 7.5#organism*Mesorhizobium loti#ligandStructureId*9063#literature*664212#!ecNumber*3.1.1.27#turnoverNumber*12.2#turnoverNumberMaximum*#substrate*4-Pyridoxolactone#commentary*pH 7.5#organism*Mesorhizobium loti#ligandStructureId*5112#literature*664212#

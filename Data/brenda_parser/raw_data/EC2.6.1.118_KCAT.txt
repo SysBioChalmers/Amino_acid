@@ -1,0 +1,1 @@
+ecNumber*2.6.1.118#turnoverNumber*0.8#turnoverNumberMaximum*#substrate*N2-acetyl-L-lysine#commentary*pH 8.9, 45&deg;C#organism*Thermus thermophilus#ligandStructureId*48038#literature*753998#!ecNumber*2.6.1.118#turnoverNumber*1#turnoverNumberMaximum*#substrate*N2-Acetyl-L-ornithine#commentary*pH 8.9, 45&deg;C#organism*Thermus thermophilus#ligandStructureId*2570#literature*753998#

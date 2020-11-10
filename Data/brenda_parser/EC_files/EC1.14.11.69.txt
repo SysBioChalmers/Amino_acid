@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	0.000217	[histone H3]-N6,N6,N6-trimethyl-L-lysine 36	*pH 7.3, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Homo sapiens	0.00022	[histone H3]-N6,N6,N6-trimethyllysine36	*pH 7.3, 37&Acirc;&deg;C

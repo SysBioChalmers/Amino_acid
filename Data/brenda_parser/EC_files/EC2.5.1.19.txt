@@ -1,0 +1,71 @@
+KCAT	Pseudomonas aeruginosa	-999	5-enolpyruvylshikimate 3-phosphate	*kat/KM: 1100000 M(-1)s(-1), mutant L104P; kcat/KM: 3400000 M(-1)s(-1); kcat/KM: 660000 M(-1)s(-1), mutant G99A
+KCAT	Pseudomonas aeruginosa	-999	phosphate	*kcat/KM: 110 M(-1)s(-1), mutant L104P; kcat/KM: 130 M(-1)s(-1), mutant G99A; kcat/KM: 960 M(-1)s(-1)
+KCAT	Escherichia coli	-999	phosphoenolpyruvate	*kcat/KM: 240000 1/M*s, mutant P101G; kcat/KM: 280000 1/M*s, mutant P101A; kcat/KM: 290000 1/M*s, mutant P101S; kcat/KM: 41000 1/M*s, mutant P101L; kcat/KM: 640000 1/M*s
+KCAT	Escherichia coli	-999	shikimate 3-phosphate	*kcat/KM: 200000 1/M*s, mutant P101S; kcat/KM: 390000 1/M*s, mutant P101A; kcat/KM: 390000 1/M*s, mutant P101G; kcat/KM: 62000 1/M*s, mutant P101L; kcat/KM: 640000 1/M*s
+KCAT	Escherichia coli	0.0000045	phosphoenolpyruvate	*5-enpolpyruvylshikimate 3-phosphate ketal formation in presence of shikimate 3-phosphate and equimolar phosphoenolpyruvate
+KCAT	Escherichia coli	0.000012	5-enolpyruvylshikimate 3-phosphate	*5-enpolpyruvylshikimate 3-phosphate ketal formation by hydrolysis of radiolabelled 5-enpolpyruvylshikimate 3-phosphate, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	0.000049	phosphoenolpyruvate	*5-enpolpyruvylshikimate 3-phosphate ketal formation in presence of shikimate 3-phosphate and 6.7 equivalents of phosphoenolpyruvate
+KCAT	Escherichia coli	0.00008	phosphoenolpyruvate	*5-enpolpyruvylshikimate 3-phosphate ketal formation in presence of shikimate 3-phosphate and 6.7 equivalents of phosphoenolpyruvate and 10 mM phosphate
+KCAT	Escherichia coli	0.026	3-phosphoshikimate	*50 mM KCl, mutant D313C, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	0.026	phosphoenolpyruvate	*50 mM KCl, mutant D313C, cosubstrate: 3-phosphoshikimate
+KCAT	Streptococcus pneumoniae	0.22	phosphate	*reverse reaction, in the presence of 50 mM KCl
+KCAT	Streptococcus pneumoniae	0.23	5-enolpyruvylshikimate 3-phosphate	*reverse reaction, in the presence of 50 mM KCl
+KCAT	Escherichia coli	0.3	3-phosphoshikimate	*50 mM KCl, mutant K22A value above 0.3, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	0.3	phosphoenolpyruvate	*50 mM KCl, mutant K22A value above 0.3, cosubstrate: 3-phosphoshikimate
+KCAT	Escherichia coli	0.41	3-phosphoshikimate	*50 mM KCl, mutant H385A, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	0.41	phosphoenolpyruvate	*50 mM KCl, mutant H385A, cosubstrate: 3-phosphoshikimate
+KCAT	Pseudomonas aeruginosa	1	phosphate	*25&deg;C, pH 7.0, mutant enzyme G99A
+KCAT	Pseudomonas aeruginosa	1	phosphate	*+/-0.03, mutant G99A
+KCAT	Escherichia coli	1.1	3-phosphoshikimate	*50 mM KCl, mutant D313L, cosubstrate: phosphoenolpyruvate; 50 mM KCl, mutant E341Q, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	1.1	phosphoenolpyruvate	*50 mM KCl, mutant D313L, cosubstrate: 3-phosphoshikimate; 50 mM KCl, mutant E341Q, cosubstrate: 3-phosphoshikimate
+KCAT	Escherichia coli	1.2	3-phosphoshikimate	*50 mM KCl, mutant D313A, cosubstrate: phosphoenolpyruvate
+KCAT	Pseudomonas aeruginosa	1.2	5-enolpyruvylshikimate 3-phosphate	*25&deg;C, pH 7.0, mutant enzyme G99A
+KCAT	Pseudomonas aeruginosa	1.2	5-enolpyruvylshikimate 3-phosphate	*+/-0.04, mutant G99A
+KCAT	Escherichia coli	1.2	phosphoenolpyruvate	*50 mM KCl, mutant D313A, cosubstrate: 3-phosphoshikimate
+KCAT	Escherichia coli	1.7	3-phosphoshikimate	*50 mM KCl, mutant E341M, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	1.7	phosphoenolpyruvate	*50 mM KCl, mutant E341M, cosubstrate: 3-phosphoshikimate
+KCAT	Escherichia coli	1.8	3-phosphoshikimate	*50 mM KCl, mutant D313N, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	1.8	phosphoenolpyruvate	*50 mM KCl, mutant D313N, cosubstrate: 3-phosphoshikimate
+KCAT	Streptococcus pneumoniae	2	phosphoenolpyruvate	*in the presence of 1 mM NH4Cl and 10 mM KCl
+KCAT	Streptococcus pneumoniae	2.1	phosphoenolpyruvate	*in the presence of 1 mM NH4Cl
+KCAT	Pseudomonas aeruginosa	2.7	5-enolpyruvylshikimate 3-phosphate	*25&deg;C, pH 7.0, mutant strain L104P
+KCAT	Pseudomonas aeruginosa	2.7	5-enolpyruvylshikimate 3-phosphate	*+/-0.1, mutant L104P
+KCAT	Pseudomonas aeruginosa	2.8	phosphate	*25&deg;C, pH 7.0, mutant enzyme L104P
+KCAT	Pseudomonas aeruginosa	2.8	phosphate	*+/-0.2, mutant L104P
+KCAT	Streptococcus pneumoniae	2.8	phosphoenolpyruvate	*in the presence of 10 mM NH4Cl
+KCAT	Escherichia coli	3	3-phosphoshikimate	*50 mM KCl, mutant K22R value above 0.3, cosubstrate: phosphoenolpyruvate
+KCAT	Streptococcus pneumoniae	3	phosphoenolpyruvate	*in the presence of 100 mM NH4Cl
+KCAT	Escherichia coli	3	phosphoenolpyruvate	*50 mM KCl, mutant K22R value above 0.3, cosubstrate: 3-phosphoshikimate
+KCAT	Escherichia coli	3.6	3-phosphoshikimate	*50 mM KCl, mutant E341C, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	3.6	phosphoenolpyruvate	*50 mM KCl, mutant E341C, cosubstrate: 3-phosphoshikimate
+KCAT	Staphylococcus aureus	4.2	3-phosphoshikimate	*pH 7.0, recombinant enzyme, in presence of 100 mM KCl
+KCAT	Escherichia coli	4.2	3-phosphoshikimate	*50 mM KCl, mutant E341A, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	4.2	phosphoenolpyruvate	*50 mM KCl, mutant E341A, cosubstrate: 3-phosphoshikimate
+KCAT	Staphylococcus aureus	4.3	phosphoenolpyruvate	*pH 7.0, recombinant enzyme, in presence of 100 mM KCl
+KCAT	Pseudomonas aeruginosa	5.4	phosphate	*25&deg;C, pH 7.0, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	5.4	phosphate	*+/-0.4
+KCAT	Pseudomonas aeruginosa	7.4	5-enolpyruvylshikimate 3-phosphate	*25&deg;C, pH 7.0, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	7.4	5-enolpyruvylshikimate 3-phosphate	*+/-0.4
+KCAT	Streptococcus pneumoniae	12.8	phosphoenolpyruvate	*in the presence of 1 mM NH4Cl and 100 mM KCl
+KCAT	Escherichia coli	14	3-phosphoshikimate	*wild-type AroA, 100 mM KCl, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	14	phosphoenolpyruvate	*wild-type AroA, 100 mM KCl, cosubstrate: 3-phosphoshikimate
+KCAT	Escherichia coli	15	phosphoenolpyruvate	*mutant A183T, in presence of 1 mM shikimate 3-phosphate
+KCAT	Escherichia coli	21	phosphoenolpyruvate	*mutant G96A/A183T, in presence of 1 mM shikimate 3-phosphate
+KCAT	Pseudomonas fluorescens	26.2	phosphoenolpyruvate	*pH 7.0, 28&deg;C
+KCAT	Escherichia coli	26.4	phosphoenolpyruvate	*in presence of 1 mM shikimate 3-phosphate
+KCAT	Ochrobactrum anthropi	26.7	phosphoenolpyruvate	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Bacteria	28.3	phosphoenolpyruvate	*
+KCAT	Escherichia coli	29.7	phosphoenolpyruvate	*mutant G96A, in presence of 1 mM shikimate 3-phosphate
+KCAT	Ochrobactrum anthropi	31.7	phosphoenolpyruvate	*mutant N267S, pH 7.0, temperature not specified in the publication
+KCAT	Bacillus cereus	31.8	phosphoenolpyruvate	*pH 7.0, 28&deg;C
+KCAT	Escherichia coli	32	3-phosphoshikimate	*C-terminal His6-tagged AroA, 50 mM KCl, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	32	phosphoenolpyruvate	*C-terminal His6-tagged AroA, 50 mM KCl, cosubstrate: 3-phosphoshikimate
+KCAT	Neurospora crassa	33.6	3-phosphoshikimate	*cosubstrate phosphoenolpyruvate
+KCAT	Neurospora crassa	33.6	phosphoenolpyruvate	*cosubstrate 3-phosphoshikimate
+KCAT	Ochrobactrum anthropi	35	phosphoenolpyruvate	*mutant M425T, pH 7.0, temperature not specified in the publication
+KCAT	plant	38.4	phosphoenolpyruvate	*
+KCAT	Ochrobactrum anthropi	43.3	phosphoenolpyruvate	*mutant P318R, pH 7.0, temperature not specified in the publication
+KCAT	Ochrobactrum anthropi	51.7	phosphoenolpyruvate	*mutant E145G/N163H/N267S/P318R/M377V/M425T/P438L, pH 7.0, temperature not specified in the publication; mutant N267S/P318R/M425T, pH 7.0, temperature not specified in the publication
+KCAT	Escherichia coli	56.6	3-phosphoshikimate	*
+KCAT	Escherichia coli	100	3-phosphoshikimate	*C-terminal His6-tagged AroA, 100 mM KCl, cosubstrate: phosphoenolpyruvate
+KCAT	Escherichia coli	100	phosphoenolpyruvate	*C-terminal His6-tagged AroA, 100 mM KCl, cosubstrate: 3-phosphoshikimate

@@ -1,0 +1,4 @@
+KCAT	Plasmodium falciparum	0.011	Glu-7-amido-4-methylcoumarin	*at pH 7.5, in the absesence of Co2+
+KCAT	Plasmodium falciparum	0.05	Asp-7-amido-4-methylcoumarin	*at pH 7.5, in the absence of Co2+
+KCAT	Plasmodium falciparum	0.33	Glu-7-amido-4-methylcoumarin	*at pH 7.5, in the presence of 1 mM Co2+
+KCAT	Plasmodium falciparum	0.354	Asp-7-amido-4-methylcoumarin	*at pH 7.5, in the presence of 1 mM Co2+

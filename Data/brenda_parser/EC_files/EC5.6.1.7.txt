@@ -1,0 +1,28 @@
+KCAT	Thermoplasma acidophilum	0.000667	ATP	*ATPase rate per unit mass of chaperonin, in the absence of K+, only alpha subunits
+KCAT	Thermoplasma acidophilum	0.00183	ATP	*ATPase rate per unit mass of chaperonin, in the absence of K+, alpha,beta subunits
+KCAT	Thermoplasma acidophilum	0.002	ATP	*ATPase rate per unit mass of chaperonin, 100 mM KCl, only alpha subunits
+KCAT	Rhizobium leguminosarum	0.003	ATP	*20&deg;C
+KCAT	Thermoplasma acidophilum	0.0055	ATP	*ATPase rate per unit mass of chaperonin, 100 mM KCl, alpha,beta subunits
+KCAT	Rhizobium leguminosarum	0.009	ATP	*20&deg;C
+KCAT	Bos taurus	0.012	ATP	*one CCT ring
+KCAT	Rhizobium leguminosarum	0.014	ATP	*20&deg;C
+KCAT	Bos taurus	0.018	ATP	*both CCT rings
+KCAT	Escherichia coli	0.025	ATP	*20&deg;C
+KCAT	Escherichia coli	0.0275	ATP	*Mn2+ concentration variable, ATP concentration fixed, Mn-ATP complexes at 1 mM ATP and 0.8 mM Mn2+
+KCAT	Bos taurus	0.035	ATP	*in the absence of target protein, without cofactor A
+KCAT	Saccharomyces cerevisiae	0.0417	ATP	*rate per monomer
+KCAT	Escherichia coli	0.0462	ATP	*ATP concentration variable, Mn2+ concentration fixed, Mn-ATP complexes at 1 mM ATP and 0.8 mM Mn2+
+KCAT	Escherichia coli	0.0565	ATP	*Mg2+ concentration variable, ATP concentration fixed, Mg-ATP complexes at 1 mM ATP and 0.8 mM Mg2+
+KCAT	Allochromatium vinosum	0.06	ATP	*based on protomers
+KCAT	Hungateiclostridium thermocellum	0.07	ATP	*authentic and recombinant enzyme
+KCAT	Escherichia coli	0.0833	ATP	*rate per monomer
+KCAT	Escherichia coli	0.1	ATP	*ATP concentration variable, Mg2+ concentration fixed, Mg-ATP complexes at 1 mM ATP and 0.8 mM Mg2+
+KCAT	Escherichia coli	0.1	ATP	*
+KCAT	Escherichia coli	0.1	ATP	*based on protomers, 1 mM K+
+KCAT	Rhodobacter sphaeroides	0.13	ATP	*
+KCAT	Escherichia coli	0.132	ATP	*GroEL shows positive cooperativity in ATP hydrolysis, calculated for one GroEL ring in tense state and the other in relaxed state, may reflect true kcat for ATP hydrolysis of GroEL single ring
+KCAT	Bos taurus	0.133	ATP	*in folding reactions containing tubulin target proteins, without cofactor A
+KCAT	Escherichia coli	0.75	ATP	*
+KCAT	Methanococcus maripaludis	0.99	ATP	*37&deg;C
+KCAT	Thermoanaerobacter brockii	1	ATP	*rate per heptamer at 70&deg;C
+KCAT	Aeropyrum pernix	2.21	ATP	*90&deg;C, pH 5.0

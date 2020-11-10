@@ -1,0 +1,79 @@
+KCAT	Xanthobacter autotrophicus	-999	more	*GJ10, rate limiting step is hydrolysis of alkyl-enzyme intermediate
+KCAT	Xanthobacter autotrophicus	-999	more	*rate limiting reaction step is the release of halide
+KCAT	Rhodococcus rhodochrous	-999	more	*rates of reaction steps
+KCAT	Sphingomonas paucimobilis	-999	more	*
+KCAT	Sphingobium japonicum	0.005	1,2,3-trichloropropane	*
+KCAT	Agrobacterium tumefaciens	0.008	1,3-Dichloropropane	*pH 8.6, 37&deg;C, DatA
+KCAT	Agrobacterium tumefaciens	0.01	1,3-Dichloropropane	*below, recombinant wild-type enzyme, pH 8.6, 37&deg;C
+KCAT	Agrobacterium tumefaciens	0.012	1,3-Dichloropropane	*below, recombinant mutant Y109W, pH 8.6, 37&deg;C
+KCAT	Agrobacterium tumefaciens	0.039	1-Chlorohexane	*pH 8.6, 37&deg;C, DatA
+KCAT	Agrobacterium tumefaciens	0.04	1-Chlorohexane	*recombinant mutant Y109W, pH 8.6, 37&deg;C
+KCAT	Agrobacterium tumefaciens	0.07	1-Chlorohexane	*recombinant wild-type enzyme, pH 8.6, 37&deg;C
+KCAT	Rhodococcus rhodochrous	0.08	1,2,3-trichloropropane	*pH 9.4, 30&deg;C
+KCAT	Mycobacterium tuberculosis variant bovis	0.08	1-Chlorobutane	*pH 8.5
+KCAT	Bradyrhizobium japonicum	0.24	1,2,3-trichloropropane	*
+KCAT	Bradyrhizobium japonicum	0.25	chlorocyclohexane	*
+KCAT	Agrobacterium tumefaciens	0.26	1-iodohexane	*pH 8.6, 37&deg;C, DatA
+KCAT	Plesiocystis pacifica	0.38	1,2-Dibromoethane	*pH 8.2, 35&deg;C
+KCAT	Agrobacterium tumefaciens	0.46	1-bromohexane	*recombinant mutant Y109W, pH 8.6, 37&deg;C
+KCAT	Rhodococcus rhodochrous	0.48	1-Chloropropane	*pH 9.4, 30&deg;C
+KCAT	Bradyrhizobium japonicum	0.59	bromocyclohexane	*
+KCAT	Agrobacterium tumefaciens	0.71	1-bromobutane	*recombinant mutant Y109W, pH 8.6, 37&deg;C
+KCAT	Agrobacterium tumefaciens	0.72	1,3-diiodopropane	*recombinant mutant Y109W, pH 8.6, 37&deg;C
+KCAT	Sphingomonas paucimobilis	0.91	1,2-dichloropropane	*pH 8.6, 37&deg;C, recombinant enzyme
+KCAT	Bradyrhizobium japonicum	0.96	1,2-dibromopropane	*
+KCAT	Sphingomonas paucimobilis	1.033	1-Chlorohexane	*pH 8.6, 37&deg;C
+KCAT	Sphingomonas paucimobilis	1.05	1,2-Dichloroethane	*pH 8.6, 37&deg;C, recombinant enzyme
+KCAT	Sphingomonas paucimobilis	1.05	1-bromohexane	*pH 8.6, 37&deg;C
+KCAT	Sphingomonas paucimobilis	1.055	1-Chlorobutane	*pH 8.6, 37&deg;C, recombinant wild-type enzyme, data from 2 experimental sets
+KCAT	Psychrobacter cryohalolentis	1.1	1-bromobutane	*pH 8.7, 37&deg;C
+KCAT	Alcanivorax dieselolei	1.17	1-Chlorobutane	*pH 8.6, 37&deg;C, recombinant enzyme
+KCAT	Agrobacterium tumefaciens	1.2	1,3-diiodopropane	*pH 8.6, 37&deg;C, DatA
+KCAT	Agrobacterium tumefaciens	1.2	1,3-diiodopropane	*recombinant wild-type enzyme, pH 8.6, 37&deg;C
+KCAT	Agrobacterium tumefaciens	1.3	1,3-dibromopropane	*recombinant mutant Y109W, pH 8.6, 37&deg;C
+KCAT	Rhodococcus rhodochrous	1.3	1,3-Dichloropropane	*pH 9.4, 30&deg;C
+KCAT	Sphingomonas paucimobilis	1.36	bromocyclohexane	*pH 8.6, 37&deg;C
+KCAT	Plesiocystis pacifica	1.39	1-bromoheptane	*pH 8.2, 35&deg;C
+KCAT	Bradyrhizobium japonicum	1.4	1-Chlorobutane	*
+KCAT	Bradyrhizobium japonicum	1.4	1-Chlorohexane	*
+KCAT	Agrobacterium tumefaciens	1.47	1,3-dibromopropane	*pH 8.6, 37&deg;C, DatA
+KCAT	Agrobacterium tumefaciens	1.5	1,3-dibromopropane	*recombinant wild-type enzyme, pH 8.6, 37&deg;C
+KCAT	Agrobacterium tumefaciens	1.5	1-bromobutane	*recombinant wild-type enzyme, pH 8.6, 37&deg;C
+KCAT	Strongylocentrotus purpuratus	1.57	1,3-dibromopropane	*pH 8.6, 37&deg;C, recombinant His-tagged enzyme
+KCAT	Sphingomonas paucimobilis	1.6	1-bromo-2-methylpropane	*pH 8.6, 37&deg;C
+KCAT	Agrobacterium tumefaciens	1.7	1-bromohexane	*pH 8.6, 37&deg;C, DatA
+KCAT	Agrobacterium tumefaciens	1.7	1-bromohexane	*recombinant wild-type enzyme, pH 8.6, 37&deg;C
+KCAT	Plesiocystis pacifica	1.97	1,2-dibromopropane	*pH 8.2, 35&deg;C
+KCAT	Rhodococcus rhodochrous	2.3	1,2-dibromopropane	*pH 9.4, 30&deg;C
+KCAT	Sphingomonas paucimobilis	2.33	1-iodohexane	*pH 8.6, 37&deg;C
+KCAT	Ancylobacter aquaticus	2.37	1,2-Dichloroethane	*pH 9.0, 37&deg;C, recombinant enzyme
+KCAT	uncultured marine bacterium	2.4	1,3-dibromopropane	*pH and temperature not specified in the publication
+KCAT	Sphingomonas paucimobilis	2.45	1,5-Dichloropentane	*pH 8.6, 37&deg;C
+KCAT	Plesiocystis pacifica	2.69	1-bromohexane	*pH 8.2, 35&deg;C
+KCAT	Rhodococcus rhodochrous	2.7	1,3-dibromopropane	*pH 9.4, 30&deg;C
+KCAT	Rhodococcus rhodochrous	2.7	1-Bromopropane	*pH 9.4, 30&deg;C
+KCAT	Psychrobacter cryohalolentis	2.72	1,3-dibromopropane	*pH 8.7, 37&deg;C
+KCAT	Sphingomonas paucimobilis	2.75	1-Chlorooctane	*pH 8.6, 37&deg;C
+KCAT	Sphingomonas paucimobilis	3	1-Chloroheptane	*pH 8.6, 37&deg;C
+KCAT	Rhodococcus rhodochrous	3	2-bromoethanol	*above, pH 9.4, 30&deg;C
+KCAT	Rhodococcus rhodochrous	3	3-bromo-1-propanol	*pH 9.4, 30&deg;C
+KCAT	Mycolicibacterium rhodesiae	3.1	4-bromobutyronitrile	*pH 8.0, 25&deg;C, recombinant enzyme
+KCAT	Sphingomonas paucimobilis	3.345	1-Chloroheptane	*pH 8.6, 37&deg;C
+KCAT	Sphingomonas paucimobilis	3.41	1-bromobutane	*pH 8.6, 37&deg;C
+KCAT	Bradyrhizobium japonicum	3.5	3-chloro-2-methylpropene	*
+KCAT	Rhodococcus rhodochrous	3.6	1,2,3-tribromopropane	*pH 9.4, 30&deg;C
+KCAT	Bradyrhizobium japonicum	3.6	1,3-dibromopropane	*
+KCAT	Plesiocystis pacifica	5.85	1-Bromopropane	*pH 8.2, 35&deg;C
+KCAT	Sphingomonas paucimobilis	6.08	1-Chlorohexane	*pH 8.6, 37&deg;C
+KCAT	Sphingomonas paucimobilis	6.6	1,3-dibromopropane	*pH 8.6, 37&deg;C
+KCAT	Plesiocystis pacifica	8.08	1-bromobutane	*pH 8.2, 35&deg;C
+KCAT	Sphingomonas paucimobilis	8.17	3-chloro-2-(chloromethyl)-1-propene	*pH 8.6, 37&deg;C
+KCAT	Mycobacterium tuberculosis variant bovis	9.2	1,3-dibromopropane	*pH 8.5
+KCAT	Plesiocystis pacifica	9.94	1-bromopentane	*pH 8.2, 35&deg;C
+KCAT	Alcanivorax dieselolei	13.39	1,3-dibromopropane	*pH 8.6, 37&deg;C, recombinant enzyme
+KCAT	Rhodococcus rhodochrous	14.3	1,2-Dibromoethane	*pH 9.4, 30&deg;C
+KCAT	Alcanivorax dieselolei	17.95	1,2-Dibromoethane	*pH 8.6, 37&deg;C, recombinant enzyme
+KCAT	Alcanivorax dieselolei	20.06	2,3-dichloroprop-1-ene	*pH 8.6, 37&deg;C, recombinant enzyme
+KCAT	Sphingomonas paucimobilis	26.4	1,2-Dibromoethane	*pH 8.6, 37&deg;C, recombinant wild-type enzyme, data from 2 experimental sets
+KCAT	Alcanivorax dieselolei	30.8	4-bromobutyronitrile	*pH 8.6, 37&deg;C, recombinant enzyme
+KCAT	Alcanivorax dieselolei	34.26	3-chloro-2-methylprop-1-ene	*pH 8.6, 37&deg;C, recombinant enzyme

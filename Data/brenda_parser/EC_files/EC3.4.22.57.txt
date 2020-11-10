@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	1.07	succinyl-YVAD-4-nitroanilide	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.1	succinyl-YVAD-4-nitroanilide	*pH 7.5
+KCAT	Homo sapiens	0.5	acetyl-YVAD-amido-4-methylcoumarin	*pH 7.5
+KCAT	Homo sapiens	1.2	acetyl-WEHD 7-amido-4-methylcoumarin	*at pH 7.0 and pH 7.5
+KCAT	Homo sapiens	0.4	succinyl-YVAD-amido-4-methylcoumarin	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	-999	more	*

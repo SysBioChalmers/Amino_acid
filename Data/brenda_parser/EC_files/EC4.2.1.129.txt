@@ -1,0 +1,11 @@
+KCAT	Alicyclobacillus acidocaldarius	0.15	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant F434A
+KCAT	Alicyclobacillus acidocaldarius	0.163	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant T41A; pH 6.0, 45&Acirc;&deg;C, wild-type enzyme
+KCAT	Alicyclobacillus acidocaldarius	0.17	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant E93A
+KCAT	Alicyclobacillus acidocaldarius	0.19	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant W133A
+KCAT	Alicyclobacillus acidocaldarius	0.21	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant R127Q; pH 6.0, 45&Acirc;&deg;C, mutant Y267A
+KCAT	Alicyclobacillus acidocaldarius	0.22	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant E45A
+KCAT	Alicyclobacillus acidocaldarius	0.49	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant F437A
+KCAT	Alicyclobacillus acidocaldarius	2.03	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant Q262A
+KCAT	Alicyclobacillus acidocaldarius	3.78	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant P263A
+KCAT	Alicyclobacillus acidocaldarius	3.86	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant P263G
+KCAT	Alicyclobacillus acidocaldarius	4.4	squalene	*pH 6.0, 45&Acirc;&deg;C, mutant Q262G

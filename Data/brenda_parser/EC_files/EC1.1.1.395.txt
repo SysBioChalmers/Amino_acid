@@ -1,0 +1,30 @@
+KCAT	Clostridium scindens	0.089	NAD+	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.3	NAD+	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.32	NAD+	*mutant E42A of isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.025	NADP+	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.05	NADP+	*mutantE42A of isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.11	NADP+	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.09	cholic acid	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.27	cholic acid	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.055	chenodeoxycholic acid	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.25	chenodeoxycholic acid	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.15	taurocholic acid	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.4	taurocholic acid	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.17	choloyl-CoA	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	1.23	choloyl-CoA	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.145	glycocholic acid	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.42	glycocholic acid	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.2	chenodeoxycholoyl-CoA	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.82	chenodeoxycholoyl-CoA	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.16	deoxycholoyl-CoA	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.87	deoxycholoyl-CoA	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.18	lithocholoyl-CoA	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.73	lithocholoyl-CoA	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.14	3-oxocholoyl-CoA	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.55	3-oxocholoyl-CoA	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.15	3-oxodeoxycholoyl-CoA	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.73	3-oxodeoxycholoyl-CoA	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.17	3-oxochenodeoxycholoyl-CoA	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.4	3-oxochenodeoxycholoyl-CoA	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.12	3-oxolithocholoyl-CoA	*wild type enzyme isoform BaiA2, at pH 8.7 and 37&Acirc;&deg;C
+KCAT	Clostridium scindens	0.7	3-oxolithocholoyl-CoA	*wild type enzyme isoform BaiA1, at pH 8.7 and 37&Acirc;&deg;C

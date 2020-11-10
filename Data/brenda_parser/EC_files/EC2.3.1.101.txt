@@ -1,0 +1,2 @@
+KCAT	Methanosarcina barkeri	1970	5,6,7,8-tetrahydromethanopterin	*
+KCAT	Methanothermobacter thermautotrophicus	2770	5,6,7,8-tetrahydromethanopterin	*

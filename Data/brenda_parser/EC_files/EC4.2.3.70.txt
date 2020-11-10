@@ -1,0 +1,2 @@
+KCAT	Pogostemon cablin	0.00043	(2E,6E)-farnesyl diphosphate	*pH 7.0, 30&deg;C
+KCAT	Pogostemon cablin	0.072	(2Z,6E)-farnesyl diphosphate	*at pH 7.3 and 38&deg;C

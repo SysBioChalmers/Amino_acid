@@ -1,0 +1,21 @@
+KCAT	Entamoeba histolytica	2.6	diphosphate	*pH 6.5-7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	1.3	acetate	*45&Acirc;&deg;C, pH 7.5, mutant T223P
+KCAT	Entamoeba histolytica	1.76	acetate	*37&Acirc;&deg;C, pH 7, wild-type
+KCAT	Entamoeba histolytica	0.61	propionate	*45&Acirc;&deg;C, pH 7.5, mutant T223P
+KCAT	Entamoeba histolytica	1.16	propionate	*45&Acirc;&deg;C, pH 7.5, wild-type
+KCAT	Entamoeba histolytica	2	acetyl phosphate	*37&Acirc;&deg;C, pH 7, mutant H172A
+KCAT	Entamoeba histolytica	21	acetyl phosphate	*37&Acirc;&deg;C, pH 7, mutant H117A
+KCAT	Entamoeba histolytica	21	acetyl phosphate	*pH 6.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	30	acetyl phosphate	*pH 7.0, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	97	acetyl phosphate	*37&Acirc;&deg;C, pH 7, mutant V87G
+KCAT	Entamoeba histolytica	280	acetyl phosphate	*37&Acirc;&deg;C, pH 7, mutant I116A
+KCAT	Entamoeba histolytica	344	acetyl phosphate	*37&Acirc;&deg;C, pH 7, mutant I116L
+KCAT	Entamoeba histolytica	1218	acetyl phosphate	*37&Acirc;&deg;C, pH 7, mutant V87A
+KCAT	Entamoeba histolytica	1939	acetyl phosphate	*37&Acirc;&deg;C, pH 7, wild-type
+KCAT	Entamoeba histolytica	8333	acetyl phosphate	*37&Acirc;&deg;C, pH 7, mutant T223P
+KCAT	Entamoeba histolytica	0.18	Butyrate	*45&Acirc;&deg;C, pH 7.5, mutant T223P
+KCAT	Entamoeba histolytica	0.33	Butyrate	*45&Acirc;&deg;C, pH 7.5, wild-type
+KCAT	Entamoeba histolytica	0.051	hexanoate	*45&Acirc;&deg;C, pH 7.5, wild-type
+KCAT	Entamoeba histolytica	0.065	hexanoate	*45&Acirc;&deg;C, pH 7.5, mutant T223P
+KCAT	Entamoeba histolytica	0.19	valerate	*45&Acirc;&deg;C, pH 7.5, wild-type
+KCAT	Entamoeba histolytica	0.21	valerate	*45&Acirc;&deg;C, pH 7.5, mutant T223P

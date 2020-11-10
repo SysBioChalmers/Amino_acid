@@ -1,0 +1,1 @@
+ecNumber*1.14.11.39#turnoverNumber*4.98#turnoverNumberMaximum*#substrate*L-asparagine#commentary*pH 7.5, 25&Acirc;&deg;C#organism*Streptomyces coelicolor#ligandStructureId*266#literature*721127#

@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	0.00002	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate	*mutant K51A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	0.00004	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate	*mutant E114A, pH not specified in the publication, temperature not specified in the publication; mutant H77A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	0.00005	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate	*mutant E112A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	0.0088	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	0.0093	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate	*His-tagged wild-type, pH not specified in the publication, temperature not specified in the publication

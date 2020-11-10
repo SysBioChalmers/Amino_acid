@@ -1,0 +1,10 @@
+KCAT	Clostridium perfringens	0.000067	NAD+	*ADP-ribosyltransferase activity, mutant enzyme F349A, cosubstrate: non-muscle actin from human platelets
+KCAT	Clostridium perfringens	0.00012	NAD+	*ADP-ribosyltransferase activity, mutant enzyme F349A, cosubstrate: rabbit muscle actin
+KCAT	Clostridium perfringens	0.00015	NAD+	*ADP-ribosyltransferase activity, mutant enzyme Y246A, cosubstrate: rabbit muscle actin
+KCAT	Clostridium perfringens	0.00133	NAD+	*ADP-ribosyltransferase activity, mutant enzyme Y246A, cosubstrate: non-muscle actin from human platelets; ADP-ribosyltransferase activity, mutant enzyme Y251A, cosubstrate: non-muscle actin from human platelets
+KCAT	Clostridium perfringens	0.00183	NAD+	*ADP-ribosyltransferase activity, mutant enzyme N255A, cosubstrate: non-muscle actin from human platelets
+KCAT	Clostridium perfringens	0.0062	NAD+	*ADP-ribosyltransferase activity, wild-type enzyme, cosubstrate: non-muscle actin from human platelets
+KCAT	Clostridium perfringens	0.01	NAD+	*ADP-ribosyltransferase activity, wild-type enzyme, cosubstrate: rabbit muscle actin
+KCAT	Clostridium perfringens	0.014	NAD+	*ADP-ribosyltransferase activity, mutant enzyme N255A, cosubstrate: rabbit muscle actin
+KCAT	Lysinibacillus sphaericus	6.2	NAD+	*pH 7.4, absence of peptide 265-285
+KCAT	Lysinibacillus sphaericus	10.6	NAD+	*pH 7.4, presence of peptide 265-285

@@ -1,0 +1,47 @@
+KCAT	Pseudomonas aeruginosa	0.000011	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutant E352Q
+KCAT	Pseudomonas aeruginosa	0.000011	cyclic-di-GMP	*mutant enzyme E352Q, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.000022	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutant E352D
+KCAT	Pseudomonas aeruginosa	0.000022	cyclic-di-GMP	*mutant enzyme E352D, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.00012	5'-phosphoguanylyl(3'-&gt;5')guanosine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Pseudomonas aeruginosa	0.00015	cyclic di-3',5'-guanylate	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Pseudomonas aeruginosa	0.0002	5'-phosphoguanylyl(3'-&gt;5')guanosine	*pH 8.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Pseudomonas aeruginosa	0.0002	cyclic di-3',5'-guanylate	*pH 8.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Pseudomonas aeruginosa	0.0006	cyclic di-3',5'-guanylate	*pH 8.0, 30&deg;C, recombinant mutant enzyme E314A
+KCAT	Pseudomonas aeruginosa	0.00077	5'-phosphoguanylyl(3'-&gt;5')guanosine	*pH 8.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Pseudomonas aeruginosa	0.0015	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutant E268Q
+KCAT	Pseudomonas aeruginosa	0.0015	cyclic di-3',5'-guanylate	*mutant RocR enzyme E268Q, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 20 mM KCl, and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.0015	cyclic-di-GMP	*mutant enzyme E268Q, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.012	cyclic di-3',5'-guanylate	*mutant RocR enzyme D56N/D296A, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 20 mM KCl, and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.02	cyclic di-3',5'-guanylate	*mutant RocR enzyme F297A, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 20 mM KCl, and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.021	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutant D296A
+KCAT	Pseudomonas aeruginosa	0.021	cyclic di-3',5'-guanylate	*mutant RocR enzyme D296A, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 20 mM KCl, and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.021	cyclic-di-GMP	*mutant enzyme D296A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.023	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutant R179A
+KCAT	Pseudomonas aeruginosa	0.023	cyclic-di-GMP	*mutant enzyme R179A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.049	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutant T267A
+KCAT	Pseudomonas aeruginosa	0.049	cyclic-di-GMP	*mutant enzyme T267A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.08	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutants Q372A and D318A
+KCAT	Pseudomonas aeruginosa	0.08	cyclic-di-GMP	*mutant enzyme D318A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2; mutant enzyme Q372A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.13	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutant Q161A
+KCAT	Pseudomonas aeruginosa	0.13	cyclic di-3',5'-guanylate	*mutant RocR enzyme D56N, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 20 mM KCl, and 25 mM MgCl2
+KCAT	Klebsiella pneumoniae	0.13	cyclic di-3',5'-guanylate	*wild type enzyme, at pH 7.5, 20&deg;C, under dark conditions
+KCAT	Pseudomonas aeruginosa	0.13	cyclic-di-GMP	*mutant enzyme Q161A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.14	cyclic di-3',5'-guanylate	*mutant RocR enzyme S302A, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 20 mM KCl, and 25 mM MgCl2
+KCAT	Klebsiella pneumoniae	0.27	cyclic di-3',5'-guanylate	*mutant enzyme R93S, at pH 7.5, 20&deg;C, under dark conditions
+KCAT	Pseudomonas aeruginosa	0.39	cyclic di-3',5'-guanylate	*wild type PA2567 enzyme, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 50 mM KCl, and 10 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.51	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant mutant E355A
+KCAT	Pseudomonas aeruginosa	0.51	cyclic-di-GMP	*mutant enzyme E355A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Klebsiella pneumoniae	0.54	cyclic di-3',5'-guanylate	*wild type enzyme, at pH 7.5, 20&deg;C, under light conditions
+KCAT	Klebsiella pneumoniae	0.64	cyclic di-3',5'-guanylate	*wild type enzyme, in the presence of 10 mM Mn2+, at pH 7.5, 20&deg;C, under dark conditions
+KCAT	Pseudomonas aeruginosa	0.67	cyclic di-3',5'-guanylate	*pH 8.0, 23&deg;C, recombinant wild-type RocR
+KCAT	Pseudomonas aeruginosa	0.67	cyclic di-3',5'-guanylate	*wild type RocR enzyme, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 20 mM KCl, and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	0.67	cyclic-di-GMP	*wild type enzyme, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+KCAT	Pseudomonas aeruginosa	1.1	cyclic di-3',5'-guanylate	*mutant PA2567 enzyme E464A, in 100 mM Tris buffer (pH 8.0) (23&deg;C), 50 mM KCl, and 10 mM MgCl2
+KCAT	Klebsiella pneumoniae	1.17	cyclic di-3',5'-guanylate	*wild type enzyme, in the presence of 10 mM Mn2+, at pH 7.5, 20&deg;C, under light conditions
+KCAT	Klebsiella pneumoniae	1.42	cyclic di-3',5'-guanylate	*mutant enzyme R93S, at pH 7.5, 20&deg;C, under light conditions
+KCAT	Klebsiella pneumoniae	1.84	cyclic di-3',5'-guanylate	*wild type enzyme, at pH 8.0, 20&deg;C, under dark conditions
+KCAT	Klebsiella pneumoniae	2.06	cyclic di-3',5'-guanylate	*mutant enzyme L128C/G353C, at pH 7.5, 20&deg;C, under dark conditions
+KCAT	Klebsiella pneumoniae	2.54	cyclic di-3',5'-guanylate	*wild type enzyme, at pH 8.0, 20&deg;C, under light conditions
+KCAT	Klebsiella pneumoniae	3.48	cyclic di-3',5'-guanylate	*mutant enzyme L128C/G353C, at pH 7.5, 20&deg;C, under light conditions
+KCAT	Klebsiella pneumoniae	6.17	cyclic di-3',5'-guanylate	*wild type enzyme, at pH 9.3, 20&deg;C, under light conditions
+KCAT	Klebsiella pneumoniae	6.7	cyclic di-3',5'-guanylate	*wild type enzyme, at pH 9.3, 20&deg;C, under dark conditions

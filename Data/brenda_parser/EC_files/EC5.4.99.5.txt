@@ -1,0 +1,100 @@
+KCAT	Escherichia coli	-999	2-[5-Amino-2-(4-fluoro-phenyl)-6-oxo-6H-pyrimidin-1-yl]-N-(1-benzyl-2-oxo-2-thiazol-2-yl-ethyl)-acetamide	*turnover of mutant H189N enzyme is lower than 0.0025 per second
+KCAT	Escherichia coli	-999	more	*turnover of mutant H189N enzyme is lower than 0.0025 per second
+KCAT	Escherichia coli	-999	more	*The kcat of the active complementations (position 7, 32, 35, 48, 81 and 85) is shown
+KCAT	Triticum urartu	-999	more	*CM spezific activity in Escherichia coli extracts: Control (M. Tuberculosis) Sp act (U/mg) 0.889 Cloned extract/control 1 AroQMt (Rv0948c) Sp act (U/mg) 127.38 Cloned extract/control 143.28 *AroQMt (Rv1885c) Sp act (U/mg) 94.23 Cloned extract/control 105.9. CM specific activity in Escherichia coli cells expressing either the AroQMt or the *AroQMt protein is determined to be, repectively, 143- and 106-fold higher than the enzyme activity obtained for Escherichia coli cells carrying the pET-23a(+) expression vector
+KCAT	Bacillus subtilis	-999	more	*R90Cit 10E4-fold decrease in the catalytic activity of kcat. R90K 10E4-fold decrease in the catalytic activity of kcat/Km is obtained
+KCAT	Bacillus subtilis	0.0003	chorismate	*30&deg;C, pH 7, mutant R90G
+KCAT	Escherichia coli	0.00983	chorismate	*mutant enzyme Lys39Arg
+KCAT	Methanocaldococcus jannaschii	0.042	chorismate	*mutant enzyme Q88N, in PBS buffer (pH 7.5) at 20&deg;C
+KCAT	Escherichia coli	0.0492	chorismate	*mutant enzyme Lys39Asn
+KCAT	Mycobacterium tuberculosis	0.11	chorismate	*mutant enzyme G86A
+KCAT	Escherichia coli	0.123	chorismate	*mutant enzyme Lys39Arg
+KCAT	Bacillus subtilis	0.29	chorismate	*30&deg;C, pH 7, mutant C88S/R90K
+KCAT	Bacillus subtilis	0.32	chorismate	*30&deg;C, pH 7, mutant C88K/R90S
+KCAT	Methanocaldococcus jannaschii	0.41	chorismate	*mutant enzyme F77W, in PBS buffer (pH 7.5) at 20&deg;C
+KCAT	Methanocaldococcus jannaschii	0.5	chorismate	*mutant enzyme V35A, in PBS buffer (pH 7.5) at 20&deg;C
+KCAT	Bacillus subtilis	0.78	chorismate	*pH 7.5, 37&deg;C, recombinant BsCM_2
+KCAT	Corynebacterium glutamicum	1.05	chorismate	*at 37&deg;C
+KCAT	Methanocaldococcus jannaschii	1.3	chorismate	*mutant enzyme D48G, in PBS buffer (pH 7.5) at 20&deg;C
+KCAT	Bacillus subtilis	2	chorismate	*mutant DELTA117-127
+KCAT	Mycobacterium tuberculosis	2	chorismate	*wild type enzyme
+KCAT	Escherichia coli	2.3	chorismate	*30&deg;C, pH 7.2, mutant H239N
+KCAT	Methanocaldococcus jannaschii	2.6	chorismate	*mutant enzyme R51Q, in PBS buffer (pH 7.5) at 20&deg;C
+KCAT	Methanocaldococcus jannaschii	3	chorismate	*wild type enzyme, in PBS buffer (pH 7.5) at 20&deg;C
+KCAT	Escherichia coli	4.8	chorismate	*30&deg;C, pH 7.2, mutant H245N
+KCAT	Mycobacterium tuberculosis	5.5	chorismate	*at 37&deg;C and pH 7.5
+KCAT	Methanocaldococcus jannaschii	5.7	chorismate	*30&deg;C
+KCAT	Escherichia coli	6	chorismate	*30&deg;C, pH 7.2, mutant H347N
+KCAT	Escherichia coli	7.2	chorismate	*30&deg;C, pH 7.2, mutant H131A
+KCAT	Escherichia coli	8	chorismate	*30&deg;C, pH 7.2, mutant H257A
+KCAT	Escherichia coli	10	chorismate	*30&deg;C, pH 7.2, mutant H153N
+KCAT	Arabidopsis thaliana	13	chorismate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Arabidopsis thaliana	13	chorismate	*recombinant enzyme, pH 8.0, temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	14	chorismate	*mutant enzyme Glu23Ala, activated by 0.01 mM Trp
+KCAT	Escherichia coli	15	chorismate	*30&deg;C, pH 7.2, mutant H265A
+KCAT	Amborella trichopoda	15	chorismate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Escherichia coli	16	chorismate	*30&deg;C, pH 7.2, mutant H197N
+KCAT	Arabidopsis thaliana	16	chorismate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Arabidopsis thaliana	16.1	chorismate	*recombinant enzyme, pH 8.0, temperature not specified in the publication
+KCAT	Selaginella moellendorffii	18.8	chorismate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Physcomitrella patens	19.5	chorismate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Physcomitrella patens	20.7	chorismate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Bacillus subtilis	22	chorismate	*30&deg;C, pH 7.5, mutant DELTA118-127, with 5.8 mM substrate
+KCAT	Amborella trichopoda	22.8	chorismate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Bacillus subtilis	23	chorismate	*30&deg;C, pH 7.5, mutant DELTA119-127/D118N, with 5.8 mM substrate
+KCAT	Ogataea angusta	23.8	chorismate	*37&deg;C, in presence of 0.1 mM tyrosine
+KCAT	Bacillus subtilis	24	chorismate	*30&deg;C, pH 7.5, mutant DELTA118-127, with 3.4 mM substrate
+KCAT	Bacillus subtilis	26	chorismate	*30&deg;C, pH 7.5, mutant DELTA117-127, with 3.8 mM substrate and DELTA 118-127/R116L/P117T, with 3.9 mM substrate
+KCAT	Mycobacterium tuberculosis	26	chorismate	*
+KCAT	Escherichia coli	27	chorismate	*30&deg;C, pH 7.2, wild-type
+KCAT	Bacillus subtilis	30	chorismate	*30&deg;C, pH 7.5, mutant DELTA118-127/K111N/A112S/V113N, with 4 mM substrate
+KCAT	Escherichia coli	33.4	chorismate	*mutant I81L/V85I
+KCAT	Escherichia coli	36.55	chorismate	*mutant L7I
+KCAT	Arabidopsis thaliana	38.7	chorismate	*recombinant enzyme, pH 8.0, temperature not specified in the publication
+KCAT	Escherichia coli	38.87	chorismate	*wild type
+KCAT	Escherichia coli	39	chorismate	*wild-type enzyme
+KCAT	Arabidopsis thaliana	39	chorismate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Escherichia coli	40.7	chorismate	*genetically engineered enzyme containg the amino acid residues 1-300
+KCAT	Bacillus subtilis	41	chorismate	*wild-type
+KCAT	Escherichia coli	41.4	chorismate	*wild-type enzyme
+KCAT	Saccharomyces cerevisiae	44	chorismate	*mutant enzyme Tyr234Glu, activated by 0.01 mM Trp
+KCAT	Escherichia coli	44.3	chorismate	*genetically engineered enzyme containg the amino acid residues 1-285
+KCAT	Escherichia coli	45.13	chorismate	*mutant A32S
+KCAT	Bacillus subtilis	46	chorismate	*30&deg;C, pH 7, wild-type
+KCAT	Bacillus subtilis	46	chorismate	*pH 7.5, 37&deg;C, recombinant AroH
+KCAT	Bacillus subtilis	47	chorismate	*30&deg;C, pH 7.5, wild-type, with 4 mM substrate
+KCAT	Bacillus subtilis	50	chorismate	*
+KCAT	Mycobacterium tuberculosis	50	chorismate	*untagged enzyme, at 30&deg;C and pH 7.5
+KCAT	Escherichia coli	50.77	chorismate	*mutant V35I
+KCAT	Thermus thermophilus	52	chorismate	*70&deg;C, pH 7.6
+KCAT	Mycobacterium tuberculosis	56	chorismate	*leaderless MtCM with C-terminal His tag, at 30&deg;C and pH 7.5
+KCAT	Mycobacterium tuberculosis	60	(25R)-3beta-hydroxycholest-5-en-27-oate	*+/-4, substrate chorismate
+KCAT	Mycobacterium tuberculosis	60	chorismate	*pH 7.0, 37&deg;C
+KCAT	Escherichia coli	64	chorismate	*chorismate mutase domain of P-protein
+KCAT	Yersinia pestis	70	chorismate	*at 37&deg;C and pH 7.5
+KCAT	Saccharomyces cerevisiae	74	chorismate	*mutant enzyme Tyr234Ser, activated by 0.01 mM Trp
+KCAT	Aspergillus nidulans	82	chorismate	*30&deg;C, pH 7.6
+KCAT	Ogataea angusta	89.3	chorismate	*37&deg;C, in presence of 0.1 mM tyrosine
+KCAT	Aspergillus nidulans	92	chorismate	*30&deg;C, pH 7.6, in presence of 0.005 mM tryptophan
+KCAT	Saccharomyces cerevisiae	171	chorismate	*mutant enzyme Glu23Gln, activated by 0.01 mM Trp
+KCAT	Saccharomyces cerevisiae	252	chorismate	*mutant enzyme Tyr234Ala, activated by 0.01 mM Trp
+KCAT	Saccharomyces cerevisiae	351	chorismate	*mutant enzyme Thr226Ile, activated by 0.01 mM Trp
+KCAT	Saccharomyces cerevisiae	361	chorismate	*wild-type enzyme, activated by 0.01 mM Trp
+KCAT	Ogataea angusta	367	chorismate	*37&deg;C
+KCAT	Saccharomyces cerevisiae	535	chorismate	*mutant enzyme Ile225Thr/Thr226Ile, activated by 0.01 mM Trp
+KCAT	Saccharomyces cerevisiae	565	chorismate	*mutant enzyme Tyr234Phe, activated by 0.01 mM Trp
+KCAT	Saccharomyces cerevisiae	625	chorismate	*mutant enzyme Glu23Asp, activated by 0.01 mM Trp
+KCAT	Escherichia coli	94100	prephenate	*37&deg;C, pH 7.8, in presence of P-protein
+KCAT	Escherichia coli	94140	prephenate	*37&deg;C, pH 7.8, in presence of P-protein
+KCAT	Escherichia coli	140500	chorismate	*37&deg;C, pH 7.8, in presence of P-protein
+KCAT	Escherichia coli	141000	chorismate	*37&deg;C, pH 7.8, in presence of P-protein
+KCAT	Escherichia coli	148900	chorismate	*37&deg;C, pH 7.8, chorismate mutase
+KCAT	Escherichia coli	149000	chorismate	*37&deg;C, pH 7.8, chorismate mutase
+KCAT	Escherichia coli	234000	chorismate	*37&deg;C, pH 7.8, DELTA102-285 in presence of 0.05 mM phenylalanine
+KCAT	Escherichia coli	234100	chorismate	*37&deg;C, pH 7.8, DELTA102-285 in presence of 0.05 mM phenylalanine
+KCAT	Escherichia coli	253000	chorismate	*37&deg;C, pH 7.8, DELTA102-285 in presence of 0.5 mM phenylalanine
+KCAT	Escherichia coli	253400	chorismate	*37&deg;C, pH 7.8, DELTA102-285 in presence of 0.5 mM phenylalanine
+KCAT	Escherichia coli	257900	chorismate	*37&deg;C, pH 7.8, DELTA102-285 in presence of 2 mM phenylalanine
+KCAT	Escherichia coli	258000	chorismate	*37&deg;C, pH 7.8, DELTA102-285 in presence of 2 mM phenylalanine
+KCAT	Escherichia coli	365600	chorismate	*37&deg;C, pH 7.8, DELTA102-285
+KCAT	Escherichia coli	366000	chorismate	*37&deg;C, pH 7.8, DELTA102-285

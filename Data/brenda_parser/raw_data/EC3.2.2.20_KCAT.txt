@@ -1,0 +1,1 @@
+ecNumber*3.2.2.20#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*single-turnover excision kinetics of wild-type and mutant enzymes, overview#organism*Homo sapiens#ligandStructureId*#literature*707488#

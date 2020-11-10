@@ -1,0 +1,27 @@
+KCAT	Bos taurus	0.00013	UDP-galactose	*37&deg;C, mutant enzyme E317Q, hydrolase reaction
+KCAT	Bos taurus	0.0014	UDP-galactose	*37&deg;C, mutant enzyme R365K, hydrolase reaction
+KCAT	Bos taurus	0.0067	UDP-galactose	*AGGL mutant, N-acetyllactosamine, pH 6, 30&deg;C
+KCAT	Bos taurus	0.0099	UDP-galactose	*AGGL mutant, lactose, pH 6, 30&deg;C
+KCAT	Bos taurus	0.011	UDP-galactose	*37&deg;C, mutant enzyme Q247E, hydrolase reaction
+KCAT	Bos taurus	0.016	UDP-galactose	*37&deg;C, wild-type enzyme, hydrolase reaction
+KCAT	Bos taurus	0.02	UDP-galactose	*mutant AGG, lactose as acceptor, 37&deg;C, MnCl2, 25 mM Tris-HCl, pH 7.0
+KCAT	Bos taurus	0.045	UDP-N-acetylgalactosamine	*AGGL mutant, N-acetyllactosamine, pH 6, 30&deg;C
+KCAT	Bos taurus	0.059	p-nitrophenyl-alpha-D-galactoside	*10 mM MnCl2, 0.3 mM UDP-galactose
+KCAT	Bos taurus	0.095	UDP-N-acetylgalactosamine	*AGGL mutant, lactose, pH 6, 30&deg;C
+KCAT	Bos taurus	0.1	UDP-galactose	*mutant SGG, lactose as acceptor, 37&deg;C, MnCl2, 25 mM Tris-HCl, pH 7.0
+KCAT	Bos taurus	0.14	lactose	*37&deg;C, mutant enzyme Q247E, galactosyltransferase reaction
+KCAT	Bos taurus	0.14	UDP-galactose	*37&deg;C, mutant enzyme Q247E, galactosyltransferase reaction
+KCAT	Bos taurus	0.17	lactose	*37&deg;C, mutant enzyme R365K, galactosyltransferase reaction
+KCAT	Bos taurus	0.17	UDP-galactose	*37&deg;C, mutant enzyme R365K, galactosyltransferase reaction
+KCAT	Bos taurus	0.3	UDP-N-acetylgalactosamine	*mutant AGG, lactose as acceptor, 37&deg;C, MnCl2, 25 mM Tris-HCl, pH 7.0
+KCAT	Bos taurus	0.32	D-galactose	*10 mM MnCl2, 0.3 mM UDP-galactose
+KCAT	Bos taurus	0.4	UDP-N-acetylgalactosamine	*mutant SGG, lactose as acceptor, 37&deg;C, MnCl2, 25 mM Tris-HCl, pH 7.0
+KCAT	Bos taurus	0.77	lactose	*37&deg;C, mutant enzyme H280Q, galactosyltransferase reaction
+KCAT	Bos taurus	0.77	UDP-galactose	*37&deg;C, mutant enzyme H280Q, galactosyltransferase reaction
+KCAT	Bos taurus	1.1	p-nitrophenyl-beta-D-galactoside	*10 mM MnCl2, 0.3 mM UDP-galactose
+KCAT	Bos taurus	1.9	N-acetyllactosamine	*10 mM MnCl2, 0.3 mM UDP-galactose
+KCAT	Bos taurus	1.91	UDP-galactose	*wild-type, N-acetyllactosamine, pH 6, 30&deg;C
+KCAT	Bos taurus	3.4	UDP-galactose	*wild-type, lactose as acceptor, 37&deg;C, MnCl2, 25 mM Tris-HCl, pH 7.0
+KCAT	Bos taurus	4.8	UDP-galactose	*wild-type, lactose, pH 6, 30&deg;C
+KCAT	Bos taurus	6.4	lactose	*37&deg;C, wild-type enzyme, galactosyltransferase reaction
+KCAT	Bos taurus	6.4	UDP-galactose	*37&deg;C, wild-type enzyme, galactosyltransferase reaction

@@ -1,0 +1,1 @@
+ecNumber*6.5.1.4#turnoverNumber*-999#turnoverNumberMaximum*#substrate*?#commentary*the rate of 2'-phosphate cyclization by RtcA is five orders of magnitude slower than 3'-phosphate cyclization, notwithstanding that RtcA binds with similar affinity to RNA3'p and RNA2'p substrates#organism*Escherichia coli#ligandStructureId*#literature*728788#

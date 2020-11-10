@@ -1,0 +1,5 @@
+KCAT	Nicotiana tabacum	0.005	(2E,6E)-farnesyl diphosphate	*mutant Y520F, pH 7.5, 30&Acirc;&deg;C
+KCAT	Nicotiana tabacum	0.042	(2E,6E)-farnesyl diphosphate	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Nicotiana tabacum	0.048	(2E,6E)-farnesyl diphosphate	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Nicotiana tabacum	0.095	(2E,6E)-farnesyl diphosphate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Nicotiana tabacum	0.11	(2E,6Z)-6-fluorofarnesyl diphosphate	*pH 7.0, 22&Acirc;&deg;C

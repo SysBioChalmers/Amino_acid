@@ -1,0 +1,1 @@
+ecNumber*3.1.3.17#turnoverNumber*3.3#turnoverNumberMaximum*#substrate*histone#commentary*#organism*Bos taurus#ligandStructureId*1017#literature*94690#!ecNumber*3.1.3.17#turnoverNumber*5.2#turnoverNumberMaximum*#substrate*phosphorylase a#commentary*#organism*Oryctolagus cuniculus#ligandStructureId*3695#literature*94689#

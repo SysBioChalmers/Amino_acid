@@ -1,0 +1,1 @@
+KCAT	Azospirillum brasilense	0.501	NAD+	*pH 7.5, 30&deg;C, Fe protein as the acceptor of ADP-ribose, in the presence of MgADP-

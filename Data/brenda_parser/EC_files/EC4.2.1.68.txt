@@ -1,0 +1,3 @@
+KCAT	Xanthomonas campestris	0.9	L-galactonate	*25&deg;C, pH 7.5
+KCAT	Xanthomonas campestris	2.4	D-Arabinonate	*25&deg;C, pH 7.5
+KCAT	Xanthomonas campestris	15	L-fuconate	*25&deg;C, pH 7.5

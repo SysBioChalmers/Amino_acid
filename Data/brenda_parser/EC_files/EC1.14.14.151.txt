@@ -1,0 +1,12 @@
+KCAT	Hyoscyamus muticus	0.2	5-epiaristolochene	*wild type enzyme, product is 2beta-hydroxy-epiaristolochene, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	0.7	5-epiaristolochene	*mutant enzyme V480I/A484I, product is 2beta-hydroxy-epiaristolochene, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	1.4	5-epiaristolochene	*mutant enzyme V482I, product is 2beta-hydroxy-epiaristolochene, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	1.9	valencene	*wild type enzyme, product is beta-nootkatol, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	2.1	(-)-vetispiradiene	*wild type enzyme, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	2.8	5-epiaristolochene	*mutant enzyme V482I/A484I, product is 2beta-hydroxy-epiaristolochene, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	3.8	(-)-vetispiradiene	*mutant enzyme V482I, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	5.1	valencene	*mutant enzyme V482I, product is beta-nootkatol, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	5.7	valencene	*mutant enzyme V480I/A484I, product is beta-nootkatol, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	12.7	(-)-vetispiradiene	*mutant enzyme V480I/A484I, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	15.9	valencene	*mutant enzyme V482I/A484I, product is beta-nootkatol, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C
+KCAT	Hyoscyamus muticus	20.7	(-)-vetispiradiene	*mutant enzyme V482I/A484I, in 100 mM Tris-HCl, pH 7.5, at 30&deg;C

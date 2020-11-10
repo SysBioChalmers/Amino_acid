@@ -1,0 +1,16 @@
+KCAT	Pseudomonas savastanoi	0.0000167	D,L-3-phenyl-2-hydrazinopropanoic acid	*
+KCAT	Pseudomonas savastanoi	0.00022	L-tryptophan	*pH 8.3, 25&deg;C, cosubstrate: O2, mutant K365M
+KCAT	Pseudomonas savastanoi	0.000317	D,L-N-methyl-phenylalanine	*
+KCAT	Pseudomonas savastanoi	0.000317	L-alanine	*
+KCAT	Pseudomonas savastanoi	0.00075	D,L-3-pyridylalanine	*
+KCAT	Pseudomonas savastanoi	0.00155	L-methionine	*
+KCAT	Pseudomonas savastanoi	0.00305	L-phenylalanine	*
+KCAT	Pseudomonas savastanoi	0.00367	L-tryptophan	*
+KCAT	Pseudomonas savastanoi	0.21	tryptophan	*pH 8.3, 25&deg;C, mutant R98A
+KCAT	Pseudomonas savastanoi	0.69	L-tryptophan	*pH 8.3, 25&deg;C, mutant Y413A
+KCAT	Pseudomonas savastanoi	1.05	tryptophan	*pH 8.3, 25&deg;C, mutant R98K
+KCAT	Pseudomonas savastanoi	4	L-tryptophan	*pH 8.3, 25&deg;C, mutant Y413F
+KCAT	Pseudomonas savastanoi	9.2	L-tryptophan	*pH 8.3, 25&deg;C, cosubstrate: O2, mutant W466F
+KCAT	Pseudomonas savastanoi	13.2	L-tryptophan	*pH 8.3, 25&deg;C, wild-type
+KCAT	Pseudomonas savastanoi	13.2	L-tryptophan	*pH 8.3, 25&deg;C, cosubstrate: O2, wild-type
+KCAT	Pseudomonas savastanoi	13.2	tryptophan	*pH 8.3, 25&deg;C, wild-type

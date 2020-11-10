@@ -1,0 +1,1 @@
+ecNumber*2.1.1.275#turnoverNumber*0.01#turnoverNumberMaximum*#substrate*gibberellin a4#commentary*pH 8.0, 30&deg;C#organism*Arabidopsis thaliana#ligandStructureId*9570#literature*723404#!ecNumber*2.1.1.275#turnoverNumber*0.026#turnoverNumberMaximum*#substrate*gibberellin a9#commentary*pH 8.0, 30&deg;C#organism*Arabidopsis thaliana#ligandStructureId*5315#literature*723404#

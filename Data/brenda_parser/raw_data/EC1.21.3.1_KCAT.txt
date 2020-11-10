@@ -1,0 +1,1 @@
+ecNumber*1.21.3.1#turnoverNumber*4.1#turnoverNumberMaximum*#substrate*N-[(5S)-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine#commentary*#organism*Aspergillus nidulans#ligandStructureId*9598#literature*440327#

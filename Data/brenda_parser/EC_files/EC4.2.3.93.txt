@@ -1,0 +1,3 @@
+KCAT	Aquilaria crassna	0.000586	(2E,6E)-farnesyl diphosphate	*mutant enzyme Y110S/W144R/V241E/P296S/H337Y, in Tris-HCl (25 mM, pH 7.0), at 30&Acirc;&deg;C
+KCAT	Aquilaria crassna	0.00125	(2E,6E)-farnesyl diphosphate	*mutant enzyme Y110S/V241E/P296S/H337Y, in Tris-HCl (25 mM, pH 7.0), at 30&Acirc;&deg;C
+KCAT	Aquilaria crassna	0.00499	(2E,6E)-farnesyl diphosphate	*wild type enzyme, in 50 mM Tris-HCl, pH 7.5, at 30&Acirc;&deg;C

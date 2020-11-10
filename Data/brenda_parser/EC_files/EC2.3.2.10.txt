@@ -1,0 +1,4 @@
+KCAT	Weissella viridescens	26.7	L-alanyl-tRNA	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Weissella viridescens	0.183	L-alanyl-tRNAAla	*recombinant mutant D109N
+KCAT	Weissella viridescens	0.917	L-alanyl-tRNAAla	*recombinant mutant E320Q
+KCAT	Weissella viridescens	11	L-alanyl-tRNAAla	*recombinant wild-type

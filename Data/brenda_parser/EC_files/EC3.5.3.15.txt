@@ -1,0 +1,172 @@
+KCAT	Homo sapiens	0.03	N-alpha-benzoyl-L-arginine ethyl ester	*mutant Q350A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme Q350A
+KCAT	Homo sapiens	0.04	N-alpha-benzoyl-L-arginine ethyl ester	*mutant V469T, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.057	acetyl-L-Arg methyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 1
+KCAT	Homo sapiens	0.057	benzoyl-L-Arg ethyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 1
+KCAT	Homo sapiens	0.07	N-alpha-benzoyl-L-arginine ethyl ester	*mutant R372A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.08	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.1	N-alpha-benzoyl-L-arginine ethyl ester	*mutant E412A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme E412A
+KCAT	Homo sapiens	0.1	N-alpha-benzoyl-L-arginine ethyl ester	*mutant V469L, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.12	N-alpha-benzoyl-L-arginine ethyl ester	*mutant R372Q, pH 7.5, 25&deg;C
+KCAT	Mus musculus	0.17	L-Arg methyl ester	*recombinant enzyme
+KCAT	Homo sapiens	0.2	N-alpha-benzoyl-L-arginine ethyl ester	*mutant R373A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme W373A
+KCAT	Homo sapiens	0.21	Ac-Ala-Gly-Arg-Gly-Lys	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Mus musculus	0.22	L-Arg	*recombinant enzyme
+KCAT	Homo sapiens	0.25	N-alpha-benzoyl-L-arginine ethyl ester	*mutant E352A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme E352A
+KCAT	Homo sapiens	0.27	N-alpha-benzoyl-L-arginine ethyl ester	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.31	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Arg-His-Arg-Lys-Val	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Mus musculus	0.31	L-Arg methyl ester	*native enzyme
+KCAT	Mus musculus	0.32	acetyl-L-Arg	*recombinant enzyme
+KCAT	Homo sapiens	0.32	Nalpha-benzoyl-L-arginine amide	*at pH 7.6 and 37&deg;C
+KCAT	Homo sapiens	0.34	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Lys-His-Lys-Ala-Val	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.35	N-alpha-benzoyl-L-arginine ethyl ester	*mutant D166A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme D166A
+KCAT	Mus musculus	0.37	acetyl-L-Arg	*native enzyme
+KCAT	Homo sapiens	0.43	Nalpha-benzoyl-L-arginine methyl ester	*at pH 7.6 and 37&deg;C
+KCAT	Homo sapiens	0.45	2-acetyl-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.48	3-acetyl-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.49	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R374K
+KCAT	Homo sapiens	0.51	N-alpha-benzoyl-L-arginine ethyl ester	*mutant D389A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme D389A
+KCAT	Homo sapiens	0.52	benzoyl-L-Arg	*pH 7.6, 55&deg;C, peptidylarginine deiminase 1
+KCAT	Mus musculus	0.52	L-Arg	*native enzyme
+KCAT	Homo sapiens	0.55	benzoyl-L-Arg ethyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 2
+KCAT	Homo sapiens	0.55	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R419Q
+KCAT	Homo sapiens	0.56	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Lys-His-Lys-Ala-Val	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.57	Ac-Ser-Gly-Arg-Gly-acetyl-Lys-Gly-Gly-acetyl-Lys-Gly-Leu-Gly-acetyl-Lys-Gly-Gly-Ala-acetyl-Lys	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.59	Ac-Ala-Gly-Arg-Gly-Lys	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.6	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.6	N-alpha-benzoyl-L-arginine ethyl ester	*mutant D370A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme D370A
+KCAT	Homo sapiens	0.6	N-alpha-benzoyl-L-arginine ethyl ester	*mutant W548K, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.62	Ac-Ser-Ala-Arg-Gly-Lys	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.63	Nalpha-benzoyl-L-arginine	*at pH 7.6 and 37&deg;C
+KCAT	Homo sapiens	0.64	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Arg-His	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.7	TKQTARKSTGGK	*in 60 mM MOPS buffer, pH 7.5 and 10 mM CaCl2, at 37&deg;C
+KCAT	Homo sapiens	0.75	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.76	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R156K
+KCAT	Homo sapiens	0.77	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Ala-Arg-His-Arg-Ala-Val	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.77	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R374Q
+KCAT	Homo sapiens	0.78	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R639Q
+KCAT	Homo sapiens	0.79	benzoyl-L-Arg	*pH 7.6, 55&deg;C, peptidylarginine deiminase 3
+KCAT	Homo sapiens	0.79	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R156Q
+KCAT	Homo sapiens	0.8	N-alpha-benzoyl-L-arginine ethyl ester	*mutant D123N, pH 7.6, 37&deg;C; mutant D125A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme D123N; pH 7.6, 37&deg;C, mutant enzyme D125A
+KCAT	Homo sapiens	0.8	N-alpha-benzoyl-L-arginine ethyl ester	*mutant V469A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.81	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Arg-His-Arg-Lys-Val	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.87	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Ala-Arg-His-Arg-Lys-Val	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.9	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R123Q
+KCAT	Homo sapiens	0.93	Ac-Ser-Gly-Arg-Gly-Ala	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	0.98	Ac-Ser-Gly-Arg-Ala-Lys	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	1	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant A112G
+KCAT	Homo sapiens	1.08	Ac-Ser-Gly-Arg-Gly-acetyl-Lys-Gly-Gly-acetyl-Lys-Gly-Leu-Gly-acetyl-Lys-Gly-Gly-Ala-acetyl-Lys	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	1.1	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant S55G
+KCAT	Homo sapiens	1.1	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R484K
+KCAT	Mus musculus	1.11	benzoyl-L-Arg	*native enzyme
+KCAT	Homo sapiens	1.13	Ac-Ser-Ala-Arg-Gly-Lys	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	1.2	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R419Q
+KCAT	Homo sapiens	1.2	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R205Q; 37&deg;C, pH 7.6, mutant R484Q
+KCAT	Homo sapiens	1.26	N-alpha-benzoyl-L-arginine methyl ester	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	1.3	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R419K; 37&deg;C, pH 7.6, mutant R639K
+KCAT	Homo sapiens	1.3	TSTGGRQGSHH	*in 60 mM MOPS buffer, pH 7.5 and 10 mM CaCl2, at 37&deg;C
+KCAT	Homo sapiens	1.4	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant A82V; 37&deg;C, pH 7.6, mutant R156K
+KCAT	Mus musculus	1.41	benzoyl-L-Arg	*recombinant enzyme
+KCAT	Homo sapiens	1.46	Ac-Ser-Gly-Ala-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Ala-Arg-His-Arg-Lys-Val	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	1.5	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R609Q
+KCAT	Homo sapiens	1.5	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant A112G
+KCAT	Homo sapiens	1.53	N-alpha-benzoyl-L-arginine ethyl ester	*mutant R347A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme R347
+KCAT	Homo sapiens	1.55	N-alpha-benzoyl-L-arginine ethyl ester	*mutant D374A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme D374A
+KCAT	Homo sapiens	1.6	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R484K; 37&deg;C, pH 7.6, mutant R484Q
+KCAT	Homo sapiens	1.6	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R639Q
+KCAT	Homo sapiens	1.7	[histone H4]-L-Arg	*37&deg;C, pH 7.6, mutant R123K
+KCAT	Homo sapiens	1.73	benzoyl-L-Arg ethyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 3
+KCAT	Homo sapiens	1.8	N-alpha-benzoyl-L-arginine ethyl ester	*mutant D169A, pH 7.6, 37&deg;C; mutant F221A/F222A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme D169A; pH 7.6, 37&deg;C, mutant enzyme F221A/F222A
+KCAT	Homo sapiens	1.8	WSRYH	*in 60 mM MOPS buffer, pH 7.5 and 10 mM CaCl2, at 37&deg;C
+KCAT	Homo sapiens	1.83	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Arg-His-Ala-Ala-Val	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	1.85	N-alpha-benzoyl-L-arginine amide	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	1.9	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R609Q; 37&deg;C, pH 7.6, mutant R639K
+KCAT	Homo sapiens	1.93	acetyl-L-Arg methyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 3
+KCAT	Homo sapiens	2	KDRNW	*in 60 mM MOPS buffer, pH 7.5 and 10 mM CaCl2, at 37&deg;C
+KCAT	Homo sapiens	2	MWRHV	*in 60 mM MOPS buffer, pH 7.5 and 10 mM CaCl2, at 37&deg;C
+KCAT	Homo sapiens	2.1	[histone H4]-L-Arg	*37&deg;C, pH 7.6, wild-type
+KCAT	Homo sapiens	2.1	N-alpha-benzoyl-L-arginine amide	*mutant PAD3 enzyme G374R, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	2.29	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Arg-His	*isozyme PAD4, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	2.3	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys	*isozyme PAD4, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	2.3	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R123Q; 37&deg;C, pH 7.6, mutant R374Q
+KCAT	Homo sapiens	2.3	N-alpha-benzoyl-L-arginine ethyl ester	*mutant R441A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	2.3	YWRDH	*in 60 mM MOPS buffer, pH 7.5 and 10 mM CaCl2, at 37&deg;C
+KCAT	Homo sapiens	2.53	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala	*isozyme PAD4, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	2.6	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R609K
+KCAT	Homo sapiens	2.65	N-alpha-benzoyl-L-arginine ethyl ester	*mutant D177A, pH 7.6, 37&deg;C; pH 7.6, 37&deg;C, mutant enzyme D177A; pH 7.6, 37&deg;C, wild-type enzyme; wild-type, pH 7.6, 37&deg;C
+KCAT	Homo sapiens	2.7	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant A82V
+KCAT	Homo sapiens	2.76	benzoyl-L-arginine amide	*37&deg;C
+KCAT	Homo sapiens	2.76	N-alpha-benzoyl-L-arginine amide	*isozyme PAD4, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	2.8	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant S55G; 37&deg;C, pH 7.6, wild-type
+KCAT	Homo sapiens	2.8	N-alpha-benzoyl-L-arginine ethyl ester	*mutant Y435A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	2.83	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly	*isozyme PAD4, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Porphyromonas gingivalis	2.88	IHAREIFDSR	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.9	LDRGE	*in 60 mM MOPS buffer, pH 7.5 and 10 mM CaCl2, at 37&deg;C
+KCAT	Homo sapiens	2.9	N-alpha-benzoyl-L-arginine ethyl ester	*mutant V284D, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	3	benzoyl-L-arginine amide	*37&deg;C
+KCAT	Homo sapiens	3	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R374K
+KCAT	Porphyromonas gingivalis	3.03	PPGFSPFR	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	3.1	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R419K
+KCAT	Homo sapiens	3.15	benzoyl-L-Arg	*pH 7.6, 55&deg;C, peptidylarginine deiminase 2
+KCAT	Homo sapiens	3.2	Nalpha-benzoyl-L-arginine ethyl ester	*at pH 7.6 and 37&deg;C
+KCAT	Homo sapiens	3.3	Nalpha-benzoyl-L-arginine ethyl ester	*mutant R8E/D547E, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	3.3	WTRGE	*in 60 mM MOPS buffer, pH 7.5 and 10 mM CaCl2, at 37&deg;C
+KCAT	Homo sapiens	3.35	benzoyl-L-arginine	*37&deg;C
+KCAT	Homo sapiens	3.39	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Arg-His-Arg-Lys-Val	*isozyme PAD4, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	3.5	N-alpha-benzoyl-L-arginine ethyl ester	*mutant D465A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	3.57	N-alpha-benzoyl-L-arginine amide	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	3.6	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R156Q
+KCAT	Homo sapiens	3.6	N-alpha-benzoyl-L-arginine ethyl ester	*mutant L279D, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	3.7	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R123K
+KCAT	Homo sapiens	3.7	N-alpha-benzoyl-L-arginine ethyl ester	*mutant R374Q, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	3.8	Nalpha-benzoyl L-arginine ethyl ester	*37&deg;C, pH 7.6, mutant R205K
+KCAT	Homo sapiens	3.85	N-alpha-benzoyl-L-arginine methyl ester	*isozyme PAD1, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	4	Nalpha-benzoyl-L-arginine ethyl ester	*mutant Y435N, pH 7.4, 25&deg;C
+KCAT	Mus musculus	4.11	acetyl-L-Arg methyl ester	*native enzyme
+KCAT	Mus musculus	4.41	acetyl-L-Arg methyl ester	*recombinant enzyme
+KCAT	Homo sapiens	4.5	N-alpha-benzoyl-L-arginine ethyl ester	*mutant L6D, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	4.92	Ac-Ser-Gly-Arg-Gly-Lys-Gly-Gly-Lys-Gly-Leu-Gly-Lys-Gly-Gly-Ala-Lys-Arg-His	*isozyme PAD3, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	5	N-alpha-benzoyl-L-arginine ethyl ester	*mutant R639A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	5.3	Nalpha-benzoyl-L-arginine ethyl ester	*mutant R8L, pH 7.4, 25&deg;C
+KCAT	Mus musculus	5.31	benzoyl-L-Arg-NH2	*recombinant enzyme
+KCAT	Homo sapiens	5.5	N-alpha-benzoyl-L-arginine ethyl ester	*mutant L279A, pH 7.5, 25&deg;C; mutant V283T, pH 7.5, 25&deg;C; mutant V284A, pH 7.5, 25&deg;C
+KCAT	Mus musculus	5.51	benzoyl-L-Arg-NH2	*native enzyme
+KCAT	Homo sapiens	5.57	benzoyl-L-arginine methyl ester	*37&deg;C
+KCAT	Homo sapiens	5.57	N-alpha-benzoyl-L-arginine methyl ester	*isozyme PAD4, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Mus musculus	5.69	benzoyl-L-Arg methyl ester	*recombinant enzyme
+KCAT	Mus musculus	5.74	benzoyl-L-Arg methyl ester	*native enzyme
+KCAT	Homo sapiens	5.9	Nalpha-benzoyl-L-arginine ethyl ester	*mutant Y435A, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	5.94	benzoyl-L-arginine ethyl ester	*37&deg;C
+KCAT	Homo sapiens	5.94	N-alpha-benzoyl-L-arginine ethyl ester	*isozyme PAD4, at 37&deg;C, 10 mM CaCl2, 50 mM NaCl, 100 mM Tris-HCl, pH 7.6, 2 mM dithiothreitol
+KCAT	Homo sapiens	6.2	N-alpha-benzoyl-L-arginine ethyl ester	*mutant W548F, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	6.22	acetyl-L-Arg methyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 2
+KCAT	Homo sapiens	6.9	N-alpha-benzoyl-L-arginine ethyl ester	*mutant F285A, pH 7.5, 25&deg;C
+KCAT	Porphyromonas gingivalis	7	IHAREIFDSR	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	7.3	Nalpha-benzoyl-L-arginine ethyl ester	*mutant R8E, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	7.3	N-alpha-benzoyl-L-arginine ethyl ester	*mutant L6A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	7.7	N-alpha-benzoyl-L-arginine ethyl ester	*mutant F541A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	7.8	N-alpha-benzoyl-L-arginine ethyl ester	*mutant R374A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	8	N-alpha-benzoyl-L-arginine ethyl ester	*mutant C434A, pH 7.5, 25&deg;C; mutant V283A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	8.9	Nalpha-benzoyl-L-arginine ethyl ester	*mutant D547E, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	9.5	N-alpha-benzoyl-L-arginine ethyl ester	*mutant V283I, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	9.8	N-alpha-benzoyl-L-arginine ethyl ester	*mutant F576A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	10.08	Nalpha-benzoyl-L-arginine ethyl ester	*mutant R8K, pH 7.4, 25&deg;C
+KCAT	Mus musculus	10.7	benzoyl-Arg ethyl ester	*recombinant enzyme
+KCAT	Homo sapiens	10.7	Nalpha-benzoyl-L-arginine ethyl ester	*mutant R8A/D547A, pH 7.4, 25&deg;C
+KCAT	Mus musculus	10.8	benzoyl-arginine ethyl ester	*native enzyme
+KCAT	Homo sapiens	10.9	N-alpha-benzoyl-L-arginine ethyl ester	*mutant L6I, pH 7.5, 25&deg;C; mutant V284I, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	11.2	N-alpha-benzoyl-L-arginine ethyl ester	*mutant L279I, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	11.28	acetyl-L-Arg methyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 1
+KCAT	Porphyromonas gingivalis	11.3	PPGFSPFR	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	11.31	benzoyl-L-Arg ethyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 1
+KCAT	Homo sapiens	11.6	Nalpha-benzoyl-L-arginine ethyl ester	*mutant D547A, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	11.7	N-alpha-benzoyl-L-arginine ethyl ester	*wild-type, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	12.1	Nalpha-benzoyl-L-arginine ethyl ester	*mutant E281A, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	12.2	Nalpha-benzoyl-L-arginine ethyl ester	*mutant D547N, pH 7.4, 25&deg;C; mutant R8A, pH 7.4, 25&deg;C; mutant R8Q , pH 7.4, 25&deg;C
+KCAT	Homo sapiens	13.2	Nalpha-benzoyl-L-arginine ethyl ester	*mutant Y237A/E281A, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	13.3	Nalpha-benzoyl-L-arginine ethyl ester	*mutant R8H, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	13.4	Nalpha-benzoyl-L-arginine ethyl ester	*wild-type, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	13.5	Nalpha-benzoyl-L-arginine ethyl ester	*mutant D273A/R544A, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	13.68	acetyl-L-Arg	*pH 7.6, 55&deg;C, peptidylarginine deiminase 1
+KCAT	Homo sapiens	13.9	Nalpha-benzoyl-L-arginine ethyl ester	*mutant Y237A, pH 7.4, 25&deg;C
+KCAT	Homo sapiens	14.43	benzoyl-L-Arg	*pH 7.6, 55&deg;C, peptidylarginine deiminase 1
+KCAT	Homo sapiens	15.24	benzoyl-L-Arg ethyl ester	*pH 7.6, 55&deg;C, peptidylarginine deiminase 2

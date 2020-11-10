@@ -1,0 +1,21 @@
+KCAT	Agrobacterium tumefaciens	0.03	N-carbamoyl-D-p-hydroxyphenylglycine	*65&deg;C, pH 7.0, wild-type enzyme
+KCAT	Agrobacterium tumefaciens	0.031	N-carbamoyl-D-p-hydroxyphenylglycine	*37&deg;C, pH 7.0, mutant enzyme A302C
+KCAT	Agrobacterium tumefaciens	0.52	N-carbamoyl-D-p-hydroxyphenylglycine	*65&deg;C, pH 7.0, mutant enzyme P295C/F304C
+KCAT	Agrobacterium tumefaciens	1.1	N-carbamoyl-D-p-hydroxyphenylglycine	*55&deg;C, pH 7.0, mutant enzyme A302C
+KCAT	Agrobacterium tumefaciens	2	N-carbamoyl-D-p-hydroxyphenylglycine	*65&deg;C, pH 7.0, mutant enzyme A302C
+KCAT	Ralstonia pickettii	5.4	N-carbamoyl-D-p-hydroxyphenylglycine	*wild-type enzyme
+KCAT	Ralstonia pickettii	5.9	N-carbamoyl-D-p-hydroxyphenylglycine	*mutant enzyme A18T/Y30N/K34E
+KCAT	Ralstonia pickettii	6.8	N-carbamoyl-D-p-hydroxyphenylglycine	*mutant enzyme Q12L/Q23L/Q207E/N242G/H248Q/T262A/T263S/E266D/T271I/A273P, in 100 mM potassium phosphate buffer (pH 7.0), at 40&deg;C
+KCAT	Agrobacterium tumefaciens	6.9	N-carbamoyl-D-p-hydroxyphenylglycine	*pH 7.0, 40&deg;C, mutant enzyme Q23L/V40A/H58Y/G75S/M184L/T262A
+KCAT	Agrobacterium tumefaciens	6.93	N-carbamoyl-D-p-hydroxyphenylglycine	*65&deg;C, pH 7.0, wild-type enzyme
+KCAT	Ralstonia pickettii	7	N-carbamoyl-D-p-hydroxyphenylglycine	*CDase-M3, in 100 mM potassium phosphate buffer (pH 7.0), at 40&deg;C
+KCAT	Agrobacterium tumefaciens	7.73	N-carbamoyl-D-p-hydroxyphenylglycine	*37&deg;C, pH 7.0, mutant enzyme A302C
+KCAT	Agrobacterium tumefaciens	7.88	N-carbamoyl-D-p-hydroxyphenylglycine	*37&deg;C, pH 7.0, wild-type enzyme
+KCAT	Agrobacterium tumefaciens	7.97	N-carbamoyl-D-p-hydroxyphenylglycine	*37&deg;C, pH 7.0, mutant enzyme P295C/F304C
+KCAT	Agrobacterium tumefaciens	9.5	N-carbamoyl-D-p-hydroxyphenylglycine	*pH 7.0, 40&deg;C, wild-type enzyme
+KCAT	Agrobacterium tumefaciens	12.3	N-carbamoyl-D-p-hydroxyphenylglycine	*pH 7.0, 40&deg;C, mutant enzyme M184L, T262A
+KCAT	Agrobacterium tumefaciens	13.71	N-carbamoyl-D-p-hydroxyphenylglycine	*65&deg;C, pH 7.0, mutant enzyme P295C/F304C
+KCAT	Agrobacterium tumefaciens	14.88	N-carbamoyl-D-p-hydroxyphenylglycine	*55&deg;C, pH 7.0, wild-type enzyme
+KCAT	Agrobacterium tumefaciens	15.25	N-carbamoyl-D-p-hydroxyphenylglycine	*55&deg;C, pH 7.0, mutant enzyme P295C/F304C
+KCAT	Agrobacterium tumefaciens	19.08	N-carbamoyl-D-p-hydroxyphenylglycine	*55&deg;C, pH 7.0, mutant enzyme A302C
+KCAT	Agrobacterium tumefaciens	22.47	N-carbamoyl-D-p-hydroxyphenylglycine	*65&deg;C, pH 7.0, mutant enzyme A302C

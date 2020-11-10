@@ -1,0 +1,1 @@
+ecNumber*1.16.3.3#turnoverNumber*0.32#turnoverNumberMaximum*#substrate*Mn2+#commentary*at pH 8.0 and 37&deg;C#organism*Bacillus pumilus#ligandStructureId*11#literature*743629#

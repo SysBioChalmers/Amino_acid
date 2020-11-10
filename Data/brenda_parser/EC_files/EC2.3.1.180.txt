@@ -1,0 +1,18 @@
+KCAT	Listeria monocytogenes	0.0007	acetyl-CoA	*30&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.27	acetyl-CoA	*pH 7.2, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	3.13	acetyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	4.4	acetyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	0.72	butyryl-CoA	*pH 7.2, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	3.8	butyryl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	20.9	butyryl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	8.1	hexanoyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	25.5	hexanoyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Listeria monocytogenes	0.018	isovaleryl-CoA	*10&Acirc;&deg;C
+KCAT	Listeria monocytogenes	0.12	isovaleryl-CoA	*30&Acirc;&deg;C
+KCAT	Staphylococcus aureus	15.5	isovaleryl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Listeria monocytogenes	0.102	isobutyryl-CoA	*10&Acirc;&deg;C
+KCAT	Listeria monocytogenes	0.32	isobutyryl-CoA	*30&Acirc;&deg;C
+KCAT	Staphylococcus aureus	1.63	isobutyryl-CoA	*pH 7.2, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	28	isobutyryl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Listeria monocytogenes	0.105	2-methylbutyryl-CoA	*10&Acirc;&deg;C
+KCAT	Listeria monocytogenes	0.46	2-methylbutyryl-CoA	*30&Acirc;&deg;C

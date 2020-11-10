@@ -1,0 +1,44 @@
+KCAT	Human betaherpesvirus 5	-999	2-[5-Amino-2-(4-fluoro-phenyl)-6-oxo-6H-pyrimidin-1-yl]-N-(1-benzyl-2-oxo-2-thiazol-2-yl-ethyl)-acetamide	*
+KCAT	Human betaherpesvirus 5	-999	more	*
+KCAT	Human betaherpesvirus 5	-999	more	*the turnover number for 4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid is less than 0.001/s, immobilized crosslinked enzyme
+KCAT	Human betaherpesvirus 5	0.000026	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/D227N
+KCAT	Human betaherpesvirus 5	0.000027	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/L229R
+KCAT	Human betaherpesvirus 5	0.000034	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/S225Y/L229R
+KCAT	Human betaherpesvirus 5	0.00061	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme S134A/A143Q
+KCAT	Human betaherpesvirus 5	0.00069	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme S134A/A143Q/H157A
+KCAT	Human betaherpesvirus 5	0.00092	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/S225Y
+KCAT	Human betaherpesvirus 5	0.0024	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/D217N
+KCAT	Human betaherpesvirus 5	0.0033	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/H157A
+KCAT	Human betaherpesvirus 5	0.00348	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/R232H
+KCAT	Human betaherpesvirus 5	0.0036	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/H157Q
+KCAT	Human betaherpesvirus 5	0.0041	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q/H157E
+KCAT	Human betaherpesvirus 6	0.00833	4-(4'-dimethylaminophenazo)benzoic acid-RGVVNAS-2-aminobutanoyl-RLN-5-[(2'-aminoethyl)-amino]-naphthalene-1-sulfonic acid	*
+KCAT	Human betaherpesvirus 5	0.0133	4-(4'-dimethylaminophenazo)benzoic acid-RGVVNAS-2-aminobutanoyl-RLN-5-[(2'-aminoethyl)-amino]-naphthalene-1-sulfonic acid	*
+KCAT	Human betaherpesvirus 5	0.0167	succinyl-SYVKASVS-NH2	*
+KCAT	Human betaherpesvirus 5	0.033	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	*pH 7.2, 30&deg;C, wild-typelike mutant enzyme A143Q
+KCAT	Human betaherpesvirus 5	0.0333	succinyl-RRYIKASEPPV-NH2	*
+KCAT	Human betaherpesvirus 5	0.0333	succinyl-YVKASEPLA-NH2	*
+KCAT	Human betaherpesvirus 5	0.035	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	*pH 7.4, enzyme in solution
+KCAT	Human betaherpesvirus 5	0.046	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	*pH 7.4, immobilized enzyme
+KCAT	Human betaherpesvirus 5	0.046	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 7.2, 30&deg;C, mutant enzyme A143Q
+KCAT	Human betaherpesvirus 6	0.05	succinyl-VVNAS-2-aminobutyryl-R-NH2	*
+KCAT	Human betaherpesvirus 5	0.06	SYVKASVSPE	*soluble enzyme
+KCAT	Human betaherpesvirus 5	0.075	SYVKASVSPE	*inclusion bodies
+KCAT	Human betaherpesvirus 5	0.0833	succinyl-LVNAS-2-aminobutyryl-EPT-NH2	*
+KCAT	Human betaherpesvirus 6	0.0833	succinyl-RRYIKASEPPV-NH2	*
+KCAT	Human betaherpesvirus 5	0.1	acetyl-Cys-tert-butylglycine-tert-butylglycine-Asn(Me)2-Ala-7-amido-4-methylcoumarin	*24&deg;C
+KCAT	Human betaherpesvirus 5	0.1	succinyl-RRILNASLAPE-NH2	*
+KCAT	Human betaherpesvirus 5	0.133	succinyl-VVNAS-2-aminobutyryl-R-NH2	*
+KCAT	Human betaherpesvirus 6	0.167	succinyl-YVKASEPLA-NH2	*
+KCAT	Human betaherpesvirus 5	0.182	GVVNASCRLA	*mutant A143S
+KCAT	Human betaherpesvirus 5	0.206	GVVNASCRLA	*wild-type enzyme
+KCAT	Human betaherpesvirus 6	0.217	succinyl-RRILNASLAPE-NH2	*
+KCAT	Human betaherpesvirus 6	0.217	succinyl-SYVKASVS-NH2	*
+KCAT	Human betaherpesvirus 5	0.22	GVVNASCRLA	*mutant V141G/V207G, soluble
+KCAT	Human betaherpesvirus 5	0.236	GVVNASCRLA	*mutant V141G
+KCAT	Human betaherpesvirus 5	0.242	GVVNASCRLA	*mutant V141G/V207G, refolded
+KCAT	Human betaherpesvirus 5	0.28	RGVVNASSRLAK	*soluble enzyme
+KCAT	Human betaherpesvirus 5	0.308	RGVVNASSRLAK	*inclusion bodies
+KCAT	Human betaherpesvirus 5	0.367	Abz-GVVNASSRLAY(NO2)G	*presence of 50% glycerol, enzyme HCMV A134Q
+KCAT	Human betaherpesvirus 5	0.583	Abz-GVVNASSRLAY(NO2)G	*presence of 25% glycerol, enzyme HCMV A134Q
+KCAT	Human betaherpesvirus 6	0.7	succinyl-LVNAS-2-aminobutyryl-EPT-NH2	*

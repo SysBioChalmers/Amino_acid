@@ -1,0 +1,8 @@
+KCAT	Escherichia coli	0.0015	GDP-mannose	*pH 7, 37&deg;C, T133V mutant
+KCAT	Escherichia coli	0.0019	GDP-mannose	*pH 7, 37&deg;C, Y157F mutant
+KCAT	Escherichia coli	0.0053	GDP-mannose	*pH 7, 37&deg;C, K161A mutant
+KCAT	Homo sapiens	0.8	GDP-mannose	*pH 8, M-GMD and L-GMD
+KCAT	Burkholderia cepacia	1	GDP-alpha-D-mannose	*at pH 7.4 and 25&deg;C, in the presence of 1 mol MgCl2 per mol of protein
+KCAT	Escherichia coli	5	GDP-mannose	*pH 7, 37&deg;C, wild-type
+KCAT	Mortierella alpina	5.96	GDP-mannose	*pH 8.0, 37&deg;C; recombinant enzyme, pH 8.0, 37&deg;C
+KCAT	Pseudomonas aeruginosa	8.82	GDP-mannose	*pH 7.5, 37&deg;C

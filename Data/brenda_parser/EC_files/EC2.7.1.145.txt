@@ -1,0 +1,92 @@
+KCAT	Drosophila melanogaster	-999	more	*
+KCAT	Drosophila melanogaster	-999	more	*turnover-numbers of chimeric enzymes
+KCAT	Drosophila melanogaster	0.0003	1-(beta-D-arabinofuranosyl)-thymine	*37&deg;C, pH 7.5, wild-type enzyme
+KCAT	Drosophila melanogaster	0.00071	2'-deoxycytidine	*37&deg;C, pH 7.5, mutant enzyme E52D
+KCAT	Drosophila melanogaster	0.00072	2'-deoxythymidine	*37&deg;C, pH 7.5, mutant enzyme E52D
+KCAT	Drosophila melanogaster	0.0012	2'-deoxycytidine	*37&deg;C, pH 7.5, mutant enzyme E52H
+KCAT	Drosophila melanogaster	0.0029	1-(beta-D-arabinofuranosyl)-cytosine	*37&deg;C, pH 7.5, wild-type enzyme
+KCAT	Drosophila melanogaster	0.0059	5-(E)-(2-bromvinyl)-2'-deoxyuridine	*37&deg;C, pH 7.5, wild-type enzyme
+KCAT	Drosophila melanogaster	0.0067	2'-deoxythymidine	*37&deg;C, pH 7.5, mutant enzyme R105H
+KCAT	Drosophila melanogaster	0.012	2'-deoxythymidine	*37&deg;C, pH 7.5, mutant enzyme E52H
+KCAT	Anopheles gambiae	0.014	2'-deoxythymidine	*pH 8.0, recombinant enzyme
+KCAT	Drosophila melanogaster	0.0142	2'-deoxythymidine	*37&deg;C, pH 7.5, wild-type enzyme
+KCAT	Drosophila melanogaster	0.0162	2'-deoxycytidine	*37&deg;C, pH 7.5, wild-type enzyme
+KCAT	Anopheles gambiae	0.019	2'-deoxyguanosine	*pH 8.0, recombinant enzyme
+KCAT	Anopheles gambiae	0.021	2'-deoxyadenosine	*pH 8.0, recombinant enzyme
+KCAT	Anopheles gambiae	0.03	2'-deoxycytidine	*pH 8.0, recombinant enzyme
+KCAT	Drosophila melanogaster	0.03	3'-azido-2',3'-didehydro-3'-deoxythymidine	*recombinant mutant N45D
+KCAT	Drosophila melanogaster	0.034	thymidine	*recombinant mutant M88R/A110D
+KCAT	Drosophila melanogaster	0.036	3'-azido-2',3'-dideoxythymidine	*
+KCAT	Drosophila melanogaster	0.037	3'-azido-2',3'-didehydro-3'-deoxythymidine	*recombinant mutant N64D
+KCAT	Drosophila melanogaster	0.037	thymidine	*recombinant mutant V84M
+KCAT	Drosophila melanogaster	0.052	3'-azido-2',3'-dideoxythymidine	*mutant enzyme N45D/N64D
+KCAT	Drosophila melanogaster	0.055	2'-deoxycytidine	*37&deg;C, pH 7.5, mutant ezyme R105H
+KCAT	Drosophila melanogaster	0.073	2'-deoxyguanosine	*recombinant mutant A110D
+KCAT	Drosophila melanogaster	0.076	2'-deoxyguanosine	*mutant enzyme N45D/N64D
+KCAT	Drosophila melanogaster	0.084	2'-deoxyadenosine	*recombinant mutant A110D
+KCAT	Drosophila melanogaster	0.11	thymidine	*recombinant mutant V84A/M88R/A110D
+KCAT	Drosophila melanogaster	0.12	2'-deoxyguanosine	*recombinant mutant N64D
+KCAT	Drosophila melanogaster	0.13	thymidine	*recombinant mutant M88R
+KCAT	Drosophila melanogaster	0.22	2'-deoxyguanosine	*recombinant mutant V84M
+KCAT	Drosophila melanogaster	0.23	thymidine	*recombinant mutant V84S/M88R/A110D
+KCAT	Drosophila melanogaster	0.27	2'-deoxycytidine	*recombinant mutant A110D
+KCAT	Drosophila melanogaster	0.35	thymidine	*recombinant mutant A110D
+KCAT	Drosophila melanogaster	0.4	2'-deoxyadenosine	*recombinant mutant N64D
+KCAT	Drosophila melanogaster	0.4	5-(E)-(2-bromvinyl)-2'-deoxyuridine	*37&deg;C, pH 7.5, mutant enzyme Y70W
+KCAT	Drosophila melanogaster	0.54	2',3'-dideoxycytidine	*mutant enzyme N45D/N64D
+KCAT	Drosophila melanogaster	0.64	2'-deoxyguanosine	*recombinant mutant V84S
+KCAT	Drosophila melanogaster	0.82	2'-deoxythymidine	*recombinant mutant N64D
+KCAT	Drosophila melanogaster	0.828	2'-deoxyadenosine	*mutant enzyme N45D/N64D
+KCAT	Drosophila melanogaster	0.83	2'-deoxycytidine	*recombinant mutant V84S
+KCAT	Drosophila melanogaster	0.83	thymidine	*recombinant mutant V84S
+KCAT	Drosophila melanogaster	0.93	Dideoxycytidine	*recombinant mutant V84A
+KCAT	Drosophila melanogaster	1	1-(beta-D-arabinofuranosyl)-thymine	*37&deg;C, pH 7.5, mutant enzyme Y70W
+KCAT	Drosophila melanogaster	1.1	2'-deoxyadenosine	*recombinant mutant V84S
+KCAT	Drosophila melanogaster	1.22	thymidine	*mutant enzyme N45D/N64D
+KCAT	Drosophila melanogaster	1.3	2'-deoxyguanosine	*recombinant mutant N45D
+KCAT	Drosophila melanogaster	1.36	2'-deoxyadenosine	*recombinant mutant V84M
+KCAT	Drosophila melanogaster	1.6	2'-deoxycytidine	*recombinant mutants N45D and N64D
+KCAT	Drosophila melanogaster	1.62	2'-deoxycytidine	*recombinant mutant V84S/M88R/A110D
+KCAT	Drosophila melanogaster	1.73	2'-deoxyguanosine	*recombinant mutant V84A/M88R/A110D
+KCAT	Drosophila melanogaster	1.8	2'-deoxycytidine	*recombinant mutant V84M
+KCAT	Drosophila melanogaster	1.83	2'-deoxyadenosine	*recombinant mutant N45D
+KCAT	Drosophila melanogaster	1.88	2'-deoxyadenosine	*recombinant mutant M88R
+KCAT	Drosophila melanogaster	1.94	2'-deoxycytidine	*recombinant mutant V84A/M88R/A110D
+KCAT	Drosophila melanogaster	2.1	1-(beta-D-arabinofuranosyl)-cytosine	*37&deg;C, pH 7.5, mutant enzyme Y70W
+KCAT	Drosophila melanogaster	2.3	2'-deoxythymidine	*37&deg;C, pH 7.5, mutant enzyme Y70W
+KCAT	Drosophila melanogaster	2.6	2'-deoxythymidine	*recombinant mutant N45D
+KCAT	Drosophila melanogaster	2.7	2'-deoxyguanosine	*recombinant mutant M88R
+KCAT	Drosophila melanogaster	2.8	2'-deoxyguanosine	*recombinant mutant V84A
+KCAT	Drosophila melanogaster	2.97	thymidine	*recombinant mutant V84A
+KCAT	Drosophila melanogaster	3.2	2'-deoxyadenosine	*recombinant mutant V84S/M88R/A110D
+KCAT	Drosophila melanogaster	3.5	2'-deoxyadenosine	*recombinant mutant V84A/M88R/A110D
+KCAT	Drosophila melanogaster	3.5	2'-deoxycytidine	*recombinant mutant M88R/A110D
+KCAT	Drosophila melanogaster	3.7	2'-deoxyadenosine	*recombinant mutant V84A
+KCAT	Drosophila melanogaster	3.7	2'-deoxyguanosine	*recombinant mutant M88R/A110D
+KCAT	Drosophila melanogaster	4.03	2'-deoxycytidine	*mutant enzyme N45D/N64D
+KCAT	Drosophila melanogaster	4.2	2',3'-dideoxycytidine	*
+KCAT	Drosophila melanogaster	4.2	Dideoxycytidine	*recombinant wild-type enzyme
+KCAT	Drosophila melanogaster	4.4	2'-deoxycytidine	*recombinant mutant V84A
+KCAT	Drosophila melanogaster	4.6	2'-deoxyguanosine	*recombinant mutant V84S/M88R/A110D
+KCAT	Drosophila melanogaster	5.4	2'-deoxythymidine	*37&deg;C, pH 7.5, mutant enzyme Q81N
+KCAT	Drosophila melanogaster	6.5	2'-deoxy-2',2'-difluorocytidine	*
+KCAT	Drosophila melanogaster	6.6	2'-deoxycytidine	*37&deg;C, pH 7.5, mutant enzyme Q81N
+KCAT	Drosophila melanogaster	6.8	2'-deoxycytidine	*37&deg;C, pH 7.5, mutant enzyme Y70W
+KCAT	Drosophila melanogaster	6.9	2'-deoxyadenosine	*recombinant mutant M88R/A110D
+KCAT	Drosophila melanogaster	7.5	2'-deoxycytidine	*recombinant mutant M88R
+KCAT	Drosophila melanogaster	14.2	thymidine	*pH 7.8, 22&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	14.2	thymidine	*pH 7.8, 22&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	14.2	thymidine	*recombinant wild-type enzyme
+KCAT	Drosophila melanogaster	15	2'-deoxycytidine	*pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	15	thymidine	*pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	15.1	2'-deoxyguanosine	*pH 7.8, 22&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	15.1	2'-deoxyguanosine	*pH 7.8, 22&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	15.1	2'-deoxyguanosine	*recombinant wild-type enzyme
+KCAT	Drosophila melanogaster	16.5	2'-deoxycytidine	*pH 7.8, 22&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	16.5	2'-deoxycytidine	*pH 7.8, 22&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	16.5	2'-deoxycytidine	*recombinant wild-type enzyme
+KCAT	Drosophila melanogaster	18	2'-deoxyadenosine	*pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	18	2'-deoxyguanosine	*pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	20.6	2'-deoxyadenosine	*pH 7.8, 22&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	20.6	2'-deoxyadenosine	*pH 7.8, 22&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	20.6	2'-deoxyadenosine	*recombinant wild-type enzyme

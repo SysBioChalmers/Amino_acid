@@ -1,0 +1,1 @@
+KCAT	Streptomyces niveus	0.5	8-demethylnovobiocic acid	*pH 8.5, temperature not specified in the publication

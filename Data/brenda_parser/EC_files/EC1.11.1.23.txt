@@ -1,0 +1,1 @@
+KCAT	Pseudomonas syringae	0.0028	(S)-2-hydroxypropylphosphonic acid	*pH 7.5

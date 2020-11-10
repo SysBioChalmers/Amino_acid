@@ -1,0 +1,14 @@
+KCAT	Laminaria digitata	462	I-	*pH 6.2
+KCAT	Zobellia galactanivorans	0.0007	thymol blue	*mutant D322Y, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	0.002	thymol blue	*mutant H360S, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	0.01	thymol blue	*mutant H360A, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	0.03	thymol blue	*mutant R410A, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	1.78	thymol blue	*mutant W321R, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	1.98	thymol blue	*wild-type, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	2.19	thymol blue	*mutant S358A, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	2.67	thymol blue	*mutant Y263F, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	2.76	thymol blue	*mutant C320S, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	3.53	thymol blue	*mutant Y263A, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	3.86	thymol blue	*mutant D322L, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	13.97	thymol blue	*mutant Y263S, pH 7.2, 20&Acirc;&deg;C
+KCAT	Zobellia galactanivorans	53.27	thymol blue	*mutant F353H, pH 7.2, 20&Acirc;&deg;C

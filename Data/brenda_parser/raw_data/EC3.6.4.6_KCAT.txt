@@ -1,0 +1,1 @@
+ecNumber*3.6.4.6#turnoverNumber*0.85#turnoverNumberMaximum*#substrate*ATP#commentary*higher order oligomer of the enzyme, pH and temperature not specified in the publication#organism*Saccharomyces cerevisiae#ligandStructureId*4#literature*724447#

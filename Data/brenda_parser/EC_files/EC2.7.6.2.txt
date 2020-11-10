@@ -1,0 +1,18 @@
+KCAT	Homo sapiens	0.0002	ATP	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme D100N
+KCAT	Homo sapiens	0.0003	ATP	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme D73N
+KCAT	Homo sapiens	0.0005	ATP	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme D71N
+KCAT	Homo sapiens	0.026	ATP	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T99A
+KCAT	Homo sapiens	0.028	ATP	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme R131G
+KCAT	Homo sapiens	0.034	ATP	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme D133N
+KCAT	Homo sapiens	0.045	ATP	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme Q96E
+KCAT	Homo sapiens	0.069	ATP	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.094	ATP	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme S74A
+KCAT	Homo sapiens	0.0002	thiamine	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme D100N
+KCAT	Homo sapiens	0.0003	thiamine	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme D73N
+KCAT	Homo sapiens	0.0005	thiamine	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme D71N
+KCAT	Homo sapiens	0.026	thiamine	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T99A
+KCAT	Homo sapiens	0.028	thiamine	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme R131G
+KCAT	Homo sapiens	0.034	thiamine	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme D133N
+KCAT	Homo sapiens	0.069	thiamine	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.094	thiamine	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme S74A
+KCAT	Homo sapiens	0.045	thiamin	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme Q96E

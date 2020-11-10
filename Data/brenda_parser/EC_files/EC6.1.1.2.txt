@@ -1,0 +1,89 @@
+KCAT	Homo sapiens	1.1	ATP	*pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Homo sapiens	1.4	ATP	*pH 9.0, 22&Acirc;&deg;C, recombinant enzyme, exchange assay
+KCAT	Bacillus subtilis	15	ATP	*25&Acirc;&deg;C, pH 9.0, mutant enzyme K149G, activation of Trp
+KCAT	Bacillus subtilis	16	ATP	*25&Acirc;&deg;C, pH 9.0, mutant enzyme K149E, activation of Trp
+KCAT	Bacillus subtilis	17	ATP	*25&Acirc;&deg;C, pH 9.0, mutant enzyme E153D, activation of Trp
+KCAT	Bacillus subtilis	22	ATP	*25&Acirc;&deg;C, pH 9.0, wild-type enzyme, activation of Trp
+KCAT	Bacillus subtilis	27	ATP	*25&Acirc;&deg;C, pH 9.0, mutant enzyme K149D/E153R, activation of Trp
+KCAT	Bacillus subtilis	46	ATP	*25&Acirc;&deg;C, pH 9.0, mutant enzyme K149R, activation of Trp
+KCAT	Bacillus subtilis	419	ATP	*25&Acirc;&deg;C, pH 9.0, mutant enzyme E153K, activation of Trp
+KCAT	Bacillus subtilis	0.59	L-tryptophan	*pH 7.5, 22&Acirc;&deg;C, deletion 234-238 mutant
+KCAT	Bacillus subtilis	0.61	L-tryptophan	*pH 7.5, 22&Acirc;&deg;C, deletion 108-122 mutant
+KCAT	Bacillus subtilis	0.9	L-tryptophan	*pH 7.5, 22&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	1.1	L-tryptophan	*pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Homo sapiens	1.2	L-tryptophan	*pH 9.0, 22&Acirc;&deg;C, recombinant enzyme, exchange assay
+KCAT	Geobacillus stearothermophilus	4.88	L-tryptophan	*wild type enzyme, in 0.1 M Tris-HCl (pH 7.5), 0.01 M potassium fluoride, 5 mM MnCl2, at 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	5.45	L-tryptophan	*wild type enzyme, in 0.1 M Tris-HCl (pH 7.5), 0.01 M potassium fluoride, 5 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	6.08	L-tryptophan	*pH 7.5, 22&Acirc;&deg;C, deletion 108-122 mutant; pH 7.5, 22&Acirc;&deg;C, deletion 234-238 mutant
+KCAT	Acidithiobacillus ferrooxidans	13.6	L-tryptophan	*recombinant truncated mutant
+KCAT	Acidithiobacillus ferrooxidans	24.5	L-tryptophan	*recombinant wild-type
+KCAT	Aeropyrum pernix K1	0.16	tRNAArg	*pH 7.5, 60&Acirc;&deg;C
+KCAT	Escherichia coli	5.7	ammonia	*
+KCAT	Bacillus subtilis	2	Trp	*25&Acirc;&deg;C, pH 9.0, mutant enzyme K149D/E153R, activation of Trp
+KCAT	Bacillus subtilis	15	Trp	*25&Acirc;&deg;C, pH 9.0, mutant enzyme K149G, activation of Trp
+KCAT	Bacillus subtilis	16	Trp	*25&Acirc;&deg;C, pH 9.0, mutant enzyme K149E, activation of Trp
+KCAT	Bacillus subtilis	18	Trp	*25&Acirc;&deg;C, pH 9.0, mutant enzyme E153D, activation of Trp
+KCAT	Bacillus subtilis	22	Trp	*25&Acirc;&deg;C, pH 9.0, wild-type enzyme, activation of Trp
+KCAT	Bacillus subtilis	46	Trp	*25&Acirc;&deg;C, pH 9.0, mutant enzyme K149R, activation of Trp
+KCAT	Bacillus subtilis	419	Trp	*25&Acirc;&deg;C, pH 9.0, mutant enzyme E153K, activation of Trp
+KCAT	Homo sapiens	0.0009	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V85K
+KCAT	Bacillus subtilis	0.016	tRNATrp	*22&Acirc;&deg;C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme K149D/E153R, aminoacylation
+KCAT	Bacillus subtilis	0.02	tRNATrp	*22&Acirc;&deg;C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme E153K, aminoacylation
+KCAT	Homo sapiens	0.02	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V85E
+KCAT	Homo sapiens	0.028	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V85S
+KCAT	Bacillus subtilis	0.03	tRNATrp	*22&Acirc;&deg;C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme E153D, aminoacylation
+KCAT	Homo sapiens	0.047	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V85A/V90A
+KCAT	Homo sapiens	0.063	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V90S
+KCAT	Bacillus subtilis	0.32	tRNATrp	*22&Acirc;&deg;C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme K149R, 0.32 aminoacylation; 22&Acirc;&deg;C, pH 7.5, tRNATrp from Bacillus subtilis, wild-type enzyme, aminoacylation
+KCAT	Homo sapiens	0.48	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V85A
+KCAT	Bacillus subtilis	0.59	tRNATrp	*pH 7.5, 22&Acirc;&deg;C, deletion 234-238 mutant
+KCAT	Bacillus subtilis	0.61	tRNATrp	*pH 7.5, 22&Acirc;&deg;C, deletion 108-122 mutant
+KCAT	Bacillus subtilis	0.67	tRNATrp	*22&Acirc;&deg;C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme K149E, aminoacylation
+KCAT	Bacillus subtilis	0.78	tRNATrp	*22&Acirc;&deg;C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme K149G, aminoacylation
+KCAT	Bacillus subtilis	0.9	tRNATrp	*pH 7.5, 22&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	1	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Homo sapiens	1.33	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	1.37	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	1.39	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V90A
+KCAT	Acidithiobacillus ferrooxidans	2.22	tRNATrp	*recombinant truncated mutant
+KCAT	Acidithiobacillus ferrooxidans	2.94	tRNATrp	*recombinant truncated mutant
+KCAT	Acidithiobacillus ferrooxidans	3	tRNATrp	*recombinant wild-type
+KCAT	Acidithiobacillus ferrooxidans	3.17	tRNATrp	*recombinant wild-type
+KCAT	Homo sapiens	3.3	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V85L
+KCAT	Homo sapiens	5.11	tRNATrp	*pH 7.5, 30&Acirc;&deg;C, mutant V85L
+KCAT	Bacillus subtilis	6.08	tRNATrp	*pH 7.5, 22&Acirc;&deg;C, deletion 108-122 mutant; pH 7.5, 22&Acirc;&deg;C, deletion 234-238 mutant
+KCAT	Escherichia coli	13.9	tRNATrp	*recombinant mutant
+KCAT	Aeropyrum pernix K1	16	tRNATrp	*pH 7.5, 60&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.03	bovine tRNATrp(G73, wild-type)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.04	Bacillus subtilis tRNATrp(A73G)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.04	bovine tRNATrp(G73U)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.05	Bacillus subtilis tRNATrp(A73U)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.06	Bacillus subtilis tRNATrp(A73C)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.06	bovine tRNATrp(G73C)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.07	Archeoglobus fulgidus tRNATrp(A73G)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.079	tRNATrp(C35G)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.08	bovine tRNATrp(G73A)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.09	Archeoglobus fulgidus tRNATrp(A73U)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.11	Archeoglobus fulgidus tRNATrp(A73C)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.11	tRNATrp(C34U)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.13	tRNATrp(C34G)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.14	Bacillus subtilis tRNATrp(A73, wild-type)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.15	tRNATrp(C35A)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.17	tRNATrp(C34A)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.27	tRNATrp(A36U, A73G)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.34	tRNATrp(G1C-G72G)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.46	tRNATrp(G1U-C72A)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.47	tRNATrp(C35U)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.53	Archeoglobus fulgidus tRNATrp(A73, wild-type)	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	0.62	tRNATrp(A73G)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	1.7	tRNATrp(G2C-G71G)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	2.3	tRNATrp(G1A-C72U)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	3.2	tRNATrp(HOG1)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	4.4	tRNATrp(A36G)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	4.5	tRNATrp(pppG1)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	5.5	tRNATrp(A73C)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	6.1	tRNATrp(A73U)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	7.2	tRNATrp(G2U-C71A)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	11	tRNATrp(A36C)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	19	tRNATrp(G2A-C71U)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C
+KCAT	Aeropyrum pernix K1	21	tRNATrp(A36U)	*substrate mutant, pH 7.5, 60&Acirc;&deg;C

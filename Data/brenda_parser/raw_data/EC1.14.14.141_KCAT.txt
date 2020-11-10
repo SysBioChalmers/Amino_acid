@@ -1,0 +1,1 @@
+ecNumber*1.14.14.141#turnoverNumber*340#turnoverNumberMaximum*#substrate*(+)-marmesin#commentary*pH 7.0, 27&Acirc;&deg;C, recombinant enzyme in microsomes#organism*Ammi majus#ligandStructureId*14080#literature*674887#

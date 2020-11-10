@@ -1,0 +1,33 @@
+KCAT	Rhodococcus rhodochrous	0.8	O2	*isoform KshA5, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	1.7	O2	*isoform KshA1, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	2.5	O2	*apparent Km value, in the presence of 3-oxo-23,24-bisnorchola-1,4-dien-22-oic acid-CoA, in 0.1 M potassium phosphate, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	7	O2	*in the presence of 1,4-androstadiene-3,17-dione, kcat above 7 1/sec, in 0.1 M potassium phosphate, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	0.8	testosterone	*isoform KshA5, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	1.4	testosterone	*isoform KshA1, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.07	4-androstene-3,17-dione	*in 0.1 M potassium phosphate, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.07	4-androstene-3,17-dione	*in 0.1 M potassium phosphate, pH 7.0, at 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C, KshAB; pH 7.0, 22&Acirc;&deg;C, KshAB
+KCAT	Rhodococcus rhodochrous	0.8	5alpha-Androstan-3,17-dione	*isoform KshA5, at pH 7.0 and 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	0.7	1,4-androstadiene-3,17-dione	*isoform KshA5, at pH 7.0 and 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.8	1,4-androstadiene-3,17-dione	*in 0.1 M potassium phosphate, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	1.3	1,4-androstadiene-3,17-dione	*isoform KshA1, at pH 7.0 and 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	0.7	androsta-1,4-diene-3,17-dione	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.8	androsta-1,4-diene-3,17-dione	*in 0.1 M potassium phosphate, pH 7.0, at 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C, KshAB; pH 7.0, 22&Acirc;&deg;C, KshAB
+KCAT	Rhodococcus rhodochrous	1.3	androsta-1,4-diene-3,17-dione	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.08	3-oxo-23,24-bisnorchol-4-en-22-oic acid	*in 0.1 M potassium phosphate, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.25	3-oxo-23,24-bisnorchola-1,4-dien-22-oic acid	*in 0.1 M potassium phosphate, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.61	3-oxo-23,24-bisnorchol-4-en-22-oic acid-CoA	*in 0.1 M potassium phosphate, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	2.7	3-oxo-23,24-bisnorchola-1,4-dien-22-oic acid-CoA	*in 0.1 M potassium phosphate, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	0.5	4-Estren-3,17-dione	*isoform KshA1, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	0.8	4-Estren-3,17-dione	*isoform KshA5, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.08	3-oxo-23,24-bisnorcholesta-4-ene-22-oate	*pH 7.0, 22&Acirc;&deg;C, KshAB; pH 7.0, 22&Acirc;&deg;C, KshAB
+KCAT	Mycobacterium tuberculosis	0.25	3-oxo-23,24-bisnorcholesta-1,4-dien-22-oate	*pH 7.0, 22&Acirc;&deg;C, KshAB; pH 7.0, 22&Acirc;&deg;C, KshAB
+KCAT	Mycobacterium tuberculosis	0.61	3-oxo-23,24-bisnorcholesta-4-ene-22-oyl-CoA	*pH 7.0, 22&Acirc;&deg;C, KshAB; pH 7.0, 22&Acirc;&deg;C, KshAB
+KCAT	Mycobacterium tuberculosis	2.7	3-oxo-23,24-bisnorcholesta-1,4-dien-22-oate-CoA	*pH 7.0, 22&Acirc;&deg;C, KshAB; pH 7.0, 22&Acirc;&deg;C, KshAB
+KCAT	Rhodococcus rhodochrous	0.5	3-oxo-23,24-bisnorchola-1,4-diene-22-oate	*isoform KshA5, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	0.9	3-oxo-23,24-bisnorchola-1,4-diene-22-oate	*isoform KshA1, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	0.6	3-oxo-23,24-bisnorchol-4-en-22-oate	*isoform KshA5, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	2.6	3-oxo-23,24-bisnorchol-4-en-22-oate	*isoform KshA1, at pH 7.0 and 22&Acirc;&deg;C; pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	1.1	3-oxo-23,24-bisnorchola-1,4-diene-22-oyl-CoA	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	1.7	3-oxo-23,24-bisnorchola-1,4-diene-22-oyl-CoA	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	1.1	3-oxo-23,24-bisnorchola-1,4-dien-22-oate-CoA	*isoform KshA1, at pH 7.0 and 22&Acirc;&deg;C
+KCAT	Rhodococcus rhodochrous	1.7	3-oxo-23,24-bisnorchola-1,4-dien-22-oate-CoA	*isoform KshA1, at pH 7.0 and 22&Acirc;&deg;C

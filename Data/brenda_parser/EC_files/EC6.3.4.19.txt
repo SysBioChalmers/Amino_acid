@@ -1,0 +1,7 @@
+KCAT	Escherichia coli	-999	more	*kinetic parameters of Escherichia coli TilS with various tRNAIle2 mutants and with tRNAMet mutants
+KCAT	Aquifex aeolicus	-999	more	*kcat-values for wild-type enzyme and mutant enzymes
+KCAT	Escherichia coli	0.012	[tRNAIle2]-cytidine34	*unmodified tRNAIle2, pH 7.8, 37&deg;C
+KCAT	Escherichia coli	0.015	ATP	*pH 7.8, 37&deg;C
+KCAT	Geobacillus kaustophilus	0.025	precursor [tRNAIle2]-cytidine34	*pH 7.8, 60&deg;C
+KCAT	Geobacillus kaustophilus	0.03	mature [tRNAIle2]-cytidine34	*pH 7.8, 60&deg;C
+KCAT	Escherichia coli	0.07	L-lysine	*pH 7.8, 37&deg;C

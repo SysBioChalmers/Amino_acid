@@ -1,0 +1,14 @@
+KCAT	Petunia x hybrida	0.012	prephenate	*at 37&Acirc;&deg;C, in 250 mM Na-phosphate buffer, pH 8.2, 1 mM EDTA
+KCAT	Arabidopsis thaliana	0.03	prephenate	*37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.04	prephenate	*37&Acirc;&deg;C
+KCAT	Petunia x hybrida	0.06	prephenate	*at 37&Acirc;&deg;C, in 250 mM Na-phosphate buffer, pH 8.2, 1 mM EDTA
+KCAT	Arabidopsis thaliana	0.16	prephenate	*37&Acirc;&deg;C
+KCAT	Petunia x hybrida	0.194	L-arogenate	*at 37&Acirc;&deg;C, in 250 mM Na-phosphate buffer, pH 8.2, 1 mM EDTA
+KCAT	Petunia x hybrida	0.267	L-arogenate	*at 37&Acirc;&deg;C, in 250 mM Na-phosphate buffer, pH 8.2, 1 mM EDTA
+KCAT	Arabidopsis thaliana	0.5	L-arogenate	*37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1.1	L-arogenate	*37&Acirc;&deg;C
+KCAT	Petunia x hybrida	1.231	L-arogenate	*at 37&Acirc;&deg;C, in 250 mM Na-phosphate buffer, pH 8.2, 1 mM EDTA
+KCAT	Arabidopsis thaliana	3.2	L-arogenate	*37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	4	L-arogenate	*37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	4.9	L-arogenate	*37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	6.1	L-arogenate	*37&Acirc;&deg;C

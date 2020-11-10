@@ -1,0 +1,17 @@
+KCAT	Plasmodium falciparum	1.3	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.3	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.1	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	16	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C, naturally occuring enzyme
+KCAT	Plasmodium falciparum	3.5	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	18	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, naturally occuring enzyme
+KCAT	Plasmodium falciparum	1.6	Leu-Glu-Arg-Val-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.6	Leu-Glu-Arg-Val-Phe-Phe(NO2)-Ser-Phe	*pH 4.4, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.473	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-(gamma-aminobutyryl)-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	10	Lys-Glu-Leu-Val-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	1.6	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Arg-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	10	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Arg-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, naturally occuring enzyme
+KCAT	Plasmodium falciparum	2	Lys-Glu-Phe-Asn-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	12	Lys-Glu-Phe-Asn-Phe-Phe(NO2)-Ala-Leu-Lys	*pH 4.4, 37&Acirc;&deg;C, naturally occuring enzyme
+KCAT	Plasmodium falciparum	1.1	Lys-Pro-Ile-Leu-Phe-(p-nitro)Phe-Arg-Leu	*pH 4.5, 37&Acirc;&deg;C, recombinant truncated proPfPM1 K110pN mutant
+KCAT	Plasmodium falciparum	2.9	Lys-Glu-Leu-Val-Phe-(p-nitro)Phe-Ala-Leu-Lys	*pH 4.5, 37&Acirc;&deg;C, recombinant truncated proPfPM1 K110pN mutant
+KCAT	Plasmodium falciparum	2.6	Leu-Glu-Arg-Ile-Phe-(p-nitro)Phe-Ser-Phe	*pH 4.5, 37&Acirc;&deg;C, recombinant truncated proPfPM1 K110pN mutant

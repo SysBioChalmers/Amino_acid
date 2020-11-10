@@ -1,0 +1,1 @@
+ecNumber*2.7.7.31#turnoverNumber*0.833#turnoverNumberMaximum*#substrate*dATP#commentary*#organism*Bos taurus#ligandStructureId*140#literature*643200#!ecNumber*2.7.7.31#turnoverNumber*0.833#turnoverNumberMaximum*#substrate*dATP#commentary*#organism*Bos taurus#ligandStructureId*140#literature*643201#

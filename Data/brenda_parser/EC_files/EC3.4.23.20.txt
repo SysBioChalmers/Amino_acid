@@ -1,0 +1,62 @@
+KCAT	Penicillium janthinellum	420	Trypsinogen	*
+KCAT	Penicillium janthinellum	0.042	Ac-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219A
+KCAT	Penicillium janthinellum	0.05	Ac-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219V
+KCAT	Penicillium janthinellum	0.07	Ac-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	0.14	Ac-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G
+KCAT	Penicillium janthinellum	0.4	Ac-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	0.046	Ac-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219A
+KCAT	Penicillium janthinellum	0.09	Ac-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	0.13	Ac-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G
+KCAT	Penicillium janthinellum	0.23	Ac-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219V
+KCAT	Penicillium janthinellum	0.6	Ac-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	0.3	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219V
+KCAT	Penicillium janthinellum	0.45	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219A
+KCAT	Penicillium janthinellum	0.5	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G
+KCAT	Penicillium janthinellum	14.9	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	40	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	0.0019	Ac-Ala-Ala-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, and mutant T219V
+KCAT	Penicillium janthinellum	0.003	Ac-Ala-Ala-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G
+KCAT	Penicillium janthinellum	0.004	Ac-Ala-Ala-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219A
+KCAT	Penicillium janthinellum	0.11	Ac-Ala-Ala-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	0.36	Ac-Ala-Ala-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	0.35	Ac-Ala-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T291V
+KCAT	Penicillium janthinellum	0.36	Ac-Ala-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T291A
+KCAT	Penicillium janthinellum	0.45	Ac-Ala-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T291G
+KCAT	Penicillium janthinellum	16.1	Ac-Ala-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T291S
+KCAT	Penicillium janthinellum	34	Ac-Ala-Ala-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	37.3	Pro-Thr-Glu-Phe-(4-nitro)Phe-Arg-Leu	*
+KCAT	Penicillium janthinellum	0.12	Ac-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219A
+KCAT	Penicillium janthinellum	0.17	Ac-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219V
+KCAT	Penicillium janthinellum	0.29	Ac-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	0.33	Ac-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	0.43	Ac-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G
+KCAT	Penicillium janthinellum	0.09	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219A
+KCAT	Penicillium janthinellum	0.12	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219V
+KCAT	Penicillium janthinellum	0.35	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G
+KCAT	Penicillium janthinellum	3.8	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	15	Ac-Ala-Ala-Lys-(NO2)Phe-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	0.0016	Ac-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219V
+KCAT	Penicillium janthinellum	0.002	Ac-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2 and mutant T219A
+KCAT	Penicillium janthinellum	0.003	Ac-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	0.005	Ac-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G
+KCAT	Penicillium janthinellum	0.003	Ac-Ala-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G; pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	0.005	Ac-Ala-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219A
+KCAT	Penicillium janthinellum	0.0054	Ac-Ala-Lys-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219V
+KCAT	Penicillium janthinellum	0.15	Ac-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	0.24	Ac-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219G
+KCAT	Penicillium janthinellum	0.3	Ac-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219A; pH 5.0, 25&Acirc;&deg;C, wild-type pencillopepsin JT-2
+KCAT	Penicillium janthinellum	0.45	Ac-Ala-Lys-(NO2)Phe-Ala-Ala-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219V and T219G
+KCAT	Penicillium janthinellum	28.8	Ac-Ala-Ala-Lys-(4-nitro)Phe-Ala-Ala amide	*pH 3.5
+KCAT	Penicillium janthinellum	36	Ac-Ala-Ala-Lys-(4-nitro)Phe-Ala-Ala amide	*pH 5.5
+KCAT	Penicillium janthinellum	47	Ac-Ala-Ala-Lys-(4-nitro)Phe-Ala-Ala amide	*pH 4.5 (pH-optimum for kcat)
+KCAT	Penicillium janthinellum	6.4	Leu-Ser-(4-nitro)Phe-Nle-Ala-Leu methyl ester	*pH 3.5
+KCAT	Penicillium janthinellum	11.4	Leu-Ser-(4-nitro)Phe-Nle-Ala-Leu methyl ester	*pH 5.5
+KCAT	Penicillium janthinellum	0.021	Ac-Ala-Lys-(4-nitro)Phe amide	*pH 4.3 (pH-optimum for kcat)
+KCAT	Penicillium janthinellum	0.026	Ac-Lys-(4-nitro)Phe amide	*pH 3.8-4.2 (pH-optimum for kcat)
+KCAT	Penicillium janthinellum	0.01	Ac-Lys 4-nitrophenyl amide	*pH 5.5
+KCAT	Penicillium janthinellum	45	Ac-Ala-Ala-Lys-(4-nitro)Phe-Ala-Ala-Ala amide	*pH 5.5 (pH-optimum for kcat)
+KCAT	Penicillium janthinellum	0.003	Ac-Ala-Lys-Ala-(NO2)Phe-amide	*pH 5.0, 25&Acirc;&deg;C, mutant T219S
+KCAT	Penicillium janthinellum	-999	more	*overview: turnover numbers for the hydrolysis of the peptides of the series Ac-(Ala)m-Lys-(4-nitro)Phe-(Ala)n amide and of the series Ac-Xaa-Lys-(4-nitro)Phe-Ala-Ala amide at the pH optimum for kcat, at pH 5.5 and pH 6.0
+KCAT	Penicillium janthinellum	-999	more	*
+KCAT	Penicillium janthinellum	-999	more	*effect of chain length of substrates and inhibitors of the turnover number
+KCAT	Penicillium janthinellum	5	bovine trypsinogen	*

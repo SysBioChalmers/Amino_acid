@@ -1,0 +1,2 @@
+KCAT	Streptococcus pyogenes	0.2	VVASQLRANISH	*pH 7.4, 25&deg;C
+KCAT	Streptococcus pyogenes	1.1	SQLRANISHKDMQLGR	*pH 7.4, 25&deg;C

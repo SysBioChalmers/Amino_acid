@@ -1,0 +1,1 @@
+ecNumber*4.2.3.64#turnoverNumber*0.026#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH not specified in the publication, temperature not specified in the publication#organism*Streptomyces griseus#ligandStructureId*81#literature*729904#

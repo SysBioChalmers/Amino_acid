@@ -1,0 +1,76 @@
+KCAT	Ralstonia pickettii	87	NAD+	*30&Acirc;&deg;C
+KCAT	Ralstonia pickettii	87	NAD+	*
+KCAT	Ralstonia pickettii	340	NAD+	*30&Acirc;&deg;C
+KCAT	Ralstonia pickettii	340	NAD+	*
+KCAT	Ralstonia pickettii	360	NAD+	*
+KCAT	Ralstonia pickettii	58	NADH	*30&Acirc;&deg;C
+KCAT	Ralstonia pickettii	58	NADH	*
+KCAT	Ralstonia pickettii	280	NADH	*30&Acirc;&deg;C
+KCAT	Ralstonia pickettii	280	NADH	*
+KCAT	Ralstonia pickettii	740	NADH	*
+KCAT	Pseudomonas fragi	4.5	acetoacetate	*mutant T190A
+KCAT	Alcaligenes faecalis	4.9	acetoacetate	*recombinant enzyme with C-terminal His-tag, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Pseudomonas fragi	5.1	acetoacetate	*mutant T190C
+KCAT	Pseudomonas fragi	30	acetoacetate	*mutant L215A
+KCAT	Pseudomonas fragi	87	acetoacetate	*mutant L215V
+KCAT	Alcaligenes faecalis	97.16	acetoacetate	*recombinant enzyme with N-terminal His-tag, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Ralstonia pickettii	100	acetoacetate	*30&Acirc;&deg;C
+KCAT	Ralstonia pickettii	100	acetoacetate	*
+KCAT	Ralstonia pickettii	110	acetoacetate	*30&Acirc;&deg;C
+KCAT	Ralstonia pickettii	110	acetoacetate	*
+KCAT	Pseudomonas fragi	120	acetoacetate	*wild-type
+KCAT	Pseudomonas fragi	125	acetoacetate	*mutant T190S
+KCAT	Ralstonia pickettii	150	acetoacetate	*
+KCAT	Pseudomonas putida	13	(R)-3-hydroxybutanoate	*mutant enzyme H141A
+KCAT	Pseudomonas putida	167	(R)-3-hydroxybutanoate	*23&Acirc;&deg;C, pH 8.0, mutant enzyme H141A
+KCAT	Ralstonia pickettii	180	(R)-3-hydroxybutanoate	*30&Acirc;&deg;C
+KCAT	Pseudomonas putida	215	(R)-3-hydroxybutanoate	*mutant enzyme Q133A
+KCAT	Ralstonia pickettii	310	(R)-3-hydroxybutanoate	*30&Acirc;&deg;C
+KCAT	Pseudomonas putida	333	(R)-3-hydroxybutanoate	*23&Acirc;&deg;C, pH 8.0, mutant enzyme Q193A
+KCAT	Pseudomonas putida	404	(R)-3-hydroxybutanoate	*23&Acirc;&deg;C, pH 8.0, mutant enzyme K149R
+KCAT	Pseudomonas putida	411	(R)-3-hydroxybutanoate	*mutant enzyme Q91A
+KCAT	Pseudomonas putida	432	(R)-3-hydroxybutanoate	*wild type enzyme
+KCAT	Pseudomonas putida	1382	(R)-3-hydroxybutanoate	*23&Acirc;&deg;C, pH 8.0, wild-type enzyme
+KCAT	Pseudomonas putida	1390	(R)-3-hydroxybutanoate	*23&Acirc;&deg;C, pH 8.0, mutant enzyme Q91A
+KCAT	Pseudomonas fragi	6.1	D-3-hydroxybutyrate	*mutant T190C
+KCAT	Pseudomonas fragi	6.7	D-3-hydroxybutyrate	*mutant H6-W257A
+KCAT	Pseudomonas fragi	7.2	D-3-hydroxybutyrate	*mutant H6-W187T
+KCAT	Pseudomonas fragi	12	D-3-hydroxybutyrate	*mutant H6-W257Y
+KCAT	Pseudomonas fragi	21	D-3-hydroxybutyrate	*mutant H6-H144A
+KCAT	Pseudomonas fragi	22	D-3-hydroxybutyrate	*mutant H6-Q196N; mutant T190A
+KCAT	Pseudomonas fragi	29	D-3-hydroxybutyrate	*mutant H6-W187A
+KCAT	Pseudomonas fragi	70	D-3-hydroxybutyrate	*mutant L215A
+KCAT	Pseudomonas fragi	83	D-3-hydroxybutyrate	*mutant H6-Q196E
+KCAT	Pseudomonas fragi	88	D-3-hydroxybutyrate	*mutant H6-W257F
+KCAT	Pseudomonas fragi	99	D-3-hydroxybutyrate	*mutant H6-Q196A
+KCAT	Pseudomonas fragi	110	D-3-hydroxybutyrate	*mutant H6-K152R
+KCAT	Pseudomonas fragi	140	D-3-hydroxybutyrate	*mutant H6-Q94A
+KCAT	Ralstonia pickettii	180	D-3-hydroxybutyrate	*
+KCAT	Pseudomonas fragi	180	D-3-hydroxybutyrate	*mutant H6-W187Y
+KCAT	Ralstonia pickettii	310	D-3-hydroxybutyrate	*
+KCAT	Pseudomonas fragi	310	D-3-hydroxybutyrate	*H6-HBDH; mutant H6-W187F
+KCAT	Pseudomonas fragi	370	D-3-hydroxybutyrate	*wild-type
+KCAT	Pseudomonas fragi	435	D-3-hydroxybutyrate	*mutant L215V
+KCAT	Ralstonia pickettii	500	D-3-hydroxybutyrate	*
+KCAT	Pseudomonas fragi	705	D-3-hydroxybutyrate	*mutant T190S
+KCAT	Alcaligenes faecalis	0.00016	levulinic acid	*mutant enzyme W187A, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.0003	levulinic acid	*mutant enzyme W187I, at pH 6.5 and 30&Acirc;&deg;C; mutant enzyme W187V, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.00084	levulinic acid	*mutant enzyme H144A, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.00122	levulinic acid	*mutant enzyme H144L/W187A, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.002	levulinic acid	*mutant enzyme H144L/W187V, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.00289	levulinic acid	*mutant enzyme H144L/W187I, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.00465	levulinic acid	*mutant enzyme W187L, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.006	levulinic acid	*recombinant wild type enzyme with N-terminal His-tag, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.00766	levulinic acid	*mutant enzyme H144V, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.00768	levulinic acid	*wild type enzyme, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.00921	levulinic acid	*mutant enzyme H144F, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.01069	levulinic acid	*mutant enzyme H144I, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.019	levulinic acid	*recombinant mutant enzyme W187F with N-terminal His-tag, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.028	levulinic acid	*recombinant mutant enzyme H144L with C-terminal His-tag, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.02969	levulinic acid	*mutant enzyme W187F, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.06	levulinic acid	*recombinant mutant enzyme H144L with N-terminal His-tag, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.06594	levulinic acid	*mutant enzyme H144L, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.07107	levulinic acid	*mutant enzyme H144L/W187L, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.079	levulinic acid	*recombinant mutant enzyme H144L/W187F with C-terminal His-tag, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.164	levulinic acid	*recombinant mutant enzyme H144L/W187F with N-terminal His-tag, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	0.2565	levulinic acid	*mutant enzyme H144L/W187F, at pH 6.5 and 30&Acirc;&deg;C

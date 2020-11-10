@@ -1,0 +1,29 @@
+KCAT	Citrobacter freundii	0.41	alliin	*mutant C115A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	11.31	alliin	*mutant C115H, pH 8.0, 30&Acirc;&deg;C
+KCAT	Petiveria alliacea	20.67	alliin	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Citrobacter freundii	1.63	methiin	*mutant C115A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	5.14	methiin	*mutant C115H, pH 8.0, 30&Acirc;&deg;C
+KCAT	Petiveria alliacea	15.1	methiin	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	1.96	propiin	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	2.48	(2R)-2-amino-3-(ethylsulfinyl)propanoic acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	4.2	2-hydroxyethiin	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	2.67	(2R)-2-amino-3-(4-methylbenzylsulfinyl)propanoic acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	10.65	(2R)-2-amino-3-(4-chlorobenzylsulfinyl)propanoic acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	8.18	(2R)-2-amino-3-(1-phenylethylsulfinyl)propanoic acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	14.33	(2R)-2-amino-3-(2-methylbenzylsulfinyl)propanoic acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	6.48	(2R)-2-amino-3-(phenylsulfinyl)propanoic acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	1.75	(2R)-2-amino-3-(phenethylsulfinyl)propanoic acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Petiveria alliacea	4.47	petiveriin	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Citrobacter freundii	1.25	ethiin	*mutant C115A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	5.59	ethiin	*mutant C115H, pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	13.7	(+)-alliin	*mutant C115H, pH pH 8.0, 30&Acirc;&deg;C
+KCAT	Allium sativum	0.008	(+/-)-alliin	*catalytic alliinase-specific variable domain of the heavy chain of a heavy-chain antibody VHH C-10, pH 7.0, 35&Acirc;&deg;C
+KCAT	Allium sativum	0.015	(+/-)-alliin	*native enzyme, pH 7.0, 35&Acirc;&deg;C
+KCAT	Allium sativum	0.00185	4-mercaptopyridine	*catalytic alliinase-specific variable domain of the heavy chain of a heavy-chain antibody VHH C-10, pH 7.0, 35&Acirc;&deg;C
+KCAT	Allium sativum	0.0028	4-mercaptopyridine	*native enzyme, pH 7.0, 35&Acirc;&deg;C
+KCAT	Citrobacter freundii	12.4	(+-)-alliin	*mutant C115H, pH pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	5.14	(+-)-methiin	*mutant C115H, pH pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	5.2	(+)-methiin	*mutant C115H, pH pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	5.59	(+-)-ethiin	*mutant C115H, pH pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	20.2	(+-)-propiin	*mutant C115H, pH pH 8.0, 30&Acirc;&deg;C
+KCAT	Citrobacter freundii	21.8	(+)-propiin	*mutant C115H, pH pH 8.0, 30&Acirc;&deg;C

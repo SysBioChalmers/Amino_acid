@@ -1,0 +1,6 @@
+KCAT	Garcinia mangostana	0.058	malonyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant His-tagged BPS
+KCAT	Hypericum androsaemum	0.00685	benzoyl-CoA	*mutant T135L
+KCAT	Garcinia mangostana	0.049	benzoyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant His-tagged BPS
+KCAT	Hypericum androsaemum	0.055	benzoyl-CoA	*wild-type
+KCAT	Hypericum androsaemum	0.055	benzoyl-CoA	*
+KCAT	Hypericum androsaemum	9.66	benzoyl-CoA	*pH 7.0, 35&Acirc;&deg;C, recombinant enzyme

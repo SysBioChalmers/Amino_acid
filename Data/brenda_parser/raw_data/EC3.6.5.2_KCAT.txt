@@ -1,0 +1,1 @@
+ecNumber*3.6.5.2#turnoverNumber*0.0005#turnoverNumberMaximum*#substrate*GTP#commentary*quite low, increased GTP hydrolysis by action of guanine nucleotide release proteins, promoting replacement of bound GDP by GTP#organism*Homo sapiens#ligandStructureId*37#literature*644137#

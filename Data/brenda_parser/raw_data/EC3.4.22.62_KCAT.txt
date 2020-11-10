@@ -1,0 +1,1 @@
+ecNumber*3.4.22.62#turnoverNumber*0.1#turnoverNumberMaximum*#substrate*acetyl-VEHD-7-amido-4-methylcoumarin#commentary*pH 7.5#organism*Homo sapiens#ligandStructureId*9659#literature*647424#!ecNumber*3.4.22.62#turnoverNumber*0.2#turnoverNumberMaximum*#substrate*acetyl-VEHD-7-amido-4-methylcoumarin#commentary*pH 6.5#organism*Homo sapiens#ligandStructureId*9659#literature*647424#

@@ -1,0 +1,5 @@
+KCAT	Sphingomonas sp. UG30	1.4	2,3,5,6-tetrachlorohydroquinone	*pH 8.7, 37&deg;C, mutant enzyme C14A
+KCAT	Sphingobium chlorophenolicum	3	2,3,5,6-tetrachlorohydroquinone	*pH 7.0, 20&deg;C, mutant enzyme C13SS
+KCAT	Sphingomonas sp. UG30	6.3	2,3,5,6-tetrachlorohydroquinone	*pH 8.7, 37&deg;C, mutant enzyme S12A
+KCAT	Sphingomonas sp. UG30	9.6	2,3,5,6-tetrachlorohydroquinone	*pH 8.7, 37&deg;, wild-type enzyme
+KCAT	Sphingomonas sp. UG30	48.5	2,3,5,6-tetrachlorohydroquinone	*pH 8.7, 50&deg;C

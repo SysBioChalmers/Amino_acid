@@ -1,0 +1,2 @@
+KCAT	Escherichia coli O6:H1	0.16	UDP-alpha-D-glucose	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli O6:H1	0.18	enterobactin	*pH 7.5, 25&Acirc;&deg;C

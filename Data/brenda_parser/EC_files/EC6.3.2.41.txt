@@ -1,0 +1,2 @@
+KCAT	Mus musculus	2.6	N-acetyl-L-aspartate	*at pH 8.0 and 37&Acirc;&deg;C; pH 8.0, 30&Acirc;&deg;C
+KCAT	Mus musculus	3	N-acetyl-L-aspartate	*pH 8.0, 30&Acirc;&deg;C

@@ -1,0 +1,7 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	0.00333	tetravinyltin	*
+KCAT	Escherichia coli	0.0167	methyl mercuric chloride	*
+KCAT	Escherichia coli	0.333	n-butyl mercurial	*
+KCAT	Escherichia coli	4	cis-2-butenyl mercuric chloride	*

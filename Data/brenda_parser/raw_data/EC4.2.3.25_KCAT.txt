@@ -1,0 +1,1 @@
+ecNumber*4.2.3.25#turnoverNumber*0.014#turnoverNumberMaximum*#substrate*geranyl diphosphate#commentary*#organism*Actinidia polygama#ligandStructureId*175#literature*703821#!ecNumber*4.2.3.25#turnoverNumber*0.044#turnoverNumberMaximum*#substrate*geranyl diphosphate#commentary*#organism*Actinidia arguta#ligandStructureId*175#literature*703821#

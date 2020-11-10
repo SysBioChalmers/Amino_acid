@@ -1,0 +1,5 @@
+KCAT	Methanocaldococcus jannaschii	2.1	S-adenosyl-L-homocysteine	*pH and temperature not specified in the publication, mutant enzyme Y136R/E150R
+KCAT	Methanocaldococcus jannaschii	2.7	S-adenosyl-L-homocysteine	*pH and temperature not specified in the publication, mutant enzyme Y136R
+KCAT	Streptomyces flocculus	26	S-adenosyl-L-homocysteine	*
+KCAT	Methanocaldococcus jannaschii	58.2	S-adenosyl-L-homocysteine	*pH and temperature not specified in the publication, mutant enzyme E150R
+KCAT	Methanocaldococcus jannaschii	1300	S-adenosyl-L-homocysteine	*pH and temperature not specified in the publication, wild-type enzyme

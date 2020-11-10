@@ -1,0 +1,6 @@
+KCAT	Verrucomicrobium spinosum	1.6	LL-2,6-Diaminoheptanedioate	*pH 7.6, temperature not specified in the publication
+KCAT	Leptospira interrogans	5.7	LL-2,6-Diaminoheptanedioate	*pH 7.6, temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	16.4	LL-2,6-Diaminoheptanedioate	*pH 7.6, temperature not specified in the publication
+KCAT	Chlamydomonas reinhardtii	1.1	tetrahydrodipicolinate	*pH 7.6, 30&Acirc;&deg;C
+KCAT	Methanococcus maripaludis	0.31	LL-diaminopimelate	*after correction for a purity of 70%, pH 8.5, 70&Acirc;&deg;C
+KCAT	Chlamydomonas reinhardtii	19	LL-diaminopimelate	*pH 7.6, 30&Acirc;&deg;C

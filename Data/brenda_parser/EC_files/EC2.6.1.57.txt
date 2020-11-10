@@ -1,0 +1,21 @@
+KCAT	Pyrococcus furiosus	225	2-oxoglutarate	*pH 7.6, 80&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	225	2-oxoglutarate	*pH 7.6, 80&Acirc;&deg;C
+KCAT	Escherichia coli	278	2-oxoglutarate	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	500	oxaloacetate	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	140	L-aspartate	*pH 8.0, 25&Acirc;&deg;C, cosubstrate 2-oxoglutarate
+KCAT	Escherichia coli	290	L-aspartate	*pH 8.0, 25&Acirc;&deg;C, single-turnover, wild-type enzyme
+KCAT	Escherichia coli	152	L-phenylalanine	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	250	L-phenylalanine	*pH 8.0, 25&Acirc;&deg;C, cosubstrate 2-oxoglutarate
+KCAT	Pyrococcus furiosus	253	L-phenylalanine	*pH 7.6, 80&Acirc;&deg;C, cosubstrate 2-oxoglutarate
+KCAT	Pyrococcus furiosus	253	L-phenylalanine	*pH 7.6, 80&Acirc;&deg;C
+KCAT	Escherichia coli	1200	L-phenylalanine	*pH 8.0, 25&Acirc;&deg;C, single-turnover, wild-type enzyme
+KCAT	Pyrococcus furiosus	72	L-tyrosine	*pH 7.6, 80&Acirc;&deg;C, cosubstrate 2-oxoglutarate
+KCAT	Pyrococcus furiosus	72	L-tyrosine	*pH 7.6, 80&Acirc;&deg;C
+KCAT	Escherichia coli	210	L-tyrosine	*pH 8.0, 25&Acirc;&deg;C, cosubstrate 2-oxoglutarate
+KCAT	Escherichia coli	333	L-tyrosine	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	500	L-tyrosine	*pH 8.0, 25&Acirc;&deg;C, single-turnover, wild-type enzyme
+KCAT	Pyrococcus furiosus	62	L-tryptophan	*pH 7.6, 80&Acirc;&deg;C, cosubstrate 2-oxoglutarate
+KCAT	Pyrococcus furiosus	62	L-tryptophan	*pH 7.6, 80&Acirc;&deg;C
+KCAT	Escherichia coli	160	L-tryptophan	*pH 8.0, 25&Acirc;&deg;C, cosubstrate 2-oxoglutarate
+KCAT	Escherichia coli	250	L-tryptophan	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	350	L-tryptophan	*pH 8.0, 25&Acirc;&deg;C, single-turnover, wild-type enzyme

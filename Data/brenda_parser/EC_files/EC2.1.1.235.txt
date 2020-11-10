@@ -1,0 +1,9 @@
+KCAT	Streptomyces fradiae	0.09	S-adenosyl-L-methionine	*pH 7.5, 24&Acirc;&deg;C, cosubstrate: 1.28 mM dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose
+KCAT	Streptomyces fradiae	0.86	S-adenosyl-L-methionine	*pH 7.5, 24&Acirc;&deg;C, cosubstrate: 0.89 mM dTDP-3-methylamino-3,6-dideoxy-alpha-D-glucopyranose
+KCAT	Streptomyces fradiae	0.0126	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	*pH 8.5, 37&Acirc;&deg;C, mutant enzyme H123N
+KCAT	Streptomyces fradiae	0.046	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	*pH 8.5, 37&Acirc;&deg;C, mutant enzyme H123A
+KCAT	Streptomyces fradiae	0.12	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	*pH 7.5, 24&Acirc;&deg;C
+KCAT	Streptomyces fradiae	0.165	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	*pH 7.5, 24&Acirc;&deg;C
+KCAT	Streptomyces fradiae	0.172	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	*pH 8.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Streptomyces fradiae	0.75	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	*pH and temperature not specified in the publication
+KCAT	Streptomyces fradiae	0.54	dTDP-3-methylamino-3,6-dideoxy-alpha-D-glucopyranose	*pH 7.5, 24&Acirc;&deg;C

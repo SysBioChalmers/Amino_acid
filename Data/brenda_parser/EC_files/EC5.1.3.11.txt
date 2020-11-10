@@ -1,0 +1,93 @@
+KCAT	Cellvibrio vulgaris	0.113	D-mannose	*pH 8.0, 40&deg;C, recombinant enzyme
+KCAT	Caldicellulosiruptor saccharolyticus	0.27	D-glucose	*in 50 mM PIPES buffer (pH 7.5), at 75&deg;C
+KCAT	Dictyoglomus turgidum	0.54	lactulose	*pH 7.5, 50&deg;C; pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	Caldicellulosiruptor saccharolyticus	0.74	D-mannose	*in 50 mM PIPES buffer (pH 7.5), at 75&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	0.88	lactulose	*pH 7.5, 50&deg;C; pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	1.79	lactose	*F114A mutant, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30&deg;C
+KCAT	Spirochaeta thermophila	2	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme; pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Spirochaeta thermophila	2	cellobiose	*pH 7.0, 60&deg;C
+KCAT	Ruminococcus albus	4.04	lactose	*W303F mutant, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30&deg;C
+KCAT	Ruminococcus albus	4.64	cellobiose	*F114A mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Ruminococcus albus	5.16	cellobiose	*M378T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Pedobacter heparinus	5.43	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Pedobacter heparinus	7.02	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Saccharophagus degradans	7.82	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Herpetosiphon aurantiacus	14	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	14.4	cellobiose	*M270T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Flavobacterium johnsoniae	17.5	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Cellvibrio vulgaris	18.6	lactose	*pH 8.0, 40&deg;C, recombinant enzyme
+KCAT	Cellvibrio vulgaris	18.6	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Herpetosiphon aurantiacus	18.7	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	20.9	lactose	*R377A mutant, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30&deg;C
+KCAT	Saccharophagus degradans	26.1	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	26.6	cellobiose	*R377A mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Eubacterium cellulosolvens	28.5	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Eubacterium cellulosolvens	28.5	lactose	*pH 7.5, 35&deg;C
+KCAT	Ruminococcus albus	29.7	cellobiose	*M106T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Ruminococcus albus	30.3	cellobiose	*M62T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Thermoanaerobacterium saccharolyticum	30.9	lactose	*recombinant enzyme, pH 7.0, 60&deg;C
+KCAT	Ruminococcus albus	31.5	cellobiose	*M212T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Eubacterium cellulosolvens	32.5	cellobiose	*pH 7.5, 35&deg;C
+KCAT	Eubacterium cellulosolvens	32.5	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	33.3	cellobiose	*M95T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Spirochaeta thermophila	35.7	mannobiose	*pH 7.0, 60&deg;C
+KCAT	Spirochaeta thermophila	35.8	4-O-beta-D-mannopyranosyl-beta-D-mannopyranose	*pH 7.5, 30&deg;C, recombinant enzyme; pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	36.9	cellobiose	*M179T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Cellvibrio vulgaris	38.8	cellobiose	*pH 8.0, 40&deg;C, recombinant enzyme
+KCAT	Cellvibrio vulgaris	38.8	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Flavobacterium johnsoniae	39.9	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	40	cellobiose	*M380T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	43.26	lactose	*pH 7.5, 80&deg;C, recombinant wild-type enzyme; pH 7.5, 80&deg;C, wild-type enzyme
+KCAT	Ruminococcus albus	43.8	cellobiose	*M96T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Dyadobacter fermentans	44.9	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	46.4	cellobiose	*W303F mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	47.5	lactose	*pH 7.5, 80&deg;C, mutant enzyme A12S; pH 7.5, 80&deg;C, recombinant mutant A12S
+KCAT	Caldicellulosiruptor saccharolyticus	51.77	lactose	*pH 7.5, 80&deg;C, mutant enzyme A12S/K328I; pH 7.5, 80&deg;C, recombinant mutant A12S/K328I
+KCAT	Ruminococcus albus	52.1	lactose	*pH 7.5, 30&deg;C
+KCAT	Ruminococcus albus	52.1	lactose	*recombinant enzyme, 100 mM sodium phosphate, 20 mM lactose, pH 7.5, 30&deg;C
+KCAT	Ruminococcus albus	52.1	lactose	*wild type, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30&deg;C
+KCAT	Ruminococcus albus	52.1	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Caldicellulosiruptor saccharolyticus	55.83	lactose	*pH 7.5, 80&deg;C, mutant enzyme R5M/A12S/F231L/K328I; pH 7.5, 80&deg;C, recombinant mutant R5M/A12S/F231L/K328I
+KCAT	Ruminococcus albus	63.3	cellobiose	*wild type enzyme, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Ruminococcus albus	63.8	cellobiose	*pH 7.5, 30&deg;C
+KCAT	Ruminococcus albus	63.8	cellobiose	*recombinant enzyme, 100 mM sodium phosphate, 20 mM cellobiose, pH 7.5, 30&deg;C
+KCAT	Ruminococcus albus	63.8	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Bacteroides fragilis	67.6	cellobiose	*recombinant enzyme, 100 mM sodium phosphate, 20 mM cellobiose, pH 7.5, 30&deg;C
+KCAT	Bacteroides fragilis	67.6	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Caldicellulosiruptor saccharolyticus	72.44	lactose	*pH 7.5, 80&deg;C, mutant enzyme E161D/S180P/S351G; recombinant mutant E161D/S180P/S351G, pH 7.5, 80&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	75.27	lactose	*pH 7.5, 80&deg;C, mutant enzyme R5M/A12S/I52V/F231L/K328I; pH 7.5, 80&deg;C, recombinant mutant R5M/A12S/I52V/F231L/K328I
+KCAT	Caldicellulosiruptor saccharolyticus	75.57	lactose	*pH 7.5, 80&deg;C, mutant enzyme E161D/N365P; recombinant mutant E161D/N365P, pH 7.5, 80&deg;C
+KCAT	Ruminococcus albus	78.3	lactose	*W55F mutant, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30&deg;C
+KCAT	Bacteroides fragilis	79.5	lactose	*recombinant enzyme, 100 mM sodium phosphate, 20 mM lactose, pH 7.5, 30&deg;C
+KCAT	Bacteroides fragilis	79.5	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Rhodothermus marinus	80.8	cellobiose	*pH 6.3, 60&deg;C, recombinnat enzyme
+KCAT	Rhodothermus marinus	80.8	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Caldicellulosiruptor saccharolyticus	81.55	lactose	*pH 7.5, 80&deg;C, wild-type enzyme; recombinant wild-type enzyme, pH 7.5, 80&deg;C
+KCAT	Dictyoglomus turgidum	89.4	lactose	*purified recombinant His-tagged enzyme, pH 7.0, 70&deg;C
+KCAT	Dictyoglomus turgidum	89.4	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Spirosoma linguale	92.1	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Thermoanaerobacterium saccharolyticum	100.4	cellobiose	*recombinant enzyme, pH 7.0, 60&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	101	epilactose	*pH 7.5, 50&deg;C; pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	Cellvibrio vulgaris	102	4-O-beta-D-mannopyranosyl-beta-D-mannopyranose	*pH 8.0, 40&deg;C, recombinant enzyme
+KCAT	Cellvibrio vulgaris	102	4-O-beta-D-mannopyranosyl-beta-D-mannopyranose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Rhodothermus marinus	102	4-O-beta-D-mannopyranosyl-beta-D-mannopyranose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Bacteroides fragilis	104	4-O-beta-D-mannopyranosyl-beta-D-mannopyranose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	uncultured bacterium	109	cellobiose	*recombinant enzyme, pH 7.5, 30&deg;C
+KCAT	Rhodothermus marinus	111	lactose	*pH 6.3, 60&deg;C, recombinnat enzyme
+KCAT	Rhodothermus marinus	111	lactose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	uncultured bacterium	113	mannobiose	*recombinant enzyme, pH 7.5, 25&deg;C
+KCAT	Dictyoglomus turgidum	125	epilactose	*pH 7.5, 50&deg;C; pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	uncultured bacterium	137	mannobiose	*recombinant enzyme, pH 7.5, 30&deg;C
+KCAT	Teredinibacter turnerae	165	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme; pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	uncultured bacterium	166	cellobiose	*recombinant enzyme, pH 7.5, 25&deg;C
+KCAT	Dictyoglomus turgidum	169	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Dictyoglomus turgidum	169.1	cellobiose	*purified recombinant His-tagged enzyme, pH 7.0, 70&deg;C
+KCAT	Teredinibacter turnerae	175	lactose	*pH 7.5, 30&deg;C, recombinant enzyme; pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	201	4-O-beta-D-mannopyranosyl-beta-D-mannopyranose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Ruminococcus albus	215	cellobiose	*W55F mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30&deg;C
+KCAT	Spirosoma linguale	222	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Caldicellulosiruptor obsidiansis	233.4	lactose	*recombinant His6-tagged enzyme, pH 7.5, 70&deg;C
+KCAT	Caldicellulosiruptor obsidiansis	233.7	cellobiose	*recombinant His6-tagged enzyme, pH 7.5, 70&deg;C
+KCAT	Dictyoglomus turgidum	237	lactose	*pH 7.5, 50&deg;C; pH 7.5, 50&deg;C, recombinant enzyme
+KCAT	Dyadobacter fermentans	240	cellobiose	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Caldicellulosiruptor saccharolyticus	303	lactose	*pH 7.5, 50&deg;C; pH 7.5, 50&deg;C, recombinant enzyme

@@ -1,0 +1,2 @@
+KCAT	Arabidopsis thaliana	0.0048	(2E,6E)-farnesyl diphosphate	*accession Columbia, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Arabidopsis thaliana	0.034	geranyl diphosphate	*accession Columbia, 30&Acirc;&deg;C, pH not specified in the publication

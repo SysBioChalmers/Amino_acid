@@ -1,0 +1,18 @@
+KCAT	Mycolicibacterium smegmatis	19	maltose	*pH 6.8, 37&Acirc;&deg;C
+KCAT	Deinococcus geothermalis	31.9	maltose	*pH 7.6, 40&Acirc;&deg;C
+KCAT	Picrophilus torridus	95	maltose	*45&Acirc;&deg;C, pH 6.0
+KCAT	Picrophilus torridus	97.8	maltose	*45&Acirc;&deg;C, pH 6.0, presence of 10 mM glucose
+KCAT	Meiothermus ruber	115	maltose	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant TSMrTt
+KCAT	Thermus thermophilus	115	maltose	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant TSMrTt
+KCAT	Meiothermus ruber	147	maltose	*
+KCAT	Meiothermus ruber	147	maltose	*pH 6.5, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Meiothermus ruber	152	maltose	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant TSTtMr
+KCAT	Thermus thermophilus	152	maltose	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant TSTtMr
+KCAT	Thermus thermophilus	227	maltose	*pH 6.5, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Picrophilus torridus	187.6	trehalose	*45&Acirc;&deg;C, pH 6.0
+KCAT	Meiothermus ruber	61	alpha,alpha-trehalose	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant TSMrTt
+KCAT	Mycolicibacterium smegmatis	66	alpha,alpha-trehalose	*pH 6.8, 37&Acirc;&deg;C
+KCAT	Meiothermus ruber	68.9	alpha,alpha-trehalose	*
+KCAT	Meiothermus ruber	68.9	alpha,alpha-trehalose	*pH 6.5, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Meiothermus ruber	110	alpha,alpha-trehalose	*pH 6.5, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Meiothermus ruber	202	alpha,alpha-trehalose	*pH 6.5, 30&Acirc;&deg;C, recombinant mutant TSTtMr

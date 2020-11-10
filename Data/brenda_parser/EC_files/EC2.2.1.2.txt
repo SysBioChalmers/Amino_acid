@@ -1,0 +1,15 @@
+KCAT	Homo sapiens	0.21	D-fructose 6-phosphate	*mutant F189Y, reaction: fructose 6-phosphate cleavage into dihydroxyacetone and glyceraldehyde 3-phosphate
+KCAT	Escherichia coli	0.22	D-fructose 6-phosphate	*mutant F189Y, reaction: fructose 6-phosphate cleavage into dihydroxyacetone and glyceraldehyde 3-phosphate
+KCAT	Blastobotrys adeninivorans	4.9	D-fructose 6-phosphate	*; pH 6.0, 20&Acirc;&deg;C
+KCAT	Homo sapiens	7.4	D-fructose 6-phosphate	*mutant F189Y, reaction: sedoheptulose 7-phosphate and D-glyceraldehyde 3-phosphate formation from erythrose 4-phosphate + D-fructose 6-phosphate
+KCAT	Escherichia coli	8.8	D-fructose 6-phosphate	*mutant F189Y, reaction: sedoheptulose 7-phosphate and D-glyceraldehyde 3-phosphate formation from erythrose 4-phosphate + D-fructose 6-phosphate
+KCAT	Thermotoga maritima	22.3	D-fructose 6-phosphate	*pH 9.0, 80&Acirc;&deg;C
+KCAT	Escherichia coli	0.54	DL-glyceraldehyde	*mutant F178, pH 8.5, 30&Acirc;&deg;C
+KCAT	Blastobotrys adeninivorans	-999	D-erythrose 4-phosphate	*pH 6.0, 20&Acirc;&deg;C
+KCAT	Thermotoga maritima	22.9	D-erythrose 4-phosphate	*pH 9.0, 80&Acirc;&deg;C
+KCAT	Escherichia coli	12	glyceraldehyde 3-phosphate	*mutant F178, pH 8.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	13	glyceraldehyde 3-phosphate	*wild-type, pH 8.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	4.3	dihydroxyacetone	*mutant F189Y, reaction: fructose 6-phosphate synthesis from dihydroxyacetone and glyceraldehyde 3-phosphate
+KCAT	Homo sapiens	8.9	dihydroxyacetone	*mutant F189Y, reaction: fructose 6-phosphate synthesis from dihydroxyacetone and glyceraldehyde 3-phosphate
+KCAT	Escherichia coli	0.53	D-glyceraldehyde	*mutant F178, pH 8.5, 30&Acirc;&deg;C
+KCAT	Blastobotrys adeninivorans	6.44	D-erythrose-4-phosphate	*

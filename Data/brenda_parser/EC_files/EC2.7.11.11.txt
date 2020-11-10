@@ -1,0 +1,7 @@
+KCAT	Mus musculus	10.6	ATP	*pH 7.0, 37&Acirc;&deg;C, recombinant mutant M120G catalytic subunit
+KCAT	Mus musculus	19.6	ATP	*pH 7.0, 37&Acirc;&deg;C, recombinant wild-type catalytic subunit
+KCAT	Mus musculus	18	Leu-Arg-Arg-Ala-Ser-Leu-Gly	*pH 7.0, temperature not specified in the publication, myristoylated wild-type enzyme and enzyme mutant K7C
+KCAT	Mus musculus	19	Leu-Arg-Arg-Ala-Ser-Leu-Gly	*pH 7.0, temperature not specified in the publication, wild-type enzyme
+KCAT	Mus musculus	29	Leu-Arg-Arg-Ala-Ser-Leu-Gly	*pH 7.0, temperature not specified in the publication, myristoylated enzyme mutant K7C
+KCAT	Mus musculus	0.5	N6-benzyl-ATP	*pH 7.0, 37&Acirc;&deg;C, recombinant mutant M120G catalytic subunit
+KCAT	Mus musculus	0.12	N6-phenethyl-ATP	*pH 7.0, 37&Acirc;&deg;C, recombinant mutant M120G catalytic subunit

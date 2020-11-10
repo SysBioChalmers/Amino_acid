@@ -1,0 +1,1 @@
+ecNumber*5.1.2.7#turnoverNumber*6.5#turnoverNumberMaximum*#substrate*D-fructuronate#commentary*pH 8.5, 22&deg;C#organism*Thermotoga maritima#ligandStructureId*8081#literature*740380#

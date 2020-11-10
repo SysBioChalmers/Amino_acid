@@ -1,0 +1,4 @@
+KCAT	Arabidopsis thaliana	0.59	FMN	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.822	FMN	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	6.5	FMN	*pH and temperature not specified in the publication, enzyme YbjI
+KCAT	Escherichia coli	9.4	FMN	*pH and temperature not specified in the publication, enzyme YigB

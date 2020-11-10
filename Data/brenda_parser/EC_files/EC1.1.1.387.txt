@@ -1,0 +1,9 @@
+KCAT	Pseudomonas aeruginosa	0.4	L-serine	*pH 11.0, 37&deg;C, mutant enzyme S122A
+KCAT	Pseudomonas aeruginosa	0.8	L-serine	*pH 11.0, 37&deg;C, mutant enzyme Y219A
+KCAT	Pseudomonas aeruginosa	1.4	L-serine	*pH 11.0, 37&deg;C, mutant enzyme T96A
+KCAT	Pseudomonas aeruginosa	1.6	NAD+	*pH 11.0, 37&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	2.7	L-serine	*pH 11.0, 37&deg;C, mutant enzyme N175A
+KCAT	Pseudomonas aeruginosa	5.8	D-glycerate	*pH 11.0, 37&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	9.6	DL-threonine	*pH 11.0, 37&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	10.4	L-serine	*pH 11.0, 37&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	11.6	methyl 2,2-dimethyl-3-hydroxypropionate	*pH 11.0, 37&deg;C, wild-type enzyme

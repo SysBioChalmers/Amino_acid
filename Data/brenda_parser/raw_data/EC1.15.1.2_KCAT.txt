@@ -1,0 +1,1 @@
+ecNumber*1.15.1.2#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*analysis of reaction mechanism using synthetic construct [Fe(II)(SMe2N4(tren))]+ and a single peroxide intermediate, [Fe(III)(SMe2N4(tren))(OOH)]+#organism*synthetic construct#ligandStructureId*#literature*673998#

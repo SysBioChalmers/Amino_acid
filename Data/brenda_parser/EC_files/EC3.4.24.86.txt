@@ -1,0 +1,14 @@
+KCAT	Homo sapiens	0.14	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser-Ser-Lys(DABCYL)	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.25	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser(4O-(beta-D-Gal-(1-&gt;3)-alpha-D-GalNAc))-Ser-Lys(DABCYL)	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.08	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)	*extracellular domain, presence of L-galactose, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.22	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)	*catalytic domain, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.25	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)	*extracellular domain, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.36	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)	*catalytic domain, presence of L-galactose, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.06	(EDANS)-EPLAQAVRSSSK-(DABCYL)	*catalytic domain, presence of L-galactose, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.07	(EDANS)-EPLAQAVRSSSK-(DABCYL)	*catalytic domain, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.1	(EDANS)-EPLAQAVRSSSK-(DABCYL)	*extracellular domain, presence of L-galactose, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.14	(EDANS)-EPLAQAVRSSSK-(DABCYL)	*extracellular domain, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.08	S80-glycosylated (EDANS)-ELAQAVRSSSRK-(DABCYL)	*catalytic domain, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.42	S80-glycosylated (EDANS)-ELAQAVRSSSRK-(DABCYL)	*extracellular domain, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.05	(EDANS)-ELAQAVRSSSRK-(DABCYL)	*catalytic domain, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.2	(EDANS)-ELAQAVRSSSRK-(DABCYL)	*extracellular domain, 25&Acirc;&deg;C, pH not specified in the publication

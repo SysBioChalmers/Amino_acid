@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	9.3	D-gluconate	*pH 7.2, temperature not specified in the publication
+KCAT	Homo sapiens	9.5	ATP	*pH 7.2, temperature not specified in the publication

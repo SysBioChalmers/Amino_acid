@@ -1,0 +1,2 @@
+KCAT	Thermus thermophilus	0.8	N2-acetyl-L-lysine	*pH 8.9, 45&deg;C
+KCAT	Thermus thermophilus	1	N2-Acetyl-L-ornithine	*pH 8.9, 45&deg;C

@@ -1,0 +1,2 @@
+KCAT	Kluyveromyces lactis	3	ATP	*pH 6.8, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	56.7	ATP	*

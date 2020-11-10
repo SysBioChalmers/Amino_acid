@@ -1,0 +1,61 @@
+KCAT	Saccharomyces cerevisiae	0.003	(5'-GATCTAAAAGACTT-3')-phosphotyrosine	*mutant enzyme H182A, at pH 7.5 and 30&deg;C
+KCAT	Rhizobium leguminosarum	0.0047	p-nitrophenyl ethyl phosphate	*mutant enzyme C57A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Saccharomyces cerevisiae	0.007	(5'-GATCTAAAAGACTT-3')-phosphotyrosine	*mutant enzyme H432R, at pH 7.5 and 30&deg;C
+KCAT	Rhizobium leguminosarum	0.0088	p-Nitrophenyl phenylphosphonate	*mutant enzyme C57A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Saccharomyces cerevisiae	0.012	(5'-GATCTAAAAGACTT-3')-phosphotyrosine	*mutant enzyme H432N, at pH 7.5 and 30&deg;C
+KCAT	Rhizobium leguminosarum	0.17	p-nitrophenyl ethyl phosphate	*kcat below 0.17 sec-1, mutant enzyme Y105A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Saccharomyces cerevisiae	0.28	(5'-GATCTAAAAGACTT-3')-phosphotyrosine	*wild type enzyme, at pH 7.5 and 30&deg;C
+KCAT	Rhizobium leguminosarum	0.3	p-nitrophenyl ethyl phosphate	*mutant enzyme H218A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Rhizobium leguminosarum	0.57	p-nitrophenyl ethyl phosphate	*mutant enzyme T107A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Arabidopsis thaliana	0.8	bis(4-nitrophenyl)phosphate	*mutant G62V, pH 7.4, 37&deg;C
+KCAT	Hungateiclostridium thermocellum	0.9	more	*pH 8.0, 45&deg;C, mutant H264Q, presence of Ni2+
+KCAT	Rhizobium leguminosarum	1	p-Nitrophenyl phenylphosphonate	*mutant enzyme H218A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Rhizobium leguminosarum	1.1	p-nitrophenyl ethyl phosphate	*mutant enzyme N78A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Rhizobium leguminosarum	1.5	p-Nitrophenyl phenylphosphonate	*mutant enzyme N78A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Rhizobium leguminosarum	1.6	p-nitrophenyl ethyl phosphate	*mutant enzyme C57S, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	1.7	more	*pH 8.0, 45&deg;C, wild-type, presence of Ni2+
+KCAT	Arabidopsis thaliana	1.8	bis(4-nitrophenyl)phosphate	*mutant P178A, pH 7.4, 37&deg;C
+KCAT	Hungateiclostridium thermocellum	2.1	more	*pH 8.0, 45&deg;C, mutant H376D, presence of Mn2+
+KCAT	Arabidopsis thaliana	2.3	bis(4-nitrophenyl)phosphate	*mutant F51L, pH 7.4, 37&deg;C
+KCAT	Rhizobium leguminosarum	2.4	p-Nitrophenyl phenylphosphonate	*mutant enzyme T107A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	2.5	more	*pH 8.0, 45&deg;C, mutant D236A, presence of Ni2+
+KCAT	Rhizobium leguminosarum	2.7	p-Nitrophenyl phenylphosphonate	*mutant enzyme Y105A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Rhizobium leguminosarum	2.9	p-nitrophenyl ethyl phosphate	*mutant enzyme K337A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	3	more	*pH 8.0, 45&deg;C, mutant H189D, presence of Mn2+
+KCAT	Arabidopsis thaliana	3.1	bis(4-nitrophenyl)phosphate	*mutant C40G, pH 7.4, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	3.26	p-nitrophenyl 5'-thymidine monophosphate	*+/- 0.006, with 1mM Ni2+
+KCAT	Hungateiclostridium thermocellum	3.3	more	*pH 8.0, 45&deg;C, mutant H189Q, presence of Mn2+
+KCAT	Rhizobium leguminosarum	3.3	p-Nitrophenyl phenylphosphonate	*mutant enzyme C57S, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	3.6	more	*pH 8.0, 45&deg;C, mutant R237K, presence of Ni2+
+KCAT	Hungateiclostridium thermocellum	3.7	more	*pH 8.0, 45&deg;C, mutant H189A, presence of Mn2+
+KCAT	Arabidopsis thaliana	3.9	bis(4-nitrophenyl)phosphate	*mutant C25G, pH 7.4, 37&deg;C
+KCAT	Arabidopsis thaliana	4	bis(4-nitrophenyl)phosphate	*mutant E208A, pH 7.4, 37&deg;C
+KCAT	Arabidopsis thaliana	4.6	bis(4-nitrophenyl)phosphate	*mutant P64A, pH 7.4, 37&deg;C
+KCAT	Arabidopsis thaliana	7.4	bis(4-nitrophenyl)phosphate	*wild-type, pH 7.4, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	8.6	p-Nitrophenylphosphorylcholine	*+/- 0.5, with 1 mM Ni2+
+KCAT	Hungateiclostridium thermocellum	8.8	more	*pH 8.0, 45&deg;C, mutant D392E, presence of Mn2+
+KCAT	Hungateiclostridium thermocellum	9.3	more	*pH 8.0, 45&deg;C, mutant D236N, presence of Ni2+
+KCAT	Rhizobium leguminosarum	9.5	p-nitrophenyl ethyl phosphate	*wild type enzyme, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	12	more	*pH 8.0, 45&deg;C, mutant H264N, presence of Ni2+
+KCAT	Rhizobium leguminosarum	12	p-Nitrophenyl phenylphosphonate	*mutant enzyme K337A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	13.8	more	*pH 8.0, 45&deg;C, mutant D392N, presence of Mn2+
+KCAT	Rhizobium leguminosarum	16	p-Nitrophenyl phenylphosphonate	*wild type enzyme, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	18	more	*pH 8.0, 45&deg;C, mutant H264A, presence of Ni2+
+KCAT	Rhizobium leguminosarum	18	p-nitrophenyl ethyl phosphate	*mutant enzyme Q13A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	19.3	more	*pH 8.0, 45&deg;C, mutant R237A, presence of Ni2+
+KCAT	Escherichia coli	19.8	bis-p-nitrophenyl phosphate	*pH 8.5, 37&deg;C
+KCAT	Escherichia coli	20.3	bis-p-nitrophenyl phosphate	*pH 8.5, 37&deg;C, presence of 0.5 mM phosphate
+KCAT	Hungateiclostridium thermocellum	23.2	more	*pH 8.0, 45&deg;C, wild-type, presence of Mn2+
+KCAT	Rhizobium leguminosarum	26	p-Nitrophenyl phenylphosphonate	*mutant enzyme Q13A, at 30&deg;C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+KCAT	Hungateiclostridium thermocellum	33	more	*pH 8.0, 45&deg;C, mutant R237Q, presence of Ni2+
+KCAT	Hungateiclostridium thermocellum	40.5	more	*pH 8.0, 45&deg;C, mutant H376N, presence of Mn2+
+KCAT	Hungateiclostridium thermocellum	43.5	more	*pH 8.0, 45&deg;C, mutant D236A, presence of Mn2+
+KCAT	Hungateiclostridium thermocellum	52.3	more	*pH 8.0, 45&deg;C, mutant H264D, presence of Mn2+
+KCAT	Methanocaldococcus jannaschii	52.9	p-Nitrophenylphosphorylcholine	*+/- 1.0, with 20 mM Mn2+
+KCAT	Hungateiclostridium thermocellum	65.9	more	*pH 8.0, 45&deg;C, mutant D236N, presence of Mn2+
+KCAT	Arabidopsis thaliana	68.5	bis(4-nitrophenyl)phosphate	*mutant R252G, pH 7.4, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	105.7	bis-p-nitrophenyl phosphate	*+/- 2.8, with 1 mM Ni2+
+KCAT	Hungateiclostridium thermocellum	117.5	more	*pH 8.0, 45&deg;C, mutant H189E, presence of Mn2+
+KCAT	Methanocaldococcus jannaschii	125.9	bis-p-nitrophenyl phosphate	*+/- 8.1, with 20 mM PO43- and 1 mM Ni2+
+KCAT	Methanocaldococcus jannaschii	130.2	bis-p-nitrophenyl phosphate	*+/- 8.6, with 50 mM PO43- and 1 mM Ni2+
+KCAT	Hungateiclostridium thermocellum	253	more	*pH 8.0, 45&deg;C, mutant H264Q, presence of Mn2+

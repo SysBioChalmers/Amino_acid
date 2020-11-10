@@ -1,0 +1,41 @@
+KCAT	Pseudomonas aeruginosa	-999	more	*
+KCAT	Rhodococcus opacus	-999	more	*
+KCAT	Rhodococcus rhodnii	-999	more	*
+KCAT	Rhodococcus rhodochrous	-999	more	*
+KCAT	Rhodococcus sp.	-999	more	*
+KCAT	Pseudomonas fluorescens	-999	more	*
+KCAT	Pseudomonas fluorescens	-999	more	*
+KCAT	Pseudomonas aeruginosa	0.2	4-hydroxybenzoate	*mutant Y385F, at pH 8.0 and 30&deg;C
+KCAT	Pseudomonas aeruginosa	0.2	p-hydroxybenzoate	*4&deg;C, pH 6.5, E49Q mutant
+KCAT	Pseudomonas aeruginosa	0.36	4-hydroxybenzoate	*mutant enzyme Y385F
+KCAT	Pseudomonas aeruginosa	0.39	3,4-dihydroxybenzoic acid	*mutant Y385F, at pH 8.0 and 30&deg;C
+KCAT	Pseudomonas aeruginosa	0.42	4-hydroxybenzoate	*mutant enzyme Y201F
+KCAT	Pseudomonas aeruginosa	0.9	4-hydroxybenzoate	*mutant Y385F/T294A, at pH 8.0 and 30&deg;C
+KCAT	Pseudomonas aeruginosa	1.5	p-hydroxybenzoate	*4&deg;C, pH 8.6, E49Q mutant
+KCAT	Pseudomonas aeruginosa	1.69	3,4-dihydroxybenzoic acid	*mutant Y385F/T294A, at pH 8.0 and 30&deg;C
+KCAT	Corynebacterium glutamicum	2.8	4-hydroxybenzoate	*pH 8.0, 25&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	5.7	4-hydroxybenzoate	*wild-type enzyme
+KCAT	Pseudomonas aeruginosa	6.2	p-hydroxybenzoate	*4&deg;C, pH 6.5, wild-type PHBH
+KCAT	Pseudomonas sp.	6.6	NADPH	*25&deg;C
+KCAT	Pseudomonas sp.	6.8	NADH	*25&deg;C
+KCAT	Pseudomonas sp.	7.4	4-hydroxybenzoate	*35&deg;C
+KCAT	Corynebacterium glutamicum	7.5	4-hydroxybenzoate	*pH 8.0, 25&deg;C, mutant enzyme T42R
+KCAT	Pseudomonas aeruginosa	7.5	p-hydroxybenzoate	*4&deg;C, pH 8.6, wild-type PHBH
+KCAT	Corynebacterium glutamicum	7.8	NADPH	*pH 8.0, 25&deg;C, wild-type enzyme
+KCAT	Pseudomonas sp.	8.6	NADPH	*35&deg;C
+KCAT	Pseudomonas sp.	11.6	NADH	*35&deg;C
+KCAT	Corynebacterium glutamicum	12.4	NADPH	*pH 8.0, 25&deg;C, mutant enzyme T42R
+KCAT	Pseudomonas sp.	13.3	NADPH	*45&deg;C
+KCAT	Pseudomonas aeruginosa	14.12	4-hydroxybenzoate	*wild type enzyme, at pH 8.0 and 30&deg;C
+KCAT	Corynebacterium glutamicum	15.2	4-hydroxybenzoate	*pH 8.0, 25&deg;C, mutant enzyme D38A
+KCAT	Pseudomonas sp.	16.9	NADH	*45&deg;C
+KCAT	Corynebacterium glutamicum	18.8	NADPH	*pH 8.0, 25&deg;C, mutant enzyme D38A
+KCAT	Corynebacterium glutamicum	19.6	NADPH	*pH 8.0, 25&deg;C, mutant enzyme D38Y
+KCAT	Corynebacterium glutamicum	20.4	4-hydroxybenzoate	*pH 8.0, 25&deg;C, mutant enzyme D38Y/T42R
+KCAT	Corynebacterium glutamicum	24.3	4-hydroxybenzoate	*pH 8.0, 25&deg;C, mutant enzyme D38Y
+KCAT	Pseudomonas fluorescens	36.7	4-hydroxybenzoate	*
+KCAT	Pseudomonas fluorescens	45	4-hydroxybenzoate	*pH 8, monomeric form
+KCAT	Pseudomonas fluorescens	45	NADPH	*pH 8, monomeric form
+KCAT	Corynebacterium glutamicum	46.4	NADPH	*pH 8.0, 25&deg;C, mutant enzyme D38Y/T42R
+KCAT	Pseudomonas fluorescens	63	4-hydroxybenzoate	*pH 8, dimeric form
+KCAT	Pseudomonas fluorescens	63	NADPH	*pH 8, dimeric form

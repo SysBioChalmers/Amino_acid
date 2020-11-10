@@ -1,0 +1,6 @@
+KCAT	Neurospora crassa	2.267	L-cysteine	*pH and temperature not specified in the publication
+KCAT	Neurospora crassa	0.461	gamma-L-glutamyl-L-cysteine	*pH and temperature not specified in the publication
+KCAT	Neurospora crassa	0.46	hercynine	*with gamma-L-glutamyl-L-cysteine, pH and temperature not specified in the publication
+KCAT	Neurospora crassa	0.461	hercynine	*pH and temperature not specified in the publication, with gamma-L-glutamyl-L-cysteine
+KCAT	Neurospora crassa	2.267	hercynine	*pH and temperature not specified in the publication, with L-Cys
+KCAT	Neurospora crassa	2.27	hercynine	*with L-Cys, pH and temperature not specified in the publication

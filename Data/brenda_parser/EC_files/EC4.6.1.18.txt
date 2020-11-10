@@ -1,0 +1,47 @@
+KCAT	Gallus gallus	0.056	tRNA	*pH 7.0
+KCAT	Gallus gallus	2.6	tRNA	*pH 7.0
+KCAT	Bos taurus	35.7	RNA	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.11	poly(C)	*mutant K74A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.192	poly(C)	*mutant K6A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.242	poly(C)	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.57	poly(C)	*mutant R32A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.83	poly(C)	*mutant K62A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1033	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28A/G38D
+KCAT	Homo sapiens	1100	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28A/G38D/R39A
+KCAT	Homo sapiens	1233	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28L/R39A
+KCAT	Homo sapiens	1500	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28A/R39A
+KCAT	Homo sapiens	1650	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant R39A/G38D
+KCAT	Homo sapiens	1667	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant G38D
+KCAT	Homo sapiens	1833	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28L
+KCAT	Homo sapiens	2167	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28A
+KCAT	Homo sapiens	2317	poly(C)	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	2833	poly(C)	*pH 7.5, 37&Acirc;&deg;C, mutant R39A
+KCAT	Rattus norvegicus	0.6	cyclic 2',3'-UMP	*
+KCAT	Rattus norvegicus	2.7	cyclic 2',3'-UMP	*
+KCAT	Rattus norvegicus	1.5	cyclic 2',3'-CMP	*
+KCAT	Rattus norvegicus	1.6	cyclic 2',3'-CMP	*
+KCAT	Homo sapiens	0.36	cyclic 2',3'-cytidine monophosphate	*wild-type, 25&Acirc;&deg;C, pH 5.0
+KCAT	Homo sapiens	0.45	cyclic 2',3'-cytidine monophosphate	*mutant R4A/K6A/Q9E/D16G/S17N, 25&Acirc;&deg;C, pH 5.0
+KCAT	Bos taurus	3.5	cyclic 2',3'-cytidine monophosphate	*mutant K7H/R10H, pH 5.5, 25&Acirc;&deg;C
+KCAT	Bos taurus	12	cyclic 2',3'-cytidine monophosphate	*wild-type, pH 5.5, 25&Acirc;&deg;C
+KCAT	Bos taurus	27	pentacytidylic acid	*mutant K7H/R10H/H12K/H119Q, pH 7.0
+KCAT	Bos taurus	54	pentacytidylic acid	*mutant K7H/R10H, pH 7.0
+KCAT	Bos taurus	323	pentacytidylic acid	*wild-type, pH 7.0
+KCAT	Homo sapiens	13.3	poly (C)	*wild-type, 25&Acirc;&deg;C, pH 5.0
+KCAT	Homo sapiens	16	poly (C)	*mutant R4A/K6A/Q9E/D16G/S17N, 25&Acirc;&deg;C, pH 5.0
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	0.0002	poly(A)poly(U)	*mutant K74A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0012	poly(A)poly(U)	*mutant K6A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0019	poly(A)poly(U)	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0026	poly(A)poly(U)	*mutant K62A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0065	poly(A)poly(U)	*mutant R32A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.57	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant R39A/G38D
+KCAT	Homo sapiens	2.23	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28A/G38D/R39A
+KCAT	Homo sapiens	4.85	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28A/G38D
+KCAT	Homo sapiens	5.35	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant R39A
+KCAT	Homo sapiens	5.525	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28A/R39A
+KCAT	Homo sapiens	7.001	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28A
+KCAT	Homo sapiens	8.315	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant G38D
+KCAT	Homo sapiens	8.89	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	12.27	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28L
+KCAT	Homo sapiens	14.71	poly(A)-poly(U)	*pH 7.5, 37&Acirc;&deg;C, mutant Q28L/R39A

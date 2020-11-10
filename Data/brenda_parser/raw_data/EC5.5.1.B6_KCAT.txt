@@ -1,0 +1,1 @@
+ecNumber*5.5.1.B6#turnoverNumber*1#turnoverNumberMaximum*#substrate*nogalonic acid methyl ester#commentary*pH 7.4, temperature not specified in the publication#organism*Streptomyces galilaeus#ligandStructureId*199393#literature*732336#

@@ -1,0 +1,13 @@
+KCAT	Moorella thermoacetica	0.39	ATP	*27&Acirc;&deg;C, pH 7.0, R97S mutant FTHFS
+KCAT	Moorella thermoacetica	0.99	ATP	*27&Acirc;&deg;C, pH 7.0, wild-type FTHFS
+KCAT	Moorella thermoacetica	6.08	ATP	*27&Acirc;&deg;C, pH 7.0, wild-type FTHFS
+KCAT	Moorella thermoacetica	0.4	formate	*27&Acirc;&deg;C, pH 7.0, R97S mutant FTHFS
+KCAT	Moorella thermoacetica	1.13	formate	*27&Acirc;&deg;C, pH 7.0, wild-type FTHFS
+KCAT	Moorella thermoacetica	6.08	formate	*27&Acirc;&deg;C, pH 7.0, wild-type FTHFS
+KCAT	Homo sapiens	16	(6R,S)-tetrahydrofolate monoglutamate	*above, recombinant enzyme, 30&Acirc;&deg;C
+KCAT	Homo sapiens	10	(6R,S)-tetrahydrofolate pteroyltriglutamate	*recombinant enzyme, 30&Acirc;&deg;C
+KCAT	Homo sapiens	2.6	(6R,S)-tetrahydrofolate pteroylpentaglutamate	*recombinant enzyme, 30&Acirc;&deg;C
+KCAT	Clostridium cylindrosporum	-999	more	*
+KCAT	Clostridium cylindrosporum	-999	more	*
+KCAT	Saccharomyces cerevisiae	-999	more	*
+KCAT	Homo sapiens	-999	more	*the Kcat/Km tetrahydrofolate values are 0.03 s/M for the monoglutamate and 0.71 s/M for the pentaglutatmate substrates

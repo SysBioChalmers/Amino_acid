@@ -1,0 +1,4 @@
+KCAT	Bacteroides xylanisolvens	0.0007	4-methylumbelliferyl (alpha-D-glucopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	*pH 7, 37&deg;C
+KCAT	Bacteroides xylanisolvens	0.0008	4-methylumbelliferyl (alpha-D-mannopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	*pH 7, 37&deg;C
+KCAT	Bacteroides thetaiotaomicron	0.0015	4-methylumbelliferyl (alpha-D-mannopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	*pH 7, 37&deg;C
+KCAT	Bacteroides thetaiotaomicron	3	methyl alpha-D-mannopyranosyl-(1-&gt;3)-alpha-D-mannopyranosyl-(1,2)-alpha-D-mannopyranosyl-(1,2)-alpha-D-mannopyranoside	*pH 7, 37&deg;C

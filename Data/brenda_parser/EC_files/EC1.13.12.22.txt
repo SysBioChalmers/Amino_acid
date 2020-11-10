@@ -1,0 +1,9 @@
+KCAT	Streptomyces nogalater	0.02	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	*pH 7.0, 22&deg;C, mutant enzyme N63A; pH 7.0, 22&deg;C, mutant enzyme W67F
+KCAT	Streptomyces nogalater	0.03	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	*pH 7.0, 22&deg;C, mutant enzyme N18A
+KCAT	Streptomyces nogalater	0.05	O2	*at pH 6.3 and 20&deg;C
+KCAT	Streptomyces nogalater	0.17	dithranol	*at pH 6.3 and 20&deg;C
+KCAT	Streptomyces nogalater	0.3	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	*pH 7.0, 22&deg;C, mutant enzyme H49A; pH 7.0, 22&deg;C, mutant enzyme R90E
+KCAT	Streptomyces nogalater	1	dithranol	*at pH 9.8 and 20&deg;C
+KCAT	Streptomyces nogalater	1.4	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	*pH 7.0, 22&deg;C, wild-type enzyme, recombinant enzyme with N-terminal polyhistidine tag
+KCAT	Streptomyces nogalater	1.5	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	*pH 7.0, 22&deg;C, wild-type enzyme, recombinant enzyme construct with a His tag at the C-terminus
+KCAT	Streptomyces nogalater	1.83	O2	*at pH 9.8 and 20&deg;C

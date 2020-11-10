@@ -1,0 +1,73 @@
+KCAT	Streptococcus pyogenes	1.94	NAD+	*recombinant His6-tagged enzyme, pH 7.0, 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	2.7	NAD+	*in the presence of 10 mM Mg2+, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	5.26	NAD+	*pH not specified in the publication, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	5.26	NAD+	*pH and temperature not specified in the publication
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	14	NAD+	*mutant enzyme N193A, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	14	NAD+	*mutant N193A, pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	38	NAD+	*wild type enzyme, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	38	NAD+	*wild-type, pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	39	NAD+	*mutant enzyme K160A, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	39	NAD+	*mutant K160A , pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	46	NAD+	*wild-type, pH 8.0, 37&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	51.2	NAD+	*pH 8.0, 60&Acirc;&deg;C
+KCAT	Pseudomonas putida	56	NAD+	*wild-type BADH
+KCAT	Pseudomonas putida	56.8	NAD+	*native wild type enzyme, in TAPS buffer, at pH 8.5, at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	66	NAD+	*His-tagged BADH; recombinant wild type enzyme, in TAPS buffer, at pH 8.5, at 30&Acirc;&deg;C
+KCAT	Escherichia coli	69	NAD+	*in 0.1 M HEPES/KOH (pH 6.5), at 70&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	80	NAD+	*mutant enzyme K160E, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	80	NAD+	*mutant K160E , pH 8.0, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	136.3	NAD+	*at pH 6.5 and 70&Acirc;&deg;C
+KCAT	Pseudomonas stutzeri	176	NAD+	*in the presence of benzaldehyde, at 25&Acirc;&deg;C and pH 8.5
+KCAT	Mycobacterium tuberculosis	1.3	NADP+	*in the absence of Mg2+, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.1	NADP+	*mutant enzyme K160E, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.1	NADP+	*mutant K160E , pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.6	NADP+	*mutant enzyme K160A, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.6	NADP+	*mutant K160A , pH 8.0, 37&Acirc;&deg;C
+KCAT	Streptococcus pyogenes	7.2	NADP+	*recombinant His6-tagged enzyme, pH 7.0, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	9.93	NADP+	*pH not specified in the publication, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	9.93	NADP+	*pH and temperature not specified in the publication
+KCAT	Saccharolobus solfataricus	16.5	NADP+	*at pH 6.5 and 70&Acirc;&deg;C
+KCAT	Pseudomonas putida	17	NADP+	*native wild type enzyme, in TAPS buffer, at pH 8.5, at 30&Acirc;&deg;C; wild-type BADH
+KCAT	Pseudomonas putida	21	NADP+	*His-tagged BADH
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	21	NADP+	*mutant enzyme N193A, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	21	NADP+	*mutant N193A, pH 8.0, 37&Acirc;&deg;C
+KCAT	Pseudomonas putida	21.1	NADP+	*recombinant wild type enzyme, in TAPS buffer, at pH 8.5, at 30&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	27.6	NADP+	*pH 8.0, 60&Acirc;&deg;C
+KCAT	Pseudomonas stutzeri	40	NADP+	*in the presence of benzaldehyde, at 25&Acirc;&deg;C and pH 8.5
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	46	NADP+	*wild type enzyme, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Pseudomonas stutzeri	6.4	benzaldehyde	*in the presence of NADP+, at 25&Acirc;&deg;C and pH 8.5
+KCAT	Pseudomonas stutzeri	57	benzaldehyde	*in the presence of NAD+, at 25&Acirc;&deg;C and pH 8.5
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.3	succinate semialdehyde	*mutant enzyme D426A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.3	succinate semialdehyde	*mutant D426A , cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	1.9	succinate semialdehyde	*with NADP+ as cosubstrate, in the absence of Mg2+, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2	succinate semialdehyde	*mutant enzyme R428A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2	succinate semialdehyde	*mutant R428A , cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	4.7	succinate semialdehyde	*with NADP+ as cosubstrate, in the presence of 10 mM Mg2+, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	5.61	succinate semialdehyde	*cofactor NAD+, pH not specified in the publication, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	5.61	succinate semialdehyde	*pH and temperature not specified in the publication, in presence of NAD+
+KCAT	Bacillus subtilis	7.24	succinate semialdehyde	*cofactor NADP+, pH not specified in the publication, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	7.24	succinate semialdehyde	*pH and temperature not specified in the publication, in presence of NADP+
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	26	succinate semialdehyde	*mutant enzyme F138A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	26	succinate semialdehyde	*mutant F138A , cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	29.4	succinate semialdehyde	*pH 8.0, 40&Acirc;&deg;C, cosubstrate: NAD+
+KCAT	Sulfurisphaera tokodaii	30	succinate semialdehyde	*pH 8.0, 40&Acirc;&deg;C, cosubstrate: NADP+
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	45	succinate semialdehyde	*mutant enzyme R145A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	45	succinate semialdehyde	*mutant R145A , cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	55	succinate semialdehyde	*wild type enzyme, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	55	succinate semialdehyde	*wild-type, cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	66	succinate semialdehyde	*mutant enzyme W141A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	66	succinate semialdehyde	*mutant W141A , cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	68	succinate semialdehyde	*mutant enzyme S425A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	68	succinate semialdehyde	*mutant S425A , cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	73	succinate semialdehyde	*mutant enzyme K92A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	73	succinate semialdehyde	*mutant K92A, cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	83	succinate semialdehyde	*wild type enzyme, with NADP+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	83	succinate semialdehyde	*wild-type, cofactor NADP+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	164	succinate semialdehyde	*mutant enzyme E442A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	164	succinate semialdehyde	*mutant E442A, cofactor NAD+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	16.8	Succinic semialdehyde	*with NAD+ as cosubstrate, at pH 6.5 and 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	18.4	Succinic semialdehyde	*with NADP+ as cosubstrate, at pH 6.5 and 70&Acirc;&deg;C
+KCAT	Escherichia coli	22.6	Succinic semialdehyde	*in 0.1 M HEPES/KOH (pH 6.5), at 70&Acirc;&deg;C
+KCAT	Escherichia coli	7.1	2-oxoglutarate semialdehyde	*in 0.1 M HEPES/KOH (pH 6.5), at 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	21.2	2-oxoglutarate semialdehyde	*with NADP+ as cosubstrate, at pH 6.5 and 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	27.3	2-oxoglutarate semialdehyde	*with NAD+ as cosubstrate, at pH 6.5 and 70&Acirc;&deg;C

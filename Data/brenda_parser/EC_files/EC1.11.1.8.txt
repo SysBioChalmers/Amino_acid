@@ -1,0 +1,6 @@
+KCAT	Ascophyllum nodosum	71	Br-	*; in phosphate buffer (100 mM, pH 8.0), at 20&Acirc;&deg;C
+KCAT	Ascophyllum nodosum	75	I-	*in phosphate buffer (100 mM, pH 8.0), at 20&Acirc;&deg;C
+KCAT	Homo sapiens	34.6	3,3',5,5'-tetramethylbenzidine	*pH 5.5
+KCAT	Homo sapiens	6	benzidine	*pH 5.5
+KCAT	Homo sapiens	11.9	3,3'-dimethoxybenzidine	*pH 5.5
+KCAT	Homo sapiens	27.5	3,3'-dimethylbenzidine	*pH 5.5

@@ -1,0 +1,4 @@
+KCAT	Meiothermus silvanus	0.83	2-O-(alpha-D-glucopyranosyl)-D-glycerate	*at pH 6.0 and 42&deg;C
+KCAT	Meiothermus silvanus	0.98	phosphate	*at pH 6.0 and 42&deg;C
+KCAT	Meiothermus silvanus	96	alpha-D-glucopyranose 1-phosphate	*at pH 6.5 and 42&deg;C
+KCAT	Meiothermus silvanus	128	D-glycerate	*at pH 6.5 and 42&deg;C

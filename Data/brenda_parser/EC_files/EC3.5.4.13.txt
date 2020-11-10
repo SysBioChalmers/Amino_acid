@@ -1,0 +1,4 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	1.24	dCTP	*pH 6.8, 37&deg;C, recombinant wild-type enzyme
+KCAT	Paramecium bursaria Chlorella virus 1	5.7	dCTP	*pH 9.5, 42&deg;C
+KCAT	Paramecium bursaria Chlorella virus 1	24.9	dCMP	*pH 9.5, 42&deg;C, in presence of 0.1 mM dCTP

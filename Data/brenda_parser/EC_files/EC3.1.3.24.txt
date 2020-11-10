@@ -1,0 +1,2 @@
+KCAT	Arabidopsis thaliana	3.6	sucrose 6-phosphate	*pH 7.0, 37&deg;C
+KCAT	Arabidopsis thaliana	67.8	sucrose 6-phosphate	*pH 7.0, 37&deg;C

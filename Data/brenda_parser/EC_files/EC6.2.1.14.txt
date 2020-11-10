@@ -1,0 +1,11 @@
+KCAT	Lysinibacillus sphaericus	-999	more	*
+KCAT	Bacillus subtilis	0.0001	azelate	*pH and temperature not specified in the publication
+KCAT	Bacillus subtilis	0.0038	suberate	*pH and temperature not specified in the publication
+KCAT	Bacillus subtilis	0.0051	Glutarate	*pH and temperature not specified in the publication
+KCAT	Bacillus subtilis	0.0066	adipate	*pH and temperature not specified in the publication
+KCAT	Bacillus subtilis	0.008	Octanoate	*mutant Y211F, pH and temperature not specified in the publication
+KCAT	Bacillus subtilis	0.012	Heptanoate	*mutant Y211F, pH and temperature not specified in the publication
+KCAT	Bacillus subtilis	0.44	ATP	*pH and temperature not specified in the publication
+KCAT	Bacillus subtilis	0.48	6-Carboxyhexanoate	*pH and temperature not specified in the publication
+KCAT	Bacillus subtilis	0.87	CoA	*pH and temperature not specified in the publication
+KCAT	Aquifex aeolicus	7.45	6-Carboxyhexanoate	*pH 7.0, 37&deg;C

@@ -1,0 +1,3 @@
+KCAT	Fusarium oxysporum f. sp. cubense tropical race 4 54006	0.78	catechol	*pH 6.0, 40&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	0.065	2,3-Dihydroxybenzoate	*pH 5.0, 30&Acirc;&deg;C
+KCAT	Fusarium oxysporum f. sp. cubense tropical race 4 54006	27.17	2,3-Dihydroxybenzoate	*pH 6.0, 40&Acirc;&deg;C

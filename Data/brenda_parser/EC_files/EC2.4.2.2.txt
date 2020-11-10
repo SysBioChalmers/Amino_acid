@@ -1,0 +1,20 @@
+KCAT	Streptococcus pyogenes	1.7	uridine	*mutant H169A, pH 7.5, temperature not specified in the publication
+KCAT	Mycoplasma hyorhinis	6.1	5-fluorouridine	*pH 7.6, 37&deg;C
+KCAT	Mycoplasma hyorhinis	6.4	5-iodouridine	*pH 7.6, 37&deg;C
+KCAT	Mycoplasma hyorhinis	8.25	5-trifluorothymidine	*at pH 7.6 and 37&deg;C
+KCAT	Mycoplasma hyorhinis	8.5	uridine	*pH 7.6, 37&deg;C
+KCAT	Mycoplasma hyorhinis	8.6	phosphate	*cosubstrate uridine, pH 7.6, 37&deg;C
+KCAT	Mycoplasma hyorhinis	9.03	uridine	*at pH 7.6 and 37&deg;C
+KCAT	Mycoplasma hyorhinis	9.5	5-iododeoxyuridine	*pH 7.6, 37&deg;C
+KCAT	Mycoplasma hyorhinis	11.9	5-fluorodeoxyuridine	*pH 7.6, 37&deg;C
+KCAT	Streptococcus pyogenes	15	uridine	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Mycoplasma hyorhinis	17.5	phosphate	*cosubstrate deoxythymidine, pH 7.6, 37&deg;C
+KCAT	Mycoplasma hyorhinis	20.5	thymidine	*at pH 7.6 and 37&deg;C
+KCAT	Mycoplasma hyorhinis	21.6	thymidine	*pH 7.6, 37&deg;C
+KCAT	Mycoplasma hyorhinis	24.6	deoxyuridine	*pH 7.6, 37&deg;C
+KCAT	Escherichia coli	49	4-thiouridine	*pH 7.5, 25&deg;C, uridine phosphorylase activity
+KCAT	Escherichia coli	63	4-thiothymidine	*pH 7.5, 25&deg;C, thymidine phosphorylase activity
+KCAT	Parageobacillus thermoglucosidasius	83	thymidine	*pH 7.0, 60&deg;C
+KCAT	Parageobacillus thermoglucosidasius	277	uridine	*pH 7.0, 60&deg;C
+KCAT	Thermus thermophilus	277	uridine	*pH 7.0, 60&deg;C
+KCAT	Thermus thermophilus	679	thymidine	*pH 7.0, 60&deg;C

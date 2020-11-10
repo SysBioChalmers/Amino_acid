@@ -1,0 +1,1 @@
+ecNumber*3.2.1.184#turnoverNumber*59.1#turnoverNumberMaximum*#substrate*UDP-N,N'-diacetylbacillosamine#commentary*pH 7.5, 37&Acirc;&deg;C#organism*Legionella pneumophila#ligandStructureId*8942#literature*718850#

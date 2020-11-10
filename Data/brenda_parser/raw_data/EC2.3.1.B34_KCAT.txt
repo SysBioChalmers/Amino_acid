@@ -1,0 +1,1 @@
+ecNumber*2.3.1.B34#turnoverNumber*0.019#turnoverNumberMaximum*#substrate*[AcsA]-L-Lys#commentary*pH 7.7, 37&deg;C#organism*Saccharopolyspora erythraea#ligandStructureId*#literature*736362#!ecNumber*2.3.1.B34#turnoverNumber*0.049#turnoverNumberMaximum*#substrate*acetyl-CoA#commentary*pH 7.7, 37&deg;C#organism*Saccharopolyspora erythraea#ligandStructureId*29#literature*736362#

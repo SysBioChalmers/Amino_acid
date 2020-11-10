@@ -1,0 +1,1 @@
+KCAT	Streptomyces avermitilis	24	prephenate	*pH 8.0, 30&deg;C

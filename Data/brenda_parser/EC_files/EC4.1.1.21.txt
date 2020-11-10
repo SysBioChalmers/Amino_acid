@@ -1,0 +1,4 @@
+KCAT	Treponema denticola	77	CO2	*50 mM Tris-HCl (pH 8.0), at 30&Acirc;&deg;C
+KCAT	Gallus gallus	40	1-(5-phosphoribosyl)-5-aminoimidazole	*
+KCAT	Treponema denticola	16	4-carboxy-5-aminoimidazole ribonucleotide	*50 mM Tris-HCl (pH 8.0), at 10&Acirc;&deg;C
+KCAT	Treponema denticola	65	4-carboxy-5-aminoimidazole ribonucleotide	*50 mM Tris-HCl (pH 8.0), at 30&Acirc;&deg;C

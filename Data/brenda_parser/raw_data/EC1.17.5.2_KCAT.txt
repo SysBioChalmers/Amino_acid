@@ -1,0 +1,1 @@
+ecNumber*1.17.5.2#turnoverNumber*0.167#turnoverNumberMaximum*#substrate*Caffeine#commentary*pH 7.5, 35&deg;C#organism*Pseudomonas sp.#ligandStructureId*882#literature*708921#

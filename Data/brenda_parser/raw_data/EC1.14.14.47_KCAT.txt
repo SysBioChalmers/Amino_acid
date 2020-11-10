@@ -1,0 +1,1 @@
+ecNumber*1.14.14.47#turnoverNumber*0.183#turnoverNumberMaximum*#substrate*tetrahydrobiopterin#commentary*pH 7.6, 25&Acirc;&deg;C#organism*Bacillus subtilis#ligandStructureId*252#literature*740671#

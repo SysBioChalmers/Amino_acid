@@ -1,0 +1,18 @@
+KCAT	Moorella thermoacetica	1.17	CO	*turnover mumber for CO/CO2 exchange reaction
+KCAT	Moorella thermoacetica	1.17	CO	*
+KCAT	Moorella thermoacetica	7.33	CO	*acetyl-CoA/CO exchange reaction
+KCAT	Moorella thermoacetica	10	CO	*at 5&Acirc;&deg;C
+KCAT	Moorella thermoacetica	11	CO	*25&Acirc;&deg;C, isolated alpha subunit
+KCAT	Moorella thermoacetica	13	CO	*CO oxidation, 50&Acirc;&deg;C, pH 5.3, electron acceptor ferredoxin II
+KCAT	Moorella thermoacetica	22	CO	*CO oxidation, at 1&Acirc;&deg;C
+KCAT	Moorella thermoacetica	37	CO	*at 10&Acirc;&deg;C
+KCAT	Moorella thermoacetica	95	CO	*at 15&Acirc;&deg;C
+KCAT	Moorella thermoacetica	600	CO	*CO oxidation, at 55&Acirc;&deg;C, pH 7.6
+KCAT	Carboxydothermus hydrogenoformans	1500	CO	*at 20&Acirc;&deg;C
+KCAT	Moorella thermoacetica	3250	CO	*CO oxidation, extrapolated maximum value at 55&Acirc;&deg;C, pH 10.8
+KCAT	Carboxydothermus hydrogenoformans	15900	CO	*at 70&Acirc;&deg;C
+KCAT	Oligotropha carboxidovorans	8.2	methylene blue	*Ag+-substituted enzyme, at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Oligotropha carboxidovorans	57.8	methylene blue	*at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Oligotropha carboxidovorans	93.3	methylene blue	*native enzyme, at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Moorella thermoacetica	-999	more	*42000/min/Ni, substrate methyl viologen
+KCAT	Moorella thermoacetica	-999	more	*pH 5.3, 50&Acirc;&deg;C, activity of CO oxidation to CO2, ferredoxin II as electron carrier, turnover number is approximately 780 mol/mol of CO dehydrogenase

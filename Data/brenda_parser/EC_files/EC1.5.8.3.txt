@@ -1,0 +1,1 @@
+KCAT	Rattus norvegicus	0.065	sarcosine	*

@@ -1,0 +1,1 @@
+KCAT	Streptomyces sp.	0.047	geranylgeranyl diphosphate	*pH 7.5, 30&Acirc;&deg;C

@@ -1,0 +1,87 @@
+KCAT	Pseudomonas putida	1.4	pyruvate	*mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	2	pyruvate	*mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	3.6	pyruvate	*mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	2	phenylpyruvate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	6	2-oxobutanoate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	7.5	2-oxobutanoate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	0.07	benzoylformate	*pH 7.0, mutant enzyme H70A
+KCAT	Pseudomonas putida	0.46	benzoylformate	*mutant enzyme H70A, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	1.41	benzoylformate	*pH 7.0, mutant enzyme H281A
+KCAT	Pseudomonas putida	2	benzoylformate	*mutant enzyme H281T, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	2.1	benzoylformate	*mutant enzyme H281A, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	4.45	benzoylformate	*pH 7.0, mutant enzyme S26A
+KCAT	Pseudomonas putida	4.5	benzoylformate	*mutant enzyme H70F, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Mycolicibacterium smegmatis	4.6	benzoylformate	*mutant enzyme I466A, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Mycolicibacterium smegmatis	5.1	benzoylformate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	5.6	benzoylformate	*mutant enzyme H70S, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	6.9	benzoylformate	*mutant enzyme H281Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	8.6	benzoylformate	*mutant enzyme H281Q, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	14	benzoylformate	*mutant enzyme H70L, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	15	benzoylformate	*mutant enzyme S26A, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	15	benzoylformate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	17	benzoylformate	*mutant enzyme H281W, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	19	benzoylformate	*mutant enzyme H281N in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	21	benzoylformate	*pH 6.0, 30&Acirc;&deg;C, mutant enzyme A460I/F464I
+KCAT	Pseudomonas putida	26	benzoylformate	*mutant enzyme S26M, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	42	benzoylformate	*mutant enzyme H70T, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	62	benzoylformate	*pH 6.0, 30&Acirc;&deg;C, mutant enzyme A460I
+KCAT	Pseudomonas putida	65	benzoylformate	*mutant enzyme H281F, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	94	benzoylformate	*mutant enzyme S26T, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	123	benzoylformate	*pH 6.0, 30&Acirc;&deg;C, mutant enzyme F464I
+KCAT	Pseudomonas putida	132	benzoylformate	*mutant enzyme S26L, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas stutzeri	222	benzoylformate	*wild type enzyme at pH 6.0 and 35&Acirc;&deg;C
+KCAT	Pseudomonas putida	241	benzoylformate	*pH 7.0, wild-type enzyme
+KCAT	Pseudomonas stutzeri	284	benzoylformate	*recombinant, his-tagged enzyme at pH 6.0 and 35&Acirc;&deg;C
+KCAT	Pseudomonas putida	320	benzoylformate	*wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	320	benzoylformate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	426	benzoylformate	*at 30&Acirc;&deg;C, in 50 mM potassium phosphate buffer, pH 6.5
+KCAT	Pseudomonas putida	1349	benzoylformate	*pH 6.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	2.7	4-methyl-2-oxopentanoate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	11	4-methyl-2-oxopentanoate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	12	3-methyl-2-oxobutanoate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	1.1	2-Oxopentanoate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	6	2-Oxopentanoate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	4.1	2-Oxohexanoate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	5.9	2-Oxohexanoate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Mycolicibacterium smegmatis	20	2-Oxohexanoate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	16	3-methyl-2-oxopentanoate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	21	2-oxohexanoic acid	*pH 6.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	71.8	2-oxohexanoic acid	*pH 6.0, 30&Acirc;&deg;C, mutant enzyme A460I
+KCAT	Pseudomonas putida	40.6	2-Oxopentanoic acid	*pH 6.0, 30&Acirc;&deg;C, mutant enzyme A460I
+KCAT	Pseudomonas putida	44.3	2-Oxopentanoic acid	*pH 6.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	0.81	2-ketopentanoate	*mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	3.3	2-ketopentanoate	*mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	6.2	2-ketopentanoate	*mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	11	2-ketopentanoate	*wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	4	2-ketobutanoate	*wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	5.8	2-ketobutanoate	*mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	6	2-ketobutanoate	*mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	7.5	2-ketobutanoate	*mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	0.46	phenylglyoxylate	*pH and temperature not specified in the publication, mutant H70A
+KCAT	Pseudomonas putida	2.1	phenylglyoxylate	*pH and temperature not specified in the publication, mutant H281A
+KCAT	Pseudomonas putida	4.5	phenylglyoxylate	*pH and temperature not specified in the publication, mutant H70F
+KCAT	Pseudomonas putida	6.9	phenylglyoxylate	*pH and temperature not specified in the publication, mutant H281Y
+KCAT	Pseudomonas putida	14	phenylglyoxylate	*pH and temperature not specified in the publication, mutant H70L
+KCAT	Pseudomonas putida	15	phenylglyoxylate	*pH and temperature not specified in the publication, mutant S26A
+KCAT	Pseudomonas putida	26	phenylglyoxylate	*pH and temperature not specified in the publication, mutant S26M
+KCAT	Pseudomonas putida	65	phenylglyoxylate	*pH and temperature not specified in the publication, mutant H281F
+KCAT	Pseudomonas putida	132	phenylglyoxylate	*pH and temperature not specified in the publication, mutant S26L
+KCAT	Pseudomonas putida	320	phenylglyoxylate	*pH and temperature not specified in the publication, wild-type enzyme
+KCAT	Pseudomonas putida	4.5	4-methylthio-2-oxobutanoate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	4.6	4-methylthio-2-oxobutanoate	*mutant enzyme T377L/A460Y, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Mycolicibacterium smegmatis	20	4-methylthio-2-oxobutanoate	*wild type enzyme, at pH 6.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	1.1	2-ketohexanoate	*mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	1.2	2-ketohexanoate	*mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	4.4	2-ketohexanoate	*mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	5.3	2-ketohexanoate	*wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	17.3	2-oxobutanoic acid	*pH 6.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	18.8	2-oxobutanoic acid	*pH 6.0, 30&Acirc;&deg;C, mutant enzyme A460I
+KCAT	Pseudomonas putida	1.7	benzylformate	*mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	25	benzylformate	*mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	110	benzylformate	*mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	320	benzylformate	*wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	11	2-oxo-4-methylpentanoic acid	*pH 6.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	38	2-oxo-4-methylpentanoic acid	*pH 6.0, 30&Acirc;&deg;C, mutant enzyme A460I
+KCAT	Pseudomonas putida	8.6	2-oxo-4-methylhexanoic acid	*pH 6.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	9.8	2-oxo-4-methylhexanoic acid	*pH 6.0, 30&Acirc;&deg;C, mutant enzyme A460I
+KCAT	Pseudomonas putida	0.05	p-nitro-benzoylformate	*at 25&Acirc;&deg;C

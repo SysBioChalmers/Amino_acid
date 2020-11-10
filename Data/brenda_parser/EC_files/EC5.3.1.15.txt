@@ -1,0 +1,17 @@
+KCAT	Dictyoglomus turgidum	1.7	L-ribulose	*at pH 7.5 and 75&deg;C
+KCAT	Dictyoglomus turgidum	2.97	D-mannose	*at pH 7.5 and 75&deg;C
+KCAT	Thermosediminibacter oceani	17.2	D-fructose	*pH 6.5, 65&deg;C
+KCAT	Bacillus licheniformis	43	D-mannose	*in 50 mM Tris-HCl, 1 mM Mn2+, pH 8.0, at 40&deg;C
+KCAT	Thermosediminibacter oceani	51.8	D-Lyxose	*pH 6.5, 65&deg;C
+KCAT	Dictyoglomus turgidum	59.5	D-Lyxose	*at pH 7.5 and 75&deg;C
+KCAT	Dictyoglomus turgidum	69.3	D-xylulose	*at pH 7.5 and 75&deg;C
+KCAT	Thermosediminibacter oceani	94.8	D-mannose	*pH 6.5, 65&deg;C
+KCAT	Bacillus licheniformis	98	D-Lyxose	*in 50 mM Tris-HCl, 1 mM Mn2+, pH 8.0, at 40&deg;C
+KCAT	Providencia stuartii	2010	D-fructose	*in 50 mM HEPES buffer, at pH 7.5, 45&deg;C
+KCAT	Providencia stuartii	2640	D-mannose	*in 50 mM HEPES buffer, at pH 7.5, 45&deg;C
+KCAT	Serratia proteamaculans	4297	D-fructose	*at pH 7.5 and 40&deg;C, in the presence of 1 mM Mn2+
+KCAT	Serratia proteamaculans	16170	D-mannose	*at pH 7.5 and 40&deg;C, in the presence of 1 mM Mn2+
+KCAT	Serratia proteamaculans	30810	D-Lyxose	*at pH 7.5 and 40&deg;C, in the presence of 1 mM Mn2+
+KCAT	Providencia stuartii	31340	D-Lyxose	*in 50 mM HEPES buffer, at pH 7.5, 45&deg;C
+KCAT	Serratia proteamaculans	31620	D-xylulose	*at pH 7.5 and 40&deg;C, in the presence of 1 mM Mn2+
+KCAT	Providencia stuartii	34960	D-xylulose	*in 50 mM HEPES buffer, at pH 7.5, 45&deg;C

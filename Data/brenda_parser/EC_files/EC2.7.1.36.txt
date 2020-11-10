@@ -1,0 +1,13 @@
+KCAT	Aedes aegypti	10.1	ATP	*at pH 7.5, temperature not specified in the publication
+KCAT	Bacopa monnieri	150.9	ATP	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	3.1	(R)-mevalonate	*mutant C107S/C281S, pH 7.5, 34&Acirc;&deg;C
+KCAT	Methanosarcina mazei	4.3	(R)-mevalonate	*in 50 mM Tris, 50 mM NaCl (pH 7.6), at 30&Acirc;&deg;C
+KCAT	Rattus norvegicus	5.2	(R)-mevalonate	*mutant A141C, pH 7.5, 34&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	8.6	(R)-mevalonate	*mutant C107A/C281A, pH 7.5, 34&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	10.5	(R)-mevalonate	*mutant C107S, pH 7.5, 34&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	12.7	(R)-mevalonate	*mutant C281S, pH 7.5, 34&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	17.1	(R)-mevalonate	*mutant C107A, pH 7.5, 34&Acirc;&deg;C
+KCAT	Rattus norvegicus	21.9	(R)-mevalonate	*wild-type, pH 7.5, 34&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	23.3	(R)-mevalonate	*mutant C281A, pH 7.5, 34&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	28.5	(R)-mevalonate	*wild-type, pH 7.5, 34&Acirc;&deg;C
+KCAT	Bacopa monnieri	143.8	(R)-mevalonate	*at pH 7.0 and 30&Acirc;&deg;C

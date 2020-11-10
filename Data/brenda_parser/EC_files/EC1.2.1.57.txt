@@ -1,0 +1,2 @@
+KCAT	Lactobacillus brevis	0.26	acetyl-CoA	*recombinant enzyme, pH 7.15, 30&deg;C
+KCAT	Lactobacillus brevis	3.37	butanoyl-CoA	*recombinant enzyme, pH 7.15, 30&deg;C

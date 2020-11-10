@@ -1,0 +1,2 @@
+KCAT	Bacillus subtilis	3.2	prephenate	*pH 8, 22&Acirc;&deg;C
+KCAT	Planktothrix agardhii	4.1	prephenate	*pH and temperature not specified in the publication

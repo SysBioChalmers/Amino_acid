@@ -1,0 +1,3 @@
+KCAT	Aquifex aeolicus	9.5	3-deoxy-D-manno-octulosonate	*pH 9.0, 50&deg;C
+KCAT	Escherichia coli	12.5	3-deoxy-D-manno-octulosonate	*in the presence of 10 mM Mg2+, at pH 9.3 and 37&deg;C
+KCAT	Escherichia coli	21.9	3-deoxy-D-manno-octulosonate	*in the presence of 5 mM Mg2+, at pH 10.0 and 37&deg;C

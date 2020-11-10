@@ -1,0 +1,16 @@
+KCAT	Saccharomyces cerevisiae	0.078	3-phosphoglycerate	*mutant H181A
+KCAT	Saccharomyces cerevisiae	2.1	3-phosphoglycerate	*mutant S11G
+KCAT	Saccharomyces cerevisiae	324	3-phosphoglycerate	*mutant K246G
+KCAT	Saccharomyces cerevisiae	384	3-phosphoglycerate	*wild-type enzyme
+KCAT	Saccharomyces cerevisiae	490	3-phosphoglycerate	*wild-type enzyme
+KCAT	Saccharomyces cerevisiae	530	3-phosphoglycerate	*
+KCAT	Saccharomyces cerevisiae	0.0009	3-phospho-D-glycerate	*phosphatase activity
+KCAT	Schizosaccharomyces pombe	0.02	3-phospho-D-glycerate	*phosphatase activity
+KCAT	Saccharomyces cerevisiae	4.7	3-phospho-D-glycerate	*E86Q mutant
+KCAT	Saccharomyces cerevisiae	20	3-phospho-D-glycerate	*S11A mutant
+KCAT	Schizosaccharomyces pombe	82	3-phospho-D-glycerate	*mutase activity
+KCAT	Schizosaccharomyces pombe	82	3-phospho-D-glycerate	*
+KCAT	Saccharomyces cerevisiae	370	3-phospho-D-glycerate	*A60S mutant
+KCAT	Saccharomyces cerevisiae	530	3-phospho-D-glycerate	*mutase activity
+KCAT	Saccharomyces cerevisiae	530	3-phospho-D-glycerate	*
+KCAT	Lactococcus lactis subsp. lactis	3200	3-phospho-D-glycerate	*in triethanol-HCl buffer (125 mM, pH 7.2, 5 mM MgCl2, 10 mM KCl), 0.1 mM 2,3-bisphosphoglyceric acid, temperature not specified in the publication

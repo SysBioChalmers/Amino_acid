@@ -1,0 +1,7 @@
+KCAT	Arthrobacter globiformis	0.047	N,N-dimethylglycine	*mutant Y259F
+KCAT	Arthrobacter globiformis	0.047	N,N-dimethylglycine	*mutant Y259F, pH 8.5, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	4.35	N,N-dimethylglycine	*mutant H225Q
+KCAT	Arthrobacter globiformis	10.6	N,N-dimethylglycine	*wild-type enzyme
+KCAT	Arthrobacter globiformis	10.6	N,N-dimethylglycine	*wild-type, pH 8.5, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	13.6	N,N-dimethylglycine	*mutant H225Q, pH 8.5, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	14.3	N,N-dimethylglycine	*

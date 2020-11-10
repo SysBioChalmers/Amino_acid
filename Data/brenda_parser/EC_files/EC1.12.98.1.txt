@@ -1,0 +1,10 @@
+KCAT	Methanococcus voltae	17.5	coenzyme F420	*
+KCAT	Methanosarcina barkeri	353	oxidized coenzyme F420	*37&deg;C, pH 7.5
+KCAT	Methanothermobacter thermautotrophicus	725	coenzyme F0	*pH 7.2
+KCAT	Methanothermobacter thermautotrophicus	725	coenzyme F420	*pH 7.2
+KCAT	Methanothermobacter thermautotrophicus	725	methyl viologen	*pH 7.2
+KCAT	Methanothermobacter thermautotrophicus	2050	coenzyme F420	*
+KCAT	Methanothermobacter thermautotrophicus	2250	coenzyme F0	*equal turnover in reverse reaction under anaerobic conditions
+KCAT	Methanothermobacter thermautotrophicus	2250	methyl viologen	*
+KCAT	Methanothermobacter thermautotrophicus	4000	methyl viologen	*pH 9
+KCAT	Methanosarcina barkeri	9226	oxidized methyl viologen	*37&deg;C, pH 8.3

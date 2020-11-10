@@ -1,0 +1,5 @@
+KCAT	Thermococcus onnurineus	0.5	N-acetyl-L-leucyl 4-nitroanilide	*pH 7.5, 80&deg;C
+KCAT	Thermococcus onnurineus	10.9	L-methionyl 4-nitroanilide	*pH 7.5, 80&deg;C
+KCAT	Thermococcus onnurineus	37.5	L-leucyl 4-nitroanilide	*pH 7.5, 80&deg;C
+KCAT	Thermococcus onnurineus	101	L-methionyl 4-nitroanilide	*pH 7.5, 80&deg;C
+KCAT	Thermococcus onnurineus	108	L-leucyl 4-nitroanilide	*pH 7.5, 80&deg;C

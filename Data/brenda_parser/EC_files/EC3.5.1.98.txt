@@ -1,0 +1,17 @@
+KCAT	Homo sapiens	0.0002	Fluor de Lys HDAC substrate	*wild type enzyme
+KCAT	Homo sapiens	0.0019	Fluor de Lys	*mt H611A, pH 7.2, 23&deg;C
+KCAT	Homo sapiens	0.007	Fluor de Lys HDAC8 substrate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.017	Fluor de Lys HDAC substrate	*mutant H843F
+KCAT	Homo sapiens	0.018	Fluor de Lys HDAC substrate	*mutant H843A
+KCAT	Homo sapiens	0.036	Fluor de Lys HDAC8 substrate	*presence of activator N-(phenylcarbamothioyl)benzamide, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.037	Fluor de Lys	*catalytic domain II, pH 7.2, 23&deg;C
+KCAT	Homo sapiens	0.15	Fluor de Lys HDAC8 substrate	*Co2+-D101E mutant
+KCAT	Plasmodium falciparum	0.19	Ac-Leu-Gly-Lys(Ac)-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	0.27	Fluor de Lys	*mutant H216A, pH 7.2, 23&deg;C
+KCAT	Homo sapiens	0.29	Fluor de Lys	*wild-type, pH 7.2, 23&deg;C
+KCAT	Homo sapiens	0.48	RHK(acetyl)K(acetyl)-fluorophore	*presence of Fe(II), 25&deg;C. pH 8.0
+KCAT	Homo sapiens	0.9	Fluor de Lys HDAC8 substrate	*Zn2+-wild type
+KCAT	Homo sapiens	0.9	RHK(acetyl)K(acetyl)-fluorophore	*presence of Zn(II), 25&deg;C. pH 8.0
+KCAT	Homo sapiens	1.1	Fluor de Lys HDAC substrate	*mutant H843Y
+KCAT	Homo sapiens	1.2	Fluor de Lys HDAC8 substrate	*Co2+-wild type
+KCAT	Homo sapiens	1.2	RHK(acetyl)K(acetyl)-fluorophore	*presence of Co(II), 25&deg;C. pH 8.0

@@ -1,0 +1,16 @@
+KCAT	Dictyostelium discoideum	0.017	ATP	*mutant enzyme K722N, at pH 7.0 and 22&Acirc;&deg;C
+KCAT	Dictyostelium discoideum	0.03	ATP	*mutant enzyme R592L, at pH 7.0 and 22&Acirc;&deg;C
+KCAT	Dictyostelium discoideum	0.1	ATP	*wild type enzyme, at pH 7.0 and 22&Acirc;&deg;C
+KCAT	Acanthamoeba castellanii	71	GRGRSSVYS	*recombinant wild-type catalytic domain, pH 7.0, 30&Acirc;&deg;C
+KCAT	Acanthamoeba castellanii	105	GRGRSSVYS	*recombinant T632A mutant catalytic domain, pH 7.0, 30&Acirc;&deg;C
+KCAT	Dictyostelium discoideum	0.3	GRSARVSTYA	*pH 7.0
+KCAT	Dictyostelium discoideum	4.6	GRSARVSTYA	*in presence of guanosine 5'-3-O-(thio)triphosphate-Rac1, pH 7.0
+KCAT	Dictyostelium discoideum	4.7	GRSARVSTYA	*in presence of phosphatidylserine, pH 7.0
+KCAT	Dictyostelium discoideum	0.01	RKKFGESEKTKTKEFL-amide	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Dictyostelium discoideum	0.55	RKKFGESEKTKTKEFL-amide	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Dictyostelium discoideum	0.79	RKKFGESEKTKTKEFL-amide	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Dictyostelium discoideum	5	AKRVSMMR	*in presence of guanosine 5'-3-O-(thio)triphosphate-Rac1, pH 7.0
+KCAT	Dictyostelium discoideum	5.4	AKRVSMMR	*in presence of phosphatidylserine, pH 7.0
+KCAT	Dictyostelium discoideum	14	YAYDTRYRR	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Acanthamoeba castellanii	-999	more	*catalytic domain mutants
+KCAT	Dictyostelium discoideum	-999	more	*catalytic domain, several substrates

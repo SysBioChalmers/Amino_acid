@@ -1,0 +1,1 @@
+ecNumber*3.2.1.57#turnoverNumber*0.36#turnoverNumberMaximum*#substrate*panose#commentary*mutant enzyme W402F#organism*Aspergillus niger#ligandStructureId*1065#literature*664832#!ecNumber*3.2.1.57#turnoverNumber*180#turnoverNumberMaximum*#substrate*panose#commentary*wild-type enzyme#organism*Aspergillus niger#ligandStructureId*1065#literature*664832#

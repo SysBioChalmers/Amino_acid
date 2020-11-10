@@ -1,0 +1,39 @@
+KCAT	Pullulanibacillus naganoensis	-999	pullulan	*pH 4.5, 60&deg;C, kcat of wild-type enzyme and mutant enzyme
+KCAT	Paenibacillus barengoltzii	-999	pullulan	*Km-value: 2.94 mg/ml, pH 5.5, 50&deg;C
+KCAT	Thermofilum pendens	0.03	gamma-cyclodextrin	*pH 3.5, 95&deg;C
+KCAT	Thermofilum pendens	0.09	alpha-cyclodextrin	*pH 3.5, 95&deg;C
+KCAT	Thermofilum pendens	0.11	amylose	*pH 3.5, 95&deg;C
+KCAT	Thermofilum pendens	0.11	beta-cyclodextrin	*pH 3.5, 95&deg;C
+KCAT	Thermofilum pendens	0.73	pullulan	*pH 3.5, 95&deg;C
+KCAT	Thermofilum pendens	1.67	starch	*pH 3.5, 95&deg;C
+KCAT	Thermofilum pendens	1.69	amylopectin	*pH 3.5, 95&deg;C
+KCAT	Oryza sativa	2.18	amylopectin	*37&deg;C, pH 6.0
+KCAT	Oryza sativa	2.89	soluble starch	*37&deg;C, pH 6.0
+KCAT	Oryza sativa	3.31	beta-limit dextrin	*37&deg;C, pH 6.0
+KCAT	Oryza sativa	23.1	pullulan	*37&deg;C, pH 6.0
+KCAT	Exiguobacterium sp.	37	pullulan	*pH 8.5, 45&deg;C
+KCAT	Anoxybacillus sp. WB42	44.7	pullulan	*pH 5.5, 60&deg;C, mutant enzyme DELTA(N)
+KCAT	Bacillus subtilis	79	pullulan	*pH 5.4
+KCAT	Anoxybacillus sp. WB42	103.3	pullulan	*pH 5.5, 60&deg;C, mutant enzyme Q87A
+KCAT	Anoxybacillus sp. WB42	128.4	pullulan	*pH 5.5, 60&deg;C, wild-type enzyme
+KCAT	Anoxybacillus sp. WB42	182.2	pullulan	*pH 5.5, 60&deg;C, mutant enzyme L173D
+KCAT	Anoxybacillus sp. WB42	205.6	pullulan	*pH 5.5, 60&deg;C, mutant enzyme R93E
+KCAT	Anoxybacillus sp. WB42	244.4	pullulan	*pH 5.5, 60&deg;C, mutant enzyme R93K
+KCAT	Thermoanaerobacter thermohydrosulfuricus	271	pullulan	*
+KCAT	Anoxybacillus sp. WB42	285.5	pullulan	*pH 5.5, 60&deg;C, mutant enzyme A90D
+KCAT	Anoxybacillus sp. WB42	306.2	pullulan	*pH 5.5, 60&deg;C, mutant enzyme A90P
+KCAT	Anoxybacillus sp. WB42	327.2	pullulan	*pH 5.5, 60&deg;C, mutant enzyme A90G
+KCAT	Anoxybacillus sp. WB42	341	pullulan	*pH 5.5, 60&deg;C, mutant enzyme A90S
+KCAT	Anoxybacillus sp. WB42	342.1	pullulan	*pH 5.5, 60&deg;C, mutant enzyme H5A/R6A/T7A
+KCAT	Anoxybacillus sp. WB42	357.5	pullulan	*pH 5.5, 60&deg;C, mutant enzyme Q87A/L173D
+KCAT	Anoxybacillus sp. WB42	417.4	pullulan	*pH 5.5, 60&deg;C, mutant enzyme R93A
+KCAT	Anoxybacillus sp. WB42	492.4	pullulan	*pH 5.5, 60&deg;C, mutant enzyme R93T
+KCAT	Bacillus deramificans	499	pullulan	*pH 4.5, 60&deg;C, without Mg2+
+KCAT	Thermoanaerobacterium saccharolyticum	574.7	soluble starch	*truncated enzyme form ApuK855, at pH 6.0 and 70&deg;C
+KCAT	Bacillus acidopullulyticus	770.4	pullulan	*pH 5.0, 60&deg;C, mutant enzyme L627R
+KCAT	Thermoanaerobacterium saccharolyticum	877.9	soluble starch	*truncated enzyme form ApuM957, at pH 6.0 and 70&deg;C
+KCAT	Bacillus acidopullulyticus	977.3	pullulan	*pH 5.0, 60&deg;C, wild-type enzyme
+KCAT	Thermoanaerobacterium saccharolyticum	1751	pullulan	*truncated enzyme form ApuM957, at pH 5.0 and 70&deg;C
+KCAT	Thermoanaerobacterium saccharolyticum	1828	pullulan	*truncated enzyme form ApuK855, at pH 5.0 and 70&deg;C
+KCAT	Bacillus deramificans	3000	pullulan	*pH 4.5, 60&deg;C, 60 mM Mg2+
+KCAT	Thermoanaerobium sp.	4830	pullulan	*

@@ -1,0 +1,6 @@
+KCAT	Escherichia coli	0.0019	tRNAHis guanidine36 uridine38 cytidine39	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.0244	tRNAVal2a cytidine36 uridine38	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.0746	tRNAHis uridine38 cytidine39	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.144	tRNAHis uridine38 uridine39	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.18	tRNA uridine39	*pH 8.0, 15&Acirc;&deg;C
+KCAT	Escherichia coli	0.73	tRNA uridine39	*pH 8.0, 22&Acirc;&deg;C

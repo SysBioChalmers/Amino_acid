@@ -1,0 +1,1 @@
+ecNumber*3.4.24.14#turnoverNumber*0.08#turnoverNumberMaximum*#substrate*procollagen I#commentary*#organism*Bos taurus#ligandStructureId*#literature*37048#!ecNumber*3.4.24.14#turnoverNumber*0.0967#turnoverNumberMaximum*#substrate*procollagen I#commentary*#organism*Gallus gallus#ligandStructureId*#literature*37035#

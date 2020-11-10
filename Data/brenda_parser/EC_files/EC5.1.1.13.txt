@@ -1,0 +1,23 @@
+KCAT	Crassostrea gigas	0.0228	L-aspartate	*recombinant His-tagged mutant S150P/S151P/S152Y, pH 8.0, 30&Acirc;&deg;C
+KCAT	Scapharca broughtonii	2.6	L-aspartate	*pH 5.53, 2 mM ATP
+KCAT	Scapharca broughtonii	3.7	L-aspartate	*pH 5.53, 1 mM ATP
+KCAT	Scapharca broughtonii	4.8	L-aspartate	*pH 5.53
+KCAT	Scapharca broughtonii	7.9	L-aspartate	*pH 5.53, 2 mM AMP
+KCAT	Crassostrea gigas	8.65	L-aspartate	*recombinant His-tagged wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Acropora millepora	14.5	L-aspartate	*recombinant His-tagged mutant P150S, pH 8.0, 30&Acirc;&deg;C
+KCAT	Scapharca broughtonii	14.9	L-aspartate	*pH 5.53, 4 mM AMP
+KCAT	Penaeus monodon	33	L-aspartate	*recombinant His-tagged wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptococcus thermophilus	39.6	L-aspartate	*recombinant enzyme, pH 8.3, 37&Acirc;&deg;C, coupling method assay
+KCAT	Acropora millepora	57.7	L-aspartate	*recombinant His-tagged wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Thermococcus litoralis	118000	L-aspartate	*recombinant enzyme, pH 8.0, 90&Acirc;&deg;C
+KCAT	Crassostrea gigas	0.0322	D-Aspartate	*recombinant His-tagged mutant S150P/S151P/S152Y, pH 8.0, 30&Acirc;&deg;C
+KCAT	Scapharca broughtonii	6.4	D-Aspartate	*pH 5.53, 2 mM ATP
+KCAT	Scapharca broughtonii	9.3	D-Aspartate	*pH 5.53, 1 mM ATP
+KCAT	Crassostrea gigas	13.1	D-Aspartate	*recombinant His-tagged wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Scapharca broughtonii	14.7	D-Aspartate	*pH 5.53
+KCAT	Acropora millepora	17.8	D-Aspartate	*recombinant His-tagged mutant P150S, pH 8.0, 30&Acirc;&deg;C
+KCAT	Acropora millepora	25.3	D-Aspartate	*recombinant His-tagged wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Penaeus monodon	27.6	D-Aspartate	*recombinant His-tagged wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Scapharca broughtonii	28.2	D-Aspartate	*pH 5.53, 2 mM AMP
+KCAT	Scapharca broughtonii	42.9	D-Aspartate	*pH 5.53, 4 mM AMP
+KCAT	Thermococcus litoralis	610000	D-Aspartate	*recombinant enzyme, pH 8.0, 90&Acirc;&deg;C

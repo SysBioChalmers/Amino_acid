@@ -1,0 +1,20 @@
+KCAT	Plasmodium vivax	0.05	HRPII	*mature enzyme, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium vivax	0.06	HRPII	*proenzyme, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.12	HRPII	*truncated enzyme PMVm84, at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Plasmodium vivax	0.121	EMP2	*proenzyme, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.13	HRPII	*truncated enzyme PMVp37, at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.19	EMP2	*truncated enzyme PMVm84, at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Plasmodium vivax	0.203	EMP2	*mature enzyme, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.23	EMP2	*truncated enzyme PMVp37, at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	1.86	Dabcyl-RNKRTLAQKQ-E-Edans	*at pH 6.4 and 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.19	HRPII	*mutant enzyme D365N, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.26	EMP2	*mutant enzyme D365N, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.35	HRPII	*mutant enzyme D118N, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.56	EMP2	*mutant enzyme D118N, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.79	HRPII	*mutant enzyme C178A, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	2.97	HRPII	*wild type enzyme, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	3.01	EMP2	*mutant enzyme C178A, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	3.12	EMP2	*wild type enzyme, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	3.35	EMP2	*mutant enzyme C178S, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	3.36	HRPII	*mutant enzyme C178S, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Plasmodium vivax	3.64	Dabcyl-RNKRTLAQKQ-E-Edans	*at pH 6.4 and 37&Acirc;&deg;C

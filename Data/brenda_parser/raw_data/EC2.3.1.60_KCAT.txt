@@ -1,0 +1,1 @@
+ecNumber*2.3.1.60#turnoverNumber*3.57#turnoverNumberMaximum*#substrate*N3'-acetylgentamicin C1a#commentary*#organism*Escherichia coli#ligandStructureId*46345#literature*637298#

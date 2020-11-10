@@ -1,0 +1,1 @@
+ecNumber*1.7.2.8#turnoverNumber*3#turnoverNumberMaximum*6#substrate*hydrazine#commentary*at pH 7.0 and 37&deg;C#organism*Candidatus Kuenenia stuttgartiensis#ligandStructureId*684#literature*738690#

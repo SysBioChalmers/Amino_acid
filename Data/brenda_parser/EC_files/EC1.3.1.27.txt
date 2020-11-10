@@ -1,0 +1,4 @@
+KCAT	Homo sapiens	1.15	4-hydroxy-2-nonenal	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	0.167	3-buten-2-one	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	1.33	4-hydroxy-2-hexenal	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	0.113	2-nonenal	*wild-type, pH 7.5, temperature not specified in the publication

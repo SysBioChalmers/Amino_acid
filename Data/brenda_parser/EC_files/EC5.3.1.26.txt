@@ -1,0 +1,1 @@
+KCAT	Lactococcus lactis	0.16	D-allose	*pH 7.0, 30&deg;C

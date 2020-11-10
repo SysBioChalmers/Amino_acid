@@ -1,0 +1,1 @@
+KCAT	Agrobacterium fabrum	1.9	D-altritol	*pH 9.0, 25&deg;C

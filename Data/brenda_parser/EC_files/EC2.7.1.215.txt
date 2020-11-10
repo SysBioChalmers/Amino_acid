@@ -1,0 +1,2 @@
+KCAT	Brucella abortus	230	ATP	*pH 8.0, 22&deg;C
+KCAT	Brucella abortus	230	meso-erythritol	*pH 8.0, 22&deg;C

@@ -1,0 +1,17 @@
+KCAT	Caenorhabditis elegans	0.133	butyryl-CoA	*using recombinant enzyme, electron acceptor: electron-transferring flavoprotein
+KCAT	Rattus norvegicus	0.17	isovaleryl-CoA	*mutant IVD G375E, pH 7.4, 37&deg;C
+KCAT	Caenorhabditis elegans	0.267	valeryl-CoA	*using recombinant enzyme, electron acceptor: electron-transferring flavoprotein
+KCAT	Homo sapiens	0.283	isovaleryl-CoA	*purified V342A mutant, electron acceptor: dichlorophenol indophenol
+KCAT	Rattus norvegicus	0.3	(S)-2-methylbutyryl-CoA	*wild-type enzyme and mutant IVD G375E, pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.32	isovaleryl-CoA	*mutabt IVD E254G/G375E, pH 7.4, 37&deg;C
+KCAT	Caenorhabditis elegans	0.533	hexanoyl-CoA	*using recombinant enzyme, electron acceptor: electron-transferring flavoprotein
+KCAT	Homo sapiens	0.733	isovaleryl-CoA	*purified R382L mutant, electron acceptor: dichlorophenol indophenol
+KCAT	Homo sapiens	0.817	isovaleryl-CoA	*purified V342A mutant, electron acceptor: electron-transferring flavoprotein
+KCAT	Solanum tuberosum	0.98	isovaleryl-CoA	*per tetramer, recombinant enzyme, 32&deg;C
+KCAT	Rattus norvegicus	1.5	isovaleryl-CoA	*wild-type enzyme, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	2	isovaleryl-CoA	*purified R382L mutant, electron acceptor: electron-transferring flavoprotein
+KCAT	Homo sapiens	2.2	isovaleryl-CoA	*purified A282V mutant, electron acceptor: electron-transferring flavoprotein
+KCAT	Caenorhabditis elegans	2.37	isovaleryl-CoA	*using recombinant enzyme, electron acceptor: electron-transferring flavoprotein
+KCAT	Homo sapiens	2.82	isovaleryl-CoA	*purified A282V mutant, electron acceptor: dichlorophenol indophenol
+KCAT	Homo sapiens	8.8	isovaleryl-CoA	*purified wild-type enzyme, electron acceptor: electron-transferring flavoprotein
+KCAT	Homo sapiens	10	isovaleryl-CoA	*purified wild-type enzyme, electron acceptor: dichlorophenol indophenol

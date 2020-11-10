@@ -1,0 +1,1 @@
+ecNumber*2.5.1.113#turnoverNumber*0.1#turnoverNumberMaximum*#substrate*O-phospho-L-serine#commentary*at pH 7.5 and 37&Acirc;&deg;C#organism*Mycobacterium tuberculosis#ligandStructureId*1189#literature*687773#

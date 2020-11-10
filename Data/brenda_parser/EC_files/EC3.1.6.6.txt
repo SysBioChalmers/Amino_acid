@@ -1,0 +1,11 @@
+KCAT	Sinorhizobium meliloti	0.004	4-nitrophenyl methylphosphate	*wild-type, pH 6.0, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.011	choline O-sulfate	*mutant C54S, pH 7.6, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.012	choline O-sulfate	*mutant E386L, pH 7.6, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.027	phosphoryl choline	*wild-type, pH 7.6, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.035	4-nitrophenyl sulfate	*pH 7.5, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.035	choline O-sulfate	*mutant H104A, pH 7.6, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.043	4-Methylumbelliferyl sulfate	*pH 7.5, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.1	4-nitrophenyl methylphosphonate	*wild-type, pH 6.0, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.22	4-nitrophenyl sulfate	*wild-type, pH 7.6, 25&deg;C
+KCAT	Sinorhizobium meliloti	0.27	Choline sulfate	*pH 7.5, 25&deg;C
+KCAT	Sinorhizobium meliloti	2.4	choline O-sulfate	*wild-type, pH 7.6, 25&deg;C

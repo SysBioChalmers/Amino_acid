@@ -1,0 +1,12 @@
+KCAT	Bacillus cereus	0.00055	NADPH	*at pH 7.0 and 37&Acirc;&deg;C
+KCAT	Bacillus cereus	0.0017	NAD+	*at pH 7.0 and 37&Acirc;&deg;C
+KCAT	Bacillus cereus	0.0018	NADP+	*at pH 7.0 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00012	all-trans-retinal	*37&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	all-trans-retinal	*wild-type
+KCAT	Homo sapiens	0.21	all-trans-retinal	*mutant I51N
+KCAT	Homo sapiens	0.3	all-trans-retinal	*purified recombinant enzyme
+KCAT	Homo sapiens	0.4	all-trans-retinal	*mutant T49M
+KCAT	Homo sapiens	0.0006	all-trans-retinol	*37&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	all-trans-retinol	*purified recombinant enzyme
+KCAT	Bacillus cereus	0.002	retinal	*with NADPH as cosubstrate, at pH 7.0 and 37&Acirc;&deg;C
+KCAT	Bacillus cereus	0.0047	retinal	*with NAD+ as cosubstrate, at pH 7.0 and 37&Acirc;&deg;C

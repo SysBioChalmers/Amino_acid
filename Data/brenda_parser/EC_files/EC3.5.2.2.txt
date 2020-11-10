@@ -1,0 +1,62 @@
+KCAT	Agrobacterium tumefaciens	0.0055	L-5-ethylhydantoin	*at 20&deg;C
+KCAT	Agrobacterium tumefaciens	0.02	L-5-ethylhydantoin	*at 25&deg;C
+KCAT	Agrobacterium tumefaciens	0.061	L-5-ethylhydantoin	*at 30&deg;C
+KCAT	Agrobacterium tumefaciens	0.22	L-5-ethylhydantoin	*at 35&deg;C
+KCAT	Agrobacterium tumefaciens	0.44	L-5-ethylhydantoin	*at 40&deg;C
+KCAT	Agrobacterium tumefaciens	0.6	L-5-methylthioethylhydantoin	*at 20&deg;C
+KCAT	Sinorhizobium meliloti	1	DL-5-methyldihydrouracil	*pH 8.0, 40&deg;C
+KCAT	Sinorhizobium meliloti	1	DL-5-(p-hydroxyphenyl)hydantoin	*pH 8.0, 40&deg;C
+KCAT	Sinorhizobium meliloti	1	DL-6-isopropyldihydrouracil	*pH 8.0, 40&deg;C
+KCAT	Agrobacterium tumefaciens	1	L-5-methylthioethylhydantoin	*at 25&deg;C
+KCAT	Sinorhizobium meliloti	2	D-5-benzylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Sinorhizobium meliloti	2	D-5-isobutylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Sinorhizobium meliloti	2	dihydrouracil	*pH 8.0, 40&deg;C
+KCAT	Sinorhizobium meliloti	3	D-5-butylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	3.04	hydantoin	*
+KCAT	Agrobacterium tumefaciens	3.9	L-5-methylthioethylhydantoin	*at 30&deg;C
+KCAT	Jannaschia sp. CCS1	4.6	DL-p-hydroxyphenylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Agrobacterium tumefaciens	4.9	D-5-methylthioethylhydantoin	*at 20&deg;C
+KCAT	Sinorhizobium meliloti	5	D-5-isopropylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Sinorhizobium meliloti	6	D-5-propylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	6.2	dihydrouracil	*
+KCAT	Agrobacterium tumefaciens	6.4	D-5-methylthioethylhydantoin	*at 25&deg;C
+KCAT	Bos taurus	7	Hydrothymine	*
+KCAT	Agrobacterium tumefaciens	7.7	L-5-methylthioethylhydantoin	*at 35&deg;C
+KCAT	Sinorhizobium meliloti	8	DL-6-methyldihydrouracil	*pH 8.0, 40&deg;C
+KCAT	Geobacillus stearothermophilus	8	hydantoin	*mutant M63I/F159S, pH 8.0, 37&deg;C
+KCAT	Geobacillus stearothermophilus	11	DL-hydroxyphenylhydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159L
+KCAT	Agrobacterium tumefaciens	11.4	L-5-methylthioethylhydantoin	*at 40&deg;C
+KCAT	Sinorhizobium meliloti	12	hydantoin	*pH 8.0, 40&deg;C
+KCAT	Agrobacterium tumefaciens	12.6	D-5-methylthioethylhydantoin	*at 30&deg;C
+KCAT	Agrobacterium tumefaciens	16.6	D-5-ethylhydantoin	*at 20&deg;C
+KCAT	Sinorhizobium meliloti	17	D-5-ethylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Sinorhizobium meliloti	18	D-5-methyl-thio-ethylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Geobacillus stearothermophilus	18	DL-hydroxyphenylhydantoin	*pH 8.0, 37&deg;C, wild-type enzyme
+KCAT	Geobacillus stearothermophilus	18	DL-p-hydroxyphenylhydantoin	*wild-type, pH 8.0, 37&deg;C
+KCAT	Agrobacterium tumefaciens	20.5	D-5-ethylhydantoin	*at 25&deg;C
+KCAT	Geobacillus stearothermophilus	21	hydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159S
+KCAT	Agrobacterium tumefaciens	24.9	D-5-ethylhydantoin	*at 30&deg;C
+KCAT	Agrobacterium tumefaciens	26	D-5-methylthioethylhydantoin	*at 35&deg;C
+KCAT	Agrobacterium tumefaciens	27.3	D-5-ethylhydantoin	*at 35&deg;C
+KCAT	Agrobacterium tumefaciens	37.3	D-5-ethylhydantoin	*at 40&deg;C
+KCAT	Geobacillus stearothermophilus	42	hydantoin	*pH 8.0, 37&deg;C, mutant enzyme M63F/L65V
+KCAT	Geobacillus stearothermophilus	45	hydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159A
+KCAT	Geobacillus stearothermophilus	46	DL-hydroxyphenylhydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159I
+KCAT	Geobacillus stearothermophilus	48	hydantoin	*pH 8.0, 37&deg;C, mutant enzyme L65F/F159A
+KCAT	Geobacillus stearothermophilus	50	DL-hydroxyphenylhydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159V
+KCAT	Geobacillus stearothermophilus	57	hydantoin	*mutant M63H/F159N, pH 8.0, 37&deg;C
+KCAT	Geobacillus stearothermophilus	59	DL-p-hydroxyphenylhydantoin	*mutant M63I/F159S, pH 8.0, 37&deg;C
+KCAT	Geobacillus stearothermophilus	59	hydantoin	*wild-type, pH 8.0, 37&deg;C
+KCAT	Geobacillus stearothermophilus	62	DL-p-hydroxyphenylhydantoin	*mutant M63H/F159N, pH 8.0, 37&deg;C
+KCAT	Bos taurus	71.7	hydrouracil	*
+KCAT	Agrobacterium tumefaciens	92.6	D-5-methylthioethylhydantoin	*at 40&deg;C
+KCAT	Geobacillus stearothermophilus	97	hydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159V
+KCAT	Geobacillus stearothermophilus	110	DL-hydroxyphenylhydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159A
+KCAT	Geobacillus stearothermophilus	180	DL-hydroxyphenylhydantoin	*pH 8.0, 37&deg;C, mutant enzyme M63F/L65V
+KCAT	Sinorhizobium meliloti	197	D-5-methylhydantoin	*pH 8.0, 40&deg;C
+KCAT	Geobacillus stearothermophilus	200	DL-hydroxyphenylhydantoin	*pH 8.0, 37&deg;C, mutant enzyme L65F/F159A
+KCAT	Geobacillus stearothermophilus	270	hydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159I
+KCAT	Geobacillus stearothermophilus	280	DL-hydroxyphenylhydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159S
+KCAT	Geobacillus stearothermophilus	280	hydantoin	*pH 8.0, 37&deg;C, mutant enzyme F159L
+KCAT	Geobacillus stearothermophilus	440	hydantoin	*pH 8.0, 37&deg;C, wild-type enzyme
+KCAT	Bos taurus	450	hydantoin	*

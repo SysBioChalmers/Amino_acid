@@ -1,0 +1,53 @@
+KCAT	Homo sapiens	0.0023	valine [3-(aminomethyl)phenyl]guanidine	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Acetobacter pasteurianus	0.4	D-2-nitro-5-[(phenylglycyl)amino]benzoic acid	*30&deg;C, pH 6.2
+KCAT	Xanthomonas citri	1.6	D-phenylglycine amide	*hydrolysis, pH 6.4, 25&deg;C, recombinant enzyme
+KCAT	Xanthomonas citri	2.3	cefatrizine	*hydrolysis, pH 6.4, 25&deg;C, recombinant enzyme
+KCAT	Acetobacter pasteurianus	9.6	cefadroxil	*30&deg;C, pH 6.2
+KCAT	Acetobacter pasteurianus	9.6	cefaloglycin	*pH 6.0, 30&deg;C, recombinant enzyme
+KCAT	Acetobacter pasteurianus	10	amoxicillin	*30&deg;C, pH 6.2
+KCAT	Acetobacter pasteurianus	10	amoxicillin	*pH 6.0, 30&deg;C, recombinant enzyme
+KCAT	Homo sapiens	14	4-carbamimidamidobenzyl L-isoleucinate	*pH 7.4, 37&deg;C
+KCAT	Xanthomonas sp.	17.5	ampicillin	*pH 6.1, 25&deg;C
+KCAT	Acetobacter pasteurianus	43	D-phenylglycine amide	*30&deg;C, pH 6.2
+KCAT	Acetobacter pasteurianus	43	D-phenylglycine amide	*above, pH 6.2, 27-30&deg;C
+KCAT	Xanthomonas citri	58	ampicillin	*hydrolysis, pH 6.4, 25&deg;C, recombinant enzyme
+KCAT	Homo sapiens	58	valacyclovir	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	58	valacyclovir	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	60	valine benzyl ester	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Xanthomonas sp.	71	cephalexin	*pH 6.1, 25&deg;C
+KCAT	Xanthomonas campestris	72.5	ampicillin	*pH 7.0, 25&deg;C, recombinant enzyme
+KCAT	Homo sapiens	79	valacyclovir	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	93	phenylalanine ethyl ester	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	101	valganciclovir	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	126	valacyclovir	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	130	valine 4-nitrobenzyl ester	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Acidovorax avenae	147	D-4-hydroxyphenylglycine methyl ester	*wild-type enzyme, pH 6.2, 30&deg;C
+KCAT	Homo sapiens	154	4-carbamimidamidobenzyl L-valinate	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	154	valine [3-(hydroxymethyl)phenyl]guanidine	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Xanthomonas citri	160	cephalexin	*hydrolysis, pH 6.4, 25&deg;C, recombinant enzyme
+KCAT	Acetobacter pasteurianus	162	ampicillin	*30&deg;C, pH 6.2
+KCAT	Acetobacter pasteurianus	162	ampicillin	*hydrolysis, pH 6.2, 27-30&deg;C; pH 6.0, 30&deg;C, recombinant enzyme
+KCAT	Xanthomonas campestris	200	cephalexin	*pH 7.0, 25&deg;C, recombinant enzyme
+KCAT	Homo sapiens	228	phenylalanine methyl ester	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Acidovorax avenae	262	D-4-hydroxyphenylglycine methyl ester	*mutant R87I, pH 6.2, 30&deg;C
+KCAT	Acetobacter pasteurianus	263	4-hydroxy-D-phenylglycine methyl ester	*pH 6.0, 30&deg;C, recombinant enzyme
+KCAT	Acetobacter pasteurianus	274	cephalexin	*30&deg;C, pH 7.0
+KCAT	Homo sapiens	345	4-carbamimidamidobenzyl L-phenylalaninate	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	345	phenylalanine [3-(hydroxymethyl)phenyl]guanidine	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Acetobacter pasteurianus	347	cefadroxil	*pH 6.0, 30&deg;C, recombinant enzyme
+KCAT	Acetobacter pasteurianus	347	cephalexin	*30&deg;C, pH 6.2
+KCAT	Homo sapiens	395	phenylalanine benzyl ester	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Acidovorax avenae	605	D-4-hydroxyphenylglycine methyl ester	*mutant V1318S, pH 6.2, 30&deg;C
+KCAT	Acidovorax avenae	613	D-4-hydroxyphenylglycine methyl ester	*mutant V175A, pH 6.2, 30&deg;C
+KCAT	Xanthomonas campestris	982	D-phenylglycine methyl ester	*pH 7.0, 25&deg;C, recombinant enzyme
+KCAT	Xanthomonas sp.	1000	D-phenylglycine methyl ester	*pH 6.1, 25&deg;C
+KCAT	Acetobacter pasteurianus	1035	D-phenylglycine methyl ester	*30&deg;C, pH 6.2
+KCAT	Acetobacter pasteurianus	1035	D-phenylglycine methyl ester	*hydrolysis, pH 6.2, 27-30&deg;C
+KCAT	Acetobacter pasteurianus	1040	D-phenylglycine methyl ester	*30&deg;C, pH 6.2
+KCAT	Xanthomonas citri	1100	D-phenylglycine methyl ester	*hydrolysis, pH 6.4, 30&deg;C, native enzyme
+KCAT	Xanthomonas citri	1860	D-phenylglycine methyl ester	*hydrolysis, pH 6.4, 25&deg;C, recombinant enzyme
+KCAT	Xanthomonas citri	3200	cephalexin	*hydrolysis, pH 6.4, 30&deg;C, native enzyme
+KCAT	Xanthomonas citri	3200	cephalexin	*cephalexin hydrolysis
+KCAT	Bacillus mycoides	6160	phenylalanine methylester	*25&deg;C, pH 7.0
+KCAT	Xanthomonas citri	6600	D-alpha-phenylglycine methyl ester	*acyl transfer from D-alpha-phenylglycine methyl ester to 7-amino-3-deacetoxycephalosporanic acid
+KCAT	Xanthomonas citri	11100	D-alpha-phenylglycine methyl ester	*hydrolysis of D-alpha-phenylglycine methyl ester

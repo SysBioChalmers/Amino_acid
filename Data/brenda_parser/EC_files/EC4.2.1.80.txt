@@ -1,0 +1,4 @@
+KCAT	Paraburkholderia xenovorans	7.7	5-chloro-2-hydroxypent-2,4-dienoate	*activated by Mg2+
+KCAT	Paraburkholderia xenovorans	60.5	2-hydroxyhexa-2,4-dienoate	*activated by Mg2+
+KCAT	Paraburkholderia xenovorans	215	2-hydroxypent-2,4-dienoate	*activated by Mn2+
+KCAT	Paraburkholderia xenovorans	361	2-hydroxypent-2,4-dienoate	*activated by Mg2+

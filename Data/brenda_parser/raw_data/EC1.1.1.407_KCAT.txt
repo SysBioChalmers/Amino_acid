@@ -1,0 +1,1 @@
+ecNumber*1.1.1.407#turnoverNumber*1.9#turnoverNumberMaximum*#substrate*D-altritol#commentary*pH 9.0, 25&deg;C#organism*Agrobacterium fabrum#ligandStructureId*105816#literature*740741#

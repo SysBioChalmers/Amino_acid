@@ -1,0 +1,15 @@
+KCAT	Homo sapiens	0.00067	N-terminal-YPKRIA-[RCC1]	*wild-type enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0007	N-terminal-SPKRIA-[RCC1]	*about, mutant W136F, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0008	N-terminal-SPKRIA-[RCC1]	*mutant N168K, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0015	N-terminal-RPKRIA-[RCC1]	*wild-type enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.00167	N-terminal-WPKRIA-[RCC1]	*wild-type enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0017	N-terminal-SPKRIA-[RCC1]	*wild-type enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0018	N-terminal-LPKRIA-[RCC1]	*wild-type enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0018	N-terminal-PPKRIA-[RCC1]	*wild-type enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0073	N-terminal-SPKRIAKRRS-[RCC1]	*recombinant detagged enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0088	N-terminal-SPKRIAKRR-[RCC1]	*recombinant detagged enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0093	N-terminal-SPKRIA-[RCC1]	*recombinant detagged enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0095	N-terminal-SPKRIAKRRSPP-[RCC1]	*recombinant detagged enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0097	N-terminal-methyl-SPKRIAKRRS-[RCC1]	*recombinant detagged enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0098	N-terminal-dimethyl-SPKRIAKRRS-[RCC1]	*recombinant detagged enzyme, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.013	N-terminal-SPKRIAKRRSPP-[RCC1]	*recombinant His6-tagged enzyme, pH 7.5, 37&deg;C

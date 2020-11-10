@@ -1,0 +1,17 @@
+KCAT	Homo sapiens	0.004	2-iodophenol	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.0102	3-iodo-L-tyrosine	*pH and temperature not specified in the publication
+KCAT	Drosophila melanogaster	0.05	3-chloro-L-tyrosine	*at pH 7.4, temperature not specified in the publication
+KCAT	Drosophila melanogaster	0.069	3-bromo-L-tyrosine	*at pH 7.4, temperature not specified in the publication
+KCAT	Danio rerio	0.07	3-iodo-L-tyrosine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Haliscomenobacter hydrossis	0.09	3-iodo-L-tyrosine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Mus musculus	0.11	3,5-diiodo-L-tyrosine	*cosubstrate dithionite, pH 7.4, 25&deg;C
+KCAT	Mus musculus	0.12	3,5-diiodo-L-tyrosine	*enzyme expressed in Pichia pastoris, pH not specified in the publication, temperature not specified in the publication
+KCAT	Mus musculus	0.12	3-iodo-L-tyrosine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Drosophila melanogaster	0.12	3-iodo-L-tyrosine	*at pH 7.4, temperature not specified in the publication
+KCAT	Mus musculus	0.16	3,5-diiodo-L-tyrosine	*enzyme expressed in Escherichia coli and lacking the transmembrane domain, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.208	3-iodo-L-tyrosine	*pH 7.6, temperature not specified in the publication, recombinant enzyme
+KCAT	Hydra vulgaris	0.23	3-iodo-L-tyrosine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Daphnia pulex	0.29	3-iodo-L-tyrosine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Mus musculus	1.08	3,5-diiodo-L-tyrosine	*mutant Y157F, expressed in Escherichia coli and lacking the transmembrane domain, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bos taurus	10	3,5-diiodo-L-tyrosine	*pH 7.4, 38&deg;C
+KCAT	Bos taurus	18	3-iodo-L-tyrosine	*pH 7.4, 38&deg;C

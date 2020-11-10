@@ -1,0 +1,17 @@
+KCAT	Bacillus subtilis	0.02	NAD+	*V229G/H226P/G225 insertion, pH 8.2 and 30&Acirc;&deg;C; V229G/Y252L/V253I/G225 insertion, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.06	NAD+	*R124L mutant enzyme, steady-state conditions with methylmalonate semialdehyde, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.09	NAD+	*V229G/H226P, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.14	NAD+	*R301L mutant enzyme, steady-state conditions with methylmalonate semialdehyde, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.21	NAD+	*V229G/G225 insertion, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.39	NAD+	*G225 insertion, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.78	NAD+	*V229G, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	2.2	NAD+	*wild type MSDH, steady-state conditions with methylmalonate semialdehyde, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	2.2	NAD+	*wild type MSDH, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	2.8	CoA	*R124L mutant enzyme, steady-state conditions with propionaldehyde, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	12.6	CoA	*wild type MSDH, steady-state conditions with propionaldehyde, pH 8.2 and 30&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.03	propionaldehyde	*30&Acirc;&deg;C, pH 8.2; pH 8.2, 30&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.02	malonate semialdehyde	*30&Acirc;&deg;C, pH 8.2; pH 8.2, 30&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.003	2-Methyl-3-oxopropanoate	*pH 8.2, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	1.1	2-Methyl-3-oxopropanoate	*50 mM potassium phosphate pH 8.2, 30&Acirc;&deg;C, 0.5 mM 2-methyl-3-oxopropanoate, 12 mM NAD+, 0.5 mM CoA
+KCAT	Saccharolobus solfataricus	0.003	methylmalonate semialdehyde	*30&Acirc;&deg;C, pH 8.2
+KCAT	Bacillus subtilis	-999	more	*Kcat-value of CoA for R301L mutant enzyme under steady-state conditions with propionaldehyde is above 3 1/sec at pH 8.2 and 30&Acirc;&deg;C

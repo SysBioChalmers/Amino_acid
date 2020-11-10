@@ -1,0 +1,24 @@
+KCAT	Mycobacterium tuberculosis	0.00983	1-pyrroline-5-carboxylate	*cofactor NADPH
+KCAT	Medicago truncatula	1.113	NADPH	*pH 7.5, 35&deg;C
+KCAT	Medicago truncatula	2.972	NADH	*pH 7.5, 35&deg;C
+KCAT	Homo sapiens	10	3,4-dehydro-L-proline	*
+KCAT	Homo sapiens	13	NADP+	*E221A mutant, fixed 1 mM NADP+
+KCAT	Homo sapiens	14	1-pyrroline-5-carboxylate	*mutant T238A, wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	23	NADPH	*mutant T238A, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	31	1-pyrroline-5-carboxylate	*cosubstrate NADPH, wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	55	NADP+	*wild type enzyme, fixed 1 mM NADP+
+KCAT	Homo sapiens	74	NADPH	*wild-type, pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	137.9	NADP+	*
+KCAT	Mycobacterium tuberculosis	212.8	L-proline	*
+KCAT	Homo sapiens	218	NADH	*wild-type, pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	310.2	NADH	*
+KCAT	Mycobacterium tuberculosis	321.6	NADPH	*
+KCAT	Streptococcus pyogenes	340	NADPH	*at pH 7.5 and 37&deg;C
+KCAT	Mycobacterium tuberculosis	387.3	1-pyrroline-5-carboxylate	*cofactor NADH
+KCAT	Mycobacterium tuberculosis	451.7	1-pyrroline-5-carboxylate	*cofactor NADPH
+KCAT	Streptococcus pyogenes	620	NADH	*at pH 7.5 and 37&deg;C
+KCAT	Arabidopsis thaliana	694	NADPH	*pH 7.8, 35&deg;C
+KCAT	Hordeum vulgare	1270	pyrroline-5-carboxylate	*
+KCAT	Arabidopsis thaliana	3049	NADH	*pH 7.8, 35&deg;C
+KCAT	Mycobacterium tuberculosis	4000	NADPH	*
+KCAT	Mycobacterium tuberculosis	4170	NADH	*

@@ -1,0 +1,124 @@
+KCAT	Leishmania major	1140	DNA	*LMAP mutant A138D, 3'-phosphodiesterase activity
+KCAT	Homo sapiens	2340	DNA	*Ape1, 3'-phosphodiesterase activity
+KCAT	Leishmania major	10440	DNA	*LMAP, 3'-phosphodiesterase activity
+KCAT	Homo sapiens	16440	DNA	*Ape mutant D70A, 3'-phosphodiesterase activity
+KCAT	Escherichia coli	0.0000048	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant deltaQLY, Nei placed opposite G
+KCAT	Escherichia coli	0.000013	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant Q261A, Nei placed opposite C
+KCAT	Escherichia coli	0.000015	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant Q261A, Nei placed opposite G
+KCAT	Escherichia coli	0.000023	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant Q261A, Nei placed opposite A
+KCAT	Escherichia coli	0.000065	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant QLY/AAA, Nei placed opposite G
+KCAT	Escherichia coli	0.000067	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant Q261A, Nei placed opposite T
+KCAT	Escherichia coli	0.00007167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant QLY/AAA, Nei placed opposite A
+KCAT	Escherichia coli	0.000583	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*wild-type, Nei placed opposite A
+KCAT	Escherichia coli	0.003167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*wild-type, Nei placed opposite T
+KCAT	Escherichia coli	0.008167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*wild-type, Nei placed opposite C
+KCAT	Escherichia coli	0.01167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant QLY/AAA, Nei placed opposite T
+KCAT	Escherichia coli	0.013	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*mutant QLY/AAA, Nei placed opposite C
+KCAT	Escherichia coli	0.07167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	*wild-type, Nei placed opposite G
+KCAT	Homo sapiens	0.0007	DNA containing an abasic site	*pH 7.5, mutant enzyme Y171A, high salt concentration (150 mM NaCl)
+KCAT	Homo sapiens	0.0008	DNA containing an abasic site	*pH 7.5, mutant enzyme Y171A, low salt concentration (82 mM NaCl)
+KCAT	Homo sapiens	0.0009	DNA containing an abasic site	*pH 7.5, mutant enzyme Y171F, low salt concentration (82 mM NaCl)
+KCAT	Homo sapiens	0.2	DNA containing an abasic site	*pH 7.5, mutant enzyme Y128A, high salt concentration (150 mM NaCl)
+KCAT	Homo sapiens	0.3	DNA containing an abasic site	*pH 7.5, mutant enzyme Y269A, high salt concentration (150 mM NaCl)
+KCAT	Homo sapiens	0.5	DNA containing an abasic site	*pH 7.5, mutant enzyme Y128A, low salt concentration (82 mM NaCl)
+KCAT	Homo sapiens	1.3	DNA containing an abasic site	*pH 7.5, mutant enzyme Y269A, low salt concentration (82 mM NaCl)
+KCAT	Homo sapiens	1.6	DNA containing an abasic site	*pH 7.5, wild-type enzyme, high salt concentration (150 mM NaCl)
+KCAT	Homo sapiens	10	DNA containing an abasic site	*pH 7.5, wild-type enzyme, low salt concentration (82 mM NaCl)
+KCAT	Escherichia coli	0.0025	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*mutant deltaQLY, Nei placed opposite A
+KCAT	Escherichia coli	0.00583	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*mutant Q261A, Nei placed opposite G
+KCAT	Escherichia coli	0.016	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*mutant QLY/AAA, Nei placed opposite G
+KCAT	Escherichia coli	0.02167	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*mutant QLY/AAA, Nei placed opposite T
+KCAT	Escherichia coli	0.03	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*wild-type, Nei placed opposite G
+KCAT	Escherichia coli	0.035	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*wild-type, Nei placed opposite A
+KCAT	Escherichia coli	0.04167	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*wild-type, Nei placed opposite C
+KCAT	Escherichia coli	0.0483	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*wild-type, Nei placed opposite T
+KCAT	Escherichia coli	0.00567	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*mutant Q261A, Nei placed opposite G
+KCAT	Escherichia coli	0.0112	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*wild-type, Nei placed opposite T
+KCAT	Escherichia coli	0.0115	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*wild-type, Nei placed opposite C
+KCAT	Escherichia coli	0.023	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*wild-type, Nei placed opposite A
+KCAT	Escherichia coli	0.0567	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	*wild-type, Nei placed opposite G
+KCAT	Escherichia coli	0.00783	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'	*wild-type, Nei placed opposite A
+KCAT	Escherichia coli	0.01317	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'	*wild-type, Nei placed opposite G
+KCAT	Escherichia coli	0.01583	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'	*wild-type, Nei placed opposite C
+KCAT	Escherichia coli	0.023	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'	*wild-type, Nei placed opposite T
+KCAT	Saccharomyces cerevisiae	0.00333	5,6-dihydrothymidine/A	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.00417	5,6-dihydrothymidine/A	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.3	2-deoxyribonolactone	*pH 7.6, room temperature
+KCAT	Escherichia coli	-999	AP-DNA	*not detected in mutant E261Q
+KCAT	Homo sapiens	-999	more	*wild-type APE1 cleaves AP sites more efficiently than D70A mutant with a kcat value for the incision of an AP site aproximately 10fold higher
+KCAT	Homo sapiens	0.000035	DNA containing 5-OH-C/A	*+ G 212 mutant, pH 7.5, 37&Acirc;&deg;C, presence of Mg2+
+KCAT	Homo sapiens	0.0000567	DNA containing dihydrouracil	*K212R mutant, pH 8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0000667	DNA containing 5-OH-C/A	*+ G 212 mutant, pH 7.5, 37&Acirc;&deg;C, presence of EDTA
+KCAT	Homo sapiens	0.0001	DNA containing 5-OH-C/A	*P211R mutant, pH 7.5, 37&Acirc;&deg;C, presence of Mg2+
+KCAT	Homo sapiens	0.000153	12-mer oligodeoxyribonucleotide containing a natural AP site	*mutant Y171F/P173L/N174K, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.000233	DNA containing 5-OH-C/G	*+ G 212 mutant, pH 7.5, 37&Acirc;&deg;C, presence of Mg2+
+KCAT	Homo sapiens	0.0003	oligomer with G/U pair	*H309N mutant, pH 7.5
+KCAT	Homo sapiens	0.000333	DNA containing 5-OH-C/A	*wild-type, pH 7.5, 37&Acirc;&deg;C, presence of Mg2+
+KCAT	Homo sapiens	0.0005	DNA containing 5-OH-C/A	*P211R mutant, pH 7.5, 37&Acirc;&deg;C, presence of EDTA; wild-type, pH 7.5, 37&Acirc;&deg;C, presence of EDTA
+KCAT	Homo sapiens	0.0005	DNA containing 5-OH-C/G	*P211R mutant, pH 7.5, 37&Acirc;&deg;C, presence of Mg2+
+KCAT	Homo sapiens	0.000583	DNA containing 5-OH-C/G	*P211R mutant, pH 7.5, 37&Acirc;&deg;C, presence of EDTA
+KCAT	Homo sapiens	0.000667	DNA containing 5-OH-C/G	*wild-type, pH 7.5, 37&Acirc;&deg;C, presence of EDTA
+KCAT	Saccharomyces cerevisiae	0.0007	37mer with AP/A	*pH 6.8, 37&Acirc;&deg;C, Ntg1p
+KCAT	Homo sapiens	0.000833	DNA containing 5-OH-C/G	*wild-type, pH 7.5, 37&Acirc;&deg;C, presence of Mg2+
+KCAT	Saccharomyces cerevisiae	0.00108	37mer with AP/G	*pH 6.8, 37&Acirc;&deg;C, Ntg1p
+KCAT	Homo sapiens	0.00117	DNA containing 5-OH-C/G	*+ G 212 mutant, pH 7.5, 37&Acirc;&deg;C, presence of EDTA
+KCAT	Escherichia coli	0.0015	apurinic/apyrimidinic sites	*mutant QLY/AAA, Nei placed opposite A
+KCAT	Escherichia coli	0.00183	apurinic/apyrimidinic sites	*mutant QLY/AAA, Nei placed opposite G
+KCAT	Homo sapiens	0.002	DNA containing dihydrouracil	*wild-type, pH 8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.002	duplex oligonucleotide containing a alpha-2'-deoxyadenosine*T pair	*pH 6.8, 37&Acirc;&deg;C,nucleotide incison repair activity
+KCAT	Homo sapiens	0.002	duplex oligonucleotide containing a tetrahydrofuran*G pair	*pH 6.8, 37&Acirc;&deg;C, nucleotide incison repair activity
+KCAT	Homo sapiens	0.0027	duplex oligonucleotide containing a 5,6-dihydro-2'-deoxyuridine*G pair	*pH 6.8, 37&Acirc;&deg;C, necleotide incison repair activity
+KCAT	Saccharomyces cerevisiae	0.00323	37mer with AP/G	*pH 6.8, 37&Acirc;&deg;C, Ntg2p
+KCAT	Saccharomyces cerevisiae	0.00512	37mer with AP/A	*pH 6.8, 37&Acirc;&deg;C, Ntg2p
+KCAT	Saccharomyces cerevisiae	0.00567	5-hydroxy-2'-deoxyuridine/G	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.007	37mer with AP/T	*pH 6.8, 37&Acirc;&deg;C, Ntg1p
+KCAT	Saccharomyces cerevisiae	0.00833	37mer with dihydrouridine	*pH 6.8, 37&Acirc;&deg;C, Scr2
+KCAT	Escherichia coli	0.00883	apurinic/apyrimidinic sites	*wild-type, Nei placed opposite G
+KCAT	Saccharomyces cerevisiae	0.01	tetrahydrofuranyl/G	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.01067	apurinic/apyrimidinic sites	*wild-type, Nei placed opposite A
+KCAT	Saccharomyces cerevisiae	0.0117	[ubiquitin carrier protein UB2R2]-S-ubiquitinyl-L-cysteine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.015	37mer with AP/C	*pH 6.8, 37&Acirc;&deg;C, Ntg2p
+KCAT	Escherichia coli	0.0158	[ubiquitin carrier protein UB2R2]-S-ubiquitinyl-L-cysteine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.02	oligomer with G/U pair	*D283/D308A mutant, pH 7.5
+KCAT	Saccharomyces cerevisiae	0.0225	37mer with AP/C	*pH 6.8, 37&Acirc;&deg;C, Ntg1p
+KCAT	Saccharomyces cerevisiae	0.0233	37mer with AP/T	*pH 6.8, 37&Acirc;&deg;C, Ntg2p
+KCAT	Escherichia coli	0.0267	5-hydroxy-2'-deoxyuridine/G	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0272	5'-Cy3-CAAGGTAGTrUATCCTTG-1-Black Hole Quencher1-3'	*recombinant enzyme
+KCAT	Escherichia coli	0.0283	tetrahydrofuranyl/G	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.03	35 base pair oligonucleotide containing 5,6-dihydrouracil opposite A	*pH 7.6, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.043	35 base pair oligonucleotide containing 5,6-dihydrouracil opposite G	*pH 7.6, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	0.0717	37mer with dihydrouridine	*pH 6.8, 37&Acirc;&deg;C, Scr1
+KCAT	Escherichia coli	0.075	35 base pair oligonucleotide containing 5,6-dihydroxy-5,6-dihydrothymine opposite G	*pH 7.6, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.098	35 base pair oligonucleotide containing 5,6-dihydroxy-5,6-dihydrothymine opposite A	*pH 7.6, 37&Acirc;&deg;C, mutant enzyme R184A; pH 7.6, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	0.168	5'-Cy3-CAAGGTAGTrUATCCTTG-1-Black Hole Quencher1-3'	*native enzyme
+KCAT	Escherichia coli	0.17	35 base pair oligonucleotide containing 5,6-dihydrouracil opposite G	*pH 7.6, 37&Acirc;&deg;C, mutant enzyme R184A
+KCAT	Homo sapiens	0.3	oligomer with G/U pair	*D283A mutant, pH 7.5
+KCAT	Helicobacter pylori	0.308	30mer THF-T duplex	*pH 8.0, 37&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Cricetulus griseus	0.58	18-mer containing P33-labeled tetrahydrofuran	*enzyme phosphorylated by casein kinase II, pH 7.5, 22&Acirc;&deg;C
+KCAT	Homo sapiens	1	12-mer oligodeoxyribonucleotide containing a tetrahydrofuran analogue at the natural AP site	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.2	oligomer with G/U pair	*D308A mutant, pH 7.5
+KCAT	Escherichia coli	1.37	35 base pair oligonucleotide containing 5,6-dihydrouracil opposite A	*pH 7.6, 37&Acirc;&deg;C, mutant enzyme R184A
+KCAT	Escherichia coli	1.6	35 base pair oligonucleotide containing 5,6-dihydroxy-5,6-dihydrothymine opposite G	*pH 7.6, 37&Acirc;&deg;C, mutant enzyme R184A
+KCAT	Homo sapiens	2.4	apruinic/apyrimidinic site	*pH 7.6, room temperature
+KCAT	Homo sapiens	2.8	12-mer oligodeoxyribonucleotide containing a natural AP site	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.91	43-mer oligonucleotide containing the AP-site analog THF at nt 31	*mutant C99S, presence of 2 mM Mg2+
+KCAT	Homo sapiens	3.2	5'-TCGAGGATCCTGAGCTCGAGTCGACGXTCGCGAATTCTGCGGATCCAAGC-3'	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.36	43-mer oligonucleotide containing the AP-site analog THF at nt 31	*wild-type, presence of 2 mM Mg2+
+KCAT	Homo sapiens	4.1	double-stranded DNA with abasic sites	*
+KCAT	Mus musculus	4.2	5'-TCGAGGATCCTGAGCTCGAGTCGACGXTCGCGAATTCTGCGGATCCAAGC-3'	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.2	single-stranded DNA with abasic sites	*
+KCAT	Cricetulus griseus	5.7	18-mer containing P33-labeled tetrahydrofuran	*enzyme dephosphorylated by lambda phosphatase, pH 7.5, 22&Acirc;&deg;C
+KCAT	Homo sapiens	10	apurinic/apyrimidinic site	*5' cleavage of a reduced AP site
+KCAT	Homo sapiens	10	oligomer with G/U pair	*wild-type, pH 7.5
+KCAT	Homo sapiens	54	AP-DNA-RNA	*
+KCAT	Escherichia coli	72	AP-DNA	*mutant Y72A
+KCAT	Escherichia coli	90	AP-DNA	*wild-type
+KCAT	Homo sapiens	174	AP-DNA-DNA	*
+KCAT	Escherichia coli	354	AP-DNA	*mutant Y72F
+KCAT	Homo sapiens	438	34FRNA	*
+KCAT	Homo sapiens	1020	THF-containing oligonucleotide	*APE1 mutant D70A, AP endonuclease activity
+KCAT	Leishmania major	6300	THF-containing oligonucleotide	*LMAP mutant A138D, AP endonuclease activity
+KCAT	Escherichia coli	7680	AP-DNA	*mutant R37A
+KCAT	Homo sapiens	12120	THF-containing oligonucleotide	*APE1, AP endonuclease activity
+KCAT	Leishmania major	19260	THF-containing oligonucleotide	*LMAP, AP endonuclease activity
+KCAT	Homo sapiens	26500	34FDNA	*

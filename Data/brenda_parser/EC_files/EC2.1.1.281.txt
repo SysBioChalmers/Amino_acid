@@ -1,0 +1,2 @@
+KCAT	Streptomyces hygroscopicus	8.15	S-adenosyl-L-methionine	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces hygroscopicus	0.8	2-oxo-3-phenylpropanoate	*pH 8.0, 30&Acirc;&deg;C

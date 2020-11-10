@@ -1,0 +1,11 @@
+KCAT	Abies grandis	0.02	farnesyl diphosphate	*
+KCAT	Abies grandis	-999	geranylgeranyl diphosphate	*mutant T769A, value below 10000
+KCAT	Abies grandis	0.003	geranylgeranyl diphosphate	*mutant T769G
+KCAT	Abies grandis	0.03	geranylgeranyl diphosphate	*mutant T769S
+KCAT	Abies grandis	0.1	geranylgeranyl diphosphate	*D405N, Y520A
+KCAT	Abies grandis	0.2	geranylgeranyl diphosphate	*D402N, R365A, R454A
+KCAT	Abies grandis	0.4	geranylgeranyl diphosphate	*wild-type
+KCAT	Abies grandis	0.5	geranylgeranyl diphosphate	*R411A
+KCAT	Abies grandis	0.75	geranylgeranyl diphosphate	*
+KCAT	Abies grandis	2.2	geranylgeranyl diphosphate	*
+KCAT	Abies grandis	2.2	geranylgeranyl diphosphate	*

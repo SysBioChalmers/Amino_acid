@@ -1,0 +1,13 @@
+KCAT	Mycobacterium marinum	0.042	3-hydroxydecanoic acid	*mutant Q31A, pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	0.147	octanoic acid	*mutant Q31A, pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	0.244	Decanoic acid	*wild-type, pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	0.461	octanoic acid	*wild-type, pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	0.488	3-hydroxyoctanoic acid	*wild-type, pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	0.598	S-adenosyl-L-methionine	*wild-type, pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	0.599	3-hydroxydecanoic acid	*wild-type, pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	358	3-hydroxyoctanoic acid	*pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	489	Decanoic acid	*pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	510	octanoic acid	*pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	1165	dodecanoic acid	*pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	1346	3-hydroxydodecanoic acid	*pH 7.8, 37&deg;C
+KCAT	Mycobacterium marinum	1600	3-hydroxydecanoic acid	*pH 7.8, 37&deg;C

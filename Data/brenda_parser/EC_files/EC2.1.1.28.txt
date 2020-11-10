@@ -1,0 +1,22 @@
+KCAT	Homo sapiens	0.00017	phenylethanolamine	*mutant E185Q, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30&deg;C.
+KCAT	Homo sapiens	0.001	3-trifluoromethylphenylethanolamine	*mutant D267A
+KCAT	Homo sapiens	0.0017	S-adenosyl-L-methionine	*mutant D267N
+KCAT	Homo sapiens	0.0028	phenylethanolamine	*mutant E185A, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30&deg;C.
+KCAT	Homo sapiens	0.0043	anti-9-amino-6-(trifluoromethyl)benzonorbornene	*mutant D267A
+KCAT	Homo sapiens	0.0048	cis-(1R,2S)-2-amino-1-tetralol	*wild type enzyme, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30&deg;C.
+KCAT	Homo sapiens	0.0052	S-adenosyl-L-methionine	*mutant D267A
+KCAT	Homo sapiens	0.0062	anti-9-amino-6-(trifluoromethyl)benzonorbornene	*wild type enzyme
+KCAT	Homo sapiens	0.008	3-trifluoromethylphenylethanolamine	*pH 8.0, 30&deg;C
+KCAT	Homo sapiens	0.0083	3-trifluoromethylphenylethanolamine	*wild type enzyme
+KCAT	Homo sapiens	0.0142	phenylethanolamine	*mutant E185D, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30&deg;C.
+KCAT	Homo sapiens	0.0175	phenylethanolamine	*mutant Y35F, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30&deg;C.
+KCAT	Homo sapiens	0.02	octopamine	*wild type enzyme, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30&deg;C.
+KCAT	Homo sapiens	0.021	octopamine	*pH 8.0, 30&deg;C
+KCAT	Homo sapiens	0.0218	S-adenosyl-L-methionine	*mutant E219A
+KCAT	Homo sapiens	0.043	phenylethanolamine	*wild type enzyme, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30&deg;C.
+KCAT	Homo sapiens	0.045	phenylethanolamine	*purified in the absence of reducing agent, dimer, His-tagged
+KCAT	Homo sapiens	0.047	phenylethanolamine	*pH 8.0, 30&deg;C
+KCAT	Homo sapiens	0.0473	S-adenosyl-L-methionine	*wild type enzyme
+KCAT	Homo sapiens	0.0483	phenylethanolamine	*mutant D267A, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30&deg;C.
+KCAT	Homo sapiens	0.0567	S-adenosyl-L-methionine	*mutant V53A
+KCAT	Homo sapiens	0.0658	S-adenosyl-L-methionine	*mutant K57A

@@ -1,0 +1,18 @@
+KCAT	Rattus norvegicus	0.105	Gly	*pH 7.2, mutant enzyme Y21F
+KCAT	Rattus norvegicus	0.105	S-adenosyl-L-methionine	*pH 7.2, mutant enzyme Y21F
+KCAT	Rattus norvegicus	0.18	Gly	*pH 7.2, mutant enzyme Y194F; pH 7.2, mutant enzyme Y220F
+KCAT	Rattus norvegicus	0.18	S-adenosyl-L-methionine	*pH 7.2, mutant enzyme Y194F; pH 7.2, mutant enzyme Y220F
+KCAT	Rattus norvegicus	0.21	Gly	*pH 7.2, mutant enzyme Y33F
+KCAT	Rattus norvegicus	0.21	S-adenosyl-L-methionine	*pH 7.2, mutant enzyme Y33F
+KCAT	Homo sapiens	0.35	Gly	*pH 7.5, 25&deg;C, mutant enzyme L49P
+KCAT	Homo sapiens	0.35	S-adenosyl-L-methionine	*pH 7.5, 25&deg;C, mutant enzyme L49P
+KCAT	Rattus norvegicus	0.45	Gly	*pH 7.2, wild-type enzyme
+KCAT	Rattus norvegicus	0.45	S-adenosyl-L-methionine	*pH 7.2, wild-type enzyme
+KCAT	Rattus norvegicus	0.47	Gly	*pH 7.2, mutant enzyme Y242F
+KCAT	Rattus norvegicus	0.47	S-adenosyl-L-methionine	*pH 7.2, mutant enzyme Y242F
+KCAT	Rattus norvegicus	0.7	glycine	*pH 7.5, 25&deg;C, native enzyme
+KCAT	Homo sapiens	1.19	Gly	*pH 7.5, 25&deg;C, mutant enzyme H176N
+KCAT	Homo sapiens	1.19	S-adenosyl-L-methionine	*pH 7.5, 25&deg;C, mutant enzyme H176N
+KCAT	Homo sapiens	1.6	Gly	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Homo sapiens	1.6	S-adenosyl-L-methionine	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	51.9	glycine	*pH 7.5, 25&deg;C, recombinant enzyme

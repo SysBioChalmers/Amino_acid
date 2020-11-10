@@ -1,0 +1,96 @@
+KCAT	Moloney murine leukemia virus	0.003	VSQNYPLVQ	*pH 6.0, 37&deg;C, mutant enzyme V39I/A57I
+KCAT	Moloney murine leukemia virus	0.0063	VSQNYPFVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.011	VSVNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.012	VIQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme H37D
+KCAT	Moloney murine leukemia virus	0.0147	VLQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.017	QNYPIV	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	0.017	VSQKYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.023	VSLNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.023	VSQNYPLVQ	*pH 6.0, 37&deg;C, mutant enzyme H37D
+KCAT	Moloney murine leukemia virus	0.027	Arg-Glu(EDANS)-Ser-Gln-Ala-Phe-Pro-Leu-Arg-Ala-Lys(dansyl)-Arg-OH	*pH 5.6, 37&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	0.028	VMQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.036	VSQNYPAVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.037	VSQNLPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.042	VKQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.0442	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme L92I
+KCAT	Moloney murine leukemia virus	0.051	VSQNMPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.054	VSQVYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.061	SDLVLLSAEARR	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.062	VSQNYPLVQ	*pH 6.0, 37&deg;C, mutant enzyme A57I
+KCAT	Moloney murine leukemia virus	0.065	VIQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme V39I/A57I
+KCAT	Moloney murine leukemia virus	0.068	VSDNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.07	PLQVLTLNIERR	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.072	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme V39I/A57I
+KCAT	Moloney murine leukemia virus	0.075	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme H37D
+KCAT	Moloney murine leukemia virus	0.077	VNQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.08	VGFAGAMAEAR	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.081	VSQNYPILQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.087	VSQFYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.0882	LTFTFPVVFMRR	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.094	VSQNYPIFQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.0963	APQVLPVMHP	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.1	VSGNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.101	VFQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.11	VSQNYPLVQ	*pH 6.0, 37&deg;C, mutant enzyme V39I/V54I
+KCAT	Moloney murine leukemia virus	0.114	PPAILPIISE	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.114	TQTSSLTLDDQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.12	TQTSLLIENSS	*pH 5.6, 37&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	0.12	VIQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme L92I
+KCAT	Moloney murine leukemia virus	0.124	VSQNYPIEQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.15	VSQNYPISQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.159	SQNYPIVQ	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	0.162	VSQDYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.164	PRSSLYPALTP	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.17	TSTLLIENSS	*pH 5.6, 37&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	0.182	VSANYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.183	VSFNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.183	VSQIYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.185	VSQAYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.2	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme Y63V
+KCAT	Moloney murine leukemia virus	0.2	VSQNYPLVQ	*pH 6.0, 37&deg;C, mutant enzyme V39I
+KCAT	Moloney murine leukemia virus	0.209	DELILPVKRK	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.209	VSQNYPIQQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.22	VIQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme V39I
+KCAT	Moloney murine leukemia virus	0.23	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme A57I
+KCAT	Moloney murine leukemia virus	0.237	DSKAFLATDW	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.24	VSQNYPLVQ	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	0.241	VSQLNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.262	VAQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.266	VSQNYPIIQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.267	VSQNYPIAQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.279	VQALVLTQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.29	MSKLLATVVS	*pH 5.6, 37&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	0.293	VSNNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.294	TSTLLIENSS	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.3	VSQNYPIRQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.3	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzymes E15R and W53I
+KCAT	Moloney murine leukemia virus	0.304	VSQTYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.34	VSQNYPLVQ	*pH 6.0, 37&deg;C, mutant enzyme L92I
+KCAT	Moloney murine leukemia virus	0.345	VSQNYPVVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.35	VQALVLTQ	*pH 5.6, 37&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	0.35	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme V54I
+KCAT	Moloney murine leukemia virus	0.358	VSQNYPIKQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.38	TSQAFPLRAG	*pH 5.6, 37&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	0.393	VTQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.4	VIQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme A57I
+KCAT	Moloney murine leukemia virus	0.415	PSEEYPIMID	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.439	MSKLLATVVS	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.455	SQNYPIV	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	0.46	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme V39I/V54I
+KCAT	Moloney murine leukemia virus	0.466	VSKNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.478	VISQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.48	VIQNYPIVQ	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	0.53	PRSSLYPALTP	*pH 5.6, 37&deg;C, recombinant enzyme
+KCAT	Moloney murine leukemia virus	0.549	VVQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Xenotropic MuLV-related virus	0.55	RSLLYPALTP	*pH 5.6, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.55	VSQNYPIVQ	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	0.55	VSQNYPIVQ	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	0.55	VSQNYPIVQ	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	0.55	VSQNYPIVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.661	VSQNYPLVQ	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.714	TSQAFPLRAG	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	0.74	VSQNYPIVQ	*pH 6.0, 37&deg;C, mutant enzyme V39I
+KCAT	Moloney murine leukemia virus	0.852	VSQNYPIV	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Moloney murine leukemia virus	1.27	PKDIFPVTET	*pH 6.0, 37&deg;C
+KCAT	Moloney murine leukemia virus	1.9	VSQNYPLVQ	*pH 6.0, 37&deg;C, mutant enzyme V54I
+KCAT	Moloney murine leukemia virus	2.12	VSQNFPIVQ	*pH 6.0, 37&deg;C

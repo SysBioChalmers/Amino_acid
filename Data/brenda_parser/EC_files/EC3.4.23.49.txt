@@ -1,0 +1,57 @@
+KCAT	Escherichia coli	0.031	WCARVGKGRGR-NH2	*22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	1.6	WCARVGKGRGR-NH2	*22&Acirc;&deg;C, recombinant mutant D208G
+KCAT	Escherichia coli	1.7	WCARVGKGRGR-NH2	*22&Acirc;&deg;C, recombinant mutant variant 1.3.19
+KCAT	Escherichia coli	2.2	WCARVGKGRGR-NH2	*22&Acirc;&deg;C, recombinant mutant variant 1.2.19
+KCAT	Escherichia coli	2.3	WCARVGKGRGR-NH2	*22&Acirc;&deg;C, recombinant mutant S223R
+KCAT	Escherichia coli	0.0005	WEEGGRRIGRGGK-NH2	*22&Acirc;&deg;C, recombinant mutant variant 1.2.19
+KCAT	Escherichia coli	0.3	WEEGGRRIGRGGK-NH2	*22&Acirc;&deg;C, recombinant mutant D208G
+KCAT	Escherichia coli	0.4	WEEGGRRIGRGGK-NH2	*22&Acirc;&deg;C, recombinant mutant variant 1.3.19
+KCAT	Escherichia coli	8.8	WEEGGRRIGRGGK-NH2	*22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	96	o-aminobenzoyl-Ala-Arg-Arg-Ala-3-nitrotyrosine-NH2	*pH 6.5, 37&Acirc;&deg;C, variant G216K/K217G
+KCAT	Escherichia coli	2280	o-aminobenzoyl-Ala-Arg-Arg-Ala-3-nitrotyrosine-NH2	*pH 6.5, 37&Acirc;&deg;C, wild-type, purified from outer membrane
+KCAT	Escherichia coli	2460	o-aminobenzoyl-Ala-Arg-Arg-Ala-3-nitrotyrosine-NH2	*pH 6.5, 37&Acirc;&deg;C, wild-type, recombinant expressed in Escherichia coli
+KCAT	Escherichia coli	18	IAA-Arg-Arg-p-nitroanilide	*pH 6.5, 37&Acirc;&deg;C, variant G216K/K217G
+KCAT	Escherichia coli	24	IAA-Arg-Arg-p-nitroanilide	*pH 6.5, 37&Acirc;&deg;C, wild-type, purified from outer membrane and wild-type, recombinant expressed
+KCAT	Escherichia coli	3720	ELRLYKRHHG	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3720	ELRLYKRHHG	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	8	WLAARRGAG	*
+KCAT	Escherichia coli	13	WLAARRGAG	*
+KCAT	Escherichia coli	130	WLAARRGRG	*
+KCAT	Escherichia coli	900	WLAARRGRG	*
+KCAT	Escherichia coli	67	WLSARRGAG	*
+KCAT	Escherichia coli	168	WLSARRGAG	*
+KCAT	Escherichia coli	5	WLRARRGAG	*
+KCAT	Escherichia coli	37	WLRARRGAG	*
+KCAT	Escherichia coli	5	WLATRRGAG	*
+KCAT	Escherichia coli	9	WLATRRGAG	*
+KCAT	Escherichia coli	1.2	WLARRRGAG	*different cleavage sites used by OmpP or OmpT proteases
+KCAT	Escherichia coli	2.2	WLARRRGAG	*different cleavage sites used by OmpP or OmpT proteases
+KCAT	Escherichia coli	0.6	WLSERRGAG	*
+KCAT	Escherichia coli	1.5	WLSERRGAG	*
+KCAT	Escherichia coli	0.03	WLAASRGAG	*
+KCAT	Escherichia coli	0.17	WLAASRGAG	*
+KCAT	Escherichia coli	1.2	WLAAKKGAG	*
+KCAT	Escherichia coli	13	WLAAKKGAG	*
+KCAT	Escherichia coli	3.4	WEEGGRRIGRGGK	*used as a control substrate for determination of the activity of OmpT protease
+KCAT	Escherichia coli	8.8	WEEGGRRIGRGGK	*used as a control substrate for determination of the activity of OmpT protease
+KCAT	Escherichia coli	78	2-aminobenzoyl-RRA-3-[(2,4-dinitrophenyl)amino]-L-alanyl-Gly	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	192	2-aminobenzoyl-ARRA-3-[(2,4-dinitrophenyl)amino]-L-alanyl-Gly	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	84	2-aminobenzoyl-IRRA-3-[(2,4-dinitrophenyl)amino]-L-alanyl-Gly	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	738	2-aminobenzoyl-AKRA-3-[(2,4-dinitrophenyl)amino]-L-alanyl-Gly	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	612	2-aminobenzoyl-ARKA-3-[(2,4-dinitrophenyl)amino]-L-alanyl-Gly	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	2380	2-aminobenzoyl-AKKA-3-[(2,4-dinitrophenyl)amino]-L-alanyl-Gly	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	23.4	ELRLYRNHHG	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	660	ELELYKRHHG	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	2400	aminobenzoyl-Ala-Lys-Lys-Ala-3-(dinitrophenyl)diaminopropionic acid-Gly	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1560	ELRLYRRHHG	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Escherichia coli	372	RLRLYKRHHG	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	378	RLELYKRHHG	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli K-12	-999	more	*
+KCAT	Escherichia coli	0.3	Ac-GLLGDFFRKSKEKIGC	*pH and temperature not specified in the publication
+KCAT	Phanerochaete chrysosporium	0.64	2-aminobenzoyl-KMRSSKQ-N1-(2,4-dinitrophenyl)ethane-1,2-diamine	*pH 4.5, 40&Acirc;&deg;C
+KCAT	Phanerochaete chrysosporium	0.8	2-aminobenzoyl-KNRSSKQ-N1-(2,4-dinitrophenyl)ethane-1,2-diamine	*pH 4.5, 40&Acirc;&deg;C
+KCAT	Phanerochaete chrysosporium	0.824	2-aminobenzoyl-KQRSSKQ-N1-(2,4-dinitrophenyl)ethane-1,2-diamine	*pH 4.5, 40&Acirc;&deg;C
+KCAT	Phanerochaete chrysosporium	1.15	2-aminobenzoyl-KLRSSKQ-N1-(2,4-dinitrophenyl)ethane-1,2-diamine	*pH 4.5, 40&Acirc;&deg;C
+KCAT	Phanerochaete chrysosporium	1.54	2-aminobenzoyl-KLKSSKQ-N1-(2,4-dinitrophenyl)ethane-1,2-diamine	*pH 4.5, 40&Acirc;&deg;C
+KCAT	Escherichia coli	12.9	Ac-GLLGDFARRAKEKIGC	*pH and temperature not specified in the publication
+KCAT	Escherichia coli	57.6	Ac-GLLGDFFRRVKEKIGC	*pH and temperature not specified in the publication

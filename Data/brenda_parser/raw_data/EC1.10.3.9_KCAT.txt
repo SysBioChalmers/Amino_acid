@@ -1,0 +1,1 @@
+ecNumber*1.10.3.9#turnoverNumber*0.054#turnoverNumberMaximum*#substrate*plastoquinol#commentary*at 21% O2, pH not specified in the publication, temperature not specified in the publication#organism*Helianthus annuus#ligandStructureId*3663#literature*741969#

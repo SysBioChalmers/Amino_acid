@@ -1,0 +1,1 @@
+ecNumber*2.3.1.230#turnoverNumber*0.0165#turnoverNumberMaximum*#substrate*2-aminobenzoyl-CoA#commentary*pH 7, 37&deg;C#organism*Pseudomonas aeruginosa#ligandStructureId*3586#literature*721932#!ecNumber*2.3.1.230#turnoverNumber*0.0165#turnoverNumberMaximum*#substrate*3-oxodecanoate#commentary*pH 7, 37&deg;C#organism*Pseudomonas aeruginosa#ligandStructureId*9046#literature*721932#

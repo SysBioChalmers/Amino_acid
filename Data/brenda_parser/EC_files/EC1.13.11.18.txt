@@ -1,0 +1,7 @@
+KCAT	Staphylococcus aureus	2	S-sulfanyl-L-cysteine	*recombinant wild-type enzyme CstB, pH 6.0, 25&deg;C, coupled persulfide dioxygenase-persulfide transferase activity
+KCAT	Paraburkholderia phytofirmans	5	S-sulfanylglutathione	*recombinant mutant C314S, pH 7.4, 22&deg;C
+KCAT	Staphylococcus aureus	6.5	S-sulfanylglutathione	*recombinant wild-type enzyme CstB, pH 6.0, 25&deg;C, coupled persulfide dioxygenase-persulfide transferase activity
+KCAT	Staphylococcus aureus	19.3	CoASSH	*recombinant wild-type enzyme CstB, pH 6.0, 25&deg;C, coupled persulfide dioxygenase-persulfide transferase activity
+KCAT	Staphylococcus aureus	19.7	bacillithiol persulfide	*recombinant wild-type enzyme CstB, pH 6.0, 25&deg;C, coupled persulfide dioxygenase-persulfide transferase activity
+KCAT	Paraburkholderia phytofirmans	143	O2	*recombinant wild-type enzyme, pH 7.4, 22&deg;C
+KCAT	Paraburkholderia phytofirmans	143	S-sulfanylglutathione	*recombinant wild-type enzyme, pH 7.4, 22&deg;C

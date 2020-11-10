@@ -1,0 +1,1 @@
+ecNumber*4.2.1.120#turnoverNumber*2.1#turnoverNumberMaximum*#substrate*4-hydroxybutanoyl-CoA#commentary*pH 8.0, 70&deg;C#organism*Metallosphaera sedula#ligandStructureId*8018#literature*726748#

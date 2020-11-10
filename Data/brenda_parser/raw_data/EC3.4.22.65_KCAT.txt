@@ -1,0 +1,1 @@
+ecNumber*3.4.22.65#turnoverNumber*0.2#turnoverNumberMaximum*#substrate*2-aminobenzoic acid-Val-Ala-Nle-Ser-(3-nitro)-tyrosinyl-aspartamide#commentary*pH 8.3#organism*Dermatophagoides pteronyssinus#ligandStructureId*33295#literature*647749#

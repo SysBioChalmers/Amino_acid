@@ -1,0 +1,5 @@
+KCAT	Erwinia tasmaniensis	3.3	L-cysteine	*pH 8.0, 26&Acirc;&deg;C, with L-histidine
+KCAT	Erwinia tasmaniensis	3.4	L-histidine	*pH 8.0, 26&Acirc;&deg;C
+KCAT	Erwinia tasmaniensis	0.36	histamine	*pH 8.0, 26&Acirc;&deg;C
+KCAT	Erwinia tasmaniensis	0.78	D-histidine	*pH 8.0, 26&Acirc;&deg;C
+KCAT	Erwinia tasmaniensis	0.57	L-histidinamide	*pH 8.0, 26&Acirc;&deg;C

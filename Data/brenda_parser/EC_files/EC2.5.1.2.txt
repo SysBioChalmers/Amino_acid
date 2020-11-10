@@ -1,0 +1,8 @@
+KCAT	Clostridium botulinum	0.01	thiamine	*mutant E271Q, pH 8.0, 37&deg;C
+KCAT	Clostridium botulinum	0.23	thiamine	*mutant D94N, pH 8.0, 37&deg;C
+KCAT	Clostridium botulinum	1.1	thiamine	*mutant Y80F, pH 8.0, 37&deg;C
+KCAT	Clostridium botulinum	8.1	thiamine	*mutant D302N, pH 8.0, 37&deg;C
+KCAT	Clostridium botulinum	60.9	thiamine	*mutant Y46F, pH 8.0, 37&deg;C
+KCAT	Clostridium botulinum	231	thiamine	*wild-type, pH 8.0, 37&deg;C
+KCAT	Paenibacillus thiaminolyticus	260	thiamine	*; pH 7.2, temperature not specified in the publication
+KCAT	Paenibacillus thiaminolyticus	297	4-nitrothiophenolate	*; pH 7.2, temperature not specified in the publication

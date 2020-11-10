@@ -1,0 +1,1 @@
+ecNumber*1.14.11.49#turnoverNumber*1.27#turnoverNumberMaximum*#substrate*UMP#commentary*at pH 7.5 and 30&deg;C#organism*Streptomyces sp.#ligandStructureId*133#literature*734171#!ecNumber*1.14.11.49#turnoverNumber*1.53#turnoverNumberMaximum*#substrate*2-oxoglutarate#commentary*at pH 7.5 and 30&deg;C#organism*Streptomyces sp.#ligandStructureId*34#literature*734171#

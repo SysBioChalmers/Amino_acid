@@ -1,0 +1,13 @@
+KCAT	Streptomyces carzinostaticus	1.55	2,7-dihydroxy-5-methyl-1-naphthoate	*pH 8.0, 24&Acirc;&deg;C
+KCAT	Streptomyces carzinostaticus	0.63	2-hydroxy-7-methoxy-5-methyl-1-naphthoate	*pH 8.0, 24&Acirc;&deg;C; pH and temperature not specified in the publication
+KCAT	Streptomyces carzinostaticus	0.047	2-hydroxy-1-naphthoate	*pH 8.0, 24&Acirc;&deg;C
+KCAT	Streptomyces carzinostaticus	0.135	2-hydroxy-5-methyl-1-naphthoate	*pH 8.0, 24&Acirc;&deg;C
+KCAT	Streptomyces carzinostaticus	0.118	2-hydroxy-7-methoxy-1-naphthoate	*pH 8.0, 24&Acirc;&deg;C
+KCAT	Streptomyces carzinostaticus	0.42	2-hydroxy-5,7-dimethoxy-1-naphthoate	*pH 8.0, 24&Acirc;&deg;C
+KCAT	Streptomyces carzinostaticus	0.11	naphthoate	*pH 8.0, 24&Acirc;&deg;C
+KCAT	Streptomyces carzinostaticus	0.11	Naphthalene-1-carboxylic acid	*pH and temperature not specified in the publication
+KCAT	Streptomyces carzinostaticus	0.05	2-hydroxynaphthalene-1-carboxylic acid	*pH and temperature not specified in the publication
+KCAT	Streptomyces carzinostaticus	0.135	2-hydroxy-5-methylnaphthalene-1-carboxylic acid	*pH and temperature not specified in the publication
+KCAT	Streptomyces carzinostaticus	1.55	2,7-dihydroxy-5-methylnaphthalene-1-carboxylic acid	*pH and temperature not specified in the publication
+KCAT	Streptomyces carzinostaticus	0.12	2-hydroxy-7-methoxynaphthalene-1-carboxylic acid	*pH and temperature not specified in the publication
+KCAT	Streptomyces carzinostaticus	0.42	2-hydroxy-5,7-dimethoxynaphthalene-1-carboxylic acid	*pH and temperature not specified in the publication

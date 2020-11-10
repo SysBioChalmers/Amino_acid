@@ -1,0 +1,6 @@
+KCAT	Amycolatopsis orientalis	0.0022	UDP-alpha-D-glucose	*mutant enzyme D332A, pH and temperature not specified in the publication
+KCAT	Amycolatopsis orientalis	0.043	UDP-alpha-D-glucose	*mutant enzyme D13A, pH and temperature not specified in the publication
+KCAT	Amycolatopsis orientalis	0.283	UDP-alpha-D-glucose	*pH 9, 37&Acirc;&deg;C
+KCAT	Amycolatopsis orientalis	0.55	UDP-alpha-D-glucose	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Amycolatopsis orientalis	0.72	UDP-alpha-D-glucose	*mutant enzyme H125A, pH and temperature not specified in the publication
+KCAT	Amycolatopsis orientalis	0.283	vancomycin aglycone	*pH 9, 37&Acirc;&deg;C

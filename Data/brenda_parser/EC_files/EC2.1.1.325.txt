@@ -1,0 +1,17 @@
+KCAT	Drosophila melanogaster	0.000683	palmitate	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Drosophila melanogaster	0.0017	laurate	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Aedes aegypti	0.000217	(2E,6E)-farnesoate	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Diaphorina citri	0.00075	(2E,6E)-farnesoate	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Drosophila melanogaster	0.168	(2E,6E)-farnesoate	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Diaphorina citri	0.000013	juvenile hormone III acid	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Aedes aegypti	0.001148	juvenile hormone III acid	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Drosophila melanogaster	0.128	juvenile hormone III acid	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Aedes aegypti	0.00016	homofarnesoate	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Diaphorina citri	0.00022	homofarnesoate	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Diaphorina citri	0.000008	(2Z,6E)-10cis-juvenile hormone I acid	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Diaphorina citri	0.000003	(2E,6Z)-10cis-juvenile hormone I acid	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Aedes aegypti	0.000875	(cis/trans/trans)-juvenile hormone I acid	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Aedes aegypti	0.000245	(cis/trans/cis)-juvenile hormone I acid	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Aedes aegypti	0.000011	juvenile hormone I acid bisepoxide	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Aedes aegypti	0.00001	juvenile hormone III acid bisepoxide	*at pH 7.9 and 25&Acirc;&deg;C
+KCAT	Aedes aegypti	0.000006	(trans/cis/cis)-juvenile hormone I acid	*at pH 7.9 and 25&Acirc;&deg;C

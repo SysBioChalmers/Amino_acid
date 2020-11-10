@@ -1,0 +1,1 @@
+KCAT	Homo sapiens	40.4	all-trans-retinol	*pH not specified in the publication, 20&Acirc;&deg;C

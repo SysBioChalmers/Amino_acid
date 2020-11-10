@@ -1,0 +1,153 @@
+KCAT	Raoultella terrigena	6	ATP	*
+KCAT	Raoultella terrigena	46	NADP+	*
+KCAT	Raoultella terrigena	9	ADP	*
+KCAT	Raoultella terrigena	11	diphosphate	*
+KCAT	Raoultella terrigena	8	AMP	*
+KCAT	Arabidopsis thaliana	198	phosphoenolpyruvate	*37&Acirc;&deg;C, pH 4.5
+KCAT	Pantoea agglomerans	2.9	D-glucose 6-phosphate	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Penicillium parvum	11.8	4-nitrophenyl phosphate	*pH 5.5, 50&Acirc;&deg;C
+KCAT	Raoultella terrigena	20	4-nitrophenyl phosphate	*
+KCAT	Aspergillus fumigatus	99	4-nitrophenyl phosphate	*
+KCAT	Aspergillus ficuum	104	4-nitrophenyl phosphate	*
+KCAT	Aspergillus fumigatus	357500	4-nitrophenyl phosphate	*pH 2.5
+KCAT	Aspergillus fumigatus	358000	4-nitrophenyl phosphate	*pH 2.5
+KCAT	Pantoea agglomerans	1.1	D-ribose 5-phosphate	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	1.9	p-nitrophenyl phosphate	*in 1 M sodium acetate buffer pH 5.5, at 37&Acirc;&deg;C
+KCAT	Pantoea agglomerans	8.2	p-nitrophenyl phosphate	*37&Acirc;&deg;C, pH 4.5
+KCAT	Debaryomyces castellii	44.2	p-nitrophenyl phosphate	*in 200 mM sodium acetate buffer, 1 mM CaCl2, pH 4.0, at 37&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	0.07	myo-inositol hexakisphosphate	*mutant D56A, pH 7.0, temperature not specified in the publication
+KCAT	Bacillus sp. (in: Bacteria)	0.1	myo-inositol hexakisphosphate	*mutant D56L, pH 7.0, temperature not specified in the publication
+KCAT	Aspergillus niger	0.422	myo-inositol hexakisphosphate	*recombinant mutant Q368E/K432R, pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.476	myo-inositol hexakisphosphate	*recombinant mutant Q172R/K432R/Q368E, pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.496	myo-inositol hexakisphosphate	*recombinant mutant Q172R/K432R/Q368E/F376Y/T195L, pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.548	myo-inositol hexakisphosphate	*recombinant mutant T195L/Q368E/F376Y, pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.553	myo-inositol hexakisphosphate	*recombinant mutant Q172R/K432R, pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.557	myo-inositol hexakisphosphate	*recombinant PP-NPep-6A mutant enzyme, pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.576	myo-inositol hexakisphosphate	*recombinant mutant Q172R, pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	0.71	myo-inositol hexakisphosphate	*recombinant mutant Q172R/K432R/Q368E/F376Y, pH 5.5, 37&Acirc;&deg;C
+KCAT	Kodamaea ohmeri	0.93	myo-inositol hexakisphosphate	*5.0 mM myo-inositol hexakisphosphate in 0.2 M sodium acetate, pH 5.0, at 60&Acirc;&deg;C
+KCAT	Pseudomonas sp.	1.67	myo-inositol hexakisphosphate	*pH 6.0, 40&Acirc;&deg;C, recombinant His-tagged C-terminal domain
+KCAT	Aspergillus niger	3	myo-inositol hexakisphosphate	*mutant C264G, pH 6.0, 37&Acirc;&deg;C
+KCAT	Streptomyces sp.	3	myo-inositol hexakisphosphate	*pH 7.0, 65&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	3.34	myo-inositol hexakisphosphate	*mutant D56E, pH 7.0, temperature not specified in the publication
+KCAT	Bacillus sp. (in: Bacteria)	8.33	myo-inositol hexakisphosphate	*mutant D308A, pH 7.0, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	8.85	myo-inositol hexakisphosphate	*37&Acirc;&deg;C, pH 4.5
+KCAT	Bacillus sp. (in: Bacteria)	15.55	myo-inositol hexakisphosphate	*mutant D308E, pH 7.0, temperature not specified in the publication
+KCAT	Bacillus sp. (in: Bacteria)	16.55	myo-inositol hexakisphosphate	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Pseudomonas sp.	20.39	myo-inositol hexakisphosphate	*pH 6.0, 40&Acirc;&deg;C, recombinant His-tagged full-length enzyme
+KCAT	Pantoea agglomerans	21	myo-inositol hexakisphosphate	*37&Acirc;&deg;C, pH 4.5
+KCAT	Pantoea agglomerans	21	myo-inositol hexakisphosphate	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	25.4	myo-inositol hexakisphosphate	*pH 7.4, 37&Acirc;&deg;C, presence of Ca2+
+KCAT	Bacillus sp. (in: Bacteria)	26.6	myo-inositol hexakisphosphate	*pH 7.0
+KCAT	Thermothelomyces thermophilus	37.8	myo-inositol hexakisphosphate	*native enzyme, pH 5.0, 60&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	46	myo-inositol hexakisphosphate	*; pH 5.0, 58&Acirc;&deg;C
+KCAT	Rhizopus microsporus var. oligosporus	51	myo-inositol hexakisphosphate	*pH 5.5
+KCAT	Debaryomyces castellii	51.2	myo-inositol hexakisphosphate	*in 200 mM sodium acetate buffer, 1 mM CaCl2, pH 4.0, at 37&Acirc;&deg;C
+KCAT	Debaryomyces castellii	51.2	myo-inositol hexakisphosphate	*recombinant enzyme, in 200 mM sodium acetate buffer, 1 mM CaCl2, pH 4.0, at 37&Acirc;&deg;C
+KCAT	Debaryomyces castellii	59.2	myo-inositol hexakisphosphate	*native enzyme, in 200 mM sodium acetate buffer, 1 mM CaCl2, pH 4.0, at 37&Acirc;&deg;C
+KCAT	Aspergillus niger	62	myo-inositol hexakisphosphate	*mutant C215S, pH 5.0, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	90	myo-inositol hexakisphosphate	*mutant C435G, pH 2.5, 42&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	102	myo-inositol hexakisphosphate	*
+KCAT	Penicillium parvum	103	myo-inositol hexakisphosphate	*sodium salt, pH 5.5, 50&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	114	myo-inositol hexakisphosphate	*
+KCAT	Penicillium parvum	117	myo-inositol hexakisphosphate	*calcium salt, pH 5.5, 50&Acirc;&deg;C
+KCAT	Penicillium parvum	134	myo-inositol hexakisphosphate	*potassium salt, pH 5.5, 50&Acirc;&deg;C
+KCAT	Aspergillus niger	170	myo-inositol hexakisphosphate	*pH 3.5, 37&Acirc;&deg;C
+KCAT	Raoultella terrigena	180	myo-inositol hexakisphosphate	*
+KCAT	Aspergillus ficuum	220	myo-inositol hexakisphosphate	*
+KCAT	Aspergillus niger	234	myo-inositol hexakisphosphate	*mutant C31G, pH 5.5, 53&Acirc;&deg;C
+KCAT	Burkholderia sp. a13(2014)	236.2	myo-inositol hexakisphosphate	*pH 4.5, 50&Acirc;&deg;C
+KCAT	Aspergillus ficuum	300	myo-inositol hexakisphosphate	*pH 5.0, 58&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus ficuum	348	myo-inositol hexakisphosphate	*native fungal enzyme
+KCAT	Aspergillus ficuum	348	myo-inositol hexakisphosphate	*; pH 5.0, 58&Acirc;&deg;C
+KCAT	Aspergillus ficuum	348	myo-inositol hexakisphosphate	*pH 5.0, 58&Acirc;&deg;C, native enzyme
+KCAT	Aspergillus ficuum	350	myo-inositol hexakisphosphate	*
+KCAT	Aspergillus niger	350	myo-inositol hexakisphosphate	*wild-type, pH 5.0, 58&Acirc;&deg;C
+KCAT	Aspergillus ficuum	360	myo-inositol hexakisphosphate	*recombinant enzyme
+KCAT	Aspergillus niger	398	myo-inositol hexakisphosphate	*in 1 M sodium acetate buffer pH 5.5, at 37&Acirc;&deg;C
+KCAT	Shigella sp. CD2	720	myo-inositol hexakisphosphate	*pH 5.5, 37&Acirc;&deg;C, recombinant glycosylated enzyme expressed from Pichia pastoris
+KCAT	Escherichia coli	840	myo-inositol hexakisphosphate	*pH 3.5, 37&Acirc;&deg;C
+KCAT	Nicotiana tabacum	908	myo-inositol hexakisphosphate	*in 50 mM NaOAc (pH 5.0) or 100 mM Tris-HCl buffer (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Pectobacterium carotovorum	950	myo-inositol hexakisphosphate	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Thermothelomyces heterothallicus	1300	myo-inositol hexakisphosphate	*calcium phytate, pH 5.0, 60&Acirc;&deg;C
+KCAT	Enterobacter sp. ACSS	1640	myo-inositol hexakisphosphate	*pH 2.5, 60&Acirc;&deg;C
+KCAT	Bacillus subtilis	1837.8	myo-inositol hexakisphosphate	*pH 4.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Nicotiana tabacum	2056	myo-inositol hexakisphosphate	*in 50 mM NaOAc (pH 5.0) or 100 mM Tris-HCl buffer (pH 8.0), at 37&Acirc;&deg;C
+KCAT	Shigella sp. CD2	2230	myo-inositol hexakisphosphate	*pH 5.5, 37&Acirc;&deg;C, recombinant nonglycosylated enzyme expressed from Escherichia coli
+KCAT	Yersinia pestis	2283	myo-inositol hexakisphosphate	*pH 4.5, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	2450.5	myo-inositol hexakisphosphate	*pH 4.5, 37&Acirc;&deg;C, recombinant mutant D24G/K70R/K111E/N121S
+KCAT	Bacillus subtilis	2510.3	myo-inositol hexakisphosphate	*pH 4.5, 37&Acirc;&deg;C, recombinant mutant D24G/K265N
+KCAT	Bacillus subtilis	2527.8	myo-inositol hexakisphosphate	*pH 4.5, 37&Acirc;&deg;C, recombinant mutant D24G
+KCAT	Yersinia rohdei	2531	myo-inositol hexakisphosphate	*pH 4.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	2660	myo-inositol hexakisphosphate	*mutant Q258N, pH 4.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3058	myo-inositol hexakisphosphate	*mutant Q258N/Q349N, pH 4.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3397	myo-inositol hexakisphosphate	*wild-type, pH 4.5, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	4965.7	myo-inositol hexakisphosphate	*pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Thermothelomyces thermophilus	5100	myo-inositol hexakisphosphate	*recombinant enzyme, pH 5.0, 60&Acirc;&deg;C
+KCAT	Bacillus subtilis	7367.6	myo-inositol hexakisphosphate	*pH 7.0, 37&Acirc;&deg;C, recombinant mutant D24G
+KCAT	Bacillus subtilis	7860	myo-inositol hexakisphosphate	*pH 7.0, 37&Acirc;&deg;C, recombinant mutant D24G/K70R/K111E/N121S
+KCAT	Bacillus subtilis	8430.1	myo-inositol hexakisphosphate	*pH 7.0, 37&Acirc;&deg;C, recombinant mutant D24G/K265N
+KCAT	Dendroctonus frontalis	284600	myo-inositol hexakisphosphate	*recombinant enzyme, pH 3.9, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	300000	myo-inositol hexakisphosphate	*pH 2.5, 55&Acirc;&deg;C. The enzyme may be a 3-phytase, EC 3.1.3.8, or a 6-phytase, EC 3.1.3.26. The product of the hydrolysis of myo-inositol hexakisphosphate i.e. myo-inositol 1,2,3,4,5-pentakisphosphate or myo-inositol 1,3,4,5,6-pentakisphosphate has not been identified
+KCAT	Dendroctonus frontalis	375200	myo-inositol hexakisphosphate	*recombinant enzyme, pH 3.9, 52.5&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	411700	myo-inositol hexakisphosphate	*pH 5.5
+KCAT	Aspergillus fumigatus	412000	myo-inositol hexakisphosphate	*pH 5.5
+KCAT	Raoultella terrigena	10	fructose 1,6-diphosphate	*
+KCAT	Raoultella terrigena	2	glucose 6-phosphate	*
+KCAT	Raoultella terrigena	6	fructose 6-phosphate	*
+KCAT	Pantoea agglomerans	1.1	D-fructose 1,6-diphosphate	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Pantoea agglomerans	1.6	D-Fructose 1-phosphate	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Pantoea agglomerans	101	D-glucose 1-phosphate	*37&Acirc;&deg;C, pH 4.5
+KCAT	Pantoea agglomerans	101	D-glucose 1-phosphate	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Bacillus amyloliquefaciens	0.82	phytate	*mutant enzyme K76R
+KCAT	Serratia sp.	23.46	phytate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Bacillus amyloliquefaciens	27	phytate	*mutant enzyme Y159H
+KCAT	Serratia sp.	112.7	phytate	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Bacillus amyloliquefaciens	117	phytate	*mutant enzyme D55A
+KCAT	Aspergillus niger	1260	phytate	*pH 2.5, 55&Acirc;&deg;C
+KCAT	Escherichia coli	2348	phytate	*pH 4.0, 55&Acirc;&deg;C
+KCAT	Bacillus amyloliquefaciens	5530	phytate	*mutant enzyme E227A
+KCAT	Bacillus amyloliquefaciens	5532	phytate	*mutant enzyme E227A
+KCAT	Bacillus amyloliquefaciens	11800	phytate	*mutant enzyme R122K
+KCAT	Bacillus amyloliquefaciens	11810	phytate	*mutant enzyme R122K
+KCAT	Bacillus amyloliquefaciens	12400	phytate	*mutant enzyme D258A
+KCAT	Bacillus amyloliquefaciens	12430	phytate	*mutant enzyme D258A
+KCAT	Bacillus amyloliquefaciens	29060	phytate	*mutant enzyme R122E
+KCAT	Bacillus amyloliquefaciens	29100	phytate	*mutant enzyme R122E
+KCAT	Bacillus amyloliquefaciens	59550	phytate	*wild-type enzyme
+KCAT	Bacillus amyloliquefaciens	59600	phytate	*wild-type enzyme
+KCAT	Aspergillus niger	3	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*pH 6.0, 37&Acirc;&deg;C, recombinant mutant C264G
+KCAT	Bacillus sp. (in: Bacteria)	4.17	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*phytase domain Phy-DII, pH 7.0, 35&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	5.92	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*beta-propeller phytase 168PhyA, pH 7.0, 55&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	12.28	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*phytase domain Phy-DI fused to beta-propeller phytase 168PhyA, pH 7.0, 55&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	27.72	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*dual domain phytase PhyH, pH 7.0, 35&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	44.94	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*beta-propeller phytase PhyP, pH 7.0, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	59.83	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*purified recombinant His-tagged mutant E121F, pH 5.0, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	62	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*pH 5.0, 37&Acirc;&deg;C, recombinant mutant C215S
+KCAT	Aspergillus niger	83.67	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*purified recombinant His-tagged mutant K41E, pH 5.0, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	90	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*pH 2.5, 42&Acirc;&deg;C, recombinant mutant C435G
+KCAT	Bacillus sp. (in: Bacteria)	94.4	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*phytase domain Phy-DI fused to beta-propeller phytase PhyP, pH 7.0, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	161	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*purified recombinant His-tagged wild-type enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	234	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*pH 5.5, 53&Acirc;&deg;C, recombinant mutant C31G
+KCAT	Zea mays	248	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*recombinant isozyme b, pH 5.0, 36&Acirc;&deg;C
+KCAT	Hordeum vulgare	253	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*recombinant isozyme b2, pH 5.0, 36&Acirc;&deg;C
+KCAT	Hordeum vulgare	260	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*recombinant isozyme a, pH 5.0, 36&Acirc;&deg;C
+KCAT	Triticum aestivum	270	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*recombinant isozyme b1, pH 5.0, 36&Acirc;&deg;C
+KCAT	Triticum aestivum	279	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*recombinant isozyme a1, pH 5.0, 36&Acirc;&deg;C
+KCAT	Aspergillus niger	350	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*pH 5.0, 58&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Klebsiella sp.	370	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Raoultella terrigena	2	1-naphthyl phosphate	*
+KCAT	Raoultella terrigena	4	Glycerol 2-phosphate	*
+KCAT	Raoultella terrigena	6	2-naphthyl phosphate	*
+KCAT	Yersinia mollaretii	5.33	4-methylumbelliferyl phosphate	*recombinant wild-type enzyme, pH 6.6, 37&Acirc;&deg;C
+KCAT	Yersinia mollaretii	10.18	4-methylumbelliferyl phosphate	*recombinant mutant T44V/K45E, pH 6.6, 37&Acirc;&deg;C
+KCAT	Yersinia mollaretii	10.42	4-methylumbelliferyl phosphate	*recombinant mutant T44I/K45E, pH 6.6, 37&Acirc;&deg;C
+KCAT	Aspergillus niger	253	myo-inositol hexakisphosphate sodium salt	*pH 5.5, 50&Acirc;&deg;C
+KCAT	Aspergillus japonicus	279	myo-inositol hexakisphosphate sodium salt	*pH 5.5, 50&Acirc;&deg;C
+KCAT	Aspergillus japonicus	231	myo-inositol hexakisphosphate disodium salt	*pH 5.5, 50&Acirc;&deg;C
+KCAT	Aspergillus niger	281	myo-inositol hexakisphosphate disodium salt	*pH 5.5, 50&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	161.9	4-nitrophenylphosphate	*37&Acirc;&deg;C, pH 4.5
+KCAT	Pantoea agglomerans	16	1-L-myo-inositol 1,2,3,4,5-pentakisphosphate	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Pantoea agglomerans	16	1-L-myo-inositol 1,2,3,5,6-pentakisphosphate	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Aspergillus ficuum	-999	more	*turnover number of immobilized enzyme
+KCAT	Lupinus albus	-999	more	*

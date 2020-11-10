@@ -1,0 +1,13 @@
+KCAT	Pectobacterium carotovorum	0.0051	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;C, mutant enzyme Y345F/E380A
+KCAT	Pectobacterium carotovorum	0.0059	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;C, mutant enzyme Y345F/E380D
+KCAT	Pectobacterium carotovorum	0.0067	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;C, mutant enzyme E380A
+KCAT	Pectobacterium carotovorum	0.011	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;C, mutant enzyme Y345A; pH 8.0, 25&deg;C, mutant enzyme Y345F/E380Q
+KCAT	Pectobacterium carotovorum	0.02	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;C, mutant enzyme E380Q
+KCAT	Pectobacterium carotovorum	0.122	(2R,5R)-5-carboxymethylproline	*pH 7.8, 22&deg;C
+KCAT	Pectobacterium carotovorum	0.17	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;C, mutant enzyme Y345F
+KCAT	Pectobacterium carotovorum	0.2	(2S,5R)-5-carboxymethylproline	*pH 7.8, 22&deg;C
+KCAT	Pectobacterium carotovorum	0.26	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;C, mutant enzyme E380D
+KCAT	Pectobacterium carotovorum	0.28	(2S,5S)-5-carboxymethylproline	*pH 7.8, 22&deg;C
+KCAT	Pectobacterium carotovorum	0.28	ATP	*pH 7.8, 22&deg;C
+KCAT	Pectobacterium carotovorum	0.36	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;, wild-type enzyme
+KCAT	Pectobacterium carotovorum	0.36	(2S,5S)-5-carboxymethylproline	*pH 8.0, 25&deg;C, wild-type enzyme

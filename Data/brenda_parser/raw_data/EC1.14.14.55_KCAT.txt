@@ -1,0 +1,1 @@
+ecNumber*1.14.14.55#turnoverNumber*0.00327#turnoverNumberMaximum*#substrate*Quinine#commentary*recombinant CYP2C19#organism*Homo sapiens#ligandStructureId*2219#literature*285327#!ecNumber*1.14.14.55#turnoverNumber*0.125#turnoverNumberMaximum*#substrate*Quinine#commentary*recombinant CYP3A4#organism*Homo sapiens#ligandStructureId*2219#literature*285327#

@@ -1,0 +1,83 @@
+KCAT	Lupinus albus	-999	more	*
+KCAT	Aspergillus niger	0.52	myo-inositol hexakisphosphate	*mutant enzyme E228K, in 0.2 M glycine-HCl buffer at pH 3.5 and 37&deg;C
+KCAT	Aspergillus niger	0.63	myo-inositol hexakisphosphate	*mutant enzyme E272Q, in 0.2 M glycine-HCl, at pH 2.5
+KCAT	Bacillus amyloliquefaciens	0.82	phytate	*mutant enzyme K76R
+KCAT	Escherichia coli	0.87	myo-inositol hexakisphosphate	*mutant D144N/V227A/G344D
+KCAT	Escherichia coli	0.94	myo-inositol hexakisphosphate	*wild-type
+KCAT	Escherichia coli	0.97	myo-inositol hexakisphosphate	*mutant D144N/V227A
+KCAT	Aspergillus niger	3.17	myo-inositol hexakisphosphate	*mutant enzyme E272K, in 0.2 M glycine-HCl, at pH 2.5
+KCAT	Aspergillus niger	3.5	myo-inositol hexakisphosphate	*mutant enzyme E272K, in 0.2 M glycine-HCl, at pH 3.2
+KCAT	Avena sativa	5	O-phospho-L-Ser	*
+KCAT	Aspergillus niger	5.7	myo-inositol hexakisphosphate	*wild type enzyme, in 0.2 M glycine-HCl buffer at pH 3.5 and 37&deg;C
+KCAT	Aspergillus niger	9.3	myo-inositol hexakisphosphate	*mutant enzyme E272Q, in 0.2 M glycine-HCl, at pH 3.2
+KCAT	Avena sativa	16	AMP	*
+KCAT	Aspergillus niger	17	myo-inositol hexakisphosphate	*wild type enzyme, in 0.2 M glycine-HCl, at pH 3.2
+KCAT	Avena sativa	17	pyridoxal phosphate	*
+KCAT	Aspergillus niger	23.8	myo-inositol hexakisphosphate	*wild type enzyme, in 0.2 M glycine-HCl, at pH 2.5
+KCAT	Bacillus sp. (in: Bacteria)	26.6	myo-inositol hexakisphosphate	*pH 7.0
+KCAT	Bacillus amyloliquefaciens	27	phytate	*mutant enzyme Y159H
+KCAT	Avena sativa	35	fructose 6-phosphate	*
+KCAT	Aspergillus niger	40.67	myo-inositol hexakisphosphate	*mutant enzyme E272Q, in 0.2 M glycine-HCl, at pH 2.5
+KCAT	Aspergillus niger	43.97	myo-inositol hexakisphosphate	*wild type enzyme, in 0.2 M glycine-HCl buffer at pH 3.5 and 37&deg;C
+KCAT	Aspergillus niger	44.83	myo-inositol hexakisphosphate	*mutant enzyme E228K, in 0.2 M citrate buffer at pH 5.5 and 37&deg;C
+KCAT	Aspergillus fumigatus	46	myo-inositol hexakisphosphate	*; pH 5.0, 58&deg;C
+KCAT	Rhizopus microsporus var. oligosporus	51	myo-inositol hexakisphosphate	*pH 5.5
+KCAT	Debaryomyces castellii	51.2	myo-inositol hexakisphosphate	*native protein
+KCAT	Debaryomyces castellii	59.2	myo-inositol hexakisphosphate	*recombinant protein
+KCAT	Avena sativa	70	glucose 6-phosphate	*
+KCAT	Aspergillus niger	80.74	myo-inositol hexakisphosphate	*mutant enzyme E228K, in 0.2 M glycine-HCl buffer at pH 3.5 and 37&deg;C
+KCAT	Aspergillus niger	88.83	myo-inositol hexakisphosphate	*wild type enzyme, in 0.2 M glycine-HCl, at pH 2.5
+KCAT	Avena sativa	102	Glycerol 2-phosphate	*
+KCAT	Bacillus amyloliquefaciens	117	phytate	*mutant enzyme D55A
+KCAT	Aspergillus niger	123.1	myo-inositol hexakisphosphate	*wild type enzyme, in 0.2 M citrate buffer at pH 5.5 and 37&deg;C
+KCAT	Avena sativa	210	fructose 1,6-diphosphate	*
+KCAT	Oryza sativa Japonica Group	231	myo-inositol-1,2,3,4,5,6-hexakisphosphate	*recombinant isozyme b, pH 5.0, 36&deg;C
+KCAT	Aspergillus japonicus	231	myo-inositol hexakisphosphate	*phytic acid sodium salt
+KCAT	Burkholderia sp. a13(2014)	236.2	myo-inositol hexakisphosphate	*pH 4.5, 50&deg;C
+KCAT	Aspergillus niger	253.5	myo-inositol hexakisphosphate	*phytic acid dipotassium salt
+KCAT	Aspergillus japonicus	279.3	myo-inositol hexakisphosphate	*phytic acid dipotassium salt
+KCAT	Aspergillus niger	281	myo-inositol hexakisphosphate	*phytic acid sodium salt
+KCAT	Aspergillus ficuum	300	myo-inositol hexakisphosphate	*pH 5.0, 58&deg;C, recombinant enzyme
+KCAT	Avena sativa	305	1-naphthyl phosphate	*
+KCAT	Aspergillus ficuum	348	myo-inositol hexakisphosphate	*; pH 5.0, 58&deg;C
+KCAT	Aspergillus ficuum	348	myo-inositol hexakisphosphate	*pH 5.0, 58&deg;C, native enzyme
+KCAT	Avena sativa	356	myo-inositol hexakisphosphate	*
+KCAT	Secale cereale	358	myo-inositol hexakisphosphate	*
+KCAT	Avena sativa	360	2-naphthyl phosphate	*
+KCAT	Avena sativa	375	p-nitrophenyl phosphate	*
+KCAT	Avena sativa	388	GTP	*
+KCAT	Aspergillus niger	389	myo-inositol hexakisphosphate	*pH 4.0, no salt
+KCAT	Avena sativa	450	ADP	*
+KCAT	Escherichia coli	490	p-nitrophenyl phosphate	*
+KCAT	Avena sativa	645	ATP	*
+KCAT	Secale cereale	655	myo-inositol hexakisphosphate	*in 0.1 M sodium acetate buffer, pH 6.0, at 37&deg;C
+KCAT	Shigella sp. CD2	720	myo-inositol hexakisphosphate	*pH 5.5, 37&deg;C, recombinant glycosylated enzyme expressed from Pichia pastoris
+KCAT	Aspergillus niger	745	myo-inositol hexakisphosphate	*pH 5.0, no salt
+KCAT	Avena sativa	943	diphosphate	*
+KCAT	Aspergillus niger	1037	myo-inositol hexakisphosphate	*pH 4.0, 0.5 M NaCl
+KCAT	Escherichia coli	1060	myo-inositol hexakisphosphate	*pH 2.5, 0.5 M NaCl
+KCAT	Escherichia coli	1167	myo-inositol hexakisphosphate	*pH 2.5, no salt
+KCAT	Aspergillus niger	1305	myo-inositol hexakisphosphate	*pH 5.5, 0.5 M NaCl
+KCAT	Enterobacter sp. ACSS	1640	myo-inositol hexakisphosphate	*pH 2.5, 60&deg;C
+KCAT	Escherichia coli	1857	myo-inositol hexakisphosphate	*pH 6.0, no salt
+KCAT	Peniophora lycii	2200	myo-inositol hexakisphosphate	*
+KCAT	Shigella sp. CD2	2230	myo-inositol hexakisphosphate	*pH 5.5, 37&deg;C, recombinant nonglycosylated enzyme expressed from Escherichia coli
+KCAT	Yersinia pestis	2283	myo-inositol hexakisphosphate	*
+KCAT	Yersinia rohdei	2531	myo-inositol hexakisphosphate	*
+KCAT	Bacillus amyloliquefaciens	5530	phytate	*mutant enzyme E227A
+KCAT	Bacillus amyloliquefaciens	5532	phytate	*mutant enzyme E227A
+KCAT	Escherichia coli	6210	myo-inositol hexakisphosphate	*
+KCAT	Escherichia coli	6931	myo-inositol hexakisphosphate	*in 0.1 M sodium acetate buffer, pH 4.5, at 37&deg;C
+KCAT	Bacillus amyloliquefaciens	11800	phytate	*mutant enzyme R122K
+KCAT	Bacillus amyloliquefaciens	11810	phytate	*mutant enzyme R122K
+KCAT	Bacillus amyloliquefaciens	12400	phytate	*mutant enzyme D258A
+KCAT	Bacillus amyloliquefaciens	12430	phytate	*mutant enzyme D258A
+KCAT	Bacillus amyloliquefaciens	29060	phytate	*mutant enzyme R122E
+KCAT	Bacillus amyloliquefaciens	29100	phytate	*mutant enzyme R122E
+KCAT	Bacillus amyloliquefaciens	59550	phytate	*wild-type enzyme
+KCAT	Bacillus amyloliquefaciens	59600	phytate	*wild-type enzyme
+KCAT	Aspergillus niger	300000	myo-inositol hexakisphosphate	*pH 2.5, 55&deg;C. The enzyme may be a 3-phytase, EC 3.1.3.8, or a 6-phytase, EC 3.1.3.26. The product of the hydrolysis of myo-inositol hexakisphosphate i.e. myo-inositol 1,2,3,4,5-pentakisphosphate or myo-inositol 1,3,4,5,6-pentakisphosphate has not been identified
+KCAT	Aspergillus fumigatus	357500	4-nitrophenyl phosphate	*pH 2.5
+KCAT	Aspergillus fumigatus	358000	4-nitrophenyl phosphate	*pH 2.5
+KCAT	Aspergillus fumigatus	411700	myo-inositol hexakisphosphate	*pH 5.5
+KCAT	Aspergillus fumigatus	412000	myo-inositol hexakisphosphate	*pH 5.5

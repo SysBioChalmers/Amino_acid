@@ -1,0 +1,1 @@
+ecNumber*3.7.1.21#turnoverNumber*-999#turnoverNumberMaximum*#substrate*6-oxocyclohex-1-ene-1-carbonyl-CoA#commentary*0.9/s per subunit#organism*Thauera aromatica#ligandStructureId*15041#literature*724904#

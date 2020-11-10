@@ -1,0 +1,5 @@
+KCAT	Rhodotorula mucilaginosa	2.69	3-quinuclidinone	*pH 7.0, 30&deg;C, mutant enzyme I167V
+KCAT	Rhodotorula mucilaginosa	5.62	3-quinuclidinone	*pH 7.0, 30&deg;C, mutant enzyme N173A
+KCAT	Rhodotorula mucilaginosa	9.64	3-quinuclidinone	*pH 7.0, 30&deg;C, mutant enzyme S168A
+KCAT	Rhodotorula mucilaginosa	9.79	3-quinuclidinone	*pH 7.0, 30&deg;C, mutant enzyme Q178A
+KCAT	Rhodotorula mucilaginosa	15.1	3-quinuclidinone	*pH 7.0, 30&deg;C, wild-type enzyme

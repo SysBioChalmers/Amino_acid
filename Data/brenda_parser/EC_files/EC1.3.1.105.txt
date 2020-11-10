@@ -1,0 +1,6 @@
+KCAT	Solanum lycopersicum	0.39	(2E)-ethylidene-4-hydroxy-5-methyl-3(2H)-furanone	*0.1 M Na2HPO4/NaH2PO4, pH 7, 30&Acirc;&deg;C, cofactor NADH
+KCAT	Fragaria x ananassa	1.94	(2E)-ethylidene-4-hydroxy-5-methyl-3(2H)-furanone	*0.1 M Na2HPO4/NaH2PO4, pH 7, 30&Acirc;&deg;C, cofactor NADH
+KCAT	Solanum lycopersicum	0.34	(2E)-4-hydroxy-5-methyl-2-propylidene-3(2H)-furanone	*0.1 M Na2HPO4/NaH2PO4, pH 7, 30&Acirc;&deg;C, cofactor NADH
+KCAT	Fragaria x ananassa	2.69	(2E)-4-hydroxy-5-methyl-2-propylidene-3(2H)-furanone	*0.1 M Na2HPO4/NaH2PO4, pH 7, 30&Acirc;&deg;C, cofactor NADH
+KCAT	Solanum lycopersicum	0.15	(2E)-2-butylidene-4-hydroxy-5-methyl-3(2H)-furanone	*0.1 M Na2HPO4/NaH2PO4, pH 7, 30&Acirc;&deg;C, cofactor NADH
+KCAT	Fragaria x ananassa	1.43	(2E)-2-butylidene-4-hydroxy-5-methyl-3(2H)-furanone	*0.1 M Na2HPO4/NaH2PO4, pH 7, 30&Acirc;&deg;C, cofactor NADH

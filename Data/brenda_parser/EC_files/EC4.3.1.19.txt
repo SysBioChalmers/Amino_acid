@@ -1,0 +1,21 @@
+KCAT	Entamoeba histolytica	3	L-Ser	*pH 9.0, 37&deg;C
+KCAT	Entamoeba histolytica	5.2	L-Thr	*pH 9.0, 37&deg;C
+KCAT	Mycolicibacterium smegmatis	5.69	L-allo-threonine	*pH 8.0, 30&deg;C
+KCAT	Mycolicibacterium smegmatis	9.42	L-threonine	*pH 8.0, 30&deg;C
+KCAT	Mycolicibacterium smegmatis	27.15	beta-chloro-L-alanine	*pH 8.0, 30&deg;C
+KCAT	Mycolicibacterium smegmatis	32.59	L-serine	*pH 8.0, 30&deg;C
+KCAT	Rattus norvegicus	243	L-Ser	*
+KCAT	Rattus norvegicus	287	L-Thr	*
+KCAT	Escherichia coli	1230	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme F510L
+KCAT	Escherichia coli	1256	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme T344A
+KCAT	Escherichia coli	1261	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme A14T
+KCAT	Escherichia coli	1273	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme R449C
+KCAT	Escherichia coli	1283	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme G323D/F510L
+KCAT	Escherichia coli	1298	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme G323D/F510L/R449C
+KCAT	Escherichia coli	1301	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme G323D/F510L/T344A/R449C
+KCAT	Escherichia coli	1309	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme G323D/F510L/T344A
+KCAT	Escherichia coli	1312	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme G323D/R449C
+KCAT	Escherichia coli	1369	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme A14T/G323D
+KCAT	Escherichia coli	1394	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme G323D/T344A
+KCAT	Escherichia coli	1398	L-threonine	*pH 7.5, 30&deg;C, mutant enzyme G323D
+KCAT	Escherichia coli	1414	L-threonine	*pH 7.5, 30&deg;C, wild-type enzyme

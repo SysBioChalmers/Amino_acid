@@ -1,0 +1,97 @@
+KCAT	Thermoanaerobacterium thermosulfurigenes	558	maltose	*pH 6.0, 60&Acirc;&deg;C, mutant S77P
+KCAT	Thermoanaerobacterium thermosulfurigenes	644	maltose	*pH 6.0, 60&Acirc;&deg;C, mutant W239R
+KCAT	Thermoanaerobacterium thermosulfurigenes	1082	maltose	*pH 6.0, 60&Acirc;&deg;C, mutant W239L
+KCAT	Thermoanaerobacterium thermosulfurigenes	1244	maltose	*pH 6.0, 60&Acirc;&deg;C, wild-type enzyme
+KCAT	Bacillus sp. (in: Bacteria)	0.00267	starch	*strain 1011, beta-cyclodextrin-forming activity, mutant F183L/F259L
+KCAT	Bacillus sp. (in: Bacteria)	0.035	starch	*coupling activity, mutant F283L
+KCAT	Bacillus sp. (in: Bacteria)	0.122	starch	*strain 1011, beta-cyclodextrin-forming activity, mutant F183L
+KCAT	Bacillus sp. (in: Bacteria)	0.137	starch	*strain 1011, beta-cyclodextrin-forming activity, mutant Y195L
+KCAT	Bacillus sp. (in: Bacteria)	0.148	starch	*strain 1011, beta-cyclodextrin-forming activity, mutant F259L
+KCAT	Bacillus sp. (in: Bacteria)	0.178	starch	*coupling activity, mutant F259L
+KCAT	Bacillus sp. (in: Bacteria)	0.2	starch	*strain 1011, beta-cyclodextrin-forming activity, mutant F283L
+KCAT	Bacillus sp. (in: Bacteria)	0.315	starch	*coupling activity, mutant Y195L
+KCAT	Paenibacillus macerans	0.442	starch	*wild-type
+KCAT	Bacillus sp. (in: Bacteria)	0.482	starch	*strain 1011, beta-cyclodextrin-forming activity, mutant Y195F
+KCAT	Bacillus sp. (in: Bacteria)	0.487	starch	*coupling activity, mutant Y195F
+KCAT	Bacillus sp. (in: Bacteria)	0.508	starch	*strain 1011, beta-cyclodextrin-forming activity, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	0.818	starch	*coupling activity, mutant F183L
+KCAT	Thermococcus sp.	1	starch	*unheated CGTase
+KCAT	Bacillus sp. (in: Bacteria)	1.13	starch	*coupling activity, wild-type
+KCAT	Thermococcus sp.	1.33	starch	*heated CGTase
+KCAT	Paenibacillus macerans	1.51	starch	*mutant E344D
+KCAT	Paenibacillus macerans	1.66	starch	*authentic CGTase
+KCAT	Bacillus firmus	2.42	starch	*
+KCAT	Bacillus circulans	9	starch	*pH 6.0, 60&Acirc;&deg;C, beta-cyclization activity, mutant A230V
+KCAT	Bacillus circulans	26	starch	*pH 6.0, 60&Acirc;&deg;C, beta-cyclization activity, mutant K232E
+KCAT	Bacillus circulans	35	starch	*pH 6.0, 60&Acirc;&deg;C, beta-cyclization activity, mutant F283L
+KCAT	Bacillus circulans	48	starch	*pH 6.0, 60&Acirc;&deg;C, beta-cyclization activity, mutant A230V/H140Q
+KCAT	Bacillus circulans	79	starch	*pH 6.0, 60&Acirc;&deg;C, beta-cyclization activity, mutant H140Q
+KCAT	Bacillus circulans	329	starch	*pH 6.0, 60&Acirc;&deg;C, beta-cyclization activity, wild-type enzyme
+KCAT	Bacillus sp. (in: Bacteria)	0.0095	beta-cyclodextrin	*hydrolyzing activity, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	0.014	beta-cyclodextrin	*hydrolyzing activity, mutant Y195L
+KCAT	Bacillus sp. (in: Bacteria)	0.00183	alpha-cyclodextrin	*hydrolyzing activity, mutant Y195L
+KCAT	Bacillus sp. (in: Bacteria)	0.00383	alpha-cyclodextrin	*hydrolyzing activity, mutant F283L
+KCAT	Bacillus sp. (in: Bacteria)	0.012	alpha-cyclodextrin	*hydrolyzing activity, mutant F259L
+KCAT	Bacillus sp. (in: Bacteria)	0.0183	alpha-cyclodextrin	*hydrolyzing activity, mutant F183L
+KCAT	Bacillus sp. (in: Bacteria)	0.0255	alpha-cyclodextrin	*hydrolyzing activity, mutant Y195F
+KCAT	Bacillus sp. (in: Bacteria)	0.0442	alpha-cyclodextrin	*hydrolyzing activity, wild-type
+KCAT	Paenibacillus macerans	0.000086	L-ascorbic acid	*mutant enzyme Y195S, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.000097	L-ascorbic acid	*wild type enzyme, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.0001	L-ascorbic acid	*mutant enzyme Q265K, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.000105	L-ascorbic acid	*mutant enzyme Y260R, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.000106	L-ascorbic acid	*mutant enzyme Q265K/Y195S, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.00011	L-ascorbic acid	*mutant enzyme Y260R/Q265K, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.000114	L-ascorbic acid	*mutant enzyme Y260R/Q265K/Y195S, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.000133	L-ascorbic acid	*mutant enzyme Y260R/Y195S, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.004	maltodextrin	*mutant K47W, pH 5.5, 37&Acirc;&deg;C, average molecular weight of 2150.68 Da for maltodextrin; wild-type, pH 5.5, 37&Acirc;&deg;C, average molecular weight of 2150.68 Da for maltodextrin
+KCAT	Paenibacillus macerans	0.005	maltodextrin	*mutant K47F, pH 5.5, 37&Acirc;&deg;C, average molecular weight of 2150.68 Da for maltodextrin; mutant K47V, pH 5.5, 37&Acirc;&deg;C, average molecular weight of 2150.68 Da for maltodextrin
+KCAT	Paenibacillus macerans	0.0059	maltodextrin	*wild type enzyme, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.006	maltodextrin	*mutant K47L, pH 5.5, 37&Acirc;&deg;C, average molecular weight of 2150.68 Da for maltodextrin
+KCAT	Paenibacillus macerans	0.0067	maltodextrin	*mutant enzyme Y195S, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.0084	maltodextrin	*mutant enzyme Q265K, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.009	maltodextrin	*mutant enzyme Y260R, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.0096	maltodextrin	*mutant enzyme Q265K/Y195S, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.0098	maltodextrin	*mutant enzyme Y260R/Y195S, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.0104	maltodextrin	*mutant enzyme Y260R/Q265K, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Paenibacillus macerans	0.0124	maltodextrin	*mutant enzyme Y260R/Q265K/Y195S, at pH 5.5 and 37&Acirc;&deg;C
+KCAT	Bacillus circulans	371	maltodextrin	*mutant enzyme D577G, at pH 6.5 and 50&Acirc;&deg;C
+KCAT	Bacillus circulans	403	maltodextrin	*wild type enzyme, at pH 6.5 and 50&Acirc;&deg;C
+KCAT	Bacillus circulans	406	maltodextrin	*mutant enzyme D577A, at pH 6.5 and 50&Acirc;&deg;C
+KCAT	Bacillus circulans	467	maltodextrin	*mutant enzyme D577V, at pH 6.5 and 50&Acirc;&deg;C
+KCAT	Bacillus circulans	513	maltodextrin	*mutant enzyme D577I, at pH 6.5 and 50&Acirc;&deg;C
+KCAT	Bacillus circulans	583	maltodextrin	*mutant enzyme D577L, at pH 6.5 and 50&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	0.122	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*mutant strain F283L, acceptor glucose, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	0.137	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*strain 1011, acceptor maltose, mutant F283L
+KCAT	Bacillus sp. (in: Bacteria)	0.345	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*mutant strain F259L, acceptor glucose, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	0.423	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*strain 1011, acceptor maltose, mutant F259L
+KCAT	Bacillus sp. (in: Bacteria)	1.97	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*mutant strain Y195L, acceptor glucose, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	2.2	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*strain 1011, acceptor maltose, mutant Y195L
+KCAT	Bacillus sp. (in: Bacteria)	2.32	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*mutant strain Y195F, acceptor glucose, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	2.63	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*strain 1011, acceptor maltose, mutant F183L/F259L
+KCAT	Bacillus sp. (in: Bacteria)	3.2	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*strain 1011, acceptor maltose, mutant Y195F
+KCAT	Bacillus sp. (in: Bacteria)	3.38	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*strain 1011, acceptor maltose, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	3.8	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*mutant strain F183L/F259L, acceptor glucose, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	4.07	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*strain 1011, acceptor glucose, wild-type
+KCAT	Bacillus sp. (in: Bacteria)	5.55	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*strain 1011, acceptor maltose, mutant F183L
+KCAT	Bacillus sp. (in: Bacteria)	15.5	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	*mutant strain F183L, acceptor glucose, wild-type
+KCAT	Thermoanaerobacterium thermosulfurigenes	558	4,6-O-ethylidene-4-nitrophenyl alpha-D-maltoheptaoside	*pH 6.0, 60&Acirc;&deg;C, mutant S77P
+KCAT	Thermoanaerobacterium thermosulfurigenes	644	4,6-O-ethylidene-4-nitrophenyl alpha-D-maltoheptaoside	*pH 6.0, 60&Acirc;&deg;C, mutant W239R
+KCAT	Thermoanaerobacterium thermosulfurigenes	1082	4,6-O-ethylidene-4-nitrophenyl alpha-D-maltoheptaoside	*pH 6.0, 60&Acirc;&deg;C, mutant W239L
+KCAT	Thermoanaerobacterium thermosulfurigenes	1244	4,6-O-ethylidene-4-nitrophenyl alpha-D-maltoheptaoside	*pH 6.0, 60&Acirc;&deg;C, wild-type enzyme
+KCAT	Bacillus circulans	1.66	p-nitrophenyl-(alpha-1,4-glucopyranosyl)2-D-glucose	*E 192
+KCAT	Bacillus circulans	0.833	p-nitrophenyl-(alpha-1,4-glucopyranosyl)3-D-glucose	*E 192
+KCAT	Bacillus circulans	0.833	p-nitrophenyl-(alpha-1,4-glucopyranosyl)4-D-glucose	*E 192
+KCAT	Bacillus circulans	0.833	p-nitrophenyl-(alpha-1,4-glucopyranosyl)5-D-glucose	*E 192
+KCAT	Bacillus circulans	0.833	p-nitrophenyl-(alpha-1,4-glucopyranosyl)6-D-glucose	*E 192
+KCAT	Bacillus circulans	0.25	p-nitrophenyl-(alpha-1,4-glucopyranosyl)7-D-glucose	*E 192
+KCAT	Paenibacillus macerans	-999	more	*
+KCAT	Bacillus cereus	1.86	soluble starch	*native enzyme, at pH 6.5 and 60&Acirc;&deg;C
+KCAT	Bacillus cereus	2.32	soluble starch	*dextran-conjugated enzyme, at pH 6.5 and 60&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	2.6	soluble starch	*mutant NS182G, pH 6.0, 60&Acirc;&deg;C, calculated as production of beta-cyclodextrin; mutant S182E, pH 6.0, 60&Acirc;&deg;C, calculated as production of beta-cyclodextrin
+KCAT	Bacillus sp. (in: Bacteria)	3.13	soluble starch	*wild-type, pH 6.0, 60&Acirc;&deg;C, calculated as production of beta-cyclodextrin
+KCAT	Bacillus sp. (in: Bacteria)	3.5	soluble starch	*mutant N28R, pH 6.0, 60&Acirc;&deg;C, calculated as production of beta-cyclodextrin
+KCAT	Bacillus circulans	127.5	soluble potato starch	*mutant Q179L, pH 6.4, 56&Acirc;&deg;C, calculated as production of beta-cyclodextrin
+KCAT	Bacillus circulans	246.2	soluble potato starch	*wild-type, pH 6.4, 56&Acirc;&deg;C, calculated as production of beta-cyclodextrin
+KCAT	Bacillus circulans	247.2	soluble potato starch	*mutant Q179G, pH 6.4, 56&Acirc;&deg;C, calculated as production of beta-cyclodextrin
+KCAT	Bacillus circulans	803	soluble potato starch	*pH 6.4, 55&Acirc;&deg;C, formation of beta-cyclodextrin
+KCAT	Bacillus circulans	1612	cassava starch	*pH 6.4, 55&Acirc;&deg;C, formation of beta-cyclodextrin

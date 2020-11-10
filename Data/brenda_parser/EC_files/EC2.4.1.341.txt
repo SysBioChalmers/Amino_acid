@@ -1,0 +1,3 @@
+KCAT	Escherichia coli	0.2	GDP-L-fucose	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.147	GDP-beta-L-colitose	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.087	beta-D-galactopyranosyl-(1-&gt;3)-N-acetyl-D-glucosamine	*pH 8.0, 37&Acirc;&deg;C

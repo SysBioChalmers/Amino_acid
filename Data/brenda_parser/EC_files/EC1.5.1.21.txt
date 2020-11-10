@@ -1,0 +1,6 @@
+KCAT	Pseudomonas aeruginosa	2.25	L-pipecolate	*purified recombinant His-tagged enzyme, with NADPH, pH 7.0, 30&deg;C
+KCAT	Pseudomonas aeruginosa	3.42	L-proline	*purified recombinant His-tagged enzyme, with NADPH, pH 7.0, 30&deg;C
+KCAT	Pseudomonas aeruginosa	4.53	trans-3-hydroxy-L-proline	*purified recombinant His-tagged enzyme, with NADPH, pH 7.0, 30&deg;C
+KCAT	Pseudomonas aeruginosa	14.5	1-pyrroline-(4R)-hydroxy-2-carboxylate	*purified recombinant His-tagged enzyme, with NADPH, pH 7.0, 30&deg;C
+KCAT	Pseudomonas aeruginosa	35.3	1-piperideine-2-carboxylate	*purified recombinant His-tagged enzyme, with NADPH, pH 7.0, 30&deg;C
+KCAT	Pseudomonas aeruginosa	41.67	1-pyrroline-2-carboxylate	*purified recombinant His-tagged enzyme, with NADPH, pH 7.0, 30&deg;C

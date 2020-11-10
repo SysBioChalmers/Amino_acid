@@ -1,0 +1,20 @@
+KCAT	Mus musculus	6.99	EGF receptor peptide	*pH 7.0, 25&Acirc;&deg;C, monophosphorylated p38alpha
+KCAT	Mus musculus	31.6	EGF receptor peptide	*pH 7.0, 25&Acirc;&deg;C, biphosphorylated p38alpha
+KCAT	synthetic construct	0.97	MEK2ERK	*p38alpha kinase
+KCAT	Homo sapiens	0.98	protein ATF2	*pH 7.6, 27&Acirc;&deg;C, purified, recombinant detagged, activated p38 MAPKalpha
+KCAT	synthetic construct	2	MEK1ERK	*
+KCAT	synthetic construct	2.167	SCRAMMMEK2	*
+KCAT	synthetic construct	2.3	ELKERK	*
+KCAT	synthetic construct	2.3	MEK2ERK	*
+KCAT	synthetic construct	2.67	ERKSTE7	*
+KCAT	synthetic construct	2.83	ERKMEK1	*
+KCAT	synthetic construct	2.83	STE7ERK	*
+KCAT	synthetic construct	2.94	SCRAMMMEK2	*
+KCAT	synthetic construct	3	ERKMEK2	*
+KCAT	synthetic construct	3.13	ERKSub	*
+KCAT	Mus musculus	3.8	ATF2DELTA109	*pH 7.0, 25&Acirc;&deg;C, monophosphorylated p38alpha
+KCAT	synthetic construct	4.167	ERKSub	*
+KCAT	Mus musculus	4.7	ATF2DELTA109	*pH 7.0, 25&Acirc;&deg;C, biphosphorylated p38alpha
+KCAT	synthetic construct	9.5	ERKSub	*p38alpha kinase
+KCAT	synthetic construct	9.5	MEK1ERK	*p38alpha kinase
+KCAT	synthetic construct	16.67	MEK2ERK	*p38alpha kinase

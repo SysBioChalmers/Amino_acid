@@ -1,0 +1,10 @@
+KCAT	Photorhabdus luminescens	-999	more	*tetradecanal + FMNH + O2 (possibly) turnover rate determined by measuring the half-time for decay of luminescence between 70% and 35% of the maximum intensity, values depending on chain-length of aldehyde
+KCAT	Vibrio harveyi	-999	more	*
+KCAT	Aliivibrio fischeri	-999	more	*slow turnover rate
+KCAT	Photobacterium leiognathi	-999	more	*slow turnover rate
+KCAT	Vibrio harveyi	-999	more	*slow turnover rate
+KCAT	Vibrio harveyi	-999	more	*single turnover, luminescence
+KCAT	Photorhabdus luminescens	0.000015	FMNH	*myristic aldehyde as second substrate
+KCAT	Photorhabdus luminescens	0.000025	FMNH	*dodecanoic aldehyde as second substrate
+KCAT	Photorhabdus luminescens	0.0000317	FMNH	*decanoic aldehyde as second substrate
+KCAT	Vibrio harveyi	0.1	FMNH2	*purified enzyme

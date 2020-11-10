@@ -1,0 +1,1 @@
+ecNumber*2.5.1.76#turnoverNumber*0.18#turnoverNumberMaximum*#substrate*L-phosphoserine#commentary*pH 7.0, 37&deg;C#organism*Methanosarcina acetivorans#ligandStructureId*2994#literature*696127#

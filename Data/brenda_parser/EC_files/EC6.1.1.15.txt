@@ -1,0 +1,83 @@
+KCAT	Escherichia coli	-999	more	*the rate of AMP formation of K279A ProRS in the presence of alanine is 0.034 s-1, which is at least 20 times faster than the rate of nonenzymatic hydrolysis
+KCAT	Saccharomyces cerevisiae	0.003	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Escherichia coli	0.0091	tRNAPro	*pH 7.0, 37&deg;C, recombinant mutant EcDELTAINS Gly12Ser4, aminoacylation
+KCAT	Deinococcus radiodurans	0.014	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	0.02	L-cysteine	*aminoacylation reaction, recombinant wild-type enzyme, pH 7.0, 70&deg;C
+KCAT	Methanothermobacter thermautotrophicus	0.02	L-cysteine	*recombinant enzyme, pH 7.2, 60&deg;C
+KCAT	Escherichia coli	0.022	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Escherichia coli	0.024	L-proline	*pH 7.5, 37&deg;C, mutant K279A
+KCAT	Rhodopseudomonas palustris	0.025	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Thermus thermophilus	0.04	L-cysteine	*recombinant enzyme, pH 7.2, 60&deg;C
+KCAT	Escherichia coli	0.056	cis-4-hydroxyproline	*pH 7.0, 37&deg;C, recombinant mutant EcDELTAINS Gly12Ser4, amino acid activation
+KCAT	Novosphingobium aromaticivorans	0.065	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Cytophaga hutchinsonii	0.083	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Aquifex aeolicus	0.09	L-cysteine	*recombinant enzyme, pH 7.2, 60&deg;C
+KCAT	Methanocaldococcus jannaschii	0.09	L-proline	*aminoacylation reaction, recombinant wild-type enzyme, pH 7.0, 70&deg;C
+KCAT	Homo sapiens	0.11	L-alanine	*37&deg;C
+KCAT	Magnetospirillum magnetotacticum	0.11	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Borreliella burgdorferi	0.12	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Escherichia coli	0.131	L-proline	*mutant enzyme F415A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Methanocaldococcus jannaschii	0.19	L-cysteine	*recombinant enzyme, pH 7.2, 60&deg;C
+KCAT	Escherichia coli	0.23	L-proline	*pH 7.5, 37&deg;C, mutant K279A
+KCAT	Escherichia coli	0.239	tRNAPro	*pH 7.0, 37&deg;C, recombinant wild-type enzyme, aminoacylation
+KCAT	Acetoanaerobium sticklandii	0.39	L-cysteine	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	0.4	tRNAPro	*pH 7.0, 55&deg;C, C-terminal deletion mutant
+KCAT	Methanocaldococcus jannaschii	0.58	tRNAPro	*pH 7.0, 37&deg;C
+KCAT	Escherichia coli	0.61	L-proline	*mutant enzyme N305A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Methanococcus maripaludis	0.8	L-cysteine	*pH 7.0, 37&deg;C
+KCAT	Methanococcus maripaludis	0.9	L-proline	*pH 7.0, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	1.6	tRNAPro	*pH 7.0, 55&deg;C, wild-type
+KCAT	Escherichia coli	1.7	L-alanine	*37&deg;C
+KCAT	Escherichia coli	1.7	L-alanine	*pH 7.0, 37&deg;C, recombinant wild-type enzyme, amino acid activation
+KCAT	Methanothermobacter thermautotrophicus	1.8	tRNAPro	*50&deg;C, pH 7.5
+KCAT	Deinococcus radiodurans	1.8	tRNAPro	*steady-state
+KCAT	Escherichia coli	2.18	L-alanine	*mutant enzyme G217A, at pH 7.0 and 22&deg;C
+KCAT	Methanothermobacter thermautotrophicus	2.9	tRNAPro	*presence of bovine serum albumine, 50&deg;C, pH 7.5
+KCAT	Escherichia coli	3.26	L-alanine	*mutant enzyme E218A, at pH 7.0 and 22&deg;C
+KCAT	Escherichia coli	3.37	L-proline	*mutant enzyme G217A, at pH 7.0 and 22&deg;C
+KCAT	Methanothermobacter thermautotrophicus	3.4	L-proline	*recombinant enzyme, pH 7.2, 60&deg;C
+KCAT	Escherichia coli	3.52	L-alanine	*wild type enzyme, at pH 7.0 and 22&deg;C
+KCAT	Escherichia coli	3.7	ATP	*mutant C443S, ATP-diphosphate exchange
+KCAT	Escherichia coli	4.4	L-proline	*mutant enzyme E218A, at pH 7.0 and 22&deg;C
+KCAT	Escherichia coli	4.4	L-proline	*mutant enzyme E218A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Escherichia coli	4.6	L-proline	*mutant enzyme E303D, at pH 7.5 and 22&deg;C
+KCAT	Escherichia coli	5.1	L-proline	*mutant enzyme E303K, at pH 7.5 and 22&deg;C
+KCAT	Methanothermobacter thermautotrophicus	5.1	tRNAPro	*presence of leucyl-tRNA synthetase, 50&deg;C, pH 7.5
+KCAT	Escherichia coli	5.2	L-proline	*mutant enzyme E303A, at pH 7.5 and 22&deg;C
+KCAT	Saccharomyces cerevisiae	5.6	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Escherichia coli	5.7	L-proline	*mutant enzyme K297E, at pH 7.5 and 22&deg;C
+KCAT	Escherichia coli	5.9	L-proline	*mutant enzyme K297E/E303K, at pH 7.5 and 22&deg;C
+KCAT	Escherichia coli	6.7	L-proline	*mutant enzyme E234A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Methanothermobacter thermautotrophicus	6.9	tRNAPro	*presence of bovine serum albumine and leucyl-tRNA synthetase, 50&deg;C, pH 7.5
+KCAT	Escherichia coli	6.98	L-proline	*mutant enzyme D198A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Escherichia coli	7.3	L-proline	*mutant enzyme H302A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Deinococcus radiodurans	9.8	tRNAPro	*single turnover overall aminoacylation
+KCAT	Escherichia coli	10.7	L-proline	*mutant enzyme H302A/G412A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Deinococcus radiodurans	10.8	tRNAPro	*single turnover of the transfer step
+KCAT	Escherichia coli	12	L-proline	*pH 7.0, 37&deg;C, recombinant mutant EcDELTAINS Gly12Ser4, amino acid activation
+KCAT	Escherichia coli	12.6	L-proline	*wild type enzyme, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Escherichia coli	12.6	L-proline	*wild type enzyme, at pH 7.5 and 22&deg;C
+KCAT	Escherichia coli	12.7	L-proline	*wild type enzyme, at pH 7.0 and 22&deg;C
+KCAT	Escherichia coli	12.8	L-proline	*mutant enzyme G412A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37&deg;C
+KCAT	Arabidopsis thaliana	13.2	L-proline	*isozyme ProRS-Org, at pH 7.2 and 30&deg;C
+KCAT	Escherichia coli	14	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Rhodopseudomonas palustris	14	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Escherichia coli	15	ATP	*mutant C443G, ATP-diphosphate exchange
+KCAT	Aquifex aeolicus	15	L-proline	*recombinant enzyme, pH 7.2, 60&deg;C
+KCAT	Escherichia coli	15	trans-4-hydroxyproline	*pH 7.0, 37&deg;C, recombinant wild-type enzyme, amino acid activation
+KCAT	Cytophaga hutchinsonii	19	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Escherichia coli	21	cis-4-hydroxyproline	*pH 7.0, 37&deg;C, recombinant wild-type enzyme, amino acid activation
+KCAT	Novosphingobium aromaticivorans	26	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Escherichia coli	28	ATP	*mutant C443A, ATP-diphosphate exchange
+KCAT	Deinococcus radiodurans	32	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Borreliella burgdorferi	34	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Magnetospirillum magnetotacticum	35	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Thermus thermophilus	35	L-proline	*recombinant enzyme, pH 7.2, 60&deg;C
+KCAT	Arabidopsis thaliana	57.5	L-proline	*isozyme ProRS-Cyt, at pH 7.2 and 30&deg;C
+KCAT	Acetoanaerobium sticklandii	60	L-proline	*recombinant enzyme, pH 7.2, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	63	L-proline	*recombinant enzyme, pH 7.2, 60&deg;C
+KCAT	Escherichia coli	70	L-proline	*37&deg;C
+KCAT	Escherichia coli	70	L-proline	*pH 7.0, 37&deg;C, recombinant wild-type enzyme, amino acid activation
+KCAT	Homo sapiens	80	L-proline	*37&deg;C
+KCAT	Escherichia coli	81	ATP	*wild-type enzyme, ATP-diphosphate exchange
+KCAT	Methanocaldococcus jannaschii	210	L-proline	*60&deg;C, pH not specified in the publication, ATP-diphosphate exchange assay

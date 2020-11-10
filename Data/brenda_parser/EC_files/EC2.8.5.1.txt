@@ -1,0 +1,4 @@
+KCAT	Mycobacterium tuberculosis	0.457	thiosulfate	*mutant enzyme R243A, at pH 9.0 and 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.913	thiosulfate	*wild type enzyme, at pH 9.0 and 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.457	3-phospho-L-serine	*mutant enzyme R243A, with thiosulfate as cosubstrate, at pH 9.0 and 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.913	3-phospho-L-serine	*wild type enzyme, with thiosulfate as cosubstrate, at pH 9.0 and 22&Acirc;&deg;C

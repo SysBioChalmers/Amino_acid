@@ -1,0 +1,5 @@
+KCAT	Pyrococcus horikoshii	0.00018	(ribonucleotide)10-3'-phosphate	*pH 7.0, 70&deg;C, ligation reaction
+KCAT	Pyrococcus horikoshii	0.00055	(ribonucleotide)10-3'-phosphate	*pH 7.0, 70&deg;C, presence of archease, ligation reaction
+KCAT	Thermobifida fusca	0.0014	(ribonucleotide)20-3'-phosphate	*pH 7.4, 45&deg;C
+KCAT	Thermus thermophilus	0.0043	(ribonucleotide)20-3'-phosphate	*pH 7.4, 70&deg;C
+KCAT	Thermus thermophilus	0.0122	(ribonucleotide)20-3'-phosphate	*pH 7.4, 70&deg;C, presence of archease

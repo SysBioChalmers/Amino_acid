@@ -1,0 +1,1 @@
+ecNumber*2.9.1.1#turnoverNumber*0.0217#turnoverNumberMaximum*#substrate*Selenophosphate#commentary*#organism*Escherichia coli#ligandStructureId*4899#literature*22917#!ecNumber*2.9.1.1#turnoverNumber*0.000867#turnoverNumberMaximum*#substrate*thiophosphate#commentary*#organism*Escherichia coli#ligandStructureId*6027#literature*22917#

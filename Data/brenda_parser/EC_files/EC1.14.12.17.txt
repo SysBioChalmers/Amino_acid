@@ -1,0 +1,4 @@
+KCAT	Escherichia coli	50	NADH	*per heme at 37&deg;C
+KCAT	Escherichia coli	83	NADH	*per heme at 20&deg;C
+KCAT	Escherichia coli	94	NO	*per heme at 20&deg;C
+KCAT	Escherichia coli	670	NO	*per heme at 37&deg;C

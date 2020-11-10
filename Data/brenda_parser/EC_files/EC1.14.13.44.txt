@@ -1,0 +1,32 @@
+KCAT	Pseudomonas nitroreducens	11.2	NADPH	*reaction with 2,2'-dihydroxybiphenyl and O2
+KCAT	Pseudomonas nitroreducens	18.8	NADPH	*reaction with 2-hydroxybiphenyl and O2
+KCAT	Pseudomonas nitroreducens	0.14	NADH	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R242A
+KCAT	Pseudomonas nitroreducens	0.15	NADH	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R242E
+KCAT	Pseudomonas nitroreducens	0.24	NADH	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R242Q
+KCAT	Pseudomonas nitroreducens	1.34	NADH	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme G255F
+KCAT	Pseudomonas nitroreducens	3.16	NADH	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas nitroreducens	3.45	NADH	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme W225A
+KCAT	Pseudomonas nitroreducens	5.8	NADH	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme W225Y
+KCAT	Pseudomonas nitroreducens	9.8	NADH	*reaction with 2,2'-dihydroxybiphenyl and O2
+KCAT	Pseudomonas nitroreducens	16.2	NADH	*reaction with 2-hydroxybiphenyl and O2
+KCAT	Pseudomonas nitroreducens	16.2	O2	*reaction with 2-hydroxybiphenyl and NADH
+KCAT	Pseudomonas nitroreducens	0.95	guaiacol	*
+KCAT	Pseudomonas nitroreducens	0.005	indole	*wild-type enzyme
+KCAT	Pseudomonas nitroreducens	0.09	indole	*mutant enzyme HbpAind
+KCAT	Pseudomonas nitroreducens	0.15	2-Hydroxybiphenyl	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme R242E
+KCAT	Pseudomonas nitroreducens	0.46	2-Hydroxybiphenyl	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme W225A
+KCAT	Pseudomonas nitroreducens	0.71	2-Hydroxybiphenyl	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme G255F
+KCAT	Pseudomonas nitroreducens	1.4	2-Hydroxybiphenyl	*turnover rate refers to the enzyme monomer and not to the tetramer
+KCAT	Pseudomonas nitroreducens	2.26	2-Hydroxybiphenyl	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas nitroreducens	2.3	2-Hydroxybiphenyl	*mutant enzyme HbpAind
+KCAT	Pseudomonas nitroreducens	4.51	2-Hydroxybiphenyl	*pH 7.5, 30&Acirc;&deg;C, mutant enzyme W225Y
+KCAT	Pseudomonas nitroreducens	11.9	2-Hydroxybiphenyl	*wild-type enzyme
+KCAT	Pseudomonas nitroreducens	12.8	2-Hydroxybiphenyl	*reaction with NADPH and O2
+KCAT	Pseudomonas nitroreducens	14.9	2-Hydroxybiphenyl	*reaction with NADH and O2
+KCAT	Pseudomonas nitroreducens	15.6	2-Hydroxybiphenyl	*wild-type enzyme
+KCAT	Pseudomonas nitroreducens	9	2,2'-Dihydroxybiphenyl	*reaction with NADH and O2
+KCAT	Pseudomonas nitroreducens	9.4	2,2'-Dihydroxybiphenyl	*reaction with NADPH and O2
+KCAT	Pseudomonas nitroreducens	10.2	2-sec-Butylphenol	*reaction with NADPH and O2
+KCAT	Pseudomonas nitroreducens	14.5	2-sec-Butylphenol	*wild-type enzyme
+KCAT	Pseudomonas nitroreducens	15.8	2-sec-Butylphenol	*reaction with NADH and O2
+KCAT	Pseudomonas nitroreducens	-999	more	*turnover-numbers for mutant enzymes

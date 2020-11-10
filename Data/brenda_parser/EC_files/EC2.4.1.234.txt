@@ -1,0 +1,8 @@
+KCAT	Petunia x hybrida	50.9	UDP	*pH 6, 43&Acirc;&deg;C, cosubstrate kaempferol 3-O-galactoside, reverse reaction
+KCAT	Petunia x hybrida	89.6	UDP	*pH 6, 43&Acirc;&deg;C, cosubstrate quercetin 3-O-galactoside, reverse reaction
+KCAT	Petunia x hybrida	57.4	UDP-galactose	*pH 7.5, 43&Acirc;&deg;C, cosubstrate quercetin, forward reaction
+KCAT	Petunia x hybrida	61.2	UDP-galactose	*pH 7.5, 43&Acirc;&deg;C, cosubstrate kaempferol, forward reaction
+KCAT	Petunia x hybrida	59.8	quercetin	*pH 7.5, 43&Acirc;&deg;C, forward reaction
+KCAT	Petunia x hybrida	61.1	kaempferol	*pH 7.5, 43&Acirc;&deg;C, forward reaction
+KCAT	Petunia x hybrida	82.3	quercetin 3-O-galactoside	*pH 6, 43&Acirc;&deg;C, reverse reaction
+KCAT	Petunia x hybrida	59.9	kaempferol 3-O-galactoside	*pH 6, 43&Acirc;&deg;C, reverse reaction

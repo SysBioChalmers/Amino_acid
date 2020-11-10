@@ -1,0 +1,228 @@
+KCAT	Hyphopichia burtonii	-999	maltotetraose	*pH 5.6, 40&deg;C
+KCAT	Aspergillus oryzae	-999	more	*KM-values of wild-type and mutant enzymes
+KCAT	Bacillus subtilis	-999	more	*KM-values of wild-type and mutant enzymes
+KCAT	Geobacillus stearothermophilus	-999	more	*KM-values of wild-type and mutant enzymes
+KCAT	Homo sapiens	-999	more	*KM-values of wild-type and mutant enzymes
+KCAT	Hordeum vulgare	-999	more	*KM-values of wild-type and mutant enzymes
+KCAT	Saccharomycopsis fibuligera	-999	more	*KM-values of wild-type and mutant enzymes
+KCAT	Hordeum vulgare	-999	more	*
+KCAT	Bacillus licheniformis	-999	more	*
+KCAT	Bacillus amyloliquefaciens	-999	more	*503 per s for soluble starch, variant enzyme M77; 586 per s for soluble starch, wild-type enzyme; 656 per s for soluble starch, variant enzyme M111; 722 per s for soluble starch, variant enzyme 21B
+KCAT	Bacillus licheniformis	-999	starch	*double mutant, L134R/S320A, kcat/Km: 1560 ml/mg/s, L134R/S320A, 25&deg;C, pH 6.0; mutant L134R, kcat/Km: 1670 ml/mg/s, 25&deg;C, pH 6.0; mutant S329A, kcat/Km: 1870 ml/mg/s, 25&deg;C, pH 6.0; wild-type, kcat/Km: 1920 ml/mg/s, 25&deg;C, pH 6.0
+KCAT	Sus scrofa	0.017	starch	*pH 7.2, 42&deg;C
+KCAT	Thermotoga neapolitana	0.02	soluble starch	*in 50 mM sodium phosphate buffer (pH 6.5) at 75&deg;C
+KCAT	Sus scrofa	0.022	starch	*presence of 0.4 mM neohesperidin dihydrochalcone, pH 7.2, 42&deg;C
+KCAT	Fusicoccum sp.	0.025	soluble starch	*
+KCAT	Hyphopichia burtonii	0.0258	maltose	*pH 5.6, 40&deg;C
+KCAT	uncultured organism	0.03	starch	*5&deg;C, pH 8.3
+KCAT	Sus scrofa	0.035	starch	*presence of 2.4 mM neohesperidin dihydrochalcone, pH 7.2, 42&deg;C
+KCAT	Sus scrofa	0.04	starch	*presence of 4.8 mM neohesperidin dihydrochalcone, pH 7.2, 42&deg;C
+KCAT	uncultured organism	0.042	amylopectin	*5&deg;C, pH 8.3
+KCAT	Sus scrofa	0.0494	4-nitrophenyl-alpha-D-maltoside	*isozyme PPA-I, at pH 6.9 and 30&deg;C
+KCAT	Sus scrofa	0.0497	4-nitrophenyl-alpha-D-maltoside	*isozyme PPA-II, at pH 6.9 and 30&deg;C
+KCAT	Hyphopichia burtonii	0.085	pullulan	*pH 5.6, 40&deg;C
+KCAT	Helicoverpa armigera	0.13	amylopectin	*isozyme HaAmy2, pH 7.0, 37&deg;C
+KCAT	uncultured organism	0.15	amylopectin	*15&deg;C, pH 8.3
+KCAT	uncultured organism	0.156	starch	*15&deg;C, pH 8.3
+KCAT	Helicoverpa armigera	0.19	starch	*isozyme HaAmy2, pH 7.0, 37&deg;C
+KCAT	Struthio camelus	0.23	maltose	*
+KCAT	Hyphopichia burtonii	0.24	maltotriose	*pH 5.6, 40&deg;C
+KCAT	Helicoverpa armigera	0.29	amylopectin	*isozyme HaAmy1, pH 7.0, 37&deg;C
+KCAT	Hyphopichia burtonii	0.399	alpha-cyclodextrin	*pH 5.6, 40&deg;C
+KCAT	Helicoverpa armigera	0.67	starch	*isozyme HaAmy1, pH 7.0, 37&deg;C
+KCAT	Paenibacillus sp. SSG-1	0.72	soluble starch	*pH 6.5, 40&deg;C, recombinant enzyme
+KCAT	Struthio camelus	0.81	maltotriose	*
+KCAT	Callosobruchus chinensis	0.92	starch	*pH 5.0, 37&deg;C, recombinant enzyme
+KCAT	Callosobruchus chinensis	1.1	amylopectin	*pH 5.0, 37&deg;C, recombinant enzyme
+KCAT	Tribolium castaneum	1.13	starch	*pH 5.0, 37&deg;C, recombinant enzyme
+KCAT	Tribolium castaneum	1.4	amylopectin	*pH 5.0, 37&deg;C, recombinant enzyme
+KCAT	Moesziomyces antarcticus	1.6	maltotriose	*
+KCAT	Homo sapiens	1.9	2-chloro-4-nitrophenyl alpha-maltotrioside	*in presence of 0.01 mM Br-
+KCAT	Homo sapiens	2	2-chloro-4-nitrophenyl alpha-maltotrioside	*in presence of 0.2 mM ClO3-
+KCAT	Hordeum vulgare	2	maltoheptaose	*30&deg;C, pH 5.5
+KCAT	Homo sapiens	2.1	2-chloro-4-nitrophenyl alpha-maltotrioside	*in presence of 0.01 mM I-
+KCAT	Homo sapiens	2.2	2-chloro-4-nitrophenyl alpha-maltotrioside	*in presence of 0.1 mM NO3-
+KCAT	Homo sapiens	2.4	2-chloro-4-nitrophenyl alpha-maltotrioside	*in presence of 0.01 mM Cl-
+KCAT	Homo sapiens	2.98	2-chloro-4-nitrophenyl alpha-D-maltotrioside	*pH 7.0, 30&deg;C
+KCAT	Hordeum vulgare	3	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	*wild-type enzyme, pH 5.5, 30&deg;C, kcat/Km: 48 1/s/mg/ml
+KCAT	Bifidobacterium longum	3.4	amylopectin	*recombinant His6-tagged enzyme, pH 5.0, 20&deg;C
+KCAT	Homo sapiens	3.5	2-chloro-4-nitrophenyl alpha-maltotrioside	*in presence of 1 mM NO2-
+KCAT	Homo sapiens	4.4	2-chloro-4-nitrophenyl alpha-maltotrioside	*in presence of 1 mM N3-
+KCAT	Thermoactinomyces vulgaris	4.8	pullulan	*mutant Y374A
+KCAT	Hordeum vulgare	5.6	maltoheptaose	*30&deg;C, pH 5.5
+KCAT	Hyphopichia burtonii	5.87	maltotetraose	*pH 5.6, 40&deg;C
+KCAT	Tepidimonas fonticaldi	5.9	soluble potato starch	*pH 8.0, 80&deg;C
+KCAT	Bacillus licheniformis	7.86	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*double mutant, L134R/S320A, kcat/Km: L134R/S320A, 680000 1/s/M, 25&deg;C, pH 6.0
+KCAT	Bacillus licheniformis	8.14	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*mutant L134R, kcat/Km: 710000 1/s/M, 25&deg;C, pH 6.0
+KCAT	Bacillus licheniformis	8.32	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*mutant S329A, kcat/Km: 740000 1/s/M, 25&deg;C, pH 6.0
+KCAT	Homo sapiens	8.5	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	*37&deg;C, pH 8.0, F256W mutant
+KCAT	Bacillus licheniformis	8.73	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*wild-type, kcat/Km: 770000 1/s/M, 25&deg;C, pH 6.0
+KCAT	Paenibacillus sp. SSG-1	9.21	amylose	*pH 6.5, 40&deg;C, recombinant enzyme
+KCAT	Thermoactinomyces vulgaris	9.4	starch	*mutant Y374A
+KCAT	Bacillus megaterium	9.8	starch	*mutant enzyme A53S, in the presence of 5 mM Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30&deg;C
+KCAT	Hordeum vulgare	10	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	*Y105A mutant, kcat below 10 1/s, pH 5.5, 30&deg;C; Y105A/Y380A mutant, kcat below 10 1/s, pH 5.5, 30&deg;C; Y105A/Y380M mutant, kcat below 10 1/s, pH 5.5, 30&deg;C
+KCAT	Hordeum vulgare	10	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*below, pH 5.5, 37&deg;C, mutant Y105A
+KCAT	Moesziomyces antarcticus	10.7	alpha-cyclodextrin	*calculated as low molecular weight products
+KCAT	Homo sapiens	15.8	2-chloro-4-nitrophenyl alpha-maltotrioside	*in presence of 1 mM N3-
+KCAT	Hordeum vulgare	19	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	*Y380A mutant, pH 5.5, 30&deg;C, kcat/Km: 28 1/s/mg/ml
+KCAT	Hordeum vulgare	19	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*mutant enzyme Y380A
+KCAT	Bacillus megaterium	19.9	starch	*wild type enzyme, in the presence of 5 mM Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30&deg;C
+KCAT	Bacillus megaterium	20.7	starch	*mutant enzyme H58I, in the presence of 5 mM Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30&deg;C
+KCAT	Hordeum vulgare	21	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	*H395A mutant, pH 5.5, 30&deg;C, kcat/Km: 23 1/s/mg/ml
+KCAT	Bacillus megaterium	22.4	starch	*mutant enzyme A53S, in the absence of Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30&deg;C
+KCAT	Hordeum vulgare	24	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*pH 5.5, 37&deg;C, mutant Y105A/T212W
+KCAT	Thermotoga neapolitana	25	maltoheptaose	*in 50 mM sodium phosphate buffer (pH 6.5) at 75&deg;C
+KCAT	Bacillus megaterium	25.7	starch	*wild type enzyme, in the absence of Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30&deg;C
+KCAT	Bacillus megaterium	27.4	starch	*mutant enzyme H58I, in the absence of Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30&deg;C
+KCAT	Moesziomyces antarcticus	29.4	beta-cyclodextrin	*calculated as low molecular weight products
+KCAT	Hordeum vulgare	31	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*pH 5.5, 37&deg;C, mutant Y105A/T212Y
+KCAT	Hyphopichia burtonii	31.1	beta-cyclodextrin	*pH 5.6, 40&deg;C
+KCAT	Hordeum vulgare	34	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	*Y380M mutant, pH 5.5, 30&deg;C, kcat/Km: 39 1/s/mg/ml
+KCAT	Hordeum vulgare	34	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*mutant enzyme Y380M
+KCAT	Bacillus licheniformis	34	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*wild-type, kcat/Km: 140000 1/s/M, 37&deg;C, pH 4.5
+KCAT	Thermotoga neapolitana	34	4-nitrophenyl alpha-D-maltohexaoside	*in 50 mM sodium phosphate buffer (pH 6.5) at 75&deg;C
+KCAT	Hordeum vulgare	35	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	*Y380A/H395A mutant, pH 5.5, 30&deg;C, kcat/Km: 25 1/s/mg/ml
+KCAT	Hyphopichia burtonii	37.2	maltopentaose	*pH 5.6, 40&deg;C
+KCAT	Hordeum vulgare	40.4	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*malt enzyme
+KCAT	Hyphopichia burtonii	44.2	maltohexaose	*pH 5.6, 40&deg;C
+KCAT	Hordeum vulgare	48	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*mutant enzyme S378T
+KCAT	Hordeum vulgare	52	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*alpha-amylase 1
+KCAT	Vigna angularis	55.5	amylose	*37&deg;C, pH 5.3
+KCAT	Hordeum vulgare	56	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*mutant enzyme Y380F
+KCAT	Hordeum vulgare	56	amylose	*Y105A/Y380M mutant, pH 5.5, 30&deg;C, kcat/Km: 56 1/s/mg/ml, kcat/Km decreases 10-25fold for all Y105 mutants
+KCAT	Hordeum vulgare	59	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*mutant enzyme S378P
+KCAT	Hordeum vulgare	61	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*pH 5.5, 37&deg;C, mutant T212W
+KCAT	Hordeum vulgare	61	amylose	*Y105A/Y380A mutant, pH 5.5, 30&deg;C, kcat/Km: 51 1/s/mg/ml, kcat/Km decreases 10-25fold for all Y105 mutants
+KCAT	Vigna angularis	62.4	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	*37&deg;C, pH 5.3
+KCAT	Hordeum vulgare	63.1	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*recombinant enzyme
+KCAT	Hyphopichia burtonii	64.6	gamma-cyclodextrin	*pH 5.6, 40&deg;C
+KCAT	Pyrococcus furiosus	67	starch	*pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Vigna angularis	71.8	amylose	*37&deg;C, pH 5.3
+KCAT	Hordeum vulgare	75	amylose	*H395A mutant, pH 5.5, 30&deg;C, kcat/Km: 394 1/s/mg/ml
+KCAT	Hordeum vulgare	78	amylose DP17	*pH 5.5, 37&deg;C, mutant Y105A/T212Y
+KCAT	Vigna angularis	85.3	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	*37&deg;C, pH 5.3
+KCAT	Hyphopichia burtonii	91.4	starch	*pH 5.6, 40&deg;C
+KCAT	Moesziomyces antarcticus	94.7	maltopentaose	*
+KCAT	Hordeum vulgare	95	amylose	*Y380A mutant, pH 5.5, 30&deg;C, kcat/Km: 264 1/s/mg/ml
+KCAT	Hordeum vulgare	95	amylose DP440	*mutant enzyme Y380A
+KCAT	Geobacillus thermoleovorans	98.3	soluble starch	*
+KCAT	Hordeum vulgare	105	amylose DP17	*pH 5.5, 37&deg;C, mutant Y105A/T212W
+KCAT	Moesziomyces antarcticus	105	maltoheptaose	*
+KCAT	Bifidobacterium longum	116.1	amylose	*recombinant His6-tagged enzyme, pH 5.0, 20&deg;C
+KCAT	Struthio camelus	117	maltotetraose	*value depends on assay method
+KCAT	Hordeum vulgare	119	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*pH 5.5, 37&deg;C, wild-type enzyme
+KCAT	Hordeum vulgare	120	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*37&deg;C, pH 6.0
+KCAT	Thermoactinomyces vulgaris	120	starch	*wild-type enzyme
+KCAT	Hordeum vulgare	125	maltodextrin	*30&deg;C, pH 5.5
+KCAT	Hordeum vulgare	127	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*pH 5.5, 37&deg;C, mutant T212Y
+KCAT	Hordeum vulgare	127	amylose DP17	*pH 5.5, 37&deg;C, mutant T212Y
+KCAT	Hordeum vulgare	129	maltodextrin	*30&deg;C, pH 5.5
+KCAT	Moesziomyces antarcticus	130	glycogen	*from rat liver, calculated as low molecular weight products
+KCAT	Hordeum vulgare	132	2-chloro-4-nitrophenyl alpha-D-maltoheptaoside	*pH 6.8, 30&deg;C, recombinant AMY1-SBD fusion enzyme
+KCAT	Hordeum vulgare	132	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*pH 5.5, 37&deg;C, mutant Y105W
+KCAT	Ruminococcus bromii	137	amylopectin	*45&deg;C, pH 5.0; recombinant His-tagged enzyme, pH 5.0, 45&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	139.1	soluble starch	*mutant BACDELTANC/DELTARS/M231L/DELTAC31, pH 8.0, 60&deg;C
+KCAT	Hordeum vulgare	140	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*pH 5.5, 37&deg;C, mutant T212P
+KCAT	Thermoactinomyces vulgaris	140	pullulan	*wild-type enzyme
+KCAT	Sus scrofa	141	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	*25&deg;C, pH 7.2
+KCAT	Bacillus sp. (in: Bacteria)	141.3	soluble starch	*mutant BACDELTANC/DELTARS/M231L, pH 8.0, 60&deg;C
+KCAT	Hordeum vulgare	144	amylose	*DP 17, malt enzyme, calculated as low molecular weight products
+KCAT	Hordeum vulgare	144	amylose DP440	*mutant enzyme S378T
+KCAT	Hordeum vulgare	146	amylose DP17	*below, pH 5.5, 37&deg;C, mutant Y105A
+KCAT	Bacillus sp. (in: Bacteria)	147.5	soluble starch	*mutant BACDELTANC/M231L, pH 8.0, 60&deg;C
+KCAT	Hordeum vulgare	149	amylose	*Y380M mutant, pH 5.5, 30&deg;C, kcat/Km: 425 1/s/mg/ml
+KCAT	Hordeum vulgare	149	amylose DP440	*mutant enzyme Y380M
+KCAT	Homo sapiens	150	maltosyl fluoride	*pH 7.0, 30&deg;C
+KCAT	Thermobifida fusca	153	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	*pH not specified in the publication, 25&deg;C
+KCAT	Hordeum vulgare	154	amylose DP17	*pH 5.5, 37&deg;C, mutant T212W
+KCAT	Bacillus sp. (in: Bacteria)	156.8	soluble starch	*mutant BACDELTANC/DELTARS, pH 8.0, 60&deg;C
+KCAT	Hordeum vulgare	158	amylose DP17	*pH 5.5, 37&deg;C, mutant Y105F
+KCAT	Hordeum vulgare	162	amylose DP440	*mutant enzyme Y380F
+KCAT	Hordeum vulgare	163	amylose	*Y380A/H395A mutant, pH 5.5, 30&deg;C, kcat/Km: 543 1/s/mg/ml
+KCAT	Hordeum vulgare	163	amylose DP440	*mutant enzyme S378P
+KCAT	Hordeum vulgare	165	amylose DP17	*pH 5.5, 37&deg;C, wild-type enzyme
+KCAT	Moesziomyces antarcticus	166	glycogen	*from oyster, calculated as low molecular weight products
+KCAT	Bacillus sp. (in: Bacteria)	168.5	soluble starch	*mutant BACDELTANC, pH 8.0, 60&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	168.5	starch	*
+KCAT	Hordeum vulgare	169	amylose	*wild-type enzyme, pH 5.5, 30&deg;C, kcat/Km: 1300 1/s/mg/ml
+KCAT	Moesziomyces antarcticus	171	amylopectin	*calculated as low molecular weight products
+KCAT	Pyrococcus furiosus	173	gamma-cyclodextrin	*pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Bacillus licheniformis	175	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*mutant S329A, kcat/Km: 880000 1/s/M, 37&deg;C, pH 6.5; wild-type, kcat/Km: 870000 1/s/M, 37&deg;C, pH 5.5
+KCAT	Homo sapiens	175	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	*37&deg;C, pH 8.0, wild-type
+KCAT	Hordeum vulgare	178	amylose	*Y105A mutant, pH 5.5, 30&deg;C, kcat/Km: 132 1/s/mg/ml, kcat/Km decreases 10-25fold for all Y105 mutants
+KCAT	Pseudoalteromonas haloplanktis	179	starch	*pH not specified in the publication, 5&deg;C
+KCAT	Hordeum vulgare	185	amylose	*DP 17, recombinant enzyme, calculated as low molecular weight products
+KCAT	Hordeum vulgare	185	amylose DP440	*alpha-amylase 1
+KCAT	Bacillus licheniformis	186	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*mutant L134R, kcat/Km: 920000 1/s/M, 37&deg;C, pH 6.5
+KCAT	Moesziomyces antarcticus	186	gamma-cyclodextrin	*calculated as low molecular weight products
+KCAT	Bacillus licheniformis	187	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*mutant S329A, kcat/Km: 1230000 1/s/M, 37&deg;C, pH 5.5
+KCAT	Pyrococcus furiosus	196	beta-cyclodextrin	*pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Hordeum vulgare	200	amylose DP17	*pH 5.5, 37&deg;C, mutant Y105W
+KCAT	Bacillus licheniformis	201	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*mutant L134R, kcat/Km: 1070000 1/s/M, 37&deg;C, pH 5.5
+KCAT	Hordeum vulgare	202	amylose	*30&deg;C, pH 5.5
+KCAT	Hordeum vulgare	203	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	*pH 5.5, 37&deg;C, mutant Y105F
+KCAT	Bacillus licheniformis	205	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*wild-type, kcat/Km: 1420000 1/s/M, 37&deg;C, pH 6.5
+KCAT	Hordeum vulgare	206	amylose	*30&deg;C, pH 5.5
+KCAT	Moesziomyces antarcticus	206	starch	*soluble starch of Zulkowsky type, calculated as low molecular weight products
+KCAT	Bacillus licheniformis	209	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*double mutant, L134R/S320A, kcat/Km: L134R/S320A, 1100000 1/s/M, 37&deg;C, pH 6.5
+KCAT	Hordeum vulgare	209	amylose DP440	*pH 5.5, 37&deg;C, recombinant AMY1-SBD fusion enzyme
+KCAT	Bacillus licheniformis	219	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*mutant S329A, kcat/Km: 1210000 1/s/M, 37&deg;C, pH 4.5
+KCAT	Hordeum vulgare	225	amylose DP17	*pH 5.5, 37&deg;C, recombinant AMY1-SBD fusion enzyme
+KCAT	Pyrococcus furiosus	228	acarbose	*pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Moesziomyces antarcticus	230	amylose	*short chain amylose, calculated as low molecular weight products
+KCAT	Bacillus licheniformis	233	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*double mutant, L134R/S320A, kcat/Km: L134R/S320A, 680000 1/s/M, 37&deg;C, pH 5.5
+KCAT	Bacillus licheniformis	234	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*mutant L134R, kcat/Km: 1350000 1/s/M, 37&deg;C, pH 4.5
+KCAT	Moesziomyces antarcticus	237	starch	*soluble starch from Merck, calculated as low molecular weight products
+KCAT	Pyrococcus furiosus	241	alpha-cyclodextrin	*pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Hordeum vulgare	264	amylose DP17	*pH 5.5, 37&deg;C, mutant T212P
+KCAT	Bacillus licheniformis	266	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	*double mutant, L134R/S320A, kcat/Km: L134R/S320A, 1910000 1/s/M, 37&deg;C, pH 4.5
+KCAT	Pyrococcus furiosus	268	maltotriose	*pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Drosophila melanogaster	280	starch	*pH not specified in the publication, 20&deg;C
+KCAT	Homo sapiens	283	alpha-maltotriosyl fluoride	*30&deg;C, pH 7.0
+KCAT	Thermotoga neapolitana	283	maltopentaose	*in 50 mM sodium phosphate buffer (pH 6.5) at 75&deg;C
+KCAT	Fusicoccum sp.	283.3	beta-cyclodextrin	*
+KCAT	Homo sapiens	285	alpha-maltotriosyl fluoride	*pH 7.0, 30&deg;C
+KCAT	Sus scrofa	291	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	*25&deg;C, pH 7.2
+KCAT	Sus scrofa	291	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	*pH not specified in the publication, 25&deg;C
+KCAT	Ruminococcus bromii	297	pullulan	*45&deg;C, pH 5.0; recombinant His-tagged enzyme, pH 5.0, 45&deg;C
+KCAT	Drosophila melanogaster	364	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	*pH not specified in the publication, 25&deg;C
+KCAT	Moneuplotes crassus	377	starch	*5&deg;C, pH 9.0
+KCAT	Pseudoalteromonas haloplanktis	392	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	*15&deg;C, pH 7.2
+KCAT	Paenibacillus sp. SSG-1	428.98	maltose	*pH 6.5, 40&deg;C, recombinant enzyme
+KCAT	Homo sapiens	443	alpha-maltosyl fluoride	*30&deg;C, pH 7.0
+KCAT	Fusicoccum sp.	485	beta-cyclodextrin	*
+KCAT	Sus scrofa	518	starch	*pH not specified in the publication, 37&deg;C
+KCAT	Paenibacillus sp. SSG-1	538.95	maltotriose	*pH 6.5, 40&deg;C, recombinant enzyme
+KCAT	Fusicoccum sp.	561.7	soluble starch	*
+KCAT	Paenibacillus sp. SSG-1	567.01	maltopentaose	*pH 6.5, 40&deg;C, recombinant enzyme
+KCAT	Paenibacillus sp. SSG-1	573.8	maltoheptaose	*pH 6.5, 40&deg;C, recombinant enzyme
+KCAT	Struthio camelus	580	maltohexaose	*
+KCAT	Moneuplotes crassus	619	starch	*25&deg;C, pH 9.0
+KCAT	Pseudoalteromonas haloplanktis	675	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	*pH not specified in the publication, 25&deg;C
+KCAT	Struthio camelus	679	maltoheptaose	*
+KCAT	Pseudoalteromonas haloplanktis	697	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	*25&deg;C, pH 7.2
+KCAT	Euplotes focardii	718	starch	*5&deg;C, pH 9.0
+KCAT	Anabaena sp.	750	oyster glycogen	*at 30&deg;C in 10 mM MOPS buffer (pH 7.0) with 5 mM CaCl2
+KCAT	Struthio camelus	754	maltopentaose	*
+KCAT	Thermotoga neapolitana	809	maltotriose	*in 50 mM sodium phosphate buffer (pH 6.5) at 75&deg;C
+KCAT	Moneuplotes crassus	880	starch	*35&deg;C, pH 9.0
+KCAT	Bacillus sp. dsh19-1	933.5	soluble starch	*recombinant enzyme, 20&deg;C, pH 6.0
+KCAT	Euplotes focardii	982	starch	*35&deg;C, pH 9.0
+KCAT	Ruminococcus bromii	1014	amylose	*45&deg;C, pH 5.0; recombinant His-tagged enzyme, pH 5.0, 45&deg;C
+KCAT	Ruminococcus bromii	1055	soluble starch	*recombinant His-tagged enzyme, pH 5.0, 45&deg;C
+KCAT	Ruminococcus bromii	1055	starch	*45&deg;C, pH 5.0
+KCAT	Zunongwangia profunda	1449.43	starch	*pH and temperature not specified in the publication
+KCAT	Thermobifida fusca	1457	starch	*pH not specified in the publication, 55&deg;C
+KCAT	Euplotes focardii	1466	starch	*25&deg;C, pH 9.0
+KCAT	Anabaena sp.	1920	rabbit glycogen	*at 30&deg;C in 10 mM MOPS buffer (pH 7.0) with 5 mM CaCl2
+KCAT	Anabaena sp.	1940	Dextrin	*at 30&deg;C in 10 mM MOPS buffer (pH 7.0) with 5 mM CaCl2
+KCAT	Corallococcus sp. EGB	2274.8	amylopectin	*pH 7.0, 50&deg;C
+KCAT	Pyrococcus sp.	2280	amylose	*pH 6.5, 90&deg;C
+KCAT	Pyrococcus sp.	2300	glycogen	*pH 6.5, 90&deg;C
+KCAT	Streptomyces megasporus	3000	starch	*calculated as low molecular weight products
+KCAT	Corallococcus sp. EGB	3021.2	starch	*pH 7.0, 50&deg;C
+KCAT	Anabaena sp.	3420	soluble potato starch	*at 30&deg;C in 10 mM MOPS buffer (pH 7.0) with 5 mM CaCl2
+KCAT	Pyrococcus sp.	4180	amylopectin	*pH 6.5, 90&deg;C
+KCAT	Pyrococcus sp.	4680	starch	*pH 6.5, 90&deg;C
+KCAT	Bacillus acidicola	40000	raw starch	*pH 4.0, 60&deg;C, recombinant chimeric acidic alpha-amylase Ba-Gt-amy
+KCAT	Geobacillus thermoleovorans	40000	raw starch	*pH 4.0, 60&deg;C, recombinant chimeric acidic alpha-amylase Ba-Gt-amy

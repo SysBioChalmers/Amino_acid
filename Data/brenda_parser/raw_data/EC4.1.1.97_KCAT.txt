@@ -1,0 +1,1 @@
+ecNumber*4.1.1.97#turnoverNumber*122#turnoverNumberMaximum*#substrate*5-hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate#commentary*mutant enzyme Q88E, pH and temperature not specified in the publication#organism*Klebsiella pneumoniae#ligandStructureId*13389#literature*725409#

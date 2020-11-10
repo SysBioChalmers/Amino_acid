@@ -1,0 +1,37 @@
+KCAT	Paenarthrobacter aurescens	0.0869	Atrazine	*mutant R325S, pH and temperature not specified in the publication
+KCAT	Paenarthrobacter aurescens	0.137	Atrazine	*mutant E241Q, pH and temperature not specified in the publication
+KCAT	Paenarthrobacter aurescens	1.49	Atrazine	*wild-type enzyme, pH 7.0, temperature not specified in the publication
+KCAT	Pseudomonas sp.	1.6	Atrazine	*recombinant wild-type enzyme, pH 7.2, 25&Acirc;&deg;C
+KCAT	Escherichia coli	2.2	Atrazine	*more than 0.153 mM. AtzA wild type, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	2.2	Atrazine	*AtzA wild-type, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	2.3	Atrazine	*A216S/T217A/T219P/A220F/D250G, site-directed mutagenesis, AtzA-variant 357, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	2.3	Atrazine	*A216S/T217A/T219P/A220F/D250G, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	4.3	Atrazine	*A216A/T217D/T219E/A220A/D250D, site-directed mutagenesis, AtzA-variant 288, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	4.3	Atrazine	*T217D/T219E, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	6.2	Atrazine	*A216G/T217D/T219A/A220V/D250W, site-directed mutagenesis, AtzA-variant 305, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	6.2	Atrazine	*A216G/T217D/T219A/A220V/D250W, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	6.5	Atrazine	*A216Y/T217D/T219Y/A220H/D250V, site-directed mutagenesis, AtzA-variant 422, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	6.5	Atrazine	*A216Y/T217D/T219Y/A220H/D250V, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	6.8	Atrazine	*A216S/T217D/T219V/A220H/D250G, site-directed mutagenesis, AtzA-variant 297, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	6.8	Atrazine	*A216S/T217D/T219V/A220H/D250G, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	7.4	Atrazine	*A216H/T217A/T219E/A220S/D250S, site-directed mutagenesis, AtzA-variant 662, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	7.4	Atrazine	*A216H/T217A/T219E/A220S/D250S, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	8	Atrazine	*A216A/T217S/T219H/A220G/D250Y, site-directed mutagenesis, AtzA-variant 431, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	8	Atrazine	*T217S/T219H/A220G/D250Y, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	8.5	Atrazine	*A216S/T217D/T219G/A220S/D250D, site-directed mutagenesis, AtzA-variant 841, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	8.5	Atrazine	*A216S/T217D/T219G/A220S, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Pseudomonas sp.	11	Atrazine	*
+KCAT	Escherichia coli	12.7	Atrazine	*A216G/T217D/T219G/A220H/D250G, site-directed mutagenesis, AtzA-variant 430, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	12.7	Atrazine	*A216G/T217D/T219G/A220H/D250G, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	15.1	Atrazine	*A216G/T217D/T219G/A220H/D250D, site-directed mutagenesis, AtzA-variant 734, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	15.1	Atrazine	*A216G/T217D/T219G/A220H/D250D, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Escherichia coli	27.9	Atrazine	*A216Y/T217D/T219T/A220H/D250E, site-directed mutagenesis, AtzA best variant consensus, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+KCAT	Thermotoga maritima	27.9	Atrazine	*A216Y/T217D/A220H/D250E, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+KCAT	Paenarthrobacter aurescens	0.467	ametryn	*mutant R325S, pH and temperature not specified in the publication
+KCAT	Paenarthrobacter aurescens	6.04	ametryn	*wild-type enzyme, pH 7.0, temperature not specified in the publication
+KCAT	Pseudomonas sp.	3	hydroxyatrazine	*
+KCAT	Pseudomonas sp.	3.2	2-(N-ethylamino)-4-hydroxy-6-(N-isopropylamino)-1,3,5-triazine	*deamination
+KCAT	Pseudomonas sp.	1.4	6-hydroxy-4-(N-isopropylamino)-2-(N-methylamino)-1,3,5-triazine	*deamination
+KCAT	Pseudomonas sp.	0.8	2,4-diisopropylamino-6-hydroxy-1,3,5-triazine	*deamination
+KCAT	Pseudomonas sp.	1.9	2-chloro-4-hydroxy-6-(N-isopropylamino)-1,3,5-triazine	*dechlorination
+KCAT	Pseudomonas sp.	1.6	2-chloro-4-(N-ethylamino)-6-hydroxy-1,3,5-triazine	*dechlorination

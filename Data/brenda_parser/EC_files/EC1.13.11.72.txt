@@ -1,0 +1,2 @@
+KCAT	Streptomyces viridochromogenes	0.35	2-hydroxyethylphosphonate	*wild-type, pH 7.5, 20&deg;C
+KCAT	Streptomyces viridochromogenes	0.81	2-hydroxyethylphosphonate	*mutant R90K, pH 7.5, 20&deg;C

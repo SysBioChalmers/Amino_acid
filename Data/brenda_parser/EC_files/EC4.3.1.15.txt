@@ -1,0 +1,30 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2	L-cysteine	*pH 7.4, 30&Acirc;&deg;C, mutant T385D sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.17	D-serine	*pH 7.4, 30&Acirc;&deg;C, sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	10.5	D-serine	*pH 7.4, 30&Acirc;&deg;C, mutant T385S sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	34.17	D-serine	*pH 7.4, 30&Acirc;&deg;C, mutant T385D sDAPL
+KCAT	Escherichia coli	0.18	L-2,3-diaminopropanoate	*mutant D189N, pH and temperature not specified in the publication
+KCAT	Escherichia coli	1.7	L-2,3-diaminopropanoate	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme C265S
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.67	L-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant D194S sDAPL
+KCAT	Escherichia coli	3.05	L-2,3-diaminopropanoate	*mutant D120N, pH and temperature not specified in the publication
+KCAT	Escherichia coli	7.8	L-2,3-diaminopropanoate	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme C291S
+KCAT	Escherichia coli	19	L-2,3-diaminopropanoate	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	20.83	L-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant D125E sDAPL
+KCAT	Escherichia coli	24.6	L-2,3-diaminopropanoate	*wild-type, pH and temperature not specified in the publication
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	37.33	L-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant D125S sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	42.83	L-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	43.3	L-2,3-diaminopropanoate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	34	DL-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant C271V sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	42	DL-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant T385D sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	51.67	DL-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant T385S sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	57	DL-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant C299V sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	60.17	DL-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	69.17	DL-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, untagged sDAPL
+KCAT	Escherichia coli	0.35	D-2,3-diaminopropanoate	*mutant D189N, pH and temperature not specified in the publication
+KCAT	Escherichia coli	3.6	D-2,3-diaminopropanoate	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme C265S
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	7.83	D-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant D125S sDAPL
+KCAT	Escherichia coli	12.45	D-2,3-diaminopropanoate	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme C291S
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	26	D-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, mutant D194S sDAPL
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	42.5	D-2,3-diaminopropanoate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	44.58	D-2,3-diaminopropanoate	*wild-type, pH and temperature not specified in the publication
+KCAT	Escherichia coli	53.7	D-2,3-diaminopropanoate	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	375.8	D-2,3-diaminopropanoate	*pH 7.4, 30&Acirc;&deg;C, sDAPL

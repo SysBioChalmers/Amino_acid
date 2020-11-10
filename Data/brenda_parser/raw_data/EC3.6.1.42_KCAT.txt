@@ -1,0 +1,1 @@
+ecNumber*3.6.1.42#turnoverNumber*3830#turnoverNumberMaximum*#substrate*GDP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*53#literature*210056#

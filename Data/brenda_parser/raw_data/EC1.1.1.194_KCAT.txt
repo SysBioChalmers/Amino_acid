@@ -1,0 +1,1 @@
+ecNumber*1.1.1.194#turnoverNumber*25.8#turnoverNumberMaximum*#substrate*coniferyl alcohol#commentary*recombinant enzyme, at pH 8.5 and 40&deg;C#organism*Streptomyces sp.#ligandStructureId*1202#literature*739587#

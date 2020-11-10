@@ -1,0 +1,84 @@
+KCAT	Sus scrofa	3	phenazine methosulfate	*medium chain acyl-CoA dehydrogenase from kidney, terminal acceptor 2,6-dichlorphenol-indophenol
+KCAT	Homo sapiens	0.0024	octanoyl-CoA	*pH 7.6, 25&Acirc;&deg;C, mutant enzyme E376Q
+KCAT	Rattus norvegicus	0.038	octanoyl-CoA	*mutant enzyme Y375K, in 50 mM potassium phosphate buffer, pH 7.6
+KCAT	Sus scrofa	0.047	octanoyl-CoA	*25&Acirc;&deg;C, with ferricenium as acceptor, pig enzyme reconstituted with 2'-deoxy-FAD
+KCAT	Rattus norvegicus	0.071	octanoyl-CoA	*mutant enzyme R256K
+KCAT	Homo sapiens	0.167	octanoyl-CoA	*T255E/E376G double mutant enzyme
+KCAT	Rattus norvegicus	0.22	octanoyl-CoA	*mutant enzyme Y375A, in 50 mM potassium phosphate buffer, pH 7.6
+KCAT	Rattus norvegicus	0.37	octanoyl-CoA	*mutant enzyme Y375F, in 50 mM potassium phosphate buffer, pH 7.6
+KCAT	Sus scrofa	3.17	octanoyl-CoA	*
+KCAT	Sus scrofa	3.17	octanoyl-CoA	*phenazine methosulfate as electron carrier
+KCAT	Rattus norvegicus	3.2	octanoyl-CoA	*wild-type enzyme
+KCAT	Sus scrofa	3.25	octanoyl-CoA	*phenazine methosulfate and 2,6-dichlorophenolindophenol as electron acceptors
+KCAT	Rattus norvegicus	3.3	octanoyl-CoA	*C-2 proton/deuteron exchange
+KCAT	Rattus norvegicus	3.3	octanoyl-CoA	*wild type enzyme, in 50 mM potassium phosphate buffer, pH 7.6
+KCAT	Sus scrofa	8.33	octanoyl-CoA	*with electron transferring flavoprotein as electron carrier
+KCAT	Sus scrofa	11.2	octanoyl-CoA	*general acyl-CoA dehydrogenase
+KCAT	Homo sapiens	13.2	octanoyl-CoA	*T255E mutant enzyme
+KCAT	Homo sapiens	16.2	octanoyl-CoA	*K304E mutant enzyme, ferricenium assay
+KCAT	Homo sapiens	16.3	octanoyl-CoA	*
+KCAT	Homo sapiens	17	octanoyl-CoA	*pH 7.6, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Sus scrofa	18.3	octanoyl-CoA	*ferricenium assay
+KCAT	Sus scrofa	18.8	octanoyl-CoA	*25&Acirc;&deg;C, with ferricenium as acceptor, recombinant wild-type enzyme
+KCAT	Homo sapiens	19.2	octanoyl-CoA	*
+KCAT	Sus scrofa	19.6	octanoyl-CoA	*
+KCAT	Sus scrofa	19.6	octanoyl-CoA	*25&Acirc;&deg;C, with ferricenium as acceptor, native enzyme
+KCAT	Sus scrofa	19.6	octanoyl-CoA	*
+KCAT	Sus scrofa	20	octanoyl-CoA	*25&Acirc;&deg;C, with ferricenium as acceptor, pig enzyme reconstituted with commercial FAD
+KCAT	Rattus norvegicus	27.2	octanoyl-CoA	*
+KCAT	Sus scrofa	33.3	octanoyl-CoA	*
+KCAT	Sus scrofa	33.3	octanoyl-CoA	*
+KCAT	Rattus norvegicus	35.7	octanoyl-CoA	*
+KCAT	Homo sapiens	2.83	hexanoyl-CoA	*T255E mutant enzyme
+KCAT	Homo sapiens	12.7	hexanoyl-CoA	*K304E mutant enzyme, ferricenium assay
+KCAT	Homo sapiens	14.2	hexanoyl-CoA	*
+KCAT	Homo sapiens	16.8	hexanoyl-CoA	*
+KCAT	Sus scrofa	20.6	hexanoyl-CoA	*
+KCAT	Sus scrofa	20.8	hexanoyl-CoA	*ferricenium assay
+KCAT	Rattus norvegicus	31.2	hexanoyl-CoA	*medium-chain acyl-CoA dehydrogenase
+KCAT	Sus scrofa	0.00233	crotonyl-CoA	*hydratase activity, value depending on pH
+KCAT	Homo sapiens	0.233	decanoyl-CoA	*T255E/E376T double mutant enzyme
+KCAT	Homo sapiens	0.333	decanoyl-CoA	*T255E/E376G double mutant enzyme
+KCAT	Homo sapiens	7.4	decanoyl-CoA	*
+KCAT	Sus scrofa	8.6	decanoyl-CoA	*
+KCAT	Homo sapiens	8.83	decanoyl-CoA	*K304E mutant enzyme, ferricenium assay
+KCAT	Homo sapiens	9.67	decanoyl-CoA	*
+KCAT	Homo sapiens	11.3	decanoyl-CoA	*T255E mutant enzyme
+KCAT	Homo sapiens	11.7	decanoyl-CoA	*
+KCAT	Sus scrofa	6.2	butanoyl-CoA	*
+KCAT	Sus scrofa	6.33	butanoyl-CoA	*ferricenium assay
+KCAT	Homo sapiens	8.33	butanoyl-CoA	*wild-type and T255E mutant enzyme
+KCAT	Homo sapiens	9	butanoyl-CoA	*K304E mutant enzyme, ferricenium assay
+KCAT	Homo sapiens	11.5	butanoyl-CoA	*
+KCAT	Homo sapiens	0.617	hexadecanoyl-CoA	*T255E/E376G double mutant enzyme
+KCAT	Homo sapiens	2.33	hexadecanoyl-CoA	*
+KCAT	Homo sapiens	2.92	hexadecanoyl-CoA	*K304E mutant enzyme, ferricenium assay
+KCAT	Homo sapiens	3.33	dodecanoyl-CoA	*T255E/E376G double mutant enzyme
+KCAT	Homo sapiens	9.17	dodecanoyl-CoA	*
+KCAT	Homo sapiens	9.5	dodecanoyl-CoA	*K304E mutant enzyme, ferricenium assay
+KCAT	Homo sapiens	2.67	tetradecanoyl-CoA	*T255E/E376G double mutant enzyme
+KCAT	Homo sapiens	4.67	tetradecanoyl-CoA	*
+KCAT	Rattus norvegicus	6	tetradecanoyl-CoA	*long-chain acyl-CoA dehydrogenase
+KCAT	Homo sapiens	6	tetradecanoyl-CoA	*
+KCAT	Homo sapiens	8.33	tetradecanoyl-CoA	*K304E mutant enzyme, ferricenium assay
+KCAT	Sus scrofa	18.3	ferricenium hexafluorophosphate	*medium chain acyl-CoA dehydrogenase from kidney
+KCAT	Sus scrofa	11.6	electron transfer flavoprotein	*
+KCAT	Sus scrofa	0.75	phenazine ethosulfate	*medium chain acyl-CoA dehydrogenase from kidney, terminal acceptor 2,6-dichlorphenol-indophenol
+KCAT	Sus scrofa	0.1	meldola's blue	*medium chain acyl-CoA dehydrogenase from kidney, terminal acceptor iodonitrotetrazolium
+KCAT	Homo sapiens	0.667	octadecanoyl-CoA	*K304E mutant enzyme, ferricenium assay
+KCAT	Bos taurus	1.17	electron transferring flavoprotein	*
+KCAT	Sus scrofa	2.33	electron transferring flavoprotein	*medium chain acyl-CoA dehydrogenase from kidney, terminal acceptor 2,6-dichlorphenol-indophenol
+KCAT	Sus scrofa	0.016	indolepropionyl-CoA	*oxidase reaction
+KCAT	Sus scrofa	0.46	indolepropionyl-CoA	*
+KCAT	Homo sapiens	3.4	indolepropionyl-CoA	*
+KCAT	Sus scrofa	13.2	furylpropionyl-CoA	*
+KCAT	Homo sapiens	13.6	furylpropionyl-CoA	*
+KCAT	Sus scrofa	0.61	[4-(dimethylamino)phenyl]propionyl-CoA	*
+KCAT	Homo sapiens	4.6	[4-(dimethylamino)phenyl]propionyl-CoA	*
+KCAT	Sus scrofa	0.235	octanoyl-pantetheine	*general acyl-CoA dehydrogenase
+KCAT	Homo sapiens	7	dodecadecanoyl-coA	*
+KCAT	Homo sapiens	1	recombinant electron transferring flavoprotein	*T168A mutant enzyme
+KCAT	Homo sapiens	1.67	recombinant beta-Y16L electron transferring flavoprotein	*T168A mutant enzyme
+KCAT	Sus scrofa	12	electron transferring protein	*between pH 8.0 and pH 10.0 at a ionic strength between 11 mM and 50 mM, lower values at acidic pH and with higher ionic strength
+KCAT	Homo sapiens	14.7	recombinant electron transferring flavoprotein	*wild-type enzyme
+KCAT	Homo sapiens	18.3	recombinant beta-Y16L electron transferring flavoprotein	*wild-type enzyme

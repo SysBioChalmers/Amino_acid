@@ -1,0 +1,8 @@
+KCAT	Rattus norvegicus	-999	more	*all mutant enzymes listed with turnover
+KCAT	Rattus norvegicus	-999	more	*all mutant enzymes listed with turnover
+KCAT	Rattus norvegicus	0.0788	Guanidinoacetate	*wild type enzyme
+KCAT	Rattus norvegicus	0.081	Guanidinoacetate	*wild type enzyme
+KCAT	Rattus norvegicus	1	S-adenosyl-L-methionine	*mutant E45Q
+KCAT	Rattus norvegicus	2.1	S-adenosyl-L-methionine	*mutant Y221F
+KCAT	Rattus norvegicus	2.4	S-adenosyl-L-methionine	*mutant E45D
+KCAT	Rattus norvegicus	3.8	S-adenosyl-L-methionine	*wild-type

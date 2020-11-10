@@ -1,0 +1,67 @@
+KCAT	Mycobacterium tuberculosis	0.03	acetyl-CoA	*hydrolysis, presence of MgCl2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.05	acetyl-CoA	*mutant enzyme D81A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.058	acetyl-CoA	*mutant E218A, enzyme displays substrate activation, unactivated form
+KCAT	Mycobacterium tuberculosis	0.06	acetyl-CoA	*hydrolysis, absence of MgCl2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.093	acetyl-CoA	*mutant E218A, enzyme displays substrate activation, activated form; mutant Y410F
+KCAT	Mycobacterium tuberculosis	0.12	acetyl-CoA	*mutant enzyme D81E, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.13	acetyl-CoA	*mutant enzyme D81E/N321I, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.15	acetyl-CoA	*mutant enzyme N321A, at pH 7.5 and 25&Acirc;&deg;C; mutant enzyme N321I, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.32	acetyl-CoA	*wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.61	acetyl-CoA	*alpha-IPMS-14CR
+KCAT	Arabidopsis thaliana	1.9	acetyl-CoA	*; pH 8.0, isoform IPMS2
+KCAT	Mycobacterium tuberculosis	2.1	acetyl-CoA	*cosubstrate 2-oxo-3-methylbutanoate, pH 7.4, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	2.2	acetyl-CoA	*; pH 8.0, isoform IPMS1
+KCAT	Mycobacterium tuberculosis	2.22	acetyl-CoA	*alpha-IPMS-2CR
+KCAT	Mycobacterium tuberculosis	2.55	acetyl-CoA	*mutant H379A
+KCAT	Mycobacterium tuberculosis	2.717	acetyl-CoA	*wild-type
+KCAT	Mycobacterium tuberculosis	3.5	acetyl-CoA	*full-length enzyme, in 50 mM HEPES (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	4.5	acetyl-CoA	*cosubstrate pyruvate, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	5	acetyl-CoA	*cosubstrate 2-oxo-n-pentanoate, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	5.667	acetyl-CoA	*mutant Y169F
+KCAT	Mycobacterium tuberculosis	7.6	acetyl-CoA	*cosubstrate 2-oxo-butanoate, pH 7.4, 25&Acirc;&deg;C
+KCAT	Neisseria meningitidis	13	acetyl-CoA	*full-length enzyme, in 50 mM HEPES (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	330	acetyl-CoA	*pH 7.8, 37&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	450	acetyl-CoA	*pH 7.8, 55&Acirc;&deg;C
+KCAT	Neisseria meningitidis	1.5	pyruvate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	6.1	pyruvate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.04	propionyl-CoA	*hydrolysis, absence of MgCl2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.04	crotonyl-CoA	*hydrolysis, presence of MgCl2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.05	crotonyl-CoA	*hydrolysis, absence of MgCl2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Solanum lycopersicum	0.49	2-oxoisovalerate	*isoform IPMS3, pH and temperature not specified in the publication
+KCAT	Solanum lycopersicum	1.08	2-oxoisovalerate	*isoform IPMS1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	3.1	3-methyl-2-oxobutanoate	*mutant enzyme D444A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	3.4	3-methyl-2-oxobutanoate	*mutant enzyme D444Y, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	3.7	3-methyl-2-oxobutanoate	*wild type enzyme, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	5.7	3-methyl-2-oxobutanoate	*mutant enzyme D444R, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	7	3-methyl-2-oxobutanoate	*mutant enzyme R97A, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	7.28	3-methyl-2-oxobutanoate	*isoform Leu9, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	13.79	3-methyl-2-oxobutanoate	*isoform Leu4, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	330	3-methyl-2-oxobutanoate	*pH 7.8, 37&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	330	3-methyl-2-oxobutanoate	*at pH 7.8 and 37&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	450	3-methyl-2-oxobutanoate	*pH 7.8, 55&Acirc;&deg;C
+KCAT	Neisseria meningitidis	0.28	3-methyl-2-oxopentanoate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.77	2-oxo-3-methylbutanoate	*pH 7.4, 25&Acirc;&deg;C, presence of Co2+
+KCAT	Mycobacterium tuberculosis	1.69	2-oxo-3-methylbutanoate	*pH 7.4, 25&Acirc;&deg;C, presence of Mn2+
+KCAT	Arabidopsis thaliana	2.3	2-oxo-3-methylbutanoate	*; pH 8.0, isoform IPMS2
+KCAT	Arabidopsis thaliana	2.4	2-oxo-3-methylbutanoate	*; pH 8.0, isoform IPMS1
+KCAT	Mycobacterium tuberculosis	2.9	2-oxo-3-methylbutanoate	*pH 7.4, 25&Acirc;&deg;C, presence of Rb+
+KCAT	Mycobacterium tuberculosis	3.2	2-oxo-3-methylbutanoate	*pH 7.4, 25&Acirc;&deg;C, presence of K+
+KCAT	Mycobacterium tuberculosis	3.5	2-oxo-3-methylbutanoate	*pH 7.4, 25&Acirc;&deg;C, presence of Mg2+
+KCAT	Mycobacterium tuberculosis	3.5	2-oxo-3-methylbutanoate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	3.5	2-oxo-3-methylbutanoate	*full-length enzyme, in 50 mM HEPES (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Neisseria meningitidis	13	2-oxo-3-methylbutanoate	*full-length enzyme, in 50 mM HEPES (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.022	alpha-ketoisovalerate	*mutant E218A, enzyme displays substrate activation, activated form
+KCAT	Neisseria meningitidis	0.035	alpha-ketoisovalerate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.037	alpha-ketoisovalerate	*mutant E218A, enzyme displays substrate activation, unactivated form
+KCAT	Mycobacterium tuberculosis	0.075	alpha-ketoisovalerate	*mutant Y410F
+KCAT	Mycobacterium tuberculosis	0.7	alpha-ketoisovalerate	*mutant H379A, enzyme displays substrate activation, unactivated form
+KCAT	Mycobacterium tuberculosis	1.483	alpha-ketoisovalerate	*mutant H379A, enzyme displays substrate activation, activated form
+KCAT	Mycobacterium tuberculosis	2.53	alpha-ketoisovalerate	*wild-type
+KCAT	Mycobacterium tuberculosis	4.75	alpha-ketoisovalerate	*mutant Y169F
+KCAT	Neisseria meningitidis	1.36	alpha-Ketobutyrate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Neisseria meningitidis	105	3-Fluoropyruvate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.52	alpha-ketoisovaleric acid	*alpha-IPMS-14CR
+KCAT	Mycobacterium tuberculosis	1.17	alpha-ketoisovaleric acid	*alpha-IPMS-2CR
+KCAT	Mycobacterium tuberculosis	10.7	2-oxo-butanoate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	7	2-oxo-n-pentanoate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Solanum lycopersicum	0.12	4-methylthio-2-oxobutyrate	*isoform IPMS3, pH and temperature not specified in the publication

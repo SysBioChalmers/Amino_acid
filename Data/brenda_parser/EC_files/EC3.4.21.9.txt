@@ -1,0 +1,107 @@
+KCAT	Bos taurus	0.4	angiotensin II	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Oryzias latipes	0.36	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*mutant enzyme E136Y, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	0.56	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*mutant enzyme R213L, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	0.64	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*wild type enzyme, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	1	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*mutant enzyme H24Q, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	1.81	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*mutant enzyme E136Y/R213L, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Sus scrofa	262	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*
+KCAT	Sus scrofa	28.4	benzoyl-Arg ethyl ester	*
+KCAT	Sus scrofa	8.1	tosyl-Arg methyl ester	*
+KCAT	Bos taurus	12	tosyl-Arg methyl ester	*
+KCAT	Bos taurus	0.005	Trypsinogen	*bovine guanidinated trypsinogen
+KCAT	Bos taurus	1.48	Trypsinogen	*bovine trypsinogen
+KCAT	Sus scrofa	2.3	Trypsinogen	*bovine trypsinogen
+KCAT	Homo sapiens	2.8	Trypsinogen	*human trypsinogen
+KCAT	Bos taurus	4	Trypsinogen	*pH 5.6
+KCAT	Sus scrofa	4.8	Trypsinogen	*bovine trypsinogen
+KCAT	Bos taurus	6.3	Trypsinogen	*
+KCAT	Bos taurus	6.9	Trypsinogen	*pH 8.4
+KCAT	Bos taurus	4.27	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*
+KCAT	Bos taurus	17.1	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*mutant enzyme K96A
+KCAT	Bos taurus	20.8	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Bos taurus	24.1	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*
+KCAT	Bos taurus	25.5	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*mutant enzyme K97A
+KCAT	Bos taurus	39.1	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*mutant enzyme K98A
+KCAT	Bos taurus	49.3	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*pH 8.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	98	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*value obtained by fluorescence spectroscopy, pH not specified in the publication, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	115	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*pH 8.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	118	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*pH 8.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	121	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	*value obtained by impedance spectroscopy, pH not specified in the publication, at 37&Acirc;&deg;C
+KCAT	Bos taurus	108	thiobenzyl benzyloxycarbonyl-L-lysinate	*mutant enzyme K96A
+KCAT	Bos taurus	120	thiobenzyl benzyloxycarbonyl-L-lysinate	*mutant enzyme R99A
+KCAT	Bos taurus	128	thiobenzyl benzyloxycarbonyl-L-lysinate	*mutant enzyme R97A; mutant enzyme R98A
+KCAT	Bos taurus	129	thiobenzyl benzyloxycarbonyl-L-lysinate	*
+KCAT	Bos taurus	129	thiobenzyl benzyloxy-carbonyl-L-lysinate	*pH 8.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	133	thiobenzyl benzyloxy-carbonyl-L-lysinate	*pH 8.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	133	thiobenzyl benzyloxy-carbonyl-L-lysinate	*pH 8.4, 25&Acirc;&deg;C
+KCAT	Bos taurus	0.99	GD4KF(NO2)G	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.99	GD4KF(NO2)G	*50 mM Ca2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Bos taurus	17.83	GD4KF(NO2)G	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Homo sapiens	17.83	GD4KF(NO2)G	*50 mM Ca2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Bos taurus	12	Tosyl-Lys methyl ester	*
+KCAT	Bos taurus	0.97	G5DKF(NO2)G	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.97	G5DKF(NO2)G	*50 mM Ca2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Bos taurus	17.33	G5DKF(NO2)G	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Homo sapiens	17.33	G5DKF(NO2)G	*50 mM Ca2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.97	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	*50 mM Ca2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	16.67	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	*50 mM Ca2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	21.5	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Bos taurus	15.4	formyl-Ala-Phe-Lys-4-nitroanilide	*pH 8.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	18.2	formyl-Ala-Phe-Lys-4-nitroanilide	*pH 8.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	23.5	formyl-Ala-Phe-Arg-4-nitroanilide	*pH 8.4, 25&Acirc;&deg;C
+KCAT	Bos taurus	26.3	formyl-Ala-Phe-Arg-4-nitroanilide	*pH 8.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	319	Z-Lys-SBzl	*mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	336	Z-Lys-SBzl	*wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	354	Z-Lys-SBzl	*mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Bos taurus	0.97	GD4KNfa	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Bos taurus	16.67	GD4KNfa	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Sus scrofa	520	Gly-Asp-ASp-Asp-Asp-2-naphthylamide	*
+KCAT	Homo sapiens	0.07	LTAEEKA	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Bos taurus	0.49	LTAEEKA	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Bos taurus	0.54	WDDKG	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Bos taurus	0.68	WDDRG	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Bos taurus	25.17	MLTAEEKAA	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Sus scrofa	20	Val-(Asp)4-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	14.6	Val-(Asp)3-Ala-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	14.3	Val-(Asp)2-Ala-Asp-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	14.7	Val-Asp-Ala-(Asp)2-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	17.8	Val-Ala-(Asp)3-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	10.3	Val-Asp-Ala-Asp-Ala-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	28.1	Val-Asp-(Ala)2-Asp-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	23	Val-Ala-Asp-Ala-Asp-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	15.9	Val-(Ala)2-(Asp)2-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	9.1	Val-Asp-(Ala)3-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	14.1	Val-(Ala)2-Asp-Ala-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	17	Val-(Ala)3-Asp-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	8	Val-(Asp)3-Glu-Lys-Ile-Val-Gly	*
+KCAT	Sus scrofa	13.6	Val-(Asp)4-Arg-Ile-Val-Gly	*
+KCAT	Homo sapiens	64.8	GD4K 7-amido-4-methylcoumarin	*pH 8.4, 35&Acirc;&deg;C
+KCAT	Homo sapiens	24.9	GD4K 2-naphthylamide	*pH 8.4, 35&Acirc;&deg;C
+KCAT	Bos taurus	53	N2-benzoyl-L-Arg ethyl ester	*
+KCAT	Homo sapiens	111	N-alpha-benzyloxycarbonyl-L-lysine thiobenzyl ester	*37&Acirc;&deg;C, pH 8.0
+KCAT	Oryzias latipes	17.8	GDDDDK-2-naphthylamide	*mutant enzyme E136Y, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	26.2	GDDDDK-2-naphthylamide	*mutant enzyme H24Q, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	27.9	GDDDDK-2-naphthylamide	*wild type enzyme, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	28.75	GDDDDK-2-naphthylamide	*mutant enzyme E136Y/R213L, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	33.02	GDDDDK-2-naphthylamide	*mutant enzyme R213L, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Homo sapiens	92	GDDDDK-2-naphthylamide	*soluble enzyme, in 25 mM Tris-HCl (pH 8.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	115	GDDDDK-2-naphthylamide	*phage-bound enteropeptidase catalytic subunit, in 25 mM Tris-HCl (pH 8.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	122	GDDDDK-4-nitroanilide	*mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	135	GDDDDK-4-nitroanilide	*wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	148	GDDDDK-4-nitroanilide	*mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	42	GD4R-4-nitroanilide	*mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	45	GD4R-4-nitroanilide	*wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	49	GD4R-4-nitroanilide	*mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Oryzias latipes	0.3	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	*mutant enzyme E136Y, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	0.34	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	*wild type enzyme, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	0.53	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	*mutant enzyme R213L, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	0.6	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	*mutant enzyme H24Q, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Oryzias latipes	1.38	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	*mutant enzyme E136Y/R213L, at pH 8.3 and 30&Acirc;&deg;C
+KCAT	Homo sapiens	2.3	human cationic trypsinogen	*0.00036 1/sec/mg, incubates 30 min at 37&Acirc;&deg;C, pH 9.0, spectrophotometrically measured at 415 nm; 25&Acirc;&deg;C, 28 mM sodium succinate (pH 5.6), 10 mM CaCl2
+KCAT	Bos taurus	2.62	PrAD4KP26	*in 0.1 M Tris-HCl buffer pH 8.0 at 37&Acirc;&deg;C
+KCAT	Bos taurus	4	bovine trypsinogen	*21 &Acirc;&deg;C, 50 mM sodium citrate pH 5.6, 1 nM enteropeptidase
+KCAT	Bos taurus	6.9	bovine trypsinogen	*37 &Acirc;&deg;C, 25 mM Tris-HCl pH 8.4, 10 mM CaCl2, 0. 4 mM ovomucoid, 0.3 nM enteropeptidase
+KCAT	Bos taurus	8.8	human cationic trypsinogen	*37 &Acirc;&deg;C, 100 mM Tris-HCl (pH 8.0), 1 mM CaCl2, 120 nM soybean trypsin inhibitor, 0.45 nM enteropeptidase
+KCAT	Homo sapiens	11.2	A4-mutant trypsinogen	*37 &Acirc;&deg;C, 100 mM Tris-HCl (pH 8.0), 1 mM CaCl2, 120 nM soybean trypsin inhibitor, 0.13 nM enteropeptidase
+KCAT	Homo sapiens	35.1	human cationic trypsinogen	*37 &Acirc;&deg;C, 100 mM Tris-HCl pH 8.0, 1mM CaCl2, 120 nM soybean trypsin inhibitor, 0.13 nM enteropeptidase
+KCAT	Homo sapiens	58.38	Gly-L-Asp-L-Asp-L-Asp-L-Asp-L-Lys-2-naphthylamide	*at pH 8.0 and 37&Acirc;&deg;C

@@ -1,0 +1,3 @@
+KCAT	Escherichia coli	167.9	NADPH	*at pH 7.5 and 35&deg;C; pH 7.5, 35&deg;C
+KCAT	Pseudomonas aeruginosa	233	NADPH	*
+KCAT	Escherichia coli	259.5	thio-NAD+	*at pH 7.5 and 35&deg;C; pH 7.5, 35&deg;C

@@ -1,0 +1,14 @@
+KCAT	Escherichia coli	0.0008	nicked DNA	*
+KCAT	Pseudoalteromonas haloplanktis	0.01	nicked DNA	*4&deg;C, pH 7.8
+KCAT	Escherichia coli	0.016	nicked DNA	*45&deg;C, pH 7.8
+KCAT	Escherichia coli	0.021	nicked DNA	*18&deg;C, pH 7.8
+KCAT	Escherichia coli	0.03	nicked DNA	*30&deg;C, pH 7.8
+KCAT	Aquifex aeolicus	0.033	nicked substrate	*pH 7.6, 65&deg;C
+KCAT	Pseudoalteromonas haloplanktis	0.034	nicked DNA	*18&deg;C, pH 7.8
+KCAT	Pseudoalteromonas haloplanktis	0.047	nicked DNA	*25&deg;C, pH 7.8
+KCAT	Thermus scotoductus	0.053	nicked DNA	*45&deg;C, pH 7.8
+KCAT	Mycobacterium tuberculosis	0.072	NAD+	*
+KCAT	Streptococcus pneumoniae	0.1	NAD+	*pH 8.0, 21&deg;C
+KCAT	Thermus scotoductus	0.132	nicked DNA	*60&deg;C, pH 7.8
+KCAT	Streptococcus pneumoniae	0.27	deoxyribonucleotide	*co-substrate: NAD+, mutant L75F, 25&deg;C, pH 7.5; co-substrate: NAD+, wild-type, 25&deg;C, pH 7.5
+KCAT	Melanoplus sanguinipes	0.4	DNA	*pH 7.6, 21&deg;C, C/G matched nick DNA substrate

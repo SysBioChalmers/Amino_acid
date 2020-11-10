@@ -1,0 +1,1 @@
+ecNumber*3.5.1.111#turnoverNumber*194#turnoverNumberMaximum*#substrate*2-Oxoglutaramate#commentary*pH 7.1, 30 &deg;C#organism*Paenarthrobacter nicotinovorans#ligandStructureId*881#literature*721018#

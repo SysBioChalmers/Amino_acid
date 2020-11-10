@@ -1,0 +1,8 @@
+KCAT	Pisum sativum	2	linoleate	*pH 6.3, 25&deg;C, recombinant enzyme and enzyme from pea seed
+KCAT	Nakataea oryzae	8.3	(9Z,12Z)-octadeca-9,12-dienoic acid	*pH 9.0, 22&deg;C
+KCAT	Olea europaea	47.8	linolenate	*25&deg;C
+KCAT	Olea europaea	48.6	linoleate	*25&deg;C
+KCAT	Pisum sativum	65	linoleate	*pH 6.3, 25&deg;C, recombinant enzyme
+KCAT	Pisum sativum	65	linoleate	*wild-type enzyme
+KCAT	Pisum sativum	78	linoleate	*pH 6.3, 25&deg;C, enzyme from pea seed
+KCAT	Solanum tuberosum	106	linoleate	*pH 5.5, 25&deg;C

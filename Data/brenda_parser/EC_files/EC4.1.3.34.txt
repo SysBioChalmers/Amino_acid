@@ -1,0 +1,1 @@
+KCAT	Hydrogenobacter thermophilus	570	citryl-CoA	*pH 8.0, 70&deg;C

@@ -1,0 +1,31 @@
+KCAT	Thermofilum pendens	-999	more	*the kinetic mechanism is random order with a rapid equilibrium
+KCAT	Thermofilum pendens	0.16	ADP	*pH 6.0, 45&deg;C, in presence of Mg2+
+KCAT	Thermofilum pendens	0.2	ADP	*pH 6.0, 45&deg;C, in presence of Mn2+
+KCAT	Thermofilum pendens	0.38	phosphoenolpyruvate	*pH 6.0, 45&deg;C, in presence of Mg2+
+KCAT	Thermofilum pendens	1	phosphoenolpyruvate	*pH 6.0, 45&deg;C, in presence of Mn2+
+KCAT	Saccharomyces cerevisiae	1.97	phosphoenolpyruvate	*mutant enzyme T298A, activated be Tl+ and Mn2+
+KCAT	Homo sapiens	3.2	phosphoenolpyruvate	*wild type enzyme, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KCAT	Saccharomyces cerevisiae	12.1	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mn2+-activated
+KCAT	Saccharomyces cerevisiae	12.2	phosphoenolpyruvate	*mutant enzyme T298C, activated be Tl+ and Mn2+
+KCAT	Saccharomyces cerevisiae	13.9	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mn2+- and fructose 1,6-bisphosphate activated
+KCAT	Saccharomyces cerevisiae	21.5	phosphoenolpyruvate	*mutant enzyme T298S, activated be Tl+ and Mn2+
+KCAT	Saccharolobus solfataricus	39.67	phosphoenolpyruvate	*50&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	40.06	ADP	*50&deg;C, pH not specified in the publication
+KCAT	Saccharomyces cerevisiae	41.3	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mg2+- and fructose 1,6-bisphosphate activated
+KCAT	Toxoplasma gondii	47.6	ADP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KCAT	Saccharolobus solfataricus	50.12	phosphoenolpyruvate	*65&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	52.85	ADP	*65&deg;C, pH not specified in the publication
+KCAT	Saccharomyces cerevisiae	58.4	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mn2+-activated
+KCAT	Saccharolobus solfataricus	58.4	phosphoenolpyruvate	*70&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	58.78	ADP	*70&deg;C, pH not specified in the publication
+KCAT	Saccharomyces cerevisiae	66	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mn2+- and fructose 1,6-bisphosphate activated
+KCAT	Saccharolobus solfataricus	73.04	phosphoenolpyruvate	*80&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	80.29	ADP	*80&deg;C, pH not specified in the publication
+KCAT	Toxoplasma gondii	110	GDP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KCAT	Toxoplasma gondii	131	IDP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KCAT	Homo sapiens	161	phosphoenolpyruvate	*mutant enzyme E117K, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KCAT	Saccharomyces cerevisiae	226	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mg2+ and fructose 1,6-bisphosphate activated
+KCAT	Saccharomyces cerevisiae	232	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mg2+-activated
+KCAT	Homo sapiens	1182	phosphoenolpyruvate	*wild type enzyme, in the presence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KCAT	Geobacillus stearothermophilus	1736	phosphoenolpyruvate	*mutant enzyme C9S/C268S, in the presence of 0.1 mM ribose 5'-phosphate, in 50 mM imidazole-HCl buffer, pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactate dehydrogenase, 2 mM PEP, and 4 mM ADP, at 30&deg;C
+KCAT	Geobacillus stearothermophilus	3204	phosphoenolpyruvate	*wild type enzyme, in the presence of 0.1 mM ribose 5'-phosphate, in 50 mM imidazole-HCl buffer, pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactate dehydrogenase, 2 mM PEP, and 4 mM ADP, at 30&deg;C

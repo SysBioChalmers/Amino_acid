@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	0.06	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser(glycosyl)-Ser-Lys(DABCYL)	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.28	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser-Ser-Lys(DABCYL)	*pH 7.5, 22&Acirc;&deg;C

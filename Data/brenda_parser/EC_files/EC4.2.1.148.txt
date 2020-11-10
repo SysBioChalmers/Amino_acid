@@ -1,0 +1,2 @@
+KCAT	Chloroflexus aurantiacus	1700	(2R,3S)-2-methylmalyl-CoA	*55&deg;C, pH not specified in the publication, dehydration of erythro-beta-methylmalyl-CoA to mesaconyl-CoA
+KCAT	Rhodobacter sphaeroides	1900	(2R,3S)-2-methylmalyl-CoA	*30&deg;C, pH not specified in the publication, dehydration of erythro-beta-methylmalyl-CoA to mesaconyl-CoA

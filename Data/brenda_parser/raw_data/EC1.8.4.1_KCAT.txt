@@ -1,0 +1,1 @@
+ecNumber*1.8.4.1#turnoverNumber*0.056#turnoverNumberMaximum*#substrate*cysteine#commentary*pH 5.2, 40&deg;C#organism*Aspergillus flavipes#ligandStructureId*153#literature*743409#!ecNumber*1.8.4.1#turnoverNumber*0.078#turnoverNumberMaximum*#substrate*glutathione#commentary*pH 5.2, 40&deg;C#organism*Aspergillus flavipes#ligandStructureId*44#literature*743409#

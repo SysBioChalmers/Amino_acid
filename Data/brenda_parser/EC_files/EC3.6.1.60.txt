@@ -1,0 +1,7 @@
+KCAT	Homo sapiens	0.16	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 7.6, 37&Acirc;&deg;C, hApsI-39N
+KCAT	Homo sapiens	0.17	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 7.6, 37&Acirc;&deg;C, hApsI
+KCAT	Homo sapiens	0.2	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 7.6, 37&Acirc;&deg;C, hAps2
+KCAT	Homo sapiens	0.5	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 7.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.4	P1,P5-bis(5'-adenosyl)pentaphosphate	*pH 7.6, 37&Acirc;&deg;C, hApsI; pH 7.6, 37&Acirc;&deg;C, hApsI-39N
+KCAT	Homo sapiens	0.42	P1,P5-bis(5'-adenosyl)pentaphosphate	*pH 7.6, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.8	P1,P5-bis(5'-adenosyl)pentaphosphate	*pH 7.6, 37&Acirc;&deg;C, hAps2

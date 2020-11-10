@@ -1,0 +1,5 @@
+KCAT	Drosophila melanogaster	26.4	N-formyl-L-kynurenine	*pH 7.4, 22&deg;C, recombinant enzyme
+KCAT	Burkholderia cenocepacia	43.94	N-formyl-L-kynurenine	*pH 7.4, 25&deg;C, recombinant enzyme
+KCAT	Bacillus anthracis	50.56	N-formyl-L-kynurenine	*pH 7.4, 25&deg;C, recombinant enzyme
+KCAT	Pseudomonas aeruginosa	114.2	N-formyl-L-kynurenine	*pH 7.4, 25&deg;C, recombinant enzyme
+KCAT	Saccharomyces cerevisiae	161	N-formyl-L-kynurenine	*

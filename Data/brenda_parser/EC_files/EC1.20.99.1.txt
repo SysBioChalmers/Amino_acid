@@ -1,0 +1,12 @@
+KCAT	Homo sapiens	0.012	arsenate	*pH 8.5, 30&Acirc;&deg;C, 2 mM glutathione
+KCAT	Homo sapiens	0.017	arsenate	*pH 8.5, 30&Acirc;&deg;C, 2 mM glutathione
+KCAT	Homo sapiens	0.025	arsenate	*pH 8.5, 30&Acirc;&deg;C, 5 mM glutathione
+KCAT	Oryza sativa	0.03	arsenate	*mutant C70S
+KCAT	Homo sapiens	0.03	arsenate	*pH 8.5, 30&Acirc;&deg;C, 5 mM glutathione
+KCAT	Oryza sativa	0.05	arsenate	*mutant C71S
+KCAT	Oryza sativa	0.14	arsenate	*
+KCAT	Oryza sativa	0.33	arsenate	*
+KCAT	Chrysiogenes arsenatis	14400	arsenate	*
+KCAT	Hydrogenophaga sp. NT14	30.4	arsenite	*pH 5.5, calculated with an Mr of 309000 Da
+KCAT	Oryza sativa	0.19	reduced glutaredoxin	*
+KCAT	Oryza sativa	0.26	reduced glutaredoxin	*

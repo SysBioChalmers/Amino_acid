@@ -1,0 +1,3 @@
+KCAT	Anaerotignum propionicum	25	beta-alanyl-CoA	*pH 7.0
+KCAT	Anaerotignum propionicum	195	acryloyl-CoA	*pH 7.5
+KCAT	Anaerotignum propionicum	301	NH3	*pH 7.5

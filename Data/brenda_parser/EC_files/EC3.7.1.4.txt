@@ -1,0 +1,9 @@
+KCAT	Mycobacteroides abscessus	0.05	phloretin	*mutant enzyme H269A, at pH 6.5 and 25&deg;C
+KCAT	Mycobacteroides abscessus	0.07	phloretin	*mutant enzyme H133A, at pH 6.5 and 25&deg;C
+KCAT	Mycobacteroides abscessus	0.13	phloretin	*mutant enzyme H217A, at pH 6.5 and 25&deg;C
+KCAT	Mycobacteroides abscessus	0.16	phloretin	*mutant enzyme Y232A, at pH 6.5 and 25&deg;C
+KCAT	Mycobacteroides abscessus	0.85	phloretin	*wild type enzyme, at pH 6.5 and 25&deg;C
+KCAT	Rattus norvegicus	1	pyridoxine-5'-beta-D-glucoside	*pH 6.0, 37&deg;C
+KCAT	*	10	phloretin	*pH 7.0, 37&deg;C; recombinant enzyme, pH 7.0, 37&deg;C
+KCAT	Rattus norvegicus	47	lactose	*pH 6.0, 37&deg;C
+KCAT	Mycobacteroides abscessus	49.6	monoacetylphloroglucinol	*wild type enzyme, at pH 6.5 and 25&deg;C

@@ -1,0 +1,8 @@
+KCAT	Escherichia virus K1E	0.01	polysialic acid	*37&deg;C, pH 6.5, G153A
+KCAT	Escherichia virus K1E	0.2	polysialic acid	*37&deg;C, pH 6.5, D138A
+KCAT	Escherichia virus K1E	0.4	polysialic acid	*37&deg;C, pH 6.5, wild-type
+KCAT	Escherichia virus K1E	0.5	polysialic acid	*37&deg;C, pH 6.5, Trunc N45
+KCAT	Escherichia virus K1E	1.2	polysialic acid	*37&deg;C, pH 6.5, D154A
+KCAT	Enterobacteria phage K1F	1.28	trifluoromethylumbelliferyl sialotrioside	*at pH 4.5
+KCAT	Escherichia virus K1E	1.4	polysialic acid	*37&deg;C, pH 6.5, DELTA P-loop
+KCAT	Enterobacteria phage K1F	4.37	tetrameric silica acid	*identical kinetic parameters for wild type and cleavage site mutant S911A

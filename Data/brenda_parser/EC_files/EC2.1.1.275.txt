@@ -1,0 +1,2 @@
+KCAT	Arabidopsis thaliana	0.01	gibberellin a4	*pH 8.0, 30&deg;C
+KCAT	Arabidopsis thaliana	0.026	gibberellin a9	*pH 8.0, 30&deg;C

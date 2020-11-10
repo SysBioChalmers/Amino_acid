@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	0.002	1-diphospho-1D-myo-inositol 2,3,4,5,6-pentakisphosphate	*isoform PPIP5K2, in 20 mM HEPES-NaOH pH 7.2, 50 m MKCl, at 37&deg;C
+KCAT	Homo sapiens	0.13	5-diphospho-1D-myo-inositol 1,2,3,4,6-pentakisphosphate	*isoform PPIP5K2, in 20 mM HEPES-NaOH pH 7.2, 50 mM KCl, at 37&deg;C
+KCAT	Homo sapiens	0.19	1,5-bis-diphospho-1D-myo-inositol 2,3,4,6-tetrakisphosphate	*isoform PPIP5K2, in 20 mM HEPES-NaOH pH 7.2, 50 mM KCl, at 37&deg;C
+KCAT	Homo sapiens	4	1D-myo-inositol 5-diphosphate pentakisphosphate	*pH 6.2, 37&deg;C, VIP1
+KCAT	Homo sapiens	38	1D-myo-inositol 5-diphosphate pentakisphosphate	*pH 6.2, 37&deg;C, VIP2

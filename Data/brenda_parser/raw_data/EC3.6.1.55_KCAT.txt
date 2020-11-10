@@ -1,0 +1,1 @@
+ecNumber*3.6.1.55#turnoverNumber*2.55#turnoverNumberMaximum*#substrate*8-oxo-dGTP#commentary*pH 9.5, 30&Acirc;&deg;C#organism*Ciona intestinalis#ligandStructureId*2299#literature*715113#

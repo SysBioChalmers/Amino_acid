@@ -1,0 +1,39 @@
+KCAT	Escherichia coli	0.001	4-nitrophenyl beta-D-glucuronide	*wild-type enzyme
+KCAT	Homo sapiens	0.004	4-methylumbelliferyl-beta-D-glucuronide	*37&deg;C, pH 5.0, mutant enzyme E540A
+KCAT	Homo sapiens	0.015	4-methylumbelliferyl-beta-D-glucuronide	*37&deg;C, pH 4.0-5.0, mutant enzyme E451A
+KCAT	Homo sapiens	0.2	4-methylumbelliferyl-beta-D-glucuronide	*37&deg;C, mutant enzyme Y540A
+KCAT	Homo sapiens	0.26	quercetin 4'-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KCAT	Thermotoga maritima	0.33	4-nitrophenyl beta-D-glucuronide	*65&deg;C, pH 6.5, mutant enzyme E383A
+KCAT	Homo sapiens	0.35	equol 7-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	0.65	kaempferol 3-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	0.67	4-nitrophenyl-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KCAT	Aspergillus oryzae	0.89	glycyrrhetinic acid 3-O-mono-beta-D-glucuronide	*pH 5.0, 40&deg;C, mutant enzyme R563K
+KCAT	Thermotoga maritima	0.98	4-nitrophenyl beta-D-glucuronide	*65&deg;C, pH 6.5, mutant enzyme E383Q
+KCAT	Homo sapiens	1.07	daidzein 7-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	1.65	quercetin 7-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	1.9	quercetin-3-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KCAT	Aspergillus oryzae	2.72	glycyrrhizin	*pH 5.0, 40&deg;C, mutant enzyme A365T/R563E
+KCAT	Aspergillus oryzae	3.06	glycyrrhizin	*pH 5.0, 40&deg;C, mutant enzyme A365H/R563E
+KCAT	Aspergillus oryzae	3.23	glycyrrhizin	*pH 5.0, 40&deg;C, wild-type enzyme
+KCAT	Aspergillus oryzae	3.28	glycyrrhizin	*pH 5.0, 40&deg;C, mutant enzyme A365T
+KCAT	Aspergillus oryzae	3.32	glycyrrhetinic acid 3-O-mono-beta-D-glucuronide	*pH 5.0, 40&deg;C, mutant enzyme V447Q
+KCAT	Aspergillus oryzae	3.52	glycyrrhizin	*pH 5.0, 40&deg;C, mutant enzyme R563K
+KCAT	Aspergillus oryzae	4.36	glycyrrhetinic acid 3-O-mono-beta-D-glucuronide	*pH 5.0, 40&deg;C, mutant enzyme A365T
+KCAT	Aspergillus oryzae	6.03	glycyrrhizin	*pH 5.0, 40&deg;C, mutant enzyme V447Q
+KCAT	Aspergillus oryzae	7.01	glycyrrhizin	*pH 5.0, 40&deg;C, mutant enzyme V447Q/R563K
+KCAT	Aspergillus oryzae	7.81	glycyrrhetinic acid 3-O-mono-beta-D-glucuronide	*pH 5.0, 40&deg;C, wild-type enzyme
+KCAT	Thermotoga maritima	9	4-nitrophenyl beta-D-glucoside	*pH 6.5, 75&deg;C, recombinant His6-tagged enzyme
+KCAT	Thermotoga maritima	9	4-nitrophenyl beta-D-glucoside	*75&deg;C, pH 6.5, wild-type enzyme
+KCAT	Talaromyces purpureogenus	23.3	glycyrrhizin	*pH 5, 55&deg;C, low-shear modeled microgravity
+KCAT	Talaromyces purpureogenus	27.84	glycyrrhizin	*pH 5, 55&deg;C, normal gravity
+KCAT	Thermotoga maritima	29	4-nitrophenyl beta-D-glucuronide	*pH 6.5, 65&deg;C, recombinant His6-tagged enzyme
+KCAT	Thermotoga maritima	29	4-nitrophenyl beta-D-glucuronide	*65&deg;C, pH 6.5, wild-type enzyme
+KCAT	Thermotoga maritima	68	4-nitrophenyl beta-D-glucuronide	*pH 6.5, 75&deg;C, recombinant His6-tagged enzyme
+KCAT	Thermotoga maritima	68	4-nitrophenyl beta-D-glucuronide	*75&deg;C, pH 6.5, wild-type enzyme
+KCAT	Escherichia coli	68	4-nitrophenyl beta-D-xylopyranoside	*wild-type enzyme
+KCAT	Mus musculus	200	4-nitrophenyl-beta-glucuronide	*
+KCAT	Homo sapiens	276	4-methylumbelliferyl-beta-D-glucuronide	*37&deg;C, pH 4.5, wild-type enzyme
+KCAT	Thermotoga maritima	443	4-nitrophenyl beta-D-galactosiduronide	*pH 6.5, 75&deg;C, recombinant His6-tagged enzyme
+KCAT	Thermotoga maritima	443	4-nitrophenyl beta-D-galactosiduronide	*75&deg;C, pH 6.5, wild-type enzyme
+KCAT	Escherichia coli	1100	4-nitrophenyl-beta-D-glucuronide	*mutant enzyme Q493R/T509A/M532T/N550S/G559S/N566S
+KCAT	Escherichia coli	1500	4-nitrophenyl-beta-D-glucuronide	*wild type enzyme

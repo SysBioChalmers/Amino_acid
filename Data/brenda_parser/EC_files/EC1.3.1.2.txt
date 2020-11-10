@@ -1,0 +1,7 @@
+KCAT	Sus scrofa	0.068	Uracil	*pH 7.5, 30&deg;C, recombinant mutant H673N
+KCAT	Sus scrofa	0.117	Uracil	*pH 7.5, 30&deg;C, recombinant mutant H673Q
+KCAT	Sus scrofa	0.177	Uracil	*pH 7.5, 30&deg;C, recombinant mutant S670A
+KCAT	Sus scrofa	0.242	Uracil	*pH 7.5, 30&deg;C, recombinant wild-type enzyme
+KCAT	Sus scrofa	0.256	Uracil	*pH 7.5, 30&deg;C, recombinant mutant C126A
+KCAT	Bos taurus	0.4	5,6-dihydrouracil	*
+KCAT	Bos taurus	1.6	Uracil	*

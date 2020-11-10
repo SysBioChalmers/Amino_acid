@@ -1,0 +1,1 @@
+ecNumber*2.1.1.61#turnoverNumber*1.23#turnoverNumberMaximum*#substrate*5-aminomethyl-2-thiouridine#commentary*#organism*Escherichia coli#ligandStructureId*45223#literature*441224#

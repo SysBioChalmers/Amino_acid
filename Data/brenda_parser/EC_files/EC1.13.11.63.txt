@@ -1,0 +1,20 @@
+KCAT	Mus musculus	0.0001	beta-carotene	*
+KCAT	uncultured marine bacterium	0.0003	gamma-carotene	*pH 8.0, 40&deg;C
+KCAT	uncultured marine bacterium	0.001	alpha-carotene	*pH 8.0, 40&deg;C
+KCAT	Galleria mellonella	0.00817	alpha-carotene	*
+KCAT	Gallus gallus	0.0082	gamma-carotene	*
+KCAT	Gallus gallus	0.0083	alpha-carotene	*
+KCAT	Galleria mellonella	0.00867	beta-carotene	*
+KCAT	uncultured marine bacterium	0.01	beta-apo-4'-carotenal	*pH 8.0, 40&deg;C
+KCAT	Homo sapiens	0.011	beta-carotene	*
+KCAT	uncultured marine bacterium	0.013	beta-cryptoxanthin	*pH 8.0, 40&deg;C
+KCAT	Gallus gallus	0.015	beta-apo-4'-carotenal	*
+KCAT	Gallus gallus	0.0183	beta-apo-8'-carotenal	*
+KCAT	Gallus gallus	0.0275	beta-carotene	*
+KCAT	Gallus gallus	0.0333	beta-cryptoxanthin	*
+KCAT	uncultured marine bacterium	0.037	beta-carotene	*pH 8.0, 40&deg;C
+KCAT	Homo sapiens	0.0395	beta-carotene	*pH 8.0, 37&deg;C, recombinant mutant K108L
+KCAT	Homo sapiens	0.04	beta-carotene	*pH 8.0, 37&deg;C, recombinant mutant K108F
+KCAT	Homo sapiens	0.046	beta-carotene	*pH 8.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.668	beta-cryptoxanthin	*
+KCAT	Homo sapiens	7.5	beta-carotene	*recombinant enzyme, pH 7.5, temperature not specified in the publication

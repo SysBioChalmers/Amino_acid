@@ -1,0 +1,28 @@
+KCAT	Zea mays	0.1	O2	*below, pH 8.0, recombinant enzyme
+KCAT	Zea mays	0.6	O2	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	0.8	cytochrome c	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	178.4	2,6-dichlorophenolindophenol	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	278	2,6-dichlorophenolindophenol	*pH 8.0, recombinant enzyme
+KCAT	Zea mays	0.3	caffeic acid	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	169.6	1,4-Naphthoquinone	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	123.1	coenzyme Q1	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	1.4	scopoletin	*pH 6.5, recombinant enzyme
+KCAT	Arabidopsis thaliana	5.4	N6-(2-isopentenyl)adenine	*with 2,3-dimethoxy-5-methyl-p-benzoquinone, pH 7.0, 37&Acirc;&deg;C
+KCAT	Zea mays	40	N6-(2-isopentenyl)adenine	*pH 6.5, 25&Acirc;&deg;C
+KCAT	Zea mays	143.6	N6-(2-isopentenyl)adenine	*pH 6.5, recombinant enzyme, with cofactor 2,3-dimethoxy-5-methyl-1,4-benzoquinone
+KCAT	Zea mays	0.4	rosmarinic acid	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	143.6	2,3-dimethoxy-5-methyl-1,4-benzoquinone	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	135	zeatin	*30&Acirc;&deg;C, pH 7.4
+KCAT	Zea mays	1.9	kinetin	*pH 6.5, 25&Acirc;&deg;C
+KCAT	Zea mays	2.3	vitamin K1	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	85.4	vitamin K3	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	128	N6-isopentenyladenine	*30&Acirc;&deg;C, pH 7.4
+KCAT	Zea mays	0.3	o-coumaric acid	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	62	N6-isopentenyladenosine	*30&Acirc;&deg;C, pH 7.4
+KCAT	Zea mays	21	zeatin riboside	*30&Acirc;&deg;C, pH 7.4
+KCAT	Zea mays	129.8	N6-(2-isopentenyl)adenosine	*pH 6.5, recombinant enzyme, with cofactor 2,3-dimethoxy-5-methyl-1,4-benzoquinone
+KCAT	Zea mays	0.23	p-topolin	*pH 6.5, 25&Acirc;&deg;C
+KCAT	Zea mays	1	daphnoretin	*pH 6.5, recombinant enzyme
+KCAT	Zea mays	0.13	N-methyl-isopentenyladenine	*pH 6.5, 25&Acirc;&deg;C
+KCAT	Zea mays	-999	more	*at pH above pH 6.5 polymerization of the quinone acceptors occur
+KCAT	Zea mays	0.9	spinach plantacyanine	*pH 6.5, recombinant enzyme

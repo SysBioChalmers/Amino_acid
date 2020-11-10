@@ -1,0 +1,1 @@
+ecNumber*1.7.3.5#turnoverNumber*350#turnoverNumberMaximum*#substrate*3-nitropropanoate#commentary*#organism*Penicillium atrovenetum#ligandStructureId*12354#literature*394386#

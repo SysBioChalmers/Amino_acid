@@ -1,0 +1,1 @@
+ecNumber*2.6.1.17#turnoverNumber*24#turnoverNumberMaximum*#substrate*prephenate#commentary*pH 8.0, 30&deg;C#organism*Streptomyces avermitilis#ligandStructureId*353#literature*738632#

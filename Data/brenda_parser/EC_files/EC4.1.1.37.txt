@@ -1,0 +1,7 @@
+KCAT	Homo sapiens	0.317	uroporphyrinogen-III	*recombinant wild-type
+KCAT	Homo sapiens	0.361	uroporphyrinogen-III	*recombinant mutant K297N
+KCAT	Homo sapiens	0.425	uroporphyrinogen-III	*recombinant mutant G318R
+KCAT	Homo sapiens	0.102	uroporphyrinogen-I	*recombinant mutant G318R
+KCAT	Homo sapiens	0.104	uroporphyrinogen-I	*recombinant mutant K297N
+KCAT	Homo sapiens	0.124	uroporphyrinogen-I	*recombinant wild-type
+KCAT	Rhodopseudomonas palustris	-999	more	*

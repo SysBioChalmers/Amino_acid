@@ -1,0 +1,6 @@
+KCAT	Escherichia virus T4	0.000333	49-mer oligonucleotide	*mutant K121N enzyme, double-stranded substrate, containing a site-specific duplex cis-syn cyclobutane pyrimidine dimer
+KCAT	Escherichia virus T4	0.00167	49-mer oligonucleotide	*mutant R117N enzyme, double-stranded substrate, containing a site-specific duplex cis-syn cyclobutane pyrimidine dimer
+KCAT	Mus musculus	0.0026	ACUGGACA[rI][rI]U[rI]CUCCGAGG	*pH 7.5, 37&deg;C
+KCAT	Escherichia virus T4	0.005	49-mer oligonucleotide	*mutant Q15R enzyme, double-stranded substrate, containing a site-specific duplex cis-syn cyclobutane pyrimidine dimer
+KCAT	Escherichia virus T4	0.00667	49-mer oligonucleotide	*mutant K86N enzyme, double-stranded substrate, containing a site-specific duplex cis-syn cyclobutane pyrimidine dimer
+KCAT	Escherichia virus T4	0.0117	49-mer oligonucleotide	*wild type enzyme, double-stranded substrate, containing a site-specific duplex cis-syn cyclobutane pyrimidine dimer

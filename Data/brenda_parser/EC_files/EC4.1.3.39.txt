@@ -1,0 +1,36 @@
+KCAT	Paraburkholderia xenovorans	0.089	(4S)-4-hydroxy-2-oxopentanoate	*H20S mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.099	(4S)-4-hydroxy-2-oxopentanoate	*H20A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.13	pentaldehyde	*L87A/L89A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.131	(4R)-4-hydroxy-2-oxopentanoate	*Y290F mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.132	(4S)-4-hydroxy-2-oxopentanoate	*Y290F mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.17	(4R)-4-hydroxy-2-oxopentanoate	*Y290S mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.171	(4S)-4-hydroxy-2-oxopentanoate	*Y290S mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.26	Butyraldehyde	*L87A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.29	propionaldehyde	*L87A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.3	Butyraldehyde	*L87A/L89A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.32	pyruvate	*aldol addition reaction with propionaldehyde, L87A mutant protein, pH 8.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.38	(S)-4-hydroxy-2-oxohexanoate	*in 100 mM HEPES (pH 8.0), 1 mM MgCl2, at 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.4	glycolaldehyde	*pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans LB400	0.4	glycolaldehyde	*at 25&deg;C with 120 microg of BphI, 2 mM MnCl2 and 100 mM pyruvate
+KCAT	Mycobacterium tuberculosis	0.41	(S)-4-hydroxy-2-oxopentanoate	*in 100 mM HEPES (pH 8.0), 1 mM MgCl2, at 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.58	pentaldehyde	*L89A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.63	propionaldehyde	*L89A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.64	Butyraldehyde	*L89A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.64	pyruvate	*aldol addition reaction with propionaldehyde, L89A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.79	(S)-4-hydroxy-2-oxopentanoate	*in the absence of NADH, in 100 mM HEPES pH 8.0, at 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.86	acetaldehyde	*pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans LB400	0.86	acetaldehyde	*at 25&deg;C with 120 microg of BphI, 2 mM MnCl2 and 100 mM pyruvate
+KCAT	Paraburkholderia xenovorans	0.86	acetaldehyde	*wild type protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	0.94	acetaldehyde	*L89A mutant protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.2	pyruvate	*aldol addition reaction with propionaldehyde, wild type protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	1.79	propionaldehyde	*pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans LB400	1.79	propionaldehyde	*at 25&deg;C with 120 microg of BphI, 2 mM MnCl2 and 100 mM pyruvate
+KCAT	Paraburkholderia xenovorans	1.79	propionaldehyde	*wild type protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	4.07	(4S)-4-hydroxy-2-oxopentanoate	*wild type protein, pH 8.0, 25&deg;C
+KCAT	Paraburkholderia xenovorans	4.07	(S)-4-hydroxy-2-oxopentanoate	*in the presence of NADH, in 100 mM HEPES pH 8.0, at 25&deg;C
+KCAT	Escherichia coli	5.6	(R,S)-glyceraldehyde	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	64.9	Succinic semialdehyde	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	132.5	Butyraldehyde	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	175.5	glycolaldehyde	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	205.4	acetaldehyde	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	358.4	propionaldehyde	*pH 8.0, 25&deg;C

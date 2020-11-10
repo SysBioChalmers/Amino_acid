@@ -1,0 +1,12 @@
+KCAT	Porphyromonas gingivalis	2.65	Gly-Ala-Pro-beta-naphthylamide	*prolyl tripeptidyl aminopeptidase with an N-terminal truncation of 38 residues
+KCAT	Porphyromonas gingivalis	354	Gly-Ala-Pro-beta-naphthylamide	*
+KCAT	Porphyromonas gingivalis	354	Gly-Ala-Pro-beta-naphthylamide	*prolyl tripeptidyl aminopeptidase with an N-terminal truncation of 38 residues
+KCAT	Porphyromonas gingivalis	2.65	Gly-Ala-Pro-2-naphthylamide	*mutant enzyme E636A, in 20 mM Tris-HCl (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	6.8	Gly-Ala-Pro-2-naphthylamide	*mutant enzyme E636A, in 20 mM Tris-HCl (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	354	Gly-Ala-Pro-2-naphthylamide	*in 20 mM Tris-HCl buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	354	Gly-Ala-Pro-2-naphthylamide	*wild type enzyme, in 20 mM Tris-HCl (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	511	Gly-Ala-Pro-2-naphthylamide	*wild type enzyme, in 20 mM Tris-HCl (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	6.8	Ala-Phe-Pro-beta-naphthylamide	*E636A mutant
+KCAT	Porphyromonas gingivalis	511	Ala-Phe-Pro-beta-naphthylamide	*E636A mutant
+KCAT	Streptomyces mobaraensis	115	Gly-L-Ala-L-Pro-beta-naphthylamide	*pH 6.5, 30&Acirc;&deg;C
+KCAT	Streptomyces mobaraensis	43	Gly-L-Ala-Gly-L-Pro-beta-naphthylamide	*pH 6.5, 30&Acirc;&deg;C

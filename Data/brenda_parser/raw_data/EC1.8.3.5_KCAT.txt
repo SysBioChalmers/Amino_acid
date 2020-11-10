@@ -1,0 +1,1 @@
+ecNumber*1.8.3.5#turnoverNumber*0.000133#turnoverNumberMaximum*#substrate*farnesyl-L-cysteine#commentary*#organism*Homo sapiens#ligandStructureId*32638#literature*437709#

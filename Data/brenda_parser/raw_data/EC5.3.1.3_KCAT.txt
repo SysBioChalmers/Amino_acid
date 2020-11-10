@@ -1,0 +1,1 @@
+ecNumber*5.3.1.3#turnoverNumber*0.1823#turnoverNumberMaximum*#substrate*D-arabinose#commentary*#organism*Caldicellulosiruptor saccharolyticus#ligandStructureId*565#literature*702836#!ecNumber*5.3.1.3#turnoverNumber*0.0287#turnoverNumberMaximum*#substrate*D-altrose#commentary*#organism*Caldicellulosiruptor saccharolyticus#ligandStructureId*2649#literature*702836#

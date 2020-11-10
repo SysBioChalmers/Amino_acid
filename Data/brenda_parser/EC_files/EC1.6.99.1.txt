@@ -1,0 +1,23 @@
+KCAT	Bacillus subtilis	0.75	N-ethylmaleimide	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	8.07	N-ethylmaleimide	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	8.07	N-ethylmaleimide	*pH 7.5, 25&Acirc;&deg;C, native protein
+KCAT	Shewanella oneidensis	0.052	NEM	*pH 7.3
+KCAT	Shewanella oneidensis	9.54	NEM	*pH 7.3
+KCAT	Shewanella oneidensis	0.41	acrolein	*pH 7.3
+KCAT	Shewanella oneidensis	11.66	acrolein	*pH 7.3
+KCAT	Shewanella oneidensis	4.75	2-cyclohexen-1-one	*pH 7.3
+KCAT	Bacillus subtilis	0.53	2,4,6-trinitrotoluene	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	3.19	2,4,6-trinitrotoluene	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	3.19	2,4,6-trinitrotoluene	*pH 7.5, 25&Acirc;&deg;C, native protein
+KCAT	Shewanella oneidensis	0.03	nitroglycerin	*pH 7.3
+KCAT	Bacillus subtilis	0.82	nitroglycerin	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	3.72	nitroglycerin	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	3.72	nitroglycerin	*pH 7.5, 25&Acirc;&deg;C, native protein
+KCAT	Shewanella oneidensis	6.84	nitroglycerin	*pH 7.3
+KCAT	Bacillus subtilis	1.2	cyclohex-2-enone	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	4.38	cyclohex-2-enone	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	4.38	cyclohex-2-enone	*pH 7.5, 25&Acirc;&deg;C, native protein
+KCAT	Bacillus subtilis	1.17	trans-hex-2-enal	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	4.68	trans-hex-2-enal	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	4.68	trans-hex-2-enal	*pH 7.5, 25&Acirc;&deg;C, native protein
+KCAT	Bacillus subtilis	-999	more	*half-reaction kinetics of tagged and untagged enzyme

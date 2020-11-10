@@ -1,0 +1,143 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	L-serine	*in the presence of 100 mM CsCl, at pH 8.5 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.00017	L-serine	*overall-reaction, pH 7.8, 25&Acirc;&deg;C, mutant T183V enzyme
+KCAT	Arabidopsis thaliana	0.0155	L-serine	*recombinant isozyme AtTSBtype2, pH 8.2, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.016	L-serine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Zea mays	0.0223	L-serine	*recombinant isozyme TSB type 2, pH 8.2, 30&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.032	L-serine	*isoform TrpB2a, pH 7.5, 60&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.0817	L-serine	*mutant L166V, pH not specified in the publication, temperature not specified in the publication
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.15	L-serine	*37&Acirc;&deg;C, beta-elimination, enzyme encapsulated in tetramethylorthosilicate-derived wet silica gels
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.16	L-serine	*37&Acirc;&deg;C, beta-replacement, enzyme encapsulated in tetramethylorthosilicate-derived wet silica gels
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.183	L-serine	*mutant L166A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Saccharolobus solfataricus	0.2	L-serine	*isoform TrpB2i, pH 7.5, 60&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.24	L-serine	*without monovalent cations, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.26	L-serine	*37&Acirc;&deg;C, beta-elimination, enzyme in solution
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.35	L-serine	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Thermococcus kodakarensis	0.39	L-serine	*subunit TrpB2, at pH 7.5 and 85&Acirc;&deg;C; subunit TrpB2 plus subunit TrpA, at pH 7.5 and 85&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.4	L-serine	*overall-reaction, mutant D305A enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of Na+
+KCAT	Thermotoga maritima	0.44	L-serine	*pH 7.5, 80&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.8	L-serine	*overall-reaction, mutant D305A enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of K+
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.88	L-serine	*beta-reaction and overall-reaction, mutant D305A enzyme, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.91	L-serine	*without monovalent cations, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	1	L-serine	*pH 8.0, temperature not specified in the publication
+KCAT	Thermococcus kodakarensis	1.04	L-serine	*subunit TrpB1, at pH 7.5 and 85&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1.37	L-serine	*without monovalent cations, at pH 8.5 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1.6	L-serine	*beta-reaction, wild-type enzyme, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1.9	L-serine	*in the presence of 250 mM NaCl, at pH 6.5 and 25&Acirc;&deg;C; in the presence of 250 mM NaCl, at pH 8.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	1.987	L-serine	*mutant H100A
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2	L-serine	*overall-reaction, wild-type enzyme, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.08	L-serine	*in the presence of 100 mM KCl, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.61	L-serine	*overall-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.8	L-serine	*in the presence of 250 mM NaCl, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3	L-serine	*overall-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.3	L-serine	*beta-reaction, pH 7.8, 25&Acirc;&deg;C, mutant T183V enzyme; beta-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Thermococcus kodakarensis	3.46	L-serine	*subunit TrpB1 plus subunit TrpA, at pH 7.5 and 85&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	3.462	L-serine	*mutant Q364A
+KCAT	Thermotoga maritima	3.8	L-serine	*pH 7.5, 80&Acirc;&deg;C, recombinant TrpB1, beta-reaction
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4	L-serine	*in the presence of 100 mM KCl, at pH 8.5 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.51	L-serine	*beta-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.8	L-serine	*in the presence of 100 mM KCl, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5	L-serine	*overall-reaction, mutant D305A enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of NH4+
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.24	L-serine	*beta-reaction, pH 7.8, 25&Acirc;&deg;C, mutant T183V enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	6	L-serine	*in the presence of 100 mM CsCl, at pH 6.5 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	6.08	L-serine	*beta-reaction and overall-reaction, mutant D305A enzyme, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	6.15	L-serine	*in the presence of 100 mM CsCl, at pH 8.5 and 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	7.106	L-serine	*mutant N250A
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	7.8	L-serine	*overall-reaction, mutant D305A enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of Cs+
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	8	L-serine	*overall-reaction, wild-type enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of Na+
+KCAT	Thermotoga maritima	8	L-serine	*pH 7.5, 80&Acirc;&deg;C, recombinant (TrpA-TrpB1)2 tetrameric complex, beta-reaction
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	8.2	L-serine	*37&Acirc;&deg;C, beta-replacement, enzyme in solution
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	8.7	L-serine	*in the presence of 100 mM CsCl, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	10.3	L-serine	*overall-reaction, wild-type enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of NH4+
+KCAT	Mycobacterium tuberculosis	10.69	L-serine	*mutant S249A
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	12	L-serine	*overall-reaction, wild-type enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of K+
+KCAT	Mycobacterium tuberculosis	13.22	L-serine	*mutant S99A
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	14	L-serine	*overall-reaction, wild-type enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of Cs+
+KCAT	Mycobacterium tuberculosis	16.35	L-serine	*mutant T204A
+KCAT	Mycobacterium tuberculosis	20.48	L-serine	*mutant S390A
+KCAT	Mycobacterium tuberculosis	21.47	L-serine	*mutant Q128A
+KCAT	Mycobacterium tuberculosis	48.21	L-serine	*
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.0007	L-threonine	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.0035	L-threonine	*mutant L166A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.007	L-threonine	*mutant L166V, pH not specified in the publication, temperature not specified in the publication
+KCAT	Pyrococcus furiosus	0.61	L-threonine	*pH 8.0, temperature not specified in the publication
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.4	L-Ser	*cosubstrate indole
+KCAT	Escherichia coli	0.003	indole	*alpha-subunit, mutant T183V/A71G, pH 7.6, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.007	indole	*recombinant isozyme AtTSBtype2, pH 8.2, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.007	indole	*alpha-subunit, mutant T183V/A158G, pH 7.6, 25&Acirc;&deg;C; alpha-subunit, mutant T183V/A180G, pH 7.6, 25&Acirc;&deg;C; alpha-subunit, mutant T183V/A185G, pH 7.6, 25&Acirc;&deg;C; alpha-subunit, mutant T183V, pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.01	indole	*alpha-subunit, mutant T183V/A59G, pH 7.6, 25&Acirc;&deg;C
+KCAT	Zea mays	0.0102	indole	*recombinant isozyme TSB type 2, pH 8.2, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.011	indole	*alpha-subunit, mutant T183V/A67G, pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.02	indole	*alpha-subunit, mutant A71G, pH 7.6, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.033	indole	*beta-reaction, mutant R141A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.074	indole	*wild-type, pH 8.0, 60&Acirc;&deg;C
+KCAT	Escherichia coli	0.095	indole	*alpha-subunit, wild-type, pH 7.6, 25&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.11	indole	*mutant P14L/P19G/I69V/L274S/T292S, pH 8.0, 75&Acirc;&deg;C
+KCAT	Escherichia coli	0.16	indole	*wild-type, pH 8.0, 37&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.31	indole	*wild-type, pH 8.0, 75&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.31	indole	*subunit TrpB1, wild-type, pH 8.0, 75&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.34	indole	*mutant M156T/N178D, pH 8.0, 60&Acirc;&deg;C
+KCAT	Escherichia coli	0.34	indole	*mutant M149T/N171D, pH 8.0, 37&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	0.39	indole	*pH 7.5, 85&Acirc;&deg;C, reaction catalyzed by TrpB2; pH 7.5, 85&Acirc;&deg;C, reaction catalyzed by TrpB2 in presence of subunit TrpA
+KCAT	Archaeoglobus fulgidus	0.51	indole	*mutant P25L/P30G/I80V/L285S/T303S/T321A, pH 8.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.83	indole	*mutant M144T/N166D, pH 8.0, 75&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.88	indole	*beta-reaction, mutant D305A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	1	indole	*wild-type holoenzyme, pH 8.0, 75&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	1.04	indole	*pH 7.5, 85&Acirc;&deg;C, reaction catalyzed by TrpB1
+KCAT	Thermococcus kodakarensis	1.04	indole	*pH 7.5, 85&Acirc;&deg;C, the reaction is catalyzed by the complex of TrpB1 and TrpA
+KCAT	Pyrococcus furiosus	1.1	indole	*subunit TrpB1, mutant T292S, pH 8.0, 75&Acirc;&deg;C
+KCAT	Thermotoga maritima	1.28	indole	*wild-type, pH 8.0, 75&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1.6	indole	*beta-reaction, wild-type, pH 7.8, 25&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	2.2	indole	*subunit TrpB1, mutant E17G/I68V/F274S/T292S/T321A, pH 8.0, 75&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	2.531	indole	*mutant H100A
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.64	indole	*cosubstrate L-Ser
+KCAT	Pyrococcus furiosus	2.9	indole	*mutant P12L/E17G/I68V/F274S/T292S/T321A, pH 8.0, 75&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	2.9	indole	*subunit TrpB1, mutant P12L/E17G/I68V/F274S/T292S/T321A, pH 8.0, 75&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.3	indole	*beta-reaction, pH 7.8, 25&Acirc;&deg;C, mutant T183V enzyme; beta-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.3	indole	*37&Acirc;&deg;C, beta-replacement, enzyme encapsulated in tetramethylorthosilicate-derived wet silica gels
+KCAT	Thermotoga maritima	3.3	indole	*mutant M145T/N167D, pH 8.0, 75&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.41	indole	*cosubstrate L-Ser, presence of 20 mM Na+
+KCAT	Thermococcus kodakarensis	3.46	indole	*pH 7.5, 85&Acirc;&deg;C, reaction catalyzed by TrpB1 in presence of subunit TrpA
+KCAT	Thermococcus kodakarensis	3.46	indole	*pH 7.5, 85&Acirc;&deg;C, he reaction is catalyzed by TrpB1
+KCAT	Thermotoga maritima	4.2	indole	*pH 7.5, 80&Acirc;&deg;C, recombinant TrpB1, beta-reaction
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.27	indole	*cosubstrate L-Ser, presence of 20 mM Li+
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.51	indole	*beta-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.85	indole	*cosubstrate L-Ser, presence of 20 mM K+
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.24	indole	*beta-reaction, pH 7.8, 25&Acirc;&deg;C, mutant T183V enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.4	indole	*cosubstrate L-Ser
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.44	indole	*cosubstrate L-Ser, presence of 20 mM Cs+
+KCAT	Thermotoga maritima	5.8	indole	*mutant T292S, pH 8.0, 75&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	6.08	indole	*beta-reaction, mutant D305A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	6.427	indole	*mutant Q364A
+KCAT	Thermotoga maritima	9.8	indole	*mutant P19G/I69V/T292S, pH 8.0, 75&Acirc;&deg;C
+KCAT	Thermotoga maritima	10	indole	*pH 7.5, 80&Acirc;&deg;C, recombinant (TrpA-TrpB1)2 tetrameric complex, beta-reaction
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	10.1	indole	*37&Acirc;&deg;C, beta-replacement, enzyme in solution
+KCAT	Mycobacterium tuberculosis	21.14	indole	*mutant S99A
+KCAT	Mycobacterium tuberculosis	26.84	indole	*mutant S249A
+KCAT	Mycobacterium tuberculosis	34.73	indole	*mutant S390A
+KCAT	Mycobacterium tuberculosis	40.18	indole	*mutant N250A
+KCAT	Mycobacterium tuberculosis	50.65	indole	*mutant T204A
+KCAT	Mycobacterium tuberculosis	68.43	indole	*mutant Q128A
+KCAT	Mycobacterium tuberculosis	70.29	indole	*
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.06	serine	*serine deaminase reaction
+KCAT	Arabidopsis thaliana	0.015	O-phospho-L-serine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.015	O-phospho-L-serine	*isoform TrpB2a, pH 7.5, 60&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.3	O-phospho-L-serine	*isoform TrpB2i, pH 7.5, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.414	O-phospho-L-serine	*pH 7.5, 80&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.00017	1-(indol-3-yl)glycerol 3-phosphate	*overall-reaction, pH 7.8, 25&Acirc;&deg;C, mutant T183V enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.00059	1-(indol-3-yl)glycerol 3-phosphate	*alpha-reaction, pH 7.8, 25&Acirc;&deg;C, mutant T183V enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.063	1-(indol-3-yl)glycerol 3-phosphate	*alpha-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.16	1-(indol-3-yl)glycerol 3-phosphate	*overall-reaction, mutant R141A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.174	1-(indol-3-yl)glycerol 3-phosphate	*pH 7.5, 80&Acirc;&deg;C, recombinant TrpA, alpha-reaction
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.28	1-(indol-3-yl)glycerol 3-phosphate	*reaction of alpha subunit
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.3	1-(indol-3-yl)glycerol 3-phosphate	*alpha-reaction, wild-type enzyme, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.3	1-(indol-3-yl)glycerol 3-phosphate	*alpha-reaction, wild-type, and overall-reaction, wild-type and mutant D305A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.36	1-(indol-3-yl)glycerol 3-phosphate	*alpha-reaction, mutant R141A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.44	1-(indol-3-yl)glycerol 3-phosphate	*alpha-reaction, mutant D305A enzyme, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.44	1-(indol-3-yl)glycerol 3-phosphate	*alpha-reaction, mutant D305A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.61	1-(indol-3-yl)glycerol 3-phosphate	*overall-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3	1-(indol-3-yl)glycerol 3-phosphate	*overall-reaction, pH 7.8, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.7	1-(indol-3-yl)glycerol 3-phosphate	*reaction of alpha2beta2 complex
+KCAT	Thermotoga maritima	5.6	1-(indol-3-yl)glycerol 3-phosphate	*pH 7.5, 80&Acirc;&deg;C, recombinant (TrpA-TrpB1)2 tetrameric complex, alpha-reaction
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1.4	indoline	*overall-reaction, mutant D305A enzyme, pH 7.8, 25&Acirc;&deg;C, in presence of 100 mM Cs+
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*turnover of wild-type and mutant D305A in presence of different effectors for alpha-, and beta-reaction
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*activities of wild-type and mutants in presence of different effectors

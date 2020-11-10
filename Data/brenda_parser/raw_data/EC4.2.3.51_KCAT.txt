@@ -1,0 +1,1 @@
+ecNumber*4.2.3.51#turnoverNumber*4.1#turnoverNumberMaximum*#substrate*neryl diphosphate#commentary*pH 8.0, 30&Acirc;&deg;C#organism*Solanum lycopersicum#ligandStructureId*1451#literature*706501#

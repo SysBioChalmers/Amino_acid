@@ -1,0 +1,179 @@
+KCAT	Aspergillus niger	0.03	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant T290A
+KCAT	Aspergillus niger	0.031	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Aspergillus niger	0.04	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant S30P/T62A/H391Y; pH 4.5, 35&Acirc;&deg;C, recombinant mutant T62A
+KCAT	Aspergillus niger	0.052	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant S30P/H391Y
+KCAT	Aspergillus niger	0.057	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant D20C/A27C/S30P/G137A
+KCAT	Aspergillus niger	0.33	maltose	*8&Acirc;&deg;C, pH 4.5, wild-type G1
+KCAT	Aspergillus niger	0.46	maltose	*8&Acirc;&deg;C, pH 4.5, wild-type G2
+KCAT	Aspergillus niger	0.5	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant S119P
+KCAT	Aspergillus awamori	4.36	maltose	*mutant enzyme S411D
+KCAT	Rhizopus oryzae	6.08	maltose	*recombinant AmyD, pH 5.5, 40&Acirc;&deg;C
+KCAT	Aspergillus awamori	6.8	maltose	*wild-type enzyme
+KCAT	Aspergillus awamori	6.8	maltose	*recombinant enzyme expressed in Pichia pastoris
+KCAT	Aspergillus awamori	6.8	maltose	*recombinant glucoamylase
+KCAT	Clostridium thermoamylolyticum	7.1	maltose	*pH 4.5, recombinant enzyme
+KCAT	Byssochlamys spectabilis	7.2	maltose	*
+KCAT	Aspergillus niger	7.35	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant S30P/T290A
+KCAT	Aspergillus niger	7.46	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant T290A
+KCAT	Aspergillus niger	7.55	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Aspergillus awamori	7.78	maltose	*mutant enzyme S411C
+KCAT	Aspergillus awamori	8.67	maltose	*45&Acirc;&deg;C, pH 4.4
+KCAT	Aspergillus awamori	8.9	maltose	*50&Acirc;&deg;C, pH 4.5
+KCAT	Aspergillus niger	8.99	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant T62A
+KCAT	Aspergillus awamori	9.2	maltose	*wild-type enzyme
+KCAT	Aspergillus niger	9.3	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant S30P/T290A/H391Y
+KCAT	Rhizopus oryzae	9.3	maltose	*recombinant AmyC, pH 5.5, 40&Acirc;&deg;C
+KCAT	Aspergillus niger	9.42	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant S30P/T62A/H391Y
+KCAT	Aspergillus awamori	9.8	maltose	*mutant S184H
+KCAT	Aspergillus awamori	10.1	maltose	*mutant S119Yr
+KCAT	Aspergillus niger	10.13	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant S30P/H391Y
+KCAT	Aspergillus awamori	10.4	maltose	*mutant G83K
+KCAT	Aspergillus niger	10.5	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant H391Y
+KCAT	Aspergillus awamori	10.7	maltose	*recombinant enzyme expressed in Aspergillus niger
+KCAT	Aspergillus awamori	11.3	maltose	*recombinant enzyme expressed in Saccharomyces cerevisiae
+KCAT	Aspergillus niger	11.32	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant D20C/A27C/S30P/G137A
+KCAT	Aspergillus niger	13.31	maltose	*pH 4.5, 35&Acirc;&deg;C, recombinant mutant S119P
+KCAT	Aspergillus awamori	14.5	maltose	*mutant enzyme S411G
+KCAT	Thermoactinomyces vulgaris	16.9	maltose	*pH 6.5, 40&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus awamori	18.9	maltose	*mutant enzyme S411A
+KCAT	Aspergillus awamori	20.4	maltose	*wild-type enzyme
+KCAT	Thermomyces lanuginosus	25.3	maltose	*pH 5.0, 70&Acirc;&deg;C
+KCAT	Thermomyces lanuginosus	25.3	maltose	*pH 5.0, 70&Acirc;&deg;C
+KCAT	Rasamsonia emersonii	31.3	maltose	*45&Acirc;&deg;C, pH 4.5
+KCAT	Caulobacter vibrioides	38.2	maltose	*pH 5.0, 40&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	52	maltose	*
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis MB4	149	maltose	*pH 5.0, 75&Acirc;&deg;C
+KCAT	Aspergillus awamori	2	maltotriose	*recombinant glucoamylase
+KCAT	Rhizopus oryzae	19.5	maltotriose	*recombinant AmyD, pH 5.5, 40&Acirc;&deg;C
+KCAT	Byssochlamys spectabilis	27.2	maltotriose	*
+KCAT	Aspergillus awamori	27.6	maltotriose	*recombinant enzyme expressed in Pichia pastoris
+KCAT	Aspergillus awamori	28	maltotriose	*wild-type enzyme
+KCAT	Aspergillus awamori	30.9	maltotriose	*recombinant enzyme expressed in Saccharomyces cerevisiae
+KCAT	Aspergillus awamori	33.5	maltotriose	*recombinant enzyme expressed in Aspergillus niger
+KCAT	Aspergillus awamori	45	maltotriose	*mutant enzyme S119Y
+KCAT	Rhizopus oryzae	54.7	maltotriose	*recombinant AmyC, pH 5.5, 40&Acirc;&deg;C
+KCAT	Thermoactinomyces vulgaris	76.4	maltotriose	*pH 6.5, 40&Acirc;&deg;C, recombinant enzyme
+KCAT	Thielavia terrestris	91.7	maltotriose	*20&Acirc;&deg;C, pH 4.0
+KCAT	Thielavia terrestris	91.7	maltotriose	*pH 4.0, 20&Acirc;&deg;C
+KCAT	Caulobacter vibrioides	150	maltotriose	*pH 5.0, 40&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	330	maltotriose	*
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis MB4	368	maltotriose	*pH 5.0, 75&Acirc;&deg;C
+KCAT	Tetracladium sp.	0.75	starch	*soluble starch, pH 6.0, 30&Acirc;&deg;C
+KCAT	Byssochlamys spectabilis	3.4	starch	*pH 5.0, 55&Acirc;&deg;C
+KCAT	Arachniotus citrinus	3.5	starch	*immobilized enzyme, pH 5.5, 50&Acirc;&deg;C
+KCAT	Arachniotus citrinus	4.12	starch	*free enzyme, pH 5.5, 50&Acirc;&deg;C
+KCAT	Arachniotus citrinus	8.3	starch	*pH 3.5-5.5, 50&Acirc;&deg;C
+KCAT	Aspergillus niveus	14.2	starch	*
+KCAT	Byssochlamys spectabilis	36.6	starch	*pH 5.0, 55&Acirc;&deg;C
+KCAT	Aspergillus tritici	67.15	starch	*pH 5.0, 45&Acirc;&deg;C
+KCAT	Aspergillus niger	158.3	starch	*pH 5.0, 40&Acirc;&deg;C
+KCAT	Fusarium solani	217	starch	*pH 4.5, 40&Acirc;&deg;C, native enzyme
+KCAT	Fusarium solani	217	starch	*pH 5.5, 40&Acirc;&deg;C, native enzyme
+KCAT	Aspergillus niger	343	starch	*wild-type enzyme, pH 5.0, 40&Acirc;&deg;C
+KCAT	Fusarium solani	354	starch	*pH 4.5, 40&Acirc;&deg;C, ACG-13
+KCAT	Fusarium solani	367	starch	*pH 4.5, 40&Acirc;&deg;C, ACG-7
+KCAT	Saccharomyces cerevisiae	428	starch	*soluble
+KCAT	Fusarium solani	485	starch	*pH 5.5, 40&Acirc;&deg;C, EDTA-coupled enzyme
+KCAT	Fusarium solani	487	starch	*pH 4.5, 40&Acirc;&deg;C, ACG-1
+KCAT	Aspergillus niger	727	starch	*mutant enzyme, pH 5.0, 40&Acirc;&deg;C
+KCAT	Thermoactinomyces vulgaris	1.6	maltotetraose	*pH 6.5, 40&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus niger	3.2	maltotetraose	*8&Acirc;&deg;C, pH 4.5, wild-type G1 and G2
+KCAT	Rhizopus oryzae	40	maltotetraose	*recombinant AmyD, pH 5.5, 40&Acirc;&deg;C
+KCAT	Byssochlamys spectabilis	43.4	maltotetraose	*
+KCAT	Aspergillus awamori	44.7	maltotetraose	*recombinant enzyme expressed in Pichia pastoris
+KCAT	Aspergillus awamori	45	maltotetraose	*wild-type enzyme
+KCAT	Aspergillus awamori	45	maltotetraose	*recombinant glucoamylase
+KCAT	Aspergillus awamori	49.9	maltotetraose	*mutant enzyme S119Y
+KCAT	Thermoactinomyces vulgaris	70.7	maltotetraose	*pH 6.5, 40&Acirc;&deg;C, recombinant enzyme
+KCAT	Rhizopus oryzae	71.1	maltotetraose	*recombinant AmyC, pH 5.5, 40&Acirc;&deg;C
+KCAT	Caulobacter vibrioides	155	maltotetraose	*pH 5.0, 40&Acirc;&deg;C
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis MB4	460	maltotetraose	*pH 5.0, 75&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	720	maltotetraose	*
+KCAT	Aspergillus awamori	27.3	maltopentaose	*wild-type enzyme
+KCAT	Byssochlamys spectabilis	41.1	maltopentaose	*
+KCAT	Aspergillus awamori	41.8	maltopentaose	*mutant enzyme S119Y
+KCAT	Rhizopus oryzae	43.8	maltopentaose	*recombinant AmyD, pH 5.5, 40&Acirc;&deg;C
+KCAT	Aspergillus awamori	44	maltopentaose	*recombinant glucoamylase
+KCAT	Thermoactinomyces vulgaris	56.3	maltopentaose	*pH 6.5, 40&Acirc;&deg;C, recombinant enzyme
+KCAT	Rhizopus oryzae	73.7	maltopentaose	*recombinant AmyC, pH 5.5, 40&Acirc;&deg;C
+KCAT	Caulobacter vibrioides	122	maltopentaose	*pH 5.0, 40&Acirc;&deg;C
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis MB4	518	maltopentaose	*pH 5.0, 75&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	800	maltopentaose	*
+KCAT	Rhizopus oryzae	38.4	maltohexaose	*recombinant AmyD, pH 5.5, 40&Acirc;&deg;C
+KCAT	Byssochlamys spectabilis	41.6	maltohexaose	*
+KCAT	Aspergillus awamori	49	maltohexaose	*wild-type enzyme
+KCAT	Aspergillus awamori	49	maltohexaose	*recombinant glucoamylase
+KCAT	Aspergillus awamori	50.3	maltohexaose	*mutant enzyme S119Y
+KCAT	Thermoactinomyces vulgaris	55	maltohexaose	*pH 6.5, 40&Acirc;&deg;C, recombinant enzyme
+KCAT	Rhizopus oryzae	71.3	maltohexaose	*recombinant AmyC, pH 5.5, 40&Acirc;&deg;C
+KCAT	Caulobacter vibrioides	125	maltohexaose	*pH 5.0, 40&Acirc;&deg;C
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis MB4	459	maltohexaose	*pH 5.0, 75&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	717	maltohexaose	*
+KCAT	Aspergillus awamori	15.8	maltoheptaose	*mutant enzyme S411D
+KCAT	Aspergillus awamori	33	maltoheptaose	*mutant enzyme S411C
+KCAT	Byssochlamys spectabilis	46.6	maltoheptaose	*
+KCAT	Aspergillus awamori	54	maltoheptaose	*wild-type enzyme
+KCAT	Aspergillus awamori	54	maltoheptaose	*recombinant glucoamylase
+KCAT	Aspergillus awamori	57	maltoheptaose	*mutant enzyme S119Y
+KCAT	Aspergillus awamori	59.4	maltoheptaose	*mutant enzyme S411A
+KCAT	Thermoactinomyces vulgaris	61.6	maltoheptaose	*pH 6.5, 40&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus awamori	66	maltoheptaose	*wild-type enzyme
+KCAT	Aspergillus awamori	72	maltoheptaose	*mutant enzyme G183K
+KCAT	Aspergillus awamori	72.3	maltoheptaose	*wild-type enzyme
+KCAT	Aspergillus awamori	79	maltoheptaose	*mutant enzyme S184H
+KCAT	Aspergillus awamori	84	maltoheptaose	*mutant enzyme S411G
+KCAT	Caulobacter vibrioides	114	maltoheptaose	*pH 5.0, 40&Acirc;&deg;C
+KCAT	Rasamsonia emersonii	221.3	maltoheptaose	*45&Acirc;&deg;C, pH 4.5
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis MB4	343	maltoheptaose	*pH 5.0, 75&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	823	maltoheptaose	*
+KCAT	Aspergillus awamori	0.22	isomaltose	*mutant enzyme S411C
+KCAT	Aspergillus awamori	0.27	isomaltose	*wild-type enzyme
+KCAT	Aspergillus awamori	0.27	isomaltose	*recombinant glucoamylase
+KCAT	Aspergillus awamori	0.29	isomaltose	*mutant enzyme S184H
+KCAT	Aspergillus awamori	0.36	isomaltose	*mutant enzyme S119Y
+KCAT	Byssochlamys spectabilis	0.4	isomaltose	*
+KCAT	Aspergillus awamori	0.41	isomaltose	*wild-type enzyme
+KCAT	Aspergillus awamori	0.53	isomaltose	*mutant enzyme G183K
+KCAT	Aspergillus awamori	0.63	isomaltose	*mutant enzyme S411A
+KCAT	Aspergillus awamori	0.72	isomaltose	*wild-type enzyme
+KCAT	Aspergillus awamori	0.93	isomaltose	*mutant enzyme S411G
+KCAT	Rasamsonia emersonii	2.7	isomaltose	*45&Acirc;&deg;C, pH 4.5
+KCAT	Saccharomyces cerevisiae	6	isomaltose	*
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis MB4	10.7	isomaltose	*pH 5.0, 75&Acirc;&deg;C
+KCAT	Byssochlamys spectabilis	22.1	glycogen	*pH 5.0, 55&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	328	glycogen	*
+KCAT	Byssochlamys spectabilis	15.5	amylose	*pH 5.0, 55&Acirc;&deg;C
+KCAT	Byssochlamys spectabilis	36.5	amylose	*DP = 17
+KCAT	Byssochlamys spectabilis	37.7	amylose	*DP = 13
+KCAT	Byssochlamys spectabilis	34.1	amylopectin	*pH 5.0, 55&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	683	amylopectin	*
+KCAT	Aspergillus awamori	6.9	panose	*wild-type enzyme
+KCAT	Byssochlamys spectabilis	9.1	panose	*
+KCAT	Aspergillus awamori	0.64	isomaltotriose	*recombinant glucoamylase
+KCAT	Aspergillus awamori	0.13	kojibiose	*wild-type enzyme
+KCAT	Aspergillus awamori	0.14	nigerose	*wild-type enzyme
+KCAT	Byssochlamys spectabilis	2.2	nigerose	*
+KCAT	Saccharomyces cerevisiae	413	Dextrin	*
+KCAT	Aspergillus awamori	0.99	isomaltotetraose	*recombinant glucoamylase
+KCAT	Aspergillus awamori	1.2	isomaltopentaose	*recombinant glucoamylase
+KCAT	Byssochlamys spectabilis	11	Phenyl alpha-maltoside	*
+KCAT	Aspergillus awamori	300	alpha-D-glucopyranosyl fluoride	*wild-type enzyme
+KCAT	Aspergillus awamori	1.5	isomaltohexaose	*recombinant glucoamylase
+KCAT	Aspergillus awamori	1.3	isomaltoheptaose	*recombinant glucoamylase
+KCAT	Aspergillus awamori	0.25	4-nitrophenyl alpha-D-glucoside	*wild-type enzyme
+KCAT	Aspergillus awamori	-999	more	*turnover numbers for C320A/E400C and the cysteinesulfinic acid derivative of C320A/E400C
+KCAT	Aspergillus awamori	-999	more	*turnover numbers for the wild-type enzyme and the mutant enzymes V181T/N182Y/G183A, P307A/T310V/Y312M/N313G and V181T/N182Y/G183A/P307A/T310V/Y312M/N313G
+KCAT	Aspergillus awamori	-999	more	*turnover numbers for the recombinant enzymes with maltose through maltoheptaose as substrates
+KCAT	Saccharolobus solfataricus	-999	more	*substrate specificity
+KCAT	Rhizopus sp.	1.6	potato starch	*
+KCAT	Rhizopus sp.	4.6	sweet potato starch	*
+KCAT	Rhizopus sp.	6.2	maize starch	*
+KCAT	Rhizopus sp.	7.1	cassava starch	*
+KCAT	Fusarium solani	7.35	soluble starch	*pH 4.5, 40&Acirc;&deg;C, purified native enzyme
+KCAT	Rhizopus sp.	14.8	wheat starch	*
+KCAT	Rhizopus sp.	23.3	rice starch	*
+KCAT	Rhizopus oryzae	35.1	soluble starch	*recombinant AmyD, pH 5.5, 40&Acirc;&deg;C
+KCAT	Byssochlamys spectabilis	49.1	starch, soluble	*
+KCAT	Rhizopus oryzae	58.2	soluble starch	*recombinant AmyC, pH 5.5, 40&Acirc;&deg;C
+KCAT	Humicola sp.	69	soluble starch	*pH 4.7, 55&Acirc;&deg;C
+KCAT	Lentinula edodes	4833	soluble starch	*pH 5.3, 40&Acirc;&deg;C, recombinant enzyme

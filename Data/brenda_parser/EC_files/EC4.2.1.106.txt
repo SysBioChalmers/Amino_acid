@@ -1,0 +1,8 @@
+KCAT	Clostridium hylemonae	12.6	7alpha-hydroxy-3-oxochol-4-en-24-oyl-CoA	*25&Acirc;&deg;C in 20 mM Tris-HCl, pH 7.3
+KCAT	Clostridium scindens	15	7alpha-hydroxy-3-oxochol-4-en-24-oyl-CoA	*25&Acirc;&deg;C in 20 mM Tris-HCl, pH 7.3
+KCAT	Clostridium hiranonis	22.2	7alpha-hydroxy-3-oxochol-4-en-24-oyl-CoA	*25&Acirc;&deg;C in 20 mM Tris-HCl, pH 7.3
+KCAT	Clostridium scindens	98	7alpha-hydroxy-3-oxochol-4-en-24-oyl-CoA	*25&Acirc;&deg;C in 20 mM Tris-HCl pH 7.3
+KCAT	Clostridium hiranonis	4.4	7alpha-hydroxy-3-oxochol-4-en-24-oate	*25&Acirc;&deg;C in 20 mM Tris-HCl, pH 7.3
+KCAT	Clostridium scindens	18	7alpha-hydroxy-3-oxochol-4-en-24-oate	*25&Acirc;&deg;C in 20 mM Tris-HCl, pH 7.3
+KCAT	Clostridium hylemonae	18.6	7alpha-hydroxy-3-oxochol-4-en-24-oate	*25&Acirc;&deg;C in 20 mM Tris-HCl, pH 7.3
+KCAT	Clostridium scindens	24	7alpha-hydroxy-3-oxochol-4-en-24-oate	*25&Acirc;&deg;C in 20 mM Tris-HCl pH 7.3

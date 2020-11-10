@@ -1,0 +1,1 @@
+KCAT	Streptomyces coelicolor	4.98	L-asparagine	*pH 7.5, 25&Acirc;&deg;C

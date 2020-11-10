@@ -1,0 +1,92 @@
+KCAT	Sus scrofa	0.17	bradykinin	*37&Acirc;&deg;C, mutant H519K
+KCAT	Escherichia coli	0.17	bradykinin	*mutant R404A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.24	bradykinin	*mutant R404K, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.9	bradykinin	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R535A
+KCAT	Sus scrofa	1.18	bradykinin	*37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	1.8	bradykinin	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant Y527F
+KCAT	Sus scrofa	1.82	bradykinin	*37&Acirc;&deg;C, mutant H519L
+KCAT	Homo sapiens	2	bradykinin	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R535A, with 0.1 mM guanidine hydrochloride
+KCAT	Sus scrofa	2.94	bradykinin	*37&Acirc;&deg;C, mutant H519L
+KCAT	Homo sapiens	3.13	bradykinin	*pH 8.2, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	3.2	bradykinin	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R535A, with 1.0 mM guanidine hydrochloride
+KCAT	Homo sapiens	3.8	bradykinin	*wild type enzyme in 100 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 37&Acirc;&deg;C
+KCAT	Escherichia coli	4.2	bradykinin	*mutant Y387F, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.48	bradykinin	*pH 8.2, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Sus scrofa	6.08	bradykinin	*37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	8.3	bradykinin	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R535A, with 10 mM guanidine hydrochloride
+KCAT	Homo sapiens	11	bradykinin	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	13.8	bradykinin	*mutant W88L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	16	bradykinin	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	38	bradykinin	*
+KCAT	Escherichia coli	57	bradykinin	*mutant R153L/R370L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	69	bradykinin	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	70	bradykinin	*mutant R153W, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	72	bradykinin	*mutant R153A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	87	bradykinin	*mutant R153W/R370L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	88	bradykinin	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	102	bradykinin	*mutant R370L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	109	bradykinin	*mutant R153L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	160	bradykinin	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	18	Met-Pro	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Escherichia coli	33	Met-Pro	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Deinococcus radiodurans	97	Met-Pro	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Homo sapiens	3.1	Substance P	*pH 8.2, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Rattus norvegicus	12	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg	*
+KCAT	Bos taurus	26	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg	*
+KCAT	Rattus norvegicus	49	Arg-Pro-Pro	*
+KCAT	Bos taurus	120	Arg-Pro-Pro	*
+KCAT	Rattus norvegicus	150	Arg-Pro-Pro	*
+KCAT	Rattus norvegicus	180	Arg-Pro-Pro	*in presence of 4 mM Mn2+
+KCAT	Rattus norvegicus	230	Arg-Pro-Pro	*without 4 mM Mn2+
+KCAT	Streptomyces costaricanus	1.5	L-Ala-L-Pro-4-nitroanilide	*chimera th-sl cAPP, pH 7.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lividans	1.5	L-Ala-L-Pro-4-nitroanilide	*chimera th-sl cAPP, pH 7.0, 30&Acirc;&deg;C
+KCAT	Streptomyces costaricanus	6	L-Ala-L-Pro-4-nitroanilide	*chimera sl-th cAPP, pH 8.2, 30&Acirc;&deg;C
+KCAT	Streptomyces lividans	6	L-Ala-L-Pro-4-nitroanilide	*chimera sl-th cAPP, pH 8.2, 30&Acirc;&deg;C
+KCAT	Streptomyces lividans	45.7	L-Ala-L-Pro-4-nitroanilide	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Streptomyces costaricanus	398	L-Ala-L-Pro-4-nitroanilide	*recombinant enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Streptomyces costaricanus	487	L-Ala-L-Pro-4-nitroanilide	*native enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Thermococcus onnurineus NA1	541	L-Met-L-Pro	*pH 5.0, 80&Acirc;&deg;C
+KCAT	Rattus norvegicus	73	Arg-Pro	*
+KCAT	Rattus norvegicus	15	Arg-Pro-Pro-Gly-Phe	*
+KCAT	Bos taurus	48	Arg-Pro-Pro-Gly-Phe	*
+KCAT	Rattus norvegicus	13	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe	*
+KCAT	Bos taurus	39	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe	*
+KCAT	Rattus norvegicus	16	Arg-Pro-Pro-Gly-Phe-Ser-Pro	*
+KCAT	Bos taurus	41	Arg-Pro-Pro-Gly-Phe-Ser-Pro	*
+KCAT	Escherichia coli	0.77	L-Ala-L-Pro-L-Ala	*wild-type, pH 8.1, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	17	Arg-Pro-Pro-Gly	*
+KCAT	Rattus norvegicus	48	Gly-Pro-Hyp	*
+KCAT	Rattus norvegicus	69	Gly-Pro-Hyp	*in presence of 4 mM Mn2+
+KCAT	Escherichia coli	1.5	Met-Ala-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Mycobacterium tuberculosis	5	Met-Ala-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Deinococcus radiodurans	10.5	Met-Ala-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Rattus norvegicus	32	Tyr-Pro-Phe-Pro-Gly	*
+KCAT	Rattus norvegicus	11	Arg-Pro-Pro-Gly-Phe-Ser	*
+KCAT	Bos taurus	30	Arg-Pro-Pro-Gly-Phe-Ser	*
+KCAT	Rattus norvegicus	26	Tyr-Pro-Phe-Pro-Gly-Pro-Ile	*
+KCAT	Escherichia coli	7.3	Abz-L-Lys-L-Pro-L-Pro-4-nitroanilide	*mutant H350, pH 8.1, 37&Acirc;&deg;C
+KCAT	Escherichia coli	95	Abz-L-Lys-L-Pro-L-Pro-4-nitroanilide	*wild-type, pH 8.1, 37&Acirc;&deg;C
+KCAT	Homo sapiens	7.7	L-Arg-L-Pro-L-Pro	*wild type enzyme in 100 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	5.4	FPHFD	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	8.6	FPHFD	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	12	YPWTQ	*pH 5.5, 37&Acirc;&deg;C
+KCAT	Plasmodium falciparum	150	YPWTQ	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	58	Tyr-Pro-Phe-NH2	*
+KCAT	Rattus norvegicus	47.2	Gly-Pro-Pro-p-nitroanilide	*
+KCAT	Escherichia coli	135	(4-nitro)Phe-Pro-HN-CH2-CH2-NH-o-aminobenzoyl	*
+KCAT	Escherichia coli	20	(4-nitro)Phe-Pro-Pro-HN-CH2-CH2-NH-o-aminobenzoyl	*
+KCAT	Cavia porcellus	125	Arg-Pro-Pro-benzylamide	*
+KCAT	Rattus norvegicus	40	Tyr-Pro-Leu-Gly-NH2	*
+KCAT	Saccharomyces cerevisiae	1.4	Tyr-Ala-Ala	*pH 7.5, 40&Acirc;&deg;C
+KCAT	Escherichia coli	2	Met-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Saccharomyces cerevisiae	14	Tyr-Pro-Ala	*pH 7.5, 40&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	25.7	Met-Pro-Ala	*pH 7.5, 40&Acirc;&deg;C
+KCAT	Deinococcus radiodurans	29	Arg-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant mutant D53A
+KCAT	Deinococcus radiodurans	35	Met-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant mutant D53A
+KCAT	Deinococcus radiodurans	101	Arg-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant mutant R55A
+KCAT	Mycobacterium tuberculosis	126	Met-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Deinococcus radiodurans	140	Met-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant mutant Y56A
+KCAT	Deinococcus radiodurans	144	Met-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant mutant R55A
+KCAT	Deinococcus radiodurans	152	Arg-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant mutant Y56A
+KCAT	Deinococcus radiodurans	240	Arg-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type
+KCAT	Deinococcus radiodurans	242	Met-Pro-Ala	*pH 8.0, 55&Acirc;&deg;C, recombinant wild-type

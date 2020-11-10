@@ -1,0 +1,1 @@
+ecNumber*3.1.3.24#turnoverNumber*3.6#turnoverNumberMaximum*#substrate*sucrose 6-phosphate#commentary*pH 7.0, 37&deg;C#organism*Arabidopsis thaliana#ligandStructureId*4870#literature*751954#!ecNumber*3.1.3.24#turnoverNumber*67.8#turnoverNumberMaximum*#substrate*sucrose 6-phosphate#commentary*pH 7.0, 37&deg;C#organism*Arabidopsis thaliana#ligandStructureId*4870#literature*751954#

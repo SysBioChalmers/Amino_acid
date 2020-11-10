@@ -1,0 +1,64 @@
+KCAT	Homo sapiens	0.01167	porphyrin	*mutant E343D
+KCAT	Rattus norvegicus	0.0125	protoporphyrin IX	*wild type enzyme, with Ni2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30&deg;C
+KCAT	Mycobacterium tuberculosis	0.013	protoporphyrin IX	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0135	porphyrin	*mutant F337A
+KCAT	Bacillus subtilis	0.016	Co2+	*pH 7.4, 21&deg;C, wild-type enzyme; wild type enzyme, in 100 mM tris(hydroxymethyl)aminomethane-HCl, pH 7.4, temperature not specified in the publication
+KCAT	Homo sapiens	0.016	porphyrin	*mutant N75A
+KCAT	Homo sapiens	0.018	Fe2+	*wild-type
+KCAT	Bacillus subtilis	0.02	Fe2+	*R31G, pH 7.6, 30&deg;C, unaerobic conditions
+KCAT	Bacillus subtilis	0.023	Fe2+	*wild-type, pH 7.6, 30&deg;C, unaerobic conditions
+KCAT	Myxococcus xanthus	0.03	Fe2+	*mutant C219S
+KCAT	Bacillus subtilis	0.032	Fe2+	*mutant T302A, pH 7.6, 30&deg;C, unaerobic conditions
+KCAT	Bacillus subtilis	0.033	Co2+	*mutant enzyme Y13M, in 100 mM tris(hydroxymethyl)aminomethane-HCl, pH 7.4, temperature not specified in the publication; pH 7.4, 21&deg;C, mutant enzyme Y13M
+KCAT	Bacillus subtilis	0.033	Fe2+	*mutant D76G/K102T, pH 7.6, 30&deg;C, unaerobic conditions
+KCAT	Synechocystis sp.	0.034	Zn2+	*wild type enzyme, at pH 8.0 and 30&deg;C
+KCAT	Bacillus subtilis	0.038	Fe2+	*M11V/G104A, pH 7.6, 30&deg;C, unaerobic conditions
+KCAT	Bacillus subtilis	0.04	Fe2+	*mutant E61K, pH 7.6, 30&deg;C, unaerobic conditions
+KCAT	Synechocystis sp.	0.049	Zn2+	*mutant enzyme FeChDELTA347, at pH 8.0 and 30&deg;C
+KCAT	Mus musculus	0.05	Fe2+	*mutant K250M/V251L/W256Y, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.05	protoporphyrin IX	*mutant K250M/V251L/W256Y, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.051	protoporphyrin IX	*mutant K250M/V251L/W256Y, under strictly anaerobic conditions
+KCAT	Synechocystis sp.	0.052	protoporphyrin IX	*wild type enzyme, with Zn2+ as cosubstrate, at pH 8.0 and 30&deg;C
+KCAT	Homo sapiens	0.053	Fe2+	*mutant F110A; mutant R115L
+KCAT	Bacillus subtilis	0.055	Fe2+	*E61K/L185Q/G212D, pH 7.6, 30&deg;C, unaerobic conditions
+KCAT	Homo sapiens	0.0573	porphyrin	*wild-type
+KCAT	Caulobacter vibrioides	0.063	Fe2+	*mutant C341S
+KCAT	Bacillus subtilis	0.065	Cu2+	*pH 7.4, 21&deg;C, wild-type enzyme; wild type enzyme, in 100 mM tris(hydroxymethyl)aminomethane-HCl, pH 7.4, temperature not specified in the publication
+KCAT	Mus musculus	0.068	Fe2+	*wild-type, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.068	protoporphyrin IX	*wild-type, under strictly anaerobic conditions
+KCAT	Mus musculus	0.068	protoporphyrin IX	*wild-type, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.0683	protoporphyrin IX	*wild-type
+KCAT	Bdellovibrio bacteriovorus	0.073	Fe2+	*
+KCAT	Synechocystis sp.	0.073	protoporphyrin IX	*mutant enzyme FeChDELTA347, with Zn2+ as cosubstrate, at pH 8.0 and 30&deg;C
+KCAT	Myxococcus xanthus	0.08167	Fe2+	*wild-type
+KCAT	Mus musculus	0.098	protoporphyrin IX	*mutant P255G, under strictly anaerobic conditions
+KCAT	Mus musculus	0.0983	protoporphyrin IX	*mutant P255G
+KCAT	Homo sapiens	0.1	Fe2+	*
+KCAT	Mus musculus	0.13	Fe2+	*mutant P255R, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.13	protoporphyrin IX	*mutant P255R, under strictly anaerobic conditions
+KCAT	Mus musculus	0.13	protoporphyrin IX	*mutant P255R, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.138	Fe2+	*mutant V251L, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.138	protoporphyrin IX	*mutant V251L, pH 8.1, 30&deg;C
+KCAT	Rattus norvegicus	0.142	protoporphyrin IX	*wild type enzyme, with Fe2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30&deg;C
+KCAT	Pseudomonas putida	0.195	Fe2+	*
+KCAT	Rattus norvegicus	0.212	protoporphyrin IX	*mutant enzyme F323L, with Ni2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30&deg;C
+KCAT	Mus musculus	0.234	protoporphyrin IX	*mutant Q248P/S249G/K250P/G252W, under strictly anaerobic conditions
+KCAT	Mus musculus	0.235	Fe2+	*mutant Q248P/S249G/K250P/G252W, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.235	protoporphyrin IX	*mutant Q248P/S249G/K250P/G252W, pH 8.1, 30&deg;C
+KCAT	Caulobacter vibrioides	0.267	Fe2+	*wild-type
+KCAT	Bacillus subtilis	0.3	protoporphyrin	*
+KCAT	Mus musculus	0.3	Fe2+	*mutant S249A/K250Q/V251C, pH 8.1, 30&deg;C
+KCAT	Mus musculus	0.3	protoporphyrin IX	*mutant S249A/K250Q/V251C, under strictly anaerobic conditions
+KCAT	Mus musculus	0.3	protoporphyrin IX	*mutant S249A/K250Q/V251C, pH 8.1, 30&deg;C
+KCAT	Rattus norvegicus	0.44	protoporphyrin IX	*mutant enzyme S143T/F323L, with Ni2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30&deg;C
+KCAT	Sus scrofa	0.52	hemin	*pH 5.5, 45&deg;C
+KCAT	Rattus norvegicus	0.59	protoporphyrin IX	*mutant enzyme S143T, with Ni2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30&deg;C
+KCAT	Rattus norvegicus	1.21	protoporphyrin IX	*mutant enzyme S143T, with Fe2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30&deg;C
+KCAT	Vibrio vulnificus	1.51	protoporphyrin	*in complex with protoporphyrinogen dehydrogenase PgdH1, pH 8.0, 30&deg;C
+KCAT	Vibrio vulnificus	1.53	protoporphyrin	*free enzyme, pH 8.0, 30&deg;C
+KCAT	Rattus norvegicus	1.6	protoporphyrin IX	*mutant enzyme F323L, with Fe2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30&deg;C
+KCAT	Rattus norvegicus	1.9	protoporphyrin IX	*mutant enzyme S143T/F323L, with Fe2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30&deg;C
+KCAT	Homo sapiens	3.2	Zn2+	*no added cholate, for the human ferrochelatase (R115L)-catalyzed insertion of zinc into deuteroporphyrin
+KCAT	Homo sapiens	3.5	Zn2+	*0.5% cholate, for the human ferrochelatase (R115L)-catalyzed insertion of zinc into deuteroporphyrin
+KCAT	Sus scrofa	6.7	mesoporphyrin IX	*pH 8.0, 37&deg;C
+KCAT	Sus scrofa	6.7	Zn2+	*pH 8.0, 37&deg;C

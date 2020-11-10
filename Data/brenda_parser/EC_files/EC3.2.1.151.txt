@@ -1,0 +1,36 @@
+KCAT	Tropaeolum majus	0.012	xyloglucan	*pH 4.8, mutant DELTAYNIIG of isoform NXG1, hydrolysis of xyloglucan
+KCAT	Tropaeolum majus	0.013	xyloglucan	*pH 4.8, isoform NXG1, transglycosylation of xyloglucan
+KCAT	Tropaeolum majus	0.015	xyloglucan	*pH 4.8, mutant DELTAYNIIG of isoform NXG1, transglycosylation of xyloglucan
+KCAT	Tropaeolum majus	0.08	xyloglucan	*pH 4.8, isoform NXG1, hydrolysis of xyloglucan
+KCAT	Hungateiclostridium thermocellum	0.22	carboxyethyl cellulose	*pH 7.0, 50&deg;C
+KCAT	Hungateiclostridium thermocellum	0.59	lichenan	*pH 7.0, 50&deg;C
+KCAT	Hungateiclostridium thermocellum	0.72	carboxymethyl cellulose	*pH 7.0, 50&deg;C
+KCAT	Hungateiclostridium thermocellum	0.78	xyloglucan	*pH 7.0, 50&deg;C
+KCAT	uncultured bacterium	1.24	tamarind xyloglucan	*at 37&deg;C, pH 7.0
+KCAT	Paenibacillus sp.	3	xyloglucan	*
+KCAT	Cellvibrio japonicus	4.6	hydroxyethyl cellulose	*pH 6.5, 50&deg;C, recombinant enzyme
+KCAT	Paenibacillus polymyxa	6.96	Xylalpha(1-&gt;6)Glcbeta(1-&gt;4)[Galbeta(1-&gt;2)Xylalpha(1-&gt;6)]Glcbeta(1-&gt;4)[Galbeta(1-&gt;2)Xylalpha(1-&gt;6)]Glcbeta(1-&gt;4)Glcbeta	*apparent value, at pH 6.0 and 30&deg;C
+KCAT	Trichoderma reesei	7	phosphoric acid-swollen cellulose	*37&deg;C, pH 5
+KCAT	Trichoderma reesei	7.2	XXXG	*37&deg;C, pH 5
+KCAT	Paenibacillus polymyxa	7.34	2-chloro-4-nitrophenyl Glcbeta(1-&gt;4)Glcbeta(1-&gt;4)Glcbeta	*apparent value, at pH 6.0 and 30&deg;C
+KCAT	Paenibacillus sp.	12.7	xyloglucan	*
+KCAT	Paenibacillus polymyxa	14.01	Xylalpha(1-&gt;6)Glcbeta(1-&gt;4)Xylalpha(1-&gt;6)Glcbeta(1-&gt;4)Xylalpha(1-&gt;6)Glcbeta(1-&gt;4)Glcbeta(1-&gt;4)Xylalpha(1-&gt;6)Glcbeta(1-&gt;4)Xylalpha(1-&gt;6)Glcbeta(1-&gt;4)Xylalpha(1-&gt;6)Glcbeta(1-&gt;4)Glcbeta	*apparent value, at pH 6.0 and 30&deg;C
+KCAT	Paenibacillus polymyxa	15.93	2-chloro-4-nitrophenyl Glcbeta(1-&gt;4)Glcbeta(1-&gt;4)Glcbeta(1-&gt;4)Glcbeta	*apparent value, at pH 6.0 and 30&deg;C
+KCAT	Phanerochaete chrysosporium	28.1	xyloglucan	*30&deg;C, pH 5, enzyme with C-terminal carbohydrate binding module domain
+KCAT	Phanerochaete chrysosporium	31.9	xyloglucan	*30&deg;C, pH 5, enzyme without C-terminal carbohydrate binding module domain
+KCAT	Aspergillus niger	34	xyloglucan	*50&deg;C, pH 5.0
+KCAT	Aspergillus niger	49	xyloglucan	*pH 5.0, 50&deg;C, substrate from pea seed
+KCAT	Paenibacillus sp.	49.2	tamarind seed xyloglucan	*pH 6.0, 45&deg;C, recombinant wild-type enzyme catalytic domain
+KCAT	Trichoderma reesei	52	carboxymethyl cellulose	*37&deg;C, pH 5
+KCAT	Aspergillus japonicus	53	xyloglucan	*
+KCAT	Paenibacillus sp.	54.3	tamarind seed xyloglucan	*pH 6.0, 45&deg;C, recombinant mutant W61A enzyme catalytic domain
+KCAT	Paenibacillus sp.	64.3	tamarind seed xyloglucan	*pH 6.0, 45&deg;C, recombinant mutant W64A enzyme catalytic domain
+KCAT	Paenibacillus sp.	65.8	tamarind seed xyloglucan	*pH 6.0, 45&deg;C, recombinant mutant W319A enzyme catalytic domain
+KCAT	Paenibacillus sp.	72	tamarind seed xyloglucan	*pH 6.0, 45&deg;C, recombinant mutant w318A enzyme catalytic domain
+KCAT	Paenibacillus sp.	77.6	xyloglucan	*
+KCAT	Cellvibrio japonicus	77.6	xyloglucan	*pH 6.5, 50&deg;C, recombinant enzyme
+KCAT	Aspergillus aculeatus	113	xyloglucan	*from tamarind, pH 5, 37&deg;C
+KCAT	Trichoderma reesei	138	hydroxyethyl cellulose	*37&deg;C, pH 5
+KCAT	Trichoderma reesei	193	Laminarin	*37&deg;C, pH 5
+KCAT	Trichoderma reesei	306	beta-Glucan	*37&deg;C, pH 5
+KCAT	Trichoderma reesei	805	xyloglucan	*37&deg;C, pH 5

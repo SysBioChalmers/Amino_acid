@@ -1,0 +1,32 @@
+KCAT	Chaetomium erraticum	5.3	Dextran	*microwave irradiation shock treatment, pH 5.4, 40&Acirc;&deg;C
+KCAT	Chaetomium erraticum	5.4	Dextran	*pH 5.4, 40&Acirc;&deg;C
+KCAT	Chaetomium erraticum	6.4	Dextran	*ultrasound treatment, pH 5.4, 40&Acirc;&deg;C
+KCAT	Chaetomium erraticum	6.7	Dextran	*ultrasound/microwave irradiation shock treatment, pH 5.4, 40&Acirc;&deg;C
+KCAT	Streptococcus mutans	29	Dextran	*mutant enzyme T558H, at pH 5.0 and 35&Acirc;&deg;C
+KCAT	Streptococcus mutans	50	Dextran	*mutant enzyme W279F/T563N, at pH 5.0 and 35&Acirc;&deg;C
+KCAT	Streptococcus mutans	57	Dextran	*mutant enzyme T563N, at pH 5.0 and 35&Acirc;&deg;C
+KCAT	Streptococcus mutans	77	Dextran	*wild type enzyme, at pH 5.0 and 35&Acirc;&deg;C
+KCAT	Streptococcus mutans	98	Dextran	*mutant enzyme W279A/T563N, at pH 5.0 and 35&Acirc;&deg;C
+KCAT	Streptococcus mutans	99	Dextran	*mutant enzyme W279A, at pH 5.0 and 35&Acirc;&deg;C
+KCAT	Streptococcus mutans	110	Dextran	*mutant enzyme W279F, at pH 5.0 and 35&Acirc;&deg;C
+KCAT	Chaetomium erraticum	723	Dextran	*pH 5.2, 30&Acirc;&deg;C
+KCAT	Talaromyces aculeatus	760	Dextran	*dextranase I
+KCAT	Talaromyces aculeatus	760	Dextran	*based on the molecular weight of isomaltose
+KCAT	Chaetomium erraticum	1362	Dextran	*pH 5.2, 40&Acirc;&deg;C
+KCAT	Talaromyces aculeatus	2230	Dextran	*dextranase II
+KCAT	Talaromyces aculeatus	2230	Dextran	*based on the molecular weight of isomaltose
+KCAT	Chaetomium erraticum	2865	Dextran	*pH 5.2, 50&Acirc;&deg;C
+KCAT	Chaetomium erraticum	4564	Dextran	*pH 5.2, 60&Acirc;&deg;C
+KCAT	Paenibacillus sp.	4.36	isomaltopentaose	*pH 5.5, 35&Acirc;&deg;C
+KCAT	Paenibacillus sp.	7.53	isomaltohexaose	*pH 5.5, 35&Acirc;&deg;C
+KCAT	Paenibacillus sp.	7.93	isomaltoheptaose	*pH 5.5, 35&Acirc;&deg;C
+KCAT	Thermoanaerobacter pseudethanolicus	3.7	dextran 742CB	*pH 5.2, 70&Acirc;&deg;C
+KCAT	Thermoanaerobacter pseudethanolicus	8.1	dextran T500	*pH 5.2, 70&Acirc;&deg;C
+KCAT	Thermoanaerobacter pseudethanolicus	10.2	dextran T2000	*pH 5.2, 70&Acirc;&deg;C
+KCAT	Paenibacillus sp.	44.3	dextran T2000	*pH 5.5, 35&Acirc;&deg;C
+KCAT	Talaromyces pinophilus	163	dextran T40	*pH 6.0, 45&Acirc;&deg;C
+KCAT	Penicillium cyclopium	208.45	dextran T5	*at pH 5.0 and 50&Acirc;&deg;C
+KCAT	Penicillium cyclopium	211.97	dextran T70	*at pH 5.0 and 50&Acirc;&deg;C
+KCAT	Penicillium cyclopium	223.53	dextran T2000	*at pH 5.0 and 50&Acirc;&deg;C
+KCAT	Talaromyces pinophilus	369	dextran T70	*pH 6.0, 45&Acirc;&deg;C
+KCAT	Talaromyces pinophilus	4872	dextran T100	*pH 6.0, 45&Acirc;&deg;C

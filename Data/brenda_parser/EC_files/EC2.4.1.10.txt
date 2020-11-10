@@ -1,0 +1,40 @@
+KCAT	Zymomonas mobilis	-999	more	*mutants, overview
+KCAT	Bacillus subtilis	-999	more	*mutants A344P and F414W have the same behavior like the wild-type
+KCAT	Gluconacetobacter diazotrophicus	0.0039	sucrose	*30&deg;C, pH 5.0, wild-type enzyme
+KCAT	Bacillus subtilis	0.0267	sucrose	*sucrose hydrolysis, mutant R331S
+KCAT	Bacillus subtilis	0.117	sucrose	*sucrose hydrolysis, mutant R331L
+KCAT	Bacillus subtilis	0.367	sucrose	*sucrose hydrolysis, mutant R331H
+KCAT	Bacillus subtilis	0.583	sucrose	*sucrose hydrolysis, wild-type
+KCAT	Gluconacetobacter diazotrophicus	1	sucrose	*wild-type enzyme
+KCAT	Bacillus subtilis	1.47	sucrose	*sucrose hydrolysis, mutant R331K
+KCAT	Gluconacetobacter diazotrophicus	1.7	sucrose	*30&deg;C, pH 5.0, mutant enzyme D135N
+KCAT	Bacillus subtilis	6.3	sucrose	*mutant enzyme Y429N
+KCAT	Bacillus subtilis	6.4	sucrose	*mutant enzyme S164A
+KCAT	Pseudomonas chlororaphis subsp. aurantiaca	7.2	sucrose	*sucrose hydrolysis, pH 6.0-6.6, 60&deg;C
+KCAT	Gluconacetobacter diazotrophicus	13.3	sucrose	*mutant D309N
+KCAT	Bacillus subtilis	13.5	sucrose	*mutant enzyme R360S
+KCAT	Zymomonas mobilis	28.3	sucrose	*wild-type enzyme
+KCAT	Bacillus subtilis	57.4	sucrose	*mutant enzyme G361F
+KCAT	Gluconacetobacter diazotrophicus	66.9	sucrose	*30&deg;C, pH 5.0, mutant enzyme C339S
+KCAT	Gluconacetobacter diazotrophicus	71.8	sucrose	*30&deg;C, pH 5.0, mutant enzyme C395S
+KCAT	Bacillus subtilis	87.5	sucrose	*mutant enzyme R433A
+KCAT	Bacillus subtilis	141.5	sucrose	*mutant enzyme H243L
+KCAT	Bacillus subtilis	164.6	sucrose	*wild-type enzyme
+KCAT	Bacillus subtilis	166.3	sucrose	*mutant enzyme I341V
+KCAT	Bacillus subtilis	170.2	sucrose	*mutant enzyme R369K
+KCAT	Bacillus megaterium	325	sucrose	*pH 6.6, mutant enzyme Y421A
+KCAT	Pseudomonas syringae pv. tomato	328.3	sucrose	*sucrose hydrolysis, pH 6.0-6.6, 60&deg;C
+KCAT	Bacillus megaterium	335	sucrose	*mutant enzyme Y421A
+KCAT	Bacillus megaterium	363	sucrose	*mutant enzyme S173A; pH 6.6, mutant enzyme S173A
+KCAT	Zymomonas mobilis	379	sucrose	*transfructosylation activity
+KCAT	Zymomonas mobilis	411	sucrose	*levan synthesis activity
+KCAT	Zymomonas mobilis	461	sucrose	*total activity
+KCAT	Pseudomonas syringae pv. tomato	504.4	sucrose	*sucrose hydrolysis, pH 6.0-6.6, 60&deg;C
+KCAT	Bacillus megaterium	1000	sucrose	*mutant enzyme W94A; pH 6.6, mutant enzyme W94A
+KCAT	Bacillus megaterium	1231	sucrose	*mutant enzyme L118A; pH 6.6, mutant enzyme L118A
+KCAT	Bacillus megaterium	1480	sucrose	*mutant enzyme N252A; pH 6.6, mutant enzyme N252A
+KCAT	Bacillus megaterium	1529	sucrose	*mutant enzyme N252H
+KCAT	Bacillus megaterium	2256	sucrose	*mutant enzyme N252G
+KCAT	Bacillus megaterium	2272	sucrose	*pH 6.6, wild-type enzyme; wild-type
+KCAT	Bacillus megaterium	2396	sucrose	*mutant enzyme W172A; pH 6.6, mutant enzyme W172A
+KCAT	Bacillus megaterium	3743	sucrose	*mutant enzyme N252D

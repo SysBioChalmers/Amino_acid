@@ -1,0 +1,17 @@
+KCAT	Thermotoga maritima	2.6	NADPH	*apparent value, at 30&Acirc;&deg;C
+KCAT	Thermotoga maritima	17	NADPH	*apparent value, at 45&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.093	NADH	*apparent value, at 30&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.49	NADH	*apparent value, at 45&Acirc;&deg;C
+KCAT	Staphylococcus aureus	20	NADH	*native enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Staphylococcus aureus	21	NADH	*recombinant enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Vitis vinifera	14	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	*pH 8.0, 25&Acirc;&deg;C, cofactor: NADH
+KCAT	Staphylococcus aureus	20	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	*native enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Staphylococcus aureus	21	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	*recombinant enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Vitis vinifera	21	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	*pH 8.0, 25&Acirc;&deg;C, cofactor: NADPH
+KCAT	Neisseria meningitidis	43	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	*pH 8.0, 25&Acirc;&deg;C, cofactor: NADPH
+KCAT	Selaginella moellendorffii	49	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	*pH 8.0, 25&Acirc;&deg;C, cofactor: NADH
+KCAT	Selaginella moellendorffii	63	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	*pH 8.0, 25&Acirc;&deg;C, cofactor: NADPH
+KCAT	Neisseria meningitidis	77	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	*pH 8.0, 25&Acirc;&deg;C, cofactor: NADH
+KCAT	Thermotoga maritima	8.1	2,3-dihydrodipicolinate	*apparent value, at 30&Acirc;&deg;C
+KCAT	Thermotoga maritima	19	2,3-dihydrodipicolinate	*apparent value, at 45&Acirc;&deg;C
+KCAT	Escherichia coli	-999	more	*

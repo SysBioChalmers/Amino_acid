@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	-999	dihydroneopterin triphosphate	*0.080 mU/min/mg
+KCAT	Rattus norvegicus	-999	dihydroneopterin triphosphate	*0.277 mU/min/mg
+KCAT	Homo sapiens	0.01	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin	*mutant enzyme P87L
+KCAT	Homo sapiens	0.012	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin	*mutant enzyme R16C
+KCAT	Homo sapiens	0.02	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin	*mutant enzyme R25Q
+KCAT	Homo sapiens	0.032	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin	*wild-type enzyme

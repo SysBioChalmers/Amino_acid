@@ -1,0 +1,2 @@
+KCAT	Methanosarcina acetivorans	0.0311	guanine15 in tRNA	*native enzyme, at pH 7.5 and 37&deg;C
+KCAT	Methanosarcina acetivorans	0.0667	guanine15 in tRNA	*recombinant enzyme, at pH 7.5 and 37&deg;C

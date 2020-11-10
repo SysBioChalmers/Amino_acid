@@ -1,0 +1,7 @@
+KCAT	Arabidopsis thaliana	0.1167	L-lactate	*
+KCAT	Arabidopsis thaliana	0.00167	glycolate	*
+KCAT	Arabidopsis thaliana	0.1	D-glycerate	*
+KCAT	Arabidopsis thaliana	1.083	D-lactate	*
+KCAT	Saccharomyces cerevisiae	250	D-lactate	*per mol flavin
+KCAT	Saccharomyces cerevisiae	1500	D-lactate	*per mol flavin
+KCAT	Arabidopsis thaliana	1.467	D-2-hydroxybutyrate	*

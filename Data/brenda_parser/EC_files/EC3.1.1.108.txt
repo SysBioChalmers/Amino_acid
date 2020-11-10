@@ -1,0 +1,8 @@
+KCAT	Escherichia coli	0.023	iron(III)-monoglucosyl-enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	0.15	iron(III)-enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Geobacillus thermodenitrificans	1.24	4-nitrophenyl caprylate	*at pH 7.5 and 55&deg;C
+KCAT	Escherichia coli	1.3	diglucosyl-enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Geobacillus thermodenitrificans	3.03	4-nitrophenyl butyrate	*at pH 7.5 and 55&deg;C
+KCAT	Geobacillus thermodenitrificans	6.8	4-nitrophenyl acetate	*at pH 7.5 and 55&deg;C
+KCAT	Escherichia coli	8.67	enterobactin	*at pH 7.5 and 23&deg;C
+KCAT	Escherichia coli	14.17	monoglucosyl-enterobactin	*at pH 7.5 and 23&deg;C

@@ -1,0 +1,5 @@
+KCAT	Streptomyces sp. 590 KI-2014	239	L-methionine	*pH 6.6, 55&Acirc;&deg;C
+KCAT	Dryopteris filix-mas	50	L-Met	*at pH 4.5 and below
+KCAT	Dryopteris filix-mas	100	L-Met	*at pH 4.8
+KCAT	Streptomyces sp.	120	L-Met	*
+KCAT	Streptomyces sp. 590 KI-2014	61	L-norleucine	*pH 6.6, 55&Acirc;&deg;C

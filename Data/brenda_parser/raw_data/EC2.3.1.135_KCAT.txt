@@ -1,0 +1,1 @@
+ecNumber*2.3.1.135#turnoverNumber*40.4#turnoverNumberMaximum*#substrate*all-trans-retinol#commentary*pH not specified in the publication, 20&Acirc;&deg;C#organism*Homo sapiens#ligandStructureId*847#literature*735707#

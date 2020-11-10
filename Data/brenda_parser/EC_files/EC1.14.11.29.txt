@@ -1,0 +1,16 @@
+KCAT	Homo sapiens	0.0005	hypoxia-inducible factor2alpha C-terminal oxygen-dependent degradation domain-L-proline	*pH 7.5, 25&deg;C, PHD3
+KCAT	Homo sapiens	0.0012	hypoxia-inducible factor1alpha C-terminal oxygen-dependent degradation domain-L-proline	*pH 7.5, 25&deg;C, PHD3
+KCAT	Homo sapiens	0.0032	hypoxia-inducible factor1alpha C-terminal oxygen-dependent degradation domain-L-proline	*pH 7.5, 25&deg;C, PHD2
+KCAT	Homo sapiens	0.0101	hypoxia-inducible factor-L-proline	*N-terminal oxygen degradation domain DALTLLAP402AAGDTIISLDYG mutant F413Y in absence of NaCl, pH 7.0, 37&deg;C
+KCAT	Homo sapiens	0.0103	hypoxia-inducible factor-L-proline	*N-terminal oxygen degradation domain DALTLLAP402AAGDTIISLDYG mutant F413Y in presence of 100 mM NaCl, pH 7.0, 37&deg;C
+KCAT	Homo sapiens	0.015	DLDLEALAPYIPADDDFQL	*mutant enzyme T387N, at pH 7.0 and 37&deg;C
+KCAT	Homo sapiens	0.017	2-oxoglutarate	*mutant enzyme T387N, at pH 7.0 and 37&deg;C
+KCAT	Homo sapiens	0.0188	hypoxia-inducible factor-L-proline	*C-terminal oxygen degradation domain DLDLEALAP564YIPADDDFQL mutant M561A/M568A in absence of NaCl, pH 7.0, 37&deg;C
+KCAT	Homo sapiens	0.02	hypoxia-inducible factor-L-proline	*C-terminal oxygen degradation domain DLDLEALAP564YIPADDDFQL mutant M561A/M568A in presence of 100 mM NaCl, pH 7.0, 37&deg;C
+KCAT	Homo sapiens	0.032	DLDLEALAPYIPADDDFQL	*wild type isoform PHD2, at pH 7.0 and 37&deg;C
+KCAT	Homo sapiens	0.038	2-oxoglutarate	*wild type isoform PHD2, at pH 7.0 and 37&deg;C
+KCAT	Homo sapiens	0.063	O2	*mutant enzyme T387N, at pH 7.0 and 37&deg;C
+KCAT	Homo sapiens	0.133	O2	*wild type isoform PHD2, at pH 7.0 and 37&deg;C
+KCAT	Homo sapiens	0.483	O2	*mutant enzyme T387A, at pH 7.0 and 37&deg;C
+KCAT	Homo sapiens	0.548	2-oxoglutarate	*mutant enzyme T387A, at pH 7.0 and 37&deg;C
+KCAT	Homo sapiens	0.733	DLDLEALAPYIPADDDFQL	*mutant enzyme T387A, at pH 7.0 and 37&deg;C

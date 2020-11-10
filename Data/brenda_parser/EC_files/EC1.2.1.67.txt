@@ -1,0 +1,4 @@
+KCAT	Sphingobium sp. SYK-6	0.59	syringaldehyde	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Sphingobium sp. SYK-6	0.79	Vanillin	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Sphingobium sp. SYK-6	0.99	syringaldehyde	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Sphingobium sp. SYK-6	3.03	Vanillin	*recombinant enzyme, pH 7.0, 30&deg;C

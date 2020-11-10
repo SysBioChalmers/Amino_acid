@@ -1,0 +1,111 @@
+KCAT	Rattus norvegicus	40	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	*enzyme from normal liver
+KCAT	Rattus norvegicus	50	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	*enzyme from liver of AH-130 hepatoma-bearing rats
+KCAT	Rattus norvegicus	65	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	*enzyme from AH-130 hepatoma cells
+KCAT	Rattus norvegicus	25	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	*enzyme from liver of AH-130 hepatoma-bearing rats
+KCAT	Rattus norvegicus	30	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	*enzyme from normal liver
+KCAT	Rattus norvegicus	95	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	*enzyme from AH-130 hepatoma cells
+KCAT	Rattus norvegicus	2.2	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	*40&Acirc;&deg;C, pH 4.0, spleen cathepsin D
+KCAT	Rattus norvegicus	2.5	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	*40&Acirc;&deg;C, pH 4.0, gastric cathepsin D
+KCAT	Sus scrofa	1.5	EEISEVNLDAEFRG	*
+KCAT	Homo sapiens	31.4	EEISEVNLDAEFRG	*
+KCAT	Sus scrofa	56.1	EEISEVNLDAEFRG	*
+KCAT	Homo sapiens	8.8	SEVNLDAEFR	*
+KCAT	Sus scrofa	29	SEVNLDAEFR	*
+KCAT	Homo sapiens	-999	2-aminobenzoyl-AIKFFSAQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	-999	2-aminobenzoyl-AIKFFSAQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	6.18	2-aminobenzoyl-AIKFFSAQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.34	2-aminobenzoyl-AIKFFSAQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.34	2-aminobenzoyl-AIKFFSAQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	2.3	2-aminobenzoyl-KITLLSAQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	3.6	2-aminobenzoyl-KITLLSAQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	2.44	2-aminobenzoyl-AIKFFSAQTNRHILRFNR-(2,4-dinitrophenyl)-D	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKFFSAQTNRHILRFNR-(2,4-dinitrophenyl)-D	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	3.13	2-aminobenzoyl-AIKFFSA-(2,4-dinitrophenyl)-D	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	4.16	2-aminobenzoyl-AIKFFSA-(2,4-dinitrophenyl)-D	*37&Acirc;&deg;C, pH 4.0
+KCAT	Rattus norvegicus	0.75	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Ser-Ala-Phe-Leu-Ala-Phe-Lys(Dnp)-D-Arg-NH2	*40&Acirc;&deg;C, pH 4.0, gastric cathepsin D
+KCAT	Rattus norvegicus	59.6	(7-methoxycoumarin-4-yl)acetyl-Gly-Lys-Pro-Ile-Ile-Phe-Phe-Arg-Leu-Lys(Dnp)-D-Arg-NH2	*40&Acirc;&deg;C, pH 4.0, gastric cathepsin D
+KCAT	Homo sapiens	2.44	2-aminobenzoyl-AIKFFSAQTNRHILRFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKFFSAQTNRHILRFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.3	2-aminobenzoyl-AIKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.88	2-aminobenzoyl-AIKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.98	2-aminobenzoyl-AIKLLSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.08	2-aminobenzoyl-AIKLLSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.03	2-aminobenzoyl-AIKLFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	7.15	2-aminobenzoyl-AIKLFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.28	2-aminobenzoyl-AIKLMSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKLMSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.84	2-aminobenzoyl-AIVFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.08	2-aminobenzoyl-AIVFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.47	2-aminobenzoyl-AIMFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIMFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.04	2-aminobenzoyl-AISFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	8.78	2-aminobenzoyl-AISFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	-999	2-aminobenzoyl-AITFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.53	2-aminobenzoyl-AITFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.03	2-aminobenzoyl-AIEFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	7.48	2-aminobenzoyl-AIEFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.04	2-aminobenzoyl-AVKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	8.78	2-aminobenzoyl-AVKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.13	2-aminobenzoyl-ATKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.58	2-aminobenzoyl-ATKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.28	2-aminobenzoyl-AQKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AQKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	-999	2-aminobenzoyl-AEKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.18	2-aminobenzoyl-AEKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.93	2-aminobenzoyl-APKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3	2-aminobenzoyl-APKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.63	2-aminobenzoyl-AIKFFLRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKFFLRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.63	2-aminobenzoyl-AIKFFVRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKFFVRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.63	2-aminobenzoyl-AIKFFTRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKFFTRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.98	2-aminobenzoyl-AIKFFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.08	2-aminobenzoyl-AIKFFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.28	2-aminobenzoyl-AIKFFERQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKFFERQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.63	2-aminobenzoyl-AIKFFSIQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKFFSIQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.28	2-aminobenzoyl-AIKFFSVQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.94	2-aminobenzoyl-AIKFFSVQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.98	2-aminobenzoyl-AIKFFSSQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6.08	2-aminobenzoyl-AIKFFSSQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.3	2-aminobenzoyl-AIKFFSOQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.88	2-aminobenzoyl-AIKFFSOQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.13	2-aminobenzoyl-AIKFFSEQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.58	2-aminobenzoyl-AIKFFSEQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.99	2-aminobenzoyl-AIKFFSAQTNR-(2,4-dinitrophenyl)-D	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	2.8	2-aminobenzoyl-KITLLSALVETRQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	0.17	2-aminobenzoyl-KITLLSALVETRIVRFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	*37&Acirc;&deg;C, pH 4.0
+KCAT	Homo sapiens	0.4	Glu-Glu-His-Phe-Phe-Ala-Ala	*
+KCAT	Homo sapiens	2.1	Glu-Glu-His-Phe-Phe-Ala-Leu-methyl ester	*
+KCAT	Sus scrofa	2.9	Phe-Ala-Ala-(4-nitro)Phe-Phe-Val-Leu-4-hydroxymethylpyridine ester	*
+KCAT	Sus scrofa	0.6	Phe-Gly-Gly-(4-nitro)Phe-Phe-Val-Leu-methyl ester	*
+KCAT	Homo sapiens	0.99	2-aminobenzoyl-AIKFFSAQTNRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	2-aminobenzoyl-AIKMMSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.52	2-aminobenzoyl-AIKMFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	2-aminobenzoyl-AIKMFLRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	2-aminobenzoyl-AIKFMSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	7.8	2-aminobenzoyl-AILFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.47	2-aminobenzoyl-AIIFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	16.3	2-aminobenzoyl-AIAFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	8.45	2-aminobenzoyl-AINFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.41	2-aminobenzoyl-AIQFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.081	2-aminobenzoyl-AIPFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.97	2-aminobenzoyl-ALKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.6	2-aminobenzoyl-AAKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.65	2-aminobenzoyl-ASKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.85	2-aminobenzoyl-ANKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	2-aminobenzoyl-AKKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.65	2-aminobenzoyl-AIKFFIRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.9	2-aminobenzoyl-AIKFFARQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	2-aminobenzoyl-AIKFFORQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.65	2-aminobenzoyl-AIKFFKRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.95	2-aminobenzoyl-AIKFFRRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.6	2-aminobenzoyl-AIKFFSLQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.6	2-aminobenzoyl-AIKFFSTQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.25	2-aminobenzoyl-AIKFFSNQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	2-aminobenzoyl-AIKFFSKQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	2-aminobenzoyl-AIKFFSPQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.6	2-aminobenzoyl-AIKYYSRQ-N-(2,4-dinitrophenyl)ethylenediamine	*pH 4.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0014	fibrinogen	*

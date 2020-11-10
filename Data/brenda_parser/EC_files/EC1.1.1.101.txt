@@ -1,0 +1,1 @@
+KCAT	Cavia porcellus	100	NADPH	*

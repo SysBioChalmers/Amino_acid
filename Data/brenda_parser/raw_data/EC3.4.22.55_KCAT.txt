@@ -1,0 +1,1 @@
+ecNumber*3.4.22.55#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Homo sapiens#ligandStructureId*#literature*647471#!ecNumber*3.4.22.55#turnoverNumber*0.6#turnoverNumberMaximum*#substrate*Ac-VDVAD-7-amido-4-trifluoromethylcoumarin#commentary*pH 6.5, 22&deg;C, wild-type enzyme#organism*Homo sapiens#ligandStructureId*41946#literature*717846#

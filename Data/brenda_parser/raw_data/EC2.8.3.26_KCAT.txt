@@ -1,0 +1,1 @@
+ecNumber*2.8.3.26#turnoverNumber*12.2#turnoverNumberMaximum*#substrate*succinyl-CoA#commentary*37&Acirc;&deg;C, pH 7.8#organism*Haloarcula hispanica#ligandStructureId*224#literature*747846#!ecNumber*2.8.3.26#turnoverNumber*12.2#turnoverNumberMaximum*#substrate*mesaconate#commentary*37&Acirc;&deg;C, pH 7.8#organism*Haloarcula hispanica#ligandStructureId*3214#literature*747846#

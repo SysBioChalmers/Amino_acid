@@ -1,0 +1,1 @@
+ecNumber*1.6.5.9#turnoverNumber*0.031#turnoverNumberMaximum*#substrate*NADH#commentary*using ubiquinone-2 as substrate, in 20 mM MOPS/KOH, 1 mM EDTA, 0.03% (v/v) Triton X-100, 200 mM KCl, pH 6.2, temperature not specified in the publication#organism*Saccharomyces cerevisiae#ligandStructureId*8#literature*392679#

@@ -1,0 +1,1 @@
+ecNumber*2.8.1.5#turnoverNumber*5#turnoverNumberMaximum*#substrate*dithiothreitol#commentary*pH 8.0, 30&deg;C#organism*Phanerochaete chrysosporium#ligandStructureId*45#literature*742170#

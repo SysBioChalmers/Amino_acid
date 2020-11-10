@@ -1,0 +1,6 @@
+KCAT	Escherichia coli	0.02	nucleoside32 in EctRNAGln1(UUG)	*pH 9.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.0218	nucleoside32 in EctRNATrp1(CCA)	*pH 9.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.0235	nucleoside32 in EctRNAGln2(CUG)	*pH 9.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.0237	nucleoside32 in EctRNAfMet2(CAU)	*pH 9.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.0253	nucleoside32 in EctRNAfMet1(CAU)	*pH 9.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.0383	nucleoside32 in EctRNASer1(UGA)	*pH 9.0, 37&Acirc;&deg;C, recombinant wild-type enzyme

@@ -1,0 +1,9 @@
+KCAT	Thauera butanivorans	1.3	methane	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Thauera butanivorans	0.76	ethane	*pH 7.2, 25&Acirc;&deg;C
+KCAT	Thauera butanivorans	0.55	propane	*product propan-1-ol, pH 7.2, 25&Acirc;&deg;C
+KCAT	Thauera butanivorans	0.98	propane	*product propan-2-ol, pH 7.2, 25&Acirc;&deg;C
+KCAT	Thauera butanivorans	0.12	butane	*product butan-1-ol, pH 7.2, 25&Acirc;&deg;C
+KCAT	Thauera butanivorans	0.48	butane	*product butan-1-ol, pH 7.2, 25&Acirc;&deg;C
+KCAT	Thauera butanivorans	0.008	pentane	*product pentan-3-ol, pH 7.2, 25&Acirc;&deg;C
+KCAT	Thauera butanivorans	0.039	pentane	*product pentan-2-ol, pH 7.2, 25&Acirc;&deg;C
+KCAT	Thauera butanivorans	0.34	pentane	*product pentan-1-ol, pH 7.2, 25&Acirc;&deg;C

@@ -1,0 +1,47 @@
+KCAT	Homo sapiens	0.00011	2,2'-N,N'-bis(benzyloxycarbonyl)-L-leucinylcarbohydrazide	*pH 5.5, room temperature
+KCAT	Homo sapiens	0.0005	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.008	Succinyl-Leu-Tyr 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.01	Benzyloxycarbonyl-Val-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.016	Acetyl-Phe-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.02	Benzyloxycarbonyl-Leu-Leu-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.021	Benzyloxycarbonyl-Val-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.037	Benzyloxycarbonyl-Glu-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.078	Benzyloxycarbonyl-Leu-Leu-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.083	tert-butyloxycarbonyl-Val-Pro-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.092	benzoyl-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.16	Pro-Phe-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.19	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	*enzyme in the presence of 300 mM NaCl, in 50 mM HEPES, pH 7.4, containing 1 mM EDTA and 2.5 mM dithiothreitol, at 25&deg;C
+KCAT	Homo sapiens	0.37	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	*enzyme in the absence of NaCl, in 50 mM HEPES, pH 7.4, containing 1 mM EDTA and 2.5 mM dithiothreitol, at 25&deg;C
+KCAT	Homo sapiens	0.39	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.52	tert-butyloxycarbonyl-Val-Leu-Lys 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.9	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.98	benzyloxycarbonyl-Leu-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	1.06	Benzyloxycarbonyl-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	1.9	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	*mutant enzyme K9E/N190M/K191G/L195K , in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	2	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	*mutant enzyme K9E, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	2.1	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	*mutant enzyme K9E/I171E/Q172S, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	2.2	tosyl-Gly-Pro-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	2.9	Benzyloxycarbonyl-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	2.9	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	*wild type enzyme, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	3.25	N-[(1S)-2,2,2-trifluoro-1-[4'-(methylsulfonyl)biphenyl-4-yl]ethyl]-L-leucyl-L-methioninamide	*
+KCAT	Homo sapiens	3.4	benzyloxycarbonyl-Leu-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	3.5	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	3.6	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	*mutant enzyme K9E/I171E/Q172S/N190M/K191G/L195K, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	3.7	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	*mutant enzyme N190M/K191G/L195K, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	5.6	Z-Leu-Arg-7-amido-4-methylcoumarin	*mutant enzyme K9E/I171E/Q172S/N190M/K191G/L195K, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	5.7	Z-Leu-Arg-7-amido-4-methylcoumarin	*mutant enzyme K9E, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	6.2	Z-Leu-Arg-7-amido-4-methylcoumarin	*wild type enzyme, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	6.4	Z-Leu-Arg-7-amido-4-methylcoumarin	*mutant enzyme K9E/I171E/Q172S, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	7.6	Z-Leu-Arg-7-amido-4-methylcoumarin	*mutant enzyme K9E/N190M/K191G/L195K , in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	9.1	Z-Leu-Arg-7-amido-4-methylcoumarin	*mutant enzyme N190M/K191G/L195K, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28&deg;C
+KCAT	Homo sapiens	17	carbobenzoxy-Phe-Arg-7-amido-4-methylcoumarin	*at pH 5.5 and 37&deg;C
+KCAT	Rattus norvegicus	21.1	carbobenzyloxy-Leu-Arg-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C, recombinant mutant S134A/V160L
+KCAT	Homo sapiens	23.2	N-[(1S)-2,2,2-trifluoro-1-[4'-(methylsulfonyl)biphenyl-4-yl]ethyl]-L-leucylglycinamide	*
+KCAT	Homo sapiens	23.2	N-[(1S)-2,2,2-trifluoro-1-[4'-(methylsulfonyl)biphenyl-4-yl]ethyl]-L-leucyl-L-alaninamide	*
+KCAT	Homo sapiens	39	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*enzyme in the presence of 300 mM NaCl, in 50 mM HEPES, pH 7.4, containing 1 mM EDTA and 2.5 mM dithiothreitol, at 25&deg;C
+KCAT	Rattus norvegicus	46.3	carbobenzyloxy-Leu-Arg-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C, recombinant mutant V160L
+KCAT	Homo sapiens	56.1	carbobenzyloxy-Leu-Arg-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	79	Z-Leu-Arg-7-amido-4-methylcoumarin	*
+KCAT	Homo sapiens	91	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*enzyme in the absence of NaCl, in 50 mM HEPES, pH 7.4, containing 1 mM EDTA and 2.5 mM dithiothreitol, at 25&deg;C
+KCAT	Rattus norvegicus	95.7	carbobenzyloxy-Leu-Arg-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Rattus norvegicus	97.5	carbobenzyloxy-Leu-Arg-4-methylcoumaryl-7-amide	*pH 7.0, 37&deg;C, recombinant mutant S134A

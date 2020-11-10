@@ -1,0 +1,27 @@
+KCAT	Plasmodium falciparum	0.014	acetoacetyl-CoA	*pH 7.5
+KCAT	Escherichia coli	0.3	ethyl acetoacetate	*
+KCAT	Escherichia coli	0.59	NADPH	*
+KCAT	Mycobacterium tuberculosis	7	acetoacetyl-CoA	*pH 7.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	7	NADPH	*pH 7.6, 30&deg;C
+KCAT	Streptococcus pneumoniae	11	acetoacetyl-CoA	*pH 7.6, 30&deg;C
+KCAT	Streptococcus pneumoniae	11	NADPH	*pH 7.6, 30&deg;C
+KCAT	Saccharomyces cerevisiae	91.4	acetoacetyl-CoA	*mutant enzyme S40A, at pH 8.0 and 25&deg;C
+KCAT	Saccharomyces cerevisiae	91.4	NADPH	*mutant enzyme S40A, at pH 8.0 and 25&deg;C
+KCAT	Cupriavidus necator	102	acetoacetyl-CoA	*wild type enzyme, at pH 8.0 and 30&deg;C
+KCAT	Cupriavidus necator	102	NADPH	*wild type enzyme, at pH 8.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	108.2	acetoacetyl-CoA	*mutant enzyme S36A, at pH 8.0 and 25&deg;C
+KCAT	Saccharomyces cerevisiae	108.2	NADPH	*mutant enzyme S36A, at pH 8.0 and 25&deg;C
+KCAT	Saccharomyces cerevisiae	117.5	acetoacetyl-CoA	*wild type enzyme, at pH 8.0 and 25&deg;C
+KCAT	Saccharomyces cerevisiae	117.5	NADPH	*wild type enzyme, at pH 8.0 and 25&deg;C
+KCAT	Plasmodium falciparum	148.6	NADPH	*in the presence of 4 M urea, pH 7.0, 25&deg;C
+KCAT	Plasmodium falciparum	187.3	NADPH	*in the presence of 1.5 M urea, pH 7.0, 25&deg;C
+KCAT	Cupriavidus necator	249	acetoacetyl-CoA	*mutant enzyme Q47L, at pH 8.0 and 30&deg;C
+KCAT	Cupriavidus necator	249	NADPH	*mutant enzyme Q47L, at pH 8.0 and 30&deg;C
+KCAT	Plasmodium falciparum	250	NADPH	*without urea, pH 7.0, 25&deg;C
+KCAT	Plasmodium falciparum	259	acetoacetyl-CoA	*pH 6.8, 22&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	259	NADPH	*pH 6.8, 22&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	265	acetoacetyl-CoA	*pH 6.8, 25&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	265	NADPH	*pH 6.8, 25&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	344.7	NADPH	*in the presence of 1 M urea, pH 7.0, 25&deg;C
+KCAT	Cupriavidus necator	361	acetoacetyl-CoA	*mutant enzyme Q47L, at pH 8.0 and 30&deg;C
+KCAT	Cupriavidus necator	361	NADPH	*mutant enzyme Q47L, at pH 8.0 and 30&deg;C

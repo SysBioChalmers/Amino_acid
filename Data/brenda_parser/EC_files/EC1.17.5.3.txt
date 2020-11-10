@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	563	formate	*30&deg;C, per mol of heme

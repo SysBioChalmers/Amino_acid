@@ -1,0 +1,1 @@
+KCAT	Bacillus subtilis	24.52	3-[(4S)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate	*pH 8.1, 37&deg;C

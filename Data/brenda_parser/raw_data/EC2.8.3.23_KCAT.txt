@@ -1,0 +1,1 @@
+ecNumber*2.8.3.23#turnoverNumber*0.008#turnoverNumberMaximum*#substrate*3,4-dihydroxyphenylpropanoyl-CoA#commentary*pH 7.5, 40&Acirc;&deg;C#organism*Acetobacterium woodii#ligandStructureId*202161#literature*731177#

@@ -1,0 +1,73 @@
+KCAT	Archaeoglobus fulgidus	0.013	Butyrate	*AF-ACS2
+KCAT	Methanothermobacter thermautotrophicus	0.3	acetate	*pH 7.0, 65&deg;C, mutant enzyme G501A
+KCAT	Methanothermobacter thermautotrophicus	0.3	ATP	*pH 7.0, 65&deg;C, mutant enzyme G501A
+KCAT	Methanothermobacter thermautotrophicus	0.3	CoA	*pH 7.0, 65&deg;C, mutant enzyme G501A
+KCAT	Methanothermobacter thermautotrophicus	0.67	2-methylvalerate	*65&deg;C, mutant enzyme W416G
+KCAT	Methanothermobacter thermautotrophicus	0.7	ATP	*
+KCAT	Methanothermobacter thermautotrophicus	0.8	acetate	*pH 7.0, 65&deg;C, mutant enzyme T499A
+KCAT	Methanothermobacter thermautotrophicus	0.8	ATP	*pH 7.0, 65&deg;C, mutant enzyme T499A
+KCAT	Methanothermobacter thermautotrophicus	0.8	CoA	*pH pH 7.0, 65&deg;C, mutant enzyme T499A
+KCAT	Methanothermobacter thermautotrophicus	1.5	acetate	*pH 7.0, 65&deg;C, mutant enzyme A500T
+KCAT	Methanothermobacter thermautotrophicus	1.5	ATP	*pH 7.0, 65&deg;C, mutant enzyme A500T
+KCAT	Methanothermobacter thermautotrophicus	1.5	CoA	*pH 7.0, 65&deg;C, mutant enzyme A500T
+KCAT	Methanothermobacter thermautotrophicus	1.56	Butyrate	*65&deg;C, mutant enzyme V388A
+KCAT	Methanothermobacter thermautotrophicus	1.6	acetate	*pH 7.0, 65&deg;C, mutant enzyme Y498A
+KCAT	Methanothermobacter thermautotrophicus	1.6	ATP	*pH 7.0, 65&deg;C, mutant enzyme Y498A
+KCAT	Methanothermobacter thermautotrophicus	1.6	CoA	*pH 7.0, 65&deg;C, mutant enzyme Y498A
+KCAT	Salmonella enterica	1.7	ATP	*pH 7.5, wild-type enzyme
+KCAT	Methanothermobacter thermautotrophicus	1.9	acetate	*65&deg;C, mutant enzyme T313K
+KCAT	Salmonella enterica	3.2	CoA	*pH 7.5, wild-type enzyme
+KCAT	Methanothermobacter thermautotrophicus	3.3	Octanoate	*65&deg;C, mutant enzyme W416G
+KCAT	Methanothermobacter thermautotrophicus	3.4	Butyrate	*65&deg;C, mutant enzyme T313V
+KCAT	Methanothermobacter thermautotrophicus	5.9	hexanoate	*65&deg;C, mutant enzyme W416G
+KCAT	Methanothermobacter thermautotrophicus	5.9	propionate	*65&deg;C, mutant enzyme T313V
+KCAT	Methanothermobacter thermautotrophicus	6	propionate	*65&deg;C, mutant enzyme V388G
+KCAT	Methanothermobacter thermautotrophicus	7.3	Heptanoate	*65&deg;C, mutant enzyme W416G
+KCAT	Archaeoglobus fulgidus	9.1	propionate	*AF-ACS2
+KCAT	Methanothermobacter thermautotrophicus	10.8	Butyrate	*65&deg;C, mutant enzyme W416G
+KCAT	Methanothermobacter thermautotrophicus	10.9	4-methylvalerate	*65&deg;C, mutant enzyme W416G
+KCAT	Methanothermobacter thermautotrophicus	11.9	valerate	*65&deg;C, mutant enzyme W416G
+KCAT	Archaeoglobus fulgidus	13.2	ATP	*AF-ACS2
+KCAT	Methanothermobacter thermautotrophicus	13.2	propionate	*65&deg;C, mutant enzyme V388A
+KCAT	Methanothermobacter thermautotrophicus	19.2	propionate	*65&deg;C, mutant enzyme W416G
+KCAT	Archaeoglobus fulgidus	21.2	acetate	*AF-ACS2
+KCAT	Methanothermobacter thermautotrophicus	30.4	acetate	*65&deg;C, mutant enzyme I312A
+KCAT	Methanothermobacter thermautotrophicus	31.9	acetate	*65&deg;C, mutant enzyme V388G
+KCAT	Saccharopolyspora erythraea	33.5	acetate	*isoform Acs2, at pH 7.7 and 37&deg;C
+KCAT	Methanothermobacter thermautotrophicus	33.7	acetate	*65&deg;C, mutant enzyme W416G
+KCAT	Salmonella enterica	35	CoA	*pH 7.5, mutant enzyme A357V
+KCAT	Methanothermobacter thermautotrophicus	36.2	acetate	*65&deg;C, mutant enzyme V388A
+KCAT	Salmonella enterica	36.4	ATP	*pH 7.5, mutant enzyme R584E
+KCAT	Salmonella enterica	37.4	ATP	*pH 7.5, mutant enzyme R526A
+KCAT	Salmonella enterica	38.9	ATP	*pH 7.5, mutant enzyme A357V
+KCAT	Salmonella enterica	39.9	ATP	*pH 7.5, mutant enzyme R194A
+KCAT	Salmonella enterica	40	CoA	*pH 7.5, mutant enzyme R194E
+KCAT	Salmonella enterica	40.5	CoA	*pH 7.5, mutant enzyme R526A
+KCAT	Salmonella enterica	40.8	CoA	*pH 7.5, mutant enzyme R584E
+KCAT	Salmonella enterica	40.9	ATP	*pH 7.5, mutant enzyme D517P
+KCAT	Salmonella enterica	41.1	CoA	*pH 7.5, mutant enzyme R194A
+KCAT	Salmonella enterica	41.5	CoA	*pH 7.5, mutant enzyme R584A
+KCAT	Salmonella enterica	41.7	ATP	*pH 7.5, mutant enzyme R194E
+KCAT	Salmonella enterica	42.4	CoA	*pH 7.5, mutant enzyme D517G
+KCAT	Salmonella enterica	42.8	ATP	*pH 7.5, mutant enzyme D517G
+KCAT	Salmonella enterica	43.1	CoA	*pH 7.5, mutant enzyme G524S
+KCAT	Salmonella enterica	43.8	CoA	*pH 7.5, mutant enzyme D517P
+KCAT	Methanothermobacter thermautotrophicus	46.3	propionate	*
+KCAT	Methanothermobacter thermautotrophicus	46.3	propionate	*65&deg;C, wild-type enzyme
+KCAT	Salmonella enterica	46.7	ATP	*pH 7.5, mutant enzyme R584A
+KCAT	Salmonella enterica	49.8	ATP	*pH 7.5, mutant enzyme G524S
+KCAT	Saccharopolyspora erythraea	52.7	acetate	*isoform Acs3, at pH 7.7 and 37&deg;C
+KCAT	Methanothermobacter thermautotrophicus	65.4	acetate	*
+KCAT	Methanothermobacter thermautotrophicus	65.4	acetate	*65&deg;C, wild-type enzyme
+KCAT	Methanothermobacter thermautotrophicus	66.6	acetate	*pH 7.0, 65&deg;C, wild-type enzyme
+KCAT	Methanothermobacter thermautotrophicus	66.6	ATP	*
+KCAT	Methanothermobacter thermautotrophicus	66.6	ATP	*pH 7.0, 65&deg;C, wild-type enzyme
+KCAT	Methanothermobacter thermautotrophicus	66.6	CoA	*pH 7.0, 65&deg;C, wild-type enzyme
+KCAT	Saccharopolyspora erythraea	77.5	acetate	*isoform Acs1, at pH 7.7 and 37&deg;C
+KCAT	Methanothermobacter thermautotrophicus	81.6	CoA	*
+KCAT	Salmonella enterica	95.1	CoA	*pH 7.5, wild-type enzyme
+KCAT	Salmonella enterica	100.6	ATP	*pH 7.5, wild-type enzyme
+KCAT	Archaeoglobus fulgidus	144.9	CoA	*AF-ACS2
+KCAT	Salmonella enterica	1500	acetate	*mutant L641P, pH not specified in the publication, temperature not specified in the publication
+KCAT	Salmonella enterica	3200	acetate	*mutant G266S, pH not specified in the publication, temperature not specified in the publication
+KCAT	Salmonella enterica	9400	acetate	*wild-type Acs, pH not specified in the publication, temperature not specified in the publication

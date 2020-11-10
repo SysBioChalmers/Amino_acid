@@ -1,0 +1,13 @@
+KCAT	Methanocaldococcus jannaschii	0.48	(Z)-but-1-ene-1,2,4-tricarboxylate	*mutant R26V, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	0.66	(Z)-pent-1-ene-1,2,5-tricarboxylate	*wild-type HACNMj, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	0.75	(Z)-but-1-ene-1,2,4-tricarboxylate	*wild-type HACNMj, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	1.43	(Z)-but-1-ene-1,2,4-tricarboxylate	*mutant R26K, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	1.7	(Z)-but-1-ene-1,2,4-tricarboxylate	*mutant R26V/T27Y, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	1.9	(Z)-hex-1-ene-1,2,6-tricarboxylate	*mutant R26V/T27Y, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	2.2	(Z)-pent-1-ene-1,2,5-tricarboxylate	*mutant T27A, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	2.5	(Z)-but-1-ene-1,2,4-tricarboxylate	*mutant T27A, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	2.5	(Z)-hex-1-ene-1,2,6-tricarboxylate	*wild-type HACNMj, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	2.8	(Z)-hex-1-ene-1,2,6-tricarboxylate	*mutant R26V, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	4.1	(Z)-hex-1-ene-1,2,6-tricarboxylate	*mutant T27A, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	5.8	(Z)-pent-1-ene-1,2,5-tricarboxylate	*mutant R26V, pH 7.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	6.6	(Z)-pent-1-ene-1,2,5-tricarboxylate	*mutant R26V/T27Y, pH 7.0, temperature not specified in the publication

@@ -1,0 +1,3 @@
+KCAT	Homo sapiens	0.00000572	ATP	*isoform PI5P4Kgamma, at pH 7.4 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.000955	ATP	*isoform PI5P4Kbeta, at pH 7.4 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.0105	ATP	*isoform PI5P4Kalpha, at pH 7.4 and 22&Acirc;&deg;C

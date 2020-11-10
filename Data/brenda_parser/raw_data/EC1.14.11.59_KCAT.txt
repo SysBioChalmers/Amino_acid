@@ -1,0 +1,1 @@
+ecNumber*1.14.11.59#turnoverNumber*2.1#turnoverNumberMaximum*#substrate*(2R)-4-hydroxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl beta-D-glucopyranoside#commentary*in 100 mM potassium phosphate buffer (pH 7.0), at 30&Acirc;&deg;C#organism*Zea mays#ligandStructureId*15205#literature*723455#

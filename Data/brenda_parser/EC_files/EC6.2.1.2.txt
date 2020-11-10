@@ -1,0 +1,10 @@
+KCAT	Penicillium chrysogenum	1.3	phenylacetate	*pH 8.5, 30&deg;C, recombinant enzyme
+KCAT	Penicillium chrysogenum	1.5	CoA	*pH 8.5, 30&deg;C, recombinant enzyme, with phenylacetic acid
+KCAT	Methanosarcina acetivorans	1.58	2-methylbutyrate	*pH 7.5, 55&deg;C
+KCAT	Penicillium chrysogenum	1.7	ATP	*pH 8.5, 30&deg;C, recombinant enzyme, with phenylacetic acid
+KCAT	Methanosarcina acetivorans	1.94	ATP	*pH 7.5, 55&deg;C
+KCAT	Methanosarcina acetivorans	2.15	CoA	*pH 7.5, 55&deg;C
+KCAT	Penicillium chrysogenum	12	Phenoxyacetate	*pH 8.5, 30&deg;C, recombinant enzyme
+KCAT	Penicillium chrysogenum	41.2	trans-cinnamic acid	*pH 8.5, 30&deg;C, recombinant enzyme
+KCAT	Penicillium chrysogenum	42.9	ATP	*pH 8.5, 30&deg;C, recombinant enzyme, with trans-cinnamic acid
+KCAT	Penicillium chrysogenum	60.5	CoA	*pH 8.5, 30&deg;C, recombinant enzyme, with trans-cinnamic acid

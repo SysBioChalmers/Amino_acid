@@ -1,0 +1,166 @@
+KCAT	Saccharomyces cerevisiae	-999	more	*
+KCAT	Cupriavidus oxalaticus	-999	more	*
+KCAT	Pisum sativum	-999	more	*
+KCAT	Pseudomonas sp.	-999	more	*
+KCAT	Candida boidinii	0.00004	NADP+	*wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5); wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5); wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Lotus japonicus	0.005	NADP+	*in 0.1 M potassium phosphate buffer, pH 7.5, at 30&deg;C
+KCAT	Candida boidinii	0.005	reduced 1,1'-dicarboxyl-4,4'-bipyridinium salt	*at pH 7.4, temperature not specified in the publication
+KCAT	Paracoccus sp.	0.007	glyoxylate	*wild-type, 30&deg;C, pH 7.0
+KCAT	Paracoccus sp.	0.01	formate	*mutant E141N, 30&deg;C, pH 7.0
+KCAT	Candida methylica	0.01	NADP+	*mutant enzyme D195S/Q197V, at pH 8.0 and 25&deg;C
+KCAT	Paracoccus sp.	0.023	glyoxylate	*mutant E141Q, 30&deg;C, pH 7.0
+KCAT	Candida methylica	0.023	HCO3-	*at pH 7.0 and 25&deg;C
+KCAT	Chaetomium thermophilum	0.023	HCO3-	*at pH 7.0 and 25&deg;C
+KCAT	Candida boidinii	0.025	reduced 1-methyl-1'-carboxymethyl-4,4'-bipyridinium salt	*at pH 7.4, temperature not specified in the publication
+KCAT	Thermothelomyces thermophilus	0.03	NADH	*at pH 6.0 and 35&deg;C
+KCAT	Thermothelomyces thermophilus	0.03	NADH	*25&deg;C, pH not specified in the publication
+KCAT	Candida methylica	0.03	NADP+	*mutant enzyme Q197V, at pH 8.0 and 25&deg;C
+KCAT	Candida boidinii	0.032	reduced methyl viologen	*at pH 7.4, temperature not specified in the publication
+KCAT	Candida boidinii	0.038	reduced 1-methyl-1'-aminoethyl-4,4'-bipyridinium salt	*at pH 7.4, temperature not specified in the publication
+KCAT	Candida methylica	0.04	NADP+	*mutant enzyme D195S, at pH 8.0 and 25&deg;C
+KCAT	Candida boidinii	0.052	NADP+	*mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Paracoccus sp.	0.054	formate	*mutant E141Q, 30&deg;C, pH 7.0
+KCAT	Candida boidinii	0.072	reduced 1,1'-diaminoethyl-4,4'-bipyridinium salt	*at pH 7.4, temperature not specified in the publication
+KCAT	Clostridium carboxidivorans	0.08	NADH	*in 0.1 M sodium phosphate (pH 6.8), at 37&deg;C
+KCAT	Saccharomyces cerevisiae	0.095	NAD+	*pH 7.0, 30&deg;C, mutant enzyme D196A/Y197R
+KCAT	Thermothelomyces thermophilus	0.1	CO2	*at pH 6.0 and 35&deg;C
+KCAT	Thermothelomyces thermophilus	0.1	CO2	*25&deg;C, pH not specified in the publication
+KCAT	Candida methylica	0.1	NADP+	*mutant enzyme D195S/Y196L, at pH 8.0 and 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.12	NAD+	*pH 7.0, 30&deg;C, mutant enzyme D196A/Y197R, with 0.5 M formate
+KCAT	Candida methylica	0.16	NAD+	*mutant enzyme D195S/Q197V, at pH 8.0 and 25&deg;C
+KCAT	Candida methylica	0.16	NADP+	*mutant enzyme D195S/Y196S, at pH 8.0 and 25&deg;C
+KCAT	Candida methylica	0.17	NADP+	*mutant enzyme D195S/Y196A, at pH 8.0 and 25&deg;C
+KCAT	Candida methylica	0.2	NAD+	*mutant enzyme D195S/Q197T, at pH 8.0 and 25&deg;C; mutant enzyme D195S/Y196A, at pH 8.0 and 25&deg;C; mutant enzyme D195S/Y196L, at pH 8.0 and 25&deg;C; mutant enzyme D195S/Y196S, at pH 8.0 and 25&deg;C; wild type enzyme, at pH 8.0 and 25&deg;C
+KCAT	Candida boidinii	0.21	formate	*wild type enzyme, at pH 7.2 and 30&deg;C
+KCAT	Candida boidinii	0.21	NAD+	*mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Candida methylica	0.22	NAD+	*mutant enzyme D195S, at pH 8.0 and 25&deg;C; mutant enzyme Q197V, at pH 8.0 and 25&deg;C
+KCAT	Candida methylica	0.25	formate	*mutant enzyme Y302R, at pH 8.0 and 25&deg;C
+KCAT	Candida boidinii	0.26	NAD+	*mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Candida boidinii	0.26	NADP+	*mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C; mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Candida methylica	0.26	NADP+	*mutant enzyme D195S/Q197T, at pH 8.0 and 25&deg;C
+KCAT	Candida methylica	0.29	formate	*oxidized mutant enzyme T169C/T226C, at 20&deg;C, in 20 mM triethanolamine at pH 8
+KCAT	Candida methylica	0.3	formate	*20&deg;C, pH 8, mutant enzyme T69V; 20&deg;C, pH 8, mutant enzyme T69V/T226V
+KCAT	Candida methylica	0.3	formate	*mutant enzyme Y160R, at pH 8.0 and 25&deg;C
+KCAT	Thermothelomyces thermophilus	0.3	formate	*at pH 10.5 and 35&deg;C
+KCAT	Pseudomonas sp.	0.31	formate	*pH 7.0, 37&deg;C, mutant enzyme R284Q
+KCAT	Thermothelomyces thermophilus	0.32	formate	*25&deg;C, pH not specified in the publication
+KCAT	Candida boidinii	0.34	NAD+	*mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Candida boidinii	0.34	NADP+	*mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C; mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C; mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Paracoccus sp.	0.36	glyoxylate	*mutant E141N, 30&deg;C, pH 7.0
+KCAT	Candida boidinii	0.4	NAD+	*mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Candida boidinii	0.44	formate	*mutant enzyme T321S, at pH 7.2 and 30&deg;C
+KCAT	Candida boidinii	0.44	NADP+	*mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Candida boidinii	0.49	NAD+	*mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Candida methylica	0.5	formate	*reduced mutant enzyme T169C/T226C, at 20&deg;C, in 20 mM triethanolamine at pH 8
+KCAT	Candida methylica	0.5	formate	*mutant enzyme N187E/N147R, at pH 8.0 and 25&deg;C
+KCAT	Mycolicibacterium vaccae	0.52	NADP+	*mutant enzyme D221G, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Candida methylica	0.55	formate	*mutant enzyme H13E, at pH 8.0 and 25&deg;C
+KCAT	Mycolicibacterium vaccae	0.55	NADP+	*mutant enzyme D221S, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Candida methylica	0.6	formate	*mutant enzyme N187E/Q105R, at pH 8.0 and 25&deg;C
+KCAT	Mycolicibacterium vaccae	0.62	NADP+	*mutant enzyme D221G/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Chaetomium thermophilum	0.65	NAD+	*at pH 7.4 and 25&deg;C
+KCAT	Candida methylica	0.7	formate	*mutant enzyme N187E, at pH 8.0 and 25&deg;C
+KCAT	Candida boidinii	0.7	formate	*mutant enzyme V120S/N187D, at pH 9.5 and 30&deg;C
+KCAT	Candida boidinii	0.71	formate	*mutant enzyme N187S/T321S, at pH 7.2 and 30&deg;C
+KCAT	Candida boidinii	0.76	NAD+	*mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Thermothelomyces thermophilus	0.76	NAD+	*at pH 10.5 and 35&deg;C
+KCAT	Thermothelomyces thermophilus	0.76	NAD+	*25&deg;C, pH not specified in the publication
+KCAT	Mycolicibacterium vaccae	0.79	NADP+	*mutant enzyme A198G/D221Q, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Candida methylica	0.8	formate	*mutant enzyme Y160E, at pH 8.0 and 25&deg;C
+KCAT	Chaetomium thermophilum	0.81	formate	*at pH 7.4 and 25&deg;C
+KCAT	Candida methylica	0.85	formate	*mutant enzyme N147R, at pH 8.0 and 25&deg;C
+KCAT	Candida boidinii	0.87	NAD+	*mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Rhodobacter capsulatus	0.9	formate	*mutant enzyme H387K, at pH 9.0 and 25&deg;C
+KCAT	Mycolicibacterium vaccae	1.04	NADP+	*mutant enzyme D221Q, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Mycolicibacterium vaccae	1.05	NADP+	*mutant enzyme D221A, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	1.07	NADP+	*in 100 mM Tris-HCl (pH 7.0), at 30&deg;C
+KCAT	Candida methylica	1.1	formate	*20&deg;C, pH 8, mutant enzyme T226V
+KCAT	Candida methylica	1.1	formate	*wild type enzyme, at pH 8.0 and 25&deg;C
+KCAT	Candida methylica	1.13	formate	*wild type enzyme, at pH 8.0 and 25&deg;C
+KCAT	Candida methylica	1.2	formate	*20&deg;C, pH 8, wild-type enzyme
+KCAT	Candida methylica	1.2	formate	*wild type enzyme, at 20&deg;C, in 20 mM triethanolamine at pH 8
+KCAT	Candida methylica	1.2	formate	*mutant enzyme Q105R, at pH 8.0 and 25&deg;C
+KCAT	Lotus japonicus	1.2	NAD+	*in 0.1 M potassium phosphate buffer, pH 7.5, at 30&deg;C
+KCAT	Candida boidinii	1.25	formate	*mutant enzyme N187S, at pH 7.2 and 30&deg;C
+KCAT	Lotus japonicus	1.3	formate	*in 0.1 M potassium phosphate buffer, pH 7.5, at 30&deg;C
+KCAT	Candida methylica	1.31	formate	*at pH 7.0 and 25&deg;C
+KCAT	Candida methylica	1.4	NAD+	*pH 8.0, 20&deg;C, wild-type enzyme; wild-type enzyme
+KCAT	Rhodobacter capsulatus	1.5	CO2	*with NADH as cosubstrate, at pH 9.0 and 30&deg;C
+KCAT	Mycolicibacterium vaccae	1.5	NADP+	*mutant enzyme C145S/A198G/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Candida boidinii	1.53	formate	*wild type enzyme, at pH 9.5 and 30&deg;C
+KCAT	Candida methylica	1.6	NAD+	*mutant enzyme S195S; pH 8.0, 20&deg;C, mutant enzyme D195S
+KCAT	Mycolicibacterium vaccae	1.64	NADP+	*mutant enzyme C145S/D221G/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Thiobacillus sp.	1.77	formate	*at pH 7.0 and 25&deg;C
+KCAT	Candida boidinii	1.78	formate	*at pH 7.5 and 25&deg;C
+KCAT	Mycolicibacterium vaccae	1.91	NADP+	*mutant enzyme C145S/D221A/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Candida boidinii	2.03	NAD+	*at pH 7.5 and 25&deg;C
+KCAT	Chaetomium thermophilum	2.039	formate	*at pH 7.0 and 25&deg;C
+KCAT	Glycine max	2.2	formate	*mutant enzyme A267M/I272V, at pH 8.0 and 37&deg;C
+KCAT	Ogataea angusta	2.32	formate	*at pH 6.5 and 30&deg;C
+KCAT	Candida boidinii	2.6	NAD+	*mutant enzyme I239C, at 30&deg;C and pH 7.0
+KCAT	Mycolicibacterium vaccae	2.76	NADP+	*mutant enzyme C145S/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22&deg;C
+KCAT	Glycine max	2.8	formate	*mutant enzyme F290N, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&deg;C
+KCAT	Glycine max	2.8	formate	*mutant enzyme F290N, at pH 8.0 and 37&deg;C
+KCAT	Glycine max	2.8	NAD+	*mutant enzyme F290N, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&deg;C
+KCAT	Glycine max	2.8	NAD+	*mutant enzyme F290N, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Glycine max	2.9	formate	*wild type enzyme, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&deg;C
+KCAT	Glycine max	2.9	formate	*mutant enzyme A267M/I272V/F290D, at pH 8.0 and 37&deg;C; wild type enzyme, at pH 8.0 and 37&deg;C
+KCAT	Glycine max	2.9	NAD+	*wild type enzyme, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&deg;C
+KCAT	Glycine max	2.9	NAD+	*wild type enzyme, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Mycolicibacterium vaccae	3.08	NADP+	*mutant enzyme C145S/A198G/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 30&deg;C
+KCAT	Glycine max	3.2	formate	*mutant enzyme A267M/I272V/F290N, at pH 8.0 and 37&deg;C
+KCAT	Candida boidinii	3.29	formate	*mutant enzyme N187D, at pH 9.5 and 30&deg;C
+KCAT	Candida boidinii	3.3	NAD+	*wild type enzyme, at 30&deg;C and pH 7.0
+KCAT	Glycine max	3.5	NAD+	*mutant enzyme F290Q, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication; mutant enzyme F290Y, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Glycine max	3.7	formate	*mutant enzyme A267M/I272V/F290S, at pH 8.0 and 37&deg;C
+KCAT	Candida boidinii	3.7	NAD+	*wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5); wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5); wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5), at 37&deg;C
+KCAT	Glycine max	3.8	NAD+	*mutant enzyme F290A, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Glycine max	4	NAD+	*mutant enzyme F290T, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Pseudomonas sp.	4	NAD+	*mutant enzyme F311D, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Glycine max	4.1	formate	*mutant enzyme F290S, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&deg;C
+KCAT	Glycine max	4.1	formate	*mutant enzyme F290S, at pH 8.0 and 37&deg;C
+KCAT	Glycine max	4.1	NAD+	*mutant enzyme F290S, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&deg;C
+KCAT	Glycine max	4.1	NAD+	*mutant enzyme F290S, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Candida boidinii	4.3	NAD+	*mutant enzyme A10C/I239C, at 30&deg;C and pH 7.0
+KCAT	Saccharomyces cerevisiae	4.5	NADP+	*pH 7.0, 30&deg;C, mutant enzyme D196A/Y197R
+KCAT	Glycine max	4.7	NAD+	*mutant enzyme F290E, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Glycine max	5	formate	*mutant enzyme A267M, at pH 8.0 and 37&deg;C
+KCAT	Pseudomonas sp. 101	5	NAD+	*mutant enzyme D221S, pH and temperature not specified in the publication
+KCAT	Glycine max	5.1	formate	*mutant enzyme F290D, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&deg;C
+KCAT	Glycine max	5.1	formate	*mutant enzyme F290D, at pH 8.0 and 37&deg;C
+KCAT	Glycine max	5.1	NAD+	*mutant enzyme F290D, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&deg;C
+KCAT	Glycine max	5.1	NAD+	*mutant enzyme F290D, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Mycolicibacterium vaccae	5.18	NAD+	*mutant enzyme C145S/A198G/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 30&deg;C
+KCAT	Candida boidinii	5.34	formate	*mutant enzyme V120S, at pH 9.5 and 30&deg;C
+KCAT	Pseudomonas sp.	5.4	NAD+	*mutant enzyme F311S, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Pseudomonas sp.	5.5	NAD+	*mutant enzyme F311N, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Candida boidinii	5.6	formate	*recombinant enzyme, at pH 7.5 and 25&deg;C
+KCAT	Candida boidinii	5.6	NAD+	*recombinant enzyme, at pH 7.5 and 25&deg;C
+KCAT	Paracoccus sp.	6.1	formate	*wild-type, 30&deg;C, pH 7.0
+KCAT	Candida boidinii	6.2	NAD+	*mutant enzyme A10C, at 30&deg;C and pH 7.0
+KCAT	Saccharomyces cerevisiae	6.5	NAD+	*pH 7.0, 30&deg;C, wild-type enzyme
+KCAT	Bacillus sp. (in: Bacteria)	6.67	NAD+	*in 100 mM Tris-HCl (pH 7.0), at 30&deg;C
+KCAT	Candida boidinii	6.8	formate	*mutant enzyme K328V, at pH 7.5 and 25&deg;C
+KCAT	Candida boidinii	6.8	NAD+	*mutant enzyme K328V, at pH 7.5 and 25&deg;C
+KCAT	Moraxella sp.	7.3	formate	*in 0.1 M potassium phosphate buffer pH 7.0, at 30&deg;C
+KCAT	Pseudomonas sp.	7.3	NAD+	*mutant enzyme F311Y, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication; wild type enzyme, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+KCAT	Moraxella sp. C-1	7.3	NAD+	*mutant enzyme A198G, pH and temperature not specified in the publication; wild type enzyme, pH and temperature not specified in the publication
+KCAT	Pseudomonas sp. 101	7.3	NAD+	*mutant enzyme A198G, pH and temperature not specified in the publication; wild type enzyme, pH and temperature not specified in the publication
+KCAT	Mycolicibacterium vaccae	7.89	NADP+	*mutant enzyme C145S/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 30&deg;C
+KCAT	Mycolicibacterium vaccae	8.22	NAD+	*mutant enzyme C145S/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 30&deg;C
+KCAT	Pseudomonas sp.	10	formate	*pH 7.0, 37&deg;C, wild-type enzyme
+KCAT	Rhodobacter capsulatus	11.2	formate	*mutant enzyme R587K, at pH 9.0 and 25&deg;C
+KCAT	Candida boidinii	18.68	NAD+	*mutant enzyme V120S/N187D, at pH 9.5 and 30&deg;C
+KCAT	Candida boidinii	22.3	NAD+	*wild type enzyme, at pH 9.5 and 30&deg;C
+KCAT	Candida boidinii	28.99	NAD+	*mutant enzyme N187D, at pH 9.5 and 30&deg;C
+KCAT	Rhodobacter capsulatus	32	formate	*with 2,6-dichlorophenolindophenol as cosubstrate, at pH 9.0 and 30&deg;C
+KCAT	Rhodobacter capsulatus	33.7	formate	*mutant enzyme H387M, at pH 9.0 and 25&deg;C
+KCAT	Rhodobacter capsulatus	35.4	formate	*wild type enzyme, at pH 9.0 and 25&deg;C
+KCAT	Rhodobacter capsulatus	36.5	formate	*with NAD+ as cosubstrate, at pH 9.0 and 30&deg;C
+KCAT	Rhodobacter capsulatus	39.7	formate	*with ferricyanide as cosubstrate, at pH 9.0 and 30&deg;C
+KCAT	Candida boidinii	40.63	NAD+	*mutant enzyme V120S, at pH 9.5 and 30&deg;C
+KCAT	Desulfovibrio desulfuricans	46.6	CO2	*at pH 7.0 and 22&deg;C
+KCAT	Citrobacter sp.	76	formate	*at pH 7.0 and 30&deg;C
+KCAT	Desulfovibrio desulfuricans	543	formate	*at pH 8.0 and 22&deg;C
+KCAT	Candida boidinii	890	NAD+	*wild type enzyme, in the absence of 1-methyl-3-methylimidazolium dimethylphosphate, in 50 mM carbonate buffer, pH 9.7, at 30&deg;C
+KCAT	Candida boidinii	1300	NAD+	*wild type enzyme, in the presence of 30% (v/v) 1-methyl-3-methylimidazolium dimethylphosphate, in 50 mM carbonate buffer, pH 9.7, at 30&deg;C

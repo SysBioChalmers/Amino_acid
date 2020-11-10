@@ -1,0 +1,1 @@
+ecNumber*1.14.15.32#turnoverNumber*0.00838#turnoverNumberMaximum*#substrate*(+/-)-pentalenene#commentary*recombinant enzyme, in 50 mM phosphate buffer, 10% (v/v) glycerol, pH 7.4, at 22&Acirc;&deg;C#organism*Streptomyces avermitilis#ligandStructureId*41628#literature*715249#

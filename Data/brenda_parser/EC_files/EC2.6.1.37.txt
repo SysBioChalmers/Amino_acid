@@ -1,0 +1,7 @@
+KCAT	Salmonella enterica	9.3	L-alanine	*pH 8.5, 25&Acirc;&deg;C, synthesis of (2-aminoethyl)phosphonate
+KCAT	Salmonella enterica	0.04	D-alanine	*pH 8.5, 25&Acirc;&deg;C, synthesis of (2-aminoethyl)phosphonate
+KCAT	Salmonella enterica	0.02	2-phosphonoacetaldehyde	*pH 8.5, 25&Acirc;&deg;C, synthesis of (2-aminoethyl)phosphonate, R340A mutant enzyme
+KCAT	Salmonella enterica	0.6	2-phosphonoacetaldehyde	*pH 8.5, 25&Acirc;&deg;C, synthesis of (2-aminoethyl)phosphonate, R340K mutant enzyme
+KCAT	Salmonella enterica	9.3	2-phosphonoacetaldehyde	*pH 8.5, 25&Acirc;&deg;C, synthesis of (2-aminoethyl)phosphonate
+KCAT	Salmonella enterica	0.02	(2-aminoethyl)phosphonate	*pH 8.5, 25&Acirc;&deg;C, synthesis of 2-phosphonoacetaldehyde, R340K and R340A mutant enzymes
+KCAT	Salmonella enterica	7.4	(2-aminoethyl)phosphonate	*pH 8.5, 25&Acirc;&deg;C, synthesis of 2-phosphonoacetaldehyde

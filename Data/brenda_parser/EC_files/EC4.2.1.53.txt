@@ -1,0 +1,12 @@
+KCAT	Macrococcus caseolyticus	0.03	myristoleic acid	*at pH 6.5 and 25&deg;C
+KCAT	Macrococcus caseolyticus	0.13	alpha-linolenic acid	*at pH 6.5 and 25&deg;C
+KCAT	Macrococcus caseolyticus	0.13	linoleic acid	*at pH 6.5 and 25&deg;C
+KCAT	Lysinibacillus fusiformis	1.33	linoleate	*at pH 6.5 and 35&deg;C
+KCAT	Lysinibacillus fusiformis	2.17	gamma-linolenate	*at pH 6.5 and 35&deg;C
+KCAT	Macrococcus caseolyticus	2.67	gamma-linolenic acid	*at pH 6.5 and 25&deg;C
+KCAT	Macrococcus caseolyticus	3.83	palmitoleic acid	*at pH 6.5 and 25&deg;C
+KCAT	Lysinibacillus fusiformis	7.17	palmitoleate	*at pH 6.5 and 35&deg;C
+KCAT	Macrococcus caseolyticus	7.83	oleic acid	*at pH 6.5 and 25&deg;C
+KCAT	Stenotrophomonas maltophilia	11.83	oleate	*at pH 6.5 and 35&deg;C
+KCAT	Lysinibacillus fusiformis	14.17	oleate	*at pH 6.5 and 35&deg;C
+KCAT	Rhodococcus erythropolis	34	oleate	*pH 7.2, 28&deg;C

@@ -1,0 +1,3 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*
+KCAT	Rattus norvegicus	0.00002	several methylated protein substrates	*
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.004	methyl-accepting chemotaxis protein	*

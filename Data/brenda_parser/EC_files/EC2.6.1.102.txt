@@ -1,0 +1,3 @@
+KCAT	Caulobacter vibrioides	2.7	GDP-4-dehydro-6-deoxy-alpha-D-mannose	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Caulobacter vibrioides	2.7	GDP-4-dehydro-6-deoxy-alpha-D-mannose	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Caulobacter vibrioides	0.015	GDP-4-dehydro-3,6-dideoxy-alpha-D-mannose	*pH 7.5, 22&Acirc;&deg;C

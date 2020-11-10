@@ -1,0 +1,1 @@
+KCAT	Saccharomyces cerevisiae	-999	more	*fusion of ubiquitin to mutant enzyme Ste6p-deltaA dramatically increased its rate of turnover

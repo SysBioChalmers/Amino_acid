@@ -1,0 +1,1 @@
+ecNumber*3.4.17.B5#turnoverNumber*600#turnoverNumberMaximum*#substrate*N-carboxybenzoyl-Ala-Arg#commentary*80&deg;C, pH 6.5, 0.4 mM CoCl2#organism*Pyrococcus furiosus#ligandStructureId*42212#literature*721001#

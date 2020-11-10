@@ -1,0 +1,7 @@
+KCAT	Pseudomonas aeruginosa	1.2	O2	*pH 8.0, 25&deg;C, cosubstrate: 2-heptyl-4(1H)-quinolone
+KCAT	Pseudomonas aeruginosa	2.3	2-propyl-4(1H)-quinolone	*pH 8.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	2.5	2-nonyl-4(1H)-quinolone	*pH 8.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	2.7	2-heptyl-4(1H)-quinolone	*pH 8.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	3	2-pentyl-4(1H)-quinolone	*pH 8.0, 25&deg;C
+KCAT	Pseudomonas aeruginosa	3.2	NADH	*pH 8.0, 25&deg;C, cosubstrate: 2-heptyl-4(1H)-quinolone
+KCAT	Pseudomonas aeruginosa	3.8	NADPH	*pH 8.0, 25&deg;C, cosubstrate: 2-heptyl-4(1H)-quinolone

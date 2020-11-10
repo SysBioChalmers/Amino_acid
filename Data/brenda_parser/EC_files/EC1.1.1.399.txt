@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	33.3	2-oxoglutarate	*at pH 7.5 and 37&Acirc;&deg;C

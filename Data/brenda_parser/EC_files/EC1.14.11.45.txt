@@ -1,0 +1,5 @@
+KCAT	Bacillus thuringiensis	0.04	2-oxoglutarate	*at pH 6.0 and 40&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	33	L-methionine	*at pH 7.0 and 34&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	7.5	L-leucine	*at pH 7.0 and 34&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	0.089	L-isoleucine	*at pH 6.0 and 40&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	6	L-isoleucine	*at pH 7.0 and 34&Acirc;&deg;C

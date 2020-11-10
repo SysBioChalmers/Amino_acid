@@ -1,0 +1,23 @@
+KCAT	Pseudomonas savastanoi	0.0036	L-lysine	*pH 8.5, 37&deg;C
+KCAT	Pseudomonas savastanoi	0.025	Diaminobutane	*pH 8.5, 37&deg;C
+KCAT	Giardia intestinalis	7.9	phosphate	*pH 8.0, 37&deg;C
+KCAT	Giardia intestinalis	8.1	L-citrulline	*pH 8.0, 37&deg;C
+KCAT	Alnus glutinosa	18	ornithine	*
+KCAT	Pseudomonas savastanoi	49	L-ornithine	*pH 8.5, 37&deg;C
+KCAT	Giardia intestinalis	82	Carbamoyl phosphate	*pH 8.0, 37&deg;C
+KCAT	Enterococcus faecalis	90	L-citrulline	*
+KCAT	Giardia intestinalis	94.2	L-ornithine	*pH 8.0, 37&deg;C
+KCAT	Bos taurus	187	ornithine	*
+KCAT	Moritella abyssi	235	L-ornithine	*pH 9.0, 5&deg;C
+KCAT	Pyrococcus furiosus	370	ornithine	*at 30&deg;C
+KCAT	Moritella abyssi	382	L-ornithine	*pH 9.0, 10&deg;C
+KCAT	Pyrococcus furiosus	500	ornithine	*at 55&deg;C
+KCAT	Moritella abyssi	546	L-ornithine	*pH 9.0, 15&deg;C
+KCAT	Moritella abyssi	690	L-ornithine	*pH 9.0, 30&deg;C
+KCAT	Moritella abyssi	694	L-ornithine	*pH 9.0, 20&deg;C
+KCAT	Moritella abyssi	750	L-ornithine	*pH 9.0, 25&deg;C
+KCAT	Pyrococcus furiosus	2200	ornithine	*Y227C/E277G double mutant, at 30&deg;C
+KCAT	Pyrococcus furiosus	2900	ornithine	*A240D/E277G double mutant, at 30&deg;C
+KCAT	Enterococcus faecalis	3400	ornithine	*
+KCAT	Pyrococcus furiosus	3500	ornithine	*Y227C/E277G double mutant, at 55&deg;C
+KCAT	Pyrococcus furiosus	4300	ornithine	*A240D/E277G double mutant, at 55&deg;C

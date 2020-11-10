@@ -1,0 +1,2 @@
+KCAT	Aspergillus terreus	0.026	2,7-dihydroxynaphthalene	*pH 8.7, 30&deg;C
+KCAT	Aspergillus terreus	0.026	dimethylallyl diphosphate	*pH 8.7, 30&deg;C

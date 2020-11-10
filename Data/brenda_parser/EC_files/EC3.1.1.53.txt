@@ -1,0 +1,4 @@
+KCAT	Tannerella forsythia	111	4-nitrophenyl acetate	*at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Tannerella forsythia	111	4-nitrophenyl acetate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	bovine coronavirus	-999	more	*methyl-linked N-acetyl-neuraminide (N-acetyl-9-O-acetyl-neuraminic acid alpha-methylglycoside) hydrolysed at higher rate than thio-linked N-acetylneuraminosylglucoside (N-acetyl-9-O-acetyl-2,6-alpha-S-glucosyl-neuraminic acid alpha-methylglycoside)
+KCAT	influenza C virus	-999	more	*methyl-linked N-acetyl-neuraminide (N-acetyl-9-O-acetyl-neuraminic acid alpha-methylglycoside) and thio-linked N-acetylneuraminosylglucoside (N-acetyl-9-O-acetyl-2,6-alpha-S-glucosyl-neuraminic acid alpha-methylglycoside) hydrolysed at similar rates

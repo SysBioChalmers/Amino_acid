@@ -1,0 +1,2 @@
+KCAT	Panax ginseng	0.0000556	(20S)-protopanaxadiol	*at pH 8.0 and 35&deg;C
+KCAT	Panax ginseng	0.0001347	ginsenoside C-K	*at pH 8.0 and 35&deg;C

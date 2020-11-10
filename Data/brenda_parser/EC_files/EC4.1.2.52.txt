@@ -1,0 +1,19 @@
+KCAT	Escherichia coli	219.5	pyruvate	*steady-state kinetic parameter, with acetaldehyde as aldehyde donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	21.9	acetaldehyde	*Kcat(app) with 2-oxobutanoate as carbonyl donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	205.4	acetaldehyde	*Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	358.4	propionaldehyde	*Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	5.6	DL-glyceraldehyde	*Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	132.5	Butyraldehyde	*Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	175.5	glycolaldehyde	*Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	203.8	Succinic semialdehyde	*Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	353	4-hydroxy-2-oxopentanoate	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	64.9	Isobutyraldehyde	*Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	229	4-hydroxy-2-oxohexanoate	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	11.8	(S)-4-hydroxy-2-oxopentanoate	*mutant enzyme R70K, with 0.5 mM Co2+, at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	353.5	(S)-4-hydroxy-2-oxopentanoate	*wild type enzyme, with 0.5 mM Co2+, at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	361.5	4-hydroxy-2-oxoheptane-1,7-dioate	*using H2O as solvent, in the presence of 0.5 mM Co2+, at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.17	4-hydroxy-2-oxopentanoic acid	*H45Q mutant enzyme, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	4.5	4-hydroxy-2-oxopentanoic acid	*H45A mutant enzyme, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	350	4-hydroxy-2-oxopentanoic acid	*wild-type, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.55	3-deoxy-D-manno-oct-2-ulosonic acid	*i.e. KDO, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	14	2-oxo-3-methyl-4-hydroxypentanoate	*wild type enzyme, at pH 8.0 and 25&Acirc;&deg;C

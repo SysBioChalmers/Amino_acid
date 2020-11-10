@@ -1,0 +1,1 @@
+KCAT	Arabidopsis thaliana	0.44	menadione	*at pH 7.5 and 30&Acirc;&deg;C

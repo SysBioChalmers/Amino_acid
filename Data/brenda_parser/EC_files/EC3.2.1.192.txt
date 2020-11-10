@@ -1,0 +1,4 @@
+KCAT	Gordonia terrae	6292	4-nitrophenyl-beta-D-glucopyranoside	*recombinant enzyme, pH 6.5, 30&Acirc;&deg;C
+KCAT	Pseudothermotoga thermarum	121	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 90&Acirc;&deg;C, recombinant enzyme
+KCAT	Gordonia terrae	6.06	ginsenoside Rd	*recombinant enzyme, pH 6.5, 30&Acirc;&deg;C
+KCAT	Gordonia terrae	82.87	ginsenoside Rb1	*recombinant enzyme, pH 6.5, 30&Acirc;&deg;C

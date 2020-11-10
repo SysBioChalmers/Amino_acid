@@ -1,0 +1,33 @@
+KCAT	Escherichia coli	0.00025	L-idarate	*H339N mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.00033	D-glucarate	*H339N mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.001	D-glucarate	*K207R mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.0015	L-idarate	*K207Q mutant, pH 7.5, 22&deg;C; K207R mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.004	D-glucarate	*pH 7.5, 22&deg;C, N341L mutant
+KCAT	Escherichia coli	0.005	D-glucarate	*K207Q mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.0051	L-idarate	*H339A mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.016	D-glucarate	*H339A mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.02	D-glucarate	*H339Q mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.02	L-idarate	*H339Q mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.022	D-glucarate	*pH 7.5, 22&deg;C, N341D mutant
+KCAT	Escherichia coli	0.036	L-idarate	*pH 7.5, 22&deg;C, N341L mutant
+KCAT	Escherichia coli	0.08	L-idarate	*Y150F mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.099	L-idarate	*pH 7.5, 22&deg;C, N341D mutant
+KCAT	Escherichia coli	0.19	D-glucarate	*Y150F mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	0.28	4-deoxy-4-fluoro-D-glucarate	*pH 7.5, 22&deg;C, N341D mutant
+KCAT	Escherichia coli	1	D-glucarate	*D366A mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	1.5	L-idarate	*D366A mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	1.8	D-glucarate	*D366N mutant, pH 7.5, 22&deg;C
+KCAT	Escherichia coli	2.7	4-deoxy-4-fluoro-D-glucarate	*pH 7.5, 22&deg;C, N341L mutant
+KCAT	Pseudomonas putida	3	D-glucarate	*
+KCAT	Pseudomonas putida	4	L-idarate	*
+KCAT	Acinetobacter baylyi	6.39	D-glucarate	*
+KCAT	Escherichia coli	8	L-idarate	*D366N mutant, pH 7.5, 22&deg;C
+KCAT	Pseudomonas putida	17	D-glucarate	*
+KCAT	Escherichia coli	20	D-glucarate	*
+KCAT	Escherichia coli	20	L-idarate	*
+KCAT	Pseudomonas putida	21	L-idarate	*
+KCAT	Escherichia coli	34	L-idarate	*pH 7.5, 22&deg;C, wild-type enzyme
+KCAT	Escherichia coli	35	D-glucarate	*pH 7.5, 22&deg;C, wild-type enzyme
+KCAT	Escherichia coli	35	D-glucarate	*pH 7.5, 22&deg;C, wild-type enzyme
+KCAT	Escherichia coli	35	L-idarate	*pH 7.5, 22&deg;C, wild-type enzyme
+KCAT	Escherichia coli	44	4-deoxy-4-fluoro-D-glucarate	*pH 7.5, 22&deg;C, wild-type enzyme

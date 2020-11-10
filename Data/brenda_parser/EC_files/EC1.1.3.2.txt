@@ -1,0 +1,22 @@
+KCAT	Aerococcus viridans	250	L-lactate	*mutant A95G, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	283	L-lactate	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	5	(S)-lactate	*mutant Y191A, pH 6.5, 20&Acirc;&deg;C
+KCAT	Aerococcus viridans	5	(S)-lactate	*mutant Y215H, pH 6.5, 37&Acirc;&deg;C
+KCAT	Aerococcus viridans	7.5	(S)-lactate	*mutant Y191L, pH 6.5, 20&Acirc;&deg;C
+KCAT	Aerococcus viridans	22	(S)-lactate	*mutant Y191F, pH 6.5, 20&Acirc;&deg;C
+KCAT	Aerococcus viridans	22	(S)-lactate	*mutant Y215F, pH 6.5, 37&Acirc;&deg;C
+KCAT	Aerococcus viridans	31	(S)-lactate	*pH 7.0, 4&Acirc;&deg;C
+KCAT	Aerococcus viridans	88	(S)-lactate	*wild-type, pH 6.5, 20&Acirc;&deg;C
+KCAT	Aerococcus viridans	88	(S)-lactate	*wild-type, pH 6.5, 37&Acirc;&deg;C
+KCAT	Aerococcus viridans	140	(S)-lactate	*mutant A95G, pH 6.5, 20&Acirc;&deg;C; wild-type, pH 6.5, 20&Acirc;&deg;C
+KCAT	Aerococcus viridans	280	(S)-lactate	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	0.87	glycerate	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	31.3	glycerate	*mutant A95G, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	11	2-hydroxybutanoate	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	510	2-hydroxybutanoate	*mutant A95G, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	6.6	(S)-2-Hydroxy-2-phenylacetate	*mutant A95G, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	1.25	2-hydroxypentanoate	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	51.7	2-hydroxypentanoate	*mutant A95G, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	12	L-alpha-hydroxy-beta-methylvalerate	*mutant A95G, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	0.0033	(S)-mandelic acid	*wild-type, pH 7.0, 25&Acirc;&deg;C
+KCAT	Aerococcus viridans	15.8	(S)-mandelic acid	*mutant A95G, pH 7.0, 25&Acirc;&deg;C

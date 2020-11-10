@@ -1,0 +1,1 @@
+ecNumber*2.4.1.363#turnoverNumber*17.9#turnoverNumberMaximum*#substrate*(20S)-protopanaxadiol#commentary*isoform UGTPg1, at pH 8.0 and 35&deg;C#organism*Panax ginseng#ligandStructureId*230502#literature*751610#

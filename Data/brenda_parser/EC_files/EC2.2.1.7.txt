@@ -1,0 +1,31 @@
+KCAT	Escherichia coli	-999	more	*the most efficient turnover of substrates is observed in HEPES buffer, pH 8.0
+KCAT	Escherichia coli	0.006	2-hydroxy-4,6-dinitrobenzaldehyde	*at pH 8.0 and 37&deg;C
+KCAT	Escherichia coli	0.015	N,N-dimethyl-4-nitrosoaniline	*at pH 8.0 and 37&deg;C
+KCAT	Escherichia coli	0.018	1-nitrosonaphthalen-2-ol	*at pH 8.0 and 37&deg;C
+KCAT	Escherichia coli	0.02	6-hydroxy-5-nitrosonaphthalene-2-sulfonamide	*at pH 8.0 and 37&deg;C
+KCAT	Escherichia coli	0.022	7-methoxy-1-nitrosonaphthalen-2-ol	*at pH 8.0 and 37&deg;C
+KCAT	Escherichia coli	0.023	3,5-dimethyl-4-nitroso-1-(propan-2-yl)-1H-pyrazole	*at pH 8.0 and 37&deg;C
+KCAT	Escherichia coli	0.033	6-bromo-1-nitrosonaphthalen-2-ol	*at pH 8.0 and 37&deg;C
+KCAT	Populus trichocarpa	0.53	pyruvate	*at pH 8.0 and 37&deg;C
+KCAT	Escherichia coli	0.6	1-methyl-2-nitrosobenzene	*at pH 8.0 and 37&deg;C
+KCAT	Populus trichocarpa	0.64	D-glyceraldehyde 3-phosphate	*at pH 8.0 and 37&deg;C
+KCAT	Rhodobacter capsulatus	1.7	D-glyceraldehyde	*pH 7.4, 37&deg;C
+KCAT	Rhodobacter capsulatus	1.7	pyruvate	*pH 7.4, 37&deg;C, cosubstrate: D-glyceraldehyde
+KCAT	Rhodobacter capsulatus	1.9	D-glyceraldehyde 3-phosphate	*pH 7.4, 37&deg;C
+KCAT	Rhodobacter capsulatus	1.9	pyruvate	*pH 7.4, 37&deg;C, cosubstrate: D-glyceraldehyde 3-phosphate
+KCAT	Botryococcus braunii	1.9	pyruvate	*pH 7.8, 32&deg;C
+KCAT	Botryococcus braunii	2	D-glyceraldehyde 3-phosphate	*pH 7.8, 32&deg;C; pH 7.8, 32&deg;C
+KCAT	Botryococcus braunii	2.4	pyruvate	*pH 7.8, 32&deg;C
+KCAT	Deinococcus radiodurans	2.57	D-glyceraldehyde 3-phosphate	*wild type enzyme, at pH 8.0 and 37&deg;C
+KCAT	Deinococcus radiodurans	2.57	pyruvate	*wild type enzyme, at pH 8.0 and 37&deg;C
+KCAT	Escherichia coli	2.6	pyruvate	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	4.1	D-glyceraldehyde 3-phosphate	*apparent value, at pH 7.0 and 37&deg;C
+KCAT	Plasmodium falciparum	4.2	pyruvate	*apparent value, at pH 7.0 and 37&deg;C
+KCAT	Botryococcus braunii	5.6	pyruvate	*pH 7.8, 32&deg;C
+KCAT	Botryococcus braunii	6	D-glyceraldehyde 3-phosphate	*pH 7.8, 32&deg;C
+KCAT	Plasmodium vivax	6.4	D-glyceraldehyde 3-phosphate	*apparent value, at pH 7.0 and 37&deg;C
+KCAT	Plasmodium vivax	6.6	pyruvate	*apparent value, at pH 7.0 and 37&deg;C
+KCAT	Plasmodium vivax	9.5	pyruvate	*pH and temperature not specified in the publication
+KCAT	Plasmodium vivax	11	D-glyceraldehyde 3-phosphate	*pH and temperature not specified in the publication
+KCAT	Agrobacterium tumefaciens	26.8	D-glyceraldehyde 3-phosphate	*pH 8.0, 37&deg;C
+KCAT	Agrobacterium tumefaciens	26.8	pyruvate	*; pH 8.0, 37&deg;C

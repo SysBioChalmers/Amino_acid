@@ -1,0 +1,2 @@
+KCAT	Escherichia coli	0.3	ATP	*pure subunit BtuD, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1.39	ATP	*BtuCD complex, pH 7.5, 37&Acirc;&deg;C

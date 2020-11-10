@@ -1,0 +1,24 @@
+KCAT	porcine epidemic diarrhea virus	0.0011	Dabcyl-FRLKGGAPIKGV-Edans	*wild-type, pH 6.5, 30&deg;C
+KCAT	porcine epidemic diarrhea virus	0.0041	Dabcyl-FKKKGGGDVKE-Edans	*mutant T39W, pH 6.5, 30&deg;C
+KCAT	porcine epidemic diarrhea virus	0.005	Dabcyl-FKKKGGGDVKE-Edans	*wild-type, pH 6.5, 30&deg;C
+KCAT	SARS coronavirus	0.01	ubiquitin-7-amido-4-trifluoromethylcoumarin	*recombinant mutant Y265A, pH 7.4, 30&deg;C
+KCAT	porcine epidemic diarrhea virus	0.0175	Dabcyl-FRLKGGAPIKGV-Edans	*mutant T39W, pH 6.5, 30&deg;C
+KCAT	Alphacoronavirus	0.023	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	*at pH 5.25
+KCAT	Alphacoronavirus	0.025	FRLKGGAPIKGV	*
+KCAT	SARS coronavirus	0.04	ubiquitin-7-amido-4-trifluoromethylcoumarin	*recombinant mutant D165A, pH 7.4, 30&deg;C
+KCAT	SARS coronavirus	0.09	ubiquitin-7-amido-4-trifluoromethylcoumarin	*recombinant mutant L163Q, pH 7.4, 30&deg;C
+KCAT	Alphacoronavirus	0.1	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	*at pH 9.8
+KCAT	Alphacoronavirus	0.198	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	*at pH 6.05
+KCAT	Tabernaemontana divaricata	0.23	N-benzoyl-Phe-Val-Arg-4-nitroanilide	*wild type enzyme, in 50 mM Na-acetate buffer pH 5.0, at 60&deg;C
+KCAT	Alphacoronavirus	0.233	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	*at pH 9.2
+KCAT	SARS coronavirus	0.29	ubiquitin-7-amido-4-trifluoromethylcoumarin	*recombinant mutant E168A, pH 7.4, 30&deg;C
+KCAT	Alphacoronavirus	0.33	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	*at pH 7.42
+KCAT	Alphacoronavirus	0.343	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	*at pH 6.82
+KCAT	SARS coronavirus	0.36	ubiquitin-7-amido-4-trifluoromethylcoumarin	*recombinant mutant E168R, pH 7.4, 30&deg;C
+KCAT	Alphacoronavirus	0.363	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	*at pH 8.01
+KCAT	Alphacoronavirus	0.366	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	*at pH 8.65
+KCAT	SARS coronavirus	0.61	ubiquitin-7-amido-4-trifluoromethylcoumarin	*recombinant mutant E168D, pH 7.4, 30&deg;C; recombinant mutant Y265F, pH 7.4, 30&deg;C
+KCAT	SARS coronavirus	0.79	ubiquitin-7-amido-4-trifluoromethylcoumarin	*recombinant wild-type enzyme, pH 7.4, 30&deg;C
+KCAT	Tabernaemontana divaricata	1.43	N-benzoyl-Phe-Val-Arg-4-nitroanilide	*mutant enzyme S32T/A67Y, in 50 mM Na-acetate buffer pH 5.0, at 60&deg;C
+KCAT	Tabernaemontana divaricata	2.23	N-benzoyl-Phe-Val-Arg-4-nitroanilide	*mutant enzyme S32T, in 50 mM Na-acetate buffer pH 5.0, at 60&deg;C
+KCAT	Tabernaemontana divaricata	2.65	N-benzoyl-Phe-Val-Arg-4-nitroanilide	*mutant enzyme A67Y, in 50 mM Na-acetate buffer pH 5.0, at 60&deg;C

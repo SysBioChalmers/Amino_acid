@@ -1,0 +1,1 @@
+KCAT	Pyrococcus furiosus	600	N-carboxybenzoyl-Ala-Arg	*80&deg;C, pH 6.5, 0.4 mM CoCl2

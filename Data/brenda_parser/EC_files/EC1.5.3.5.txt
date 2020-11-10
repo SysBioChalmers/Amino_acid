@@ -1,0 +1,12 @@
+KCAT	Shinella sp.	2.03	(S)-nicotine	*pH 7.0, 40&Acirc;&deg;C
+KCAT	Paenarthrobacter nicotinovorans	29.3	6-hydroxy-L-nicotine	*
+KCAT	Paenarthrobacter nicotinovorans	29.3	6-hydroxy-L-nicotine	*
+KCAT	Paenarthrobacter nicotinovorans	0.26	(S)-6-hydroxynicotine	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme K287M
+KCAT	Paenarthrobacter nicotinovorans	4.8	(S)-6-hydroxynicotine	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme N166A
+KCAT	Shinella sp.	7.3	(S)-6-hydroxynicotine	*pH 7.0, 40&Acirc;&deg;C
+KCAT	Paenarthrobacter nicotinovorans	20.9	(S)-6-hydroxynicotine	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme Y311F
+KCAT	Ochrobactrum sp. SJY1	25.8	(S)-6-hydroxynicotine	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Paenarthrobacter nicotinovorans	78	(S)-6-hydroxynicotine	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Paenarthrobacter nicotinovorans	2.5	(S)-6-hydroxynornicotine	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme N166A
+KCAT	Paenarthrobacter nicotinovorans	9.1	(S)-6-hydroxynornicotine	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme Y311F
+KCAT	Paenarthrobacter nicotinovorans	16	(S)-6-hydroxynornicotine	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme

@@ -1,0 +1,4 @@
+KCAT	Sinorhizobium meliloti	0.9	Phosphonoacetate	*pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Sinorhizobium meliloti	1.1	Phosphonoacetate	*pH 7.5, 30&deg;C, recombinant enzyme, with 0.01 mM Zn2+
+KCAT	Penicillium oxalicum	1.7	Phosphonoacetate	*pH 8.0, 35&deg;C
+KCAT	Pseudomonas fluorescens	3	Phosphonoacetate	*

@@ -1,0 +1,27 @@
+KCAT	Homo sapiens	5.5	acetyl-DEVD-7-amido-4-methylcoumarin	*pH 7.0
+KCAT	Homo sapiens	6.3	acetyl-DEVD-7-amido-4-methylcoumarin	*pH 7.5
+KCAT	Homo sapiens	0.008	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	*mutant protein with thrombin cleavage sites (LVPRGS) at residues 20-25 and 195-200
+KCAT	Homo sapiens	0.1	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	*mutant protein with thrombin cleavage sites (LVPRGS) at residues 20-25 and inserted after Asp-203
+KCAT	Homo sapiens	1.9	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	*mutant protein with thrombin cleavage sites (LVPRGS) at residues 20-25 and 195-200, processed with thrombin
+KCAT	Homo sapiens	3.6	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	*wid-type protein
+KCAT	Homo sapiens	4.4	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	*mutant protein with thrombin cleavage sites (LVPRGS) at residues 20-25 and inserted after Asp-203, processed with thrombin
+KCAT	Homo sapiens	0.9467	Ac-DVAD-p-nitroanilide	*
+KCAT	Homo sapiens	6.08	Ac-DVAD-p-nitroanilide	*
+KCAT	Homo sapiens	1.102	Ac-LDVAD-p-nitroanilide	*
+KCAT	Homo sapiens	6.08	Ac-LDVAD-p-nitroanilide	*
+KCAT	Homo sapiens	6.9	acetyl-DEVD-7-amido-4-fluoromethylcoumarin	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	10.3	acetyl-DEVD-p-nitroanilide	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.26	Ac-VDVAD-p-nitroanilide	*
+KCAT	Homo sapiens	0.9	Ac-DEVD-7-amido-4-methylcoumarin	*Y230V/W232Y/S234V/Q276D, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	2.4	Ac-DEVD-7-amido-4-methylcoumarin	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.1	Ac-VEID-7-amido-4-methylcoumarin	*Y230V/W232Y/S234V/Q276D, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	2.9	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	*mutant enzyme K40A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.4	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	*wild type enzyme, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.9	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	*mutant enzyme K39A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.1	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	*mutant enzyme K41A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.3	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	*mutant enzyme K38A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.4	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	*mutant enzyme S37A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	9.5	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	*mutant enzyme D23A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.6	N-acetyl-DEVD-7-amido-4-trifluoromethylcoumarin	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	0.9	N-acetyl-PEVD-7-amido-4-trifluoromethylcoumarin	*pH 7.2, 37&Acirc;&deg;C

@@ -1,0 +1,10 @@
+KCAT	Homo sapiens	0.0082	D-Ile-Pro-Arg-4-nitroanilide	*pH 7.2
+KCAT	Homo sapiens	0.0073	N-p-tosyl-Gly-Pro-Arg-4-nitroanilide	*pH 7.2
+KCAT	Homo sapiens	0.0132	D-Ala-Pro-Arg-4-nitroanilide	*pH 7.2
+KCAT	Homo sapiens	0.0129	N-p-tosyl-Gly-Pro-Lys-4-nitroanilide	*pH 7.2
+KCAT	Homo sapiens	0.0119	Glu-Glu-Pro-Arg-4-nitroanilide	*pH 7.2
+KCAT	Homo sapiens	0.989	tert-benzyloxycarbonyl-QVR-7-amido-4-methylcoumarin	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.147	QVR-7-amido-4-methylcoumarin	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.496	QSPVR-7-amido-4-methylcoumarin	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.942	LPAPR-7-amido-4-methylcoumarin	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.578	PQVR-7-amido-4-methylcoumarin	*pH 7.4, 37&Acirc;&deg;C

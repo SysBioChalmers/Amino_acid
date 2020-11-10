@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	0.53	CTP	*pH 7.6, 37&deg;C
+KCAT	Homo sapiens	0.56	ATP	*pH 7.6, 37&deg;C
+KCAT	Escherichia coli	0.83	N-[(R)-4'-phosphopantothenoyl]-L-cysteine	*at pH 7.6 and 25&deg;C
+KCAT	Escherichia coli	0.88	(R)-4'-phosphopantothenate	*at pH 7.6 and 25&deg;C
+KCAT	Enterococcus faecalis	2.9	CTP	*pH 7.6, 37&deg;C

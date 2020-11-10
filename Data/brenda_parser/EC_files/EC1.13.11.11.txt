@@ -1,0 +1,7 @@
+KCAT	Homo sapiens	0.01	L-tryptophan	*pH 8.0, 25&deg;C, recombinant mutant Y42A
+KCAT	Homo sapiens	0.032	L-tryptophan	*pH 8.0, 25&deg;C, recombinant mutant F140A
+KCAT	Homo sapiens	0.045	L-tryptophan	*pH 8.0, 25&deg;C, recombinant mutant R144A
+KCAT	Homo sapiens	0.062	L-tryptophan	*pH 8.0, 25&deg;C, recombinant mutant Y45A
+KCAT	Homo sapiens	0.105	L-tryptophan	*pH 8.0, 25&deg;C, recombinant mutant S151A
+KCAT	Homo sapiens	0.976	L-tryptophan	*pH 8.0, 25&deg;C, recombinant truncated enzyme mutant
+KCAT	Homo sapiens	1071	L-tryptophan	*pH 8.0, 25&deg;C, recombinant wild-type enzyme

@@ -1,0 +1,176 @@
+KCAT	Escherichia coli	-999	more	*turnover numbers of chimeric galactosidases
+KCAT	Bos taurus	0.01	2-nitrophenyl-beta-D-galactopyranoside	*25&deg;C
+KCAT	Clostridium perfringens	0.17	2,4-dinitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranosyl-(1-3)-[alpha-L-fucopyranosyl-(1-2)]-beta-D-galactopyranoside	*mutant enzyme E354A, in 20 mM sodium acetate buffer at pH 6.0, 37&deg;C
+KCAT	Alicyclobacillus acidocaldarius	0.21	2-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 65&deg;C, mutant E313G
+KCAT	Alicyclobacillus acidocaldarius	0.32	2-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 65&deg;C, mutant E157G
+KCAT	Kluyveromyces lactis	1	o-nitrophenyl-beta-D-galactoside	*isoenzyme betaG41
+KCAT	Tenebrio molitor	1.2	lactose	*
+KCAT	Clostridium perfringens	1.35	2,4-dinitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranosyl-(1-3)-[alpha-L-fucopyranosyl-(1-2)]-beta-D-galactopyranoside	*mutant enzyme D429A, in 20 mM sodium acetate buffer at pH 6.0, 37&deg;C
+KCAT	Clostridium perfringens	1.55	2,4-dinitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranosyl-(1-3)-[alpha-L-fucopyranosyl-(1-2)]-beta-D-galactopyranoside	*mutant enzyme E467A, in 20 mM sodium acetate buffer at pH 6.0, 37&deg;C
+KCAT	Tenebrio molitor	1.7	4-methylumbelliferyl beta-D-galactoside	*
+KCAT	Clostridium perfringens	1.75	2,4-dinitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranosyl-(1-3)-[alpha-L-fucopyranosyl-(1-2)]-beta-D-galactopyranoside	*wild type enzyme, in 20 mM sodium acetate buffer at pH 6.0, 37&deg;C
+KCAT	Arthrobacter sp.	1.76	lactose	*at 10&deg;C
+KCAT	Saccharolobus solfataricus	1.9	lactose	*
+KCAT	uncultured soil bacterium	2	2-nitrophenyl beta-D-galactopyranoside	*pH 7, 5&deg;C
+KCAT	Xanthomonas phaseoli pv. manihotis	2.1	4-nitrophenyl-beta-D-galactopyranoside	*pH 7.0, 30&deg;C, mutant E184A, glycohydrolase activity
+KCAT	Arthrobacter sp.	2.36	lactose	*at 20&deg;C
+KCAT	Tenebrio molitor	2.4	p-nitrophenyl beta-D-fucoside	*
+KCAT	Xanthomonas phaseoli pv. manihotis	2.6	3,4-dinitrophenyl beta-D-galactopyranoside	*pH 7.0, 30&deg;C, mutant E184A, glycohydrolase activity
+KCAT	Saccharolobus solfataricus	2.67	lactose	*pH 7.5, 80&deg;C, recombinant mutant enzyme F441Y
+KCAT	Arthrobacter psychrolactophilus	3	lactose	*
+KCAT	Arthrobacter psychrolactophilus	3.02	lactose	*pH 8.0, 10&deg;C, recombinant enzyme
+KCAT	Arthrobacter sp.	4.1	lactose	*15&deg;C, recombinant mutant BgaS7, i.e. E229D/V405A
+KCAT	Arthrobacter sp.	4.7	lactose	*at 5&deg;C
+KCAT	Arthrobacter sp.	4.81	lactose	*at 30&deg;C
+KCAT	Escherichia coli	4.9	2-nitrophenyl beta-D-galactopyranoside	*mutant enzyme H418N, in 30 mM TES buffer, 0.01 mM Mg2+, 150 mM Na+, pH 7.0 at 25&deg;C
+KCAT	Kluyveromyces lactis	5	o-nitrophenyl-beta-D-galactoside	*isoenzyme betaG630
+KCAT	Arthrobacter sp.	5.2	lactose	*at 18&deg;C
+KCAT	Arthrobacter sp.	5.3	lactose	*15&deg;C, recombinant wild-type BgaS
+KCAT	Escherichia coli	5.4	2-nitrophenyl beta-D-galactopyranoside	*mutant enzyme H418E, in 30 mM TES buffer, 0.01 mM Mg2+, 150 mM Na+, pH 7.0 at 25&deg;C
+KCAT	Escherichia coli	5.4	4-nitrophenyl beta-D-galactopyranoside	*mutant enzyme H418E, in 30 mM TES buffer, 0.01 mM Mg2+, 150 mM Na+, pH 7.0 at 25&deg;C
+KCAT	Escherichia coli	5.5	4-nitrophenyl beta-D-galactopyranoside	*mutant enzyme H418N, in 30 mM TES buffer, 0.01 mM Mg2+, 150 mM Na+, pH 7.0 at 25&deg;C
+KCAT	Arthrobacter sp.	5.73	lactose	*at 40&deg;C
+KCAT	Putranjiva roxburghii	5.82	4-nitrophenyl beta-D-galactopyranoside	*pH 4.6, 37&deg;C, recombinant enzyme
+KCAT	Putranjiva roxburghii	6.95	cellobiose	*pH 4.6, 37&deg;C, recombinant enzyme
+KCAT	Arthrobacter sp.	6.98	lactose	*at 50&deg;C
+KCAT	Putranjiva roxburghii	7.39	4-nitrophenyl beta-D-galactopyranoside	*pH 4.6, 37&deg;C, native enzyme
+KCAT	Putranjiva roxburghii	8.12	cellobiose	*pH 4.6, 37&deg;C, native enzyme
+KCAT	Escherichia coli	10.3	4-nitrophenyl beta-D-galactopyranoside	*mutant enzyme H418F, in 30 mM TES buffer, 10 mM Mg2+, 150 mM Na+, pH 7.0 at 25&deg;C
+KCAT	Putranjiva roxburghii	10.39	4-nitrophenyl beta-D-glucopyranoside	*pH 4.6, 37&deg;C, recombinant enzyme
+KCAT	Escherichia coli	10.4	2-nitrophenyl beta-D-galactopyranoside	*mutant enzyme H418F, in 30 mM TES buffer, 10 mM Mg2+, 150 mM Na+, pH 7.0 at 25&deg;C
+KCAT	Putranjiva roxburghii	12	4-nitrophenyl beta-D-glucopyranoside	*pH 4.6, 37&deg;C, native enzyme
+KCAT	Thermus sp.	12.5	lactose	*
+KCAT	Arthrobacter psychrolactophilus	12.7	2-nitrophenyl-beta-D-galactopyranoside	*pH 8.0, 10&deg;C, recombinant enzyme
+KCAT	Putranjiva roxburghii	12.71	4-nitrophenyl beta-D-fucopyranoside	*pH 4.6, 37&deg;C, recombinant enzyme
+KCAT	Arthrobacter psychrolactophilus	13	2-nitrophenyl-beta-D-galactopyranoside	*
+KCAT	Lactobacillus reuteri	13	lactose	*pH 6.5, 30&deg;C, strain L103
+KCAT	Aspergillus carbonarius	13	lactose	*pH 5.5
+KCAT	Putranjiva roxburghii	14.77	4-nitrophenyl beta-D-fucopyranoside	*pH 4.6, 37&deg;C, native enzyme
+KCAT	Thermomyces lanuginosus	16	methyl-beta-D-galactoside	*
+KCAT	Alicyclobacillus acidocaldarius	17.9	2-nitrophenyl-beta-D-galactopyranoside	*pH 6.0, 65&deg;C
+KCAT	Thermomyces lanuginosus	18	beta-lactose	*
+KCAT	Arthrobacter sp.	18.7	lactose	*15&deg;C, recombinant mutant BgaS6, i.e.E229D/V405A/G803D
+KCAT	Lactobacillus pentosus	20	lactose	*pH 6.5, 30&deg;C
+KCAT	Lactobacillus plantarum	22.5	2-nitrophenyl beta-D-galactopyranoside	*wild-type, pH 6.5, 40&deg;C
+KCAT	Escherichia coli	26	beta-D-galactosyl azide	*
+KCAT	uncultured microorganism	31.2	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, without additive
+KCAT	Caldicellulosiruptor saccharolyticus	32	4-nitrophenyl-beta-D-galactopyranoside	*
+KCAT	Caldicellulosiruptor saccharolyticus	32	4-nitrophenyl beta-D-galactopyranoside	*at pH 6.0 and 80&deg;C
+KCAT	Pseudoalteromonas haloplanktis	33	lactose	*25&deg;C
+KCAT	uncultured soil bacterium	33	lactose	*pH 7, 10&deg;C
+KCAT	Thermomyces lanuginosus	33	lactulose	*
+KCAT	uncultured microorganism	34.8	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, without additive
+KCAT	Caldicellulosiruptor saccharolyticus	42	lactose	*
+KCAT	Caldicellulosiruptor saccharolyticus	42	lactose	*at pH 6.0 and 80&deg;C
+KCAT	Thermoanaerobacterium thermosulfurigenes	42.4	p-nitrophenyl-beta-D-galactoside	*at 25&deg;C, in presence of 10 mM Mg2+
+KCAT	Arthrobacter sp.	43	o-nitrophenyl beta-D-galactopyranoside	*at 5&deg;C
+KCAT	Kluyveromyces marxianus	45.4	2-nitrophenyl-beta-D-galactopyranoside	*dimeric enzyme, 25&deg;C
+KCAT	Penicillium canescens	45.4	2-nitrophenyl-beta-D-galactopyranoside	*dimeric enzyme, 25&deg;C
+KCAT	Lactobacillus delbrueckii	45.7	lactose	*wild type enzyme, in 100 mM sodium acetate buffer pH 5.5, at 45&deg;C
+KCAT	Lactobacillus delbrueckii	46.3	lactose	*mutant enzyme E491A, in HEPES buffer pH 6.5, at 45&deg;C
+KCAT	Lactobacillus delbrueckii	47.2	2-nitrophenyl-beta-D-galactopyranoside	*wild type enzyme, in 100 mM sodium acetate buffer pH 5.5, at 45&deg;C
+KCAT	Saccharopolyspora rectivirgula	47.6	o-nitrophenyl-beta-D-galactoside	*
+KCAT	Lactobacillus delbrueckii	49.2	2-nitrophenyl-beta-D-galactopyranoside	*mutant enzyme E491A, in HEPES buffer pH 6.5, at 45&deg;C
+KCAT	Lactobacillus acidophilus	50	2-nitrophenyl-beta-D-galactopyranoside	*
+KCAT	Arthrobacter sp.	52.4	2-nitrophenyl-beta-D-galactopyranoside	*at 10&deg;C
+KCAT	uncultured soil bacterium	53	lactose	*pH 7, 5&deg;C
+KCAT	Escherichia coli	54	2-nitrophenyl-beta-D-galactopyranoside	*mutant enzyme E416Q
+KCAT	Thermoanaerobacterium thermosulfurigenes	54.5	o-nitrophenyl-beta-D-galactoside	*at 25&deg;C, in presence of 10 mM Mg2+
+KCAT	Aspergillus carbonarius	55	lactose	*pH 5.5
+KCAT	Pisum sativum	55.1	lactose	*in 50 mM sodium acetate-acetic acid, pH 4.0, at 37&deg;C
+KCAT	Saccharopolyspora rectivirgula	55.8	p-nitrophenyl-beta-D-galactoside	*
+KCAT	Saccharopolyspora rectivirgula	56	4-nitrophenyl beta-D-galactopyranoside	*
+KCAT	Arthrobacter sp.	57.2	o-nitrophenyl beta-D-galactopyranoside	*at 10&deg;C
+KCAT	Lactobacillus reuteri	58	lactose	*pH 6.5, 30&deg;C, strain L461
+KCAT	Lactobacillus reuteri	58	lactose	*
+KCAT	Lactobacillus plantarum	62.7	2-nitrophenyl beta-D-galactopyranoside	*mutant FMNP01Gal-2, pH 6.5, 40&deg;C
+KCAT	Saccharopolyspora rectivirgula	63	lactose	*
+KCAT	Saccharopolyspora rectivirgula	63.1	lactose	*
+KCAT	Aspergillus oryzae	65	alpha-D-Xyl-(1-&gt;6)-beta-D-Glc-(1-&gt;4)-[beta-D-Gal-(1-&gt;2)-alpha-D-Xyl-(1-&gt;6)]-beta-D-Glc-(1-&gt;4)-[beta-D-Gal-(1-&gt;2)-alpha-D-Xyl-(1-&gt;6)]-beta-D-Glc-(1-&gt;4)-beta-D-Glc	*pH 4.5, 60&deg;C
+KCAT	Thermomyces lanuginosus	65	phenyl-beta-D-galactoside	*
+KCAT	uncultured soil bacterium	66.7	2-nitrophenyl beta-D-galactopyranoside	*pH 7, 10&deg;C
+KCAT	Thermus sp.	66.7	o-nitrophenyl-beta-D-galactoside	*
+KCAT	Arthrobacter sp.	71.2	2-nitrophenyl-beta-D-galactopyranoside	*at 55&deg;C
+KCAT	Arthrobacter sp.	81	2-nitrophenyl-beta-D-galactopyranoside	*at 20&deg;C
+KCAT	Escherichia coli	81	2-nitrophenyl-beta-D-galactopyranoside	*mutant enzyme E416V
+KCAT	Planococcus sp. (in: Bacteria)	81.8	o-nitrophenyl beta-D-galactopyranoside	*1.9&deg;C
+KCAT	Escherichia coli	90	2-nitrophenyl beta-D-galactopyranoside	*wild type enzyme, in 30 mM TES buffer, 145 mM NaCl, pH 7.0 at 25&deg;C
+KCAT	uncultured microorganism	91.1	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, additive: 25 mM cellobiose
+KCAT	Lactobacillus plantarum WCFS1	92	2-nitrophenyl beta-D-galactopyranoside	*at pH 7.5 and 55&deg;C
+KCAT	uncultured soil bacterium	92	lactose	*pH 7, 20&deg;C
+KCAT	Saccharolobus solfataricus	95	2-nitrophenyl-beta-D-galactopyranoside	*
+KCAT	uncultured microorganism	95.6	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, without additive
+KCAT	Aspergillus carbonarius	96	2-nitrophenyl-beta-D-galactopyranoside	*pH 5.5
+KCAT	Lactobacillus plantarum WCFS1	98	lactose	*at pH 7.0 and 60&deg;C
+KCAT	Arthrobacter sp.	100	o-nitrophenyl beta-D-galactopyranoside	*at 18&deg;C
+KCAT	Planococcus sp. (in: Bacteria)	104	o-nitrophenyl beta-D-galactopyranoside	*10&deg;C
+KCAT	uncultured microorganism	108	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-galactose
+KCAT	Arthrobacter sp.	110.1	o-nitrophenyl beta-D-galactopyranoside	*at 20&deg;C
+KCAT	Saccharolobus solfataricus	114	lactose	*pH 6.5, 30&deg;C
+KCAT	uncultured microorganism	117	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-galactose
+KCAT	Saccharolobus solfataricus	122.6	lactose	*30&deg;C, pH 6.5, wild-type enzyme
+KCAT	Arthrobacter sp.	123.9	2-nitrophenyl-beta-D-galactopyranoside	*at 30&deg;C
+KCAT	uncultured microorganism	128	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-galactose
+KCAT	uncultured microorganism	129	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, additive: 25 mM cellobiose
+KCAT	uncultured soil bacterium	141	lactose	*pH 7, 38&deg;C
+KCAT	uncultured microorganism	142	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, additive: 25 mM cellobiose
+KCAT	Caldicellulosiruptor saccharolyticus	149	2-nitrophenyl-beta-D-galactopyranoside	*
+KCAT	Caldicellulosiruptor saccharolyticus	149	2-nitrophenyl beta-D-galactopyranoside	*at pH 6.0 and 80&deg;C
+KCAT	uncultured soil bacterium	149	2-nitrophenyl beta-D-galactopyranoside	*pH 7, 20&deg;C
+KCAT	Saccharolobus solfataricus	162.2	lactose	*30&deg;C, pH 6.5, mutant enzyme F441Y
+KCAT	Saccharolobus solfataricus	166	phenyl-beta-D-galactopyranoside	*pH 6.5, 30&deg;C
+KCAT	Saccharolobus solfataricus	167.5	lactose	*30&deg;C, pH 6.5, mutant enzyme F359Q
+KCAT	Arthrobacter sp.	169.9	2-nitrophenyl-beta-D-galactopyranoside	*at 40&deg;C
+KCAT	Aspergillus oryzae	179.5	2-nitrophenyl beta-D-galactoside	*mutant enzyme W806F, at pH 5.0 and 60&deg;C
+KCAT	Escherichia coli	180	2-nitrophenyl-beta-D-galactopyranoside	*dimeric enzyme, 25&deg;C
+KCAT	uncultured microorganism	187	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-glucose
+KCAT	uncultured microorganism	197	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-xylose
+KCAT	Pseudoalteromonas haloplanktis	203	o-nitrophenyl beta-D-galactopyranoside	*20&deg;C
+KCAT	Alicyclobacillus acidocaldarius	212	lactose	*pH 6.5, 65&deg;C, wild-type enzyme
+KCAT	Arthrobacter sp.	212.4	2-nitrophenyl-beta-D-galactopyranoside	*at 50&deg;C
+KCAT	Aspergillus oryzae	224.9	2-nitrophenyl beta-D-galactoside	*wild type enzyme, at pH 5.0 and 60&deg;C
+KCAT	Streptococcus thermophilus	234	2-nitrophenyl beta-D-galactopyranoside	*pH 6.5, 25-40&deg;C
+KCAT	uncultured microorganism	236	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-glucose
+KCAT	Saccharolobus solfataricus	242	methyl-beta-D-galactopyranoside	*pH 6.5, 30&deg;C
+KCAT	Aspergillus aculeatus	254	lactose	*
+KCAT	Thermoanaerobacterium thermosulfurigenes	264	o-nitrophenyl-beta-D-galactoside	*at 50&deg;C, in presence of 10 mM Mg2+
+KCAT	uncultured microorganism	286	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-xylose
+KCAT	Planococcus sp. (in: Bacteria)	288	o-nitrophenyl beta-D-galactopyranoside	*20&deg;C
+KCAT	Aspergillus oryzae	289	beta-D-Gal-(1-&gt;2)-alpha-D-Xyl-(1-&gt;6)-beta-D-Glc-(1-&gt;4)-beta-D-Glc	*pH 4.5, 60&deg;C
+KCAT	Pisum sativum	293.9	2-nitrophenyl beta-D-galactopyranoside	*in 50 mM glycine-HCl, pH 3.2, at 37&deg;C
+KCAT	Thermoanaerobacterium thermosulfurigenes	312	p-nitrophenyl-beta-D-galactoside	*at 50&deg;C, in presence of 10 mM Mg2+
+KCAT	Lactobacillus reuteri	338	2-nitrophenyl-beta-D-galactopyranoside	*
+KCAT	Lactobacillus reuteri	338	o-nitrophenyl-beta-D-galactoside	*pH 6.5, 30&deg;C, strain L461
+KCAT	Alicyclobacillus acidocaldarius	380	lactulose	*pH 6.5, 65&deg;C, wild-type enzyme
+KCAT	uncultured soil bacterium	386	2-nitrophenyl beta-D-galactopyranoside	*pH 7, 38&deg;C
+KCAT	Escherichia coli	400	2-nitrophenyl-beta-D-galactopyranoside	*tetrameric enzyme, 25&deg;C
+KCAT	Thermoanaerobacter sp.	431	o-nitrophenyl-beta-D-galactoside	*
+KCAT	Aspergillus carbonarius	440	2-nitrophenyl-beta-D-galactopyranoside	*pH 5.5
+KCAT	uncultured microorganism	486	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-glucose
+KCAT	Planococcus sp. (in: Bacteria)	507	o-nitrophenyl beta-D-galactopyranoside	*30&deg;C
+KCAT	Aspergillus oryzae	525	4-nitrophenyl beta-D-galactopyranoside	*pH 4.5, 60&deg;C
+KCAT	Lactobacillus pentosus	540	2-nitrophenyl beta-D-galactopyranoside	*pH 6.5, 30&deg;C
+KCAT	uncultured microorganism	600	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-xylose
+KCAT	Planococcus sp. (in: Bacteria)	603	o-nitrophenyl beta-D-galactopyranoside	*39&deg;C
+KCAT	Escherichia coli	620	2-nitrophenyl-beta-D-galactopyranoside	*native enzyme
+KCAT	Escherichia coli	620	4-nitrophenyl beta-D-galactopyranoside	*wild type enzyme, in 30 mM TES buffer, 145 mM NaCl, pH 7.0 at 25&deg;C
+KCAT	Lactobacillus acidophilus	632	lactose	*
+KCAT	Aspergillus oryzae	869	lactose	*pH 4.5, 60&deg;C
+KCAT	Kluyveromyces lactis	888	o-nitrophenyl-beta-D-galactoside	*isoenzyme betaG550
+KCAT	Aspergillus aculeatus	932	4-nitrophenyl-beta-D-galactopyranoside	*
+KCAT	Thermomyces lanuginosus	941	o-nitrophenyl-beta-D-galactoside	*
+KCAT	Thermomyces lanuginosus	1040	p-nitrophenyl-beta-D-galactoside	*
+KCAT	Alicyclobacillus acidocaldarius	1345	2-nitrophenyl-beta-D-fucopyranoside	*pH 6.5, 65&deg;C, wild-type enzyme
+KCAT	Alicyclobacillus acidocaldarius	1740	4-nitrophenyl-alpha-L-arabinopyranoside	*pH 6.5, 65&deg;C, wild-type enzyme
+KCAT	Xanthomonas phaseoli pv. manihotis	2140	4-nitrophenyl-beta-D-galactopyranoside	*pH 7.0, 30&deg;C, wild-type enzyme, glycohydrolase activity
+KCAT	Alicyclobacillus acidocaldarius	2657	2-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 65&deg;C, wild-type enzyme
+KCAT	Alicyclobacillus acidocaldarius	2988	4-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 65&deg;C, wild-type enzyme
+KCAT	Thermomyces lanuginosus	5000	p-nitrophenyl-alpha-L-arabinoside	*
+KCAT	Saccharolobus solfataricus	5700	2-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 75&deg;C
+KCAT	Kluyveromyces marxianus	6300	lactose	*pH 6.8; pH 6.8, 37&deg;C; pH 6.8, 37&deg;C
+KCAT	Kluyveromyces marxianus	8559	2-nitrophenyl-beta-D-galactopyranoside	*pH 6.8, 37&deg;C; pH 6.8, 37&deg;C
+KCAT	Kluyveromyces marxianus	8559	2-nitrophenyl-beta-D-galactoside	*pH 6.8
+KCAT	Aspergillus carbonarius	15750	4-nitrophenyl-beta-D-galactopyranoside	*pH 5.5
+KCAT	Aspergillus carbonarius	74000	4-nitrophenyl-beta-D-galactopyranoside	*pH 5.5
+KCAT	Kluyveromyces marxianus	270000	4-nitrophenyl-beta-D-galactopyranoside	*pH 6.8, 37&deg;C; pH 6.8, 37&deg;C
+KCAT	Kluyveromyces marxianus	2700000	4-nitrophenyl-beta-D-galactoside	*pH 6.8

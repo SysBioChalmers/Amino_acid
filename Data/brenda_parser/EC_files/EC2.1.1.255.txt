@@ -1,0 +1,3 @@
+KCAT	Streptomyces coelicolor	0.0075	S-adenosyl-L-methionine	*pH 7.0, 37&Acirc;&deg;C, recombinant enzyme; pH and temperature not specified in the publication
+KCAT	Streptomyces coelicolor	0.0075	geranyl diphosphate	*pH 7.0, 37&Acirc;&deg;C, recombinant enzyme; pH and temperature not specified in the publication
+KCAT	Streptomyces coelicolor	0.039	(E)-2-methylgeranyl diphosphate	*pH 7.0, 37&Acirc;&deg;C, recombinant enzyme

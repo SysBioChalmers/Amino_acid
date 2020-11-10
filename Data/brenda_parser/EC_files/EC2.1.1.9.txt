@@ -1,0 +1,5 @@
+KCAT	Oryza sativa	0.000372	SCN-	*0.5 mM S-adenosyl-L-methionine, pH 7.5, 25&deg;C
+KCAT	Oryza sativa	0.000448	SCN-	*0.5 mM S-adenosyl-L-methionine, pH 7.5, 25&deg;C
+KCAT	Phaeodactylum tricornutum	0.0102	SCN-	*pH 7.0, 30&deg;C
+KCAT	Phaeodactylum tricornutum	0.0381	SH-	*pH 7.0, 30&deg;C
+KCAT	Physcomitrella patens	0.046	thiobenzoic acid	*PpSABATH1, pH 7.5, 25&deg;C

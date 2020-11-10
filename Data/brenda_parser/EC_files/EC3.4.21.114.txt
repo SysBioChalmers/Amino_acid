@@ -1,0 +1,1 @@
+KCAT	porcine reproductive and respiratory syndrome virus	0.0073	dabsyl-Lys-Thr-Ala-Tyr-Phe-Gln-Leu-Glu-Gly-Arg-His-Phe-Glu-EDANS	*

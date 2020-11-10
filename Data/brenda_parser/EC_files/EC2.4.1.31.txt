@@ -1,0 +1,4 @@
+KCAT	Acholeplasma laidlawii	1	2-deoxy-D-glucose	*pH 6.0, 40&deg;C, reverse reaction
+KCAT	Acholeplasma laidlawii	1.4	D-glucose	*pH 6.0, 40&deg;C, reverse reaction
+KCAT	Acholeplasma laidlawii	6.5	laminaribiose	*pH 7.5, 40&deg;C, co-substrate: phosphate
+KCAT	Paenibacillus sp.	19	laminaribiose	*co-substrate: phosphate, pH 7.0, 45&deg;C

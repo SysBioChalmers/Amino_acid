@@ -1,0 +1,1 @@
+ecNumber*1.2.1.60#turnoverNumber*40#turnoverNumberMaximum*#substrate*5-carboxymethyl-2-hydroxymuconate semialdehyde#commentary*#organism*Pseudomonas putida#ligandStructureId*8307#literature*288298#

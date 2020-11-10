@@ -1,0 +1,1 @@
+ecNumber*3.4.21.110#turnoverNumber*0.2#turnoverNumberMaximum*#substrate*VVASQLRANISH#commentary*pH 7.4, 25&deg;C#organism*Streptococcus pyogenes#ligandStructureId*22753#literature*651137#!ecNumber*3.4.21.110#turnoverNumber*1.1#turnoverNumberMaximum*#substrate*SQLRANISHKDMQLGR#commentary*pH 7.4, 25&deg;C#organism*Streptococcus pyogenes#ligandStructureId*34150#literature*651137#

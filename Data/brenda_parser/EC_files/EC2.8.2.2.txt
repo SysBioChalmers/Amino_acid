@@ -1,0 +1,25 @@
+KCAT	Arabidopsis thaliana	0.000035	o-Cresol	*at pH 7.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	0.00004	m-cresol	*at pH 7.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	0.000053	3-Ethylphenol	*at pH 7.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	0.000109	4-Ethylphenol	*at pH 7.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	0.000112	2-Ethylphenol	*at pH 7.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	0.000128	p-Cresol	*at pH 7.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	0.000389	3-Nitrophenol	*at pH 7.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	0.000459	2-Nitrophenol	*at pH 7.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	0.000545	4-nitrophenol	*at pH 7.5 and 30&deg;C
+KCAT	Homo sapiens	0.013	benzyl alcohol	*isoform SULT1A1, at pH 7.0 and 37&deg;C; isoform SULT1A1, at pH 7.0 and 37&deg;C
+KCAT	Rattus norvegicus	0.0833	methanol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.133	aldosterone	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.15	cortisone	*pH 7.5, 37&deg;C cosubstrate ethanol
+KCAT	Rattus norvegicus	0.167	estriol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.183	11-deoxycorticosterone	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.183	1-propanol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.183	cortisol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.217	2-propanol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.283	1-butanol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.417	1-Hexanol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.417	3-methyl-1-butanol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.45	1-Pentanol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.467	testosterone	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.583	beta-estradiol	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	2	3beta-hydroxyandrost-5-ene-17-one	*pH 7.5, 37&deg;C

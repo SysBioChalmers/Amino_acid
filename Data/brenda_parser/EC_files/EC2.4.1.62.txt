@@ -1,0 +1,3 @@
+KCAT	Campylobacter jejuni	0.05	UDP-Gal	*using fusion construct CgtBOH4384DELTA30-MalE (mutant with deletion of 30 amino acids from carboxy terminus + C-terminal MalE fusion)
+KCAT	Campylobacter jejuni	0.5	GalNAcalpha-FCHASE	*using fusion construct CgtBOH4384DELTA30-MalE (mutant with deletion of 30 amino acids from carboxy terminus + C-terminal MalE fusion)
+KCAT	Campylobacter jejuni	1.07	GalNAcbeta-FCHASE	*using fusion construct CgtBOH4384DELTA30-MalE (mutant with deletion of 30 amino acids from carboxy terminus + C-terminal MalE fusion)

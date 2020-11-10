@@ -1,0 +1,1 @@
+ecNumber*5.3.3.6#turnoverNumber*2#turnoverNumberMaximum*#substrate*Itaconate#commentary*#organism*Eubacterium barkeri#ligandStructureId*1978#literature*705153#!ecNumber*5.3.3.6#turnoverNumber*1720#turnoverNumberMaximum*#substrate*methylitaconate#commentary*(R,S)-3-methylitaconate#organism*Eubacterium barkeri#ligandStructureId*10711#literature*705153#

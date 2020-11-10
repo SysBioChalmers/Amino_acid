@@ -1,0 +1,1 @@
+KCAT	Campylobacter jejuni	2.5	ATP	*at pH 8.0 and 30&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.1.5.3#turnoverNumber*33.3#turnoverNumberMaximum*#substrate*glycerol 3-phosphate#commentary*#organism*Escherichia coli#ligandStructureId*445#literature*287817#

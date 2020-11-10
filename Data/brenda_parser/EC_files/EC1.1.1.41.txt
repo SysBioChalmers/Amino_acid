@@ -1,0 +1,71 @@
+KCAT	Homo sapiens	0.27	NAD+	*25&Acirc;&deg;C, pH 7.2, alpha-subunit mutant enzyme D234C
+KCAT	Homo sapiens	2.49	NAD+	*25&Acirc;&deg;C, pH 7.2, alpha-subunit mutant enzyme D230C
+KCAT	Streptococcus mutans	3	NAD+	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme mutant S102A
+KCAT	Streptococcus mutans	3.5	NAD+	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme mutant S102Y
+KCAT	Campylobacter sp.	7	NAD+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Streptococcus mutans	9.1	NAD+	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme mutant S102G
+KCAT	Campylobacter sp.	9.5	NAD+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged mutant L584H/D595R
+KCAT	Congregibacter litoralis	9.7	NAD+	*mutant D487R/L488H, with Mn2+, pH 7.5, 35&Acirc;&deg;C
+KCAT	Campylobacter curvus	10.8	NAD+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Homo sapiens	11.8	NAD+	*25&Acirc;&deg;C, pH 7.2, gamma-subunit mutant enzyme D215N
+KCAT	Homo sapiens	19.6	NAD+	*25&Acirc;&deg;C, pH 7.2, beta-subunit mutant enzyme D217N
+KCAT	Pyrococcus horikoshii	21.8	NAD+	*6fold His-tagged enzyme, at 70&Acirc;&deg;C in 50 mM N-2-hydroxyethylpiperadine-N0-2-ethanesulfonate-NaOH (pH 7.8), 0.2 M KCl, 0.2 mM MnCl2
+KCAT	Micromonas commoda	22.5	NAD+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Ostreococcus sp. 'lucimarinus'	29.1	NAD+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged mutant D326R/M327H
+KCAT	Homo sapiens	30	NAD+	*25&Acirc;&deg;C, pH 7.2, wild-type enzyme
+KCAT	Congregibacter litoralis	36.7	NAD+	*wild-type enzyme, with Mg2+, pH 7.5, 35&Acirc;&deg;C
+KCAT	Homo sapiens	36.8	NAD+	*25&Acirc;&deg;C, pH 7.2, alpha-subunit mutant enzyme D206N
+KCAT	Ostreococcus tauri	41	NAD+	*pH 7.6, temperature not specified in the publication, His6-tagged recombinant mutant D344R, with Mn2+
+KCAT	Acidithiobacillus thiooxidans	45.1	NAD+	*pH 9.0, 30&Acirc;&deg;C, native enzyme
+KCAT	Streptococcus mutans	56	NAD+	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Streptococcus mutans	59	NAD+	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme mutant S102T
+KCAT	Ostreococcus tauri	59	NAD+	*pH 7.6, temperature not specified in the publication, His6-tagged recombinant wild-type enzyme, with Mg2+
+KCAT	Pyrococcus furiosus	60.4	NAD+	*pH 8.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Ostreococcus sp. 'lucimarinus'	60.6	NAD+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Ostreococcus tauri	80.9	NAD+	*pH 7.6, temperature not specified in the publication, His6-tagged recombinant mutant D344R/M345H, with Mn2+
+KCAT	Congregibacter litoralis	84.7	NAD+	*wild-type enzyme, with Mn2+, pH 7.5, 35&Acirc;&deg;C
+KCAT	Zymomonas mobilis	88	NAD+	*pH 7.5, 37&Acirc;&deg;C, with Mg2+, recombinant enzyme
+KCAT	Pyrococcus furiosus	103.4	NAD+	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme D328K
+KCAT	Pyrococcus furiosus	105.6	NAD+	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme D328K/I329Y
+KCAT	Zymomonas mobilis	112	NAD+	*pH 7.5, 37&Acirc;&deg;C, with Mn2+, recombinant enzyme
+KCAT	Ostreococcus tauri	115	NAD+	*pH 7.6, temperature not specified in the publication, His6-tagged recombinant wild-type enzyme, with Mn2+
+KCAT	Micromonas commoda	1.4	NADP+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Ostreococcus sp. 'lucimarinus'	1.8	NADP+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged mutant D326R/M327H
+KCAT	Campylobacter sp.	1.9	NADP+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Campylobacter curvus	2	NADP+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Ostreococcus tauri	3.9	NADP+	*pH 7.6, temperature not specified in the publication, His6-tagged recombinant mutant D344R/M345H, with Mn2+
+KCAT	Campylobacter sp.	4.2	NADP+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged mutant L584H/D595R
+KCAT	Ostreococcus sp. 'lucimarinus'	10	NADP+	*pH 75, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Zymomonas mobilis	14	NADP+	*pH 7.5, 37&Acirc;&deg;C, with Mg2+, recombinant enzyme
+KCAT	Ostreococcus tauri	17	NADP+	*pH 7.6, temperature not specified in the publication, His6-tagged recombinant wild-type enzyme, with Mg2+
+KCAT	Acidithiobacillus thiooxidans	21.3	NADP+	*pH 9.0, 30&Acirc;&deg;C, native enzyme
+KCAT	Zymomonas mobilis	25	NADP+	*pH 7.5, 37&Acirc;&deg;C, with Mn2+, recombinant enzyme
+KCAT	Ostreococcus tauri	46	NADP+	*pH 7.6, temperature not specified in the publication, His6-tagged recombinant wild-type enzyme, with Mn2+
+KCAT	Congregibacter litoralis	55.1	NADP+	*mutant D487R/L488H, with Mn2+, pH 7.5, 35&Acirc;&deg;C
+KCAT	Ostreococcus tauri	56	NADP+	*pH 7.6, temperature not specified in the publication, His6-tagged recombinant mutant D344R, with Mn2+
+KCAT	Colwellia maris	61.3	NADP+	*
+KCAT	Azotobacter vinelandii	92.6	NADP+	*
+KCAT	Pyrococcus furiosus	93	NADP+	*pH 8.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Pyrococcus furiosus	133	NADP+	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme D328K
+KCAT	Pyrococcus furiosus	168	NADP+	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme D328K/I329Y
+KCAT	Homo sapiens	0.27	isocitrate	*25&Acirc;&deg;C, pH 7.2, alpha-subunit mutant enzyme D234C
+KCAT	Homo sapiens	2.49	isocitrate	*25&Acirc;&deg;C, pH 7.2, alpha-subunit mutant enzyme D230C
+KCAT	Homo sapiens	11.8	isocitrate	*25&Acirc;&deg;C, pH 7.2, gamma-subunit mutant enzyme D215N
+KCAT	Pyrococcus horikoshii	14.8	isocitrate	*6fold His-tagged enzyme, at 70&Acirc;&deg;C in 50 mM N-2-hydroxyethylpiperadine-N0-2-ethanesulfonate-NaOH (pH 7.8), 0.2 M KCl, 0.2 mM MnCl2, 1 mM NAD+
+KCAT	Homo sapiens	19.6	isocitrate	*25&Acirc;&deg;C, pH 7.2, beta-subunit mutant enzyme D217N
+KCAT	Homo sapiens	30	isocitrate	*25&Acirc;&deg;C, pH 7.2, wild-type enzyme
+KCAT	Homo sapiens	36.8	isocitrate	*25&Acirc;&deg;C, pH 7.2, alpha-subunit mutant enzyme D206N
+KCAT	Streptococcus mutans	1.5	DL-isocitrate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme mutant S102Y
+KCAT	Streptococcus mutans	3.3	DL-isocitrate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme mutant S102A
+KCAT	Streptococcus mutans	4	DL-isocitrate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme mutant S102G
+KCAT	Streptococcus mutans	25	DL-isocitrate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme mutant S102T
+KCAT	Streptococcus mutans	124	DL-isocitrate	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Pyrococcus horikoshii	13.7	homoisocitrate	*6fold His-tagged enzyme, at 70&Acirc;&deg;C in 50 mM N-2-hydroxyethylpiperadine-N0-2-ethanesulfonate-NaOH (pH 7.8), 0.2 M KCl, 0.2 mM MnCl2, 1 mM NAD+
+KCAT	Homo sapiens	0.27	D-isocitrate	*D234C, alpha-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+KCAT	Homo sapiens	2.49	D-isocitrate	*D230C, alpha-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+KCAT	Homo sapiens	11.8	D-isocitrate	*D215N, gamma-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+KCAT	Homo sapiens	19.6	D-isocitrate	*D217N, beta-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+KCAT	Homo sapiens	30	D-isocitrate	*wild type enzyme in 20 mM isocitrate and 1 mM MnSO4
+KCAT	Homo sapiens	36.8	D-isocitrate	*D206N, alpha-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+KCAT	Colwellia maris	57.5	D-isocitrate	*
+KCAT	Azotobacter vinelandii	73	D-isocitrate	*

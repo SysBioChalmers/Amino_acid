@@ -1,0 +1,24 @@
+KCAT	Staphylococcus aureus	0.043	tRNAAsn	*at pH 7.2 and 37&deg;C
+KCAT	Escherichia coli	0.3	ATP	*mutant P231L, 37&deg;C, aminoacylation
+KCAT	Escherichia coli	0.3	ATP	*mutant Y426S, aminoacylation
+KCAT	Plasmodium falciparum	0.5	tRNAAsn	*in 50 mM HEPES-NaOH, pH 7.2, 10 mM MgCl2, at 37&deg;C
+KCAT	Escherichia coli	0.7	Asn	*mutant Y426S, aminoacylation
+KCAT	Escherichia coli	0.9	Asn	*mutant P231L, 37&deg;C, aminoacylation
+KCAT	Escherichia coli	1	Asn	*mutant P231L, 37&deg;C, ATP-diphosphate exchange
+KCAT	Escherichia coli	1	Asn	*ATP, , mutant Y426F, aminoacylation
+KCAT	Escherichia coli	1.3	ATP	*mutant P231L, 25&deg;C, ATP-diphosphate exchange; wild-type, 37&deg;C, aminoacylation
+KCAT	Escherichia coli	1.3	ATP	*Asn, , mutant Y426S, ATP-diphosphate exchange; wild-type, aminoacylation
+KCAT	Escherichia coli	1.6	Asn	*37&deg;C; wild-type, aminoacylation
+KCAT	Escherichia coli	1.6	Asn	*wild-type, aminoacylation
+KCAT	Escherichia coli	2	ATP	*mutant P231L, 37&deg;C, ATP-diphosphate exchange
+KCAT	Escherichia coli	2.1	ATP	*mutant Y426S, ATP-diphosphate exchange
+KCAT	Escherichia coli	2.2	Asn	*mutant P231L, 25&deg;C, aminoacylation
+KCAT	Escherichia coli	2.2	ATP	*wild-type, 37&deg;C, ATP-diphosphate exchange
+KCAT	Escherichia coli	2.2	ATP	*wild-type, 37&deg;C, ATP-diphosphate exchange
+KCAT	Escherichia coli	2.3	ATP	*mutant Y426F, ATP-diphosphate exchange
+KCAT	Escherichia coli	2.7	Asn	*mutant Y426F, , ATP-diphosphate exchange
+KCAT	Escherichia coli	2.8	Asn	*wild-type, 25&deg;C, aminoacylation; wild-type, 37&deg;C, ATP-diphosphate exchange
+KCAT	Escherichia coli	2.8	Asn	*Asn, , wild-type, ATP-diphosphate exchange; mutant Y426F, aminoacylation
+KCAT	Escherichia coli	3	Asn	*mutant P231L, 25&deg;C, ATP-diphosphate exchange
+KCAT	Plasmodium falciparum	4.2	L-asparagine	*in 50 mM HEPES-NaOH, pH 7.2, 10 mM MgCl2, at 37&deg;C
+KCAT	Plasmodium falciparum	10.1	ATP	*in 50 mM HEPES-NaOH, pH 7.2, 10 mM MgCl2, at 37&deg;C

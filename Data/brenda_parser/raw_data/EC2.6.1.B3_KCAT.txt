@@ -1,0 +1,1 @@
+ecNumber*2.6.1.B3#turnoverNumber*1.73#turnoverNumberMaximum*#substrate*(2S,3S,5R,10S,12R,14R,15S,16S)-2-amino-12,16-dimethylicosane-3,5,10,14,15-pentol#commentary*pH 8.0, 35&deg;C#organism*Sphingopyxis sp.#ligandStructureId*15030#literature*724058#

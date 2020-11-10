@@ -1,0 +1,2 @@
+KCAT	Chrysiogenes arsenatis	14400	arsenate	*
+KCAT	Alcaligenes faecalis	27	azurin	*

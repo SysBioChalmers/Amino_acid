@@ -1,0 +1,3 @@
+KCAT	Pseudomonas sp.	11.8	sparteine	*
+KCAT	Pseudomonas sp.	21.3	lupanine	*25&deg;C, pH 8.5
+KCAT	Pseudomonas sp.	217	lupanine	*

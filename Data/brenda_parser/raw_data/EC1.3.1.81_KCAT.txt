@@ -1,0 +1,1 @@
+ecNumber*1.3.1.81#turnoverNumber*1.8#turnoverNumberMaximum*#substrate*NADPH#commentary*pH 5.0, recombinant enzyme#organism*Mentha x piperita#ligandStructureId*5#literature*684664#!ecNumber*1.3.1.81#turnoverNumber*1.8#turnoverNumberMaximum*#substrate*(+)-pulegone#commentary*pH 5.0, recombinant enzyme#organism*Mentha x piperita#ligandStructureId*8701#literature*684664#

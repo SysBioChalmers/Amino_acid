@@ -1,0 +1,1 @@
+ecNumber*1.1.1.266#turnoverNumber*43.5#turnoverNumberMaximum*#substrate*dTDP-4-keto-6-deoxy-D-glucose#commentary*#organism*Aggregatibacter actinomycetemcomitans#ligandStructureId*12518#literature*246376#

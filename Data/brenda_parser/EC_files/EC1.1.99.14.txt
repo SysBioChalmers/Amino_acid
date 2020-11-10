@@ -1,0 +1,3 @@
+KCAT	Chlamydomonas reinhardtii	5.42	L-lactate	*with 2,6-dichlorophenolindophenol as cosubstrate, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Chlamydomonas reinhardtii	1.93	glycolate	*with 2,6-dichlorophenolindophenol as cosubstrate, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Chlamydomonas reinhardtii	5.42	D-lactate	*with 2,6-dichlorophenolindophenol as cosubstrate, at pH 8.0 and 30&Acirc;&deg;C

@@ -1,0 +1,33 @@
+KCAT	Salmonella enterica typhimurium	0.06	ATP	*apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	0.48	ATP	*apparent value, mutant enzyme Q83S, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; mutant enzyme Q83S, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	0.14	GTP	*apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	0.21	GTP	*apparent value, mutant enzyme Q83D, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; mutant enzyme Q83D, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	0.098	CTP	*apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	0.1	CTP	*wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	21.92	UTP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Salmonella enterica	24	UTP	*wild type enzyme
+KCAT	Salmonella enterica typhimurium	41	UTP	*apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Streptococcus pneumoniae	0.016	alpha-D-glucose 1-phosphate	*cosubstrate UTP, pH 7.5, temperature not specified in the publication
+KCAT	Caenorhabditis elegans	23.24	alpha-D-glucose 1-phosphate	*cosubstrate: UTP, pH 7.5, 25&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	23.58	alpha-D-glucose 1-phosphate	*cosubstrate: dTTP, pH 7.5, 25&Acirc;&deg;C
+KCAT	Streptococcus pneumoniae	24	alpha-D-glucose 1-phosphate	*cosubstrate dTTP, pH 7.5, temperature not specified in the publication
+KCAT	Salmonella enterica typhimurium	1.88	dATP	*apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	5.33	dATP	*apparent value, mutant enzyme Q83S, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; mutant enzyme Q83S, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Streptomyces globisporus	2.9	dTTP	*
+KCAT	Salmonella enterica typhimurium	3.13	dTTP	*mutant enzyme Q83D, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	3.62	dTTP	*apparent value, mutant enzyme Q83D, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	6.33	dTTP	*apparent value, mutant enzyme Q83S, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; mutant enzyme Q83S, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	15	dTTP	*wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	28.2	dTTP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	30.83	dTTP	*apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	1.22	dCTP	*apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	2.12	dGTP	*apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica typhimurium	5	dGTP	*apparent value, mutant enzyme Q83D, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C; mutant enzyme Q83D, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Sphingomonas elodea	0.56	dTDP-glucose	*UgpG protein
+KCAT	Sphingomonas elodea	1.35	dTDP-glucose	*RmlA protein
+KCAT	Streptococcus pneumoniae	0.01	[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl]methyl]phosphonic acid	*cosubstrate UTP, pH 7.5, temperature not specified in the publication
+KCAT	Streptococcus pneumoniae	0.55	[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl]methyl]phosphonic acid	*cosubstrate dTTP, pH 7.5, temperature not specified in the publication
+KCAT	Streptococcus pneumoniae	0.1	2-deoxy-2-amino-alpha-D-glucose 1-phosphate	*cosubstrate UTP, pH 7.5, temperature not specified in the publication
+KCAT	Streptococcus pneumoniae	4.5	2-deoxy-2-amino-alpha-D-glucose 1-phosphate	*cosubstrate dTTP, pH 7.5, temperature not specified in the publication
+KCAT	Streptococcus pneumoniae	0.08	3-deoxy-3-amino-alpha-D-glucose 1-phosphate	*cosubstrate dTTP, pH 7.5, temperature not specified in the publication
+KCAT	Streptococcus pneumoniae	0.0003	3-deoxy-3-azido-alpha-D-glucose 1-phosphate	*cosubstrate dTTP, pH 7.5, temperature not specified in the publication

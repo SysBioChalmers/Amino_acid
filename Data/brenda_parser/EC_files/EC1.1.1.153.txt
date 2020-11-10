@@ -1,0 +1,24 @@
+KCAT	Homo sapiens	0.0048	9,10-phenanthrenequinone	*mutant S157A, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.0053	sepiapterin	*mutant N99A, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.0056	9,10-phenanthrenequinone	*mutant G14S, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.0058	9,10-phenanthrenequinone	*mutant DELTA257-261, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.0058	sepiapterin	*mutant S157A, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.027	9,10-phenanthrenequinone	*mutant K174L, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.048	9,10-phenanthrenequinone	*mutant G18D, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.053	sepiapterin	*mutant R42G, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.09	sepiapterin	*mutant K174L, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.098	9,10-phenanthrenequinone	*mutant R42G, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.107	9,10-phenanthrenequinone	*mutant D257H, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.146	9,10-phenanthrenequinone	*wild-type, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.156	sepiapterin	*mutant D257H, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.22	9,10-phenanthrenequinone	*mutant M205G, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.29	9,10-phenanthrenequinone	*mutant N99A, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.428	sepiapterin	*mutant M205G, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.45	1,4-Naphthoquinone	*wild-type, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.6	sepiapterin	*mutant Y259A, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.627	1,2-naphthoquinone	*wild-type, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.627	9,10-phenanthrenequinone	*wild-type, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	0.805	9,10-phenanthrenequinone	*mutant Y259A, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	1.43	2,3-dimethoxynaphthalene-1,4-dione	*wild-type, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	1.45	menadione	*wild-type, pH 6.4, 37&deg;C
+KCAT	Homo sapiens	1.61	sepiapterin	*wild-type, pH 6.4, 37&deg;C

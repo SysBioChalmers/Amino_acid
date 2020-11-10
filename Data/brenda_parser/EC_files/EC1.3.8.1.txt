@@ -1,0 +1,40 @@
+KCAT	Pseudomonas putida	0.00183	octanoyl-CoA	*
+KCAT	Pseudomonas putida	0.00567	heptanoyl-CoA	*
+KCAT	Bos taurus	0.03	propionyl-CoA	*
+KCAT	Megasphaera elsdenii	0.0333	propionyl-CoA	*
+KCAT	Bos taurus	0.1	octanoyl-CoA	*
+KCAT	Bos taurus	0.25	heptanoyl-CoA	*
+KCAT	Pseudomonas putida	0.293	butyryl-CoA	*at pH 5.5
+KCAT	Pseudomonas putida	0.2992	hexanoyl-CoA	*
+KCAT	Megasphaera elsdenii	0.5	butyryl-CoA	*native enzyme, O2 as electron acceptor
+KCAT	Megasphaera elsdenii	0.533	butyryl-CoA	*recombinant enzyme, O2 as electron acceptor
+KCAT	Pseudomonas putida	0.5883	butyryl-CoA	*at pH 6.0
+KCAT	Pseudomonas putida	0.7267	butyryl-CoA	*at pH 8.0
+KCAT	Pseudomonas putida	0.73	butyryl-CoA	*at pH 6.5
+KCAT	Pseudomonas putida	0.967	butyryl-CoA	*at pH 7.0; at pH 7.5
+KCAT	Bos taurus	1.35	hexanoyl-CoA	*
+KCAT	Pseudomonas putida	1.743	butyryl-CoA	*
+KCAT	Clostridioides difficile	2	butanoyl-CoA	*pH 7.5, 37&deg;C
+KCAT	Clostridioides difficile	2	butyryl-CoA	*pH 7.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	2.403	valeryl-CoA	*
+KCAT	Bos taurus	2.5	butyryl-CoA	*
+KCAT	Clostridioides difficile	3	NADH	*pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	3	pentanoyl-CoA	*C-2 proton/deuteron exchange
+KCAT	Bos taurus	3.3	pentanoyl-CoA	*
+KCAT	Megasphaera elsdenii	3.33	butyryl-CoA	*
+KCAT	Sus scrofa	4.5	butyryl-CoA	*electron transfer protein as acceptor
+KCAT	Megasphaera elsdenii	5	butyryl-CoA	*exchange of alpha and beta hydrogens
+KCAT	Homo sapiens	6	2-methylbutanoyl-CoA	*32&deg;C, pH 7.0
+KCAT	Megasphaera elsdenii	8.43	butyryl-CoA	*phenazine ethosulfate as intermediate electron carrier
+KCAT	Sus scrofa	9.17	butyryl-CoA	*phenazine methyl sulfate as acceptor
+KCAT	Homo sapiens	9.6	butanoyl-CoA	*32&deg;C, pH 7.0
+KCAT	Homo sapiens	10	hexanoyl-CoA	*32&deg;C, pH 7.0
+KCAT	Homo sapiens	16.5	hexanoyl-CoA	*
+KCAT	Clostridioides difficile	19	crotonyl-CoA	*pH 7.5, 37&deg;C; pH 7.5, temperature not specified in the publication
+KCAT	Megasphaera elsdenii	20.7	butyryl-CoA	*
+KCAT	Homo sapiens	20.8	butyryl-CoA	*
+KCAT	Megasphaera elsdenii	20.8	butyryl-CoA	*phenazine methosulfate as intermediate electron carrier
+KCAT	Rattus norvegicus	24.5	pentanoyl-CoA	*
+KCAT	Bos taurus	33.3	butyryl-CoA	*based on an estimated MW of 150000 Da
+KCAT	Clostridioides difficile	37	reduced ferredoxin	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	40.7	valeryl-CoA	*

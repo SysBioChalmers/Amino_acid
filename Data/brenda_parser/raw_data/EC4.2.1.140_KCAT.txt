@@ -1,0 +1,1 @@
+ecNumber*4.2.1.140#turnoverNumber*1.08#turnoverNumberMaximum*#substrate*D-galactonate#commentary*pH 6.0, 70&deg;C#organism*Saccharolobus solfataricus#ligandStructureId*3335#literature*664942#!ecNumber*4.2.1.140#turnoverNumber*10.4#turnoverNumberMaximum*#substrate*D-gluconate#commentary*pH 6.0, 70&deg;C#organism*Saccharolobus solfataricus#ligandStructureId*698#literature*664942#

@@ -1,0 +1,2 @@
+KCAT	Enterobacter cloacae	5	selenate	*using electron donormethyl viologen
+KCAT	Thauera selenatis	387	selenate	*pH 6.0

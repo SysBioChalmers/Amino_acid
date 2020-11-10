@@ -1,0 +1,11 @@
+KCAT	Spinacia oleracea	1.4	NADH	*
+KCAT	Spinacia oleracea	1.5	ferricytochrome c	*pH 7.0, 25&deg;C, functional FAD-containing domain plus heme-containig domain
+KCAT	Spinacia oleracea	1.8	nitrate	*GST-tagged molybdenum domain, 25&deg;C, pH 7.6
+KCAT	Spinacia oleracea	2.5	nitrate	*His-tagged molybdenum domain, 25&deg;C, pH 7.6
+KCAT	Arabidopsis thaliana	33	nitrate	*22&deg;C, pH not specified in the publication
+KCAT	Zea mays	200	NADH	*
+KCAT	Arabidopsis thaliana	210	NADH	*
+KCAT	Arabidopsis thaliana	835	ferricyanide	*
+KCAT	Zea mays	897	ferricyanide	*
+KCAT	Spinacia oleracea	1300	ferricyanide	*pH 7.0, 25&deg;C, functional FAD-containing domain
+KCAT	Spinacia oleracea	1400	NADH	*pH 7.0, 25&deg;C, functional FAD-containing domain domain plus heme-containig domain

@@ -1,0 +1,9 @@
+KCAT	Chromobacterium violaceum	0.66	L-tryptophan	*
+KCAT	Chromobacterium violaceum	0.79	N-acetyl-L-tryptophan	*
+KCAT	Chromobacterium violaceum	0.333	Luteinizing hormone-releasing hormone	*dehydrogenation of the tryptophanyl side chain
+KCAT	Chromobacterium violaceum	0.753	N-Acetyl-L-tryptophanamide	*
+KCAT	Chromobacterium violaceum	0.753	N-Acetyl-L-tryptophanamide	*
+KCAT	Chromobacterium violaceum	0.593	L-Tryptophanamide	*
+KCAT	Chromobacterium violaceum	0.785	indole-3-propionate	*
+KCAT	Chromobacterium violaceum	0.533	pentagastrin	*dehydrogenation of the tryptophanyl side chain
+KCAT	Chromobacterium violaceum	0.283	adrenocorticotropic hormone	*dehydrogenation of the tryptophanyl side chain

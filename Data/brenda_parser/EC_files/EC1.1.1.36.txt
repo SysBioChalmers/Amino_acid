@@ -1,0 +1,15 @@
+KCAT	Homo sapiens	0.5	acetoacetyl-CoA	*pH 7.4, 37&Acirc;&deg;C recombinant His-tagged enzyme
+KCAT	Zoogloea ramigera	300	acetoacetyl-CoA	*
+KCAT	Candida tropicalis	17	(3R)-3-hydroxydecanoyl-CoA	*A-/B+CtMFE-2(hdelta2deltaadelta)
+KCAT	Candida tropicalis	33	(3R)-3-hydroxydecanoyl-CoA	*A-/B-CtMFE-2(hdelta2delta)
+KCAT	Candida tropicalis	53	(3R)-3-hydroxydecanoyl-CoA	*A+/B+CtMFE-2(h2delta)
+KCAT	Candida tropicalis	3	(3R)-hydroxyhexadecanoyl-CoA	*A-/B-CtMFE-2(hdelta2delta)
+KCAT	Candida tropicalis	12	(3R)-hydroxyhexadecanoyl-CoA	*A-/B+CtMFE-2(hdelta2deltaadelta)
+KCAT	Candida tropicalis	41	(3R)-hydroxyhexadecanoyl-CoA	*A+/B+CtMFE-2(h2delta)
+KCAT	Zoogloea ramigera	27	2-methylacetoacetyl-CoA	*
+KCAT	Candida tropicalis	29	(3R)-hydroxybutyryl-CoA	*A-/B+CtMFE-2(hdelta2deltaadelta)
+KCAT	Candida tropicalis	31	(3R)-hydroxybutyryl-CoA	*A+/B+CtMFE-2(h2delta)
+KCAT	Zoogloea ramigera	90	D-3-hydroxybutyryl-CoA	*
+KCAT	Zoogloea ramigera	124	propionylacetyl-CoA	*
+KCAT	Zoogloea ramigera	267	Acetoacetyl-S-(D-pantetheine)11-pivalate	*
+KCAT	Zoogloea ramigera	9	butyrylacetyl-CoA	*

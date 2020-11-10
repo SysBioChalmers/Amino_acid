@@ -1,0 +1,15 @@
+KCAT	Pseudomonas aeruginosa	0.005	N-formimino-L-glutamate	*mutant enzyme E235D, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	0.1	N-formimino-L-glutamate	*mutant enzyme E235A, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	0.12	N-formimino-L-glutamate	*mutant enzyme E235Q, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	8.5	N-formimino-L-glutamate	*Zn2+ has been reconstituted with Cu2+, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	8.5	N-formimino-L-glutamate	*Cu2+-reconstituted wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	13.2	N-formimino-L-glutamate	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	13.2	N-formimino-L-glutamate	*Zn2+-reconstituted wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	21.3	N-formimino-L-glutamate	*Zn2+ has been reconstituted with Ni2+, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	21.3	N-formimino-L-glutamate	*Ni2+-reconstituted wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	31	N-formimino-L-glutamate	*Zn2+ has been reconstituted with Cd2+, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	31	N-formimino-L-glutamate	*Cd2+-reconstituted wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	0.05	N-formimino-D-glutamate	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	0.019	N-formimino-L-isoleucine	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	0.01	N-formimino-L-methionine	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	-999	more	*less than 0.001/sec for the substrates N-guanidino-L-glutamate, N-formimino-alpha-aminobutyric acid, N-formimino-gamma-aminobutyric acid, N-formimino-L-alanine, N-formimino-L-aspartate, N-formimino-glycine, N-formimino-L-leucine, N-formimino-L-phenylalanine, N-formimino-L-tyrosine, N-formimino-L-valine

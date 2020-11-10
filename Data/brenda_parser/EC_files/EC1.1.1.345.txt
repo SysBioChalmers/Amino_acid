@@ -1,0 +1,11 @@
+KCAT	Lactobacillus delbrueckii subsp. bulgaricus	8.48	phenylpyruvate	*recombinant His-tagged enzyme, pH and temperature not specified in the publication
+KCAT	Lactobacillus casei	15	2-Hydroxyoctanoate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	24	2-hydroxypentanoate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	26	2-hydroxyhexanoate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	43	(R)-2-hydroxy-4-methylpentanoate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	84	4-methyl-2-oxopentanoate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	139	2-Oxohexanoate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	197	2-Oxopentanoate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	788	3-(4-hydroxyphenyl)-2-oxopropanoate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	968	phenylpyruvate	*pH 7.0, temperature not specified in the publication
+KCAT	Lactobacillus casei	1200	2-oxooctanoate	*pH 7.0, temperature not specified in the publication

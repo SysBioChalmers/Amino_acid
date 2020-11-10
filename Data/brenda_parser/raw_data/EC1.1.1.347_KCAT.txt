@@ -1,0 +1,1 @@
+ecNumber*1.1.1.347#turnoverNumber*2996#turnoverNumberMaximum*#substrate*geraniol#commentary*in 50 mM Tris-HCl (pH 8.5), at 22&deg;C#organism*Carpoglyphus lactis#ligandStructureId*987#literature*686700#

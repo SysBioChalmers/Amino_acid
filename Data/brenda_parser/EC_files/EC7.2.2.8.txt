@@ -1,0 +1,4 @@
+KCAT	Archaeoglobus fulgidus	-999	more	*kinetic parameters for phosphorylation and dephosphorylation of CopA
+KCAT	Archaeoglobus fulgidus	-999	more	*free Cu+/ATPase activity kinetic parameters and binding stoichiometry pf wild type, and mutants M158A, M158C, E205A, E205C, D336A, D336C and S139A/G140A
+KCAT	Archaeoglobus fulgidus	0.26	ATP	*pH 6.1, 75&deg;C
+KCAT	Archaeoglobus fulgidus	5.9	4-nitrophenyl phosphate	*pH 6.1, 75&deg;C

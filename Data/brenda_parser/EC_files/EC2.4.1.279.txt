@@ -1,0 +1,12 @@
+KCAT	Lachnoclostridium phytofermentans	8.3	methyl alpha-D-glucopyranoside	*pH 7.0, 30&deg;C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	25	D-galactose	*pH 7.0, 30&deg;C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	30	1,5-anhydro-D-glucitol	*pH 7.0, 30&deg;C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	31	3-O-alpha-D-glucopyranosyl-D-glucopyranose	*pH 7.0, 30&deg;C
+KCAT	Lachnoclostridium phytofermentans	40	D-xylose	*pH 7.0, 30&deg;C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	52	D-glucose	*pH 7.0, 30&deg;C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	58	beta-D-glucopyranose 1-phosphate	*pH 7.0, 30&deg;C, reverse phosphorolysis, acceptor D-glucose
+KCAT	Lachnoclostridium phytofermentans	67	phosphate	*pH 7.0, 30&deg;C, cosubstrate 3-O-alpha-D-glucopyranosyl-D-glucopyranose
+KCAT	Lachnoclostridium phytofermentans	69	D-galactose	*pH 7.0, 30&deg;C, reverse phosphorolysis reaction, cosubstrate beta-D-glucose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	110	D-glucose	*pH 7.0, 30&deg;C, reverse phosphorolysis reaction, cosubstrate beta-D-glucose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	118	D-xylose	*pH 7.0, 30&deg;C, reverse phosphorolysis reaction, cosubstrate beta-D-glucose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	120	1,5-anhydro-D-glucitol	*pH 7.0, 30&deg;C, reverse phosphorolysis reaction, cosubstrate beta-D-glucose 1-phosphate

@@ -1,0 +1,40 @@
+KCAT	Clostridium autoethanogenum	32	NADPH	*mutant S199R, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	50	NADPH	*mutant S199A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	68	NADPH	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	10.27	NAD+	*with (2R,3R)-butane-2,3-diol as cosubstrate, at pH 6.5 and 55&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	5.73	NADH	*with diacetyl as cosubstrate, at pH 10.0 and 45&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	93	acetaldehyde	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	10.51	glycerol	*enzyme DhaD, at pH 9.0 and 30&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	18.88	glycerol	*enzyme GldA, at pH 9.0 and 30&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	3	acetone	*mutant S199C, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	48	acetone	*mutant S199W, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	51.4	acetone	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	55	acetone	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	60	acetone	*mutant S199A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	62	acetone	*mutant S199G, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	89	acetone	*mutant S199R, pH 7.5, 25&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	6.11	diacetyl	*at pH 10.0 and 45&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	2	2-butanone	*mutant S199W, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	23	2-butanone	*mutant S199C, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	37	2-butanone	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	40	2-butanone	*mutant S199G, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	46	2-butanone	*mutant S199A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	50	2-butanone	*mutant S199R, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.5	acetoin	*cosubstrate NADPH, pH 7.0, temperature not specified in the publication
+KCAT	Escherichia coli	1.4	acetoin	*cosubstrate NADH, pH 7.0, temperature not specified in the publication
+KCAT	Clostridium autoethanogenum	145	acetoin	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	44	Butanone	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	41	(R)-acetoin	*mutant S199C, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	66	(R)-acetoin	*mutant S199W, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	95	(R)-acetoin	*mutant S199R, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	110	(R)-acetoin	*mutant S199G, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	150	(R)-acetoin	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	230	(R)-acetoin	*mutant S199A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	3.82	(2R,3R)-butane-2,3-diol	*enzyme GldA, at pH 9.0 and 30&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	4.28	(2R,3R)-butane-2,3-diol	*at pH 6.5 and 55&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	5.8	(2R,3R)-butane-2,3-diol	*enzyme DhaD, at pH 9.0 and 30&Acirc;&deg;C
+KCAT	Clostridium autoethanogenum	2.1	(2R,3R)-2,3-butanediol	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	4.67	meso-butane-2,3-diol	*enzyme DhaD, at pH 9.0 and 30&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	15.33	meso-butane-2,3-diol	*enzyme GldA, at pH 9.0 and 30&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	3.68	(3R,3S)-butane-2,3-diol	*enzyme DhaD, at pH 9.0 and 30&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	10.38	(3R,3S)-butane-2,3-diol	*enzyme GldA, at pH 9.0 and 30&Acirc;&deg;C

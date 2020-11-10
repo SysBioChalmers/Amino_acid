@@ -1,0 +1,28 @@
+KCAT	Rattus norvegicus	0.0011	crotonyl-CoA	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme G141P
+KCAT	Rattus norvegicus	0.0053	crotonyl-CoA	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme E164Q
+KCAT	Rattus norvegicus	0.53	crotonyl-CoA	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme A98P
+KCAT	Rattus norvegicus	0.6	crotonyl-CoA	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme E144Q
+KCAT	Rattus norvegicus	1.5	crotonyl-CoA	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme E164D
+KCAT	Rattus norvegicus	1790	crotonyl-CoA	*pH 7.4, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	1790	crotonyl-CoA	*
+KCAT	Rattus norvegicus	2238	crotonyl-CoA	*pH 8.0, 22&Acirc;&deg;C, wild-type enzyme
+KCAT	Bos taurus	5667	crotonyl-CoA	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	0.06	trans-2-hexenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme E144A/Q162L
+KCAT	Rattus norvegicus	0.43	trans-2-hexenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme E144A
+KCAT	Rattus norvegicus	0.44	trans-2-hexenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme E164A
+KCAT	Bos taurus	180	trans-2-hexenoyl-CoA	*pH 8
+KCAT	Rattus norvegicus	561	trans-2-hexenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme Q162L
+KCAT	Rattus norvegicus	601	trans-2-hexenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme Q162M
+KCAT	Rattus norvegicus	607	trans-2-hexenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme Q162A
+KCAT	Rattus norvegicus	745	trans-2-hexenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	0.0121	trans-2-decenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme E144A/Q162L
+KCAT	Rattus norvegicus	0.085	trans-2-decenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme E144A
+KCAT	Rattus norvegicus	0.095	trans-2-decenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme E164A
+KCAT	Rattus norvegicus	104	trans-2-decenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme Q162A
+KCAT	Rattus norvegicus	164	trans-2-decenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme Q162M
+KCAT	Rattus norvegicus	174	trans-2-decenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, mutant enzyme Q162L
+KCAT	Rattus norvegicus	203	trans-2-decenoyl-CoA	*pH 8.0, 22&Acirc;&deg;C, wild-type enzyme
+KCAT	Metallosphaera sedula	19	crotonoyl-CoA	*at pH 7.0 and 70&Acirc;&deg;C
+KCAT	Metallosphaera sedula	15	(S)-3-hydroxybutyryl-CoA	*at pH 7.0 and 70&Acirc;&deg;C
+KCAT	Rattus norvegicus	26	3'-dephosphocrotonyl-CoA	*pH 7.4, 25&Acirc;&deg;C, mutant enzyme E144D
+KCAT	Rattus norvegicus	152	(Z)-2-butenoyl-CoA	*pH 7.4, 25&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.393#turnoverNumber*157.2#turnoverNumberMaximum*#substrate*12alpha-Hydroxy-3-oxo-5beta-cholan-24-oic acid#commentary*pH 7.0, 37&Acirc;&deg;C#organism*Ruminococcus gnavus#ligandStructureId*42973#literature*736859#

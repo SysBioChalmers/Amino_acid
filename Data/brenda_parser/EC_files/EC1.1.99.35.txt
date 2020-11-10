@@ -1,0 +1,36 @@
+KCAT	Acinetobacter calcoaceticus	1399	D-glucose	*mutant N462H, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1791	D-glucose	*mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	3071	D-glucose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	3436	D-glucose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	3860	D-glucose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	69	D-galactose	*mutant N462H, pH 7.0
+KCAT	Acinetobacter calcoaceticus	72	D-galactose	*mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	121	D-galactose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	232	D-galactose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	630	D-galactose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	669	D-xylose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1795	D-xylose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	267	D-mannose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	861	D-mannose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	331	2-deoxy-D-glucose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1063	2-deoxy-D-glucose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	949	D-allose	*mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1035	D-allose	*mutant N462H, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1443	D-allose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	2509	D-allose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	4563	D-allose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	588	D-maltose	*mutant N462H, pH 7.0
+KCAT	Acinetobacter calcoaceticus	785	D-maltose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1002	D-maltose	*mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1015	D-maltose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1930	D-maltose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1064	3-O-methyl-D-glucose	*mutant N462H, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1253	3-O-methyl-D-glucose	*mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1448	3-O-methyl-D-glucose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	3011	3-O-methyl-D-glucose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	3198	3-O-methyl-D-glucose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	201	D-lactose	*wild-type, pH 7.0
+KCAT	Acinetobacter calcoaceticus	574	D-lactose	*mutant N462H, pH 7.0
+KCAT	Acinetobacter calcoaceticus	678	D-lactose	*mutant E277K, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1038	D-lactose	*mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1659	D-lactose	*wild-type, pH 7.0

@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	0.1	Complement component C2	*37&deg;C, cleavage by the MASP-1 CCP1-CCP2-SP fragment
+KCAT	Homo sapiens	0.35	Nalpha-benzoyl-L-arginine ethyl ester	*pH 7.4, 30&deg;C
+KCAT	Homo sapiens	1.23	N-carboxybenzyloxyglycine-L-arginine thiobenzyl ester	*pH 7.4, 30&deg;C
+KCAT	Rattus norvegicus	3.9	complement C2	*cleavage by activated MASP-1 ent
+KCAT	Rattus norvegicus	4.3	benzoyl-L-arginine p-nitroanilide	*cleavage by activated MASP-1 ent
+KCAT	Homo sapiens	6.08	N-carboxybenzyloxyglycine-L-arginine thiobenzyl ester	*pH 7.4, 30&deg;C

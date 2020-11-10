@@ -1,0 +1,1 @@
+ecNumber*3.1.4.14#turnoverNumber*0.004#turnoverNumberMaximum*#substrate*2',3'-cAMP#commentary*#organism*Pseudomonas aeruginosa#ligandStructureId*942#literature*706603#!ecNumber*3.1.4.14#turnoverNumber*0.21#turnoverNumberMaximum*#substrate*bis-4-nitrophenyl phosphate#commentary*#organism*Pseudomonas aeruginosa#ligandStructureId*5530#literature*706603#

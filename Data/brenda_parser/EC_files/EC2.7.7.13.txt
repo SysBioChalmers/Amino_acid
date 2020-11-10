@@ -1,0 +1,6 @@
+KCAT	Burkholderia cepacia	6.85	diphosphate	*in the presence of 10 mM Mn2+
+KCAT	Burkholderia cepacia	195.9	diphosphate	*in the presence of 10 mM Mn2+
+KCAT	Burkholderia cepacia	195.9	GDP-mannose	*pH 7.6, recombinant enzyme, presence of 10 mM Mn2+
+KCAT	Helicobacter pylori	22.1	GDPmannose	*pH 8.0, 37&Acirc;&deg;C, cosubstrate diphosphate
+KCAT	Helicobacter pylori	10.3	mannose 1-phosphate	*pH 8.0, 37&Acirc;&deg;C, cosubstrate GTP
+KCAT	Burkholderia cepacia	195.9	GDP-alpha-D-mannose	*pH 7.6, 10 mM Mn2+, temperature not specified in the publication

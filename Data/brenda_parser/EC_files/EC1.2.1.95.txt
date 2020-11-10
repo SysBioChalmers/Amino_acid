@@ -1,0 +1,5 @@
+KCAT	Saccharomyces cerevisiae	0.0045	adipate	*pH 8.8, 37&deg;C
+KCAT	Saccharomyces cerevisiae	0.63	D-2-aminoadipate	*pH 8.8, 37&deg;C
+KCAT	Penicillium chrysogenum	1.1	L-2-aminoadipate	*pH 9.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	6	S-carboxymethyl-L-cysteine	*pH 8.8, 37&deg;C
+KCAT	Saccharomyces cerevisiae	41.7	L-2-aminoadipate	*pH 8.8, 37&deg;C

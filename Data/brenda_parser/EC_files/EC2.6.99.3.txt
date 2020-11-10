@@ -1,0 +1,3 @@
+KCAT	Streptomyces lavendulae	4.6	Hydroxyurea	*mutant Y97F, pH 8.0, 30&deg;C
+KCAT	Streptomyces lavendulae	11	Hydroxyurea	*30&deg;C, pH 8.0
+KCAT	Streptomyces lavendulae	11	Hydroxyurea	*wild-type, pH 8.0, 30&deg;C

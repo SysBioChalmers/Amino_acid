@@ -1,0 +1,1 @@
+ecNumber*1.14.13.4#turnoverNumber*3.87#turnoverNumberMaximum*4.48#substrate*3-(2-hydroxyphenyl)propanoate#commentary*#organism*Pseudomonas sp.#ligandStructureId*15520#literature*396425#

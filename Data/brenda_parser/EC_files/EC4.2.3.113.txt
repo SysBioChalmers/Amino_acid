@@ -1,0 +1,5 @@
+KCAT	Picea sitchensis	0.0352	geranyl diphosphate	*mutant A595G/F596L/L599F, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Picea sitchensis	0.0825	geranyl diphosphate	*mutant F596L, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Picea sitchensis	0.098	geranyl diphosphate	*wild-type, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Picea sitchensis	0.545	geranyl diphosphate	*wild-type, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Picea sitchensis	0.643	geranyl diphosphate	*mutant L596F, 30&Acirc;&deg;C, pH not specified in the publication

@@ -1,0 +1,4 @@
+KCAT	Ruegeria pomeroyi	2.4	dimethylsulfoniopropionate	*
+KCAT	Candidatus Pelagibacter ubique	8.1	dimethylsulfoniopropionate	*
+KCAT	Ruegeria pomeroyi	2.4	3-(S,S-dimethylsulfonio)propanoate	*pH 7.5, temperature not specified in the publication
+KCAT	Candidatus Pelagibacter ubique	8.1	3-(S,S-dimethylsulfonio)propanoate	*pH 7.5, temperature not specified in the publication

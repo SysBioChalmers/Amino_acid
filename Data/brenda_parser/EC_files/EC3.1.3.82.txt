@@ -1,0 +1,20 @@
+KCAT	Escherichia coli	0.0017	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, mutant enzyme C92A
+KCAT	Escherichia coli	0.039	D-fructose 1,6-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	0.042	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, mutant enzyme C107A
+KCAT	Escherichia coli	0.057	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, mutant enzyme C109A
+KCAT	Escherichia coli	0.34	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, mutant enzyme C109A
+KCAT	Escherichia coli	0.51	D-sedoheptulose 1,7-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Bordetella bronchiseptica	0.55	D-fructose 1,6-bisphosphate	*
+KCAT	Escherichia coli	0.63	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, mutant enzyme C107A; pH 7.5, 25&deg;C, mutant enzyme C92A
+KCAT	Escherichia coli	2	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, mutant enzyme K137A
+KCAT	Escherichia coli	3	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 8.0, wild-type enzyme
+KCAT	Mesorhizobium loti	4.4	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	4.6	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	4.6	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, wild-type
+KCAT	Bordetella bronchiseptica	5.9	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	6.2	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, mutant enzyme R110A
+KCAT	Escherichia coli	17	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 8.0, mutant enzyme C107A
+KCAT	Mesorhizobium loti	18	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Bordetella bronchiseptica	22	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	35.7	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	35.7	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C, wild-type

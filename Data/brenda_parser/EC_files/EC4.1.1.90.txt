@@ -1,0 +1,40 @@
+KCAT	Bos taurus	1	CO2	*pH 7.4
+KCAT	Homo sapiens	0.0019	FLEEL	*Y395A, pH 7.4, 20&Acirc;&deg;C
+KCAT	Homo sapiens	0.0033	FLEEL	*W399A, pH 7.4, 20&Acirc;&deg;C
+KCAT	Bos taurus	0.07	FLEEL	*R513A/K515A mutant
+KCAT	Homo sapiens	0.11	FLEEL	*L394R, pH 7.4, 20&Acirc;&deg;C
+KCAT	Bos taurus	0.19	FLEEL	*R359A/H360A/K361A mutant
+KCAT	Homo sapiens	0.21	FLEEL	*wild type, pH 7.4, 20&Acirc;&deg;C
+KCAT	Bos taurus	0.6	FLEEL	*for wild type FLAG-vitamin K-dependent gamma-glutamyl carboxylase
+KCAT	Bos taurus	0.64	FLEEL	*R234A/H235A mutant
+KCAT	Bos taurus	0.7	FLEEL	*FLAG-vitamin K-dependent gamma-glutamyl carboxylase; wild type
+KCAT	Bos taurus	0.72	FLEEL	*R406A/H408A mutant
+KCAT	Bos taurus	1	FLEEL	*wild-type carboxylase in bovine liver microsomes
+KCAT	Bos taurus	1.7	FLEEL	*recombinant His6-carboxylase present in Sf9 cell microsomes
+KCAT	Bos taurus	0.018	vitamin KH2	*proPT28, R513A/K515A mutant
+KCAT	Bos taurus	0.02	vitamin KH2	*proPT28, FLAG-vitamin K-dependent gamma-glutamyl carboxylase
+KCAT	Bos taurus	0.025	vitamin KH2	*proPT28, R406A/H408A mutant
+KCAT	Bos taurus	0.033	vitamin KH2	*proPT28, R234A/H235A mutant
+KCAT	Bos taurus	0.1	vitamin KH2	*FLEEL, R513A/K515A mutant
+KCAT	Bos taurus	0.11	vitamin KH2	*FLEEL, R359A/H360A/K361A mutant
+KCAT	Bos taurus	0.56	vitamin KH2	*FLEEL, R406A/H408A mutant
+KCAT	Bos taurus	0.6	vitamin KH2	*FLEEL, R234A/H235A mutant
+KCAT	Bos taurus	0.66	vitamin KH2	*FLEEL, FLAG-vitamin K-dependent gamma-glutamyl carboxylase
+KCAT	Bos taurus	0.002	YVFLDHQDADANLILNRPKR	*R359A/H360A/K361A mutant
+KCAT	Bos taurus	0.01	YVFLDHQDADANLILNRPKR	*R234A/H235A mutant, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 0 microM
+KCAT	Bos taurus	0.015	YVFLDHQDADANLILNRPKR	*R406A/H408A mutant, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 0 microM
+KCAT	Bos taurus	0.02	YVFLDHQDADANLILNRPKR	*FLAG-vitamin K-dependent gamma-glutamyl carboxylase
+KCAT	Bos taurus	0.042	YVFLDHQDADANLILNRPKR	*R406A/H408A mutant
+KCAT	Bos taurus	0.056	YVFLDHQDADANLILNRPKR	*R513A/K515A mutant
+KCAT	Bos taurus	0.059	YVFLDHQDADANLILNRPKR	*FLAG-vitamin K-dependent gamma-glutamyl carboxylase, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 0 microM
+KCAT	Bos taurus	0.06	YVFLDHQDADANLILNRPKR	*R234A/H235A mutant
+KCAT	Bos taurus	0.153	YVFLDHQDADANLILNRPKR	*R406A/H408A mutant, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 0.16 microM
+KCAT	Bos taurus	0.175	YVFLDHQDADANLILNRPKR	*R234A/H235A mutant, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 0.16 microM
+KCAT	Bos taurus	0.324	YVFLDHQDADANLILNRPKR	*FLAG-vitamin K-dependent gamma-glutamyl carboxylase, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 0.16 microM
+KCAT	Bos taurus	0.347	YVFLDHQDADANLILNRPKR	*R406A/H408A mutant, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 1.6 microM
+KCAT	Bos taurus	0.391	YVFLDHQDADANLILNRPKR	*R234A/H235A mutant, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 1.6 microM
+KCAT	Bos taurus	0.465	YVFLDHQDADANLILNRPKR	*FLAG-vitamin K-dependent gamma-glutamyl carboxylase, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 1.6 microM
+KCAT	Bos taurus	0.488	YVFLDHQDADANLILNRPKR	*FLAG-vitamin K-dependent gamma-glutamyl carboxylase, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 160 microM
+KCAT	Bos taurus	0.56	YVFLDHQDADANLILNRPKR	*R406A/H408A mutant, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 160 microM
+KCAT	Bos taurus	0.645	YVFLDHQDADANLILNRPKR	*R234A/H235A mutant, peptides comprising residue YVFLDHQDADANLILNRPKR concentration 160 microM
+KCAT	Homo sapiens	-999	more	*kcat values relative to wild type are 51% (L394R), 1% (Y395A), and 2% (W399A), pH 7.4, 20&Acirc;&deg;C

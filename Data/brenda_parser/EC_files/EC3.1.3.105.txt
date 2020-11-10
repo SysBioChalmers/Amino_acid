@@ -1,0 +1,2 @@
+KCAT	Pseudomonas putida	0.88	N-acetyl-D-muramate 6-phosphate	*pH 7.6, 22&deg;C
+KCAT	Pseudomonas putida	0.88	N-acetyl-D-muramate 6-phosphate	*at pH 7.6 and 22&deg;C

@@ -1,0 +1,12 @@
+KCAT	Vitis labrusca	0.000113	quercetin	*in 100 mM Tris-HCl pH 8.0, at 30&deg;C
+KCAT	Vitis labrusca	0.000247	UDP-alpha-D-glucose	*using cyanidin as cosubstrate, in 100 mM Tris-HCl pH 8.0, at 30&deg;C
+KCAT	Vitis labrusca	0.000702	cyanidin	*in 100 mM Tris-HCl pH 8.0, at 30&deg;C
+KCAT	Citrus x paradisi	0.5955	kaempferol	*apparent value, in 50 mM phosphate buffer (pH 7.5), at 40&deg;C
+KCAT	Citrus x paradisi	0.6252	myricetin	*apparent value, in 50 mM phosphate buffer (pH 7.5), at 40&deg;C
+KCAT	Citrus x paradisi	1.047	quercetin	*apparent value, in 50 mM phosphate buffer (pH 7.5), at 40&deg;C
+KCAT	Glycine max	1.25	kaempferol	*recombinant enzyme, in 50 mM HEPES, at pH 8.0 and 30&deg;C
+KCAT	Citrus x paradisi	1.442	UDP-glucose	*apparent value, in 50 mM phosphate buffer (pH 7.5), at 40&deg;C
+KCAT	Camellia sinensis	3.11	myricetin	*pH 7.5, 30&deg;C
+KCAT	Camellia sinensis	3.32	quercetin	*pH 7.5, 30&deg;C
+KCAT	Camellia sinensis	3.61	UDP-glucose	*pH 7.5, 30&deg;C
+KCAT	Camellia sinensis	6.75	kaempferol	*pH 7.5, 30&deg;C

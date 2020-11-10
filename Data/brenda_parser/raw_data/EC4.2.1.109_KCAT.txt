@@ -1,0 +1,1 @@
+ecNumber*4.2.1.109#turnoverNumber*16.5#turnoverNumberMaximum*#substrate*S-methyl-5-thio-D-ribulose 1-phosphate#commentary*#organism*Bacillus subtilis#ligandStructureId*13824#literature*691391#

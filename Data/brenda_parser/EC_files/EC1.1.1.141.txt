@@ -1,0 +1,25 @@
+KCAT	Homo sapiens	6.1	prostaglandin E2	*pH 8.0, 25&deg;C, 20 nM [1-(3-methylphenyl)-1H-benzimidazol-5-yl](piperidin-1-yl)methanone
+KCAT	Homo sapiens	7.5	prostaglandin E2	*pH 8.0, 25&deg;C, 10 nM 3-(2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)-6,7,8,9-tetrahydro-5H-[1,2,4]triazolo[4,3-a]azepine
+KCAT	Homo sapiens	10.3	prostaglandin E2	*pH 8.0, 25&deg;C, 10 nM [1-(3-methylphenyl)-1H-benzimidazol-5-yl](piperidin-1-yl)methanone
+KCAT	Homo sapiens	11.1	prostaglandin E2	*pH 8.0, 25&deg;C, 4 nM 3-(2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)-6,7,8,9-tetrahydro-5H-[1,2,4]triazolo[4,3-a]azepine
+KCAT	Homo sapiens	12.4	prostaglandin E2	*pH 8.0, 25&deg;C, 10 nM 2-([(6-bromo-4H-imidazo[4,5-b]pyridin-2-yl)sulfanyl]methyl)benzonitrile
+KCAT	Homo sapiens	13.6	prostaglandin E2	*pH 8.0, 25&deg;C
+KCAT	Homo sapiens	14.1	prostaglandin E2	*pH 8.0, 25&deg;C, 10 nM 2-([(6-bromo-4H-imidazo[4,5-b]pyridin-2-yl)sulfanyl]methyl)benzonitrile
+KCAT	Homo sapiens	35	NAD+	*37&deg;C, pH 7.5, V186K mutant
+KCAT	Homo sapiens	37	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5, V186K mutant
+KCAT	Homo sapiens	42	NAD+	*37&deg;C, pH 7.5, N91D mutant
+KCAT	Homo sapiens	45	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5, N91D mutant
+KCAT	Homo sapiens	47	NAD+	*37&deg;C, pH 7.5
+KCAT	Homo sapiens	50	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5
+KCAT	Homo sapiens	70	NAD+	*37&deg;C, pH 7.5, V186A mutant
+KCAT	Homo sapiens	73	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5, N91A mutant
+KCAT	Homo sapiens	78	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5, V186A mutant
+KCAT	Homo sapiens	91	NAD+	*37&deg;C, pH 7.5, N91A mutant
+KCAT	Homo sapiens	110	NAD+	*37&deg;C, pH 7.5, I17V mutant
+KCAT	Homo sapiens	127	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5, I17A mutant
+KCAT	Homo sapiens	129	NAD+	*37&deg;C, pH 7.5, I17A mutant
+KCAT	Homo sapiens	143	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5, I17V mutant
+KCAT	Homo sapiens	165	NAD+	*37&deg;C, pH 7.5, I17L mutant
+KCAT	Homo sapiens	210	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5, I17L mutant
+KCAT	Homo sapiens	247	NAD+	*37&deg;C, pH 7.5, V186I mutant
+KCAT	Homo sapiens	262	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	*37&deg;C, pH 7.5, V186I mutant

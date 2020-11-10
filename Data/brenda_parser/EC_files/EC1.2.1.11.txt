@@ -1,0 +1,26 @@
+KCAT	Candida albicans	0.12	L-aspartate 4-semialdehyde	*pH and temperature not specified in the publication
+KCAT	Haemophilus influenzae	0.24	L-aspartate-4-semialdehyde	*recombinant mutant R103L
+KCAT	Haemophilus influenzae	0.4	L-aspartate-4-semialdehyde	*recombinant mutant R270K
+KCAT	Haemophilus influenzae	1.2	L-aspartate-4-semialdehyde	*recombinant mutant R103K
+KCAT	Streptococcus pneumoniae	2	L-aspartate-semialdehyde	*
+KCAT	Haemophilus influenzae	3.2	L-aspartate-4-semialdehyde	*recombinant mutant H277N, pH 9.0, 30&deg;C
+KCAT	Haemophilus influenzae	3.2	NADP+	*recombinant mutant H277N, pH 9.0, 30&deg;C
+KCAT	Haemophilus influenzae	3.2	phosphate	*recombinant mutant H277N, pH 9.0, 30&deg;C
+KCAT	Haemophilus influenzae	4	L-aspartate-4-semialdehyde	*recombinant mutant E243D
+KCAT	Mycobacterium tuberculosis	8.49	NADP+	*recombinant enzyme, pH 9.0, 30&deg;C
+KCAT	Escherichia coli	9.5	NAD+	*recombinant wild-type enzyme, pH 9.0, 30&deg;C
+KCAT	Haemophilus influenzae	11	L-aspartate-4-semialdehyde	*recombinant mutant K246L
+KCAT	Escherichia coli	13.4	NADP+	*recombinant mutant Q350N/H171A, pH 9.0, 30&deg;C
+KCAT	Arabidopsis thaliana	15.6	aspartyl phosphate	*
+KCAT	Escherichia coli	53.4	NADP+	*recombinant mutant Q350N, pH 9.0, 30&deg;C
+KCAT	Vibrio cholerae serotype O1	58	L-aspartate 4-semialdehyde	*gene II
+KCAT	Escherichia coli	86.2	NAD+	*recombinant mutant Q350N, pH 9.0, 30&deg;C
+KCAT	Escherichia coli	115.2	NAD+	*recombinant mutant Q350N/H171A, pH 9.0, 30&deg;C
+KCAT	Vibrio cholerae serotype O1	120	L-aspartate 4-semialdehyde	*gene I
+KCAT	Pseudomonas aeruginosa	160	L-aspartate 4-semialdehyde	*
+KCAT	Escherichia coli	258	NADP+	*recombinant wild-type enzyme, pH 9.0, 30&deg;C
+KCAT	Haemophilus influenzae	330	L-aspartate 4-semialdehyde	*
+KCAT	Haemophilus influenzae	330	L-aspartate-4-semialdehyde	*recombinant wild-type enzyme
+KCAT	Haemophilus influenzae	330	L-aspartate-4-semialdehyde	*recombinant wild-type enzyme, pH 9.0, 30&deg;C
+KCAT	Haemophilus influenzae	330	NADP+	*recombinant wild-type enzyme, pH 9.0, 30&deg;C
+KCAT	Haemophilus influenzae	330	phosphate	*recombinant wild-type enzyme, pH 9.0, 30&deg;C

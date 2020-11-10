@@ -1,0 +1,25 @@
+KCAT	Chromobacterium violaceum	0.05	5'-phosphoadenylyl-(3'-&gt;5')-adenosine	*pH 7.5, 3&deg;C
+KCAT	Debaryomyces hansenii	0.069	adenosine 3',5'-bisphosphate	*mutant enzyme E301K, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30&deg;C
+KCAT	Mycobacterium tuberculosis	0.24	D-fructose 1,6-bisphosphate	*in 50 mM Tris buffer, pH 8.5, 0.5 mM Mg2+
+KCAT	Mycobacterium tuberculosis	0.31	D-myo-inositol monophosphate	*in 50 mM Tris buffer, pH 8.5, 0.5 mM Mg2+
+KCAT	Escherichia coli	0.7	NADP+	*in 10 mM HEPES pH 7.0
+KCAT	Escherichia coli	1.1	D-fructose 1,6-bisphosphate	*in 10 mM HEPES pH 7.0
+KCAT	Escherichia coli	1.45	NADPH	*in 10 mM HEPES pH 7.0
+KCAT	Debaryomyces hansenii	1.465	adenosine 3',5'-bisphosphate	*mutant enzyme V131A, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30&deg;C
+KCAT	Debaryomyces hansenii	1.921	adenosine 3',5'-bisphosphate	*wild type enzyme, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30&deg;C
+KCAT	Debaryomyces hansenii	2.94	adenosine 3',5'-bisphosphate	*wild type enzyme, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30&deg;C
+KCAT	Chromobacterium violaceum	3.3	thymidine 3',5'-bisphosphate	*pH 7.5, 3&deg;C
+KCAT	Chromobacterium violaceum	4.2	2'-deoxyguanosine 3',5'-bisphosphate	*pH 7.5, 3&deg;C
+KCAT	Chromobacterium violaceum	4.3	2'-deoxythymidine 3',5'-bisphosphate	*pH 7.5, 3&deg;C
+KCAT	Chromobacterium violaceum	5.2	2'-deoxyuridine 3',5'-bisphosphate	*pH 7.5, 3&deg;C
+KCAT	Mycobacterium tuberculosis	5.4	adenosine 3',5'-bisphosphate	*in 50 mM Tris buffer, pH 8.5, 0.5 mM Mg2+
+KCAT	Chromobacterium violaceum	5.4	uridine 3',5'-bisphosphate	*pH 7.5, 3&deg;C
+KCAT	Debaryomyces hansenii	6.08	adenosine 3',5'-bisphosphate	*mutant enzyme V131A, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30&deg;C
+KCAT	Chromobacterium violaceum	7.1	2'-deoxyadenosine 3',5'-bisphosphate	*pH 7.5, 3&deg;C
+KCAT	Chromobacterium violaceum	9.4	2'-deoxycytidine 3',5'-bisphosphate	*pH 7.5, 3&deg;C
+KCAT	Saccharomyces cerevisiae	11	3'-phosphoadenosine 5'-phosphate	*pH 8.0, temperature not specified in the publication
+KCAT	Escherichia coli	11.4	adenosine 3',5'-bisphosphate	*in 10 mM HEPES pH 7.0
+KCAT	Chromobacterium violaceum	11.6	N6-methyl-5'-phosphoadenylyl-(3'-&gt;5')-adenosine	*pH 7.5, 3&deg;C
+KCAT	Chromobacterium violaceum	12.3	guanosine 3',5'-bisphosphate	*pH 7.5, 3&deg;C
+KCAT	Escherichia coli	13.2	adenosine 2',5'-bisphosphate	*in 10 mM HEPES pH 7.0
+KCAT	Chromobacterium violaceum	22	adenosine 3',5'-bisphosphate	*pH 7.5, 3&deg;C

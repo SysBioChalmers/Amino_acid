@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	250	P1,P4-bis(5'-adenosyl) tetraphosphate	*
+KCAT	Myxococcus xanthus	0.055	P1,P4-bis(adenosyl)tetraphosphate	*pH 8.0, 50&Acirc;&deg;C, presence of 1 mM Mn2+
+KCAT	Myxococcus xanthus	7.12	P1,P4-bis(adenosyl)tetraphosphate	*pH 8.0, 50&Acirc;&deg;C, presence of 1 mM Co2+
+KCAT	Myxococcus xanthus	0.035	P1,P5-bis(adenosyl)pentaphosphate	*pH 8.0, 50&Acirc;&deg;C, presence of 1 mM Mn2+
+KCAT	Myxococcus xanthus	24	P1,P5-bis(adenosyl)pentaphosphate	*pH 8.0, 50&Acirc;&deg;C, presence of 1 mM Co2+

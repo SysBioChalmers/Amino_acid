@@ -1,0 +1,1 @@
+ecNumber*2.1.1.207#turnoverNumber*0.0073#turnoverNumberMaximum*0.2#substrate*cytidine34 in tRNALeuCAA#commentary*wild-type tRNALeuCAA and diverse mutants thereof, pH 7.5, 37&Acirc;&deg;C#organism*Escherichia coli#ligandStructureId*#literature*737224#

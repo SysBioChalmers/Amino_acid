@@ -1,0 +1,1 @@
+ecNumber*1.14.20.10#turnoverNumber*5.1#turnoverNumberMaximum*#substrate*2-oxoglutarate#commentary*pH 7.8, 25&deg;C#organism*Xenorhabdus nematophila#ligandStructureId*34#literature*744334#

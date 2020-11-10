@@ -1,0 +1,45 @@
+KCAT	Gallus gallus	0.0512	D-threonine	*
+KCAT	Saccharomyces cerevisiae	0.08	D-serine	*pH not specified in the publication, 30&deg;C, mutant H398A
+KCAT	Saccharomyces cerevisiae	0.083	D-serine	*pH 8, 30&deg;C, mutant Y203E
+KCAT	Saccharomyces cerevisiae	0.097	D-serine	*pH 8, 30&deg;C, mutant Y203D
+KCAT	Saccharomyces cerevisiae	0.098	D-serine	*pH not specified in the publication, 30&deg;C, mutant K57A
+KCAT	Escherichia coli	0.112	D-allothreonine	*pH 5.7, 25&deg;C
+KCAT	Escherichia coli	0.12	L-Ser	*pH 5.8, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.13	D-allo-threonine	*pH not specified in the publication, 30&deg;C, wild-type
+KCAT	Escherichia coli	0.14	L-Ser	*pH 8.9, 25&deg;C
+KCAT	Escherichia coli	0.153	L-Ser	*pH 7.8, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.19	beta-Chloro-D-alanine	*pH not specified in the publication, 30&deg;C, wild-type
+KCAT	Gallus gallus	0.197	L-serine	*
+KCAT	Saccharomyces cerevisiae	0.22	beta-Chloro-D-alanine	*untreated
+KCAT	Saccharomyces cerevisiae	0.24	beta-Chloro-D-alanine	*EDTA-treated + 2.5 microM ZnCl2
+KCAT	Saccharomyces cerevisiae	0.32	beta-Chloro-D-alanine	*pH not specified in the publication, 30&deg;C, wild-type Zn2+-depleted enzyme
+KCAT	Saccharomyces cerevisiae	0.34	D-threonine	*EDTA-treated + 2.5 microM ZnCl2
+KCAT	Saccharomyces cerevisiae	0.39	beta-Chloro-D-alanine	*pH not specified in the publication, 30&deg;C, Zn2+-depleted mutant H398A
+KCAT	Saccharomyces cerevisiae	0.39	D-threonine	*pH not specified in the publication, 30&deg;C, wild-type
+KCAT	Saccharomyces cerevisiae	0.43	D-threonine	*untreated
+KCAT	Saccharomyces cerevisiae	0.48	beta-Chloro-D-alanine	*EDTA-treated
+KCAT	Saccharomyces cerevisiae	0.5	D-serine	*pH 8, 30&deg;C, mutant Y203R
+KCAT	Saccharomyces cerevisiae	0.69	beta-Chloro-D-alanine	*pH not specified in the publication, 30&deg;C, Zn2+-depleted mutant C400A
+KCAT	Saccharomyces cerevisiae	0.79	beta-Chloro-D-alanine	*pH not specified in the publication, 30&deg;C, native mutant H398A
+KCAT	Gallus gallus	0.811	D-serine	*
+KCAT	Escherichia coli	0.92	D-allothreonine	*pH 8.9, 25&deg;C
+KCAT	Escherichia coli	0.95	D-Thr	*pH 5.8, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.96	beta-Chloro-D-alanine	*pH not specified in the publication, 30&deg;C, native mutant C400A
+KCAT	Saccharomyces cerevisiae	1.67	D-serine	*EDTA-treated
+KCAT	Escherichia coli	1.8	L-allothreonine	*pH 7.8, 25&deg;C
+KCAT	Saccharomyces cerevisiae	2.3	D-serine	*pH 8, 30&deg;C, mutant Y203A; pH 8, 30&deg;C, mutant Y203S
+KCAT	Dictyostelium discoideum	2.6	D-serine	*pH 8.5, 30&deg;C
+KCAT	Saccharomyces cerevisiae	4.3	D-serine	*pH 8, 30&deg;C, mutant Y203F
+KCAT	Gallus gallus	6.08	D-serine	*
+KCAT	Escherichia coli	9.4	D-Ser	*pH 5.7, 25&deg;C
+KCAT	Saccharomyces cerevisiae	12.5	D-serine	*EDTA-treated + 2.5 microM ZnCl2
+KCAT	Saccharomyces cerevisiae	13.1	D-serine	*untreated
+KCAT	Saccharomyces cerevisiae	13.1	D-serine	*pH and temperature not specified in the publication
+KCAT	Escherichia coli	15.7	D-serine	*
+KCAT	Saccharomyces cerevisiae	17	D-serine	*pH not specified in the publication, 30&deg;C, wild-type
+KCAT	Saccharomyces cerevisiae	17	D-serine	*pH 8, 30&deg;C, wild-type
+KCAT	Escherichia coli	17.2	L-Thr	*pH 8.9, 25&deg;C
+KCAT	Escherichia coli	19.6	L-Thr	*pH 7.8, 25&deg;C
+KCAT	Escherichia coli	30	D-Ser	*pH 7.8, 5&deg;C
+KCAT	Escherichia coli	48	D-Ser	*pH 8.9, 25&deg;C
+KCAT	Escherichia coli	118	D-Ser	*pH 7.8, 25&deg;C

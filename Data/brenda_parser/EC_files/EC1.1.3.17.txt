@@ -1,0 +1,51 @@
+KCAT	Arthrobacter globiformis	0.09	O2	*pH 10.0, 25&Acirc;&deg;C, mutant N510A
+KCAT	Arthrobacter globiformis	0.33	O2	*mutant enzyme H351Q, in 50 mM potassium phosphate (pH 7.0), at 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	3.4	O2	*pH 10.0, 25&Acirc;&deg;C, mutant N510H
+KCAT	Arthrobacter globiformis	15	O2	*wild type enzyme, in 50 mM potassium phosphate (pH 7.0), at 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	0.02	choline	*pH 7.0, 25&Acirc;&deg;C, mutant N510L
+KCAT	Arthrobacter globiformis	0.03	choline	*pH 5.5, 25&Acirc;&deg;C, mutant H466A; pH 5.5, 25&Acirc;&deg;C, recombinant mutant H466A
+KCAT	Arthrobacter globiformis	0.06	choline	*pH 7.0, 25&Acirc;&deg;C, mutant N510A
+KCAT	Arthrobacter globiformis	0.07	choline	*pH 6.0, 25&Acirc;&deg;C, recombinant mutant H466A
+KCAT	Arthrobacter globiformis	0.09	choline	*pH 10.0, 25&Acirc;&deg;C, mutant N510A
+KCAT	Arthrobacter globiformis	0.21	choline	*pH 5.5, 25&Acirc;&deg;C, mutant H466A, presence of imidazole
+KCAT	Arthrobacter globiformis	0.37	choline	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant H466A
+KCAT	Arthrobacter globiformis	0.51	choline	*pH 7.0, 25&Acirc;&deg;C, mutant N510H
+KCAT	Arthrobacter globiformis	0.52	choline	*pH 7.0, 25&Acirc;&deg;C, mutant H466A, presence of imidazole
+KCAT	Arthrobacter globiformis	0.7	choline	*pH 10.0, 25&Acirc;&deg;C, mutant H466A, presence of imidazole
+KCAT	Arthrobacter globiformis	0.72	choline	*pH 8.0, 25&Acirc;&deg;C, recombinant mutant H466A
+KCAT	Arthrobacter globiformis	0.73	choline	*pH 10.0, 25&Acirc;&deg;C, mutant H466A; pH 10.0, 25&Acirc;&deg;C, recombinant mutant H466A
+KCAT	Arthrobacter globiformis	1.03	choline	*apparent, H99N mutant, substrate choline, pH 7, 25&Acirc;&deg;C. Measuring the rate of oxygen consumption with a computer-interfaced Oxy-32 oxygen monitoring system
+KCAT	Arthrobacter globiformis	1.1	choline	*pH 7.0, 25&Acirc;&deg;C, mutant H466A
+KCAT	Arthrobacter globiformis	1.86	choline	*H99N mutant, substrate choline, pH 7, 25&Acirc;&deg;C. Measuring the rate of oxygen consumption with a computer-interfaced Oxy-32 oxygen monitoring system
+KCAT	Arthrobacter globiformis	2.24	choline	*19&Acirc;&deg;C, pH 7.0
+KCAT	Arthrobacter globiformis	2.5	choline	*mutant enzyme F357A, at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Alcaligenes sp.	2.83	choline	*enzyme immobilized in polyethylenimine-coated silica-monolith, apparent value, pH and temperature not specified in the publication
+KCAT	Alcaligenes sp.	3	choline	*free enzyme, apparent value, pH and temperature not specified in the publication
+KCAT	Arthrobacter globiformis	3.4	choline	*pH 10.0, 25&Acirc;&deg;C, mutant N510H
+KCAT	Arthrobacter globiformis	4.4	choline	*pH 7.0, 25&Acirc;&deg;C, recombinant enzyme stored at pH 6.0, -20&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	4.4	choline	*previously stored at pH 6 and -20&Acirc;&deg;C, measured at pH 7 and 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	6.7	choline	*mutant enzyme S101A, in 50 mM sodium diphosphate, pH 10.0, at 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	6.8	choline	*mutant enzyme M62A/F357A, at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	12.5	choline	*mutant enzyme M62A, at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	13.3	choline	*pH 7.0, 25&Acirc;&deg;C, recombinant enzyme stored at pH 6.0, 0&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	13.3	choline	*previously stored at pH 6 and 0&Acirc;&deg;C, measured at pH 7 and 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	13.4	choline	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	13.4	choline	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Arthrobacter globiformis	14.9	choline	*pH 7.0, 25&Acirc;&deg;C, recombinant enzyme stored at pH 8.0, -20&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	14.9	choline	*previously stored at pH 8 and 0&Acirc;&deg;C, measured at pH 7 and 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	15.5	choline	*pH 7.0, 25&Acirc;&deg;C, recombinant enzyme stored at pH 8.0, 0&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	15.5	choline	*previously stored at pH 8 and -20&Acirc;&deg;C, measured at pH 7 and 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	20	choline	*wild type enzyme, at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	60	choline	*pH 10, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	60	choline	*wild type enzyme, in 50 mM sodium diphosphate, pH 10.0, at 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	61	choline	*pH 7.0, 25&Acirc;&deg;C, wild type
+KCAT	Arthrobacter globiformis	86	choline	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	43	Betaine aldehyde	*mutant enzyme S101A, in 50 mM sodium diphosphate, pH 10.0, at 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	133	Betaine aldehyde	*pH 10, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	133	Betaine aldehyde	*wild type enzyme, in 50 mM sodium diphosphate, pH 10.0, at 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	5.9	N,N-dimethylethanolamine	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	0.37	N-Methylethanolamine	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	1.71	betaine-aldehyde	*19&Acirc;&deg;C, pH 7.0
+KCAT	Arthrobacter globiformis	11.6	betaine-aldehyde	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	8	3,3-dimethyl-1-butanol	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	-999	more	*overall turnover of mutant variant about 60-fold decreased with choline compared to wild-type enzyme

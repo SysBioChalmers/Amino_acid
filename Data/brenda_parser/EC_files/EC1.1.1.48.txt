@@ -1,0 +1,2 @@
+KCAT	Pelomonas saccharophila	358	D-galactose	*
+KCAT	Pseudomonas fluorescens	1180	D-galactose	*

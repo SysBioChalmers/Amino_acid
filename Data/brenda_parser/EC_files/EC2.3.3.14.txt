@@ -1,0 +1,40 @@
+KCAT	Saccharomyces cerevisiae	-999	more	*the kcat for E155Q decreases at high pH, similar to the wild type enzyme, but is pH independent at low pH
+KCAT	Schizosaccharomyces pombe	0.18	acetyl-CoA	*mutant T197A
+KCAT	Thermus thermophilus	0.182	2-oxoglutarate	*wild-type enzyme, N-terminal His8 tag
+KCAT	Schizosaccharomyces pombe	0.2	2-oxoglutarate	*mutant T197A
+KCAT	Candida albicans	0.2	acetyl-CoA	*isoform Lys21p, at pH 7.5 and 22&deg;C; isoform Lys22p, at pH 7.5 and 22&deg;C
+KCAT	Thermus thermophilus	0.248	2-oxoglutarate	*H72L mutant, N-terminal His8 tag
+KCAT	Schizosaccharomyces pombe	0.3	2-oxoglutarate	*mutant H103A
+KCAT	Schizosaccharomyces pombe	0.33	acetyl-CoA	*mutant H103A
+KCAT	Schizosaccharomyces pombe	0.35	2-oxoglutarate	*mutant Y332F
+KCAT	Schizosaccharomyces pombe	0.39	acetyl-CoA	*mutant Y332F
+KCAT	Thermus thermophilus	0.517	acetyl-CoA	*H72L mutant, N-terminal His8 tag
+KCAT	Schizosaccharomyces pombe	0.56	2-oxoglutarate	*mutant Q47A
+KCAT	Schizosaccharomyces pombe	0.57	acetyl-CoA	*mutant R163K
+KCAT	Schizosaccharomyces pombe	0.58	acetyl-CoA	*mutant Q47A
+KCAT	Saccharomyces cerevisiae	0.617	2-oxoglutarate	*
+KCAT	Saccharomyces cerevisiae	0.617	acetyl-CoA	*
+KCAT	Aspergillus fumigatus	0.68	acetyl-CoA	*in 200 mM HEPES, pH 7.5, at 22&deg;C
+KCAT	Thermus thermophilus	0.683	acetyl-CoA	*wild-type enzyme, N-terminal His8 tag
+KCAT	Schizosaccharomyces pombe	0.74	acetyl-CoA	*mutant E74Q
+KCAT	Schizosaccharomyces pombe	0.78	2-oxoglutarate	*mutant E74Q
+KCAT	Schizosaccharomyces pombe	0.87	2-oxoglutarate	*mutant R163K
+KCAT	Thermus thermophilus	0.967	acetyl-CoA	*
+KCAT	Thermus thermophilus	0.967	oxaloacetate	*
+KCAT	Thermus thermophilus	1.53	acetyl-CoA	*reaction with 2-oxoglutarate
+KCAT	Schizosaccharomyces pombe	2.07	acetyl-CoA	*mutant T197S
+KCAT	Schizosaccharomyces pombe	2.28	2-oxoglutarate	*mutant T197S
+KCAT	Schizosaccharomyces pombe	2.63	acetyl-CoA	*mutant S165A
+KCAT	Schizosaccharomyces pombe	2.67	2-oxoglutarate	*mutant S165A
+KCAT	Schizosaccharomyces pombe	2.75	2-oxoglutarate	*mutant Q364R
+KCAT	Schizosaccharomyces pombe	2.833	acetyl-CoA	*mutant Q364R
+KCAT	Schizosaccharomyces pombe	3.183	2-oxoglutarate	*mutant E222Q
+KCAT	Schizosaccharomyces pombe	3.233	acetyl-CoA	*mutant R288K
+KCAT	Schizosaccharomyces pombe	3.333	2-oxoglutarate	*mutant R288K
+KCAT	Schizosaccharomyces pombe	3.583	acetyl-CoA	*mutant E222Q
+KCAT	Schizosaccharomyces pombe	3.617	2-oxoglutarate	*mutant D123N
+KCAT	Schizosaccharomyces pombe	3.617	acetyl-CoA	*mutant D123N
+KCAT	Schizosaccharomyces pombe	4.98	acetyl-CoA	*wild-type enzyme
+KCAT	Schizosaccharomyces pombe	4.983	acetyl-CoA	*wild-type
+KCAT	Schizosaccharomyces pombe	5.13	2-oxoglutarate	*wild-type enzyme
+KCAT	Schizosaccharomyces pombe	5.133	2-oxoglutarate	*wild-type

@@ -1,0 +1,32 @@
+KCAT	Rattus norvegicus	0.02	geranylgeranyl diphosphate	*
+KCAT	Homo sapiens	0.021	geranylgeranyl diphosphate	*at 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.34	geranylgeranyl diphosphate	*
+KCAT	Bos taurus	0.028	(biotin-CONH-(CH2)5-CO-)-NPFREKKFFCAI-Leu	*prenyl donor: geranylgeranyl diphosphate
+KCAT	Bos taurus	0.1	(biotin-CONH-(CH2)5-CO-)-NPFREKKFFCAI-Leu	*prenyl donor: farnesyl diphosphate
+KCAT	Bos taurus	0.12	(biotin-CONH-(CH2)5-CO-)-NPFREKKFFCAI-Leu	*prenyl donor: geranylgeranyl diphosphate
+KCAT	Homo sapiens	0.014	Ras-Cys-Val-Leu-Leu	*
+KCAT	Rattus norvegicus	0.02	Ras-Cys-Val-Leu-Leu	*
+KCAT	Escherichia coli	0.082	Thr-Lys-Cys-Val-Ile-Met	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.088	Thr-Lys-Cys-Val-Ile-Leu	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.06	Thr-Lys-Cys-Val-Ile-Phe	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.001	Thr-Lys-Cys-Val-Ile-Ser	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Homo sapiens	0.021	Asp-Asp-Pro-Thr-Ala-Ser-Ala-Cys-Val-Leu-Leu	*at 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.08	3,7,11-trimethyl-12-(7-nitro-benzo[1,2,5]-oxadiazo-4-ylamino)-dodeca-2,6,10-trien-1-diphosphate	*
+KCAT	Escherichia coli	0.001	Thr-Lys-Cys-Val-Ile-Ala	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.0063	Thr-Lys-Cys-Val-Ile-Cys	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.001	Thr-Lys-Cys-Val-Ile-Asp	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.048	Thr-Lys-Cys-Val-Ile-Ile	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.001	Thr-Lys-Cys-Val-Ile-Asn	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.001	Thr-Lys-Cys-Val-Ile-Gln	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.001	Thr-Lys-Cys-Val-Ile-Arg	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.001	Thr-Lys-Cys-Val-Ile-Thr	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.107	Thr-Lys-Cys-Val-Ile-Val	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Escherichia coli	0.022	Thr-Lys-Cys-Val-Ile-Tyr	*in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+KCAT	Bos taurus	-999	more	*comparison of kcat of CAAX-substrates with X is Leu, Phe or Ser
+KCAT	Saccharomyces cerevisiae	-999	more	*comparison of kcat of wild-type and mutant enzyme
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Bos taurus	0.0057	GST-CDC42	*prenyl donor: geranylgeranyl diphosphate
+KCAT	Homo sapiens	0.0113	N-Ras	*
+KCAT	Homo sapiens	0.0667	Ki-Ras4A	*
+KCAT	Homo sapiens	0.0767	Ki-Ras4B	*
+KCAT	Homo sapiens	0.08	GST-RhoA	*

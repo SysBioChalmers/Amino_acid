@@ -1,0 +1,3 @@
+KCAT	Burkholderia glumae	1.11	(E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate	*pH 8, temperature not specified in the publication
+KCAT	Burkholderia glumae	3.11	(E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate	*pH 8, temperature not specified in the publication
+KCAT	Aquifex aeolicus	3.7	(E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate	*recombinant enzyme, pH 7.5, 60&Acirc;&deg;C

@@ -1,0 +1,4 @@
+KCAT	Leuconostoc lactis	0.7	(S)-2-Hydroxy-2-methyl-3-oxobutanoate	*pH 6
+KCAT	Bacillus subtilis	2.2	DL-2-hydroxy-2-methyl-3-oxobutanoate	*at pH 6.0 and 30&deg;C
+KCAT	Lactobacillus casei	5.57	2-Hydroxy-2-methyl-3-oxobutanoate	*
+KCAT	Leuconostoc lactis	66.67	(S)-2-Hydroxy-2-methyl-3-oxobutanoate	*pH 6

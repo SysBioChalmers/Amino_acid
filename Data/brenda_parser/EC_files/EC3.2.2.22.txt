@@ -1,0 +1,44 @@
+KCAT	Ricinus communis	0.000333	rRNA	*pH 7.6, 37&deg;C, rat liver naked 28 S rRNA
+KCAT	Ricinus communis	0.0005	rRNA	*pH 7.6, 37&deg;C, Escherichia coli naked 23 S rRNA
+KCAT	Ricinus communis	0.0007	5'-G1C2G3C4dG5A6dG7A8G9C10G11C12-3'	*37&deg;C
+KCAT	Ricinus communis	0.001	5'-G1C2G3C4mG5A6G7A8G9C10G11C12-3'	*37&deg;C
+KCAT	Ricinus communis	0.0012	sarcin/ricin domains of Escherichia coli 23S rRNA	*pH 5.0
+KCAT	Ricinus communis	0.0015	5'-dG1dC2dG3dC4dG5dA6G7dA8dG9dC10dG11dC12-3'	*37&deg;C
+KCAT	Ricinus communis	0.0018	sarcin/ricin domains of Rattus norvegicus 28S rRNA	*pH 5.0
+KCAT	Ricinus communis	0.003	GdAGA	*pH 4.0, 37&deg;C
+KCAT	Ricinus communis	0.0038	5'-dG1dC2dG3dC4G5dA6dG7dA8dG9dC10dG11dC12-3'	*37&deg;C
+KCAT	Ricinus communis	0.0045	dGdAdGdA	*pH 4.0, 37&deg;C
+KCAT	Ricinus communis	0.005	5'-G1C2G3C4dG5A6G7A8G9C10G11C12-3'	*37&deg;C
+KCAT	Ricinus communis	0.005	5'-G1C2G3C4G5A6mG7A8G9C10G11C12-3'	*37&deg;C
+KCAT	Ricinus communis	0.0083	5'-dG1dC2dG3dC4dG5A6dG7dA8dG9dC10dG11dC12-3'	*37&deg;C
+KCAT	Ricinus communis	0.0083	dGdCdGdCdGdAdGdAdGdCdGdC	*pH 4.0, 37&deg;C
+KCAT	Ricinus communis	0.01	5'-G1C2G3C4dG5A6G7dA8G9C10G11C12-3'	*37&deg;C
+KCAT	Escherichia coli	0.01	rRNA	*pH 7.4, 28&deg;C, Artemia salina ribosomes, untreated holotoxin
+KCAT	Ricinus communis	0.011	5'-G1C2G3C4G5A6dG7A8G9C10G11C12-3'	*37&deg;C
+KCAT	Ricinus communis	0.015	5'-dG1dC2dG3dC4dG5dA6dG7A8dG9dC10dG11dC12-3'	*37&deg;C
+KCAT	Ricinus communis	0.018	cyclic dG-(N-benzyl-aza-deoxyribosyl)-dGdA	*pH 4.0, 37&deg;C
+KCAT	Ricinus communis	0.018	cyclic GdAGA	*pH 4.0, 37&deg;C
+KCAT	Ricinus communis	0.055	5'-G1C2G3C4G5A6G7dA8G9C10G11C12-3'	*37&deg;C
+KCAT	Saponaria officinalis	0.058	A-10 RNA	*saporin-S6, pH 7.7, 20&deg;C
+KCAT	Ricinus communis	0.07	5'-G1C2G3C4G5mA6G7A8G9C10G11C12-3'	*37&deg;C
+KCAT	Ricinus communis	0.078	stem-loop substrate A-10	*pH 4.0
+KCAT	Ricinus communis	0.085	5'-G1C2G3C4G5A6G7mA8G9C10G11C12-3'	*37&deg;C
+KCAT	Escherichia coli	0.0933	rRNA	*pH 7.4, 28&deg;C, Artemia salina ribosomes, untreated A subunit
+KCAT	Ricinus communis	0.108	cyclic dGdAdGdA	*pH 4.0, 37&deg;C
+KCAT	Ricinus communis	0.15	cyclic phosphorothioyl dGdAdGdA	*pH 4.0, 37&deg;C
+KCAT	Saponaria officinalis	1.02	Poly(A)	*pH 7.8, 25&deg;C
+KCAT	Saponaria officinalis	1.02	Poly(A)	*saporin-L1, pH 7.8, 20&deg;C
+KCAT	Ricinus communis	1.68	5'-G1C2G3C4G5A6G7A8G9C10G11C12-3'	*37&deg;C
+KCAT	Saponaria officinalis	3.05	Poly(A)	*pH6.0, 30&deg;C
+KCAT	Saponaria officinalis	4.88	linear GAGA	*saporin-L1, pH 7.7, 20&deg;C
+KCAT	Saponaria officinalis	5.01	cyclic oxime GAGA	*saporin-L1, pH 7.7, 20&deg;C
+KCAT	Saponaria officinalis	7.33	A-10 RNA	*saporin-L1, pH 7.7, 20&deg;C
+KCAT	Escherichia coli	10.7	rRNA	*pH 7.4, 28&deg;C, Artemia salina ribosomes, A subunit treated with trypsin, urea and dithiothreitol
+KCAT	Escherichia coli	11.6	rRNA	*pH 7.4, 28&deg;C, Artemia salina ribosomes, A subunit treated with urea and dithiothreitol
+KCAT	Escherichia coli	12.8	rRNA	*pH 7.4, 28&deg;C, Artemia salina ribosomes, holotoxin treated with trypsin, urea and dithiothreitol
+KCAT	Ricinus communis	18.5	A-14 2-dA stem-loop RNA/DNA hybrid	*pH 4.0
+KCAT	Ricinus communis	27.67	5'-G1C2G3C4G5dA6G7A8G9C10G11C12-3'	*37&deg;C
+KCAT	Ricinus communis	29.6	rRNA	*pH 7.6, 37&deg;C, rat liver 80S ribosome
+KCAT	Ricinus communis	29.6	rRNA	*
+KCAT	Ricinus communis	29.6	rRNA	*ricin A chain, 37&deg;C, presence of 50 mM KCl, 1 mM MgCl2
+KCAT	Saponaria officinalis	62	rRNA	*37&deg;C, presence of 50 mM KCl, 1 mM MgCl2

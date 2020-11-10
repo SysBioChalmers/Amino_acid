@@ -1,0 +1,9 @@
+KCAT	Homo sapiens	8.1	Mca-PLGL-[3-DNP-2,3-DAP]-AR-NH2	*at 37&Acirc;&deg;C
+KCAT	Bos taurus	9	Mca-PLGL-[3-DNP-2,3-DAP]-AR-NH2	*at 37&Acirc;&deg;C
+KCAT	Homo sapiens	8.1	Mca-PLGL-Dpa-AR	*37&Acirc;&deg;C
+KCAT	Bos taurus	9	Mca-PLGL-Dpa-AR	*37&Acirc;&deg;C
+KCAT	Homo sapiens	0.031	amelogenin	*presence of 33.4 mM CaCl2 and 20.9 mM KH2PO4, pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.056	amelogenin	*presence 20.9 mM KH2PO4, pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.058	amelogenin	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.068	amelogenin	*presence of 3.34 mM CaCl2 and 2.09 mM KH2PO4, pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.77	amelogenin	*presence of 33.4 mM CaCl2, pH 7.4, 37&Acirc;&deg;C

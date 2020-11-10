@@ -1,0 +1,1 @@
+ecNumber*3.2.1.163#turnoverNumber*4.9#turnoverNumberMaximum*#substrate*4-methylumbelliferyl alpha-D-mannopyranosyl-(1-&gt;6)-beta-D-mannopyranoside#commentary*pH 7.4, 37&deg;C#organism*Clostridium perfringens#ligandStructureId*202178#literature*731471#

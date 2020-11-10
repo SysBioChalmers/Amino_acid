@@ -1,0 +1,1 @@
+ecNumber*3.6.1.40#turnoverNumber*1.1#turnoverNumberMaximum*#substrate*Polyphosphate#commentary*#organism*Escherichia coli#ligandStructureId*928#literature*209848#!ecNumber*3.6.1.40#turnoverNumber*0.023#turnoverNumberMaximum*#substrate*guanosine 5'-triphosphate,3'-diphosphate#commentary*#organism*Escherichia coli#ligandStructureId*20291#literature*209848#

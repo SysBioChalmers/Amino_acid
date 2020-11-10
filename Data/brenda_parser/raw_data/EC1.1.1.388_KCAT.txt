@@ -1,0 +1,1 @@
+ecNumber*1.1.1.388#turnoverNumber*0.18#turnoverNumberMaximum*#substrate*NAD+#commentary*pH 7.5, 42&deg;C#organism*Haloferax volcanii#ligandStructureId*7#literature*729742#!ecNumber*1.1.1.388#turnoverNumber*5.4#turnoverNumberMaximum*#substrate*D-glucose 6-phosphate#commentary*pH 7.5, 42&deg;C#organism*Haloferax volcanii#ligandStructureId*105#literature*729742#

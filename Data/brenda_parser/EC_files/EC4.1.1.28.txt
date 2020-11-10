@@ -1,0 +1,27 @@
+KCAT	Sus scrofa	-999	more	*mutant T246A presents a decarboxylase activity, the kcat value is decreased by 29fold with respect to wild-type; When 50 microM Y332F DDC is mixed with 0.1 mM L-dopa under single turnover conditions up to 4 sec a gradual conversion of the pyridoxal 5'-phosphate of the enzyme takes place concomitantly to pyridoxamine 5'-phosphate and aldehyde formation while L-dopa is consumed. After 3.6 sec, 23% of the original pyridoxal 5'-phosphate is converted into pyridoxamine 5'-phosphate and 25% of the original L-dopa is transformed into 3,4-dihydroxyphenylacetaldehyde. A pyridoxamine 5'-phosphate intermediate forms during the first catalytic cycle.
+KCAT	Homo sapiens	0.07	L-Dopa	*wild type enzyme, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Homo sapiens	0.11	L-Dopa	*aldehyde formation, mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Homo sapiens	0.188	L-Dopa	*dopamine formation, mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Sus scrofa	0.67	5-hydroxy-L-tryptophan	*wild-type enzyme
+KCAT	Homo sapiens	0.7	dopamine	*mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Solanum lycopersicum	0.7	L-tyrosine	*at pH 7.9
+KCAT	Sus scrofa	0.99	L-5-hydroxytryptophan	*pH 7.5, 25&deg;C, anaerobiosis
+KCAT	Pseudomonas putida	1.8	L-Dopa	*pH 8., 30&deg;C
+KCAT	Sus scrofa	1.99	L-5-hydroxytryptophan	*pH 7.5, 25&deg;C, aerobiosis
+KCAT	Homo sapiens	2.48	dopamine	*wild type enzyme, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Sus scrofa	2.57	L-Dopa	*pH 7.5, 25&deg;C, anaerobiosis
+KCAT	Sus scrofa	2.94	L-5-hydroxytryptophan	*pH 7.5, 25&deg;C, aerobiosis
+KCAT	Sus scrofa	3	5-fluoro-DOPA	*pH 6.8, 25&deg;C
+KCAT	Sus scrofa	3	L-Dopa	*pH 7.5, 25&deg;C, anaerobiosis
+KCAT	Sus scrofa	3.13	L-Dopa	*pH 7.5, 25&deg;C, aerobiosis
+KCAT	Sus scrofa	3.47	5-fluoro-DOPA	*pH 6.8, 25&deg;C
+KCAT	Sus scrofa	4.26	L-Dopa	*pH 7.5, 25&deg;C, aerobiosis
+KCAT	Sus scrofa	4.5	L-Dopa	*Y332F DDC mutant, reaction in 50 mM Hepes, pH 7.5, at 25&deg;C causes the production of ammonia and 3,4-dihydroxyphenylacetaldehyde along with the consumption of molecular oxygen in a 1:2 molar ratio
+KCAT	Homo sapiens	5.1	L-Dopa	*decarboxylation reaction, pH and temperature not specified in the publication
+KCAT	Sus scrofa	5.2	2-fluoro-DOPA	*pH 6.8, 25&deg;C
+KCAT	Sus scrofa	5.8	L-Dopa	*decarboxylation reaction, pH and temperature not specified in the publication
+KCAT	Sus scrofa	6.08	L-5-hydroxytryptophan	*pH 7.5, 25&deg;C, anaerobiosis
+KCAT	Rattus norvegicus	6.3	L-Dopa	*decarboxylation reaction, pH and temperature not specified in the publication
+KCAT	Sus scrofa	8.2	6-fluoro-DOPA	*pH 6.8, 25&deg;C
+KCAT	Sus scrofa	8.8	L-Dopa	*wild-type enzyme
+KCAT	Sus scrofa	9.1	L-Dopa	*pH 6.8, 25&deg;C

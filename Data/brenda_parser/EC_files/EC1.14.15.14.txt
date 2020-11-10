@@ -1,0 +1,2 @@
+KCAT	Mycobacterium tuberculosis	0.195	cholest-4-en-3-one	*at pH 7.5 and 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.258	farnesol	*at pH 7.5 and 25&deg;C

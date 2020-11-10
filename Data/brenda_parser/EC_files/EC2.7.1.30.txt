@@ -1,0 +1,4 @@
+KCAT	Candida mycoderma	1670	glycerol	*
+KCAT	Cellulomonas sp.	2500	glycerol	*mutant enzyme A344V/T386I/F388Y, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Cellulomonas sp.	2600	glycerol	*mutant enzyme T386I/F388Y, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Cellulomonas sp.	4900	glycerol	*wild type enzyme, at pH 7.5 and 37&Acirc;&deg;C

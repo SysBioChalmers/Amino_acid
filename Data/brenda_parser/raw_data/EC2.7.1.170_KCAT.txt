@@ -1,0 +1,1 @@
+ecNumber*2.7.1.170#turnoverNumber*7000#turnoverNumberMaximum*#substrate*1,6-anhydro-N-acetyl-beta-muramate#commentary*pH and temperature not specified in the publication#organism*Escherichia coli#ligandStructureId*27694#literature*738435#

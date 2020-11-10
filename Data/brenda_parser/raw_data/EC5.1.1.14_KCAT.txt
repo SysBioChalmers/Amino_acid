@@ -1,0 +1,1 @@
+ecNumber*5.1.1.14#turnoverNumber*0.35#turnoverNumberMaximum*#substrate*nocardicin A#commentary*#organism*Nocardia uniformis#ligandStructureId*6570#literature*662262#!ecNumber*5.1.1.14#turnoverNumber*0.59#turnoverNumberMaximum*#substrate*isonocardicin A#commentary*#organism*Nocardia uniformis#ligandStructureId*10679#literature*662262#

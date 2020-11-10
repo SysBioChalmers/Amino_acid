@@ -1,0 +1,40 @@
+KCAT	Mycobacterium tuberculosis	0.02	(phosphate)45	*polyphosphate synthesis reaction, in 50 mM Tris-HCl (pH 8.5), 1 mM MnCl2, at 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.02	(phosphate)65	*polyphosphate synthesis reaction, in 50 mM Tris-HCl (pH 8.5), 1 mM MnCl2, at 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.05	ATP	*50 mM Tris-HCl (pH 8.5), 1 mM MnCl2, at 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.08	GTP	*50 mM Tris-HCl (pH 8.5), 1 mM MnCl2, at 25&deg;C
+KCAT	Escherichia coli	0.0883	GDP	*pH 7.2, 37&deg;C
+KCAT	Escherichia coli	0.117	UDP	*pH 7.2, 37&deg;C
+KCAT	Escherichia coli	0.167	CDP	*pH 7.2, 37&deg;C
+KCAT	Escherichia coli	0.482	GDP	*pH 7.5, 37&deg;C, guanosine 5'-tetraphosphate synthesis
+KCAT	Escherichia coli	1.04	Polyphosphate	*pH 7.5, 37&deg;C, guanosine 5'-tetraphosphate synthesis
+KCAT	Francisella tularensis subsp. tularensis	1.46	ATP	*pH 8.0, 37&deg;C
+KCAT	Francisella tularensis subsp. tularensis	2.77	GTP	*pH 8.0, 37&deg;C
+KCAT	Francisella tularensis subsp. tularensis	3.17	ADP	*pH 8.0, 37&deg;C
+KCAT	Francisella tularensis subsp. tularensis	3.69	GDP	*pH 8.0, 37&deg;C
+KCAT	Ruegeria pomeroyi	4.18	GDP	*pH 8.0, 30&deg;C, recombinant isozyme PPK2-1
+KCAT	Ruegeria pomeroyi	4.9	UDP	*pH 8.0, 30&deg;C, recombinant isozyme PPK2-3
+KCAT	Ruegeria pomeroyi	5.22	ADP	*pH 8.0, 30&deg;C, recombinant isozyme PPK2-2
+KCAT	Escherichia coli	10.5	ADP	*pH 7.2, 37&deg;C
+KCAT	Escherichia coli	23.6	ATP	*
+KCAT	Corynebacterium glutamicum	34	GTP	*pH 7.2, 30&deg;C, recombinant wild-type enzyme
+KCAT	Mycobacterium tuberculosis	41.9	ADP	*50 mM Tris-HCl (pH 8.5), 30 mM MgCl2, at 25&deg;C
+KCAT	Corynebacterium glutamicum	43	ITP	*pH 7.2, 30&deg;C, recombinant wild-type enzyme
+KCAT	Mycobacterium tuberculosis	44.6	ATP	*mutant H510Q of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	45	ATP	*mutant H480Q of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	45.6	ATP	*mutant H480A of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	46.9	ATP	*isoform PPK1, pH and temperature not specified in the publication
+KCAT	Neisseria meningitidis	47	phosphate	*
+KCAT	Mycobacterium tuberculosis	50	(phosphate)45	*polyphosphate utilization reaction, in 50 mM Tris-HCl (pH 8.5), 30 mM MgCl2, at 25&deg;C
+KCAT	Mycobacterium tuberculosis	53	(phosphate)65	*polyphosphate utilization reaction, in 50 mM Tris-HCl (pH 8.5), 30 mM MgCl2, at 25&deg;C
+KCAT	Mycobacterium tuberculosis	55	ATP	*mutant Y524A of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	55.4	ATP	*mutant H510A of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	74	ATP	*pH 7.2, 30&deg;C, recombinant wild-type enzyme
+KCAT	Corynebacterium glutamicum	77	Polyphosphate	*pH 7.2, 30&deg;C, recombinant wild-type enzyme
+KCAT	Mycobacterium tuberculosis	210	ADP	*isoform PPK2, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	332	ADP	*mutant H510A of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	622	ADP	*mutant H510Q of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	645	GDP	*isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	943	ADP	*isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	950	ADP	*mutant H480A of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	971	ADP	*mutant H480Q of isoform PPK1, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	994	ADP	*mutant Y524A of isoform PPK1, pH and temperature not specified in the publication

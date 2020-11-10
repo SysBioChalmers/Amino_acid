@@ -1,0 +1,5 @@
+KCAT	Moorella thermoacetica	10.6	cyanuric acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Acidovorax citrulli	14.2	cyanuric acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Pseudomonas sp. ADP	15.5	cyanuric acid	*pH 9, 22&Acirc;&deg;C, purified from Pseudomonas sp. ADP
+KCAT	Pseudomonas sp.	73	cyanuric acid	*pH 8.0, 22&Acirc;&deg;C
+KCAT	Pseudomonas sp.	250	cyanuric acid	*strain A, pH 8.0

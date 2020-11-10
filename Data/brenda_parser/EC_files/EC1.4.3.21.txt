@@ -1,0 +1,92 @@
+KCAT	Arthrobacter globiformis	1.13	O2	*pH 6.8, 30&Acirc;&deg;C, Ni2+-substituted enzyme
+KCAT	Arthrobacter globiformis	1.24	O2	*pH 6.8, 30&Acirc;&deg;C, Co2+-substituted enzyme
+KCAT	Ogataea angusta	2.1	O2	*Co-substituted enzyme
+KCAT	Pisum sativum	7.1	O2	*cobalt-substituted wild type enzyme, with putrescine as cosubstrate, in 100 mM potassium phosphate buffer, pH 7.2, 37&Acirc;&deg;C
+KCAT	Ogataea angusta	7.8	O2	*wild-type enzyme
+KCAT	Pisum sativum	99	O2	*copper-reconstituted wild type enzyme, with putrescine as cosubstrate, in 100 mM potassium phosphate buffer, pH 7.2, 37&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	110	O2	*pH 6.8, 30&Acirc;&deg;C, native copper protein
+KCAT	Pisum sativum	152	O2	*wild type enzyme, with putrescine as cosubstrate, in 100 mM potassium phosphate buffer, pH 7.2, 37&Acirc;&deg;C
+KCAT	Paenarthrobacter aurescens	0.0429	spermidine	*isoform AMAO2, in 100 mM potassium phosphate buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Huperzia serrata	2.3	spermidine	*in 50 mM Tris-HCl buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Huperzia serrata	1.9	putrescine	*in 50 mM Tris-HCl buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Pisum sativum	82	putrescine	*copper-reconstituted wild type enzyme, in 100 mM potassium phosphate buffer, pH 7.2, 37&Acirc;&deg;C
+KCAT	Pisum sativum	160	putrescine	*wild type enzyme, in 100 mM potassium phosphate buffer, pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.54	dopamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Rhodococcus opacus	1.9	dopamine	*isoform AO2, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Paenarthrobacter aurescens	1.6	tyramine	*isoform AMAO3, in 100 mM potassium phosphate buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Paenarthrobacter aurescens	3.95	tyramine	*isoform AMAO2, in 100 mM potassium phosphate buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Lens culinaris	12.8	tyramine	*
+KCAT	Rhodococcus opacus	16.1	tyramine	*isoform AO2, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	35	tyramine	*in 50mM HEPES buffer, pH 6.8, at 15&Acirc;&deg;C
+KCAT	Rhodococcus opacus	0.4	methylamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Ogataea angusta	2.08	methylamine	*Co2+ reconstituted enzyme
+KCAT	Ogataea angusta	2.12	methylamine	*native enzyme
+KCAT	Ogataea angusta	2.18	methylamine	*isoform HPAO-2, at 25&Acirc;&deg;C, in 100 mM potassium phosphate, pH 7.2
+KCAT	Homo sapiens	5.6	methylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Ogataea angusta	6.2	methylamine	*isoform HPAO-1, at 25&Acirc;&deg;C, in 100 mM potassium phosphate, pH 7.2
+KCAT	Lens culinaris	2.7	tryptamine	*
+KCAT	Rhodococcus opacus	3.3	ethanolamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Ogataea angusta	0.066	benzylamine	*isoform HPAO-1, at 25&Acirc;&deg;C, in 100 mM potassium phosphate, pH 7.2
+KCAT	Ogataea angusta	0.066	benzylamine	*in 100 mM potassium phosphate, pH 7.2, temperature not specified in the publication
+KCAT	Arthrobacter globiformis	0.24	benzylamine	*in 50mM HEPES buffer, pH 6.8, at 15&Acirc;&deg;C
+KCAT	Huperzia serrata	1.4	benzylamine	*in 50 mM Tris-HCl buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.42	benzylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Ogataea angusta	8.1	benzylamine	*isoform HPAO-2, at 25&Acirc;&deg;C, in 100 mM potassium phosphate, pH 7.2
+KCAT	Rhodococcus opacus	12.1	benzylamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Sus scrofa	188	benzylamine	*
+KCAT	Paenarthrobacter aurescens	0.0619	cadaverine	*isoform AMAO2, in 100 mM potassium phosphate buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Huperzia serrata	1	cadaverine	*in 50 mM Tris-HCl buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Paenarthrobacter aurescens	0.46	histamine	*isoform AMAO3, in 100 mM potassium phosphate buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Huperzia serrata	1.8	histamine	*in 50 mM Tris-HCl buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Paenarthrobacter aurescens	5.91	histamine	*isoform AMAO2, in 100 mM potassium phosphate buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Rhodococcus opacus	13.2	histamine	*isoform AO2, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Ogataea angusta	0.16	ethylamine	*pH 7, 37&Acirc;&deg;C, mutant enzyme Y305F
+KCAT	Homo sapiens	6.12	ethylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Rhodococcus opacus	7.2	ethylamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Ogataea angusta	7.5	ethylamine	*pH 7, 37&Acirc;&deg;C, mutant enzyme Y305A
+KCAT	Ogataea angusta	20	ethylamine	*pH 7, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Ogataea angusta	20	ethylamine	*in 100 mM potassium phosphate, pH 7.2, temperature not specified in the publication
+KCAT	Homo sapiens	1.11	cysteamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	0.00021	2-Phenylethylamine	*pH 6.8, 30&Acirc;&deg;C, mutant enzyme D298A
+KCAT	Arthrobacter globiformis	0.63	2-Phenylethylamine	*pH 6.8, 30&Acirc;&deg;C, Ni-activated enzyme
+KCAT	Arthrobacter globiformis	0.92	2-Phenylethylamine	*pH 6.8, 30&Acirc;&deg;C, Co-activated enzyme
+KCAT	Arthrobacter globiformis	1.3	2-Phenylethylamine	*pH 6.8, 30&Acirc;&deg;C, Ni2+-substituted enzyme
+KCAT	Arthrobacter globiformis	1.51	2-Phenylethylamine	*pH 6.8, 30&Acirc;&deg;C, Co2+-substituted enzyme
+KCAT	Paenarthrobacter aurescens	1.72	2-Phenylethylamine	*isoform AMAO3, in 100 mM potassium phosphate buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Paenarthrobacter aurescens	5.12	2-Phenylethylamine	*isoform AMAO2, in 100 mM potassium phosphate buffer (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Escherichia coli	12.4	2-Phenylethylamine	*wild type enzyme, in 100 mM sodium phosphate buffer (pH 7.0), at 25&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	44	2-Phenylethylamine	*in 50mM HEPES buffer, pH 6.8, at 15&Acirc;&deg;C
+KCAT	Arthrobacter globiformis	75.7	2-Phenylethylamine	*pH 6.8, 30&Acirc;&deg;C, native copper protein
+KCAT	Arthrobacter globiformis	75.7	2-Phenylethylamine	*pH 6.8, 30&Acirc;&deg;C, Cu-activated enzyme
+KCAT	Arthrobacter globiformis	76	2-Phenylethylamine	*pH 6.8, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodococcus opacus	20.9	Phenylethylamine	*isoform AO2, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Homo sapiens	5.8	Propylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Rhodococcus opacus	18.9	Propylamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Rhodococcus opacus	4.3	Butylamine	*isoform AO2, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Homo sapiens	6.31	Butylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Rhodococcus opacus	15.3	Butylamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.00612	beta-phenylethylamine	*pH 8.0, mutant enzyme D383E
+KCAT	Escherichia coli	0.00937	beta-phenylethylamine	*pH 7.0, mutant enzyme D383E
+KCAT	Escherichia coli	0.01163	beta-phenylethylamine	*pH 5.5, mutant enzyme D383E
+KCAT	Escherichia coli	0.012	beta-phenylethylamine	*pH 6.0, mutant enzyme D383E
+KCAT	Escherichia coli	9.6	beta-phenylethylamine	*pH 5.5, wild-type enzyme
+KCAT	Escherichia coli	11.45	beta-phenylethylamine	*pH 5.75, wild-type enzyme
+KCAT	Escherichia coli	13.32	beta-phenylethylamine	*pH 7.5, wild-type enzyme
+KCAT	Escherichia coli	13.68	beta-phenylethylamine	*pH 8.0, wild-type enzyme
+KCAT	Escherichia coli	14.98	beta-phenylethylamine	*pH 7.0, wild-type enzyme
+KCAT	Escherichia coli	20.7	beta-phenylethylamine	*pH 6.0, wild-type enzyme
+KCAT	Escherichia coli	20.77	beta-phenylethylamine	*pH 6.5, wild-type enzyme
+KCAT	Rhodococcus opacus	3.5	octopamine	*isoform AO2, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Homo sapiens	1.12	phenethylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Huperzia serrata	3.1	4-aminomethylpyridine	*in 50 mM Tris-HCl buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	4.33	amylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Rhodococcus opacus	5.9	amylamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Rhodococcus opacus	12.7	amylamine	*isoform AO2, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Rhodococcus opacus	1	vanillylamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Homo sapiens	7.4	Isobutylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.46	aminoacetone	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Huperzia serrata	1.9	3-aminomethylpyridine	*in 50 mM Tris-HCl buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Huperzia serrata	2.9	2-aminoethylpyridine	*in 50 mM Tris-HCl buffer, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Rhodococcus opacus	17.3	4-fluorobenzylamine	*isoform AO1, in 200 mM potassium phosphate buffer pH 7.6, at 30&Acirc;&deg;C
+KCAT	Homo sapiens	6.89	Isoamylamine	*at pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.36	cyclohexanemethylamine	*at pH 7.4, 37&Acirc;&deg;C

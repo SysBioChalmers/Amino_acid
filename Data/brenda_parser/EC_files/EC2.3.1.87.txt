@@ -1,0 +1,52 @@
+KCAT	Drosophila melanogaster	0.043	Arachidonoyl-CoA	*pH 8.0, temperature not specified in the publication
+KCAT	Drosophila melanogaster	0.059	stearoyl-CoA	*pH 8.0, temperature not specified in the publication
+KCAT	Drosophila melanogaster	0.075	oleoyl-CoA	*pH 8.0, temperature not specified in the publication
+KCAT	Drosophila melanogaster	0.093	hexanoyl-CoA	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	0.1	histamine	*cosubstrate hexanoyl-CoA, wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	0.16	palmitoyl-CoA	*pH 8.0, temperature not specified in the publication
+KCAT	Drosophila melanogaster	0.53	butanoyl-CoA	*pH 8.0, temperature not specified in the publication
+KCAT	Drosophila melanogaster	0.66	butanoyl-CoA	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	0.87	histamine	*cosubstrate butanoyl-CoA, wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	1.01	acetyl-CoA	*mutant E26A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	1.3	acetyl-CoA	*pH 8.0, temperature not specified in the publication
+KCAT	Drosophila melanogaster	1.39	histamine	*mutant E26A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	1.61	acetyl-CoA	*mutant T167A/S171A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	1.84	acetyl-CoA	*mutant T167A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	1.9	histamine	*mutant T167A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	2.2	histamine	*mutant T167A/S171A, pH 8.0, 22&deg;C
+KCAT	Aedes aegypti	2.56	octopamine	*pH 7.3, 22&deg;C, recombinant aaNAT2
+KCAT	Aedes aegypti	3.05	tryptamine	*pH 7.3, 22&deg;C, recombinant aaNAT2
+KCAT	Aedes aegypti	3.16	tyramine	*pH 7.3, 22&deg;C, recombinant aaNAT2
+KCAT	Aedes aegypti	3.17	norepinephrine	*pH 7.3, 22&deg;C, recombinant aaNAT2
+KCAT	Aedes aegypti	3.47	serotonin	*pH 7.3, 22&deg;C, recombinant aaNAT2
+KCAT	Aedes aegypti	3.65	dopamine	*pH 7.3, 22&deg;C, recombinant aaNAT2
+KCAT	Aedes aegypti	3.74	methoxytryptamine	*pH 7.3, 22&deg;C, recombinant aaNAT2
+KCAT	Drosophila melanogaster	5.7	5-benzyloxytryptamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Aedes aegypti	6.775	tyramine	*pH 7.3, 22&deg;C, recombinant aaNAT1
+KCAT	Aedes aegypti	7.26	octopamine	*pH 7.3, 22&deg;C, recombinant aaNAT1
+KCAT	Aedes aegypti	7.3	dopamine	*pH 7.3, 22&deg;C, recombinant aaNAT1
+KCAT	Aedes aegypti	7.345	tryptamine	*pH 7.3, 22&deg;C, recombinant aaNAT1
+KCAT	Aedes aegypti	7.545	serotonin	*pH 7.3, 22&deg;C, recombinant aaNAT1
+KCAT	Aedes aegypti	7.69	methoxytryptamine	*pH 7.3, 22&deg;C, recombinant aaNAT1
+KCAT	Drosophila melanogaster	7.7	histamine	*mutant H206A, pH 8.0, 22&deg;C
+KCAT	Aedes aegypti	7.76	norepinephrine	*pH 7.3, 22&deg;C, recombinant aaNAT1
+KCAT	Drosophila melanogaster	8.6	acetyl-CoA	*mutant S171A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	9.6	acetyl-CoA	*mutant H206A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	10.4	histamine	*mutant S171A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	13.1	5-methoxytryptamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	16	octopamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	16	tryptamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	17	serotonin	*wild-type, pH 8.0, 22&deg;C
+KCAT	Homo sapiens	17.3	serotonin	*wild-type enzyme
+KCAT	Homo sapiens	20.3	serotonin	*wild-type enzyme with 14-3-3 protein
+KCAT	Drosophila melanogaster	21	dopamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Homo sapiens	25.9	serotonin	*wild-type enzyme with protein kinase A
+KCAT	Drosophila melanogaster	26	3-methoxyphenethylamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	29	beta-methylphenethylamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	30	histamine	*cosubstrate acetyl-CoA, wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	32	acetyl-CoA	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	40	3-(trifluoromethyl)phenethylamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	42	phenethylamine	*wild-type, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	71	histamine	*mutant R138A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	88	acetyl-CoA	*mutant R138A, pH 8.0, 22&deg;C
+KCAT	Drosophila melanogaster	238	tyramine	*wild-type, pH 8.0, 22&deg;C

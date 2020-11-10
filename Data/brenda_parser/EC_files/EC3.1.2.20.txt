@@ -1,0 +1,181 @@
+KCAT	Streptomyces chartreusis	0.021	acetyl-CoA	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.054	acetyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.55	acetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	1.3	acetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Mus musculus	24	acetyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Mus musculus	0.014	malonyl-CoA	*
+KCAT	Streptomyces chartreusis	0.017	malonyl-CoA	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.066	malonyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	3.3	malonyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Mus musculus	9.6	malonyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Streptomyces chartreusis	0.0009	palmitoyl-CoA	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.0044	palmitoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	0.0066	palmitoyl-CoA	*in the presence of StarD2 protein in a molar ratio StarD2/Them2 of 1.0
+KCAT	Mus musculus	0.038	palmitoyl-CoA	*
+KCAT	Mus musculus	0.057	palmitoyl-CoA	*in the presence of StarD2 protein in a molar ratio StarD2/Them2 of 0.5
+KCAT	Escherichia coli K-12	0.154	palmitoyl-CoA	*wild-type, at room temperature
+KCAT	Homo sapiens	0.5	palmitoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, mutant D167A
+KCAT	Haemophilus influenzae	2.7	palmitoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Escherichia coli	3.7	palmitoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Mus musculus	8.5	palmitoyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	10.2	palmitoyl-CoA	*
+KCAT	Homo sapiens	16.6	palmitoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type
+KCAT	Buckleyzyma aurantiaca	153	palmitoyl-CoA	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	35	acetoacetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	190	succinyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Streptomyces chartreusis	0.021	butyryl-CoA	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Haemophilus influenzae	6.7	butyryl-CoA	*wild-type protein
+KCAT	Homo sapiens	0.011	oleoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	0.061	oleoyl-CoA	*
+KCAT	Haemophilus influenzae	1.7	oleoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Mus musculus	3.2	oleoyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	13	oleoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	25	propionyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Buckleyzyma aurantiaca	159	octanoyl-CoA	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Streptomyces chartreusis	0.015	benzoyl-CoA	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	13.9	benzoyl-CoA	*wild-type, at room temperature
+KCAT	Mus musculus	0.03	hexanoyl-CoA	*
+KCAT	Haemophilus influenzae	15	hexanoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.0076	crotonyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	0.92	crotonyl-CoA	*absorbance of 5-thio-2-nitrobenzoate formed by reaction of 5,5'-dithiobis(2-nitrobenzoic acid) is measured
+KCAT	Homo sapiens	0.02	myristoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	0.031	myristoyl-CoA	*at 25&Acirc;&deg;C
+KCAT	Mus musculus	0.033	myristoyl-CoA	*at 37&Acirc;&deg;C, in the presence of small unilamellar vesicles composed of phosphatidylcholine at 4 mM total phospholipid concentration
+KCAT	Mus musculus	0.047	myristoyl-CoA	*at 37&Acirc;&deg;C
+KCAT	Mus musculus	0.062	myristoyl-CoA	*at 50&Acirc;&deg;C
+KCAT	Mus musculus	0.069	myristoyl-CoA	*at 37&Acirc;&deg;C, in the presence of StarD2 protein in a molar ratio StarD2/Them2 of 0.5
+KCAT	Homo sapiens	0.07	myristoyl-CoA	*wild-type protein, pH7.5, 37&Acirc;&deg;C
+KCAT	Mus musculus	0.086	myristoyl-CoA	*at 37&Acirc;&deg;C, in the presence of StarD2 protein in a molar ratio StarD2/Them2 of 1.0
+KCAT	Mus musculus	4.7	myristoyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	6.2	myristoyl-CoA	*
+KCAT	Haemophilus influenzae	6.9	myristoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	19.7	myristoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type
+KCAT	Buckleyzyma aurantiaca	183	myristoyl-CoA	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.011	stearoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	stearoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, mutant D167A
+KCAT	Haemophilus influenzae	0.77	stearoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	1.2	stearoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type
+KCAT	Mus musculus	2.3	stearoyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	5.7	stearoyl-CoA	*pH 8, temperature not specified in the publication
+KCAT	Buckleyzyma aurantiaca	121	stearoyl-CoA	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mus musculus	0.055	decanoyl-CoA	*
+KCAT	Buckleyzyma aurantiaca	136	decanoyl-CoA	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.05	glutaryl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	100	glutaryl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.019	lauroyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	0.038	lauroyl-CoA	*
+KCAT	Escherichia coli	1.6	lauroyl-CoA	*
+KCAT	Haemophilus influenzae	2.57	lauroyl-CoA	*N29A mutant protein
+KCAT	Mus musculus	5.3	lauroyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Haemophilus influenzae	9.2	lauroyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	9.2	lauroyl-CoA	*wild-type protein
+KCAT	Escherichia coli	9.6	lauroyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	30	isovaleryl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.083	methylmalonyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	1.1	methylmalonyl-CoA	*absorbance of 5-thio-2-nitrobenzoate formed by reaction of 5,5'-dithiobis(2-nitrobenzoic acid) is measured
+KCAT	Haemophilus influenzae	2.34	isobutyryl-CoA	*N29A mutant protein
+KCAT	Escherichia coli	9.5	isobutyryl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	138	isobutyryl-CoA	*wild-type protein
+KCAT	Haemophilus influenzae	140	isobutyryl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.022	Arachidonoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	1.2	Arachidonoyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.4	Arachidonoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	0.017	linoleoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.8	linoleoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, mutant D167A
+KCAT	Haemophilus influenzae	2	linoleoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Mus musculus	2.7	linoleoyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	12.2	linoleoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	0.084	phenylacetyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	0.12	phenylacetyl-CoA	*
+KCAT	Mus musculus	3.2	phenylacetyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	9.4	phenylacetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	130	phenylacetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.0032	4-chlorobenzoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	0.007	3-hydroxy-3-methylglutaryl-CoA	*
+KCAT	Homo sapiens	0.079	3-hydroxy-3-methylglutaryl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.017	palmitoleoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	4.7	palmitoleoyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Haemophilus influenzae	5.7	palmitoleoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	11.5	palmitoleoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type
+KCAT	Buckleyzyma aurantiaca	106	palmitoleoyl-CoA	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.0062	4-hydroxybenzoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	0.078	4-hydroxybenzoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Escherichia coli K-12	0.207	4-hydroxybenzoyl-CoA	*wild-type, at room temperature
+KCAT	Mus musculus	0.046	3-hydroxybutyryl-CoA	*
+KCAT	Homo sapiens	0.047	n-butyryl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	6.7	n-butyryl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	22	n-butyryl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	0.27	arachidoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.014	2-butenoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Mus musculus	11	2-butenoyl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.007	3-hydroxyphenylacetyl-CoA	*N50A mutant protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.15	3-hydroxyphenylacetyl-CoA	*S83A mutant protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.16	3-hydroxyphenylacetyl-CoA	*D65E mutant protein, pH7.5, 25&Acirc;&deg;C; H134A mutant protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.32	3-hydroxyphenylacetyl-CoA	*K136A mutant protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.36	3-hydroxyphenylacetyl-CoA	*D65N mutant protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.62	3-hydroxyphenylacetyl-CoA	*H56A mutant protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.66	3-hydroxyphenylacetyl-CoA	*T69A mutant protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.83	3-hydroxyphenylacetyl-CoA	*H137A mutant protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.4	3-hydroxyphenylacetyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	140	3-hydroxyphenylacetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.036	n-propionyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.011	3-hydroxybenzoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli K-12	10.3	3-hydroxybenzoyl-CoA	*wild-type, at room temperature
+KCAT	Haemophilus influenzae	8.9	DL-3-hydroxy-3-methylglutaryl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Mus musculus	12	DL-3-hydroxy-3-methylglutaryl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli K-12	0.019	salicylyl-CoA	*mutant H54A, at room temperature
+KCAT	Escherichia coli K-12	0.0507	salicylyl-CoA	*mutant S67A, at room temperature
+KCAT	Escherichia coli K-12	0.051	salicylyl-CoA	*mutant S67C, at room temperature
+KCAT	Escherichia coli K-12	0.0678	salicylyl-CoA	*mutant Q48N, at room temperature
+KCAT	Escherichia coli K-12	0.0778	salicylyl-CoA	*mutant M68A, at room temperature
+KCAT	Escherichia coli K-12	1.38	salicylyl-CoA	*mutant T64S, at room temperature
+KCAT	Escherichia coli K-12	4.63	salicylyl-CoA	*wild-type, at room temperature
+KCAT	Escherichia coli K-12	0.00217	2,3-dihydroxybenzoyl-CoA	*mutant H54A, at room temperature
+KCAT	Escherichia coli K-12	0.00333	2,3-dihydroxybenzoyl-CoA	*mutant S67C, at room temperature
+KCAT	Escherichia coli K-12	0.0112	2,3-dihydroxybenzoyl-CoA	*mutant S67A, at room temperature
+KCAT	Escherichia coli K-12	0.0155	2,3-dihydroxybenzoyl-CoA	*mutant Q48N, at room temperature
+KCAT	Escherichia coli K-12	0.138	2,3-dihydroxybenzoyl-CoA	*mutant T64S, at room temperature
+KCAT	Escherichia coli K-12	0.372	2,3-dihydroxybenzoyl-CoA	*wild-type, at room temperature
+KCAT	Escherichia coli K-12	0.533	2,3-dihydroxybenzoyl-CoA	*mutant M68A, at room temperature
+KCAT	Homo sapiens	13.3	linolenoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	0.016	n-decanoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	13	n-decanoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Escherichia coli	17	n-decanoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.022	n-hexanoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.02	tiglyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	2.6	tiglyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.0047	n-octanoyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	4.6	n-octanoyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Homo sapiens	0.023	beta-methylcrotonyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.1	beta-methylcrotonyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	0.54	beta-methylcrotonyl-CoA	*absorbance of 5-thio-2-nitrobenzoate formed by reaction of 5,5'-dithiobis(2-nitrobenzoic acid) is measured
+KCAT	Homo sapiens	0.18	beta-hydroxybutyryl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	8.3	DL-3-hydroxybutyryl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Mus musculus	13	DL-3-hydroxybutyryl-CoA	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.14	4-hydroxyphenylacetyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	75	4-hydroxyphenylacetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Escherichia coli	0.082	n-butyrylpantethiene phosphate	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	0.8	n-butyrylpantethiene phosphate	*pH 7.5, 25&Acirc;&deg;C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+KCAT	Haemophilus influenzae	-999	propionyl-S-n-acetylcysteamine	*absorbance of 5-thio-2-nitrobenzoate formed by reaction of 5,5'-dithiobis(2-nitrobenzoic acid) is measured, Kcat is above 0.0001
+KCAT	Streptomyces sp.	1.82	propionyl-S-n-acetylcysteamine	*at pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	0.0342	2,4-dihydroxybenzoyl-CoA	*wild-type, at room temperature
+KCAT	Escherichia coli	2	3,5-cis-tetradecadienoyl-CoA	*
+KCAT	Homo sapiens	1.8	vaccenoyl-CoA	*pH 7.5, 37&Acirc;&deg;C, wild-type
+KCAT	Streptomyces coelicolor	1.817	N-acetylcysteamine butyrate	*at pH 7.5, 30&Acirc;&deg;C
+KCAT	Streptomyces coelicolor	7.5	N-acetylcysteamine acetate	*at pH 7.5, 30&Acirc;&deg;C
+KCAT	Streptomyces coelicolor	0.9	N-acetylcysteamine propionate	*at pH 7.5, 30&Acirc;&deg;C
+KCAT	Streptomyces sp.	1.193	acetyl-S-N-acetylcysteamine	*at pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	7.45	3,5-dihydroxybenzoyl-CoA	*wild-type, at room temperature
+KCAT	Escherichia coli K-12	0.23	3,4-dihydroxybenzoyl-CoA	*wild-type, at room temperature
+KCAT	Homo sapiens	0.19	3,4-dihydroxyphenylacetyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.19	3,5-dihydroxyphenylacetyl-CoA	*wild-type protein, pH7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	21.6	3,5-cis-dodecadienoyl-CoA	*
+KCAT	Escherichia coli	10.7	3-hydroxytetradecanoyl-CoA	*
+KCAT	Haemophilus influenzae	0.08	butyrylpantetheine phosphate	*wild-type protein
+KCAT	Mus musculus	-999	more	*inactive with acetyl-CoA and 2-butenoyl-CoA
+KCAT	Haemophilus influenzae	-999	more	*D44A mutant protein: value below 0.001 s-1 for isobutyryl-CoA and lauroyl-CoA
+KCAT	Escherichia coli	-999	more	*inactive with substrates having acyl chains with fewer than 12 carbon atoms
+KCAT	Homo sapiens	-999	more	*no activity observed with 4-hydroxybenzoyl-CoA, lauroyl-acyl carrier protein, myristoyl-acyl carrier protein, palmitoyl-acyl carrier protein, octanoyl-acyl carrier protein, oleoyl-acyl carrier protein and acylated peptide N-acetyl-Gly-Ala-Cys-S-palmitoyl, turnover number of mutant protein D65A below 0.00001 s-1 for 3-hydroxyphenylacetyl-CoA
+KCAT	Escherichia coli K-12	0.14	2,3-dihydroxybenzoyl-EntB	*wild-type, at room temperature
+KCAT	Streptomyces chartreusis	0.3	cezomycin-CoA	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Escherichia coli K-12	4.83	salicylyl-EntB	*wild-type, at room temperature

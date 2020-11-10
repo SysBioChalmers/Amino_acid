@@ -1,0 +1,82 @@
+KCAT	Oryctolagus cuniculus	0.01	NADPH	*mutant F217S, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.077	NADPH	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.1	NADPH	*mutant N272T, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	NAD+	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.33	NAD+	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.58	NAD+	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.006	NADP+	*mutant F217S, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.04	NADP+	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.16	NADP+	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.25	NADP+	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.72	NADP+	*mutant N272T, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.85	NADP+	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.023	androsterone	*isoform AKR1C4, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.043	androsterone	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.15	androsterone	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.28	androsterone	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Comamonas testosteroni	500	androsterone	*reombinant His-tagged enzyme, pH 10.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.033	5alpha-dihydrotestosterone	*isoform AKR1C4, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.0612	5alpha-dihydrotestosterone	*pH 7.4, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.1153	5alpha-dihydrotestosterone	*pH 7.4, 37&Acirc;&deg;C, recombinant mutant V54L
+KCAT	Homo sapiens	0.03	cholic acid	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.05	cholic acid	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	cholic acid	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Comamonas testosteroni	2.5	Cyclohexanol	*reombinant His-tagged enzyme, pH 10.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.032	chenodeoxycholic acid	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.105	chenodeoxycholic acid	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.13	chenodeoxycholic acid	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.032	lithocholic acid	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.04	lithocholic acid	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.043	lithocholic acid	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.03	5alpha-androstane-3,17-dione	*isoform AKR1C4, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.012	deoxycholic acid	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.018	deoxycholic acid	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.085	deoxycholic acid	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.087	5alpha-androstane-3alpha,17beta-diol	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.135	5alpha-androstane-3alpha,17beta-diol	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.35	5alpha-androstane-3alpha,17beta-diol	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.025	dihydrotestosterone	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.007	5beta-pregnane-3,20-dione	*mutant F217S, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.053	5beta-pregnane-3,20-dione	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.007	5alpha-Androstan-3alpha-ol-17-one	*native enzyme, at pH 7.4 and 25&Acirc;&deg;C; recombinant enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.003	5alpha-dihydroprogesterone	*in 100 mM potassium phosphate, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.1	(S)-indan-1-ol	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.16	(S)-indan-1-ol	*native enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	(S)-indan-1-ol	*recombinant enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.27	(S)-indan-1-ol	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.4	(S)-indan-1-ol	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.009	5beta-androstan-3,17-dione	*mutant F217S, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.14	5beta-androstan-3,17-dione	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.004	5beta-Androstan-3alpha-ol-17-one	*mutant F217S, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.048	5beta-Androstan-3alpha-ol-17-one	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.097	5beta-Androstan-3alpha-ol-17-one	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.113	5beta-Androstan-3alpha-ol-17-one	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	5beta-Androstan-3alpha-ol-17-one	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.002	5beta-pregnane-3alpha,20alpha-diol	*recombinant enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.003	5beta-pregnane-3alpha,20alpha-diol	*native enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	(S)-tetralol	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.27	(S)-tetralol	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.43	(S)-tetralol	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.000017	allopregnanolone	*in 100 mM potassium phosphate, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.006	Dehydrolithocholic acid	*mutant F217S, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.037	Dehydrolithocholic acid	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	(R)-tetralol	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.38	(R)-tetralol	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.77	(R)-tetralol	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.035	3alpha-androstanediol	*isoform AKR1C4, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.047	5beta-androstane-3alpha,17beta-diol	*wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	5beta-androstane-3alpha,17beta-diol	*mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.3	5beta-androstane-3alpha,17beta-diol	*mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.0025	5alpha-pregnan-20alpha-ol-3-one	*mutant F217S, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.05	5alpha-pregnan-20alpha-ol-3-one	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.083	9alpha,11beta-prostaglandin F2	*recombinant enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.42	9alpha,11beta-prostaglandin F2	*native enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	(S)-1,2,3,4-tetrahydronaphth-1-ol	*recombinant enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.27	(S)-1,2,3,4-tetrahydronaphth-1-ol	*native enzyme, at pH 7.4 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.0035	pregn-4-en-3,20-dione	*pH 7.4, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.0392	pregn-4-en-3,20-dione	*pH 7.4, 37&Acirc;&deg;C, recombinant mutant V54L
+KCAT	Oryctolagus cuniculus	0.004	5alpha-androstan-17-beta-ol-3-one	*mutant F217S, pH 7.4, 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.367	5alpha-androstan-17-beta-ol-3-one	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	-999	more	*Kcat-value for the 17beta-oxidation of testosterone is 0.000118 1/sec, and Kcat-value for the 17beta-reduction of androstenedione is 0.00112 1/sec
+KCAT	Comamonas testosteroni	2.2	2-decalol	*reombinant His-tagged enzyme, pH 10.5, 25&Acirc;&deg;C
+KCAT	Comamonas testosteroni	230	androstenol	*reombinant His-tagged enzyme, pH 10.5, 25&Acirc;&deg;C

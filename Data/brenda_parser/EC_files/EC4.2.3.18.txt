@@ -1,0 +1,5 @@
+KCAT	Abies grandis	0.05	copalyl diphosphate	*mutant E589A
+KCAT	Abies grandis	0.2	copalyl diphosphate	*mutant E778A
+KCAT	Abies grandis	0.4	copalyl diphosphate	*mutant T617A
+KCAT	Abies grandis	0.75	copalyl diphosphate	*
+KCAT	Abies grandis	2	copalyl diphosphate	*mutants D361A, D402A, D402E, D404N, D404A, D404E, D404N, D405A, D405E, D405N, D621A, E499A, R365A, R411A, R454A, W358A, Y520A

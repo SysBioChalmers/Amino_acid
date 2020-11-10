@@ -1,0 +1,20 @@
+KCAT	Desulfovibrio vulgaris	49	ferricytochrome c	*25&Acirc;&deg;C, pH 7.0, wild-type cytochrome c3
+KCAT	Bacteria	3.6	methyl viologen	*
+KCAT	Desulfomicrobium norvegicum	38	ferricytochrome c3	*
+KCAT	Desulfovibrio vulgaris	490	ferricytochrome c3	*
+KCAT	Desulfovibrio desulfuricans	-999	more	*
+KCAT	Desulfovibrio vulgaris	0.15	[Fe] hydrogenase-cytochrome Hmc complex	*pH 7.0, electron transfer kinetics
+KCAT	Desulfovibrio vulgaris	2.3	[Fe] hydrogenase-cytochrome c3-cytochrome Hmc complex	*pH 7.0, electron transfer kinetics
+KCAT	Desulfovibrio vulgaris	42	mutant cytochrome c K72M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	44	mutant cytochrome c K26M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	45	mutant cytochrome c K15M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	45	mutant cytochrome c K58M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	45	mutant cytochrome c K94M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	45	mutant cytochrome c K95M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	46	mutant cytochrome c K60M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	47	mutant cytochrome c Y66L	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	48	mutant cytochrome c3 K10M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	48	mutant cytochrome c K57M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	49	mutant cytochrome c Y65A	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	51	mutant cytochrome c K101M	*25&Acirc;&deg;C, pH 7.0
+KCAT	Desulfovibrio vulgaris	462	[Fe] hydrogenase-cytochrome c3 complex	*pH 7.0, electron transfer kinetics

@@ -1,0 +1,4 @@
+KCAT	Diaporthe amygdali	0.027	(2E,6E)-farnesyl diphosphate	*pH and temperature not specified in the publication
+KCAT	Diaporthe amygdali	0.036	geranyl diphosphate	*pH and temperature not specified in the publication
+KCAT	Diaporthe amygdali	0.021	geranylgeranyl diphosphate	*pH and temperature not specified in the publication
+KCAT	Diaporthe amygdali	0.021	geranylgeranyl diphosphate	*pH and temperature not specified in the publication

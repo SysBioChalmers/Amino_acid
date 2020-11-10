@@ -1,0 +1,4 @@
+KCAT	Archaeoglobus fulgidus	2	NADPH	*pH 6.0, 50&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.1	NAD+	*pH 10.0, 50&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.08	NADH	*pH 9.0, 50&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	6.8	NADP+	*pH 7.0, 50&Acirc;&deg;C

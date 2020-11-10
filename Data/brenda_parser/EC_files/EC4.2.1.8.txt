@@ -1,0 +1,11 @@
+KCAT	Streptococcus suis	0.09	D-mannonate	*mutant enzyme H311A, at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	0.1	D-mannonate	*mutant N103A/D109A, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.23	D-mannonate	*mutant E185D, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.29	D-mannonate	*mutant E186D, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.81	D-mannonate	*wild-type, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.94	D-mannonate	*mutant E185G, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	1.1	D-mannonate	*mutant E186G, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	1.29	D-mannonate	*mutant H32G, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	1.4	D-mannonate	*mutant N36G, pH 7.5, 37&deg;C
+KCAT	Chromohalobacter salexigens	1.6	D-mannonate	*pH 7.9, 25&deg;C
+KCAT	Streptococcus suis	5.88	D-mannonate	*wild type enzyme, at pH 7.5 and 37&deg;C

@@ -1,0 +1,24 @@
+KCAT	Shewanella frigidimarina	15	fumarate	*mutant H61M, pH 9.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	29	fumarate	*mutant H61A, pH 9.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	32	fumarate	*mutant H505A, pH 6.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	47	fumarate	*mutant H61A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	49	fumarate	*mutant H61A, pH 7.2, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	79	fumarate	*mutant H505A, pH 7.2, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	96	fumarate	*mutant H61M, pH 7.5, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	100	fumarate	*mutant H61M, pH 6.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	101	fumarate	*mutant H505A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	105	fumarate	*mutant H505A, pH 9.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	116	fumarate	*mutant H61A, pH 6.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	198	fumarate	*mutant H61M, pH 7.2, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	210	fumarate	*wild-type enzyme, pH 9.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	210	fumarate	*wild-type enzyme, pH 9.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	240	fumarate	*mutant H505Y, pH 9.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	354	fumarate	*mutant H505Y, pH 7.2, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	363	fumarate	*mutant H505Y, pH 7.5, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	370	fumarate	*wild-type enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	370	fumarate	*wild-type enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	377	fumarate	*mutant H505Y, pH 6.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	509	fumarate	*wild-type enzyme, pH 7.2, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	509	fumarate	*wild-type enzyme and mutant H505Y, pH 7.2, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	658	fumarate	*wild-type enzyme, pH 6.0, 25&Acirc;&deg;C
+KCAT	Shewanella frigidimarina	658	fumarate	*wild-type enzyme and mutant H505A, pH 6.0, 25&Acirc;&deg;C

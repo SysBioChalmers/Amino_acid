@@ -1,0 +1,4 @@
+KCAT	Bos taurus	0.0167	first epidermal growth factor-like domain	*substrate is of human protein S, 56 kDa protein
+KCAT	Bos taurus	0.0217	first epidermal growth factor-like domain	*substrate is of human protein S with an asparagine replacing the aspartic acid at position 18, 56 kDa protein
+KCAT	Bos taurus	0.025	first epidermal growth factor-like domain	*substrate is of human protein S, 52 kDa protein
+KCAT	Bos taurus	0.0317	first epidermal growth factor-like domain	*substrate is of human protein S with an asparagine replacing the aspartic acid at position 18, 52 kDa protein

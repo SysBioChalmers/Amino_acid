@@ -1,0 +1,159 @@
+KCAT	Pseudomonas putida	-999	L-methionine	*values between 25.3 to 48.6, depending on publications
+KCAT	Pseudomonas putida	-999	S-ethyl-L-cysteine	*37&deg;C, pH 8.0
+KCAT	Pseudomonas putida	-999	S-methyl-L-cysteine	*37&deg;C, pH 8.0
+KCAT	Pseudomonas putida	0.017	L-ethionine	*37&deg;C, pH 8.0
+KCAT	Streptomyces avermitilis	0.03	L-cysteine	*pH 8.0, 37&deg;C
+KCAT	Pseudomonas putida	0.03	L-methionine	*pH 8.0, 37&deg;C, recombinant mutant C166H
+KCAT	Entamoeba histolytica	0.057	DL-homocysteine	*wild-type ehMGL2, pH 7.0, 37&deg;C
+KCAT	Pseudomonas putida	0.07	L-methionine	*mutant enzyme C116H, at 37&deg;C
+KCAT	Micromonospora echinospora	0.1	L-methionine	*pH 8.0, 23&deg;C
+KCAT	Pseudomonas putida	0.12	S-methyl-L-cysteine	*pH 8.0, 37&deg;C, recombinant mutant Y114F/C116H
+KCAT	Pseudomonas putida	0.17	L-methionine	*37&deg;C, pH 8.0
+KCAT	Citrobacter freundii	0.22	L-methionine	*mutant C115A, pH 8.0, 30&deg;C
+KCAT	Entamoeba histolytica	0.24	trifluoromethionine	*mutant C113S, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	0.36	L-methionine	*mutant C110G, pH 7.0, 37&deg;C
+KCAT	Citrobacter freundii	0.41	alliin	*mutant C115A, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	0.43	L-cysteine	*mutant enzyme C116A, at 37&deg;C
+KCAT	Entamoeba histolytica	0.47	L-methionine	*mutant C113S, pH 7.0, 37&deg;C
+KCAT	Citrobacter freundii	0.5	DL-homoserine	*30&deg;C, pH 8.0
+KCAT	Citrobacter freundii	0.52	DL-homoserine	*pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	0.57	L-cysteine	*mutant enzyme C116S, at 37&deg;C
+KCAT	Citrobacter freundii	0.57	S-ethyl-L-cysteine	*mutant C115A, pH 8.0, 30&deg;C
+KCAT	Entamoeba histolytica	0.67	L-cysteine	*mutant Y108F, pH 7.0, 37&deg;C
+KCAT	Fusobacterium nucleatum subsp. nucleatum	0.69	L-cysteine	*pH 7.6, 37&deg;C
+KCAT	Entamoeba histolytica	0.78	L-cysteine	*mutant C110S, pH 7.0, 37&deg;C
+KCAT	Treponema denticola	0.79	L-cysteine	*pH 7.6, 37&deg;C
+KCAT	Entamoeba histolytica	0.8	L-cysteine	*wild-type ehMGL2, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	0.81	trifluoromethionine	*wild-type ehMGL1, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	0.81	trifluoromethionine	*
+KCAT	Citrobacter freundii	0.88	DL-homocysteine	*mutant Y58F, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	0.89	L-cysteine	*pH 8.0, 37&deg;C, recombinant mutant Y114F/C116H
+KCAT	Entamoeba histolytica	0.93	L-methionine	*mutant C110S, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	0.97	trifluoromethionine	*wild-type ehMGL2, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	1.01	L-cysteine	*mutant C110G, pH 7.0, 37&deg;C
+KCAT	Pseudomonas putida	1.06	L-cysteine	*pH 8.0, 37&deg;C, recombinant mutant K240N
+KCAT	Entamoeba histolytica	1.11	L-methionine	*wild-type ehMGL2, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	1.19	trifluoromethionine	*mutant R58A, pH 7.0, 37&deg;C
+KCAT	Citrobacter freundii	1.25	ethiin	*mutant C115A, pH 8.0, 30&deg;C
+KCAT	Entamoeba histolytica	1.26	trifluoromethionine	*mutant R55A, pH 7.0, 37&deg;C
+KCAT	Citrobacter freundii	1.35	O-acetyl-L-serine	*mutant C115A, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	1.36	DL-homocysteine	*pH 8.0, 37&deg;C, recombinant mutant Y114F/C116H
+KCAT	Citrobacter freundii	1.38	S-methyl-L-cysteine	*mutant C115A, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	1.4	L-homoserine	*
+KCAT	Pseudomonas putida	1.45	L-cysteine	*pH 8.0, 37&deg;C, recombinant mutant K240R
+KCAT	Pseudomonas putida	1.46	L-methionine	*mutant enzyme C116A, at 37&deg;C
+KCAT	Pseudomonas putida	1.58	S-methyl-L-cysteine	*pH 8.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Entamoeba histolytica	1.59	L-cysteine	*wild-type ehMGL1, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	1.59	L-cysteine	*
+KCAT	Citrobacter freundii	1.63	methiin	*mutant C115A, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	1.66	L-cysteine	*pH 8.0, 37&deg;C, recombinant mutant K240M
+KCAT	Streptomyces avermitilis	1.7	L-homocysteine	*pH 8.0, 37&deg;C
+KCAT	Pseudomonas putida	1.74	DL-homocysteine	*mutant enzyme C116A, at 37&deg;C
+KCAT	Entamoeba histolytica	1.74	O-acetyl-L-serine	*wild-type ehMGL1, pH 7.0, 37&deg;C
+KCAT	Pseudomonas putida	1.77	L-methionine	*mutant enzyme C116S, at 37&deg;C
+KCAT	Entamoeba histolytica	1.82	L-methionine	*wild-type ehMGL1, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	1.82	L-methionine	*
+KCAT	Porphyromonas gingivalis	1.86	L-cysteine	*pH 7.6, 37&deg;C
+KCAT	Citrobacter freundii	1.9	L-Gly(vinyl)	*30&deg;C, pH 8.0
+KCAT	Citrobacter freundii	1.9	L-Vinylglycine	*pH 8.0, 30&deg;C
+KCAT	Citrobacter freundii	2.07	S-ethyl-L-homocysteine	*mutant Y58F, pH 8.0, 30&deg;C
+KCAT	Citrobacter freundii	2.1	L-methionine sulfone	*pH 8.0, 30&deg;C
+KCAT	Citrobacter freundii	2.1	O-acetyl-DL-homoserine	*pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	2.13	L-cysteine	*pH 8.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Entamoeba histolytica	2.22	trifluoromethionine	*mutant Y108F, pH 7.0, 37&deg;C
+KCAT	Pseudomonas putida	2.23	L-cysteine	*pH 8.0, 37&deg;C, recombinant mutant K240I
+KCAT	Citrobacter freundii	2.24	L-cysteine	*wild-type
+KCAT	Pseudomonas putida	2.27	L-cysteine	*wild type enzyme, at 37&deg;C
+KCAT	Pseudomonas putida	2.27	L-cysteine	*
+KCAT	Citrobacter freundii	2.3	L-cysteine	*30&deg;C, pH 8.0
+KCAT	Citrobacter freundii	2.3	L-cysteine	*
+KCAT	Citrobacter freundii	2.33	L-cysteine	*recombinant enzyme
+KCAT	Citrobacter freundii	2.38	S-ethyl-L-cysteine	*mutant Y58F, pH 8.0, 30&deg;C
+KCAT	Citrobacter freundii	2.5	L-methionine sulfoxide	*pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	2.59	DL-homocysteine	*mutant enzyme C116S, at 37&deg;C
+KCAT	Citrobacter freundii	2.66	L-methionine	*mutant Y58F, pH 8.0, 30&deg;C
+KCAT	Clostridium tetani	2.7	L-methionine sulfoxide	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Streptomyces avermitilis	2.9	L-methionine	*pH 8.0, 37&deg;C
+KCAT	Citrobacter freundii	2.93	O-acetyl-L-serine	*mutant C115H, pH 8.0, 30&deg;C
+KCAT	Entamoeba histolytica	3.13	DL-homocysteine	*wild-type ehMGL1, pH 7.0, 37&deg;C
+KCAT	Citrobacter freundii	3.34	S-Benzyl-L-cysteine	*mutant Y58F, pH 8.0, 30&deg;C
+KCAT	Porphyromonas gingivalis	3.84	S-ethyl-L-homocysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Porphyromonas gingivalis	3.9	L-methionine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	3.91	DL-homocysteine	*wild-type ehMGL1, pH 7.0, 37&deg;C
+KCAT	Entamoeba histolytica	3.92	DL-homocysteine	*
+KCAT	Citrobacter freundii	4.6	S-methyl-L-cysteine	*recombinant enzyme
+KCAT	Citrobacter freundii	4.6	S-methyl-L-cysteine	*30&deg;C, pH 8.0
+KCAT	Citrobacter freundii	5	S-ethyl-L-cysteine	*30&deg;C, pH 8.0
+KCAT	Pseudomonas putida	5.03	DL-homocysteine	*pH 8.0, 37&deg;C, recombinant mutant K240N
+KCAT	Citrobacter freundii	5.03	S-ethyl-L-cysteine	*recombinant enzyme
+KCAT	Porphyromonas gingivalis	5.05	L-methionine sulfoxide	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Citrobacter freundii	5.1	DL-homocysteine	*wild-type
+KCAT	Citrobacter freundii	5.1	DL-homocysteine	*
+KCAT	Citrobacter freundii	5.14	methiin	*mutant C115H, pH 8.0, 30&deg;C
+KCAT	Porphyromonas gingivalis	5.47	L-methionine	*pH 7.5, 37&deg;C
+KCAT	Pseudomonas putida	5.53	S-methyl-L-cysteine	*37&deg;C, pH 8.0
+KCAT	Citrobacter freundii	5.59	ethiin	*mutant C115H, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	5.79	S-ethyl-L-cysteine	*37&deg;C, pH 8.0
+KCAT	Porphyromonas gingivalis	5.8	S-Benzyl-L-cysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	5.8	trifluoromethionine	*mutant Y111F, pH 7.0, 37&deg;C
+KCAT	Clostridium tetani	5.89	S-ethyl-L-homocysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Citrobacter freundii	5.9	S-methyl-L-cysteine	*
+KCAT	Citrobacter freundii	5.97	S-methyl-L-cysteine	*wild-type
+KCAT	Citrobacter freundii	6.2	L-ethionine	*wild-type
+KCAT	Citrobacter freundii	6.2	L-ethionine	*
+KCAT	Citrobacter freundii	6.2	L-methionine	*recombinant enzyme
+KCAT	Citrobacter freundii	6.2	L-methionine	*30&deg;C, pH 8.0
+KCAT	Citrobacter freundii	6.2	L-methionine	*pH 8.0, 30&deg;C
+KCAT	Entamoeba histolytica	6.22	O-acetyl-L-serine	*wild-type ehMGL2, pH 7.0, 37&deg;C
+KCAT	Citrobacter freundii	6.23	O-acetyl-L-homoserine	*mutant C115A, pH 8.0, 30&deg;C
+KCAT	Clostridium sporogenes	6.3	S-ethyl-L-cysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Citrobacter freundii	6.5	L-methionine	*wild-type
+KCAT	Citrobacter freundii	6.5	L-methionine	*
+KCAT	Citrobacter freundii	6.5	S-ethyl-L-cysteine	*mutant C115H, pH 8.0, 30&deg;C
+KCAT	Clostridium sporogenes	6.7	L-methionine sulfoxide	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Citrobacter freundii	6.78	L-ethionine	*recombinant enzyme
+KCAT	Citrobacter freundii	6.8	S-ethyl-L-cysteine	*wild-type
+KCAT	Citrobacter freundii	6.8	S-ethyl-L-homocysteine	*30&deg;C, pH 8.0
+KCAT	Clostridium sporogenes	7.05	S-ethyl-L-homocysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Clostridium tetani	7.08	S-ethyl-L-cysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Citrobacter freundii	7.4	L-methionine	*mutant P360Q, pH 7.2, 30&deg;C
+KCAT	Citrobacter freundii	7.9	L-methionine	*wild-type, pH 7.2, 30&deg;C
+KCAT	Citrobacter freundii	8	L-methionine	*mutant A366Y, pH 7.2, 30&deg;C
+KCAT	Porphyromonas gingivalis	8.05	S-ethyl-L-cysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Citrobacter freundii	8.16	S-Benzyl-L-cysteine	*recombinant enzyme
+KCAT	Citrobacter freundii	8.2	S-Benzyl-L-cysteine	*30&deg;C, pH 8.0
+KCAT	Citrobacter freundii	8.5	DL-homocysteine	*30&deg;C, pH 8.0
+KCAT	Citrobacter freundii	8.5	DL-homocysteine	*pH 8.0, 30&deg;C
+KCAT	Clostridium tetani	8.5	S-Benzyl-L-cysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Citrobacter freundii	8.51	DL-homocysteine	*recombinant enzyme
+KCAT	Citrobacter freundii	9	L-methionine	*mutant P357I, pH 7.2, 30&deg;C
+KCAT	Clostridium sporogenes	9.86	L-methionine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Clostridium sporogenes	10	S-Benzyl-L-cysteine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	10.56	DL-homocysteine	*wild-type ehMGL2, pH 7.0, 37&deg;C
+KCAT	Citrobacter freundii	10.9	S-Benzyl-L-cysteine	*wild-type
+KCAT	Citrobacter freundii	11.31	alliin	*mutant C115H, pH 8.0, 30&deg;C
+KCAT	Clostridium tetani	12	L-methionine	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Citrobacter freundii	15.1	L-methionine	*mutant V358Y, pH 7.2, 30&deg;C
+KCAT	Entamoeba histolytica	17.46	trifluoromethionine	*wild-type ehMGL2, pH 7.0, 37&deg;C
+KCAT	Citrobacter freundii	18.29	O-acetyl-L-homoserine	*mutant C115H, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	22.7	DL-homocysteine	*pH 8.0, 37&deg;C, recombinant mutant K240R
+KCAT	Citrobacter freundii	23.08	S-methyl-L-cysteine	*mutant C115H, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	23.3	L-cysteine	*pH 8.0, 37&deg;C, recombinant mutant C166H
+KCAT	Pseudomonas putida	25.39	L-methionine	*wild type enzyme, at 37&deg;C
+KCAT	Pseudomonas putida	28.8	DL-homocysteine	*pH 8.0, 37&deg;C, recombinant mutant K240M
+KCAT	Pseudomonas putida	30	DL-homocysteine	*mutant enzyme C116H, at 37&deg;C
+KCAT	Pseudomonas putida	33.4	L-ethionine	*37&deg;C, pH 8.0
+KCAT	Pseudomonas putida	33.4	L-ethionine	*
+KCAT	Pseudomonas putida	33.4	L-methionine	*pH 8.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Porphyromonas gingivalis	34.13	L-methionine sulfone	*pH 7.5, 37&deg;C
+KCAT	Pseudomonas putida	40.4	L-methionine sulfone	*37&deg;C, pH 8.0
+KCAT	Pseudomonas putida	43.8	L-cysteine	*mutant enzyme C116H, at 37&deg;C
+KCAT	Pseudomonas putida	44.4	L-Vinylglycine	*37&deg;C, pH 8.0
+KCAT	Pseudomonas putida	44.8	DL-homocysteine	*
+KCAT	Pseudomonas putida	44.84	DL-homocysteine	*wild type enzyme, at 37&deg;C
+KCAT	Pseudomonas putida	46.3	S-methyl-L-cysteine	*pH 8.0, 37&deg;C, recombinant mutant C166H
+KCAT	Pseudomonas putida	48.4	DL-homocysteine	*pH 8.0, 37&deg;C, recombinant mutant C166H
+KCAT	Pseudomonas putida	48.6	L-methionine	*37&deg;C, pH 8.0
+KCAT	Pseudomonas putida	62.2	DL-homocysteine	*pH 8.0, 37&deg;C, recombinant mutant K240I
+KCAT	Pseudomonas putida	71	DL-homocysteine	*pH 8.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Pseudomonas putida	78	O-acetyl-L-homoserine	*37&deg;C, pH 8.0

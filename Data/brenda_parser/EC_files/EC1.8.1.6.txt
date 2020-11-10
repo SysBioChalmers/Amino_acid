@@ -1,0 +1,1 @@
+KCAT	Homo sapiens	30.3	L-cystine	*pH 7.5, 22&deg;C, wild-type enzyme TRP14

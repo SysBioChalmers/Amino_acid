@@ -1,0 +1,1 @@
+ecNumber*5.4.1.3#turnoverNumber*840#turnoverNumberMaximum*#substrate*2-methylfumaryl-CoA#commentary*55&deg;C, pH not specified in the publication#organism*Chloroflexus aurantiacus#ligandStructureId*19810#literature*726363#

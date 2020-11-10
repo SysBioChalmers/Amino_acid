@@ -1,0 +1,68 @@
+KCAT	Escherichia coli	-999	more	*turnover numbers of mutant tRNA molecules
+KCAT	Escherichia coli	-999	more	*tRNAGln mutant substrates
+KCAT	Escherichia coli	0.001	L-cysteine	*mutant enzyme H40A/R42A, pH and temperature not specified in the publication
+KCAT	Escherichia coli	0.005	tRNACys	*aminoacylation reaction, recombinant C28S/C209S mutant enzyme
+KCAT	Escherichia coli	0.007	tRNACys	*aminoacylation reaction, recombinant W205Y mutant enzyme
+KCAT	Escherichia coli	0.0093	L-cysteine	*mutant enzyme H40A, pH and temperature not specified in the publication
+KCAT	Halobacterium sp.	0.014	tRNACys	*pH 7.5, 40&deg;C, recombinant mutant D417A/E420A
+KCAT	Escherichia coli	0.017	thiolactone formation	*
+KCAT	Escherichia coli	0.02	L-cysteine	*mutant enzyme M294A/R427A, pH and temperature not specified in the publication
+KCAT	Escherichia coli	0.027	L-cysteine	*mutant enzyme R427A, pH and temperature not specified in the publication
+KCAT	Methanosarcina mazei	0.03	tRNA3Cys	*value above, substrate tRNA3Cys isoacceptor 3
+KCAT	Escherichia coli	0.03	tRNACys	*mutant enzyme N351D, mutant tRNACys(G15-C48)
+KCAT	Halobacterium sp.	0.03	tRNACys	*pH 7.5, 40&deg;C, recombinant mutant D435A/D436A
+KCAT	Escherichia coli	0.036	tRNACys	*mutant enzyme E354A, mutant tRNACys(G15-C48)
+KCAT	Methanosarcina mazei	0.05	tRNA3CysU33A	*value above, substrate tRNA3Cys isoacceptor 3, containing a U33A mutation
+KCAT	Methanosarcina mazei	0.06	tRNA2Cys	*value above, substrate tRNA2Cys isoacceptor 2
+KCAT	Halobacterium sp.	0.06	tRNACys	*pH 7.5, 40&deg;C, recombinant mutant D239A/D240A
+KCAT	Escherichia coli	0.074	tRNACys	*mutant enzyme E354Q, mutant tRNACys(G15-C48)
+KCAT	Escherichia coli	0.082	L-cysteine	*mutant enzyme E354Q, pH and temperature not specified in the publication
+KCAT	Escherichia coli	0.088	L-cysteine	*mutant enzyme M294A/H297A, pH and temperature not specified in the publication
+KCAT	Methanosarcina mazei	0.09	tRNA3CysG57A	*value above, substrate tRNA3Cys isoacceptor 3, containing a G57A mutation
+KCAT	Escherichia coli	0.094	tRNACys	*mutant enzyme N351D, wild-type tRNACys(G15-G48)
+KCAT	Escherichia coli	0.1	tRNACys	*mutant enzyme E354A, wild-type tRNACys(G15-G48)
+KCAT	Halobacterium sp.	0.11	tRNACys	*pH 7.5, 40&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.14	L-cysteine	*mutant enzyme M294A, pH and temperature not specified in the publication
+KCAT	Methanosarcina mazei	0.14	tRNA3CysC20U/U21C/A44U/C46A/A47G	*value above, substrate tRNA3Cys isoacceptor 3, containing a C20U/U21C/A44U/C46A/A47G mutation
+KCAT	Escherichia coli	0.14	tRNACys	*mutant enzyme E354Q, wild-type tRNACys(G15-G48)
+KCAT	Escherichia coli	0.16	L-cysteine	*mutant enzyme H297A, pH and temperature not specified in the publication
+KCAT	Methanosarcina mazei	0.16	tRNA1CysA33U	*value above, substrate tRNA1Cys isoacceptor 1, containing a A33U mutation
+KCAT	Methanosarcina mazei	0.17	tRNA1Cys	*value above, substrate tRNA1Cys isoacceptor 1
+KCAT	Methanosarcina mazei	0.18	tRNA3CysC20U/U21C/A44U/C46A/A47G/G57A	*value above, substrate tRNA3Cys isoacceptor 3, containing a C20U/U21C/A44U/C46A/A47G/G57A mutation
+KCAT	Homo sapiens	0.2	tRNACys	*recombinant His-tagged deletion mutant, amino acid activation step
+KCAT	Escherichia coli	0.28	L-cysteine	*ATP-diphosphate exchange reaction, recombinant W205Y mutant enzyme
+KCAT	Escherichia coli	0.3	ATP	*ATP-diphosphate exchange reaction, recombinant W205Y mutant enzyme
+KCAT	Escherichia coli	0.34	ATP	*pH 8.0, mutant enzyme DELTA328-461, ATP-diphosphate exchange
+KCAT	Escherichia coli	0.39	tRNACys	*mutant enzyme N351A, mutant tRNACys(G15-C48)
+KCAT	Escherichia coli	0.45	tRNACys	*wild-type enzyme, mutant tRNACys(G15-C48)
+KCAT	Escherichia coli	0.48	ATP	*30&deg;C, pH 7.0, mutant enzyme V27E
+KCAT	Escherichia coli	0.49	L-cysteine	*mutant enzyme E354Q/R427A, pH and temperature not specified in the publication
+KCAT	Escherichia coli	0.5	tRNACys	*aminoacylation reaction, recombinant His-tagged Co2+-wild-type enzyme
+KCAT	Escherichia coli	0.59	tRNACys	*mutant enzyme N351A, wild-type tRNACys(G15-G48)
+KCAT	Escherichia coli	0.68	tRNACys	*30&deg;C, pH 7.0, mutant enzyme V27E
+KCAT	Escherichia coli	0.86	L-cysteine	*30&deg;C, pH 7.0, mutant enzyme V27E
+KCAT	Escherichia coli	0.9	tRNACys	*aminoacylation reaction, recombinant Zn2+-wild-type enzyme
+KCAT	Escherichia coli	1.1	L-cysteine	*mutant enzyme R42A, pH and temperature not specified in the publication
+KCAT	Escherichia coli	1.2	L-cysteine	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Escherichia coli	2	ATP	*pH 8.0, mutant enzyme DELTA288-461, ATP-diphosphate exchange
+KCAT	Methanococcus maripaludis	2.2	L-cysteine	*recombinant wild-type enzyme, pH 7.0, 37&deg;C
+KCAT	Homo sapiens	2.3	tRNACys	*recombinant His-tagged wild-type full-length enzyme, amino acid activation step
+KCAT	Escherichia coli	2.46	tRNACys	*37&deg;C, wild-type enzyme
+KCAT	Escherichia coli	2.46	tRNACys	*wild-type enzyme, wild-type tRNACys(G15-G48)
+KCAT	Escherichia coli	2.5	L-cysteine	*steady-state
+KCAT	Escherichia coli	2.5	tRNACys	*aminoacylation reaction, recombinant His-tagged Zn2+-wild-type enzyme
+KCAT	Escherichia coli	2.9	tRNACys	*30&deg;C, pH 7.0, wild-type enzyme
+KCAT	Escherichia coli	2.9	tRNACys	*steady-state
+KCAT	Escherichia coli	3	tRNACys	*pH 7.0, 37&deg;C
+KCAT	Escherichia coli	3.47	tRNACys	*pH 7.0, 37&deg;C
+KCAT	Escherichia coli	4.4	ATP	*30&deg;C, pH 7.0, wild-type enzyme
+KCAT	Escherichia coli	4.8	L-cysteine	*30&deg;C, pH 7.0, wild-type enzyme
+KCAT	Homo sapiens	10.3	L-cysteine	*recombinant His-tagged wild-type full-length enzyme, amino acid activation step
+KCAT	Homo sapiens	18.1	L-cysteine	*recombinant His-tagged deletion mutant, amino acid activation step
+KCAT	Escherichia coli	22.6	ATP	*pH 8.0, wild-type enzyme, ATP-diphosphate exchange
+KCAT	Escherichia coli	35	L-cysteine	*ATP-diphosphate exchange reaction, recombinant His-tagged Co2+-wild-type enzyme
+KCAT	Escherichia coli	57	ATP	*ATP-diphosphate exchange reaction, recombinant His-tagged Co2+-wild-type enzyme
+KCAT	Escherichia coli	79	L-cysteine	*ATP-diphosphate exchange reaction, recombinant Zn2+-wild-type enzyme
+KCAT	Escherichia coli	91	ATP	*ATP-diphosphate exchange reaction, recombinant Zn2+-wild-type enzyme
+KCAT	Escherichia coli	100	L-cysteine	*ATP-diphosphate exchange reaction, recombinant His-tagged Zn2+-wild-type enzyme
+KCAT	Escherichia coli	142	ATP	*ATP-diphosphate exchange reaction, recombinant His-tagged Zn2+-wild-type enzyme

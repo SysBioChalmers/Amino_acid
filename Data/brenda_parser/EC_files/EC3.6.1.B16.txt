@@ -1,0 +1,3 @@
+KCAT	Arabidopsis thaliana	0.49	guanosine 3',5'-bis(diphosphate)	*pH 8.0, 37&deg;C, presence of 5 mM Mg2+
+KCAT	Arabidopsis thaliana	11.8	P1,P5-di(adenosine-5')pentaphosphate	*pH 8.0, 37&deg;C, presence of 5 mM Mg2+, 1 mM dithiothreitol
+KCAT	Arabidopsis thaliana	16.9	P1,P4-bis(5'-adenosyl) tetraphosphate	*pH 8.0, 37&deg;C, presence of 5 mM Mg2+, 1 mM dithiothreitol

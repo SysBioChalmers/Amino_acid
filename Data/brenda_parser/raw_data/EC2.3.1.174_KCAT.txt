@@ -1,0 +1,1 @@
+ecNumber*2.3.1.174#turnoverNumber*7.8#turnoverNumberMaximum*#substrate*3-oxoadipyl-CoA#commentary*#organism*Pseudomonas sp.#ligandStructureId*9045#literature*646002#!ecNumber*2.3.1.174#turnoverNumber*7.8#turnoverNumberMaximum*#substrate*CoA#commentary*#organism*Pseudomonas sp.#ligandStructureId*18#literature*646002#

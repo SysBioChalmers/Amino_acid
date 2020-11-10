@@ -1,0 +1,91 @@
+KCAT	Homo sapiens	0.0004	amyloid beta-peptide 1-42	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.0022	amyloid beta-peptide 1-40	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.0025	insulin-like peptide 3	*pH 7.7, 37&deg;C
+KCAT	Homo sapiens	0.003	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, 37&deg;C, mutant Y609F IDE:IDE mutant E111F/Y609F
+KCAT	Homo sapiens	0.01	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, 37&deg;C, IDE:IDE mutant E111F/Y609F; pH 7.4, 37&deg;C, mutant Y609F IDE:IDE mutant E111F
+KCAT	Rattus norvegicus	0.01	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, temperature not specified in the publication, mutant DELTAC lacking the C-terminal region
+KCAT	Homo sapiens	0.017	Insulin	*isoform 15b-IDE, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.025	Insulin	*isoform 15a-IDE, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.028	(7-methoxycoumarin-4-yl)acetyl-NPPGFSAFK-2,4-dinitrophenyl	*pH not specified in the publication, 37&deg;C
+KCAT	Homo sapiens	0.03	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, 37&deg;C, IDE:IDE mutant H112Q/Y609F; pH 7.4, 37&deg;C, mutant Y609F IDE:IDE mutant Y609F
+KCAT	Rattus norvegicus	0.043	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, temperature not specified in the publication, wild-type
+KCAT	Homo sapiens	0.048	Insulin	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.05	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, 37&deg;C, mutant Y609F IDE:IDE mutant H112Q
+KCAT	Homo sapiens	0.05	Insulin	*pH 7.7, 37&deg;C
+KCAT	Homo sapiens	0.06	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, 37&deg;C, mutant Y609F IDE:IDE mutant H112Q/Y609F
+KCAT	Rattus norvegicus	0.078	Abz-GGFLRKHGQ-EDDnp	*mutant R429S, pH 7.4, temperature not specified in the publication
+KCAT	Rattus norvegicus	0.086	Abz-GGFLRKHGQ-EDDnp	*wild-type, pH 7.4, temperature not specified in the publication
+KCAT	Homo sapiens	0.088	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme W199K
+KCAT	Homo sapiens	0.095	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme Y150K
+KCAT	Homo sapiens	0.097	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F202D; pH 7.3, 37&deg;C, mutant enzyme F202K
+KCAT	Homo sapiens	0.1	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F141W
+KCAT	Homo sapiens	0.1	protein DNP	*pH not specified in the publication, 37&deg;C
+KCAT	Homo sapiens	0.108	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F820Y
+KCAT	Homo sapiens	0.12	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, 37&deg;C, IDE:IDE mutant H112Q
+KCAT	Homo sapiens	0.123	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F141N
+KCAT	Homo sapiens	0.14	Abz-GGFLRKHGQ-EDDnp	*pH 7.4, 37&deg;C, IDE:IDE, wild-type
+KCAT	Homo sapiens	0.143	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme Y150W
+KCAT	Homo sapiens	0.148	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F202W
+KCAT	Homo sapiens	0.16	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F820W; pH 7.3, 37&deg;C, mutant enzyme W199Y
+KCAT	Homo sapiens	0.17	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F202N
+KCAT	Homo sapiens	0.17	amyloid beta-protein	*isoform 15b-IDE, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.177	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme W199N
+KCAT	Homo sapiens	0.178	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F141Y
+KCAT	Homo sapiens	0.18	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme W199A
+KCAT	Homo sapiens	0.198	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.2	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F115Y
+KCAT	Homo sapiens	0.2	protein BNP	*pH not specified in the publication, 37&deg;C
+KCAT	Homo sapiens	0.22	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F141A; pH 7.3, 37&deg;C, mutant enzyme Y150F
+KCAT	Homo sapiens	0.23	(7-methoxycoumarin-4-yl)acetyl-RPPGFSAFK(2,4-dinitrophenyl)-OH	*37&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.24	(7-methoxycoumarin-4-yl)acetyl-VEALYLVCGEK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F202Y; pH 7.3, 37&deg;C, mutant enzyme W199F
+KCAT	Rattus norvegicus	0.258	Abz-GGFLRKHGQ-EDDnp	*mutant K898A/K899A/S901A, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.29	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F820Y
+KCAT	Homo sapiens	0.298	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme Y150K
+KCAT	Homo sapiens	0.33	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme 141A
+KCAT	Homo sapiens	0.338	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme Y150F
+KCAT	Homo sapiens	0.38	Somatostatin	*pH 7.3, 37&deg;C
+KCAT	Homo sapiens	0.45	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme Y150W
+KCAT	Homo sapiens	0.53	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F202D
+KCAT	Homo sapiens	0.57	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme W199Y; pH 7.3, 37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.625	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme 141W
+KCAT	Homo sapiens	0.72	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F115Y
+KCAT	Rattus norvegicus	0.72	Abz-GGFLRKHGQEDDnp	*pH 7.4, 37&deg;C, 56 kDa detagged fragment of recombinant His6-tagged enzyme
+KCAT	Homo sapiens	0.725	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F115A
+KCAT	Homo sapiens	0.73	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F115W
+KCAT	Homo sapiens	0.735	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F202Y
+KCAT	Rattus norvegicus	0.77	Abz-GGFLRKHGQEDDnp	*pH 7.4, 37&deg;C, 76 kDa detagged fragment of recombinant His6-tagged enzyme
+KCAT	Homo sapiens	0.78	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme 141Y
+KCAT	Homo sapiens	0.803	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F202W
+KCAT	Homo sapiens	0.85	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme F820W
+KCAT	Homo sapiens	0.88	amyloid beta-protein	*isoform 15a-IDE, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	1.1	(7-methoxycoumarin-4-yl)acetyl-QKLVFFAEDVK(2,4-dinitrophenyl)-OH	*pH 7.3, 37&deg;C, mutant enzyme Y150F
+KCAT	Homo sapiens	1.13	Abz-GGFLRKHGQ-EDDnp	*pH 7.7, 37&deg;C, mutant enzyme D426A
+KCAT	Homo sapiens	1.2	(7-methoxycoumarin-4-yl)acetyl-KLVFFAEDK(Dnp)-OH	*pH 7.0, 37&deg;C, mutant enzyme R183Q
+KCAT	Homo sapiens	1.2	7-methoxycoumarin-4-yl-acetyl-RPPGFSAFK-2,4-dinitrophenyl	*pH 7.0, 37&deg;C, mutant enzyme R183Q
+KCAT	Homo sapiens	1.68	Abz-GGFLRKHGQ-EDDnp	*pH 7.7, 37&deg;C, mutant enzyme F807A
+KCAT	Homo sapiens	1.7	Abz-GGFLRKHGQ-EDDnp	*pH 7.7, 37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	1.83	Abz-GGFLRKHGQ-EDDnp	*pH 7.7, 37&deg;C, mutant enzyme K364A
+KCAT	Homo sapiens	1.97	Abz-GGFLRKHGQ-EDDnp	*pH 7.7, 37&deg;C, mutant enzyme S137A
+KCAT	Rattus norvegicus	2	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*mutant H112D, pH 7.3
+KCAT	Homo sapiens	2	urodilatin	*pH not specified in the publication, 37&deg;C
+KCAT	Rattus norvegicus	2.4	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*mutant E111V, pH 7.3
+KCAT	Homo sapiens	2.42	Abz-GGFLRKHGQ-EDDnp	*pH 7.7, 37&deg;C, mutant enzyme K898A
+KCAT	Rattus norvegicus	6.5	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*mutant E111L, pH 7.3
+KCAT	Homo sapiens	6.5	7-methoxycoumarin-4-yl-acetyl-RPPGFSAFK-2,4-dinitrophenyl	*pH 7.0, 37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	7.5	(7-methoxycoumarin-4-yl)acetyl-KLVFFAEDK(Dnp)-OH	*pH 7.0, 37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	8	amyloid beta1-40	*pH 7.3, 37&deg;C
+KCAT	Homo sapiens	8	amyloid beta-peptide1-40	*recombinant wild-type enzyme, pH 7.4, 37&deg;C
+KCAT	Triticum aestivum	8	amyloid beta-peptide1-40	*recombinant wild-type enzyme, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	10	protein ANP	*pH not specified in the publication, 37&deg;C
+KCAT	Rattus norvegicus	11.4	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*mutant E111F, pH 7.3
+KCAT	Rattus norvegicus	17.5	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*mutant E111A, pH 7.3
+KCAT	Homo sapiens	20	amyloid beta-peptide1-40	*recombinant mutant D426C/K899C, pH 7.4, 37&deg;C
+KCAT	Triticum aestivum	20	amyloid beta-peptide1-40	*recombinant mutant D426C/K899C, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	20	protein CNP	*pH not specified in the publication, 37&deg;C
+KCAT	Homo sapiens	61	Dabcyl-Tyr-Glu-Val-His-His-Gln-Lys-Leu-Val-Phe-Phe-Ala-Glu-Asp-Val-Gly-Glu(EDANS)-NH2	*pH 7.3, 37&deg;C, presence of 0.04 mM somatostatin
+KCAT	Homo sapiens	62.7	Dabcyl-Tyr-Glu-Val-His-His-Gln-Lys-Leu-Val-Phe-Phe-Ala-Glu-Asp-Val-Gly-Glu(EDANS)-NH2	*pH 7.3, 37&deg;C
+KCAT	Homo sapiens	70	amyloid beta	*pH 8.0, 37&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	93.17	Abz-GGFLRKHGQEDDnp	*pH 7.4, 37&deg;C, recombinant His6-tagged full-length enzyme
+KCAT	Rattus norvegicus	104	Abz-GGFLRKHGQEDDnp	*pH 7.4, 37&deg;C, recombinant His6-tagged full-length enzyme
+KCAT	Rattus norvegicus	1953	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*mutant H112Q, pH 7.3
+KCAT	Rattus norvegicus	162600	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*wild-type, pH 7.3

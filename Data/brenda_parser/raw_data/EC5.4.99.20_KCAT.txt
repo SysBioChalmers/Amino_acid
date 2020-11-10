@@ -1,0 +1,1 @@
+ecNumber*5.4.99.20#turnoverNumber*1.7#turnoverNumberMaximum*#substrate*23S rRNA uridine2457#commentary*pH 7.5, 37&deg;C#organism*Escherichia coli#ligandStructureId*#literature*748400#

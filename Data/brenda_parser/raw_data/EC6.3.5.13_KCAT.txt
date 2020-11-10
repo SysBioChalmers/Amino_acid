@@ -1,0 +1,1 @@
+ecNumber*6.3.5.13#turnoverNumber*4#turnoverNumberMaximum*#substrate*beta-D-GlcNAc-(1-&gt;4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphospho-ditrans,octacis-undecaprenol#commentary*pH 7.5, 30&deg;C#organism*Streptococcus pneumoniae#ligandStructureId*230341#literature*751671#

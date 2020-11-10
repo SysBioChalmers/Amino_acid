@@ -1,0 +1,1 @@
+ecNumber*1.4.7.1#turnoverNumber*3.67#turnoverNumberMaximum*#substrate*L-glutamate#commentary*L-glutamate:iodonitrotetrazolium oxidoreductase activity at pH 9.5#organism*Synechocystis sp.#ligandStructureId*41#literature*391469#!ecNumber*1.4.7.1#turnoverNumber*137#turnoverNumberMaximum*#substrate*L-glutamine#commentary*#organism*Oryza sativa#ligandStructureId*102#literature*392018#

@@ -1,0 +1,75 @@
+KCAT	Thermus thermophilus	-999	more	*turnover numbers for tRNA mutants
+KCAT	Homo sapiens	-999	more	*turnover numbers for mutant yeast tRNAPhe transcripts
+KCAT	Saccharomyces cerevisiae	-999	more	*turnover numbers for mutant yeast tRNAPhe transcripts
+KCAT	Saccharomyces cerevisiae	-999	more	*turnover numbers for aminoacylation of tRNAPhe-C-C-A or tRNAPhe-C-C-A(3'NH2) with various amino acids
+KCAT	Phaseolus vulgaris	-999	more	*
+KCAT	Methanosarcina barkeri	-999	more	*
+KCAT	Phaseolus vulgaris	-999	more	*
+KCAT	Thermus thermophilus	-999	more	*turnover-number of tRNAPheG34A is 10% of wild-type value, turnover-number of tRNAPheG34C/A35U is 31% of wild-type value, turnover-number of tRNAPheA36C is 4.2% of wild-type value, turnover-number of tRNAPheU20A is identical to wild-type value, turnover-number of tRNAPheG44C is 2.1% of wild-type value, turnover-number of tRNAPheG19U/C56G is 1.7% of wild-type value
+KCAT	Saccharomyces cerevisiae	0.0035	L-tryptophan	*mutant enzyme N412G/T415G/S418C/S437F, at pH 7.6, temperature not specified in the publication
+KCAT	Homo sapiens	0.005	L-phenylalanine	*mitochondrial chimeric enzyme with implanted editing module from Escherichia coli phenylalanine-tRNA synthetase, at pH 8.5 and 37&deg;C
+KCAT	Saccharomyces cerevisiae	0.0095	L-phenylalanine	*mutant enzyme N412G/T415G/S418C/S437F, at pH 7.6, temperature not specified in the publication
+KCAT	Homo sapiens	0.012	L-phenylalanine	*mutant enzyme H99D, at pH 8.5 and 37&deg;C
+KCAT	Homo sapiens	0.02	L-phenylalanine	*mutant enzyme R117G, at pH 8.5 and 37&deg;C
+KCAT	Saccharomyces cerevisiae	0.03	2-L-naphthylalanine	*mutant enzyme N412G/T415G/S418C/S437F, at pH 7.6, temperature not specified in the publication
+KCAT	Homo sapiens	0.033	L-tyrosine	*mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Homo sapiens	0.052	DL-m-tyrosine	*mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Saccharolobus solfataricus	0.055	L-phenylalanine	*pH 7.8, 60&deg;C
+KCAT	Homo sapiens	0.057	3,4-dihydroxy-L-phenylalanine	*mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Homo sapiens	0.06	L-phenylalanine	*wild type mitochondrial enzyme, at pH 8.5 and 37&deg;C
+KCAT	Homo sapiens	0.07	tRNAPhe	*mutant enzyme R383C, at pH 8.5 and 37&deg;C
+KCAT	Homo sapiens	0.075	L-phenylalanine	*mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Escherichia coli	0.077	tRNAPhe	*pH 7.2, 37&deg;C, full-length PheRSA294G, substrate from Saccharomyces cerevisiae
+KCAT	Homo sapiens	0.08	tRNAPhe	*mutant enzyme D289Y, at pH 8.5 and 37&deg;C
+KCAT	Homo sapiens	0.11	tRNAPhe	*aminoacylation reaction, recombinant mitochondrial isozyme, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.11	tRNAPhe	*pH 7.2, 37&deg;C, truncated mutant PheRSDELTAB2A294G, substrate from Saccharomyces cerevisiae
+KCAT	Saccharolobus solfataricus	0.115	L-phenylalanine	*pH 7.8, 70&deg;C
+KCAT	Homo sapiens	0.14	tRNAPhe	*mutant enzyme P49A, at pH 8.5 and 37&deg;C; mutant enzyme R387Q, at pH 8.5 and 37&deg;C
+KCAT	Thermus thermophilus	0.16	3,4-dihydroxy-L-phenylalanine	*in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Homo sapiens	0.19	L-phenylalanine	*wild type enzyme, at pH 8.5 and 37&deg;C
+KCAT	Homo sapiens	0.19	tRNAPhe	*wild type enzyme, at pH 8.5 and 37&deg;C
+KCAT	Homo sapiens	0.22	tRNAPhe	*mutant enzyme T210M, at pH 8.5 and 37&deg;C
+KCAT	Homo sapiens	0.23	3,4-dihydroxy-L-phenylalanine	*cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.6	L-tyrosine	*mutant G458S ctPheRS
+KCAT	Homo sapiens	0.65	DL-m-tyrosine	*cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Pseudomonas aeruginosa	0.74	tRNAPhe	*at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	0.78	tRNAPhe	*pH 7.2, 37&deg;C, truncated mutant PheRSDELTAB2A294G, substrate from Escherichia coli
+KCAT	Escherichia coli	0.82	tRNAPhe	*pH 7.2, 37&deg;C, full-length PheRSA294G, substrate from Escherichia coli
+KCAT	Homo sapiens	0.87	L-phenylalanine	*cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Streptococcus pneumoniae	0.93	tRNAPhe	*at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	0.975	L-Phe	*mutant enzyme with A294G mutation in alpha-subunit and T354W mutation in beta-subunit
+KCAT	Homo sapiens	1.1	L-phenylalanine	*ATP-diphosphate exchange reaction, recombinant mitochondrial isozyme, pH 7.3, 37&deg;C
+KCAT	Thermus thermophilus	1.12	L-phenylalanine	*in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30&deg;C
+KCAT	Escherichia coli	1.72	L-Phe	*wild-type enzyme
+KCAT	Escherichia coli	2.04	L-Phe	*mutant enzyme with A294G mutation in alpha-subunit
+KCAT	Escherichia coli	2.3	benzofuranylalanine	*
+KCAT	Escherichia coli	2.645	L-Phe	*mutant enzyme with A294G mutation in alpha-subunit and E334A mutation in beta-subunit
+KCAT	Escherichia coli	2.88	L-Phe	*mutant enzyme with A294G mutation in alpha-subunit and H265A mutation in beta-subunit
+KCAT	Homo sapiens	2.9	ATP	*ATP-diphosphate exchange reaction, mitochondrial isozyme, pH 7.3, 37&deg;C
+KCAT	Escherichia coli	3	L-Phe	*mutant enzyme with A294G mutation in alpha-subunit and E334A mutation in beta-subunit
+KCAT	Escherichia coli	3.12	L-Phe	*mutant enzyme with A294G mutation in alpha-subunit and A356W mutation in beta-subunit
+KCAT	Escherichia coli	3.27	L-phenylalanine	*pH 7.2, 37&deg;C, truncated mutant PheRSDELTAB2A294G
+KCAT	Escherichia coli	3.3	L-Phe	*mutant enzyme with A294G mutation in alpha-subunit and H265L mutation in beta-subunit
+KCAT	Escherichia coli	3.34	L-phenylalanine	*pH 7.2, 37&deg;C, full-length PheRSA294G
+KCAT	Saccharomyces cerevisiae	5	L-tyrosine	*wild-type mtPheRS
+KCAT	Escherichia coli	6.08	L-Phe	*mutant enzyme with A294G mutation in alpha-subunit and T354W mutation in beta-subunit
+KCAT	Saccharomyces cerevisiae	12.5	L-tyrosine	*mutant A333G mtPheRS
+KCAT	Pseudomonas aeruginosa	13.2	ATP	*at pH 7.5 and 37&deg;C
+KCAT	Streptococcus pneumoniae	15.5	ATP	*at pH 7.5 and 37&deg;C
+KCAT	Pseudomonas aeruginosa	16.2	L-phenylalanine	*at pH 7.5 and 37&deg;C
+KCAT	Streptococcus pneumoniae	22.5	L-phenylalanine	*at pH 7.5 and 37&deg;C
+KCAT	Saccharomyces cerevisiae	26	3-L-tyrosine	*at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	35	L-tyrosine	*wild-type EcPheRS
+KCAT	Saccharomyces cerevisiae	39.4	2-L-tyrosine	*at pH 7.5 and 37&deg;C
+KCAT	Saccharomyces cerevisiae	58.2	L-phenylalanine	*at pH 7.5 and 37&deg;C
+KCAT	Saccharomyces cerevisiae	140	L-phenylalanine	*mutant A333G mtPheRS
+KCAT	Saccharomyces cerevisiae	150	L-Phe	*pH 7.2, 37&deg;C, mitochondrial enzyme
+KCAT	Saccharomyces cerevisiae	160	L-Tyr	*pH 7.2, 37&deg;C, cytosolic enzyme
+KCAT	Saccharomyces cerevisiae	180	L-phenylalanine	*wild-type mtPheRS
+KCAT	Saccharomyces cerevisiae	184	L-tyrosine	*wild-type ctPheRS
+KCAT	Escherichia coli	185	L-phenylalanine	*mutant A294G EcPheRS
+KCAT	Escherichia coli	185	L-tyrosine	*mutant A294G EcPheRS
+KCAT	Escherichia coli	199	L-phenylalanine	*wild-type EcPheRS
+KCAT	Saccharomyces cerevisiae	240	L-Phe	*pH 7.2, 37&deg;C, cytosolic enzyme
+KCAT	Saccharomyces cerevisiae	464	L-phenylalanine	*mutant G45A8 ctPheRS
+KCAT	Saccharomyces cerevisiae	603	L-phenylalanine	*wild-type ctPheRS

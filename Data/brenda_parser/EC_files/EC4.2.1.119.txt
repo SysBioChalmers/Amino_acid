@@ -1,0 +1,13 @@
+KCAT	Rattus norvegicus	-999	more	*kinetic parameters of the enzyme are measured with concentrations of substrates from 5 to 200 microM
+KCAT	Cucumis sativus	-999	more	*kcat/Km for 2-trans-decenoyl-CoA is 24 microM/s, kcat/Km for 2-trans-butenoyl-CoA is 0.44 microM/s
+KCAT	Drosophila melanogaster	0.38	(2E)-butenoyl-CoA	*pH 7.5, 22&deg;C, recombinant full-length enzyme
+KCAT	Homo sapiens	1.3	(2E)-2-decenoyl-CoA	*mutant enzyme E366A, pH 5
+KCAT	Rattus norvegicus	2.3	crotonyl-CoA	*
+KCAT	Homo sapiens	17.9	(2E)-2-decenoyl-CoA	*mutant enzyme E366A, pH 8
+KCAT	Rattus norvegicus	22.8	(2E)-hexenoyl-CoA	*
+KCAT	Rattus norvegicus	26	(2E)-decenoyl-CoA	*
+KCAT	Homo sapiens	105	(2E)-2-decenoyl-CoA	*wild type enzyme, pH 5
+KCAT	Homo sapiens	196	(2E)-2-decenoyl-CoA	*wild type enzyme, pH 8
+KCAT	Drosophila melanogaster	210	(2E)-hexenoyl-CoA	*pH 7.5, 22&deg;C, recombinant full-length enzyme
+KCAT	Candida tropicalis	388	(2E)-2-decenoyl-CoA	*recombinant enzyme CtMfe2p(dha+bdelta)
+KCAT	Drosophila melanogaster	1100	(2E)-decenoyl-CoA	*pH 7.5, 22&deg;C, recombinant full-length enzyme

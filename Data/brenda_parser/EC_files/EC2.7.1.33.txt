@@ -1,0 +1,58 @@
+KCAT	Mycobacterium tuberculosis	0.052	ATP	*citrate buffer, pH6.0
+KCAT	Mycobacterium tuberculosis	0.052	ATP	*in citrate buffer, pH 6.5, temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	0.064	GTP	*in citrate buffer, pH 6.5, temperature not specified in the publication
+KCAT	Escherichia coli	0.071	ATP	*citrate buffer, pH 6.0
+KCAT	Escherichia coli	0.13	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-[[2-oxo-2-(pentylamino)ethyl]amino]propyl)butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Staphylococcus aureus	0.15	N-pentylpantothenamide	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Escherichia coli	0.18	(2R)-N-[3-(2,3-dihydro-1H-indol-1-yl)-3-oxopropyl]-2,4-dihydroxy-3,3-dimethylbutanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	0.23	3-[[(2R)-2,4-dihydroxy-3,3-dimethylbutanoyl]amino]-2-(pentylamino)propanoate	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	0.28	(2S)-3-ethyl-2-hydroxy-3-(hydroxymethyl)-N-[3-oxo-3-(pentylamino)propyl]hex-5-enamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Thermotoga maritima	0.29	(R)-pantothenate	*in 100 mM HEPES, pH 7.6, 20 mM KCl, 10 mM MgCl2, 2 mM phosphoenolpyruvate, 0.3 mM NADH, 5 units of lactate dehydrogenase, 2.5 units of pyruvate kinase, and 0.00027 mM of the PanK-III protein, at 50&deg;C
+KCAT	Mycobacterium tuberculosis	0.38	pantothenol	*25&deg;C, pH 7.8, determined by isothermal titration calorimetry
+KCAT	Bacillus anthracis	0.4	dTTP	*
+KCAT	Mycobacterium tuberculosis	0.4	pantothenol	*25&deg;C, pH 7.8, determined from coupled assay
+KCAT	Mycobacterium tuberculosis	0.411	ATP	*Tris-HCl buffer, pH8.0
+KCAT	Staphylococcus aureus	0.425	N-heptylpantothenamide	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Escherichia coli	0.45	(2R)-N-[3-(1,3-dihydro-2H-isoindol-2-yl)-3-oxopropyl]-2,4-dihydroxy-3,3-dimethylbutanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	0.46	(2R)-2,4-dihydroxy-N-(3-[[3-(1H-imidazol-1-yl)propyl]amino]-3-oxopropyl)-3,3-dimethylbutanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	0.49	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-(1-propyl-1H-1,2,3-triazol-4-yl)propyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Bacillus anthracis	0.5	dCTP	*
+KCAT	Mycobacterium tuberculosis	0.61	pantothenate	*25&deg;C, pH 7.8, determined from coupled assay
+KCAT	Mycobacterium tuberculosis	0.62	ATP	*25&deg;C, pH 7.8, determined from coupled assay
+KCAT	Mycobacterium tuberculosis	0.62	pantothenate	*25&deg;C, pH 7.8, determined by isothermal titration calorimetry
+KCAT	Mycobacterium tuberculosis	0.65	ATP	*25&deg;C, pH 7.8, determined by isothermal titration calorimetry
+KCAT	Picrophilus torridus	0.718	ATP	*
+KCAT	Escherichia coli	0.75	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-oxo-3-[[2-(piperazin-1-yl)ethyl]amino]propyl)butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	0.78	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-[(3-methylpyridin-2-yl)amino]-3-oxopropyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Bacillus anthracis	0.8	dGTP	*
+KCAT	Picrophilus torridus	0.818	pantothenate	*
+KCAT	Escherichia coli	0.89	(2S)-3-ethyl-2-hydroxy-3-(hydroxymethyl)-N-[3-oxo-3-(pentylamino)propyl]hex-5-enamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Bacillus anthracis	0.9	dATP	*
+KCAT	Escherichia coli	0.93	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-(pentylamino)propyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	0.94	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-[(pyridin-4-ylmethyl)amino]propyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	0.96	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[(1-pentyl-1H-1,2,3-triazol-4-yl)methyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.02	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-(phenylamino)propyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.02	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-[(pyridin-2-ylmethyl)amino]propyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.03	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-[[3-(morpholin-4-yl)propyl]amino]-3-oxopropyl)butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.03	pantheteine	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.04	(2S)-3-ethyl-2-hydroxy-3-(hydroxymethyl)-N-[3-oxo-3-(pentylamino)propyl]hept-6-ynamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.07	(R)-pantothenate	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.09	(2R)-N-[3-[(2-butanamidoethyl)amino]-3-oxopropyl]-2,4-dihydroxy-3,3-dimethylbutanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.12	N-[(2R)-2,4-dihydroxy-3,3-dimethylbutanoyl]-beta-alanyl-N-pentylglycinamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.13	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-[(3-phenylpropyl)amino]propyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.14	ATP	*Tris-HCl buffer, pH 8.0
+KCAT	Escherichia coli	1.15	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-oxo-3-[[2-(pyridin-2-yl)ethyl]amino]propyl)butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.15	(2R)-N-[3-(benzylamino)-3-oxopropyl]-2,4-dihydroxy-3,3-dimethylbutanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.17	(2S)-2-hydroxy-3-(hydroxymethyl)-3-methyl-N-[3-oxo-3-(pentylamino)propyl]pentanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.19	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-oxo-3-[[(piperidin-4-yl)methyl]amino]propyl)butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.24	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-[(pyridin-3-ylmethyl)amino]propyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Escherichia coli	1.44	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-(pyrimidin-4-ylamino)propyl]butanamide	*at pH 7.6, temperature not specified in the publication
+KCAT	Bacillus anthracis	1.5	ATP	*
+KCAT	Bacillus anthracis	1.5	CTP	*
+KCAT	Staphylococcus aureus	1.6	ATP	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	1.7	(R)-pantothenate	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Bacillus anthracis	1.7	UTP	*
+KCAT	Helicobacter pylori	2.09	ATP	*pH 7.6, 25&deg;C
+KCAT	Helicobacter pylori	2.09	(R)-pantothenate	*pH 7.6, 25&deg;C
+KCAT	Bacillus subtilis	2.12	ATP	*pH 7.6, 25&deg;C
+KCAT	Bacillus subtilis	2.12	(R)-pantothenate	*pH 7.6, 25&deg;C

@@ -1,0 +1,35 @@
+KCAT	Saccharomyces cerevisiae	0.0001	Zymosterol	*pH 7.5, 32&deg;C, mutant enzyme H199L
+KCAT	Saccharomyces cerevisiae	0.0001167	26,27-dehydrozymosterol	*mutant Y81A; mutant Y81V
+KCAT	Saccharomyces cerevisiae	0.00025	26,27-dehydrozymosterol	*mutant Y81I
+KCAT	Saccharomyces cerevisiae	0.0003333	26,27-dehydrozymosterol	*mutant Y81L
+KCAT	Saccharomyces cerevisiae	0.0006667	26,27-dehydrozymosterol	*wild-type
+KCAT	Saccharomyces cerevisiae	0.0008	26,27-dehydrozymosterol	*
+KCAT	Saccharomyces cerevisiae	0.0008333	Zymosterol	*mutant Y81A
+KCAT	Glycine max	0.001	24(28)-methylene lophenol	*wild-type
+KCAT	Saccharomyces cerevisiae	0.001	Zymosterol	*mutant E98L
+KCAT	Saccharomyces cerevisiae	0.001167	Zymosterol	*mutant Y81V
+KCAT	Saccharomyces cerevisiae	0.002	Zymosterol	*pH 7.5, 32&deg;C, mutant enzyme E108L; pH 7.5, 32&deg;C, mutant enzyme E246L
+KCAT	Paracoccidioides brasiliensis	0.0023	lanosterol	*pH 7.5, 37&deg;C
+KCAT	Saccharomyces cerevisiae	0.0025	26,27-dehydrozymosterol	*mutant Y81F
+KCAT	Saccharomyces cerevisiae	0.003	AdoMet	*mutant Tyr153Phe
+KCAT	Saccharomyces cerevisiae	0.003	Zymosterol	*pH 7.5, 32&deg;C, mutant enzyme H107L
+KCAT	Saccharomyces cerevisiae	0.003333	26,27-dehydrozymosterol	*mutant Y81W
+KCAT	Saccharomyces cerevisiae	0.004167	Zymosterol	*mutant Y81L
+KCAT	Saccharomyces cerevisiae	0.004333	Zymosterol	*mutant Y81I
+KCAT	Glycine max	0.005	24(28)-methylene lophenol	*mutant Y83F
+KCAT	Saccharomyces cerevisiae	0.005	AdoMet	*mutant Cys128Ser
+KCAT	Saccharomyces cerevisiae	0.005	Zymosterol	*mutants E82L and E64L
+KCAT	Saccharomyces cerevisiae	0.007	Zymosterol	*mutant D65L
+KCAT	Saccharomyces cerevisiae	0.008	Zymosterol	*pH 7.5, 32&deg;C, mutant enzyme D189L; pH 7.5, 32&deg;C, mutant enzyme E224L; pH 7.5, 32&deg;C, mutant enzyme H238L
+KCAT	Saccharomyces cerevisiae	0.009	Zymosterol	*pH 7.5, 32&deg;C, mutant enzyme E209L
+KCAT	Saccharomyces cerevisiae	0.01	AdoMet	*mutant Tyr153Leu; wild-type
+KCAT	Glycine max	0.01	Cycloartenol	*wild-type and mutants Y83F and Y83L
+KCAT	Glycine max	0.01	Cycloartenol	*
+KCAT	Saccharomyces cerevisiae	0.01	Zymosterol	*
+KCAT	Saccharomyces cerevisiae	0.01	Zymosterol	*wild-type and mutant D79L
+KCAT	Saccharomyces cerevisiae	0.01	Zymosterol	*mutant Y81F
+KCAT	Candida albicans	0.01	Zymosterol	*pH 7.5, 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.01083	Zymosterol	*wild-type
+KCAT	Saccharomyces cerevisiae	0.011	Zymosterol	*pH 7.5, 32&deg;C, wild-type enzyme
+KCAT	Trypanosoma brucei	0.013	Zymosterol	*
+KCAT	Saccharomyces cerevisiae	0.01333	Zymosterol	*mutant Y81W

@@ -1,0 +1,21 @@
+KCAT	Desulfovibrio gigas	0.8	octaldehyde	*25&deg;C, pH 8.0, enzyme in aqueous solution
+KCAT	Desulfovibrio gigas	1.19	decylaldehyde	*25&deg;C, pH 8.0, enzyme in aqueous solution
+KCAT	Desulfovibrio gigas	1.2	octaldehyde	*25&deg;C, pH 8.0, enzyme in sodium bis(2-ethylhexyl) sulfosuccinate reverse micelles, hydratation degree 26
+KCAT	Desulfovibrio gigas	1.22	decylaldehyde	*25&deg;C, pH 8.0, enzyme in sodium bis(2-ethylhexyl) sulfosuccinate reverse micelles, hydratation degree 26
+KCAT	Desulfovibrio gigas	1.25	benzaldehyde	*25&deg;C, pH 8.0, enzyme in sodium bis(2-ethylhexyl) sulfosuccinate reverse micelles, hydratation degree 26
+KCAT	Desulfovibrio gigas	1.35	benzaldehyde	*25&deg;C, pH 8.0, enzyme in aqueous solution
+KCAT	Thermococcus sp.	1.6	acetaldehyde	*with methyl viologen as cosubstrate
+KCAT	Thermococcus sp.	10.5	glyceraldehyde	*with benzyl viologen as cosubstrate, at 45&deg;C
+KCAT	Thermococcus sp.	13	Salicylaldehyde	*with benzyl viologen as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	22	crotonaldehyde	*with benzyl viologen as cosubstrate, at 45&deg;C
+KCAT	Thermococcus sp.	55	indolecetaldehyde	*with benzyl viologen as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	62	methyl viologen	*with crotonaldehyde as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	250	benzyl viologen	*with crotonaldehyde as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	269	crotonaldehyde	*with benzyl viologen as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	270	ES-1 ferredoxin	*with crotonaldehyde as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	272	Isovaleraldehyde	*with benzyl viologen as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	343	acetaldehyde	*with benzyl viologen as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	720	benzaldehyde	*with benzyl viologen as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	950	methanal	*with benzyl viologen as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	960	phenylacetaldehyde	*with benzyl viologen as cosubstrate, at 85&deg;C
+KCAT	Thermococcus sp.	1100	propanal	*with benzyl viologen as cosubstrate, at 85&deg;C

@@ -1,0 +1,3 @@
+KCAT	Streptococcus pneumoniae	0.02	UDP-MurNAc-L-alanyl-gamma-D-glutamyl-L-lysyl(N6-L-seryl)-D-alanyl-D-alanine	*pH 6.8, 37&deg;C
+KCAT	Streptococcus pneumoniae	0.06	UDP-MurNAc-L-alanyl-gamma-D-glutamyl-L-lysyl(N6-L-alanyl)-D-alanyl-D-alanine	*pH 6.8, 37&deg;C
+KCAT	Streptococcus pneumoniae	0.07	UDP-MurNAc-L-alanyl-gamma-D-glutamyl-L-lysyl(N6-L-alanyl)-D-alanyl-D-alanine	*pH 6.8, 37&deg;C

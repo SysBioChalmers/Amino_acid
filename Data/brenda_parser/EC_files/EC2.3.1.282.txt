@@ -1,0 +1,2 @@
+KCAT	Mycobacterium tuberculosis	0.00045	palmitoyl-CoA	*pH 6.5, 387&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.0004	octan-1-ol	*pH 6.5, 387&Acirc;&deg;C

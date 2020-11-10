@@ -1,0 +1,2 @@
+KCAT	Pseudomonas putida	86	L-histidine	*25&deg;C, pH 9.3
+KCAT	Pseudomonas putida	255	L-histidine	*

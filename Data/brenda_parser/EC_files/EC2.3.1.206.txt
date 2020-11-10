@@ -1,0 +1,2 @@
+KCAT	Cannabis sativa	0.011	butyryl-CoA	*pH 5.5, 30&deg;C, dependent on product formed
+KCAT	Cannabis sativa	0.018	hexanoyl-CoA	*pH 5.5, 30&deg;C, dependent on product formed

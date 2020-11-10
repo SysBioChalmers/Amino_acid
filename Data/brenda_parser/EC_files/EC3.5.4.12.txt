@@ -1,0 +1,9 @@
+KCAT	Escherichia virus T4	-999	more	*mutants R115E and R115Q possessing turnover number or kcat that is about 15% that of wild-type enzyme
+KCAT	Paramecium bursaria Chlorella virus 1	5.7	dCTP	*pH 9.5, 42&deg;C
+KCAT	Paramecium bursaria Chlorella virus 1	24.9	dCMP	*pH 9.5, 42&deg;C, in presence of 0.1 mM dCTP
+KCAT	Escherichia virus T4	69	dCMP	*mutant R115E, pH 8.0, 30&deg;C; R115E
+KCAT	Escherichia virus T4	85	dCMP	*mutant R115Q, pH 8.0, 30&deg;C; R115Q dimer
+KCAT	Escherichia virus T4	255	dCMP	*R115Q hexamer
+KCAT	Escherichia virus T4	466	dCMP	*wild-type; wild-type enzyme, pH 8.0, 30&deg;C
+KCAT	Homo sapiens	960	dCMP	*
+KCAT	Equus asinus	1400	dCMP	*

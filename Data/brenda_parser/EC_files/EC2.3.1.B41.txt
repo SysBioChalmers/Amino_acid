@@ -1,0 +1,11 @@
+KCAT	Plasmodium falciparum	0.001	[histone H3 peptide]-N6-acetyl-L-lysine	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	0.001	[histone H3 peptide]-N6-butyryl-L-lysine	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	0.001	[histone H3 peptide]-N6-octanoyl-L-lysine	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.002	[synthetic tumor necrosis factor alpha peptide]-N6-myristoyl-L-lysine19	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.0021	[histone H3 peptide]-N6-butyryl-L-lysine	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.0027	[histone H3 peptide]-N6-palmitoyl-L-lysine	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.0039	[histone H3 peptide]-N6-acetyl-L-lysine	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.0046	[histone H3 peptide]-N6-octanoyl-L-lysine	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.0049	[histone H3 peptide]-N6-myristoyl-L-lysine	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	0.005	[synthetic tumor necrosis factor alpha peptide]-N6-myristoyl-L-lysine20	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	0.01	[histone H3 peptide]-N6-myristoyl-L-lysine	*pH 8.0, 37&deg;C

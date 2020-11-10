@@ -1,0 +1,1 @@
+KCAT	Moorella thermoacetica	0.09	oxalate	*in 50 mM Tris-HCl, 2 mM dithiothreitol, pH 7.9, at 25&deg;C

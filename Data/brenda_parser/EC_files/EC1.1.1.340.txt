@@ -1,0 +1,1 @@
+KCAT	Streptomyces avermitilis	0.65	1-deoxy-11beta-hydroxypentalenic acid	*pH 8.0, 22&deg;C

@@ -1,0 +1,1 @@
+ecNumber*3.1.6.2#turnoverNumber*6.48#turnoverNumberMaximum*#substrate*dehydroepiandrosterone sulfate#commentary*pH 8, 37&deg;C#organism*Homo sapiens#ligandStructureId*5540#literature*656641#

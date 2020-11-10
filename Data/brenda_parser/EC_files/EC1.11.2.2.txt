@@ -1,0 +1,33 @@
+KCAT	Homo sapiens	13	H2O2	*apparent value, measured after 15 s, in 50 mM phosphate buffer, at pH 7.2 and 20&Acirc;&deg;C
+KCAT	Homo sapiens	25	H2O2	*apparent value, measured after 1 s, in 50 mM phosphate buffer, at pH 7.2 and 20&Acirc;&deg;C
+KCAT	Homo sapiens	320	H2O2	*apparent value, measured after 100 ms, in 50 mM phosphate buffer, at pH 7.2 and 20&Acirc;&deg;C
+KCAT	Homo sapiens	28.5	Cl-	*at 21&Acirc;&deg;C in 50 mM sodium phosphate buffer, pH 7.4
+KCAT	Homo sapiens	0.000012	catechol	*25&Acirc;&deg;C, pH 5.5
+KCAT	Bos taurus	0.000022	catechol	*25&Acirc;&deg;C, pH 5.5
+KCAT	Homo sapiens	0.7	nitrite	*at 21&Acirc;&deg;C in 50 mM sodium phosphate buffer, pH 7.4
+KCAT	Homo sapiens	0.0000001	dopamine	*25&Acirc;&deg;C, pH 5.5
+KCAT	Bos taurus	0.0000016	dopamine	*25&Acirc;&deg;C, pH 5.5
+KCAT	Homo sapiens	30.5	thiocyanate	*at 21&Acirc;&deg;C in 50 mM sodium phosphate buffer, pH 7.4
+KCAT	Homo sapiens	0.00000016	SCN-	*25&Acirc;&deg;C, pH 5.5
+KCAT	Bos taurus	0.0000033	SCN-	*25&Acirc;&deg;C, pH 5.5
+KCAT	Homo sapiens	4	thioanisole	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	12	thioanisole	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	1	benzyl methyl sulfide	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	8	benzyl methyl sulfide	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	3	1-methyl-4-(methylsulfanyl)benzene	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	20	1-methyl-4-(methylsulfanyl)benzene	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	1	benzothiophene	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	1.6	benzothiophene	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	10	4-(methylsulfanyl)aniline	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	40	4-(methylsulfanyl)aniline	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	0.43	1-methoxy-4-(methylsulfanyl)benzene	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	6	1-methoxy-4-(methylsulfanyl)benzene	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	5	1-chloro-4-(methylsulfanyl)benzene	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	35	1-chloro-4-(methylsulfanyl)benzene	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	4.2	1-acetyl-4-(methylsulfanyl)benzene	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	56	1-acetyl-4-(methylsulfanyl)benzene	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	1.8	1-nitro-4-(methylsulfanyl)benzene	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	5.5	1-nitro-4-(methylsulfanyl)benzene	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	7.3	phenyl propan-2-yl sulfide	*in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	14	phenyl propan-2-yl sulfide	*in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20&Acirc;&deg;C
+KCAT	Homo sapiens	186	10-acetyl-3,7-dihydroxyphenoxazine	*at pH 5.6 and 25&Acirc;&deg;C

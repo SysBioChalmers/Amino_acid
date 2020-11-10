@@ -1,0 +1,2 @@
+KCAT	Xanthomonas citri	12.53	beta-mannan	*pH 5.5, 40&deg;C
+KCAT	Xanthomonas citri	126.86	mannohexaose	*pH 5.5, 40&deg;C

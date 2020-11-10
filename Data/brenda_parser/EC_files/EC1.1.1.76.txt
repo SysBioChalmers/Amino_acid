@@ -1,0 +1,4 @@
+KCAT	Bacillus licheniformis	1222	diacetyl	*at pH 5.0 and 30&Acirc;&deg;C
+KCAT	Bacillus licheniformis	591	(R,R)-butane-2,3-diol	*at pH 10.0 and 30&Acirc;&deg;C
+KCAT	Mycobacterium sp.	6	(R,S)-acetoin	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Bacillus licheniformis	202	(2S)-acetoin	*at pH 10.0 and 30&Acirc;&deg;C

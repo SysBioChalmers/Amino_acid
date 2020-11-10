@@ -1,0 +1,2 @@
+KCAT	Dehalococcoides mccartyi	3.9	3-phospho-D-glycerate	*pH 7.5, 30&deg;C, recombinant holoenzyme
+KCAT	Dehalococcoides mccartyi	3.9	GDP-mannose	*pH 7.5, 30&deg;C, recombinant holoenzyme

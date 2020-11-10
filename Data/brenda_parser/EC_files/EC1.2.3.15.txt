@@ -1,0 +1,1 @@
+KCAT	Phanerochaete chrysosporium	198	methylglyoxal	*at pH 4.5 and 25&Acirc;&deg;C

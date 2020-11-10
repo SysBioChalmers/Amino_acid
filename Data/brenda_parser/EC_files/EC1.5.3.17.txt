@@ -1,0 +1,64 @@
+KCAT	Arabidopsis thaliana	0.009	spermidine	*37&Acirc;&deg;C, pH 7.5
+KCAT	Arabidopsis thaliana	0.1	spermidine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO4
+KCAT	Arabidopsis thaliana	1.25	spermidine	*37&Acirc;&deg;C, pH 7.0; pH 7.5, 37&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Arabidopsis thaliana	3.4	spermidine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	3.4	spermidine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Arabidopsis thaliana	4.6	spermidine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	4.6	spermidine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO2
+KCAT	Arabidopsis thaliana	0.009	spermine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Oryza sativa	0.025	spermine	*pH 6.0, 30&Acirc;&deg;C
+KCAT	Oryza sativa	0.043	spermine	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.069	spermine	*37&Acirc;&deg;C, pH 7.5
+KCAT	Mus musculus	0.12	spermine	*pH 10.0, 30&Acirc;&deg;C, recombinant mutant H64N
+KCAT	Arabidopsis thaliana	0.188	spermine	*37&Acirc;&deg;C, pH 7.0; pH 7.5, 37&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Mus musculus	0.3	spermine	*pH 10.0, 30&Acirc;&deg;C, recombinant mutant H64A
+KCAT	Mus musculus	0.34	spermine	*pH 10.0, 30&Acirc;&deg;C, recombinant mutant H64Q
+KCAT	Arabidopsis thaliana	1.7	spermine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	1.7	spermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Saccharomyces cerevisiae	2	spermine	*pH 9.35, 25&Acirc;&deg;C, recombinant mutant D94N
+KCAT	Arabidopsis thaliana	4.2	spermine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	4.2	spermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO2
+KCAT	Arabidopsis thaliana	4.6	spermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO4
+KCAT	Mus musculus	4.7	spermine	*pH 10.0, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Saccharomyces cerevisiae	4.9	spermine	*pH 9.35, 25&Acirc;&deg;C, recombinant mutant N195A
+KCAT	Saccharomyces cerevisiae	39	spermine	*pH 9.35, 25&Acirc;&deg;C, recombinant wild-type Fms1
+KCAT	Arabidopsis thaliana	0.014	N1-acetylspermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO4
+KCAT	Arabidopsis thaliana	0.02	N1-acetylspermine	*37&Acirc;&deg;C, pH 7.0
+KCAT	Arabidopsis thaliana	0.02	N1-acetylspermine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.02	N1-acetylspermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Oryza sativa	0.022	N1-acetylspermine	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.025	N1-acetylspermine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Arabidopsis thaliana	0.084	N1-acetylspermine	*37&Acirc;&deg;C, pH 7.5
+KCAT	Arabidopsis thaliana	0.8	N1-acetylspermine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.8	N1-acetylspermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO2
+KCAT	Arabidopsis thaliana	2	N1-acetylspermine	*pH 7.5, 37&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Mus musculus	3.1	N1-acetylspermine	*pH 10.0, 30&Acirc;&deg;C, recombinant mutant H64A
+KCAT	Mus musculus	4.1	N1-acetylspermine	*pH 10.0, 30&Acirc;&deg;C, recombinant mutant H64N
+KCAT	Mus musculus	4.5	N1-acetylspermine	*pH 10.0, 30&Acirc;&deg;C, recombinant mutant H64Q
+KCAT	Saccharomyces cerevisiae	8.1	N1-acetylspermine	*pH 9.0, 25&Acirc;&deg;C, recombinant mutant N195A
+KCAT	Saccharomyces cerevisiae	9.7	N1-acetylspermine	*pH 9.0, 25&Acirc;&deg;C, recombinant mutant D94N
+KCAT	Saccharomyces cerevisiae	15.1	N1-acetylspermine	*pH 9.0, 25&Acirc;&deg;C, recombinant wild-type Fms1
+KCAT	Mus musculus	49	N1-acetylspermine	*pH 10.0, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Arabidopsis thaliana	0.042	N1-acetylspermidine	*37&Acirc;&deg;C, pH 7.0
+KCAT	Arabidopsis thaliana	1	N1-acetylspermidine	*pH 7.5, 37&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Arabidopsis thaliana	0.012	norspermine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Oryza sativa	0.018	norspermine	*pH 6.0, 30&Acirc;&deg;C
+KCAT	Oryza sativa	0.036	norspermine	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.086	norspermine	*37&Acirc;&deg;C, pH 7.5
+KCAT	Arabidopsis thaliana	0.45	norspermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO4
+KCAT	Arabidopsis thaliana	1.1	norspermine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	1.1	norspermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Arabidopsis thaliana	2.9	norspermine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	2.9	norspermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO2
+KCAT	Arabidopsis thaliana	0.035	thermospermine	*37&Acirc;&deg;C, pH 6.5
+KCAT	Oryza sativa	0.051	thermospermine	*pH 6.0, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.1	thermospermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO4
+KCAT	Arabidopsis thaliana	0.115	thermospermine	*37&Acirc;&deg;C, pH 7.5
+KCAT	Arabidopsis thaliana	0.4	thermospermine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.4	thermospermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO2
+KCAT	Arabidopsis thaliana	0.5	thermospermine	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.5	thermospermine	*pH 7.5, 25&Acirc;&deg;C, recombinant AtPAO3
+KCAT	Mus musculus	0.16	N,N'-dibenzyl-1,4-diaminobutane	*pH 8.6, 30&Acirc;&deg;C, recombinant mutant H64A
+KCAT	Mus musculus	0.2	N,N'-dibenzyl-1,4-diaminobutane	*pH 8.6, 30&Acirc;&deg;C, recombinant mutant H64Q
+KCAT	Mus musculus	0.22	N,N'-dibenzyl-1,4-diaminobutane	*pH 8.6, 30&Acirc;&deg;C, recombinant mutant H64N
+KCAT	Mus musculus	0.9	N,N'-dibenzyl-1,4-diaminobutane	*pH 8.6, 30&Acirc;&deg;C, recombinant wild-type enzyme

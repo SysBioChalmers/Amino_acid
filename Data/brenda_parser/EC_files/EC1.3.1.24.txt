@@ -1,0 +1,25 @@
+KCAT	Homo sapiens	0.01	NADPH	*mutant enzyme S111L, at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.025	NADPH	*mutant enzyme S111A, at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.097	NADPH	*mutant enzyme R124A, at pH 7.2 and 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.171	NADPH	*wild type enzyme, at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.237	NADPH	*mutant enzyme H132A, at pH 7.2 and 30&Acirc;&deg;C; wild type enzyme, at pH 7.2 and 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.4	NADPH	*mutant enzyme R174A, at pH 7.2 and 30&Acirc;&deg;C
+KCAT	Bos taurus	1.7	NADH	*without Cl-
+KCAT	Bos taurus	5.6	NADH	*with Cl-
+KCAT	Rattus norvegicus	0.7	Biliverdin	*mutant enzyme R171E, at pH 8.9, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.7	Biliverdin	*mutant enzyme R185A, at pH 5.8, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.9	Biliverdin	*mutant enzyme R185K, at pH 5.8, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	2	Biliverdin	*mutant enzyme K237A, at pH 5.8, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	2.7	Biliverdin	*mutant enzyme Y102F, at pH 5.8, temperature not specified in the publication
+KCAT	Rattus norvegicus	6	Biliverdin	*mutant enzyme R171A, at pH 8.9, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	7.1	Biliverdin	*wild type enzyme, at pH 5.8, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	11	Biliverdin	*mutant enzyme R246A, at pH 5.8, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	11.3	Biliverdin	*mutant enzyme S184A, at pH 5.8, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	13.1	Biliverdin	*mutant enzyme T169A, at pH 5.8, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	13.4	Biliverdin	*mutant enzyme R188A, at pH 5.8, temperature not specified in the publication
+KCAT	Rattus norvegicus	13.6	Biliverdin	*mutant enzyme Y97F, at pH 8.9, temperature not specified in the publication
+KCAT	Rattus norvegicus	14.7	Biliverdin	*mutant enzyme R171K, at pH 8.9, temperature not specified in the publication
+KCAT	Homo sapiens	16.8	Biliverdin	*mutant enzyme Y98F, at pH 8.9, temperature not specified in the publication
+KCAT	Homo sapiens	17.9	Biliverdin	*mutant enzyme R172A, at pH 8.9, temperature not specified in the publication
+KCAT	Rattus norvegicus	69.3	Biliverdin	*wild type enzyme, at pH 8.9, temperature not specified in the publication
+KCAT	Homo sapiens	94.8	Biliverdin	*wild type enzyme, at pH 8.9, temperature not specified in the publication

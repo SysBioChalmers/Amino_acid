@@ -1,0 +1,1 @@
+ecNumber*3.6.1.14#turnoverNumber*40#turnoverNumberMaximum*#substrate*adenosine-5'-pentaphosphate#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*16057#literature*209852#!ecNumber*3.6.1.14#turnoverNumber*723#turnoverNumberMaximum*#substrate*adenosine 5'-tetraphosphate#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*1551#literature*209852#

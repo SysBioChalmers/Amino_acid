@@ -1,0 +1,1 @@
+KCAT	Hyphomicrobium sulfonivorans	5.45	Dimethyl sulfide	*pH 7.4, 30&Acirc;&deg;C

@@ -1,0 +1,1 @@
+KCAT	Arabidopsis thaliana	613	(S)-2-hydroxyglutarate	*at pH 7.4 and 30&deg;C

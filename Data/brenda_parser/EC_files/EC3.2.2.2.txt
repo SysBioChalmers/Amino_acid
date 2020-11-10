@@ -1,0 +1,4 @@
+KCAT	Saccharolobus solfataricus	3.8	adenosine	*
+KCAT	Saccharolobus solfataricus	23.3	Inosine	*
+KCAT	Bacillus thuringiensis	48.9	Inosine	*
+KCAT	Saccharolobus solfataricus	29.1	guanosine	*

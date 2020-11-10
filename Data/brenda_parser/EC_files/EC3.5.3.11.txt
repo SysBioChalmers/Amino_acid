@@ -1,0 +1,11 @@
+KCAT	Methanocaldococcus jannaschii	0.0075	agmatine	*pH 7.5, 70&deg;C, mutant enzyme C71S
+KCAT	Methanocaldococcus jannaschii	0.0095	agmatine	*pH 7.5, 70&deg;C, mutant enzyme C151S
+KCAT	Methanocaldococcus jannaschii	0.023	agmatine	*pH 7.5, 70&deg;C, mutant enzyme C136A
+KCAT	Methanocaldococcus jannaschii	0.032	agmatine	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Methanocaldococcus jannaschii	0.041	agmatine	*pH 7.5, 70&deg;C, mutant enzyme C229A
+KCAT	Rattus norvegicus	0.7	agmatine	*mutant enzyme H435A, pH 9.0, 37&deg;C
+KCAT	Rattus norvegicus	0.9	agmatine	*mutant enzyme H206A, pH 9.0, 37&deg;C
+KCAT	Rattus norvegicus	1	agmatine	*mutant enzyme H394A, pH 9.0, 37&deg;C; wild-type enzyme, pH 9.0, 37&deg;C
+KCAT	Rattus norvegicus	1.1	agmatine	*mutant enzyme H65A, pH 9.0, 37&deg;C
+KCAT	Rattus norvegicus	1.7	agmatine	*mutant enzyme H127A, pH 9.0, 37&deg;C
+KCAT	Homo sapiens	3	agmatine	*

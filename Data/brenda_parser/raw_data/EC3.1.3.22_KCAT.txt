@@ -1,0 +1,1 @@
+ecNumber*3.1.3.22#turnoverNumber*0.015#turnoverNumberMaximum*#substrate*D-mannitol 1-phosphate#commentary*at pH 7.5 and 30&Acirc;&deg;C#organism*Ectocarpus siliculosus#ligandStructureId*2652#literature*730126#

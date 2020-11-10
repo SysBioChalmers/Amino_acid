@@ -1,0 +1,157 @@
+KCAT	Pleurotus ostreatus	0.155	4-nitrophenyl-beta-D-glucopyranoside	*recombinant enzyme, pH 5.0, 40&Acirc;&deg;C
+KCAT	Pleurotus ostreatus	0.18	4-nitrophenyl beta-D-glucopyranoside	*mutant S160G, pH 5.0, 40&Acirc;&deg;C
+KCAT	Pleurotus ostreatus	0.38	4-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 5.0, 40&Acirc;&deg;C
+KCAT	Selenomonas ruminantium	0.0000134	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme D127A
+KCAT	Selenomonas ruminantium	0.000239	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme E186A
+KCAT	Trichoderma koningii	0.0005	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.1, 25&Acirc;&deg;C, mutant enzyme E223Q
+KCAT	Selenomonas ruminantium	0.000936	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme D14A
+KCAT	Trichoderma koningii	0.003	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.1, 25&Acirc;&deg;C, mutant enzyme D221N
+KCAT	Selenomonas ruminantium	0.00553	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme R290G
+KCAT	Trichoderma koningii	0.014	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, mutant enzyme D299G
+KCAT	Selenomonas ruminantium	0.0149	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme R290A
+KCAT	Trichoderma koningii	0.016	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.1, 25&Acirc;&deg;C, mutant enzyme D299N
+KCAT	Selenomonas ruminantium	0.0175	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme R290V
+KCAT	Aspergillus kawachii	0.0694	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.0, 37&Acirc;&deg;C, mutant enzyme N83Q/N202Q
+KCAT	Aspergillus kawachii	0.0755	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.0, 37&Acirc;&deg;C, mutant enzyme N202Q
+KCAT	Trichoderma koningii	0.08	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.1, 25&Acirc;&deg;C, mutant enzyme D299G
+KCAT	Aspergillus kawachii	0.0898	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.0, 37&Acirc;&deg;C, mutant enzyme N83Q
+KCAT	Aspergillus kawachii	0.099	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Selenomonas ruminantium	0.158	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme R290H
+KCAT	Selenomonas ruminantium	0.275	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme R290Q
+KCAT	Trichoderma koningii	0.3	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.1, 25&Acirc;&deg;C, mutant enzyme E310G
+KCAT	Selenomonas ruminantium	0.426	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme R290K
+KCAT	Trichoderma koningii	0.68	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.1, 25&Acirc;&deg;C, mutant enzyme D170N
+KCAT	Selenomonas ruminantium	1.09	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme F508A
+KCAT	Arabidopsis thaliana	1.36	p-nitrophenyl-alpha-L-arabinofuranoside	*37&Acirc;&deg;C
+KCAT	Talaromyces purpureogenus	2.45	p-nitrophenyl-alpha-L-arabinofuranoside	*
+KCAT	Selenomonas ruminantium	2.68	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Trichoderma koningii	2.84	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, wild-type enzyme
+KCAT	Selenomonas ruminantium	9.33	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.3, 25&Acirc;&deg;C, mutant enzyme F31A
+KCAT	Trichoderma koningii	21	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.1, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Trichoderma koningii	22	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 4.1, 25&Acirc;&deg;C, mutant enzyme E223G
+KCAT	Hungateiclostridium thermocellum	103	p-nitrophenyl-alpha-L-arabinofuranoside	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	295	p-nitrophenyl-alpha-L-arabinofuranoside	*
+KCAT	Bacillus subtilis	306	p-nitrophenyl-alpha-L-arabinofuranoside	*
+KCAT	Streptomyces coelicolor	0.02	4-nitrophenyl-alpha-L-arabinofuranoside	*ph 5.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Ustilago maydis	0.039	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	0.08	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, mutant E175A
+KCAT	Podospora anserina	0.38	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	0.39	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, mutant E176A
+KCAT	Thermobacillus xylanilyticus	0.53	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, mutant E298D
+KCAT	Thermobacillus xylanilyticus	0.63	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, mutant E28A
+KCAT	Thermobacillus xylanilyticus	0.65	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, mutant E176D
+KCAT	Thermobacillus xylanilyticus	1.04	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, mutant E298Q
+KCAT	Thermobacillus xylanilyticus	1.08	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, mutant E28D
+KCAT	Hungateiclostridium thermocellum	4.72	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.7, 50&Acirc;&deg;C, recombinant full-length enzyme
+KCAT	Hungateiclostridium thermocellum	4.78	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.7, 50&Acirc;&deg;C, recombinant catalytic module CtGH43
+KCAT	Thermobacillus xylanilyticus	5.95	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, mutant E28Q
+KCAT	Penicillium chrysogenum	14.3	4-nitrophenyl-alpha-L-arabinofuranoside	*enzyme AFQ1, pH 5.0, 37&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	36.7	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, mutant E176Q
+KCAT	Pleurotus ostreatus	50.17	4-nitrophenyl-alpha-L-arabinofuranoside	*recombinant enzyme, pH 5.0, 40&Acirc;&deg;C
+KCAT	Penicillium chrysogenum	59.3	4-nitrophenyl-alpha-L-arabinofuranoside	*enzyme AFS1, pH 5.0, 37&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	77	4-nitrophenyl-alpha-L-arabinofuranoside	*mutant W99F, pH 5.8, 60&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	87	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Thermobacillus xylanilyticus	97	4-nitrophenyl-alpha-L-arabinofuranoside	*mutant H98F/W99F, pH 5.8, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	137	4-nitrophenyl-alpha-L-arabinofuranoside	*mutant W99A, pH 5.8, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	154	4-nitrophenyl-alpha-L-arabinofuranoside	*mutant H98A/W99A, pH 5.8, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	192	4-nitrophenyl-alpha-L-arabinofuranoside	*mutant H98A, pH 5.8, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	199	4-nitrophenyl-alpha-L-arabinofuranoside	*mutant H98F, pH 5.8, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	575	4-nitrophenyl-alpha-L-arabinofuranoside	*wild-type enzyme, pH 5.8, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	4100	4-nitrophenyl-alpha-L-arabinofuranoside	*pH 5.8, 60&Acirc;&deg;C, wild-type enzyme
+KCAT	Streptomyces avermitilis	0.002	4-nitrophenyl alpha-L-arabinofuranoside	*mutant enzyme D20N, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30&Acirc;&deg;C
+KCAT	Streptomyces avermitilis	0.11	4-nitrophenyl alpha-L-arabinofuranoside	*wild type enzyme, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30&Acirc;&deg;C
+KCAT	Penicillium oxalicum	0.27	4-nitrophenyl alpha-L-arabinofuranoside	*at pH 4.5 and 35&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	0.54	4-nitrophenyl alpha-L-arabinofuranoside	*mutant R69H/G179F/L352M, pH 7.0, 45&Acirc;&deg;C
+KCAT	Streptomyces avermitilis	0.56	4-nitrophenyl alpha-L-arabinofuranoside	*mutant enzyme N159A, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	0.58	4-nitrophenyl alpha-L-arabinofuranoside	*mutant R69H/N216W/L352M, pH 7.0, 45&Acirc;&deg;C
+KCAT	Streptomyces avermitilis	0.62	4-nitrophenyl alpha-L-arabinofuranoside	*mutant enzyme L289A, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	0.97	4-nitrophenyl alpha-L-arabinofuranoside	*mutant R69H/L352M, pH 7.0, 45&Acirc;&deg;C
+KCAT	Streptomyces avermitilis	1.07	4-nitrophenyl alpha-L-arabinofuranoside	*mutant enzyme Y192A, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30&Acirc;&deg;C
+KCAT	Talaromyces purpureogenus	2.1	4-nitrophenyl alpha-L-arabinofuranoside	*pH 4.6, 37&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	2.29	4-nitrophenyl alpha-L-arabinofuranoside	*mutant R69H, pH 7.0, 45&Acirc;&deg;C
+KCAT	Talaromyces purpureogenus	2.73	4-nitrophenyl alpha-L-arabinofuranoside	*in 50 mM sodium citrate buffer (pH 4.0), at 30&Acirc;&deg;C
+KCAT	Streptomyces avermitilis	4.55	4-nitrophenyl alpha-L-arabinofuranoside	*mutant enzyme N159L, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30&Acirc;&deg;C
+KCAT	uncultured rumen bacterium	5.6	4-nitrophenyl alpha-L-arabinofuranoside	*in 50 mM phosphate/citrate buffer pH 7.0, at 40&Acirc;&deg;C
+KCAT	Thermomyces dupontii	14.3	4-nitrophenyl alpha-L-arabinofuranoside	*in 50 mM potassium phosphate buffer (pH 7.0), at 50&Acirc;&deg;C
+KCAT	Alicyclobacillus sp.	23	4-nitrophenyl alpha-L-arabinofuranoside	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pleurotus ostreatus	43	4-nitrophenyl alpha-L-arabinofuranoside	*mutant S160G, pH 5.0, 40&Acirc;&deg;C
+KCAT	Pleurotus ostreatus	50	4-nitrophenyl alpha-L-arabinofuranoside	*wild-type, pH 5.0, 40&Acirc;&deg;C
+KCAT	Corynebacterium alkanolyticum	62.9	4-nitrophenyl alpha-L-arabinofuranoside	*isoform Abf51B, at pH 7.0 and 40&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	139	4-nitrophenyl alpha-L-arabinofuranoside	*wild-type, pH 7.0, 45&Acirc;&deg;C
+KCAT	Corynebacterium alkanolyticum	149.8	4-nitrophenyl alpha-L-arabinofuranoside	*isoform Abf51A, at pH 7.0 and 40&Acirc;&deg;C
+KCAT	Pseudothermotoga thermarum	151	4-nitrophenyl alpha-L-arabinofuranoside	*pH 5.0, 95&Acirc;&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	226	4-nitrophenyl alpha-L-arabinofuranoside	*in 50 mM citric acid buffer (pH 5.5), at 80&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	233	4-nitrophenyl alpha-L-arabinofuranoside	*mutant L352M, pH 7.0, 45&Acirc;&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	285	4-nitrophenyl alpha-L-arabinofuranoside	*in 50 mM citric acid buffer (pH 5.5), at 80&Acirc;&deg;C
+KCAT	Paenibacillus sp.	328	4-nitrophenyl alpha-L-arabinofuranoside	*pH 6.5, 60&Acirc;&deg;C
+KCAT	Caldicellulosiruptor sp. F32	3900	4-nitrophenyl alpha-L-arabinofuranoside	*at pH 6.0 and 80&Acirc;&deg;C
+KCAT	Paenibacillus sp.	10.6	4-nitrophenyl beta-D-xylopyranoside	*pH 6.5, 60&Acirc;&deg;C
+KCAT	Hungateiclostridium thermocellum	3.5	4-nitrophenyl-alpha-L-arabinopyranoside	*pH 5.7, 50&Acirc;&deg;C, recombinant full-length enzyme
+KCAT	Hungateiclostridium thermocellum	3.53	4-nitrophenyl-alpha-L-arabinopyranoside	*pH 5.7, 50&Acirc;&deg;C, recombinant catalytic module CtGH43
+KCAT	Thermobacillus xylanilyticus	24	p-nitrophenyl-alpha-L-arabinofuranose	*Tx-Abf-C180A mutant, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	35	p-nitrophenyl-alpha-L-arabinofuranose	*Tx-Abf-M94_I103delinsGG mutant, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	165	p-nitrophenyl-alpha-L-arabinofuranose	*Tx-Abf-W99A mutant, 60&Acirc;&deg;C
+KCAT	Thermobacillus xylanilyticus	355	p-nitrophenyl-alpha-L-arabinofuranose	*Tx-Abf, 60&Acirc;&deg;C
+KCAT	Trichoderma koningii	1.23	phenyl-alpha-L-arabinofuranoside	*pH 6.5, wild-type enzyme
+KCAT	Geobacillus stearothermophilus	0.0041	3-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, mutant E175A
+KCAT	Geobacillus stearothermophilus	83	3-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Geobacillus stearothermophilus	0.66	3',4'-dinitrophenyl alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, mutant E175A
+KCAT	Geobacillus stearothermophilus	340	3',4'-dinitrophenyl alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Hungateiclostridium clariflavum	631.4	4-nitrophenyl alpha-L-arabinopyranoside	*at pH 6.5 and 60&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.75	1,5-alpha-L-arabinotriose	*
+KCAT	Lactobacillus brevis	57	1,5-alpha-L-arabinotriose	*at pH 5.8 and 45&Acirc;&deg;C
+KCAT	Bacillus subtilis	88	1,5-alpha-L-arabinotriose	*
+KCAT	Weissella sp. 142	125	1,5-alpha-L-arabinotriose	*at pH 5.8 and 45&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	0.72	2',5'-dinitrophenyl alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, mutant E175A
+KCAT	Geobacillus stearothermophilus	190	2',5'-dinitrophenyl alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Geobacillus stearothermophilus	0.24	2',4',6'-trichlorophenyl alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, mutant E175A
+KCAT	Geobacillus stearothermophilus	65	2',4',6'-trichlorophenyl alpha-L-arabinofuranoside	*pH 6.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Trichoderma koningii	0.03	4-chloro-2-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, wild-type enzyme
+KCAT	Trichoderma koningii	0.12	4-chloro-2-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, mutant enzyme D299G
+KCAT	Trichoderma koningii	6.52	4-chloro-2-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, wild-type enzyme
+KCAT	Bacillus subtilis	32	1,5-alpha-L-arabinobiose	*
+KCAT	Lactobacillus brevis	71	1,5-alpha-L-arabinobiose	*at pH 5.8 and 45&Acirc;&deg;C
+KCAT	Weissella sp. 142	221	1,5-alpha-L-arabinobiose	*at pH 5.8 and 45&Acirc;&deg;C
+KCAT	Trichoderma koningii	0.69	2,5-dinitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, mutant enzyme D299G
+KCAT	Trichoderma koningii	8.25	2,5-dinitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, wild-type enzyme
+KCAT	Trichoderma koningii	0.0003	m-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, mutant enzyme D299G
+KCAT	Trichoderma koningii	2.02	m-nitrophenyl-alpha-L-arabinofuranoside	*pH 6.5, wild-type enzyme
+KCAT	Trichoderma koningii	0.0004	p-cyanophenyl-alpha-L-arabinofuranoside	*pH 6.5, mutant enzyme D299G
+KCAT	Trichoderma koningii	1.7	p-cyanophenyl-alpha-L-arabinofuranoside	*pH 6.5, wild-type enzyme
+KCAT	Fusarium graminearum	105000	alpha-1,5-L-arabinotetraose	*pH 5.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Fusarium graminearum	113000	alpha-1,5-L-arabinotriose	*pH 5.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Fusarium graminearum	81000	alpha-1,5-L-arabinopentaose	*pH 5.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Hungateiclostridium thermocellum	8.6	alpha-1,3-arabinoxylobiose	*
+KCAT	Hungateiclostridium thermocellum	4.6	alpha-1,5-arabinotriose	*
+KCAT	Bacillus subtilis	12	linear alpha-1,5-L-arabinan	*
+KCAT	Talaromyces purpureogenus	1	4-nitrophenyl beta-D-galactofuranoside	*pH 4.6, 37&Acirc;&deg;C
+KCAT	Paenibacillus sp.	327	4-nitrophenyl beta-D-galactofuranoside	*pH 6.5, 60&Acirc;&deg;C
+KCAT	Fusarium graminearum	94000	alpha-1,5-L-arabinohexaose	*pH 5.0, 40&Acirc;&deg;C, wild-type enzyme
+KCAT	Geobacillus stearothermophilus	-999	more	*kcat with mutant 294A
+KCAT	Hungateiclostridium thermocellum	0.07	wheat arabinoxylan	*
+KCAT	Streptomyces coelicolor	0.3	wheat L-arabinoxylan	*ph 5.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Hungateiclostridium thermocellum	0.43	beechwood xylan	*pH 5.7, 50&Acirc;&deg;C, recombinant catalytic module CtGH43
+KCAT	Hungateiclostridium thermocellum	0.45	birchwood xylan	*pH 5.7, 50&Acirc;&deg;C, recombinant full-length enzyme
+KCAT	Hungateiclostridium thermocellum	0.47	beechwood xylan	*pH 5.7, 50&Acirc;&deg;C, recombinant full-length enzyme
+KCAT	Hungateiclostridium thermocellum	0.48	birchwood xylan	*pH 5.7, 50&Acirc;&deg;C, recombinant catalytic module CtGH43
+KCAT	Talaromyces funiculosus	0.8	rye arabinoxylan	*pH 4.0, 40&Acirc;&deg;C, isozyme mutant pfabf62cDELTACBM
+KCAT	Talaromyces funiculosus	0.85	wheat arabinoxylan	*pH 4.0, 40&Acirc;&deg;C, isozyme mutant pfabf62cDELTACBM
+KCAT	Talaromyces funiculosus	0.925	rye arabinoxylan	*pH 4.0, 40&Acirc;&deg;C, isozyme PfABF62a
+KCAT	Talaromyces funiculosus	0.96	wheat arabinoxylan	*pH 4.0, 40&Acirc;&deg;C, isozyme PfABF62c
+KCAT	Talaromyces funiculosus	0.99	wheat arabinoxylan	*pH 4.0, 40&Acirc;&deg;C, isozyme PfABF62a
+KCAT	Hungateiclostridium thermocellum	1.02	insoluble wheat arabinoxylan	*pH 5.7, 50&Acirc;&deg;C, recombinant catalytic module CtGH43
+KCAT	Hungateiclostridium thermocellum	1.05	insoluble wheat arabinoxylan	*pH 5.7, 50&Acirc;&deg;C, recombinant full-length enzyme
+KCAT	Hungateiclostridium thermocellum	1.08	oat spelt xylan	*pH 5.7, 50&Acirc;&deg;C, recombinant full-length enzyme
+KCAT	Talaromyces funiculosus	1.11	rye arabinoxylan	*pH 4.0, 40&Acirc;&deg;C, isozyme PfABF62c
+KCAT	Hungateiclostridium thermocellum	1.12	oat spelt xylan	*pH 5.7, 50&Acirc;&deg;C, recombinant catalytic module CtGH43
+KCAT	Talaromyces funiculosus	1.2	wheat arabinoxylan	*pH 4.0, 40&Acirc;&deg;C, isozyme PfABF62b
+KCAT	Hungateiclostridium thermocellum	3.2	soluble wheat arabinoxylan	*pH 5.7, 50&Acirc;&deg;C, recombinant full-length enzyme
+KCAT	Hungateiclostridium thermocellum	3.48	soluble wheat arabinoxylan	*pH 5.7, 50&Acirc;&deg;C, recombinant catalytic module CtGH43
+KCAT	Hungateiclostridium thermocellum	4.7	rye arabinoxylan	*pH 5.7, 50&Acirc;&deg;C, recombinant full-length enzyme
+KCAT	Hungateiclostridium thermocellum	4.97	rye arabinoxylan	*pH 5.7, 50&Acirc;&deg;C, recombinant catalytic module CtGH43
+KCAT	Hungateiclostridium clariflavum	15.9	2,3-di-alpha-L-arabinofuranosyl xylotriose	*at pH 6.5 and 60&Acirc;&deg;C
+KCAT	Hungateiclostridium clariflavum	55.2	2-alpha-L-arabinofuranosyl xylotriose	*at pH 6.5 and 60&Acirc;&deg;C
+KCAT	Bifidobacterium longum subsp. Longum	220	larch type II arabinogalactan	*pH 5.5, 40&Acirc;&deg;C, recombinant enzyme
+KCAT	Aspergillus nidulans	354.17	rye arabinoxylan	*at pH 5.5 and 60&Acirc;&deg;C
+KCAT	Aspergillus nidulans	361.74	wheat arabinoxylan	*at pH 5.5 and 60&Acirc;&deg;C
+KCAT	Hungateiclostridium clariflavum	743.9	3-alpha-L-arabinofuranosyl xylobiose	*at pH 6.5 and 60&Acirc;&deg;C

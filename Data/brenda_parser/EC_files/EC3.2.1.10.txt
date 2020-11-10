@@ -1,0 +1,45 @@
+KCAT	Bacillus cereus	0.18	4-nitrophenyl alpha-D-glucopyranoside	*recombinant mutant D199N, pH 7.0, 35&deg;C
+KCAT	Bacillus cereus	0.39	4-nitrophenyl alpha-D-glucopyranoside	*recombinant mutant E255Q, pH 7.0, 35&deg;C
+KCAT	Bacillus cereus	3.11	4-nitrophenyl alpha-D-glucopyranoside	*recombinant mutant H328N, pH 7.0, 35&deg;C
+KCAT	Saccharomyces cerevisiae	3.8	sucrose	*pH 7.0, 30&deg;C
+KCAT	Bifidobacterium breve	5.8	trehalose	*
+KCAT	Saccharomyces cerevisiae	6	palatinose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	7.1	4-nitrophenyl alpha-D-glucopyranoside	*pH 7.0, 30&deg;C
+KCAT	Bifidobacterium breve	7.3	trehalose	*
+KCAT	Saccharomyces cerevisiae	8.7	4-nitrophenyl alpha-D-glucopyranoside	*pH 7.0, 30&deg;C
+KCAT	Bifidobacterium breve	12	isomaltotriose	*
+KCAT	Bifidobacterium breve	12.4	palatinose	*
+KCAT	Bifidobacterium breve	12.5	isomaltotriose	*
+KCAT	Bifidobacterium breve	13	palatinose	*
+KCAT	Saccharomyces cerevisiae	14	4-nitrophenyl alpha-D-glucopyranoside	*pH 7.0, 30&deg;C; pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	14	methyl alpha-D-glucopyranoside	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	15	isomaltose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	15	isomaltriose	*pH 7.0, 30&deg;C
+KCAT	Homo sapiens	17	4-nitrophenyl alpha-D-glucopyranoside	*in 100 mM MES buffer, pH 6.5, at 37&deg;C
+KCAT	Saccharomyces cerevisiae	18	isomaltriose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	21	isomaltriose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	25	sucrose	*pH 7.0, 30&deg;C
+KCAT	Bifidobacterium breve	28.7	panose	*
+KCAT	Bifidobacterium breve	30	panose	*
+KCAT	Bifidobacterium breve	30.8	isomaltose	*
+KCAT	Saccharomyces cerevisiae	33.3	isomaltose	*pH 6.8, 30&deg;C
+KCAT	Bifidobacterium breve	35.4	Trehalulose	*
+KCAT	Bifidobacterium breve	36.3	isomaltose	*
+KCAT	Bifidobacterium breve	38.7	Trehalulose	*
+KCAT	Arthrobacter globiformis	41	isomaltose	*
+KCAT	Saccharomyces cerevisiae	51	sucrose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	55	sucrose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	56	palatinose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	78	palatinose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	84	methyl alpha-D-glucopyranoside	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	88	methyl alpha-D-glucopyranoside	*pH 7.0, 30&deg;C
+KCAT	Homo sapiens	97	isomaltose	*in 100 mM MES buffer, pH 6.5, at 37&deg;C
+KCAT	Saccharomyces cerevisiae	97	isomaltose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	101	isomaltose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	103	isomaltose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	104	palatinose	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	129	4-nitrophenyl alpha-D-glucopyranoside	*pH 6.8, 30&deg;C
+KCAT	Homo sapiens	137	maltose	*in 100 mM MES buffer, pH 6.5, at 37&deg;C
+KCAT	Bacillus cereus	352	4-nitrophenyl alpha-D-glucopyranoside	*recombinant mutant H103N, pH 7.0, 35&deg;C
+KCAT	Bacillus cereus	483	4-nitrophenyl alpha-D-glucopyranoside	*recombinant wild-type enzyme, pH 7.0, 35&deg;C
+KCAT	Arthrobacter globiformis	697	4-nitrophenyl alpha-D-glucopyranoside	*

@@ -1,0 +1,22 @@
+KCAT	Geobacillus stearothermophilus	54.9	aldotetraouronic acid	*55&Acirc;&deg;C, pH 5,5
+KCAT	Cellvibrio japonicus	103	aldotetraouronic acid	*37&Acirc;&deg;C, pH 6.5
+KCAT	Cellvibrio japonicus	132	aldopentaouronic acid	*37&Acirc;&deg;C, pH 6.5
+KCAT	Cellvibrio japonicus	69.2	aldobiouronic acid	*37&Acirc;&deg;C, pH 6.5
+KCAT	Cellvibrio japonicus	96	aldotriouronic acid	*37&Acirc;&deg;C, pH 6.5
+KCAT	Paenibacillus curdlanolyticus	1082	aldouronic acid	*pH 6.0, 40&Acirc;&deg;C
+KCAT	Bacteroides ovatus	53.9	Xyl-beta-(1-&gt;4)-[4-O-Me-GlcA-alpha-(1-&gt;2)]-Xyl-beta(1-&gt;4)-Xyl	*in 50 mM sodium phosphate, 12 mM citrate buffer, pH 6.5, at 37&Acirc;&deg;C
+KCAT	Bacteroides ovatus	18.4	4-O-Me-GlcA-alpha-(1-&gt;2)-Xyl-beta(1-&gt;4)-Xyl	*in 50 mM sodium phosphate, 12 mM citrate buffer, pH 6.5, at 37&Acirc;&deg;C
+KCAT	Pseudothermotoga thermarum	117	4-O-methyl-beta-D-glucopyranuetaronosyl-(1-&gt;2)-b-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranose	*pH 6.5, 80&Acirc;&deg;C
+KCAT	Pseudothermotoga thermarum	117	aldouronic acids	*at pH 6.0 and 80&Acirc;&deg;C
+KCAT	Saccharophagus degradans	0.008	birchwood xylan	*mutant R331A, pH 6.5, 40&Acirc;&deg;C
+KCAT	Saccharophagus degradans	0.3	birchwood xylan	*mutant E381A, pH 6.5, 40&Acirc;&deg;C
+KCAT	Saccharophagus degradans	1	birchwood xylan	*mutant D215A, pH 6.5, 40&Acirc;&deg;C
+KCAT	Bacteroides ovatus	11.1	birchwood xylan	*in 50 mM sodium phosphate, 12 mM citrate buffer, pH 6.5, at 37&Acirc;&deg;C
+KCAT	Bacteroides ovatus	11.6	beechwood xylan	*in 50 mM sodium phosphate, 12 mM citrate buffer, pH 6.5, at 37&Acirc;&deg;C
+KCAT	Amphibacillus xylanus	29.2	4-O-methyl-alpha-D-glucopyranosyl uronic acid-(1-&gt;2)-[beta-D-xylopyranosyl-(1-&gt;4)]-beta-D-xylopyranosyl-(1-&gt;4)-D-xylose	*pH 7.0, 55&Acirc;&deg;C
+KCAT	Amphibacillus xylanus	72.7	4-O-methyl-alpha-D-glucopyranosyl-(1-&gt;2)-[beta-D-xylopyranosyl-(1-&gt;4)]-beta-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranosyl-(1-&gt;4)-D-xylopyranose	*pH 7.0, 55&Acirc;&deg;C
+KCAT	Saccharophagus degradans	86	birchwood xylan	*mutant F696A, pH 6.5, 40&Acirc;&deg;C
+KCAT	Saccharophagus degradans	116	birchwood xylan	*mutant W689A, pH 6.5, 40&Acirc;&deg;C
+KCAT	Saccharophagus degradans	129	birchwood xylan	*mutant W773A, pH 6.5, 40&Acirc;&deg;C
+KCAT	Saccharophagus degradans	289	birchwood xylan	*wild-type, pH 6.5, 40&Acirc;&deg;C
+KCAT	Amphibacillus xylanus	487.3	arabinoglucuronoxylan	*pH 7.0, 55&Acirc;&deg;C

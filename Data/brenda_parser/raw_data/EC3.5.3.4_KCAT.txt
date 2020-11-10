@@ -1,0 +1,1 @@
+ecNumber*3.5.3.4#turnoverNumber*750#turnoverNumberMaximum*#substrate*Allantoate#commentary*#organism*Chlamydomonas reinhardtii#ligandStructureId*2334#literature*172151#

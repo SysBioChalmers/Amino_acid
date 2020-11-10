@@ -1,0 +1,8 @@
+KCAT	Streptomyces carzinostaticus	0.000133	1,4-dihydroxy-2-naphthoic acid	*pH 6.0, 25&deg;C
+KCAT	Streptomyces carzinostaticus	0.0004	3,7-dihydroxy-2-naphthoate	*pH 6.0, 25&deg;C
+KCAT	Streptomyces carzinostaticus	0.0045	3,5-dihydroxy-2-naphthoate	*pH 6.0, 25&deg;C
+KCAT	Streptomyces carzinostaticus	0.01	2,7-dihydroxy-5-methyl-1-naphthoate	*pH 7.5, 25&deg;C, mutant enzyme R11W
+KCAT	Streptomyces carzinostaticus	0.0115	2,7-dihydroxy-5-methyl-1-naphthoate	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Streptomyces carzinostaticus	0.0115	2,7-dihydroxy-5-methyl-1-naphthoate	*pH 6.0, 25&deg;C
+KCAT	Streptomyces carzinostaticus	0.013	2,7-dihydroxy-5-methyl-1-naphthoate	*pH 7.5, 25&deg;C, mutant enzyme Y293I
+KCAT	Streptomyces carzinostaticus	0.02	2,7-dihydroxy-5-methyl-1-naphthoate	*pH 7.5, 25&deg;C, mutant enzyme R11A; pH 7.5, 25&deg;C, mutant enzyme R11K

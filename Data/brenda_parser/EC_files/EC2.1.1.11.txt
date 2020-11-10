@@ -1,0 +1,5 @@
+KCAT	Chlorobaculum tepidum	0.0002	protoporphyrin	*concentrations between 1 and 30 microM in the presence of 200 nM enzyme
+KCAT	Rhodobacter capsulatus	0.018	zinc protoporphyrin	*determined using 250 microM S-adenosyl-L-methionine
+KCAT	Rhodobacter capsulatus	0.04	magnesium protoporphyrin	*determined using 250 microM S-adenosyl-L-methionine
+KCAT	Chlorobaculum tepidum	0.14	magnesium protoporphyrin	*concentrations between 0.3 and 30 microM in the presence of 50 nM enzyme
+KCAT	Rhodobacter capsulatus	0.003	magnesium deuteroporphyrin	*determined using 250 microM S-adenosyl-L-methionine

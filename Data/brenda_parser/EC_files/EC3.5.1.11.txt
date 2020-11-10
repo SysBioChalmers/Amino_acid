@@ -1,0 +1,149 @@
+KCAT	Escherichia coli	-999	more	*temperature dependence of turnover-numer for R- and S-p-hydroxyphenylglycineamide
+KCAT	Thermus thermophilus	0.02	penicillin G	*pH 5.5, 65&deg;C, recombinant mutant L188F/S189F
+KCAT	Escherichia coli	0.1	2-benzoxazolon-3-yl-acetic acid methyl ester	*pH 6.8, 25&deg;C
+KCAT	Thermus thermophilus	0.13	penicillin G	*pH 5.5, 65&deg;C, recombinant mutant L188F/L24F/I57F
+KCAT	Escherichia coli	0.204	2-nitro-5-[(phenyl-acetyl)amino]benzoic acid	*pH 7.0, 25&deg;C, mutant N241S
+KCAT	Thermus thermophilus	0.3	penicillin G	*pH 5.5, 65&deg;C, recombinant mutant L24F/I57F
+KCAT	Thermus thermophilus	0.32	penicillin K	*pH 5.5, 65&deg;C, recombinant mutant L24F
+KCAT	Escherichia coli	0.354	2-nitro-5-[(phenyl-acetyl)amino]benzoic acid	*pH 7.0, 25&deg;C, mutant N241G
+KCAT	Thermus thermophilus	0.36	penicillin K	*pH 5.5, 65&deg;C, recombinant mutant S189F
+KCAT	Thermus thermophilus	0.43	penicillin K	*pH 5.5, 65&deg;C, recombinant mutant L188F
+KCAT	Thermus thermophilus	0.44	penicillin G	*pH 5.5, 65&deg;C, recombinant mutant I57F
+KCAT	Escherichia coli	0.54	D-(-)-alpha-aminophenylacetic acid 4-nitroanilide	*
+KCAT	Thermus thermophilus	0.54	penicillin G	*pH 5.5, 65&deg;C, recombinant mutant L188F
+KCAT	Thermus thermophilus	0.65	penicillin G	*pH 5.5, 65&deg;C, recombinant mutant S189F
+KCAT	Thermus thermophilus	0.75	penicillin K	*pH 5.5, 65&deg;C, recombinant mutant L24F/I57F
+KCAT	Thermus thermophilus	0.85	penicillin G	*pH 5.5, 65&deg;C, recombinant mutant L24F
+KCAT	Escherichia coli	0.9	5-nitro-3-[(phenylacetyl)amino]benzoic acid	*pH 7.5, 25&deg;C, fresh immobilized cross-linked enzyme aggregates
+KCAT	Escherichia coli	1	5-nitro-3-[(phenylacetyl)amino]benzoic acid	*pH 7.5, 25&deg;C, mature immobilized cross-linked enzyme aggregates
+KCAT	Escherichia coli	1.01	(S)-N-acetylphenylglycine	*pH 7.5
+KCAT	Escherichia coli	1.2	5-nitro-3-[(phenylacetyl)amino]benzoic acid	*pH 7.5, 25&deg;C, native enzyme
+KCAT	Escherichia coli	1.2	(R) -2-(4-hydroxyphenyl)glycine amide	*
+KCAT	Thermus thermophilus	1.43	penicillin K	*pH 5.5, 65&deg;C, recombinant mutant L188F/L24F/I57F
+KCAT	Thermus thermophilus	1.56	penicillin G	*pH 5.5, 65&deg;C, recombinant wild-type enzyme
+KCAT	Actinoplanes utahensis	1.9	penicillin F	*pH 8.0, 45&deg;C
+KCAT	Escherichia coli	1.9	phenylacetyl-2-naphthylamide	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Escherichia coli	2	D-4-hydroxyphenylglycine amide	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Escherichia coli	2	N6-phenylacetyl-2'-deoxyadenosine	*pH 7.8, 25&deg;C
+KCAT	Achromobacter xylosoxidans	2.1	penicillin G	*pH 8.0, 37&deg;C
+KCAT	Actinoplanes utahensis	2.2	penicillin G	*pH 8.0, 45&deg;C
+KCAT	Escherichia coli	2.3	2-phenylacetamidobenzoic acid	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Escherichia coli	2.5	3-phenylacetamidobenzoic acid	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Escherichia coli	2.7	D-phenylglycine amide	*mutant alphaR145S
+KCAT	Escherichia coli	3	D-phenylglycine amide	*wild-type enzyme
+KCAT	Escherichia coli	3	4-phenylacetamidobenzoic acid	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Escherichia coli	3.2	phenylacetyl-7-amido-4-methylcoumarin	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Streptomyces lavendulae subsp. lavendulae	3.33	penicillin F	*pH 8.0, 40&deg;C recombinant enzyme
+KCAT	Escherichia coli	3.4	D-phenylglycine amide	*mutant alphaR145G
+KCAT	Actinoplanes utahensis	4.2	penicillin dihydroF	*pH 8.0, 45&deg;C
+KCAT	Thermus thermophilus	4.91	penicillin K	*pH 5.5, 65&deg;C, recombinant mutant I57F
+KCAT	Thermus thermophilus	5.6	penicillin K	*pH 5.5, 65&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	6.08	(S)-N-acetylphenylglycine	*pH 7.5
+KCAT	Lysinibacillus sphaericus	6.38	Penicillin V	*pH 6.0, 37&deg;C, wild-type enzyme
+KCAT	Escherichia coli	6.8	D-phenylglycine amide	*mutant alphaR145L
+KCAT	Escherichia coli	7.8	N-(5-nitro-2-pyridyl)-phenylacetamide	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Streptomyces mobaraensis	9.5	capsaicin	*
+KCAT	Streptomyces lavendulae subsp. lavendulae	10.95	penicillin G	*pH 8.0, 40&deg;C recombinant enzyme
+KCAT	Escherichia coli	11	ampicillin	*
+KCAT	Providencia rettgeri	11.61	D-hydroxyphenylglycine methyl ester	*pH 7.0, 30&deg;C, soluble enzyme
+KCAT	Providencia rettgeri	11.73	D-hydroxyphenylglycine methyl ester	*pH 7.0, 30&deg;C, cross-linked enzyme aggregates
+KCAT	uncultured Gammaproteobacteria bacterium	12	D-2-nitro-5-[(phenylacetyl)amino]benzoic acid	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Streptomyces mobaraensis	12	penicillin G	*
+KCAT	uncultured Gammaproteobacteria bacterium	13	cefadroxil	*pH 7.0, 30&deg;C
+KCAT	Escherichia coli	14	ampicillin	*mutant alphaR145S
+KCAT	Escherichia coli	14	D-2-nitro-5-[(phenylacetyl)amino]benzoic acid	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Providencia rettgeri	14.67	amoxicillin	*pH 7.0, 30&deg;C, cross-linked enzyme aggregates
+KCAT	Streptomyces lavendulae subsp. lavendulae	14.75	penicillin dihydroF	*pH 8.0, 40&deg;C recombinant enzyme
+KCAT	Escherichia coli	15	2-nitro-5-[(phenyl-acetyl)amino]benzoic acid	*pH 7.0, 25&deg;C, wild-type enzyme
+KCAT	uncultured Gammaproteobacteria bacterium	15	amoxicillin	*pH 7.0, 30&deg;C
+KCAT	Alcaligenes faecalis	15.14	N-(4-nitrophenyl)-2-phenylacetamide	*pH 7.0, 25&deg;C
+KCAT	Providencia rettgeri	15.7	2-nitro-5-[(phenylacetyl)amino]-benzoic acid	*pH 7.0, 30&deg;C, cross-linked enzyme aggregates
+KCAT	Escherichia coli	16	6-nitro-3-[(phenylacetyl)amino]benzoic acid	*pH 10.0, 25&deg;C, ionic strength 0.12 M
+KCAT	uncultured Gammaproteobacteria bacterium	16	ampicillin	*pH 7.0, 30&deg;C
+KCAT	uncultured Gammaproteobacteria bacterium	16	D-4-hydroxyphenylglycine amide	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Providencia rettgeri	16.9	amoxicillin	*pH 7.0, 30&deg;C, soluble enzyme
+KCAT	Escherichia coli	17	amoxicillin	*pH 7.0, 30&deg;C
+KCAT	Providencia rettgeri	17.6	2-nitro-5-[(phenylacetyl)amino]-benzoic acid	*pH 7.0, 30&deg;C, soluble enzyme
+KCAT	Escherichia coli	18	2-nitro-5-[(phenylacetyl)amino]-benzoic acid	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Escherichia coli	18	N2-phenylacetyl-2'-deoxyguanosine	*pH 7.8, 25&deg;C
+KCAT	Escherichia coli	20	6-nitro-3-phenylacetamidobenzoic acid	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	20	6-nitro-3-[(phenylacetyl)amino]benzoic acid	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Escherichia coli	20	ampicillin	*mutant alphaR145L
+KCAT	uncultured Gammaproteobacteria bacterium	20	cephalexin	*pH 7.0, 30&deg;C
+KCAT	Escherichia coli	20	phenylacetate 4-nitroanilide	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Kluyvera cryocrescens	21	benzylpenicillin	*pH 7.5, 40&deg;C, presence of 10 mM phenylglyoxal
+KCAT	Escherichia coli	23	ampicillin	*mutant alphaR145G
+KCAT	uncultured Gammaproteobacteria bacterium	23	phenylacetamide	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	uncultured Gammaproteobacteria bacterium	24	6-nitro-3-[(phenylacetyl)amino]benzoic acid	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Escherichia coli	25	ampicillin	*pH 7.0, 30&deg;C
+KCAT	Escherichia coli	25	Cephalothin	*
+KCAT	uncultured Gammaproteobacteria bacterium	25	D-phenylglycine amide	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	uncultured Gammaproteobacteria bacterium	25	penicillin G	*pH 7.0, 30&deg;C
+KCAT	Escherichia coli	26	6-nitro-3-[(phenylacetyl)amino]benzoic acid	*pH 9.1, 25&deg;C, ionic strength 0.12 M
+KCAT	Escherichia coli	27	6-nitro-3-[(phenylacetyl)amino]benzoic acid	*pH 8.0, 25&deg;C, ionic strength 0.12 M
+KCAT	Kluyvera cryocrescens	27	benzylpenicillin	*pH 7.5, 40&deg;C, presence of 50 mM 2,3-butanedione
+KCAT	uncultured Gammaproteobacteria bacterium	29	4-Hydroxyphenylacetamide	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Escherichia coli	29	cephalexin	*pH 7.0, 30&deg;C
+KCAT	Alcaligenes faecalis	29.49	N-[4-(methylsulfonyl)phenyl]-2-phenylacetamide	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	32	cefadroxil	*pH 7.0, 30&deg;C
+KCAT	Escherichia coli	33	Cephaloridine	*
+KCAT	Actinoplanes utahensis	33.3	penicillin K	*pH 8.0, 45&deg;C
+KCAT	Alcaligenes faecalis	33.81	N-(4-methoxyphenyl)-2-phenylacetamide	*pH 7.0, 25&deg;C
+KCAT	Alcaligenes faecalis	33.84	N-(4-cyanophenyl)-2-phenylacetamide	*pH 7.0, 25&deg;C
+KCAT	uncultured bacterium	34.2	cephalexin	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Escherichia coli	35	phenylacetylaspartame	*pH 7.8, 25&deg;C
+KCAT	Streptomyces lavendulae subsp. lavendulae	35.58	penicillin K	*pH 8.0, 40&deg;C recombinant enzyme
+KCAT	Alcaligenes faecalis	35.94	N-(4-acetylphenyl)-2-phenylacetamide	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	37	ampicillin	*wild-type enzyme
+KCAT	Alcaligenes faecalis	37.93	N-(4-methylphenyl)-2-phenylacetamide	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	39	penicillin G	*pH 7.0, 30&deg;C
+KCAT	Escherichia coli	40	benzylpenicilloic acid	*
+KCAT	Alcaligenes faecalis	40.03	2-phenyl-N-(4-sulfamoylphenyl)acetamide	*pH 7.0, 25&deg;C
+KCAT	Alcaligenes faecalis	41.05	ethyl 4-[(phenylacetyl)amino] benzoate	*pH 7.0, 25&deg;C
+KCAT	Alcaligenes faecalis	43.07	N-(4-bromophenyl)-2-phenylacetamide	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	46	phenylacetamide	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Escherichia coli	47	4-Hydroxyphenylacetamide	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	Escherichia coli	47	phenylacetyl-Gly	*pH 7.8, 25&deg;C
+KCAT	Escherichia coli	48	benzylpenicillin	*
+KCAT	uncultured bacterium	48.4	Penicillin V	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Alcaligenes faecalis	49.17	N,2-diphenylacetamide	*pH 7.0, 25&deg;C
+KCAT	uncultured bacterium	49.5	ampicillin	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Escherichia coli	50	7-phenylacetamidoacetoxycephalosporanic acid	*
+KCAT	Escherichia coli	50	benzylpenicillin	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	50	benzylpenicillin	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	50	penicillin G	*pH 7.8, 25&deg;C
+KCAT	Escherichia coli	50	penicillin G	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Escherichia coli	50	phenylacetamide	*25&deg;C, pH 7.0, 10% dimethylsulfoxide
+KCAT	Escherichia coli	54	cephalexin	*
+KCAT	Escherichia coli	55	phenylacetate 4-nitroanilide	*
+KCAT	uncultured bacterium	56.2	amoxycillin	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Kluyvera cryocrescens	56.5	benzylpenicillin	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	57	D-phenylglycine amide	*pH 7.0, 30&deg;C, analysis of complex kinetic parameters alpha, beta, gamma
+KCAT	uncultured bacterium	58.3	6-nitro-3-(phenylacetamido)-benzoic acid	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Kluyvera cryocrescens	63	benzylpenicillin	*pH 7.5, 40&deg;C
+KCAT	Kluyvera cryocrescens	63	penicillin G	*unmodified enzyme, enzyme modified with N-bromosuccinamide or enzyme modified with 2-hydroxy 5-nitrobenzylbromide
+KCAT	uncultured bacterium	63.7	carbenicillin	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	uncultured bacterium	64.2	penicillin G	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	uncultured bacterium	66.9	Cephaloridine	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Achromobacter xylosoxidans	68.8	6-nitro-3-[(phenylacetyl)amino]benzoic acid	*pH 8.0, 37&deg;C
+KCAT	Actinoplanes utahensis	70.3	Penicillin V	*pH 8.0, 45&deg;C
+KCAT	Achromobacter xylosoxidans	72.7	penicillin G	*pH 8.0, 37&deg;C
+KCAT	Alcaligenes faecalis	75	benzylpenicillin	*pH 7.5, 25&deg;C, enzyme form PA5..5
+KCAT	Alcaligenes faecalis	77	6-nitro-3-phenylacetamidobenzoic acid	*pH 7.5, 25&deg;C, enzyme form PA5..5
+KCAT	Streptomyces lavendulae subsp. lavendulae	77.92	Penicillin V	*pH 8.0, 40&deg;C recombinant enzyme
+KCAT	uncultured bacterium	78.3	Cephalothin	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Alcaligenes faecalis	80	benzylpenicillin	*pH 7.5, 25&deg;C, enzyme form PA5..3
+KCAT	Alcaligenes faecalis	80	benzylpenicillin	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Alcaligenes faecalis	82	6-nitro-3-phenylacetamidobenzoic acid	*pH 7.5, 25&deg;C, enzyme form PA5..3
+KCAT	Lysinibacillus sphaericus	94.59	Penicillin V	*pH 6.0, 37&deg;C, mutant enzyme T63S/S110C/N198Y
+KCAT	Providencia rettgeri	102.6	D-hydroxyphenylglycine methyl ester	*pH 7.0, 30&deg;C, poly-lysine supported cross-linked enzyme aggregates
+KCAT	Streptomyces mobaraensis	106.4	2-nitro-5-phenoxyacetamide benzoic acid	*
+KCAT	Alcaligenes faecalis	120	benzylpenicillin	*pH 7.5, 25&deg;C, mutant enzyme T206G
+KCAT	Alcaligenes faecalis	140	benzylpenicillin	*pH 7.5, 25&deg;C, mutant enzyme T206G//S213G
+KCAT	Providencia rettgeri	142.3	amoxicillin	*pH 7.0, 30&deg;C, poly-lysine supported cross-linked enzyme aggregates
+KCAT	Providencia rettgeri	145.3	2-nitro-5-[(phenylacetyl)amino]-benzoic acid	*pH 7.0, 30&deg;C, poly-lysine supported cross-linked enzyme aggregates
+KCAT	Escherichia coli	170	4-nitrophenylacetate	*
+KCAT	Escherichia coli	170	ethylphenylacetate	*
+KCAT	Alcaligenes faecalis	190	benzylpenicillin	*pH 7.5, 25&deg;C, mutant enzyme T206G/S213G/T219G
+KCAT	Streptomyces mobaraensis	270.8	Penicillin V	*
+KCAT	Escherichia coli	12000	N-phenylacetyl-Glu	*

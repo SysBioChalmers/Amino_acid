@@ -1,0 +1,40 @@
+KCAT	Pseudomonas sp.	0.18	Z-dienelactone	*mutant C123S, pH 7.0, 24&deg;C
+KCAT	Escherichia coli	0.24	Alpha-naphthyl acetate	*E36D,C123S,A134S,S208G,A229V,K234R mutant enzyme, pH 7.0
+KCAT	Escherichia coli	0.24	p-nitrophenyl acetate	*E36D,C123S mutant enzyme, pH 7.0
+KCAT	Pseudomonas knackmussii	0.57	4-nitrophenyl acetate	*mutant Q35H/F38L/C123S/Y137C/Y145C/E199G/S208G/G211D, pH 7.5, 25&deg;C
+KCAT	Pseudomonas knackmussii	0.58	4-nitrophenyl acetate	*mutant Q35H/F38L/C123S/Y145C/N154D/E199G/S208G/G211D, pH 7.5, 25&deg;C; mutant Q35H/F38L/Q110L/C123S/Y145C/N154D/E199G/S208G/G211D, pH 7.5, 25&deg;C
+KCAT	Pseudomonas knackmussii	0.59	4-nitrophenyl acetate	*mutant Q35H/F38L/C123S/Y145C/E199G/S208G/G211D, pH 7.5, 25&deg;C
+KCAT	Pseudomonas knackmussii	0.6	4-nitrophenyl acetate	*mutant Q35H/F38L/Q110L/C123S/Y145C/E199G/S208G/G211D, pH 7.5, 25&deg;C
+KCAT	Pseudomonas knackmussii	0.61	4-nitrophenyl acetate	*mutant Q35H/F38L/Q110L/C123S/Y137C/Y145C/N154D/E199G/S208G/G211D, pH 7.5, 25&deg;C
+KCAT	Pseudomonas sp.	0.63	E-dienelactone	*mutant C123S, pH 7.0, 24&deg;C
+KCAT	Escherichia coli	1.6	Alpha-naphthyl acetate	*E36D,C123S mutant enzyme, pH 7.0
+KCAT	Escherichia coli	2.05	Alpha-naphthyl acetate	*E36D,R105H,C123S,G211D,K234N mutant enzyme, pH 7.0
+KCAT	Pseudomonas knackmussii	2.08	protoanemonin	*
+KCAT	Pseudomonas knackmussii	2.67	trans-4-Carboxymethylenebut-2-en-4-olide	*C123S DLH
+KCAT	Escherichia coli	2.9	p-nitrophenyl acetate	*C123S mutant enzyme, pH 7.0
+KCAT	Rhodococcus opacus	4.95	cis-4-carboxymethylenebut-2-methyl-2-en-4-olide	*
+KCAT	Pseudomonas sp.	6.08	E-dienelactone	*mutant C123S, pH 7.0, 24&deg;C
+KCAT	Pseudomonas knackmussii	9.17	trans-4-Carboxymethylenebut-2-en-4-olide	*
+KCAT	Pseudomonas sp.	14	E-dienelactone	*wild-type enzyme, pH 7.0, 24&deg;C
+KCAT	Pseudomonas knackmussii	15	trans-4-Carboxymethylenebut-2-en-4-olide	*C60S DLH
+KCAT	Rhodococcus opacus	15.4	cis-4-carboxymethylenebut-2-en-4-olide	*
+KCAT	Pseudomonas sp.	19	Z-dienelactone	*wild-type enzyme, pH 7.0, 24&deg;C
+KCAT	Rhodococcus opacus	19.8	cis-4-carboxymethylenebut-2-chloro-2-en-4-olide	*
+KCAT	Pseudomonas knackmussii	30	4-carboxymethylenebut-2-en-4-olide	*
+KCAT	Escherichia coli	63.4	Alpha-naphthyl acetate	*C123S mutant enzyme, pH 7.0
+KCAT	Escherichia coli	71.2	Alpha-naphthyl acetate	*E36D,C123S mutant enzyme, pH 7.0
+KCAT	Escherichia coli	86.2	Alpha-naphthyl acetate	*E36D,R105H,C123S,G211D,K234N mutant enzyme, pH 7.0
+KCAT	Escherichia coli	97.9	p-nitrophenyl acetate	*E36D,C123S mutant enzyme, pH 7.0
+KCAT	Escherichia coli	98.1	Alpha-naphthyl acetate	*E36D,C123S,A134S,S208G,A229V,K234R mutant enzyme, pH 7.0
+KCAT	Escherichia coli	107.7	p-nitrophenyl acetate	*C123S mutant enzyme, pH 7.0
+KCAT	Escherichia coli	120	Alpha-naphthyl acetate	*C123S mutant enzyme, pH 7.0
+KCAT	Escherichia coli	123	p-nitrophenyl acetate	*E36D,R105H,C123S,G211D,K234N mutant enzyme, pH 7.0
+KCAT	Escherichia coli	126.8	p-nitrophenyl acetate	*E36D,C123S,A134S,S208G,A229V,K234R mutant enzyme, pH 7.0
+KCAT	Escherichia coli	138	p-nitrophenyl acetate	*E36D,C123S,A134S,S208G,A229V,K234R mutant enzyme, pH 7.0
+KCAT	Pseudomonas knackmussii	260	cis-4-carboxymethylenebut-2-en-4-olide	*
+KCAT	Burkholderia cepacia	817	cis-4-carboxymethylenebut-2-en-4-olide	*
+KCAT	Pseudomonas sp.	1630	4-fluoromuconolactone	*pH 7.5, 25&deg;C
+KCAT	Pseudomonas sp.	1633	4-fluoromuconolactone	*pH 7.5, 25&deg;C
+KCAT	Pseudomonas sp.	2650	trans-dienelactone	*pH 7.5, 25&deg;C
+KCAT	Saccharolobus solfataricus	9409	trans-dienelactone	*pH 5.0, 60&deg;C
+KCAT	Pseudomonas reinekei	15100	trans-dienelactone	*recombinant protein

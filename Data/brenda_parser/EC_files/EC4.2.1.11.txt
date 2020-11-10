@@ -1,0 +1,13 @@
+KCAT	Saccharomyces cerevisiae	0.018	2-phosphoglycerate	*mutant enzyme S39A, pH 7.8, 21-23&deg;C
+KCAT	Klebsiella pneumoniae	15.47	phosphoenolpyruvate	*in 50 mM imidazole-HCl buffer, pH 7.8, with 1 mM MgSO4, 0.4 M KCl
+KCAT	Saccharomyces cerevisiae	19.4	2-phospho-D-glycerate	*isoform Err3p, in 50 mM imidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	19.7	2-phospho-D-glycerate	*isoform Err2p, in 50 mM imidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperature not specified in the publication
+KCAT	Plasmodium falciparum	20.6	2-phospho-D-glycerate	*recombinant, dimeric enzyme
+KCAT	Plasmodium falciparum	22.2	2-phospho-D-glycerate	*recombinant, His-tagged, hexameric enzyme
+KCAT	Homo sapiens	34.07	phosphoenolpyruvate	*in 50 mM imidazole-HCl buffer, pH 6.8, with 3 mM MgSO4, 0.4 M KCl
+KCAT	Theileria annulata	37	2-phospho-D-glycerate	*1.5 mM MgCl2 in 50 mM Tris/HCl (pH 7.4), at 25&deg;C
+KCAT	Klebsiella pneumoniae	52.7	2-phospho-D-glycerate	*in 50 mM imidazole-HCl buffer, pH 7.8, with 1 mM MgSO4, 0.4 M KCl
+KCAT	Saccharomyces cerevisiae	71.4	2-phospho-D-glycerate	*isoform Eno1p, in 50 mM imidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	78	2-phosphoglycerate	*wild-type enzyme
+KCAT	Homo sapiens	81.68	2-phospho-D-glycerate	*in 50 mM imidazole-HCl buffer, pH 6.8, with 3 mM MgSO4, 0.4 M KCl
+KCAT	Saccharomyces cerevisiae	230	2-phosphoglycerate	*native enolase, pH 7.8, 21-23&deg;C

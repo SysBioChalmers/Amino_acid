@@ -1,0 +1,3 @@
+KCAT	Cichorium intybus	-999	1-kestose	*5 mM substrate: wild-type enzyme about 23 mol fructose/mol enzyme, mutant about 8 mol fructose/mol enzyme
+KCAT	Cichorium intybus	-999	inulin	*5 mM substrate: wild-type 1-FEH IIa 10 mol fructose/mol enzyme, S101L mutant about 2 mol fructose/mol enzyme
+KCAT	Cichorium intybus	-999	sucrose	*5 mM substrate: about zero activity in both enzyme variants, only at higher substrate concentrations (500-1000 mM) strongly raised activity: 10 mol fructose/mol enzyme

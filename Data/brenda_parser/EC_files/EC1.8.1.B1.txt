@@ -1,0 +1,55 @@
+KCAT	Taenia solium	1.64	NADPH	*cytosolic isoform, pH 7.8, temperature not specified in the publication
+KCAT	Schistosoma japonicum	4.87	NADPH	*with GSSG as cosubstrate, at 25&Acirc;&deg;C in 0.1 M potassium phosphate (pH 7.4)
+KCAT	Schistosoma japonicum	10.92	NADPH	*with 5,5'-dithiobis(2-nitrobenzoic acid) as cosubstrate, at 25&Acirc;&deg;C in 0.1 M potassium phosphate (pH 7.4)
+KCAT	Taenia solium	12.6	NADPH	*mitochondrial isoform, pH 7.8, temperature not specified in the publication
+KCAT	Schistosoma japonicum	14.93	NADPH	*with glutaredoxin as cosubstrate, at 25&Acirc;&deg;C in 0.1 M potassium phosphate (pH 7.4)
+KCAT	Schistosoma mansoni	20.1	NADPH	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Taenia crassiceps	10	thioredoxin	*pH 7.8, temperature not specified in the publication
+KCAT	Taenia crassiceps	19.2	thioredoxin	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Schistosoma japonicum	15.78	GSH	*at 25&Acirc;&deg;C in 0.1 M potassium phosphate (pH 7.4)
+KCAT	Taenia crassiceps	0.17	5,5'-dithiobis(2-nitrobenzoic acid)	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Taenia crassiceps	0.3	5,5'-dithiobis(2-nitrobenzoic acid)	*at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	1.2	5,5'-dithiobis(2-nitrobenzoic acid)	*
+KCAT	Taenia solium	1.85	5,5'-dithiobis(2-nitrobenzoic acid)	*cytosolic isoform, pH 7.8, temperature not specified in the publication
+KCAT	Schistosoma mansoni	4	5,5'-dithiobis(2-nitrobenzoic acid)	*mutant enzyme U597C, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	5	5,5'-dithiobis(2-nitrobenzoic acid)	*mutant enzyme C520A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	6	5,5'-dithiobis(2-nitrobenzoic acid)	*mutant enzyme C28A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C; mutant enzyme C31A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C; mutant enzyme C520A/C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C; mutant enzyme C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	8	5,5'-dithiobis(2-nitrobenzoic acid)	*mutant enzyme C28A/C31A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma japonicum	8.16	5,5'-dithiobis(2-nitrobenzoic acid)	*at 25&Acirc;&deg;C in 0.1 M potassium phosphate (pH 7.4)
+KCAT	Taenia solium	12.6	5,5'-dithiobis(2-nitrobenzoic acid)	*mitochondrial isoform, pH 7.8, temperature not specified in the publication
+KCAT	Schistosoma mansoni	16	5,5'-dithiobis(2-nitrobenzoic acid)	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	16	5,5'-dithiobis(2-nitrobenzoic acid)	*mutant enzyme C31S, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C; wild type enzyme, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Echinococcus granulosus	118	5,5'-dithiobis(2-nitrobenzoic acid)	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Schistosoma mansoni	0.19	GSSG	*
+KCAT	Schistosoma mansoni	0.6	GSSG	*mutant enzyme C28A/C31A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	0.7	GSSG	*mutant enzyme C28A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Taenia crassiceps	0.84	GSSG	*at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	3.5	GSSG	*mutant enzyme C31A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	4	GSSG	*mutant enzyme U597C, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	5	GSSG	*mutant enzyme C520A/C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C; mutant enzyme C520A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Taenia crassiceps	5.1	GSSG	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Schistosoma japonicum	5.35	GSSG	*at 25&Acirc;&deg;C in 0.1 M potassium phosphate (pH 7.4)
+KCAT	Schistosoma mansoni	7	GSSG	*mutant enzyme C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	19.4	GSSG	*wild type enzyme, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	21.7	GSSG	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	25	GSSG	*mutant enzyme C31S, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Taenia solium	0.35	thioredoxin disulfide	*cytosolic isoform, pH 7.8, temperature not specified in the publication
+KCAT	Taenia crassiceps	0.47	thioredoxin disulfide	*at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	3.5	thioredoxin disulfide	*mutant enzyme U597C, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma japonicum	4.78	thioredoxin disulfide	*at 25&Acirc;&deg;C in 0.1 M potassium phosphate (pH 7.4)
+KCAT	Schistosoma mansoni	8	thioredoxin disulfide	*mutant enzyme C520A/C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C; mutant enzyme C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Schistosoma mansoni	9	thioredoxin disulfide	*mutant enzyme C520A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25&Acirc;&deg;C
+KCAT	Taenia solium	0.96	glutathione disulfide	*cytosolic isoform, pH 7.8, temperature not specified in the publication
+KCAT	Taenia solium	1.62	glutathione disulfide	*mitochondrial isoform, pH 7.8, temperature not specified in the publication
+KCAT	Echinococcus granulosus	2	glutathione disulfide	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Echinococcus granulosus	5	glutathione disulfide	*mutant C574S, pH 7.0, temperature not specified in the publication
+KCAT	Echinococcus granulosus	5.6	glutathione disulfide	*mutant C519S, pH 7.0, temperature not specified in the publication
+KCAT	Echinococcus granulosus	10.2	5,5'-dithio-bis(2-nitrobenzoic acid)	*mutant C574S, pH 7.0, temperature not specified in the publication
+KCAT	Echinococcus granulosus	12	5,5'-dithio-bis(2-nitrobenzoic acid)	*mutant C519S, pH 7.0, temperature not specified in the publication
+KCAT	Echinococcus granulosus	55	5,5'-dithio-bis(2-nitrobenzoic acid)	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Schistosoma japonicum	8.65	2-hydroxyethyl disulfide	*at 25&Acirc;&deg;C in 0.1 M potassium phosphate (pH 7.4)
+KCAT	Echinococcus granulosus	6.4	mitochondial thioredoxin	*pH 7.0, 25&Acirc;&deg;C, Sec-to-Cys mutant enzyme
+KCAT	Echinococcus granulosus	131	mitochondial thioredoxin	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Echinococcus granulosus	197	cytosolic thioredoxin	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Taenia solium	5.13	glutathione-hydroxyethyl disulfide	*cytosolic isoform, pH 7.8, temperature not specified in the publication
+KCAT	Taenia solium	163.5	glutathione-hydroxyethyl disulfide	*mitochondrial isoform, pH 7.8, temperature not specified in the publication

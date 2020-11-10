@@ -1,0 +1,121 @@
+KCAT	Homo sapiens	0.02	NAD+	*wild-type, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.02	NAD+	*mutant E192A, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.022	NAD+	*pH 7.4, 27&Acirc;&deg;C, recombinant isozyme 3beta-HSD1 mutant Q240R
+KCAT	Homo sapiens	0.022	NAD+	*wild-type, pH 7.4
+KCAT	Homo sapiens	0.031	NAD+	*mutant C111S, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.033	NAD+	*mutant C111S, pH 7.4
+KCAT	Homo sapiens	0.038	NAD+	*pH 7.4, 27&Acirc;&deg;C, recombinant isozyme 3beta-HSD1 mutant Q105M
+KCAT	Homo sapiens	0.04	NAD+	*mutant C111A, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.04	NAD+	*mutant E192A, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.043	NAD+	*mutant C72S, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.047	NAD+	*mutant C72S, pH 7.4
+KCAT	Homo sapiens	0.048	NAD+	*mutant C83A, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.05	NAD+	*wild-type 3beta-HSD1, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.057	NAD+	*mutant C83A, pH 7.4
+KCAT	Homo sapiens	0.058	NAD+	*pH 7.4, 27&Acirc;&deg;C, recombinant wild-type isozyme 3beta-HSD1
+KCAT	Homo sapiens	0.058	NAD+	*in 0.02 M potassium phosphate buffer, pH 7.4
+KCAT	Homo sapiens	0.06	NAD+	*27&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	0.06	NAD+	*mutant D61N, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.063	NAD+	*mutant C111A, pH 7.4
+KCAT	Homo sapiens	0.07	NAD+	*27&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	0.08	NAD+	*27&Acirc;&deg;C, pH 7.4, H156Y mutant 3beta-HSD1
+KCAT	Homo sapiens	0.087	NAD+	*mutant C72F, pH 7.4; mutant C72F, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.1	NAD+	*mutant R195P, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.11	NAD+	*wild-type 3beta-HSD2, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.118	NAD+	*pH 7.4, 27&Acirc;&deg;C, recombinant wild-type isozyme 3beta-HSD2
+KCAT	Homo sapiens	0.12	NAD+	*27&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	0.145	NAD+	*pH 7.4, 27&Acirc;&deg;C, recombinant isozyme 3beta-HSD2 mutant Q105M
+KCAT	Homo sapiens	0.17	NAD+	*mutant R195R, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.187	NAD+	*pH 7.4, 27&Acirc;&deg;C, recombinant isozyme 3beta-HSD2 mutant R240Q
+KCAT	Homo sapiens	0.31	NADH	*mutant E192A, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.69	NADH	*mutant E192A, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.75	NADH	*wild-type 3beta-HSD1, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.76	NADH	*mutant D61N, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	1.03	NADH	*mutant R195P, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	1.49	NADH	*mutant R195R, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	1.65	NADH	*wild-type 3beta-HSD2, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.65	menadione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.02	dehydroepiandrosterone	*wild-type, pH 7.4
+KCAT	Homo sapiens	0.021	dehydroepiandrosterone	*wild-type, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.023	dehydroepiandrosterone	*pH 7.4, 27&Acirc;&deg;C, recombinant isozyme 3beta-HSD1 mutant Q240R
+KCAT	Homo sapiens	0.03	dehydroepiandrosterone	*mutant C111S, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.03	dehydroepiandrosterone	*mutant E192A, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.032	dehydroepiandrosterone	*mutant C111S, pH 7.4
+KCAT	Bos taurus	0.0333	dehydroepiandrosterone	*
+KCAT	Homo sapiens	0.04	dehydroepiandrosterone	*mutant D61N, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.047	dehydroepiandrosterone	*mutant C111A, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.048	dehydroepiandrosterone	*mutant C83A, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.05	dehydroepiandrosterone	*mutant C72S, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.05	dehydroepiandrosterone	*wild-type 3beta-HSD1, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.053	dehydroepiandrosterone	*mutant C72S, pH 7.4
+KCAT	Homo sapiens	0.055	dehydroepiandrosterone	*27&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	0.055	dehydroepiandrosterone	*pH 7.4, 27&Acirc;&deg;C, recombinant wild-type isozyme 3beta-HSD1
+KCAT	Homo sapiens	0.055	dehydroepiandrosterone	*mutant C83A, pH 7.4
+KCAT	Homo sapiens	0.055	dehydroepiandrosterone	*in 0.02 M potassium phosphate buffer, pH 7.4
+KCAT	Homo sapiens	0.055	dehydroepiandrosterone	*wild-type, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.06	dehydroepiandrosterone	*27&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	0.06	dehydroepiandrosterone	*mutant C111A, pH 7.4
+KCAT	Homo sapiens	0.06	dehydroepiandrosterone	*mutant E192A, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.062	dehydroepiandrosterone	*pH 7.4, 27&Acirc;&deg;C, recombinant wild-type isozyme 3beta-HSD1
+KCAT	Homo sapiens	0.075	dehydroepiandrosterone	*pH 7.4, 27&Acirc;&deg;C, recombinant isozyme 3beta-HSD2 mutant Q105M
+KCAT	Homo sapiens	0.075	dehydroepiandrosterone	*mutant Q105M, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.087	dehydroepiandrosterone	*mutant C72F, pH 7.4; mutant C72F, presence of 2-mercatoethanol pH 7.4
+KCAT	Homo sapiens	0.09	dehydroepiandrosterone	*mutant R195R, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.093	dehydroepiandrosterone	*mutant P195R, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.113	dehydroepiandrosterone	*pH 7.4, 27&Acirc;&deg;C, recombinant isozyme 3beta-HSD1 mutant Q105M
+KCAT	Homo sapiens	0.113	dehydroepiandrosterone	*mutant Q105M, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.115	dehydroepiandrosterone	*pH 7.4, 27&Acirc;&deg;C, recombinant wild-type isozyme 3beta-HSD2
+KCAT	Homo sapiens	0.118	dehydroepiandrosterone	*pH 7.4, 27&Acirc;&deg;C, recombinant wild-type isozyme 3beta-HSD2
+KCAT	Homo sapiens	0.118	dehydroepiandrosterone	*mutant H156Y, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.12	dehydroepiandrosterone	*27&Acirc;&deg;C, pH 7.4; 27&Acirc;&deg;C, pH 7.4, H156Y mutant 3beta-HSD1; pH 7.4, 27&Acirc;&deg;C, recombinant mutant H156Y; pH 7.4, 27&Acirc;&deg;C, recombinant mutant H156Y
+KCAT	Homo sapiens	0.12	dehydroepiandrosterone	*mutant R195P, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.13	dehydroepiandrosterone	*mutant R195P, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.14	dehydroepiandrosterone	*wild-type 3beta-HSD2, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.145	dehydroepiandrosterone	*wild-type, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.217	dehydroepiandrosterone	*pH 7.4, 27&Acirc;&deg;C, recombinant isozyme 3beta-HSD2 mutant R240Q
+KCAT	Mycobacterium tuberculosis	11.6	dehydroepiandrosterone	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Bos taurus	0.04	pregnenolone	*
+KCAT	Mycobacterium tuberculosis	1.48	pregnenolone	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	11.8	9,10-phenanthrenequinone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.095	5alpha-dihydrotestosterone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	28.3	diacetyl	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	16.7	4-nitrobenzaldehyde	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.05	all-trans-retinal	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	31.7	isatin	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.88	1,4-Naphthoquinone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.097	5alpha-androstane-3,17-dione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	31.7	benzil	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2	4-benzoylpyridine	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	26.7	2,3-Pentanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.063	5beta-pregnane-3,20-dione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.077	5beta-androstane-3,17-dione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	4.7	Pyridine-4-aldehyde	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	16.3	2,3-Hexanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Bos taurus	0.0233	allopregnanolone	*
+KCAT	Bos taurus	0.0333	androstenediol	*
+KCAT	Homo sapiens	0.043	Dehydrolithocholic acid	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	40.2	2,3-heptanedione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	(S)-1-indanol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.041	5beta-Pregnan-3beta-ol-20-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.083	5beta-androstan-17beta-ol-3-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.017	5beta-androstan-3beta-ol-17-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.07	5beta-pregnan-20alpha-ol-3-one	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.04	16beta-hydroxy-dehydroepiandrosterone	*wild-type 3beta-HSD1, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.05	16beta-hydroxy-dehydroepiandrosterone	*mutant R195R, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.14	16beta-hydroxy-dehydroepiandrosterone	*wild-type 3beta-HSD2, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.15	16beta-hydroxy-dehydroepiandrosterone	*mutant R195P, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.07	16alpha-hydroxy-dehydroepiandrosterone	*mutant R195R, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.09	16alpha-hydroxy-dehydroepiandrosterone	*wild-type 3beta-HSD1, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.15	16alpha-hydroxy-dehydroepiandrosterone	*mutant R195P, pH 7.4, 27&Acirc;&deg;C; wild-type 3beta-HSD2, pH 7.4, 27&Acirc;&deg;C
+KCAT	Homo sapiens	2	valerophenone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.017	5beta-androstane-3beta,17beta-diol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.7	hexanophenone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.85	n-butyrophenone	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	33.3	4-hexanoylpyridine	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	41.7	1-phenylisatin	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.7	4,4'-dimethylbenzil	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	33.3	dimethyl-2-oxo-glutarate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2	6-tert-butyl-2,3-epoxy-5-cyclohexene-1,4-dione	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.075	(S)-phenyl-1-butanol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.25	(S)-1-tetralol	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.014	5beta-pregnane-3beta,20alpha-diol	*pH 7.4, 25&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*2.1.1.237#turnoverNumber*0.225#turnoverNumberMaximum*#substrate*mycinamicin III#commentary*pH 7.4, 30&Acirc;&deg;C#organism*Micromonospora griseorubida#ligandStructureId*15139#literature*714732#

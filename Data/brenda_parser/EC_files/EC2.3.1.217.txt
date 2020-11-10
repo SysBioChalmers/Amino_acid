@@ -1,0 +1,10 @@
+KCAT	Curcuma longa	0.0032	feruloyl-CoA	*pH 7.5, 37&Acirc;&deg;C, CURS3
+KCAT	Curcuma longa	0.0068	feruloyl-CoA	*pH 7.5, 37&Acirc;&deg;C, CURS2
+KCAT	Curcuma longa	0.0183	feruloyl-CoA	*pH 7.5, 37&Acirc;&deg;C, CURS1
+KCAT	Curcuma longa	0.0183	feruloyl-CoA	*pH 8.0, 37&Acirc;&deg;C, with cinnamoyl-diketide-N-acetylcysteaminyl-CoA
+KCAT	Curcuma longa	0.00007	cinnamoyl-diketide-N-acetylcysteamine	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant H303Q
+KCAT	Curcuma longa	0.0015	cinnamoyl-diketide-N-acetylcysteamine	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant G211F
+KCAT	Curcuma longa	0.0043	cinnamoyl-diketide-N-acetylcysteamine	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Curcuma longa	0.0017	3-oxo-5-phenyl-4-pentenoic acid	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant H303Q
+KCAT	Curcuma longa	0.0083	3-oxo-5-phenyl-4-pentenoic acid	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant G211F
+KCAT	Curcuma longa	0.125	3-oxo-5-phenyl-4-pentenoic acid	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme

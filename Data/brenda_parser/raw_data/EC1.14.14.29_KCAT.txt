@@ -1,0 +1,1 @@
+ecNumber*1.14.14.29#turnoverNumber*0.0166#turnoverNumberMaximum*#substrate*5alpha-Androstane-3beta,17beta-diol#commentary*#organism*Sus scrofa#ligandStructureId*3060#literature*686694#!ecNumber*1.14.14.29#turnoverNumber*0.033#turnoverNumberMaximum*#substrate*dehydroepiandrosterone#commentary*#organism*Sus scrofa#ligandStructureId*275#literature*686694#

@@ -1,0 +1,93 @@
+KCAT	Danio rerio	-999	more	*comparison of kinetic constants with enzymes from Mus musculus, Lampetra japonica, Neanthes diversicolor, Dendronephthya gigantea
+KCAT	Dendronephthya gigantea	-999	more	*comparison of kinetic constants with enzymes from Mus musculus, Danio rerio, Lampetra japonica, Neanthes diversicolor
+KCAT	Hediste diversicolor	-999	more	*comparison of kinetic constants with enzymes from Mus musculus, Danio rerio, Lampetra japonica, Dendronephthya gigantea
+KCAT	Lethenteron camtschaticum	-999	more	*comparison of kinetic constants with enzymes from Mus musculus, Danio rerio, Neanthes diversicolor, Dendronephthya gigantea
+KCAT	Mus musculus	-999	more	*comparison of kinetic constants with enzymes from Danio rerio, Lampetra japonica, Neanthes diversicolor, Dendronephthya gigantea
+KCAT	Oryctolagus cuniculus	0.03	alpha-(SP)-borano substituted ADP	*
+KCAT	Oryctolagus cuniculus	0.06	alpha-(RP)-borano substituted ADP	*
+KCAT	Oryctolagus cuniculus	0.08	Creatine	*pH 9.0, 30&deg;C, recombinant mutant R129A
+KCAT	Oryctolagus cuniculus	0.08	MgATP2-	*pH 9.0, 30&deg;C, recombinant mutant R129A
+KCAT	Oryctolagus cuniculus	0.54	Creatine	*pH 9.0, 30&deg;C, recombinant mutant R235K
+KCAT	Oryctolagus cuniculus	0.54	MgATP2-	*pH 9.0, 30&deg;C, recombinant mutant R235K
+KCAT	Homo sapiens	0.55	N-ethylglycocyamine	*pH 9.0, 30&deg;C, recombinant mutant I69L
+KCAT	Oryctolagus cuniculus	1.33	Creatine	*pH 9.0, 30&deg;C, recombinant mutant R340Q
+KCAT	Oryctolagus cuniculus	1.33	MgATP2-	*pH 9.0, 30&deg;C, recombinant mutant R340Q
+KCAT	Homo sapiens	1.5	cyclocreatine	*pH 9.0, 30&deg;C, recombinant mutant I69L
+KCAT	Oryctolagus cuniculus	2.14	Creatine	*pH 9.0, 30&deg;C, recombinant mutant R340A
+KCAT	Oryctolagus cuniculus	2.14	MgATP2-	*pH 9.0, 30&deg;C, recombinant mutant R340A
+KCAT	Oryctolagus cuniculus	2.18	Creatine	*pH 9.0, 30&deg;C, recombinant mutant R291K
+KCAT	Oryctolagus cuniculus	2.18	MgATP2-	*pH 9.0, 30&deg;C, recombinant mutant R291K
+KCAT	Homo sapiens	4.2	Creatine	*pH 9.0, 30&deg;C, recombinant mutant I69A
+KCAT	Homo sapiens	4.3	N-ethylglycocyamine	*pH 9.0, 30&deg;C, recombinant mutant V325A
+KCAT	Homo sapiens	4.4	cyclocreatine	*pH 9.0, 30&deg;C, recombinant mutant I69V
+KCAT	Mus musculus	4.5	Creatine	*mitochondrial isoform, 25&deg;C
+KCAT	Homo sapiens	12	N-ethylglycocyamine	*pH 9.0, 30&deg;C, recombinant mutant I69V
+KCAT	Lethenteron camtschaticum	12.5	Creatine	*cytoplasmic isoform M2, 25&deg;C
+KCAT	Mus musculus	13.1	Creatine	*cytoplasmic isoform B, 25&deg;C
+KCAT	Homo sapiens	14.5	N-ethylglycocyamine	*pH 9.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Danio rerio	14.7	Creatine	*cytoplasmic isoform M1, 25&deg;C
+KCAT	Hediste diversicolor	15	Creatine	*mitochondrial isoform, 25&deg;C
+KCAT	Homo sapiens	15.4	Creatine	*pH 9.0, 30&deg;C, recombinant mutant V325A
+KCAT	Mus musculus	16.3	Creatine	*cytoplasmic isoform M, 25&deg;C
+KCAT	Homo sapiens	18	cyclocreatine	*pH 9.0, 30&deg;C, recombinant mutant V325A
+KCAT	Danio rerio	19.9	Creatine	*cytoplasmic isoform M2, 25&deg;C
+KCAT	Danio rerio	20.3	Creatine	*cytoplasmic isoform B, 25&deg;C
+KCAT	Lethenteron camtschaticum	25.2	Creatine	*cytoplasmic isoform M1, 25&deg;C
+KCAT	Hediste diversicolor	27.9	Creatine	*cytoplasmic isoform, 25&deg;C
+KCAT	Homo sapiens	35.2	cyclocreatine	*pH 9.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Physeter catodon	36.4	ATP	*muscle-type isoform MCK
+KCAT	Physeter catodon	36.4	Creatine	*muscle-type isoform MCK
+KCAT	Physeter catodon	38.4	ATP	*mitochondrial isoform sMiCK
+KCAT	Physeter catodon	38.4	Creatine	*mitochondrial isoform sMiCK
+KCAT	Dendronephthya gigantea	41.3	Creatine	*mitochondrial isoform, 25&deg;C
+KCAT	Homo sapiens	45	Creatine	*pH 9.0, 30&deg;C, recombinant mutant I69L
+KCAT	Oryctolagus cuniculus	50.1	Creatine	*pH 9.0, 30&deg;C, recombinant mutant R340K
+KCAT	Oryctolagus cuniculus	50.1	MgATP2-	*pH 9.0, 30&deg;C, recombinant mutant R340K
+KCAT	Homo sapiens	51.7	ATP	*pH 8.0, ubiquitous mitochondrial isozyme
+KCAT	Homo sapiens	51.7	Creatine	*pH 8.0, ubiquitous mitochondrial isozyme
+KCAT	Homo sapiens	75	ATP	*pH 8.0, ubiquitous mitochondrial isozyme
+KCAT	Homo sapiens	75	Creatine	*pH 8.0, ubiquitous mitochondrial isozyme
+KCAT	Homo sapiens	76	ATP	*isoform II isolated after expression in Escherichia coli, pH 8.0, 30&deg;C
+KCAT	Homo sapiens	78.3	ADP	*pH 7.0, ubiquitous mitochondrial isozyme
+KCAT	Homo sapiens	78.3	phosphocreatine	*pH 7.0, ubiquitous mitochondrial isozyme
+KCAT	Homo sapiens	82.7	Creatine	*pH 9.0, 30&deg;C, recombinant mutant I69V
+KCAT	Homo sapiens	85.3	Creatine	*pH 9.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	88	ATP	*isoform IV isolated after expression in Escherichia coli, pH 8.0, 30&deg;C
+KCAT	Homo sapiens	90	ADP	*pH 7.0, ubiquitous mitochondrial isozyme
+KCAT	Homo sapiens	90	phosphocreatine	*pH 7.0, ubiquitous mitochondrial isozyme
+KCAT	Homo sapiens	106	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant Q185E
+KCAT	Homo sapiens	112	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant A329S
+KCAT	Homo sapiens	115	ATP	*isoform III isolated after expression in Escherichia coli, pH 8.0, 30&deg;C
+KCAT	Homo sapiens	115	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant E46Q
+KCAT	Homo sapiens	117	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant D189A
+KCAT	Danio rerio	119	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant E185Q
+KCAT	Homo sapiens	122	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant K304T
+KCAT	Danio rerio	126	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant K36L
+KCAT	Danio rerio	128	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant T304K
+KCAT	Danio rerio	132	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant Q46E
+KCAT	Homo sapiens	138	Creatine	*co-substrate: ATP, wild-type hMMCK, pH and temperature not specified in the publication
+KCAT	Danio rerio	140	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant N146C
+KCAT	Danio rerio	142	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant H267A; co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant S329A
+KCAT	Homo sapiens	143	ATP	*wild-type, pH 8.0, 30&deg;C
+KCAT	Oryctolagus cuniculus	148	Creatine	*pH 9.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Oryctolagus cuniculus	148	MgATP2-	*pH 9.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	153.5	ATP	*pH 9.0, muscle-type cytosolic isozyme
+KCAT	Homo sapiens	153.5	Creatine	*pH 9.0, muscle-type cytosolic isozyme
+KCAT	Homo sapiens	155	ATP	*isoform I isolated after expression in Escherichia coli, pH 8.0, 30&deg;C
+KCAT	Danio rerio	159	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, wild-type
+KCAT	Danio rerio	163	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant A189D
+KCAT	Homo sapiens	170	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, wild-type
+KCAT	Danio rerio	173	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant A205S
+KCAT	Homo sapiens	173	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant C146N
+KCAT	Homo sapiens	175	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant L36K
+KCAT	Homo sapiens	178	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant S205A
+KCAT	Homo sapiens	196	Creatine	*co-substrate: ATP, 25&deg;C, pH not specified in the publication, mutant A267H
+KCAT	Homo sapiens	215	ATP	*pH 9.0, brain-type cytosolic isozyme
+KCAT	Homo sapiens	215	Creatine	*pH 9.0, brain-type cytosolic isozyme
+KCAT	Homo sapiens	238	Creatine	*co-substrate: ATP, hybrid form consisting of muscle and brain creatine kinase isoforms, pH and temperature not specified in the publication
+KCAT	Homo sapiens	350	ADP	*pH 7.0, brain-type cytosolic isozyme
+KCAT	Homo sapiens	350	phosphocreatine	*pH 7.0, brain-type cytosolic isozyme
+KCAT	Oryctolagus cuniculus	370	ADP	*
+KCAT	Homo sapiens	417	Creatine	*co-substrate: ATP, wild-type hBBCK, pH and temperature not specified in the publication
+KCAT	Homo sapiens	483.3	ADP	*pH 7.0, muscle-type cytosolic isozyme
+KCAT	Homo sapiens	483.3	phosphocreatine	*pH 7.0, muscle-type cytosolic isozyme

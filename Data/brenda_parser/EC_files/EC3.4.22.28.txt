@@ -1,0 +1,36 @@
+KCAT	Hepatovirus A	0.00025	(E)-5-chloropyridin-3-yl 3-(furan-2-yl)acrylate	*
+KCAT	Enterovirus A71	0.0003	2-(N-methylamino)benzoyl-TSAVLQSGFRK-(2,4-dinitrophenyl)-Met	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus A71	0.0005	2-(N-methylamino)benzoyl-DEAMEQGVSDYIK-2,4-dinitrophenyl	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Hepatovirus A	0.0011	5-chloropyridin-3-yl furan-2-carboxylate	*
+KCAT	Hepatovirus A	0.00119	5-bromopyridin-3-yl furan-3-carboxylate	*
+KCAT	Enterovirus A71	0.002	Dabcyl-RTATVQGPSLDFKE-Edans	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus A71	0.0027	2-(N-methylamino)benzoyl-IAALFQGPPK(2,4-dinitrophenyl)FR	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus A71	0.0028	Dabcyl-IEALFQGPPKFRE-Edans	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus A71	0.003	2-(N-methylamino)benzoyl-RQAVTQGFPTELK-2,4-dinitrophenyl	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus A71	0.0035	2-(N-methylamino)benzoyl-RTATVQGPSLDFK-2,4-dinitrophenyl	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus A71	0.004	2-(N-methylamino)benzoyl-IELLFQGPPK(2,4-dinitrophenyl)FR	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus A71	0.005	2-(N-methylamino)benzoyl-IEAAFQGPPK(2,4-dinitrophenyl)FR	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus A71	0.0085	(2-(N-methylamino)benzoyl)-IEALFQGPPK(2,4-dinitrophenyl)-FR	*in 50 mM Tris, pH 7.0, at 30&deg;C
+KCAT	Enterovirus C	0.01	2-aminobenzoyl-AALFQGPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+KCAT	Enterovirus C	0.01	2-aminobenzoyl-EALAQGPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+KCAT	Enterovirus C	0.03	2-aminobenzoyl-EALFQGPAQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+KCAT	Enterovirus C	0.03	2-aminobenzoyl-EALFQGPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+KCAT	tobacco etch virus	0.036	TENLYFQSGTRR	*at pH 8.0 and 4&deg;C
+KCAT	Enterovirus C	0.06	2-aminobenzoyl-EALFQGPLQ-EDDnp	*in D2O, in the absence of sodium citrate
+KCAT	Enterovirus C	0.08	2-aminobenzoyl-EAAFQGPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+KCAT	Southampton virus	0.08	Ac-FQLQ-4-nitroanilide	*pH 8.5, temperature not specified in the publication
+KCAT	Norwalk virus	0.08	N-acetyl-DEFQLQ-4-nitroanilide	*pH and temperature not specified in the publication
+KCAT	Southampton virus	0.14	Ac-EFQLQ-4-nitroanilide	*pH 8.5, temperature not specified in the publication
+KCAT	tobacco etch virus	0.22	TENLYFQSGTRR	*at pH 8.0 and 30&deg;C
+KCAT	Enterovirus C	0.28	2-aminobenzoyl-EALFQGALQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+KCAT	Southampton virus	0.33	Ac-DEFQLQ-4-nitroanilide	*pH 8.5, temperature not specified in the publication
+KCAT	Enterovirus C	0.34	2-aminobenzoyl-EALFQAPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+KCAT	Human rhinovirus sp.	0.41	SLEVLFQGPVRR	*at pH 8.0 and 4&deg;C
+KCAT	Enterovirus C	0.66	2-aminobenzoyl-EALAQGPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+KCAT	Enterovirus C	0.87	2-aminobenzoyl-EALFQGPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+KCAT	Enterovirus C	0.96	2-aminobenzoyl-AALFQGPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+KCAT	Enterovirus C	2.02	2-aminobenzoyl-EALFQGPLQ-EDDnp	*in D2O, in the presence of 1 M sodium citrate
+KCAT	Human rhinovirus sp.	2.38	SLEVLFQGPVRR	*at pH 8.0 and 30&deg;C
+KCAT	Enterovirus C	2.72	2-aminobenzoyl-EALFQGPAQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+KCAT	Enterovirus C	3.34	2-aminobenzoyl-EAAFQGPLQ-EDDnp	*in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+KCAT	enterovirus	27	4-(4-dimethylaminophenylazo)benzoic acid-KTSAVLQSGFRKME-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	*

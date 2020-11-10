@@ -1,0 +1,3 @@
+KCAT	Xanthobacter agilis	1.8	2-carboxybenzoylamine-D-Phe-L-Ala	*
+KCAT	Xanthobacter agilis	2.3	2-carboxybenzoylamine-L-Phe-L-Ala	*
+KCAT	Xanthobacter agilis	4.7	2-carboxybenzoylamine-D-phenylglycine-methylester	*

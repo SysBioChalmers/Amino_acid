@@ -1,0 +1,136 @@
+KCAT	Paraconiothyrium sp.	0.46	D-glucose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	2.1	D-glucose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	5.6	D-glucose	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	6	D-glucose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	6.3	D-glucose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	7.5	D-glucose	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	10.4	D-glucose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	10.8	D-glucose	*mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	13.2	D-glucose	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	13.2	D-glucose	*mutant enzyme Y300A, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	13.22	D-glucose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant Y300A
+KCAT	Sarocladium strictum	15.68	D-glucose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Paraconiothyrium sp.	0.25	D-galactose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	1.5	D-galactose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	6.6	D-galactose	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	7.2	D-galactose	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	11.8	D-galactose	*mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	13.3	D-galactose	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	0.22	cellobiose	*H70A mutant protein
+KCAT	Sarocladium strictum	0.58	cellobiose	*C130A mutant protein
+KCAT	Sarocladium strictum	5.7	cellobiose	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	6.2	cellobiose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	6.3	cellobiose	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	7	cellobiose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Paraconiothyrium sp.	7.4	cellobiose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	9	cellobiose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	11.4	cellobiose	*mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	11.9	cellobiose	*wild type protein
+KCAT	Sarocladium strictum	12	cellobiose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	13.7	cellobiose	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	13.7	cellobiose	*mutant enzyme Y300A, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	13.72	cellobiose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant Y300A
+KCAT	Sarocladium strictum	16.33	cellobiose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Paraconiothyrium sp.	0.76	maltose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	2	maltose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	5.4	maltose	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	6	maltose	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	10.4	maltose	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0; mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Paraconiothyrium sp.	4.4	lactose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	6.3	lactose	*O2 used as electron acceptor
+KCAT	Paraconiothyrium sp.	0.58	D-xylose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	1.7	D-xylose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	4.6	D-xylose	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	5.3	D-xylose	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	5.5	D-xylose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	7.4	D-xylose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	11.3	D-xylose	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	11.3	D-xylose	*mutant enzyme Y300A, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	11.33	D-xylose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant Y300A
+KCAT	Sarocladium strictum	11.7	D-xylose	*mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	12.4	D-xylose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	16.25	D-xylose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Paraconiothyrium sp.	2.2	maltotriose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	2.3	maltotriose	*O2 used as electron acceptor
+KCAT	Paraconiothyrium sp.	0.73	L-arabinose	*O2 used as electron acceptor
+KCAT	Paraconiothyrium sp.	1.1	L-arabinose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	2.3	maltotetraose	*O2 used as electron acceptor
+KCAT	Paraconiothyrium sp.	2.6	maltotetraose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	0.9	maltopentaose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	1.8	maltopentaose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	7.8	N-acetyl-D-glucosamine	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	8.1	N-acetyl-D-glucosamine	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	11.3	N-acetyl-D-glucosamine	*mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	12.8	N-acetyl-D-glucosamine	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Paraconiothyrium sp.	0.35	maltohexaose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	0.57	maltohexaose	*O2 used as electron acceptor
+KCAT	Paraconiothyrium sp.	1.5	cellotriose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Sarocladium strictum	5.3	cellotriose	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	6	cellotriose	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	6.9	cellotriose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	7.3	cellotriose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Paraconiothyrium sp.	7.5	cellotriose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	10	cellotriose	*mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	11.17	cellotriose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant Y300A
+KCAT	Sarocladium strictum	11.2	cellotriose	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	11.2	cellotriose	*mutant enzyme Y300A, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	13.7	cellotriose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	18.67	cellotriose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Paraconiothyrium sp.	3	xylobiose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	3.3	xylobiose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	7.5	xylobiose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	8	xylobiose	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	8.7	xylobiose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	8.8	xylobiose	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	12	xylobiose	*mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	13.28	xylobiose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant Y300A
+KCAT	Sarocladium strictum	13.3	xylobiose	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	13.3	xylobiose	*mutant enzyme Y300A, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	14.8	xylobiose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	19.72	xylobiose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Paraconiothyrium sp.	1.4	cellotetraose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Sarocladium strictum	4.17	cellotetraose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	7.8	cellotetraose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	9.9	cellotetraose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Paraconiothyrium sp.	11	cellotetraose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	12.8	cellotetraose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Paraconiothyrium sp.	1.1	cellopentaose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Sarocladium strictum	7.6	cellopentaose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	8.3	cellopentaose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Paraconiothyrium sp.	9	cellopentaose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	12.7	cellopentaose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	18.33	cellopentaose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Sarocladium strictum	7.9	xylotriose	*mutant enzyme W351F, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	8.3	xylotriose	*wild type enzyme, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	8.7	xylotriose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	10.3	xylotriose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	12	xylotriose	*mutant enzyme Y300N, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	13.87	xylotriose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant Y300A
+KCAT	Sarocladium strictum	13.9	xylotriose	*mutant enzyme Y300A, at 37&Acirc;&deg;C and pH 8.0
+KCAT	Sarocladium strictum	13.9	xylotriose	*mutant enzyme Y300A, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	14.5	xylotriose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	19.67	xylotriose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Sarocladium strictum	8.1	xylotetraose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	9.7	xylotetraose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	16	xylotetraose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Paraconiothyrium sp.	0.45	6-deoxy-D-glucose	*O2 used as electron acceptor
+KCAT	Paraconiothyrium sp.	0.81	6-deoxy-D-glucose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Paraconiothyrium sp.	1.1	cellohexaose	*2,6-dichlorophenol indophenol used as electron acceptor
+KCAT	Sarocladium strictum	6.6	cellohexaose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	7.2	cellohexaose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Paraconiothyrium sp.	10	cellohexaose	*O2 used as electron acceptor
+KCAT	Sarocladium strictum	13.2	cellohexaose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	16.5	cellohexaose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Sarocladium strictum	8.8	xylopentaose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	10.4	xylopentaose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	15.2	xylopentaose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	26.17	xylopentaose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Sarocladium strictum	7.8	xylohexaose	*mutant enzyme A38V/S388N, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	8.6	xylohexaose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	15.2	xylohexaose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	17.43	xylohexaose	*pH 8.0, 37&Acirc;&deg;C, recombinant mutant CtCBM22A_Y300A
+KCAT	Sarocladium strictum	8.8	alpha-L-arabinofuranosyl-(1-&gt;3)-beta-D-xylopyranosyl-(1-&gt;4)-D-xylose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	12.3	alpha-L-arabinofuranosyl-(1-&gt;3)-beta-D-xylopyranosyl-(1-&gt;4)-D-xylose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	9	alpha-L-arabinofuranosyl-(1-&gt;2)-[alpha-L-arabinofuranosyl-(1-&gt;3)]-beta-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranosyl-(1-&gt;4)-D-xylose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	13.5	alpha-L-arabinofuranosyl-(1-&gt;2)-[alpha-L-arabinofuranosyl-(1-&gt;3)]-beta-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranosyl-(1-&gt;4)-D-xylose	*mutant enzyme A38V, at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Sarocladium strictum	11	4-O-methyl-alpha-D-glucopyranosyl uronic acid-(1-&gt;2)-beta-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranosyl-(1-&gt;4)-D-xylose	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C

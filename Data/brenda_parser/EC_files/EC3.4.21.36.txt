@@ -1,0 +1,29 @@
+KCAT	Sus scrofa	0.0058	4-nitrophenyl acetate	*in the absence of spermidine, at pH 8.5 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	0.007	4-nitrophenyl acetate	*in the presence of 0.2 mM spermidine, at pH 8.5 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	0.0092	4-nitrophenyl acetate	*in the presence of 0.3 mM spermidine, at pH 8.5 and 37&Acirc;&deg;C
+KCAT	Sus scrofa	0.0125	4-nitrophenyl acetate	*in the presence of 0.5 mM spermidine, at pH 8.5 and 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	1.59	succinyl-Ala-Ala-Ala-p-nitroanilide	*
+KCAT	Rattus norvegicus	4.88	succinyl-Ala-Ala-Pro-Ala-p-nitroanilide	*
+KCAT	Rattus norvegicus	0.12	succinyl-Ala-Ala-Pro-Met-p-nitroanilide	*
+KCAT	Sus scrofa	1.039	succinyl-L-Ala-L-Ala-L-Ala-4-nitroanilide	*at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Sus scrofa	1.86	succinyl-L-Ala-L-Ala-L-Pro-Gly-4-nitroanilide	*isoform CELA1, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	22.9	succinyl-L-Ala-L-Ala-L-Pro-L-Ala-4-nitroanilide	*isoform CELA3A, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	24.8	succinyl-L-Ala-L-Ala-L-Pro-L-Ala-4-nitroanilide	*isoform CELA3B, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Sus scrofa	115	succinyl-L-Ala-L-Ala-L-Pro-L-Ala-4-nitroanilide	*isoform CELA1, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.24	succinyl-L-Ala-L-Ala-L-Pro-L-Met-4-nitroanilide	*isoform CELA3A, at pH 8.0 and 22&Acirc;&deg;C; isoform CELA3B, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Sus scrofa	0.7	succinyl-L-Ala-L-Ala-L-Pro-L-Met-4-nitroanilide	*isoform CELA1, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.99	succinyl-L-Ala-L-Ala-L-Pro-L-Ile-4-nitroanilide	*isoform CELA3A, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	1.25	succinyl-L-Ala-L-Ala-L-Pro-L-Ile-4-nitroanilide	*isoform CELA3B, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Sus scrofa	2.87	succinyl-L-Ala-L-Ala-L-Pro-L-Ile-4-nitroanilide	*isoform CELA1, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	1.01	succinyl-L-Ala-L-Ala-L-Pro-L-Leu-4-nitroanilide	*isoform CELA3B, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	1.16	succinyl-L-Ala-L-Ala-L-Pro-L-Leu-4-nitroanilide	*isoform CELA3A, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Sus scrofa	57.8	succinyl-L-Ala-L-Ala-L-Pro-L-Leu-4-nitroanilide	*isoform CELA1, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Sus scrofa	-999	more	*
+KCAT	Homo sapiens	0.14	succinyl-L-Ala-L-Ala-L-Pro-L-Ser-4-nitroanilide	*isoform CELA3A, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.26	succinyl-L-Ala-L-Ala-L-Pro-L-Ser-4-nitroanilide	*isoform CELA3B, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	2.44	succinyl-L-Ala-L-Ala-L-Pro-L-Val-4-nitroanilide	*isoform CELA3A, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Homo sapiens	3.66	succinyl-L-Ala-L-Ala-L-Pro-L-Val-4-nitroanilide	*isoform CELA3B, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Sus scrofa	5.62	succinyl-L-Ala-L-Ala-L-Pro-L-Ser-4-nitroanilide	*isoform CELA1, at pH 8.0 and 22&Acirc;&deg;C
+KCAT	Sus scrofa	16.9	succinyl-L-Ala-L-Ala-L-Pro-L-Val-4-nitroanilide	*isoform CELA1, at pH 8.0 and 22&Acirc;&deg;C

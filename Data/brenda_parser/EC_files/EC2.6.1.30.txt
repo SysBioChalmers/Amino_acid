@@ -1,0 +1,28 @@
+KCAT	Mesorhizobium loti	29	pyruvate	*; 30&Acirc;&deg;C, pH 9.0
+KCAT	Mesorhizobium loti	1.9	2-oxoglutarate	*wild type protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	3.5	2-oxoglutarate	*M2T/Y35H/V70K mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	3.9	2-oxoglutarate	*M2T/V70K mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	4	2-oxoglutarate	*M2T/Y35H/V70K/E212G mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	4.1	2-oxoglutarate	*V70K mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	4.6	2-oxoglutarate	*M2T/V70K/E212G mutant protein, pH 9.0, 30&Acirc;&deg;C; V70K/E212G mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	5.2	2-oxoglutarate	*Y35H/V70K mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	8.1	2-oxoglutarate	*Y35H/V70R/F247C mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	9.1	2-oxoglutarate	*V70R/F247C mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	1.5	L-glutamate	*wild type protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	2.7	L-glutamate	*V70K mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	2.9	L-glutamate	*Y35H/V70K mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	3	L-glutamate	*M2T/Y35H/V70K/E212G mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	3.1	L-glutamate	*M2T/Y35H/V70K mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	4.4	L-glutamate	*V70R/F247C mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	6.4	L-glutamate	*Y35H/V70R/F247C mutant protein, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	41	L-alanine	*; 30&Acirc;&deg;C, pH 9.0
+KCAT	Mesorhizobium loti	24	2-oxobutyrate	*; 30&Acirc;&deg;C, pH 9.0
+KCAT	Mesorhizobium loti	41	pyridoxal	*; 30&Acirc;&deg;C, pH 9.0
+KCAT	Mesorhizobium loti	0.062	pyridoxamine 5'-phosphate	*mutant E68G, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	0.22	pyridoxamine 5'-phosphate	*mutant E68A, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	0.77	pyridoxamine	*mutant E68G, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	0.78	pyridoxamine	*mutant E68A, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	2	pyridoxamine	*; 30&Acirc;&deg;C, pH 9.0
+KCAT	Mesorhizobium loti	2	pyridoxamine	*mutant R336A, pH 9.0, 30&Acirc;&deg;C; wild-type, pH 9.0, 30&Acirc;&deg;C
+KCAT	Mesorhizobium loti	9	(S)-2-aminobutyrate	*; 30&Acirc;&deg;C, pH 9.0
+KCAT	Pseudomonas sp.	-999	more	*

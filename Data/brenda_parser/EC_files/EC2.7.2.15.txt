@@ -1,0 +1,7 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	120	ATP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	113	GTP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	120	acetate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	73	CTP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	81	UTP	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	60	Butyrate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	108	propanoate	*pH 7.5, 25&Acirc;&deg;C

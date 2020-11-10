@@ -1,0 +1,77 @@
+KCAT	Bos taurus	0.0483	Nalpha-benzoyl-Gly-Arg-Leu-2-naphthylamide	*
+KCAT	Bos taurus	0.05	benzoyl-Gly-Gly-Arg-Leu-2-naphthylamide	*
+KCAT	Homo sapiens	0.0551	angiotensin I	*37&deg;C, pH 7.4
+KCAT	Bos taurus	0.105	N-benzyoxycarbonyl-Gly-Gly-Leu 2-naphthylamide	*
+KCAT	Bos taurus	0.147	Nalpha-benzoyl-Gly-Arg-Arg-Ala-2-naphthylamide	*
+KCAT	Bos taurus	0.383	Nalpha-benzoyl-Gly-Lys-Lys-Arg-Arg-Leu-2-naphthylamide	*
+KCAT	Lactococcus lactis	0.5	Met-enkephalinamide	*
+KCAT	Homo sapiens	0.68	endothelin-1	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.767	gastrin G-17	*sulfated
+KCAT	Homo sapiens	0.83	amyloid beta peptide1-40	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Rattus norvegicus	0.883	Gly-Trp-Gly	*
+KCAT	Homo sapiens	1.07	gastrin G-17	*unsulfated
+KCAT	Lactococcus lactis	1.7	adrenocorticotropic hormone	*
+KCAT	Lactococcus lactis	1.8	Vasoactive intestinal peptide	*
+KCAT	Bos taurus	1.82	Nalpha-benzoyl-Gly-Lys-Arg-Arg-Leu-2-naphthylamide	*
+KCAT	Homo sapiens	1.9	amyloid beta peptide1-40	*mutant G714K, pH and temperature not specified in the publication
+KCAT	Bos taurus	2	Nalpha-benzoyl-Gly-Arg-Arg-Phe-2-naphthylamide	*
+KCAT	Homo sapiens	2.1	amyloid beta peptide1-40	*mutant G399V/G714K, pH and temperature not specified in the publication
+KCAT	Homo sapiens	2.7	amyloid beta peptide1-40	*mutant G399V, pH and temperature not specified in the publication
+KCAT	Homo sapiens	2.8	Arg-vasopressin	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	3.3	GLP-1	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Rattus norvegicus	3.63	N-acetyl-Gly-Trp-Gly	*
+KCAT	Bos taurus	4	Nalpha-benzoyl-Gly-Arg-Arg-Leu-2-naphthylamide	*
+KCAT	Rattus norvegicus	4.13	dansyl-Gly-Tyr-Gly-NH2	*
+KCAT	Lactococcus lactis	4.3	bradykinin	*
+KCAT	Homo sapiens	4.5	glucagon	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	4.8	gamma-endorphin	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Bos taurus	5.28	glutaryl-Ala-Ala-Phe-4-methoxy-2-naphthylamide	*
+KCAT	Bos taurus	6.32	succinyl-Arg-Arg-Leu-2-naphthylamide	*
+KCAT	Rattus norvegicus	6.83	hippuryl-Arg-Arg-Ala-2-naphthylamide	*
+KCAT	Lactococcus lactis	7.8	Met-enkephalin	*
+KCAT	Homo sapiens	8.2	angiotensin	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Lactococcus lactis	8.2	Leu-enkephalinamide	*
+KCAT	Homo sapiens	8.9	alpha-endorphin	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	9.1	somatostatin 28	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Bos taurus	9.87	glutaryl-Ala-Ala-Phe-2-naphthylamide	*
+KCAT	Homo sapiens	11	nociceptin	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	13	neurotensin	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Lactococcus lactis	14	dynorphin A-6	*
+KCAT	Rattus norvegicus	14	Luteinizing hormone-releasing hormone	*
+KCAT	Rattus norvegicus	15	dansyl-Gly-Trp-Gly	*
+KCAT	Lactococcus lactis	15	Leu-enkephalin	*
+KCAT	Homo sapiens	16	bradykinin	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	17	Neurokinin A	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Rattus norvegicus	17.4	Tyr-D-Ala-Gly-Phe-Met	*
+KCAT	Homo sapiens	18	Substance P	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Lactococcus lactis	18.6	dynorphin A-13	*
+KCAT	Canis lupus familiaris	19	D-Ala2-Leu5-enkephalin	*enzyme from tubules
+KCAT	Rattus norvegicus	19.1	dansyl-Gly-Tyr-Gly	*
+KCAT	Lactococcus lactis	19.6	dynorphin A-8	*
+KCAT	Homo sapiens	20	neurokinin B	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Canis lupus familiaris	20.7	D-Ala2-Leu5-enkephalin	*enzyme from glomeruli
+KCAT	Rattus norvegicus	21.1	Tyr-Gly-Gly-Phe-Met	*
+KCAT	Lactococcus lactis	23.8	dynorphin A-10	*
+KCAT	Homo sapiens	24.6	unsulfated cholecystokinin octapeptide	*
+KCAT	Lactococcus lactis	25.4	dynorphin A-17	*
+KCAT	Lactococcus lactis	26	beta-endorphin	*
+KCAT	Homo sapiens	26	gastri-releasing peptide	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Lactococcus lactis	28	Substance P	*
+KCAT	Homo sapiens	31.1	sulfated cholecystokinin octapeptide	*
+KCAT	Homo sapiens	32	somatostatin 14	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Lactococcus lactis	32.2	dynorphin A-9	*
+KCAT	Homo sapiens	40	angiotensin II	*37&deg;C, pH 7.4
+KCAT	Homo sapiens	41.8	angiotensin(1-9)	*37&deg;C, pH 7.4
+KCAT	Rattus norvegicus	42	Tyr-D-Ala-Gly-Phe-met-NH2	*
+KCAT	Sus scrofa	43.7	glutaryl-Gly-Gly-Phe-2-naphthylamide	*
+KCAT	Lactococcus lactis	44.6	alpha-neoendorphin	*
+KCAT	Rattus norvegicus	46.4	benzyloxycarbonyl-Ala-Gly-Leu-Ala	*
+KCAT	Rattus norvegicus	58.2	glutaryl-Ala-Ala-Phe-4-methoxy-2-naphthylamine	*
+KCAT	Rattus norvegicus	72	hippuryl-Arg-Arg-Leu-2-naphthylamide	*
+KCAT	Rattus norvegicus	84.3	Substance P	*
+KCAT	Sus scrofa	84.4	Substance P	*
+KCAT	Rattus norvegicus	106	bradykinin	*
+KCAT	Oryctolagus cuniculus	232	D-Ala2-Leu5-enkephalin	*mutant enzyme N542G
+KCAT	Oryctolagus cuniculus	412	D-Ala2-Leu5-enkephalin	*mutant enzyme R102M/N542G
+KCAT	Oryctolagus cuniculus	1020	D-Ala2-Leu5-enkephalin	*wild type enzyme
+KCAT	Oryctolagus cuniculus	1260	D-Ala2-Leu5-enkephalin	*mutant enzyme R102M

@@ -1,0 +1,17 @@
+KCAT	Streptomyces griseus	0.0003	malonyl-CoA	*mutant enzyme Y224L, at pH 7.4 and 30&deg;C
+KCAT	Streptomyces coelicolor	0.002	malonyl-CoA	*mutant enzyme Y224M, at pH 7.4 and 30&deg;C
+KCAT	Streptomyces coelicolor	0.004	malonyl-CoA	*mutant enzyme Y224L, at pH 7.4 and 30&deg;C
+KCAT	Streptomyces coelicolor	0.005	malonyl-CoA	*mutant enzyme Y224C, at pH 7.4 and 30&deg;C
+KCAT	Streptomyces griseus	0.005	malonyl-CoA	*wild type enzyme, at pH 7.4 and 30&deg;C
+KCAT	Streptomyces coelicolor	0.008	malonyl-CoA	*at pH 7.5 and 22&deg;C
+KCAT	Streptomyces griseus	0.013	malonyl-CoA	*in 100 mM Tris-HCl (pH 7.5), 1 mM EDTA, 1 mM 2-mercaptoethanol, at 30&deg;C
+KCAT	Streptomyces coelicolor	0.018	malonyl-CoA	*mutant enzyme Y224F, at pH 7.4 and 30&deg;C
+KCAT	Streptomyces coelicolor	0.022	malonyl-CoA	*wild type enzyme, at pH 7.4 and 30&deg;C
+KCAT	Streptomyces griseus	0.6	hexanoyl-CoA	*wild type enzyme, at pH 7.5 and 30&deg;C
+KCAT	Streptomyces griseus	0.65	hexanoyl-CoA	*mutant enzyme Y224G, at pH 7.5 and 30&deg;C
+KCAT	Streptomyces griseus	1.45	hexanoyl-CoA	*mutant enzyme Y224L, at pH 7.5 and 30&deg;C
+KCAT	Streptomyces griseus	2.07	hexanoyl-CoA	*mutant enzyme A350I, at pH 7.5 and 30&deg;C
+KCAT	Streptomyces griseus	9	hexanoyl-CoA	*mutant enzyme A350S, at pH 7.5 and 30&deg;C
+KCAT	Streptomyces coelicolor	45.7	malonyl-CoA	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 7.5), at 22&deg;C
+KCAT	Streptomyces coelicolor	46.5	malonyl-CoA	*mutant enzyme C171S, in 100 mM Tris-HCl buffer (pH 7.5), at 22&deg;C
+KCAT	Streptomyces coelicolor	79.2	malonyl-CoA	*mutant enzyme C184S, in 100 mM Tris-HCl buffer (pH 7.5), at 22&deg;C

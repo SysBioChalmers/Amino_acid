@@ -1,0 +1,1 @@
+ecNumber*2.7.1.22#turnoverNumber*0.92#turnoverNumberMaximum*#substrate*nicotinamide mononucleotide#commentary*pH 7.5, 37&Acirc;&deg;C, nicotinamide mononucleotide adenylyltransferase activity#organism*Haemophilus influenzae#ligandStructureId*1831#literature*641175#

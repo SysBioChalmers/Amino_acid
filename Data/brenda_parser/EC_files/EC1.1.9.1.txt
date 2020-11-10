@@ -1,0 +1,8 @@
+KCAT	Comamonas testosteroni	0.18	(S)-solketal	*pH 7.5, presence of CaCl2
+KCAT	Comamonas testosteroni	2.12	(R)-solketal	*pH 7.5, presence of CaCl2
+KCAT	Comamonas testosteroni	8.3	(R)-solketal aldehyde	*pH 7.5, presence of CaCl2
+KCAT	Comamonas testosteroni	17.1	(S)-solketal aldehyde	*pH 7.5, presence of CaCl2
+KCAT	Comamonas testosteroni	17.5	ethanol	*pH 7.5, 25&deg;C
+KCAT	Comamonas testosteroni	17.9	ethanol	*pH 7.5, presence of CaCl2
+KCAT	Comamonas testosteroni	19.9	Ethanal	*pH 7.5, presence of CaCl2
+KCAT	Comamonas testosteroni	20.3	(R)-3-bromo-2-methyl-1-propanol	*pH 7.5, presence of CaCl2

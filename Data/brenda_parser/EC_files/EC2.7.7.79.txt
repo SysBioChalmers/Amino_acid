@@ -1,0 +1,6 @@
+KCAT	Saccharomyces cerevisiae	0.00005	ppp-tRNALeu	*pH 7.5, 22&deg;C, mutant enzyme D68A
+KCAT	Saccharomyces cerevisiae	0.00012	ppp-tRNAPhe	*pH 7.5, 22&deg;C, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	0.000172	ppp-tRNAPhe	*pH 7.5, 22&deg;C, mutant enzyme D68A
+KCAT	Saccharomyces cerevisiae	0.00089	ppp-tRNAHis	*pH 7.5, 22&deg;C, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	0.0011	ppp-tRNAHis	*pH 7.5, 22&deg;C, mutant enzyme D68A
+KCAT	Saccharomyces cerevisiae	0.0122	p-tRNAHis	*pH 7.5, 22&deg;C

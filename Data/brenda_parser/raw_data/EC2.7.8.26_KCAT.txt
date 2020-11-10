@@ -1,0 +1,1 @@
+ecNumber*2.7.8.26#turnoverNumber*0.67#turnoverNumberMaximum*#substrate*alpha-ribazole#commentary*#organism*Salmonella enterica#ligandStructureId*8342#literature*674341#

@@ -1,0 +1,51 @@
+KCAT	Corynebacterium glutamicum	0.1	CTP	*pH 7.0, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	0.2	(phosphate)5	*pH 7.0, temperature not specified in the publication
+KCAT	Nostoc sp.	0.21	D-mannose	*pH 7.5, 28&deg;C
+KCAT	Anabaena sp.	0.21	mannose	*at pH 7.5 and 28&deg;C
+KCAT	Streptomyces coelicolor	0.25	D-glucose	*pH 7.7, 28&deg;C
+KCAT	Streptomyces coelicolor	0.3	D-glucose	*at pH 7.7 and 28&deg;C
+KCAT	Streptomyces coelicolor	0.3	(Phosphate)n	*at pH 7.7 and 28&deg;C
+KCAT	Corynebacterium glutamicum	0.3	UTP	*pH 7.0, temperature not specified in the publication
+KCAT	Streptomyces coelicolor	0.31	(phosphate)6	*pH 7.7, 28&deg;C
+KCAT	Corynebacterium glutamicum	0.4	ATP	*pH 7.0, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	1.3	GTP	*pH 7.0, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	2.5	(phosphate)4	*pH 7.0, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	3.3	ITP	*pH 7.0, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	6	(phosphate)15	*pH 7.0, temperature not specified in the publication
+KCAT	Propionibacterium freudenreichii subsp. shermanii	7	UTP	*pH 7.5, 30&deg;C
+KCAT	Propionibacterium freudenreichii subsp. shermanii	7.4	CTP	*pH 7.5, 30&deg;C
+KCAT	Corynebacterium glutamicum	8.3	(phosphate)45	*pH 7.0, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	8.5	(phosphate)20	*pH 7.0, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	10	(phosphate)25	*pH 7.0, temperature not specified in the publication
+KCAT	Propionibacterium freudenreichii subsp. shermanii	11	GTP	*pH 7.5, 30&deg;C
+KCAT	Corynebacterium glutamicum	11.3	(phosphate)120	*pH 7.0, temperature not specified in the publication
+KCAT	Corynebacterium glutamicum	11.6	(phosphate)65	*pH 7.0, temperature not specified in the publication
+KCAT	Propionibacterium freudenreichii subsp. shermanii	14	dATP	*pH 7.5, 30&deg;C
+KCAT	Corynebacterium glutamicum	15.4	(phosphate)75	*pH 7.0, temperature not specified in the publication
+KCAT	Propionibacterium freudenreichii subsp. shermanii	25	ATP	*pH 7.5, 30&deg;C
+KCAT	Propionibacterium freudenreichii subsp. shermanii	25	ATP	*
+KCAT	Thermobifida fusca	33.6	D-glucose	*recombinant immobilized cellulose-binding module fusion enzyme, pH 7.5, 30&deg;C
+KCAT	Thermobifida fusca	39.7	D-glucose	*recombinant free cellulose-binding module fusion enzyme, pH 7.5, 50&deg;C
+KCAT	Acidipropionibacterium acidipropionici	41	poly(P400)	*
+KCAT	Anabaena sp.	48.2	D-glucose	*at pH 7.5 and 28&deg;C
+KCAT	Nostoc sp.	48.2	(phosphate)45	*pH 7.5, 28&deg;C
+KCAT	Anabaena sp.	48.2	(Phosphate)n	*at pH 7.5 and 28&deg;C
+KCAT	Acidipropionibacterium acidipropionici	55	poly(P35)	*
+KCAT	Propionibacterium freudenreichii subsp. shermanii	56	poly(P31)	*pH 7.5, 30&deg;C
+KCAT	Propionibacterium freudenreichii subsp. shermanii	57	poly(P35)	*
+KCAT	Acidipropionibacterium acidipropionici	63	ATP	*
+KCAT	Microlunatus phosphovorus	87	poly(P8)	*
+KCAT	Thermobifida fusca	92.6	D-glucose	*recombinant immobilized cellulose-binding module fusion enzyme, pH 7.5, 50&deg;C
+KCAT	Thermobifida fusca	96.9	D-glucose	*recombinant free cellulose-binding module fusion enzyme, pH 7.5, 30&deg;C
+KCAT	Mycobacterium tuberculosis	108	ATP	*pH 7.5
+KCAT	Mycobacterium tuberculosis	108	glucose	*pH 7.5
+KCAT	Mycobacterium tuberculosis	116	ATP	*pH 8.6
+KCAT	Mycobacterium tuberculosis	116	glucose	*pH 8.6
+KCAT	Mycobacterium tuberculosis	116	glucose	*
+KCAT	Thermobifida fusca	129	D-glucose	*recombinant free cellulose-binding module fusion enzyme, pH 9.0, 50&deg;C
+KCAT	Thermobifida fusca	136	D-glucose	*recombinant immobilized cellulose-binding module fusion enzyme, pH 9.0, 50&deg;C
+KCAT	Mycobacterium tuberculosis	163	poly(P400)	*
+KCAT	Microlunatus phosphovorus	183	poly(P700)	*
+KCAT	Mycobacterium tuberculosis	196	poly(P35)	*
+KCAT	Microlunatus phosphovorus	270	poly(P30)	*
+KCAT	Propionibacterium freudenreichii subsp. shermanii	371	poly(P400)	*

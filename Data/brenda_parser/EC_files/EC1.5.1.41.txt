@@ -1,0 +1,5 @@
+KCAT	Corynebacterium crenatum	0.061	NADPH	*with FAD, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Corynebacterium crenatum	0.069	NADPH	*with FMN, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Corynebacterium crenatum	0.09	NADH	*with FMN, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Corynebacterium crenatum	0.547	NADH	*with riboflavin, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Corynebacterium crenatum	0.603	NADH	*with FAD, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme

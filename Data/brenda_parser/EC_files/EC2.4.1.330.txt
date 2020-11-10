@@ -1,0 +1,2 @@
+KCAT	Gardenia jasminoides	0.036	beta-D-glucosyl crocetin	*pH 7.5, 30&deg;C; pH not specified in the publication, temperature not specified in the publication
+KCAT	Gardenia jasminoides	0.071	bis(beta-D-glucosyl) crocetin	*pH 7.5, 30&deg;C; pH not specified in the publication, temperature not specified in the publication

@@ -1,0 +1,6 @@
+KCAT	Bacillus subtilis	0.0344	NADPH	*pH and temperature not specified in the publication, wild-type enzyme
+KCAT	Bacillus subtilis	0.143	NADPH	*pH and temperature not specified in the publication, mutant enzyme N158A
+KCAT	Bacillus subtilis	0.146	NADPH	*pH and temperature not specified in the publication, mutant enzyme K113A
+KCAT	Bacillus subtilis	0.175	NADPH	*pH and temperature not specified in the publication, mutant enzyme Y117A
+KCAT	Bacillus subtilis	0.216	NADPH	*pH and temperature not specified in the publication, mutant enzyme S155A
+KCAT	Bacillus subtilis	0.286	NADPH	*pH and temperature not specified in the publication, mutant enzyme S250A

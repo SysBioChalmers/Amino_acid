@@ -1,0 +1,4 @@
+KCAT	Pyrococcus horikoshii	1.5	Met-Lys-bradykinin	*pH 7.5, 40&deg;C, mutant dimer (R217S/R220S/F224S/H248S/I292A)
+KCAT	Pyrococcus horikoshii	144.5	Met-Lys-bradykinin	*pH 7.5, 40&deg;C, mutant dodecamer (R217S/R220S/F224S/H248S/I292A)
+KCAT	Pyrococcus horikoshii	421.5	L-leucyl 4-nitroanilide	*pH 7.5, 40&deg;C, mutant dimer (R217S/R220S/F224S/H248S/I292A)
+KCAT	Pyrococcus horikoshii	511	L-leucyl 4-nitroanilide	*pH 7.5, 40&deg;C, mutant dodecamer (R217S/R220S/F224S/H248S/I292A)

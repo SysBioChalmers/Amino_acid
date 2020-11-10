@@ -1,0 +1,16 @@
+KCAT	Homo sapiens	0.035	4-hydroxyestradiol	*S-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.04	norepinephrine	*S-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.077	4-hydroxyestradiol	*MB-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.085	2-hydroxyestradiol	*MB-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.085	epinephrine	*S-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.088	dopamine	*S-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.1	4-hydroxyequilenin	*pH 7.8
+KCAT	Homo sapiens	0.17	epicatechin	*S-COMT, 0.25 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.18	catechin	*S-COMT, 0.25 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.18	norepinephrine	*MB-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.19	dopamine	*MB-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.25	epinephrine	*MB-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.26	catechin	*MB-COMT, 0.25 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.315	epicatechin	*MB-COMT, 0.25 mM S-adenosyl-L-methionine
+KCAT	Homo sapiens	0.99	2-hydroxyestradiol	*S-COMT, 0.1 mM S-adenosyl-L-methionine
+KCAT	Solanum lycopersicum	9.67	catechol	*pH 7.5, 25&deg;C

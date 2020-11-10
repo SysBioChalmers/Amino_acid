@@ -1,0 +1,65 @@
+KCAT	Synechocystis sp.	26	menadione	*pH 7.5, 10&Acirc;&deg;C
+KCAT	Cavia porcellus	3.4	1,4-benzoquinone	*
+KCAT	Cavia porcellus	5.9	1,4-benzoquinone	*pH 7.5
+KCAT	Arabidopsis thaliana	12	1,4-benzoquinone	*pH 7.5
+KCAT	Escherichia coli	62	1,4-benzoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	4.2	riboflavin	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.2	9,10-phenanthrenequinone	*pH 7.5
+KCAT	Saccharomyces cerevisiae	4.17	9,10-phenanthrenequinone	*pH 7.5
+KCAT	Cavia porcellus	10	9,10-phenanthrenequinone	*
+KCAT	Cavia porcellus	19	9,10-phenanthrenequinone	*pH 7.5
+KCAT	Escherichia coli	54	9,10-phenanthrenequinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	98	9,10-phenanthrenequinone	*pH 7.5
+KCAT	Cavia porcellus	1	1,4-Naphthoquinone	*pH 7.5
+KCAT	Arabidopsis thaliana	3	1,4-Naphthoquinone	*pH 7.5
+KCAT	Escherichia coli	46	1,4-Naphthoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	25	duroquinone	*pH 7.5, 10&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1.9	5-hydroxy-1,4-naphthoquinone	*pH 7.5
+KCAT	Cavia porcellus	2.6	5-hydroxy-1,4-naphthoquinone	*
+KCAT	Cavia porcellus	4.9	5-hydroxy-1,4-naphthoquinone	*pH 7.5
+KCAT	Escherichia coli	22	5-hydroxy-1,4-naphthoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.15	4-hydroxy-2-nonenal	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	2.8	1,2-naphthoquinone	*pH 7.5
+KCAT	Saccharomyces cerevisiae	4.17	1,2-naphthoquinone	*pH 7.5
+KCAT	Cavia porcellus	39	1,2-naphthoquinone	*pH 7.5
+KCAT	Arabidopsis thaliana	54	1,2-naphthoquinone	*pH 7.5
+KCAT	Escherichia coli	3	2-methyl-1,4-naphthoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	11	2-Hydroxy-1,4-naphthoquinone	*pH 7.5, 10&Acirc;&deg;C
+KCAT	Escherichia coli	72	2-Hydroxy-1,4-naphthoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.16	3-buten-2-one	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	0.28	3-buten-2-one	*pH 7, 25&Acirc;&deg;C, mutant T59F
+KCAT	Homo sapiens	0.97	3-buten-2-one	*pH 7, 25&Acirc;&deg;C, mutant T53F
+KCAT	Cavia porcellus	1.5	dichlorophenolindophenol	*pH 7.5
+KCAT	Arabidopsis thaliana	7.5	dichlorophenolindophenol	*pH 7.5
+KCAT	Escherichia coli	51	2,6-dimethyl-1,4-benzoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	54	2-methyl-1,4-benzoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	3-penten-2-one	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	2.66	3-penten-2-one	*pH 7, 25&Acirc;&deg;C, mutant T53F
+KCAT	Homo sapiens	1.25	propenal	*pH 7, 25&Acirc;&deg;C, mutant T59F
+KCAT	Homo sapiens	1.66	propenal	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	39.74	propenal	*pH 7, 25&Acirc;&deg;C, mutant T53F
+KCAT	Homo sapiens	1.33	4-hydroxy-2-hexenal	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	2.16	4-hydroxy-2-hexenal	*pH 7, 25&Acirc;&deg;C, mutant T59F
+KCAT	Homo sapiens	3.67	4-hydroxy-2-hexenal	*pH 7, 25&Acirc;&deg;C, mutant T53F
+KCAT	Arabidopsis thaliana	0.03	Ferricytochrome	*pH 7.5
+KCAT	Cavia porcellus	0.37	5-Hydroxy-2-methyl-1,4-naphthoquinone	*pH 7.5
+KCAT	Synechocystis sp.	5	coenzyme Q10	*pH 7.5, 10&Acirc;&deg;C
+KCAT	Homo sapiens	0.11	2-nonenal	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Escherichia coli	12	5,8-Dihydroxy-1,4-naphthoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.28	2-hexenal	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	0.36	2-hexenal	*pH 7, 25&Acirc;&deg;C, mutant T59F
+KCAT	Homo sapiens	73.27	2-hexenal	*pH 7, 25&Acirc;&deg;C, mutant T53F
+KCAT	Synechocystis sp.	35	dibromothymoquinone	*pH 7.5, 10&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.1	decyl-plastoquinone	*pH 7.5
+KCAT	Synechocystis sp.	9.4	anthraquinone-2-sulfonate	*pH 7.5, 10&Acirc;&deg;C
+KCAT	Homo sapiens	0.21	3-nonen-2-one	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Homo sapiens	3.11	3-nonen-2-one	*pH 7, 25&Acirc;&deg;C, mutant T53F
+KCAT	Escherichia coli	1.6	1,8-dihydroxy-9,10-anthraquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	2.5	tetramethyl-1,4-benzoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.7	1,4-dihydroxy-9,10-anthraquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	61	2,3-dichloro-1,4-naphthoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	36.7	2,5-dimethyl-4-benzoquinone	*pH 7.5, 10&Acirc;&deg;C
+KCAT	Escherichia coli	56	2-hydroxy-3-methyl-1,4-naphthoquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	2-pentenal	*pH 7, 25&Acirc;&deg;C, wild-type
+KCAT	Arabidopsis thaliana	3.8	5-hydroxy-2-methyl-1,4-naphtoquinone	*pH 7.5
+KCAT	Escherichia coli	1.4	9,10-anthraquinone-2-sulfonic acid	*pH 7.0, 25&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*4.99.1.6#turnoverNumber*10#turnoverNumberMaximum*#substrate*(E,Z)-indolyl-3-acetaldoxime#commentary*in 25 mM Tris-HCl buffer pH 7.5, at 23&Acirc;&deg;C#organism*Sclerotinia sclerotiorum#ligandStructureId*41726#literature*716456#

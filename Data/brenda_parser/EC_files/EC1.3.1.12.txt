@@ -1,0 +1,47 @@
+KCAT	Escherichia coli	0.0000583	NAD+	*mutant enzyme H197N
+KCAT	Aquifex aeolicus	0.3	NAD+	*mutant H217N, pH 7.5, 55&Acirc;&deg;C
+KCAT	Escherichia coli	0.367	NAD+	*mutant enzyme K37Q
+KCAT	Escherichia coli	0.417	NAD+	*mutant form R294Q
+KCAT	Escherichia coli	0.45	NAD+	*wild-type enzyme
+KCAT	Escherichia coli	0.45	NAD+	*wild-type enzyme
+KCAT	Aquifex aeolicus	0.6	NAD+	*mutant H217A, pH 7.5, 55&Acirc;&deg;C
+KCAT	Aquifex aeolicus	0.8	NAD+	*mutant S126A, pH 7.5, 55&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.1	NAD+	*at 30&Acirc;&deg;C, wild-type
+KCAT	Aquifex aeolicus	1.5	NAD+	*at 30&Acirc;&deg;C, delta19PD
+KCAT	Aquifex aeolicus	6.7	NAD+	*at 55&Acirc;&deg;C, wild-type
+KCAT	Streptococcus mutans	7.4	NAD+	*pH 6.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	11.5	NAD+	*at 55&Acirc;&deg;C, delta19PD
+KCAT	Aquifex aeolicus	11.5	NAD+	*wild-type, pH 7.5, 55&Acirc;&deg;C
+KCAT	Aquifex aeolicus	11.6	NAD+	*mutant R250Q, pH 7.5, 55&Acirc;&deg;C
+KCAT	Aquifex aeolicus	34	NAD+	*at 80&Acirc;&deg;C, wild-type
+KCAT	Aquifex aeolicus	62	NAD+	*at 80&Acirc;&deg;C, delta19PD
+KCAT	Mycobacterium tuberculosis	356.1	NAD+	*
+KCAT	Escherichia coli	0.00005	prephenate	*mutant enzyme H197N
+KCAT	Aquifex aeolicus	0.0034	prephenate	*mutant H147N, pH 7.5, 55&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.1	prephenate	*with NAD+ as cosubstrate, pH 7.6 and 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.383	prephenate	*mutant enzyme K37Q
+KCAT	Escherichia coli	0.417	prephenate	*mutant form R294Q
+KCAT	Escherichia coli	0.45	prephenate	*wild-type enzyme
+KCAT	Escherichia coli	0.45	prephenate	*wild-type enzyme
+KCAT	Aquifex aeolicus	0.5	prephenate	*mutant H217N, pH 7.5, 55&Acirc;&deg;C
+KCAT	Aquifex aeolicus	0.8	prephenate	*mutant H217A, pH 7.5, 55&Acirc;&deg;C; mutant S126A, pH 7.5, 55&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.3	prephenate	*at 30&Acirc;&deg;C, wild-type
+KCAT	Aquifex aeolicus	2.2	prephenate	*at 30&Acirc;&deg;C, delta19PD
+KCAT	Aquifex aeolicus	3	prephenate	*at 80&Acirc;&deg;C, wild-type
+KCAT	Pleurotus ostreatus	3.09	prephenate	*with NAD+ as cosubstrate, pH 7.6 and 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	6.8	prephenate	*at 55&Acirc;&deg;C, wild-type
+KCAT	Aquifex aeolicus	9.9	prephenate	*mutant R250Q, pH 7.5, 55&Acirc;&deg;C
+KCAT	uncultured bacterium	10.08	prephenate	*pH 8.0, 45&Acirc;&deg;C
+KCAT	Streptococcus mutans	10.5	prephenate	*pH 6.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	13	prephenate	*at 55&Acirc;&deg;C, delta19PD
+KCAT	Aquifex aeolicus	13	prephenate	*wild-type, pH 7.5, 55&Acirc;&deg;C
+KCAT	Haemophilus influenzae	35	prephenate	*at pH 7.2 and 30&Acirc;&deg;C
+KCAT	Aquifex aeolicus	68	prephenate	*at 80&Acirc;&deg;C, delta19PD
+KCAT	Escherichia coli	135	prephenate	*
+KCAT	Mycobacterium tuberculosis	170.4	prephenate	*
+KCAT	Aquifex aeolicus	1.3	L-arogenate	*at 30&Acirc;&deg;C, wild-type
+KCAT	Aquifex aeolicus	2.2	L-arogenate	*at 30&Acirc;&deg;C, delta19PD
+KCAT	Aquifex aeolicus	3	L-arogenate	*at 80&Acirc;&deg;C, wild-type
+KCAT	Aquifex aeolicus	6.8	L-arogenate	*at 55&Acirc;&deg;C, wild-type
+KCAT	Aquifex aeolicus	13	L-arogenate	*at 55&Acirc;&deg;C, delta19PD
+KCAT	Aquifex aeolicus	68	L-arogenate	*at 80&Acirc;&deg;C, delta19PD

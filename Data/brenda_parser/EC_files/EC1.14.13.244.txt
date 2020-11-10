@@ -1,0 +1,1 @@
+KCAT	Pseudomonas stutzeri	0.286	phenol	*25&deg;C, pH not specified in the publication

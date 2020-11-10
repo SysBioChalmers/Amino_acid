@@ -1,0 +1,14 @@
+KCAT	Mus musculus	0.0004	1alpha-hydroxyvitamin D	*pH 7.4, 37&deg;C, recombinant mutant S408V
+KCAT	Mus musculus	0.0008	25-hydroxyvitamin D	*pH 7.4, 37&deg;C, recombinant mutant S408I
+KCAT	Mus musculus	0.006	25-hydroxyvitamin D	*pH 7.4, 37&deg;C, recombinant mutant S408A
+KCAT	Mus musculus	0.01	1alpha-hydroxyvitamin D	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Mus musculus	0.013	25-hydroxyvitamin D	*pH 7.4, 37&deg;C, recombinant mutant S408V
+KCAT	Rattus norvegicus	0.0733	25-hydroxycholecalciferol	*
+KCAT	Mus musculus	0.098	25-hydroxyvitamin D	*pH 7.4, 37&deg;C, recombinant mutant S408T
+KCAT	Mus musculus	0.14	20-hydroxyvitamin D3	*pH 7.4, 37&deg;C, parameters using a kinetic model with substrate binding at two inhibitory sites
+KCAT	Mus musculus	0.385	25-hydroxyvitamin D	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Mus musculus	0.68	25-hydroxyvitamin D3	*pH 7.4, 37&deg;C, Michaelis-Menten kinetic parameters
+KCAT	Mus musculus	0.8	25-hydroxyvitamin D2	*pH 7.4, 37&deg;C, Michaelis-Menten kinetic parameters
+KCAT	Mus musculus	0.82	25-hydroxyvitamin D2	*pH 7.4, 37&deg;C, parameters using a kinetic model with substrate binding at two inhibitory sites
+KCAT	Mus musculus	0.9	(24R),25-dihydroxyvitamin D3	*pH 7.4, 37&deg;C, Michaelis-Menten kinetic parameters
+KCAT	Mus musculus	0.92	25-hydroxyvitamin D3	*pH 7.4, 37&deg;C, parameters using a kinetic model with substrate binding at two inhibitory sites

@@ -1,0 +1,11 @@
+KCAT	Mycobacterium tuberculosis	0.007	L-alanine	*pH 7.7, 25&Acirc;&deg;C, recombinant enzyme, with pimeloyl-CoA
+KCAT	Escherichia coli	0.028	L-alanine	*5-aminolevulinate synthase-fusion protein (single chain chimeric dimer), pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.06	L-alanine	*wild type protein, pH not specified in the publication, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.11	L-alanine	*pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Mycobacterium tuberculosis	0.0036	D-alanine	*pH 7.7, 25&Acirc;&deg;C, recombinant enzyme, with pimeloyl-CoA
+KCAT	Escherichia coli	0.000833	pimeloyl-CoA	*
+KCAT	Escherichia coli	0.001	pimeloyl-CoA	*
+KCAT	Mycobacterium tuberculosis	0.004	pimeloyl-CoA	*pH 7.7, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Lysinibacillus sphaericus	0.005	pimeloyl-CoA	*
+KCAT	Arabidopsis thaliana	0.1	pimeloyl-CoA	*pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Lysinibacillus sphaericus	0.5	pimeloyl-CoA	*

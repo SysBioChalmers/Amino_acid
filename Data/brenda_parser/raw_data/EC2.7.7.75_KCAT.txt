@@ -1,0 +1,1 @@
+ecNumber*2.7.7.75#turnoverNumber*0.0012#turnoverNumberMaximum*#substrate*ATP#commentary*10 mM MgCl2, pH 7.2, temperature not specified in the publication#organism*Arabidopsis thaliana#ligandStructureId*4#literature*708983#

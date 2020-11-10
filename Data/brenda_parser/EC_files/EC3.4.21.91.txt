@@ -1,0 +1,142 @@
+KCAT	Alkhumra hemorrhagic fever virus	0.0004	N-alpha-benzoyl-L-arginine-p-nitroanilide	*mutant V88D
+KCAT	Alkhumra hemorrhagic fever virus	0.0006	N-alpha-benzoyl-L-arginine-p-nitroanilide	*mutant V88K
+KCAT	Dengue virus 2	0.001	Abz-AGRKS-3-nitrotyrosine-amide	*
+KCAT	Dengue virus 2	0.001	Abz-AGRK-SnY-amide	*
+KCAT	Yellow fever virus	0.001	FAEGRRGAAEVLQ	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.001	o-aminobenzoyl-AGKKSAQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Alkhumra hemorrhagic fever virus	0.0018	N-alpha-benzoyl-L-arginine-p-nitroanilide	*mutant G81A; mutant W60A
+KCAT	Dengue virus	0.002	N-benzoyl-3-pyridyl-L-Ala-L-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Yellow fever virus	0.002	o-aminobenzoyl-ARKKSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.003	KLAQRRVFHGVAQ	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.004	o-aminobenzoyl-AKKKSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Dengue virus 2	0.0045	Abz-SKKRAGVL-3-nitrotyrosine-amide	*
+KCAT	Dengue virus 2	0.0045	Abz-SKKR-AGVLnY-amide	*
+KCAT	Dengue virus 2	0.005	Abz-AGRKSLT-3-nitrotyrosine-amide	*
+KCAT	Dengue virus 2	0.005	Abz-AGRK-SLTnY-amide	*
+KCAT	Yellow fever virus	0.005	o-aminobenzoyl-AGRKSAQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.005	o-aminobenzoyl-ARRKSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.005	RIFGRRSIPVNEQ	*pH 9.0, 37&deg;C
+KCAT	Alkhumra hemorrhagic fever virus	0.0051	N-alpha-benzoyl-L-arginine-p-nitroanilide	*chimeric proteases with the NS2B cofactor from Langat virus replacing the Alkhurma virus sequence
+KCAT	Alkhumra hemorrhagic fever virus	0.0058	N-alpha-benzoyl-L-arginine-p-nitroanilide	*mutant G68A
+KCAT	Dengue virus 2	0.006	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant linked form mutant K117A
+KCAT	Yellow fever virus	0.006	t-butyloxycarbonyl-glycyl-L-lysyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Langat virus	0.007	t-butyloxycarbonyl-glycyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus 3	0.007	t-butyloxycarbonyl-glycyl-L-lysyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Alkhumra hemorrhagic fever virus	0.008	N-alpha-benzoyl-L-arginine-p-nitroanilide	*mutant Q77A
+KCAT	Alkhumra hemorrhagic fever virus	0.0089	N-alpha-benzoyl-L-arginine-p-nitroanilide	*mutant L73A
+KCAT	Dengue virus 2	0.01	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant unlinked form mutant A125C/V162C
+KCAT	Yellow fever virus	0.01	o-aminobenzoyl-AGKRSAQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.012	MKTGRRGSANGKQ	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.012	o-aminobenzoyl-AKRKSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.012	o-aminobenzoyl-KKRSSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	West Nile virus	0.013	L-pGlu-L-Arg-L-Thr-L-Lys-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme T52V, in 20 mM Tris/HCl buffer, pH 8.0, at 22&deg;C
+KCAT	Dengue virus	0.013	N-benzoyl-3-(4-aminocyclohexyl)-L-Ala-L-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus	0.013	N-benzoyl-4-(aminomethyl)-L-Phe-L-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Zika virus	0.013	t-butyloxycarbonyl-glycyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus	0.014	N-benzoyl-3-(4-piperidinyl)-L-Ala-L-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Alkhumra hemorrhagic fever virus	0.015	N-alpha-benzoyl-L-arginine-p-nitroanilide	*deltaNS2B-NS3pro
+KCAT	Yellow fever virus	0.016	SAAQRRGRIGRNQ	*pH 9.0, 37&deg;C
+KCAT	Dengue virus 2	0.02	Gly-Arg-Arg-4-methylcoumarin 7-amide	*pH 9.0, 37&deg;C, wild-type NS3 protease with wild-ty&uuml;e NS2B cofactor
+KCAT	Dengue virus 2	0.02	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant linked form mutant A125C/V162C; pH 8.5, 37&deg;C, recombinant linked form mutant K117C; pH 8.5, 37&deg;C, recombinant linked form mutant S75C/K117C
+KCAT	Dengue virus	0.02	o-aminobenzoyl-AGKKSAQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.02	o-aminobenzoyl-FAAGRKSLTLNLQ-N-(2,4-dinitrophenyl)-ethylenediamine	*NS3 protease from strain NGC
+KCAT	Dengue virus	0.022	N-benzoyl-4-(aminomethyl-N-isopropyl)-L-Phe-L-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Yellow fever virus	0.025	o-aminobenzoyl-KRRSSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.026	o-aminobenzoyl-AKRRSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Dengue virus 2	0.03	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant linked form mutant I73C/P106C
+KCAT	Dengue virus	0.03	o-aminobenzoyl-EVKKQRAGVLWDQ-N-(2,4-dinitrophenyl)-ethylenediamine	*NS3 protease from strain NGC
+KCAT	Dengue virus	0.03	tert-butoxycarbonyl-Gly-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 1
+KCAT	Yellow fever virus	0.034	Boc-Gly-Arg-Arg-7-amido-4-methylcoumarin	*
+KCAT	Dengue virus	0.035	N-benzoyl-4-(guanidino)-L-Phe-L-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Bussuquara virus	0.039	t-butyloxycarbonyl-glycyl-L-lysyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus 2	0.04	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant linked form mutant K117R
+KCAT	Dengue virus	0.04	o-aminobenzoyl-AKKKSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.04	o-aminobenzoyl-AKRKSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.04	o-aminobenzoyl-HRREKRSVALQ-N-(2,4-dinitrophenyl)-ethylenediamine	*NS3 protease from strain NGC
+KCAT	Dengue virus	0.04	o-aminobenzoyl-LNRRRRTAGMIIQ-N-(2,4-dinitrophenyl)-ethylenediamine	*NS3 protease from strain NGC
+KCAT	Dengue virus	0.04	o-aminobenzoyl-SAAQRKGRIGRNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.04	o-aminobenzoyl-TTSTRRGTGNIGQ-N-(2,4-dinitrophenyl)-ethylenediamine	*NS3 protease from strain NGC
+KCAT	Yellow fever virus	0.041	VRGARRSGDVLWQ	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.044	t-butyloxycarbonyl-glycyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus 2	0.045	Abz-SKKRSAGM-3-nitrotyrosine-amide	*
+KCAT	Dengue virus 2	0.045	Abz-SKKR-SAGMnY-amide	*
+KCAT	Dengue virus	0.05	benzoyl-Thr-Lys-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 1
+KCAT	Dengue virus 2	0.05	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant linked form mutant S75C; pH 8.5, 37&deg;C, recombinant linked form wild-type enzyme; pH 8.5, 37&deg;C, recombinant unlinked form mutant K117A
+KCAT	Dengue virus	0.05	o-aminobenzoyl-ARKKSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Yellow fever virus	0.06	o-aminobenzoyl-ARKRSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.061	o-aminobenzoyl-AGRRSAQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Yellow fever virus	0.069	SSRKRRSHDVLTQ	*pH 9.0, 37&deg;C
+KCAT	Dengue virus 2	0.07	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant unlinked form mutant S75C/K117C
+KCAT	Dengue virus	0.07	o-aminobenzoyl-AKKRSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.07	o-aminobenzoyl-ARKRSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.07	tert-butoxycarbonyl-Gly-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 4
+KCAT	Bussuquara virus	0.073	t-butyloxycarbonyl-glycyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Saint Louis encephalitis virus	0.075	t-butyloxycarbonyl-glycyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus 2	0.08	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant unlinked form mutant I73C/P106C
+KCAT	Saint Louis encephalitis virus	0.083	t-butyloxycarbonyl-glycyl-L-lysyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Zika virus	0.088	t-butyloxycarbonyl-glycyl-L-lysyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus 2	0.09	N-acetyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	*pH 8.5, 37&deg;C, recombinant unlinked form wild-type enzyme
+KCAT	Dengue virus	0.09	o-aminobenzoyl-ARRKSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.09	o-aminobenzoyl-SAAGRRGRIGRNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.09	tert-butoxycarbonyl-Gly-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 3
+KCAT	Dengue virus 2	0.0967	Abz-KKQRAGVL-3-nitrotyrosine-amide	*
+KCAT	Dengue virus 2	0.0967	Abz-KKQR-SAGMnY-amide	*
+KCAT	Yellow fever virus	0.097	o-aminobenzoyl-AKKRSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Dengue virus	0.1	benzoyl-Thr-Lys-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 3
+KCAT	Dengue virus 1	0.101	t-butyloxycarbonyl-glycyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus	0.109	Bz-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus	0.11	N-benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus	0.11	o-aminobenzoyl-SAAQRRGLIGRNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.11	o-aminobenzoyl-SAAQRRGRIGNNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.112	acetyl-Nle-Lys-Arg-Arg-4-methylcoumarin 7-amide	*pH 9.5, 37&deg;C
+KCAT	Yellow fever virus	0.12	o-aminobenzoyl-ARRRSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*pH 9.0, 37&deg;C
+KCAT	Dengue virus	0.13	o-aminobenzoyl-AGRKSAQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.13	tert-butoxycarbonyl-Gly-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 2
+KCAT	Dengue virus	0.14	o-aminobenzoyl-FAAQRRGRIGRNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.14	o-aminobenzoyl-SAAQRRSRIGRNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus 1	0.153	t-butyloxycarbonyl-glycyl-L-lysyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus	0.16	o-aminobenzoyl-SAAQRRGRIGRLQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus 3	0.163	t-butyloxycarbonyl-glycyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus	0.17	benzoyl-Thr-Thr-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 2
+KCAT	Dengue virus	0.17	o-aminobenzoyl-RTSKKRSWPLNEQ-N-(2,4-dinitrophenyl)-ethylenediamine	*NS3 protease from strain NGC
+KCAT	Dengue virus	0.172	N-benzoyl-3-(trans-aminomethylcyclohexyl)-L-Ala-L-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Dengue virus	0.18	o-aminobenzoyl-SAAQRRGRILRNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	West Nile virus	0.18	t-butoxycarbonyl-Arg-Val-Arg-Arg-7-amido-4-methylcoumarin	*mutant K48A
+KCAT	Dengue virus	0.2	benzoyl-Thr-Lys-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 2
+KCAT	Dengue virus	0.2	o-aminobenzoyl-AGKRSAQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.21	benzoyl-Thr-Thr-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 1
+KCAT	Dengue virus	0.21	o-aminobenzoyl-AGRRSAQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	West Nile virus	0.22	t-butoxycarbonyl-Arg-Val-Arg-Arg-7-amido-4-methylcoumarin	*wild-type
+KCAT	Dengue virus	0.28	benzoyl-Nle-Thr-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 1
+KCAT	Dengue virus	0.29	o-aminobenzoyl-SAAQRRGRIGRNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*; NS3 protease from strain NGC
+KCAT	Dengue virus	0.32	benzoyl-Nle-Lys-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 1
+KCAT	Dengue virus	0.33	benzoyl-Thr-Thr-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 3
+KCAT	Dengue virus	0.34	o-aminobenzoyl-SAAQRRGRTGRNQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.38	o-aminobenzoyl-ARRRSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Dengue virus	0.43	benzoyl-Thr-Lys-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 4
+KCAT	Dengue virus	0.48	benzoyl-Thr-Thr-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 4
+KCAT	Dengue virus	0.58	benzoyl-Nle-Thr-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 3
+KCAT	Dengue virus	0.61	benzoyl-Nle-Lys-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 3
+KCAT	Dengue virus	0.76	benzoyl-Nle-Thr-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 2
+KCAT	Dengue virus	0.97	benzoyl-Nle-Lys-Thr-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 1
+KCAT	Dengue virus	1	o-aminobenzoyl-AKRRSQ-N-(2,4-dinitrophenyl)-ethylenediamine	*
+KCAT	Zika virus	1.08	Ac-Arg-Lys-Lys-Arg-7-amido-4-carbamoylmethylcoumarin	*pH 8.5, 22&deg;C
+KCAT	Dengue virus	1.1	benzoyl-Nle-Lys-Thr-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 3
+KCAT	Dengue virus	1.1	benzoyl-Nle-Thr-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 4
+KCAT	Dengue virus	1.4	benzoyl-Nle-Lys-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 2
+KCAT	Dengue virus	1.4	benzoyl-Nle-Lys-Thr-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 2
+KCAT	Dengue virus	2.8	benzoyl-Nle-Lys-Arg-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 4
+KCAT	Dengue virus	2.9	benzoyl-Nle-Lys-Arg-Arg-4-methylcoumarin 7-amide	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 4
+KCAT	Zika virus	4.4	Ac-Nle-Lys-Lys-Arg-7-amido-4-carbamoylmethylcoumarin	*pH 8.5, 22&deg;C
+KCAT	Zika virus	4.64	Ac-D-Arg-Lys-Orn-Arg-7-amido-4-carbamoylmethylcoumarin	*pH 8.5, 22&deg;C
+KCAT	Dengue virus	4.9	benzoyl-Nle-Lys-Thr-Arg-7-amido-3-carbamoylmethyl-4-methylcoumarin	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 4
+KCAT	West Nile virus	5.25	L-pGlu-L-Arg-L-Thr-L-Lys-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme K48A, in 20 mM Tris/HCl buffer, pH 8.0, at 22&deg;C
+KCAT	West Nile virus	5.3	pyroglutamic acid-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	*mutant K48A
+KCAT	Zika virus	5.43	Ac-D-Arg-Lys-Orn-Arg(Me)-7-amido-4-carbamoylmethylcoumarin	*pH 8.5, 22&deg;C
+KCAT	West Nile virus	6.3	L-pGlu-L-Arg-L-Thr-L-Lys-L-Arg-7-amido-4-methylcoumarin	*wild type enzyme, in 20 mM Tris/HCl buffer, pH 8.0, at 22&deg;C
+KCAT	West Nile virus	6.3	pyroglutamic acid-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	*wild-type
+KCAT	West Nile virus	7.3	L-pGlu-L-Arg-L-Thr-L-Lys-L-Arg-7-amido-4-methylcoumarin	*mutant enzyme R76L, in 20 mM Tris/HCl buffer, pH 8.0, at 22&deg;C
+KCAT	Zika virus	7.99	Ac-D-Lys-Lys-Orn-Arg-7-amido-4-carbamoylmethylcoumarin	*pH 8.5, 22&deg;C
+KCAT	Zika virus	25.94	N-(2-aminobenzoyl)-L-valyl-L-lysyl-L-lysyl-N-(3-carbamoyl-4-nitrophenyl)-L-argininamide	*pH 7.4, 37&deg;C, phosphate buffer
+KCAT	Dengue virus	300	benzoyl-Nle-Lys-Arg-Arg-thiobenzylester	*pH 8.5, 37&deg;C, enzyme from Dengue virus serotype 4
+KCAT	Zika virus	343.73	N-(2-aminobenzoyl)-L-valyl-L-lysyl-L-lysyl-N-(3-carbamoyl-4-nitrophenyl)-L-argininamide	*pH 8.5, 37&deg;C, Tris-CHAPS-glycerol buffer

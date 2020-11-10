@@ -1,0 +1,50 @@
+KCAT	Escherichia coli	-999	more	*effect of pH on turnover number
+KCAT	Bacillus cereus	0.222	L-glutamine	*at pH 7.5 and 35&deg;C
+KCAT	Mus musculus	0.87	2-oxo-succinamate	*pH 8.5, 30&deg;C
+KCAT	Micrococcus luteus	0.96	L-glutamine	*mutant enzyme E160D
+KCAT	Mus musculus	1.15	2-oxo-succinamate	*pH 7.2, 30&deg;C
+KCAT	Micrococcus luteus	1.4	L-glutamine	*mutant enzyme Y191T
+KCAT	Mus musculus	2	succinamate	*pH 7.2, 30&deg;C
+KCAT	Helicobacter pylori	2.1	L-glutamine	*wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	2.5	L-glutamine	*pH 8.5, temperature not specified in the publication, isozyme GLS2
+KCAT	Mus musculus	2.8	succinamate	*pH 8.5, 30&deg;C
+KCAT	Mus musculus	4.1	Glutaramate	*pH 7.2, 30&deg;C
+KCAT	Helicobacter pylori	4.83	L-asparagine	*mutant M121C, pH 7.5, 37&deg;C
+KCAT	Helicobacter pylori	6.53	L-asparagine	*mutant Q63E, pH 7.5, 37&deg;C
+KCAT	Helicobacter pylori	7.4	L-asparagine	*mutant T169M, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	8	gamma-glutamyl methylamide	*
+KCAT	Mus musculus	8.8	Glutaramate	*pH 8.5, 30&deg;C
+KCAT	Homo sapiens	10	L-glutamine	*pH 8.5, temperature not specified in the publication, isozyme GLS1
+KCAT	Helicobacter pylori	13.95	L-asparagine	*mutant M121C/T169M, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	14	gamma-glutamyl hydrazide	*
+KCAT	Helicobacter pylori	14.5	L-glutamine	*mutant Q63E, pH 7.5, 37&deg;C
+KCAT	Mus musculus	17.5	2-oxo-glutaramate	*pH 8.5, 30&deg;C
+KCAT	Helicobacter pylori	19.2	L-asparagine	*wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	20	L-glutamine	*pH 8.5, temperature not specified in the publication, GAC mutant Y394L
+KCAT	Homo sapiens	22	L-glutamine	*pH 8.5, temperature not specified in the publication, wild-type GAC
+KCAT	Escherichia coli	36	gamma-ethyl glutamate	*
+KCAT	Bacillus subtilis	38.6	L-glutamine	*
+KCAT	Homo sapiens	40	L-glutamine	*pH 8.5, temperature not specified in the publication, GAC mutant F322S/F318Y
+KCAT	Escherichia coli	49.9	L-glutamine	*mutant Q161A
+KCAT	Micrococcus luteus	57	L-glutamine	*mutant enzyme Y191F
+KCAT	Bacillus subtilis	67.7	L-glutamine	*
+KCAT	Escherichia coli	79.9	L-glutamine	*mutant Q162A
+KCAT	Escherichia coli	91.4	L-glutamine	*
+KCAT	Escherichia coli	101	L-glutamine	*
+KCAT	Micrococcus luteus	128	L-glutamine	*pH 7.5, 30&deg;C, full-length enzyme, in presence of 2.6 M NaCl
+KCAT	Mus musculus	134.5	5-methoxy-2,5-dioxopentanoic acid	*pH 7.2, 30&deg;C
+KCAT	Escherichia coli	212	gamma-glutamyl-hydroxamate	*
+KCAT	Escherichia coli	296	gamma-glutamyl methoxyamide	*
+KCAT	Escherichia coli	300	gamma-thioethyl glutamate	*
+KCAT	Micrococcus luteus	403.3	L-glutamine	*pH 7.5, 30&deg;C, full-length enzyme, in presence of 2.6 M NaCl
+KCAT	Escherichia coli	645	gamma-methyl glutamate	*
+KCAT	Micrococcus luteus	821.7	L-glutamine	*pH 7.5, 30&deg;C, protease-cleaved large enzyme fragment, in presence of 2.6 M NaCl
+KCAT	Micrococcus luteus	873.3	L-glutamine	*pH 7.5, 30&deg;C, protease-cleaved large enzyme fragment, in absence of NaCl
+KCAT	Escherichia coli	1260	gamma-thiomethyl glutamate	*
+KCAT	Escherichia coli	1270	Gln	*
+KCAT	Micrococcus luteus	1373	L-glutamine	*pH 7.5, 30&deg;C, full-length enzyme, in absence of NaCl
+KCAT	Micrococcus luteus	1400	L-glutamine	*wild-type enzyme
+KCAT	Aspergillus sojae	1606	L-asparagine	*at pH 9.0 and 50&deg;C
+KCAT	Aspergillus sojae	4790	Gly-Gln	*at pH 9.0 and 50&deg;C
+KCAT	Escherichia coli	5080	Glu	*
+KCAT	Aspergillus sojae	6249	L-glutamine	*at pH 9.0 and 50&deg;C

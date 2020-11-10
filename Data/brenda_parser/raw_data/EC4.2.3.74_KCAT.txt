@@ -1,0 +1,1 @@
+ecNumber*4.2.3.74#turnoverNumber*3.23#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*recombinant enzyme, in 50 mM PIPES, 10 mM MgCl2, 100 mM NaCl, pH 7.0, at 30&Acirc;&deg;C#organism*Botrytis cinerea#ligandStructureId*81#literature*713605#

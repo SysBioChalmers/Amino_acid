@@ -1,0 +1,4 @@
+KCAT	Aedes aegypti	5.52	L-cysteine sulfinate	*mutant Q377L, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Aedes aegypti	5.86	L-cysteine sulfinate	*wild-type, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	unidentified prokaryotic organism	0.763	3-sulfino-L-alanine	*pH 7.0, 35&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	unidentified prokaryotic organism	1.476	3-sulfino-L-alanine	*pH 7.0, 35&Acirc;&deg;C, recombinant mutant V81L/F240S/I250S/D266L enzyme

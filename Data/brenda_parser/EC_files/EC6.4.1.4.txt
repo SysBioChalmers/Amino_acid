@@ -1,0 +1,7 @@
+KCAT	Homo sapiens	4	ATP	*37&Acirc;&deg;C, pH 8.0, recombinant enzyme
+KCAT	Pseudomonas aeruginosa	0.43	3-methylcrotonoyl-CoA	*beta-subunit beta-subunit mutant R51A, pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	0.66	3-methylcrotonoyl-CoA	*beta-subunit mutant G423A, pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	0.96	3-methylcrotonoyl-CoA	*wild-type, pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	1.45	3-methylcrotonoyl-CoA	*beta-subunit mutant F417Y/G423A, pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	2.76	3-methylcrotonoyl-CoA	*beta-subunit mutant F417Y, pH and temperature not specified in the publication
+KCAT	Homo sapiens	4	3-methylcrotonyl-CoA	*37&Acirc;&deg;C, pH 8.0, recombinant enzyme

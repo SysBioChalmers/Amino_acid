@@ -1,0 +1,30 @@
+KCAT	Pseudomonas putida	17.9	NADH	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant H352A enzyme with mutant S42A putidaredoxin
+KCAT	Pseudomonas putida	26.3	NADH	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant D125A enzyme with mutant Y33A putidaredoxin
+KCAT	Pseudomonas putida	34.1	NADH	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant H361A enzyme with wild-type putidaredoxin; pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme with mutant S42A putidaredoxin
+KCAT	Pseudomonas putida	34.9	NADH	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme with mutant Y33A putidaredoxin
+KCAT	Pseudomonas putida	36.3	NADH	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant H352A enzyme with wild-type putidaredoxin
+KCAT	Pseudomonas putida	37.4	NADH	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme with mutant S44Aputidaredoxin
+KCAT	Pseudomonas putida	38.2	NADH	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme with wild-type putidaredoxin
+KCAT	Pseudomonas putida	40.3	NADH	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant D125A enzyme with wild-type putidaredoxin
+KCAT	Pseudomonas putida	55	O2	*recombinant enzyme with His6-tag, pH 7.4, 25&Acirc;&deg;C
+KCAT	Pseudomonas putida	66	O2	*wild-type, pH 7.4, 25&Acirc;&deg;C
+KCAT	Pseudomonas putida	0.9	(+)-Camphor	*mutant T252N
+KCAT	Pseudomonas putida	2.067	(+)-Camphor	*wild-type
+KCAT	Pseudomonas putida	2.75	(+)-Camphor	*mutant T252N/V253T
+KCAT	Pseudomonas putida	2.5	camphor	*cytochrome P-450
+KCAT	Pseudomonas putida	39	camphor	*pH 7.9, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Pseudomonas putida	47	camphor	*pH 6.9, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Pseudomonas putida	51	camphor	*pH 7.4, 25&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Pseudomonas putida	0.833	5,5-difluorocamphor	*cytochrome P-450
+KCAT	Pseudomonas putida	0.0014	3-chloroindole	*mutant Y179H, pH 7.4, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.0053	3-chloroindole	*mutant G120A/Y179H/G248S/D297H, pH 7.4, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.011	3-chloroindole	*mutant D97F/P122L/Q183L/L244Q, pH 7.4, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.027	3-chloroindole	*mutant T56A/N116H/D297N, pH 7.4, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.06	3-chloroindole	*mutant G60S/Y75H, pH 7.4, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.062	3-chloroindole	*mutant G93C/K314R/L319M, pH 7.4, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.186	3-chloroindole	*mutant E156G/V247F/V253G/F256S, pH 7.4, temperature not specified in the publication
+KCAT	Pseudomonas putida	-999	more	*enzymatic substrate turnover with cytochrome b5 as the effector
+KCAT	Pseudomonas putida	2	putidaredoxin	*constituent protein of the multi-component oxygenase
+KCAT	Pseudomonas putida	34	cytochrome m	*P-450cam, constituent part of the multi-component enzyme
+KCAT	Pseudomonas putida	56.4	reduced putidaredoxin	*putidaredoxin reductase-camphor monooxygenase fusion enzyme, pH 7.4, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	64	reduced putidaredoxin	*wild-type, pH 7.4, 30&Acirc;&deg;C

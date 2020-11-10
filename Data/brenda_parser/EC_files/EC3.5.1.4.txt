@@ -1,0 +1,122 @@
+KCAT	Rhodococcus sp.	47.4	acetate	*
+KCAT	Pyrococcus yayanosii	7216	L-glutamine	*pH 7.6, 60&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.6	nicotinamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	2.2	nicotinamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Streptomyces sp.	5.6	nicotinamide	*pH 8.0, 35&Acirc;&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	6.4	nicotinamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Delftia acidovorans	147	phenylacetate	*
+KCAT	Pseudomonas aeruginosa	0.143	acetamide	*hydrolysis, strain AI3
+KCAT	Rhodococcus erythropolis	0.21	acetamide	*
+KCAT	Pseudomonas aeruginosa	1.51	acetamide	*hydrolysis, strain AIU1N
+KCAT	Saccharolobus solfataricus	1.6	acetamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Methylophilus methylotrophus	2.13	acetamide	*
+KCAT	Saccharolobus solfataricus	20.13	acetamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodococcus sp. N-771	20.2	acetamide	*pH 5.9, 55&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Rhodococcus erythropolis	20.2	acetamide	*pH and temperature not specified in the publication
+KCAT	Saccharolobus solfataricus	28.9	acetamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Streptomyces sp.	29.9	acetamide	*pH 8.0, 35&Acirc;&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	30.1	acetamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Pseudomonas aeruginosa	162	acetamide	*hydrolysis
+KCAT	Rhodococcus sp.	305	acetamide	*
+KCAT	Pseudomonas aeruginosa	790	acetamide	*transferase reaction
+KCAT	Aeribacillus pallidus	2668	acetamide	*pH 7.2
+KCAT	Pyrococcus yayanosii	5051	acetamide	*pH 7.6, 60&Acirc;&deg;C
+KCAT	Blastobacter sp.	0.00217	Benzamide	*
+KCAT	Rhodococcus erythropolis	0.48	Benzamide	*
+KCAT	Saccharolobus solfataricus	6.1	Benzamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	6.4	Benzamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	6.7	Benzamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	7.2	Benzamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Rhodococcus sp. N-771	157.7	Benzamide	*pH 5.9, 55&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Rhodococcus erythropolis	157.7	Benzamide	*pH and temperature not specified in the publication
+KCAT	Saccharolobus solfataricus	1192	Benzamide	*85&Acirc;&deg;C, pH not specified in the publication, wild-type enzyme
+KCAT	Saccharolobus solfataricus	1246	Benzamide	*85&Acirc;&deg;C, pH not specified in the publication, mutant enzyme K96R
+KCAT	Saccharolobus solfataricus	3.2	Propionamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	4.03	Propionamide	*
+KCAT	Pseudomonas chlororaphis	10.5	Propionamide	*
+KCAT	Streptomyces sp.	28.6	Propionamide	*pH 8.0, 35&Acirc;&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	82.9	Propionamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	99.4	Propionamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	101.9	Propionamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Rhodococcus erythropolis	155.2	Propionamide	*pH and temperature not specified in the publication
+KCAT	Rhodococcus sp. N-771	155.3	Propionamide	*pH 5.9, 55&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Saccharolobus solfataricus	160	Propionamide	*85&Acirc;&deg;C, pH not specified in the publication, mutant enzyme K96R
+KCAT	Saccharolobus solfataricus	181	Propionamide	*85&Acirc;&deg;C, pH not specified in the publication, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	374	Propionamide	*hydrolysis
+KCAT	Pseudomonas aeruginosa	465	Propionamide	*transferase reaction
+KCAT	Aeribacillus pallidus	0.0715	Acrylamide	*pH 8.0, 50&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	0.58	Acrylamide	*
+KCAT	Rhodococcus sp. N-771	2.1	Acrylamide	*pH 5.9, 55&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Rhodococcus erythropolis	2.1	Acrylamide	*pH and temperature not specified in the publication
+KCAT	Saccharolobus solfataricus	8.3	Acrylamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Aeribacillus pallidus	38.7	Acrylamide	*pH 7.2
+KCAT	Pyrococcus yayanosii	333.3	Acrylamide	*pH 7.6, 60&Acirc;&deg;C
+KCAT	Rhodococcus erythropolis	5.68	Isobutyramide	*
+KCAT	Saccharolobus solfataricus	21.9	Isobutyramide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	41.88	Isobutyramide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	48.9	Isobutyramide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	58.4	Isobutyramide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	160	Isobutyramide	*85&Acirc;&deg;C, pH not specified in the publication, mutant enzyme K96R
+KCAT	Saccharolobus solfataricus	175	Isobutyramide	*85&Acirc;&deg;C, pH not specified in the publication, wild-type enzyme
+KCAT	Rhodococcus erythropolis	2.04	butyramide	*
+KCAT	Saccharolobus solfataricus	9.9	butyramide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	17.5	butyramide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	19.98	butyramide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	34.3	butyramide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	14	Acetohydroxamate	*hydrolysis
+KCAT	Saccharolobus solfataricus	7.3	cyclomaltohexaose	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	11.9	cyclomaltohexaose	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	12.2	cyclomaltohexaose	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	14.2	cyclomaltohexaose	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	5.3	hexanamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	19.5	hexanamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	21.6	hexanamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Pyrococcus yayanosii	721.7	hexanamide	*pH 7.6, 60&Acirc;&deg;C
+KCAT	Delftia acidovorans	144	4-nitrophenylacetate	*
+KCAT	Delftia acidovorans	134	acetanilide	*
+KCAT	Saccharolobus solfataricus	20.5	Pentanamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	26.8	Pentanamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	28.6	Pentanamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	1.1	4-hydroxybenzamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.9	4-hydroxybenzamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	2.1	4-hydroxybenzamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	7.1	3-phenylpropionamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	15.3	3-phenylpropionamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	18	3-phenylpropionamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	0.3	2-toluamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.4	2-toluamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.425	2-toluamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.8	2-toluamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	0.8	4-Aminobenzamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Blastobacter sp.	0.096	succinamic acid	*
+KCAT	Delftia acidovorans	129	2-nitroacetanilide	*
+KCAT	Saccharolobus solfataricus	2.9	methacrylamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.9	2-Aminobenzamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	3	metacrylamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	4.8	metacrylamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	5.75	metacrylamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	1.2	indol-3-acetamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Saccharolobus solfataricus	2.05	indol-3-acetamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	2.2	indol-3-acetamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	1.6	Isonicotinamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	887	ketoprofen amide	*
+KCAT	Saccharolobus solfataricus	769	cinnamamide	*85&Acirc;&deg;C, pH not specified in the publication, wild-type enzyme
+KCAT	Saccharolobus solfataricus	906	cinnamamide	*85&Acirc;&deg;C, pH not specified in the publication, mutant enzyme K96R
+KCAT	Saccharolobus solfataricus	3.1	L-prolinamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	1.08	N-Methylacetamide	*hydrolysis
+KCAT	Pseudomonas aeruginosa	890	N-Methylacetamide	*transferase reaction
+KCAT	Saccharolobus solfataricus	1.3	2-hydroxybenzamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.8	4-nitrobenzamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	2.5	4-nitrobenzamide	*pH 5.0, 70&Acirc;&deg;C, mutant enzyme Y41C
+KCAT	Pseudomonas aeruginosa	10	acetohydrazide	*hydrolysis
+KCAT	Pseudomonas aeruginosa	20	acetohydrazide	*transferase reaction
+KCAT	Blastobacter sp.	0.0372	glutaramic acid	*
+KCAT	Pseudomonas aeruginosa	0.3	N-methylpropionamide	*hydrolysis
+KCAT	Saccharolobus solfataricus	12.82	3-phenyl-propionamide	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	10.7	lactamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	16.3	cyclohexanamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.8	picolinamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.8	3-indolacetamide	*pH 7.5, 70&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	9.5	propionohydrazide	*transferase reaction
+KCAT	Pseudomonas aeruginosa	22	propionohydroxamate	*hydrolysis
+KCAT	Streptomyces sp.	55.6	4-Guanidinobutyramide	*pH 8.0, 35&Acirc;&deg;C, recombinant enzyme

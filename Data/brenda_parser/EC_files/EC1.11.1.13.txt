@@ -1,0 +1,85 @@
+KCAT	Phanerochaete flavidoalba	0.22	Mn2+	*
+KCAT	Phanerochaete chrysosporium	0.77	Mn2+	*mutant E35Q
+KCAT	Phanerochaete chrysosporium	24	Mn2+	*A48C/A63C double mutant MnP after thermal treatment at 37&Acirc;&deg;C for 15 min
+KCAT	Phanerochaete chrysosporium	25	Mn2+	*mutant R177Q
+KCAT	Phanerochaete chrysosporium	25.5	Mn2+	*mutant R177E
+KCAT	Phanerochaete chrysosporium	30.2	Mn2+	*mutant R177D
+KCAT	Phanerochaete chrysosporium	34.6	Mn2+	*mutant R177N
+KCAT	Pleurotus ostreatus	100	Mn2+	*MnP2
+KCAT	Phanerochaete chrysosporium	125	Mn2+	*
+KCAT	Bjerkandera adusta	150	Mn2+	*
+KCAT	Deuteromycotina sp.	161	Mn2+	*
+KCAT	Phanerochaete chrysosporium	184	Mn2+	*mutant R177A
+KCAT	Phanerochaete chrysosporium	218	Mn2+	*native MnP
+KCAT	Pleurotus ostreatus	230	Mn2+	*MnP3
+KCAT	Phanerochaete chrysosporium	240	Mn2+	*MnP1 from mutants F190Y, F190L, F190I and F190A
+KCAT	Lentinus tigrinus	242.4	Mn2+	*; with 0.2 mM H2O2 as cosubstrate, pH 5.5, 45&Acirc;&deg;C
+KCAT	Phanerochaete chrysosporium	256	Mn2+	*wild-type MnP
+KCAT	Phanerochaete chrysosporium	262	Mn2+	*mutant R177K
+KCAT	Phanerochaete chrysosporium	270	Mn2+	*recombinant MnP and A48C/A63C double mutant MnP
+KCAT	Phanerochaete chrysosporium	290	Mn2+	*wild-type MnP1
+KCAT	Trichophyton rubrum	304.8	Mn2+	*reactioin with H2O2
+KCAT	Schizophyllum sp.	479.7	Mn2+	*30&Acirc;&deg;C, pH 4.5
+KCAT	Phanerochaete chrysosporium	17.3	H2O2	*mutant R177E
+KCAT	Phanerochaete chrysosporium	23.2	H2O2	*mutant R177Q
+KCAT	Phanerochaete chrysosporium	28.8	H2O2	*mutant R177D
+KCAT	Phanerochaete chrysosporium	35.8	H2O2	*mutant R177N
+KCAT	Pleurotus ostreatus	100	H2O2	*MnP2
+KCAT	Lentinus tigrinus	121	H2O2	*; with 1.5 mM Mn2+ as cosubstrate, pH 5.5, 45&Acirc;&deg;C
+KCAT	Phanerochaete chrysosporium	168	H2O2	*recombinant enzyme
+KCAT	Phanerochaete chrysosporium	190	H2O2	*mutant R177A
+KCAT	Bjerkandera adusta	225	H2O2	*
+KCAT	Pleurotus ostreatus	230	H2O2	*MnP3
+KCAT	Phanerochaete chrysosporium	237	H2O2	*wild-type enzyme
+KCAT	Phanerochaete chrysosporium	252	H2O2	*wild-type MnP
+KCAT	Trichophyton rubrum	272.4	H2O2	*reaction with Mn2+
+KCAT	Phanerochaete chrysosporium	273	H2O2	*mutant R177K
+KCAT	Schizophyllum sp.	373	H2O2	*30&Acirc;&deg;C, pH 4.5
+KCAT	Phanerochaete chrysosporium	3.4	ferrocyanide	*MnP1 from mutants F190Y, F190L, F190I
+KCAT	Phanerochaete chrysosporium	4	ferrocyanide	*wild-type MnP1
+KCAT	Phanerochaete chrysosporium	14.6	ferrocyanide	*MnP1 from mutant F190A
+KCAT	Phanerochaete flavidoalba	3.98	2,6-dimethoxyphenol	*
+KCAT	Lentinus tigrinus	5.67	2,6-dimethoxyphenol	*; in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2, 45&Acirc;&deg;C
+KCAT	Lentinus tigrinus	26.26	2,6-dimethoxyphenol	*; in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2 and 1.5 mM Mn2+, 45&Acirc;&deg;C
+KCAT	Schizophyllum sp.	69	2,6-dimethoxyphenol	*30&Acirc;&deg;C, pH 4.5
+KCAT	Bjerkandera adusta	70	2,6-dimethoxyphenol	*Mn2+-independent activity
+KCAT	Pleurotus ostreatus	200	2,6-dimethoxyphenol	*MnP3
+KCAT	Bjerkandera adusta	320	2,6-dimethoxyphenol	*Mn2+-dependent activity
+KCAT	Lentinus tigrinus	0.74	guaiacol	*; in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2, 45&Acirc;&deg;C
+KCAT	Lentinus tigrinus	8.92	guaiacol	*; in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2 and 1.5 mM Mn2+, 45&Acirc;&deg;C
+KCAT	Bjerkandera adusta	14.5	guaiacol	*Mn2+-independent activity
+KCAT	Schizophyllum sp.	17.3	guaiacol	*30&Acirc;&deg;C, pH 4.5
+KCAT	Bjerkandera adusta	31.7	guaiacol	*Mn2+-dependent activity
+KCAT	Phanerochaete chrysosporium	40	guaiacol	*isoenzyme H5
+KCAT	Phanerochaete chrysosporium	53	guaiacol	*isoenzyme H3
+KCAT	Phanerochaete chrysosporium	56	guaiacol	*isoenzyme H4
+KCAT	Lentinus tigrinus	0.45	veratryl alcohol	*; in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2 and 1.5 mM Mn2+, 45&Acirc;&deg;C
+KCAT	Gelatoporia subvermispora	0.54	veratryl alcohol	*mutant S168W, 25&Acirc;&deg;C, pH 5.0
+KCAT	Gelatoporia subvermispora	1.69	veratryl alcohol	*mutant T162S/S168W/F258E/F262M/F268K/Q271N/S272R/S275G, 25&Acirc;&deg;C, pH 5.0
+KCAT	Bjerkandera adusta	5.33	veratryl alcohol	*Mn2+-independent activity
+KCAT	Bjerkandera adusta	39.5	veratryl alcohol	*Mn2+-dependent activity
+KCAT	Lentinus tigrinus	9.98	pyrogallol	*; in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2, 45&Acirc;&deg;C
+KCAT	Lentinus tigrinus	20.95	pyrogallol	*; in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2 and 1.5 mM Mn2+, 45&Acirc;&deg;C
+KCAT	Lentinus tigrinus	20.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*
+KCAT	Gelatoporia subvermispora	7	Reactive Black 5	*mutant T162S/S168W/F258E/F262M/F268K/Q271N/S272R/S275G, 25&Acirc;&deg;C, pH 5.0
+KCAT	Gelatoporia subvermispora	7.8	Reactive Black 5	*mutant S168W, 25&Acirc;&deg;C, pH 5.0
+KCAT	Schizophyllum sp.	87.1	2,2'-azino-bis(3-ethyl-benzothiazoline-6-sulfonic acid)	*30&Acirc;&deg;C, pH 4.5
+KCAT	Phanerochaete chrysosporium	39	Phenol red	*isoenzyme H5
+KCAT	Phanerochaete chrysosporium	41	Phenol red	*isoenzyme H4
+KCAT	Phanerochaete chrysosporium	66	Phenol red	*isoenzyme H3
+KCAT	Bjerkandera adusta	120	2,2-azino-di-3-ethylbenzothiazoline-6-sulfonate	*Mn2+-dependent activity
+KCAT	Bjerkandera adusta	139	2,2-azino-di-3-ethylbenzothiazoline-6-sulfonate	*Mn2+-independent activity
+KCAT	Phanerochaete chrysosporium	76	vanillylacetone	*isoenzyme H5
+KCAT	Phanerochaete chrysosporium	90.3	vanillylacetone	*isoenzyme H4
+KCAT	Phanerochaete chrysosporium	97	vanillylacetone	*isoenzyme H3
+KCAT	Lentinus tigrinus	1.87	2,2'-azinobis(3-ethylbenzthiazoline)-6-sulfonic acid	*in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2, 45&Acirc;&deg;C
+KCAT	Lentinus tigrinus	20.2	2,2'-azinobis(3-ethylbenzthiazoline)-6-sulfonic acid	*in 0.05 M malonate-NaOH buffer pH 4.0 containing 0.2 mM H2O2 and 1.5 mM Mn2+, 45&Acirc;&deg;C
+KCAT	Musa x paradisiaca	6.7	Mn(II)	*pH 4.5, 25&Acirc;&deg;C
+KCAT	Gelatoporia subvermispora	60.5	Mn(II)	*mutant S168W, 25&Acirc;&deg;C, pH 5.0
+KCAT	Gelatoporia subvermispora	66.9	Mn(II)	*mutant T162S/S168W/F258E/F262M/F268K/Q271N/S272R/S275G, 25&Acirc;&deg;C, pH 5.0
+KCAT	Gelatoporia subvermispora	83	Mn(II)	*wild-type, 25&Acirc;&deg;C, pH 5.0
+KCAT	Lentinus tigrinus	1.87	2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid) Mn2+	*
+KCAT	Phanerochaete chrysosporium	98.3	Mn3+-tartrate	*preparation M2
+KCAT	Phanerochaete chrysosporium	118	Mn3+-tartrate	*preparation M1
+KCAT	Gelatoporia subvermispora	1.4	2,2'-azino-bis(3-ethylbenzthiazole-6-sulfonic acid)	*mutant S168W, 25&Acirc;&deg;C, pH 5.0
+KCAT	Phanerochaete chrysosporium	-999	more	*

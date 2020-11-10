@@ -1,0 +1,8 @@
+KCAT	Aquifex aeolicus	5.6	L-aspartate	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	41.7	L-aspartate	*pH 8.0, 75&Acirc;&deg;C
+KCAT	Mesocricetus auratus	156	L-aspartate	*multienzyme complex
+KCAT	Escherichia coli	417	L-aspartate	*
+KCAT	Mesocricetus auratus	35.9	Carbamoyl phosphate	*aspartate transcarbamoylase activity domain of the multienzyme complex
+KCAT	Triticum aestivum	47.2	Carbamoyl phosphate	*
+KCAT	Mesocricetus auratus	79.7	aspartate	*aspartate transcarbamoylase activity domain of the multienzyme complex
+KCAT	Mesocricetus auratus	57.4	Carbamoylphosphate	*multienzyme complex

@@ -1,0 +1,13 @@
+KCAT	Thermococcus onnurineus	0.0073	O-phospho-L-serine	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Thermococcus onnurineus	0.143	O-phospho-L-serine	*pH 6.5, 65&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.15	O-phospho-L-serine	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Thermococcus onnurineus	0.168	O-phospho-L-serine	*pH 6.5, 65&Acirc;&deg;C, in presence of 20 mM 3-(1-pyridinio)-1-propanesulfonate
+KCAT	Thermococcus onnurineus	0.179	O-phospho-L-serine	*pH 6.5, 65&Acirc;&deg;C, in presence of 100 mM 3-(1-pyridinio)-1-propanesulfonate
+KCAT	Thermococcus onnurineus	0.182	O-phospho-L-serine	*pH 6.5, 65&Acirc;&deg;C, in presence of 200 mM 3-(1-pyridinio)-1-propanesulfonate
+KCAT	Mycobacterium tuberculosis	18.6	O-phospho-L-serine	*at pH 7.0, temperature not specified in the publication
+KCAT	Thermus thermophilus	1506	O-phospho-L-serine	*at pH 7.0 and 70&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	1.508	L-phosphoserine	*at 30&Acirc;&deg;C, in 50 mM Tris (pH 7.5), with 5 mM MgCl2
+KCAT	Porphyromonas gingivalis	2.94	L-phosphoserine	*at 30&Acirc;&deg;C, in 50 mM Tris (pH 7.5), with 5 mM MgCl2
+KCAT	Pseudomonas aeruginosa	804	L-phosphoserine	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	0.0004	L-phosphothreonine	*at 30&Acirc;&deg;C, in 50 mM Tris (pH 7.5), with 5 mM MgCl2
+KCAT	Porphyromonas gingivalis	0.00003	L-phosphotyrosine	*at 30&Acirc;&deg;C, in 50 mM Tris (pH 7.5), with 5 mM MgCl2

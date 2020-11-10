@@ -1,0 +1,2 @@
+KCAT	Aspergillus fumigatus	0.8	dimethylallyl diphosphate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.8	fumigaclavine A	*pH 7.5, 30&Acirc;&deg;C

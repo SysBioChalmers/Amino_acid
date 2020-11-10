@@ -1,0 +1,9 @@
+KCAT	Mycobacterium tuberculosis	1	4-nitrophenyl phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.18	D-ribulose 5-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.18	Glycerol 2-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.77	DL-glycerol 3-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	30.3	DL-glycerol 3-phosphate	*at 30&Acirc;&deg;C, pH 7.5, in 100 mM HEPES
+KCAT	Escherichia coli	160	DL-glycerol 3-phosphate	*in 20 mM MES buffer pH 6.5, containing 10 mM MgSO4, and 1 mM dithioerythritol, at 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.02	L-glycerol 3-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	1.7	L-glycerol 3-phosphate	*at 30&Acirc;&deg;C, pH 7.5, in 100 mM HEPES
+KCAT	Saccharomyces cerevisiae	833	alpha-glycerolphosphate	*

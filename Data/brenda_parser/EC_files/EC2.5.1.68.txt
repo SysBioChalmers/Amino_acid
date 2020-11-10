@@ -1,0 +1,8 @@
+KCAT	Corynebacterium efficiens	141	geranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Corynebacterium efficiens	173	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Thermobifida fusca	229	geranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Thermobifida fusca	282	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Corynebacterium glutamicum	329	geranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Corynebacterium glutamicum	329	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	788	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	860	geranyl diphosphate	*pH 7.5, 37&deg;C

@@ -1,0 +1,2 @@
+KCAT	Thalassotalea crassostreae	25	poly(beta-(1,4)-D-mannuronate)	*pH 7.0, 30&deg;C
+KCAT	Thalassotalea crassostreae	41.7	poly(beta-(1,4)-D-mannuronate/alpha-(1,4)-L-guluronate)	*pH 7.0, 30&deg;C

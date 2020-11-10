@@ -1,0 +1,38 @@
+KCAT	Azospirillum brasilense	-999	phenylpyruvate	*in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30&deg;C
+KCAT	Streptomyces virginiae	0.0055	phenylpyruvate	*allosteric enzyme, Hill coefficient 4.7, pH 7.5, temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	0.04	2-oxobutanoic acid	*mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.06	2-oxobutanoic acid	*mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.064	Pyruvic acid	*mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Azospirillum brasilense	0.07	Indole-3-pyruvate	*in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.14	Indole-3-pyruvate	*mutant enzyme E545L, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Azospirillum brasilense	0.21	4-phenyl-2-oxobutanoic acid	*in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30&deg;C
+KCAT	Azospirillum brasilense	0.29	2-ketohexanoic acid	*in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.32	Pyruvic acid	*mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.34	Pyruvic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.39	2-Oxopentanoic acid	*mutant enzyme I335Y/M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.41	2-oxohexanoic acid	*mutant enzyme I335Y/M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.45	Pyruvic acid	*mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.76	2-Oxopentanoic acid	*mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.85	phenylpyruvate	*mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.96	2-oxohexanoic acid	*mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	1.2	phenylpyruvate	*mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	1.3	2-oxohexanoic acid	*mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	1.7	2-oxo-4-phenylbutanoic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Azospirillum brasilense	1.7	5-phenyl-2-oxopentanoic acid	*in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	2	2-Oxopentanoic acid	*mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	2.1	2-Oxopentanoic acid	*mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	2.2	2-oxobutanoic acid	*mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	3.3	2-oxohexanoic acid	*mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	3.9	2-oxobutanoic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	4.8	phenylpyruvate	*mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	5.2	2-Oxopentanoic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	5.4	Indole-3-pyruvate	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Azospirillum brasilense	5.56	phenylpyruvate	*in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	7.7	4-methylthio-2-oxobutanoic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	8.8	2-oxohexanoic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	8.8	phenylpyruvate	*mutant enzyme E545L, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	10	4-methyl-2-oxopentanoic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	11	3-methyl-2-oxopentanoic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	11	4-hydroxyphenylpyruvate	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	19	3-methyl-2-oxobutanoic acid	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	20	phenylpyruvate	*wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30&deg;C

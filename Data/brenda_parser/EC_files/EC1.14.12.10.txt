@@ -1,0 +1,6 @@
+KCAT	Acinetobacter calcoaceticus	3	3-chlorobenzoate	*pH 7, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	4.2	2-Methylbenzoate	*pH 7, 25&deg;C
+KCAT	Pseudomonas putida	4.4	benzoate	*at pH 6.8 temperature not specified in the publication
+KCAT	Acinetobacter calcoaceticus	7	3-methylbenzoate	*pH 7, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	8.6	benzoate	*pH 7, 25&deg;C
+KCAT	Pseudomonas putida	367	benzoate	*in the presence of saturating amounts of NADH-cytochrome c reductase

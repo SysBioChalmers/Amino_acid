@@ -1,0 +1,4 @@
+KCAT	Trypanosoma brucei	28.2	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	*mutant D360A/N362A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Trypanosoma brucei	140.5	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Schizosaccharomyces pombe	11	7-methyl-6-thioguanosine	*pH 7.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Trypanosoma brucei	57.5	1-phosphatidyl-1D-myo-inositol 3,4,5-triphosphate	*wild-type, pH not specified in the publication, temperature not specified in the publication

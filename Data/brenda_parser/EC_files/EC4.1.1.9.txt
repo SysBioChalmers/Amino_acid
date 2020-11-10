@@ -1,0 +1,16 @@
+KCAT	Saccharopolyspora erythraea	0.038	N-hydroxy-L-ornithine	*in 20 mM Tris, 100 mM NaCl, pH 7.2, at 25&deg;C
+KCAT	Homo sapiens	13	malonyl-CoA	*full-length and N-terminal truncated apo-hMCD
+KCAT	Homo sapiens	13.3	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant E302G, no H2O2
+KCAT	Homo sapiens	47.3	malonyl-CoA	*
+KCAT	Homo sapiens	94.6	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C243S, no H2O2
+KCAT	Homo sapiens	109.2	malonyl-CoA	*pH 8.5, temperature not specified in the publication, wild-type enzyme, 0.2 M H2O2
+KCAT	Homo sapiens	114.2	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C206S, 0.2 M H2O2
+KCAT	Homo sapiens	117.1	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C206S, no H2O2
+KCAT	Homo sapiens	128.3	malonyl-CoA	*pH 8.5, temperature not specified in the publication, wild-type enzyme, 0.05 M H2O2
+KCAT	Homo sapiens	135	malonyl-CoA	*pH 8.5, temperature not specified in the publication, wild-type enzyme, 0.1 M H2O2
+KCAT	Homo sapiens	137.5	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C243S, 0.1 M H2O2
+KCAT	Homo sapiens	141.2	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C206S, 00.1 M H2O2; pH 8.5, temperature not specified in the publication, wild-type enzyme, no H2O2
+KCAT	Homo sapiens	162.5	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C206S/C243S, no H2O2
+KCAT	Homo sapiens	167.1	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C206S/C243S, 0.2 M H2O2
+KCAT	Homo sapiens	175.4	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C206S/C243S, 0.1 M H2O2
+KCAT	Homo sapiens	208.3	malonyl-CoA	*pH 8.5, temperature not specified in the publication, mutant C243S, 0.2 M H2O2

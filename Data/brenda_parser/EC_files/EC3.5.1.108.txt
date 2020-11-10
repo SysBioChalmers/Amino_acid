@@ -1,0 +1,21 @@
+KCAT	Escherichia coli	0.00096	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 7.5, 30&deg;C, mutant enzyme E78A/H265A, steady-state
+KCAT	Escherichia coli	0.0016	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 7.5, 30&deg;C, mutant enzyme D246A, steady-state
+KCAT	Escherichia coli	0.005	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 7.5, 30&deg;C, mutant enzyme H265A, steady-state
+KCAT	Escherichia coli	0.01	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*K239A mutant
+KCAT	Escherichia coli	0.017	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*H19A mutant
+KCAT	Escherichia coli	0.052	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*F192A mutant
+KCAT	Escherichia coli	0.053	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*T191A mutant
+KCAT	Escherichia coli	0.083	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 7.5, 30&deg;C, mutant enzyme E78A, steady-state
+KCAT	Escherichia coli	0.09	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 5.7, 1&deg;C
+KCAT	Escherichia coli	0.13	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*H19Q mutant
+KCAT	Escherichia coli	0.25	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*H19Y mutant
+KCAT	Escherichia coli	0.283	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 7.3
+KCAT	Escherichia coli	0.36	UDP-3-O-(N-hexyl-propionamide)-N-acetylglucosamine	*pH 6.0, 30&deg;C
+KCAT	Escherichia coli	0.45	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 7.5, 30&deg;C, wild-type enzyme substituted with Co2+, steady-state
+KCAT	Escherichia coli	1.32	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*D197E mutant
+KCAT	Escherichia coli	1.5	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*D197A mutant; wild-type
+KCAT	Escherichia coli	1.5	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 7.5, 30&deg;C, wild-type Zn2+-containing enzyme, steady-state
+KCAT	Escherichia coli	1.5	UDP-3-((R)-3-hydroxytetradecanoyl)-N-acetyl-alpha-D-glucosamine	*wild-type Fe2+-LpxC, pH 7.5, 30&deg;C
+KCAT	Escherichia coli	2.1	UDP-3-((R)-3-hydroxytetradecanoyl)-N-acetyl-alpha-D-glucosamine	*mutant C63A Zn2+-LpxC, pH 7.5, 30&deg;C
+KCAT	Escherichia coli	3.3	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	*pH 5.5, 30&deg;C
+KCAT	Escherichia coli	8.83	UDP-3-((R)-3-hydroxytetradecanoyl)-N-acetyl-alpha-D-glucosamine	*mutant C63A Fe2+-LpxC, pH 7.5, 30&deg;C

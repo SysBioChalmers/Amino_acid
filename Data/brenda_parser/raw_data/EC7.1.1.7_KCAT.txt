@@ -1,0 +1,1 @@
+ecNumber*7.1.1.7#turnoverNumber*101#turnoverNumberMaximum*#substrate*H2O2[side 2]#commentary*pH 7.0, temperature not specified in the publication#organism*Escherichia coli#ligandStructureId*#literature*752197#

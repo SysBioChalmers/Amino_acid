@@ -1,0 +1,1 @@
+ecNumber*3.4.21.71#turnoverNumber*2.1#turnoverNumberMaximum*#substrate*Gly-Ile-Asp-Val-Gln-Ile-Tyr#commentary*pH 8.0, 25&deg;C#organism*Bos taurus#ligandStructureId*34066#literature*653034#

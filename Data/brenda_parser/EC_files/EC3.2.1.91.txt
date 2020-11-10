@@ -1,0 +1,38 @@
+KCAT	Thermobifida fusca	0.0001	2,4-dinitrophenyl cellobiose	*pH 5.5, 50&deg;C, recombinant mutant D497A
+KCAT	Chaetomium thermophilum	0.00022	Beta-D-glucan	*mutant enzyme W315R, at pH 5.0 and 70&deg;C
+KCAT	Trichoderma reesei	0.0003	cellotriose	*pH 5, 27&deg;C, D175A mutant
+KCAT	Chaetomium thermophilum	0.00047	Beta-D-glucan	*mutant enzyme W221R, at pH 5.0 and 70&deg;C
+KCAT	Thermobifida fusca	0.0005	2,4-dinitrophenyl cellobiose	*pH 5.5, 50&deg;C, recombinant mutant S232A
+KCAT	Chaetomium thermophilum	0.00054	Beta-D-glucan	*wild type enzyme, at pH 5.0 and 70&deg;C
+KCAT	Chaetomium thermophilum	0.00073	Beta-D-glucan	*mutant enzyme S131W, at pH 5.0 and 70&deg;C
+KCAT	Chaetomium thermophilum	0.00118	Beta-D-glucan	*mutant enzyme Y119F, at pH 5.0 and 70&deg;C
+KCAT	Trichoderma reesei	0.0013	cellotetraose	*pH 5, 27&deg;C, D175A mutant
+KCAT	Thermobifida fusca	0.0015	2,4-dinitrophenyl cellobiose	*pH 5.5, 50&deg;C, recombinant mutant Y220A
+KCAT	Thermobifida fusca	0.0018	2,4-dinitrophenyl cellobiose	*pH 5.5, 50&deg;C, recombinant mutant D226A
+KCAT	Humicola insolens	0.01	alpha-cellobiosyl fluoride	*pH 5, 20&deg;C
+KCAT	Trichoderma reesei	0.02	cellohexaose	*pH 5, 27&deg;C, D175A mutant
+KCAT	Trichoderma reesei	0.025	cellopentaose	*pH 5, 27&deg;C, D175A mutant
+KCAT	Thermobifida fusca	0.038	2,4-dinitrophenyl cellobiose	*pH 5.5, 50&deg;C, recombinant mutant D274A
+KCAT	Thermobifida fusca	0.057	2,4-dinitrophenyl cellobiose	*pH 5.5, 50&deg;C, recombinant wild-type enzyme
+KCAT	Trichoderma reesei	0.06	cellotriose	*pH 5, 27&deg;C, wild-type enzyme
+KCAT	Trichoderma reesei	0.061	4-nitrophenyl lactoside	*pH 5, 30&deg;C, Y247F mutant
+KCAT	Humicola insolens	0.071	beta-cellobiosyl fluoride	*pH 5, 20&deg;C
+KCAT	Cellulomonas fimi	0.08	4-nitrophenyl beta-D-cellobioside	*recombinant Cex-RsaA fusion mutant
+KCAT	Trichoderma reesei	0.093	4-nitrophenyl lactoside	*pH 5, 30&deg;C, wild-type enzyme
+KCAT	Trichoderma reesei	0.19	4-nitrophenyl lactoside	*pH 5, 30&deg;C, DELTAG245-Y252 mutant
+KCAT	Trichoderma reesei	0.5	cellotetraose	*pH 5, 27&deg;C, wild-type enzyme
+KCAT	Trichoderma reesei	0.54	alpha-cellobiosyl fluoride	*pH 5, 20&deg;C
+KCAT	Trichoderma reesei	0.58	cellotetraose	*pH 5, 27&deg;C, Y247F mutant and D241C/D249C mutant
+KCAT	Trichoderma reesei	0.82	4-nitrophenyl lactoside	*pH 5, 30&deg;C, D241C/D249C mutant
+KCAT	Trichoderma reesei	0.83	cellotetraose	*pH 5, 27&deg;C, DELTAG245-Y252 mutant
+KCAT	Trichoderma reesei	1.1	cellopentaose	*pH 5, 27&deg;C, wild-type enzyme
+KCAT	Trichoderma reesei	4	beta-cellobiosyl fluoride	*pH 5, 20&deg;C
+KCAT	Trichoderma reesei	4.1	cellotetraose	*pH 5, 27&deg;C, wild-type enzyme
+KCAT	Rasamsonia emersonii	8.9	2-chloro-4-nitrophenyl-beta-D-cellotrioside	*pH 5.0, 50&deg;C
+KCAT	Streptomyces coelicolor	13.3	cellotetraose	*at pH 5.0 and 50&deg;C; at pH 5.0 and 50&deg;C
+KCAT	Trichoderma reesei	14	cellohexaose	*pH 5, 27&deg;C, wild-type enzyme
+KCAT	Cellulomonas fimi	15.8	4-nitrophenyl beta-D-cellobioside	*wild-type Cex
+KCAT	Hungateiclostridium thermocellum	2952	4-nitrophenyl-beta-D-cellobioside	*pH 6, 60&deg;C
+KCAT	Orpinomyces sp.	4223	Barley beta-glucan	*105-residue N-terminal truncation mutant, pH 6.0, 45&deg;C
+KCAT	Orpinomyces sp.	4402	Barley beta-glucan	*17-residue N-terminal truncation mutant, pH 6.0, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	9108	2-chloronitrophenyl-beta-D-lactoside	*pH 6, 60&deg;C

@@ -1,0 +1,1 @@
+ecNumber*2.1.1.279#turnoverNumber*0.015#turnoverNumberMaximum*#substrate*isoeugenol#commentary*pH 7.5, 25&deg;C#organism*Pimpinella anisum#ligandStructureId*3640#literature*700822#

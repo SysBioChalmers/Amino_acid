@@ -1,0 +1,13 @@
+KCAT	Pyrococcus horikoshii	1.7	ADP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	11.1	ADP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	1.5	UDP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	7.1	UDP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	1.7	GDP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	9.7	GDP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.53	UDP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	25	UDP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	1.2	alpha,alpha-trehalose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.54	GDP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	34	GDP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.44	ADP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	20	ADP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C

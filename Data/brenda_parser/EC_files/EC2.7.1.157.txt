@@ -1,0 +1,26 @@
+KCAT	Homo sapiens	0.053	N-acetyl-alpha-D-mannosamine	*mutant F444H, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.063	N-acetyl-alpha-D-glucosamine	*mutant F444S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.066	N-acetyl-alpha-D-mannosamine	*mutant F444C, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.071	N-acetyl-alpha-D-glucosamine	*mutant F444R, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.072	N-acetyl-alpha-D-glucosamine	*mutant F444H, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.087	N-acetyl-alpha-D-glucosamine	*mutant F444C, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.11	N-acetyl-alpha-D-glucosamine	*mutant F444A, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.16	N-acetyl-alpha-D-glucosamine	*wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.18	N-acetyl-alpha-D-glucosamine	*mutant F444K, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.19	N-acetyl-alpha-D-mannosamine	*mutant F444R, 37&deg;C, pH 7.5; wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.23	N-acetyl-alpha-D-mannosamine	*mutant F444A, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.25	N-acetyl-alpha-D-mannosamine	*mutant F444K, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.4	N-acetyl-alpha-D-mannosamine	*mutant F444S, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.62	N-acetyl-alpha-D-galactosamine	*mutant F444W, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	0.72	N-acetyl-alpha-D-galactosamine	*mutant F444R, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	1	ATP	*recombinant enzyme
+KCAT	Homo sapiens	1	N-acetyl-alpha-D-galactosamine	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	1	N-acetyl-alpha-D-galactosamine	*mutant F444K, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	1	N-acetyl-D-galactosamine	*recombinant enzyme
+KCAT	Homo sapiens	1.2	N-acetyl-alpha-D-galactosamine	*wild-type, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	1.6	N-acetyl-alpha-D-galactosamine	*mutant F444H, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	1.9	N-acetyl-alpha-D-galactosamine	*mutant F444A, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	2.5	ATP	*pH 7.0, 25&deg;C
+KCAT	Homo sapiens	2.5	N-acetyl-D-galactosamine	*pH 7.0, 25&deg;C
+KCAT	Homo sapiens	2.6	N-acetyl-alpha-D-galactosamine	*mutant F444C, 37&deg;C, pH 7.5
+KCAT	Homo sapiens	3.2	N-acetyl-alpha-D-galactosamine	*mutant F444S, 37&deg;C, pH 7.5

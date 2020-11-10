@@ -1,0 +1,16 @@
+KCAT	Escherichia coli	0.15	RNA	*
+KCAT	Momordica charantia	5.37	CpU	*mutant N71T, pH 6.5, 37&Acirc;&deg;C
+KCAT	Momordica charantia	7.38	CpU	*mutant R74S, pH 6.5, 37&Acirc;&deg;C
+KCAT	Momordica charantia	12.3	CpU	*mutant V72L, pH 6.5, 37&Acirc;&deg;C
+KCAT	Momordica charantia	12.42	CpU	*wild-type enzyme, pH 6.5, 37&Acirc;&deg;C
+KCAT	Momordica charantia	13.1	CpU	*mutant L73A, pH 6.5, 37&Acirc;&deg;C
+KCAT	Oncorhynchus keta	2.97	GpC	*pH 5.0, 22&Acirc;&deg;C
+KCAT	Aspergillus oryzae	0.0128	adenylyl (3'-5')uridine	*pH 3.1, transphosphorylation
+KCAT	Aspergillus oryzae	0.0173	adenylyl (3'-5')uridine	*pH 8.1, transphosphorylation
+KCAT	Aspergillus oryzae	0.0543	adenylyl (3'-5')uridine	*pH 7.1, transphosphorylation
+KCAT	Aspergillus oryzae	0.00583	adenosine-3'-(1-naphthyl)phosphate	*pH 2.6, transphosphorylation
+KCAT	Aspergillus oryzae	0.176	adenosine-3'-(1-naphthyl)phosphate	*pH 6.7, transphosphorylation
+KCAT	Aspergillus oryzae	-999	more	*pH-dependence of turnover-number, 2 kinetically distinct forms
+KCAT	Aspergillus phoenicis	-999	more	*
+KCAT	Momordica charantia	-999	more	*wild-type and mutant enzymes
+KCAT	Nicotiana glutinosa	-999	more	*consists of seven helices and seven beta strands, determined by crystallization

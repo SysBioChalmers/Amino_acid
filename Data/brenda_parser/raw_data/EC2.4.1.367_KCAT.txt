@@ -1,0 +1,1 @@
+ecNumber*2.4.1.367#turnoverNumber*9.1#turnoverNumberMaximum*#substrate*(20S)-protopanaxatriol#commentary*at pH 8.0 and 35&Acirc;&deg;C#organism*Panax ginseng#ligandStructureId*#literature*751610#

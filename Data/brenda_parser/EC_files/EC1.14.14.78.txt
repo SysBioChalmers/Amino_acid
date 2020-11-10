@@ -1,0 +1,4 @@
+KCAT	Homo sapiens	0.009	arachidonic acid	*at pH 7.4 and 37&deg;C
+KCAT	Homo sapiens	0.02	oleic acid	*at pH 7.4 and 37&deg;C
+KCAT	Homo sapiens	0.03	palmitic acid	*at pH 7.4 and 37&deg;C
+KCAT	Homo sapiens	0.458	3-hydroxypalmitate	*at pH 7.4 and 37&deg;C

@@ -1,0 +1,30 @@
+KCAT	Micromonospora echinospora	0.07	kanamycin B	*pH 7.5, 37&deg;C
+KCAT	Micromonospora echinospora	0.12	amikacin	*pH 7.5, 37&deg;C
+KCAT	Micromonospora echinospora	0.122	neomycin B	*pH 7.5, 37&deg;C
+KCAT	Micromonospora echinospora	0.125	kanamycin A	*pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.278	6'-deaminoneamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	0.35	ATP	*mutant H82A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.35	kanamycin A	*mutant H82A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.39	2'-deaminoneamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	0.49	kanamycin A	*mutant H123A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.5	amikacin	*mutant H82A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.57	ATP	*mutant H123A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.66	ATP	*mutant H78A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.67	kanamycin A	*mutant H78A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.69	neomycin B	*mutant H82A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.83	neomycin B	*mutant H123A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	0.87	amikacin	*mutant H123A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	1.03	1-deaminoneamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	1.16	3-deaminoneamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	1.2	neomycin B	*mutant H188A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	1.74	amikacin	*mutant H78A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	1.76	ATP	*wild-type, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	1.76	kanamycin A	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	1.79	kanamycin A	*wild-type, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	2	neamine	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus faecium	2.04	amikacin	*mutant H188A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	2.08	neomycin B	*wild-type, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	2.46	amikacin	*wild-type, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	2.46	neomycin B	*mutant H78A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	3.36	kanamycin A	*mutant H188A, pH 7.5, 37&deg;C
+KCAT	Enterococcus faecium	3.75	ATP	*mutant H188A, pH 7.5, 37&deg;C

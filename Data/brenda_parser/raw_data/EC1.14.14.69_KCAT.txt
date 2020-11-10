@@ -1,0 +1,1 @@
+ecNumber*1.14.14.69#turnoverNumber*0.11#turnoverNumberMaximum*#substrate*ent-cassa-12,15-diene#commentary*pH not specified in the publication, temperature not specified in the publication#organism*Oryza sativa Japonica Group#ligandStructureId*18341#literature*744895#

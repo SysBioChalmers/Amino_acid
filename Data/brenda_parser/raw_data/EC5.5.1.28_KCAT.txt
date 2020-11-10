@@ -1,0 +1,1 @@
+ecNumber*5.5.1.28#turnoverNumber*0.88#turnoverNumberMaximum*#substrate*geranylgeranyl diphosphate#commentary*pH 7.0, 30&deg;C#organism*Salvia divinorum#ligandStructureId*231#literature*743002#

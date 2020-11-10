@@ -1,0 +1,28 @@
+KCAT	Escherichia coli	-999	more	*rate of hydrolysis of Thr-tRNAVal and Val-tRNAVal by wild-type and mutant enzyme, incorporation of amino acids valine and threonine into the enzyme
+KCAT	Thermus thermophilus	-999	more	*kcat for tRNAVal mutants, loss of the electrostatically interactions between the coiled-coil domain of the enzyme and base A20 and tertiary bas pair G19.C56 increases the kcat for aminoacylation by 19fold
+KCAT	Saccharomyces cerevisiae	0.06	L-valyl-tRNAVal	*DELTA32-71 mutant
+KCAT	Escherichia coli	0.064	L-valine	*aminoacylation reaction, His-tagged K277A mutant enzyme, pH 7.5, 25&deg;C
+KCAT	Anabaena sp.	0.074	L-valine	*at pH and &deg;C
+KCAT	Saccharomyces cerevisiae	0.2	L-valyl-tRNAVal	*
+KCAT	Escherichia coli	0.28	ATP	*pH 7.5, 37&deg;C, mutant D286A, in presence of tRNA
+KCAT	Escherichia coli	0.34	ATP	*pH 7.5, 37&deg;C, mutant K277P, in presence of tRNA
+KCAT	Thermus thermophilus	0.36	tRNAVal	*C-terminally truncated mutant enzyme, pH 7.7, 65&deg;C
+KCAT	Escherichia coli	0.48	ATP	*pH 7.5, 37&deg;C, mutant K277P/D286A, in presence of tRNA
+KCAT	Escherichia coli	0.68	L-valine	*with mutant tRNAVal with 3'-terminal 2-aminopurine base analogue, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	0.99	L-valine	*with mutant tRNAVal with 3'-terminal isoguanosine base analogue, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	1.06	L-valine	*with mutant tRNAVal with 3'-terminal inosine base analogue, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	1.5	L-valine	*aminoacylation reaction, His-tagged wild-type enzyme, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	1.5	tRNAVal	*aminoacylation reaction with L-valine, K277A mutant enzyme, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	1.7	tRNAVal	*aminoacylation reaction with L-valine, wild-type enzyme, pH 7.5, 25&deg;C
+KCAT	Geobacillus stearothermophilus	2.9	valine	*
+KCAT	Thermus thermophilus	4.3	tRNAVal	*R818A/R843A mutant enzyme, pH 7.7, 65&deg;C
+KCAT	Geobacillus stearothermophilus	5.65	valine	*enzyme expressed in E. coli
+KCAT	Escherichia coli	6.08	L-valine	*with mutant tRNAVal with 3'-terminal 2-aminopurine base analogue, pH 7.5, 37&deg;C; with mutant tRNAVal with 3'-terminal inosine base analogue, pH 7.5, 37&deg;C; with mutant tRNAVal with 3'-terminal isoguanosine base analogue, pH 7.5, 37&deg;C
+KCAT	Thermus thermophilus	6.7	tRNAVal	*wild-type enzyme, pH 7.7, 65&deg;C
+KCAT	Escherichia coli	12.9	ATP	*pH 7.5, 37&deg;C, wild-type ValRS, in presence of tRNA
+KCAT	Escherichia coli	13.9	L-valine	*with wild-type tRNAVal, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	14.4	L-valine	*with mutant tRNAVal with 3'-terminal purine riboside base analogue, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	50	ATP	*ATP-diphosphate exchange reaction, His-tagged wild-type enzyme, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	50	tRNAVal	*ATP-diphosphate exchange reaction, K277A mutant enzyme, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	51	tRNAVal	*ATP-diphosphate exchange reaction, wild-type enzyme, pH 7.5, 25&deg;C
+KCAT	Escherichia coli	57	ATP	*ATP-diphosphate exchange reaction, His-tagged K277A mutant enzyme, pH 7.5, 25&deg;C

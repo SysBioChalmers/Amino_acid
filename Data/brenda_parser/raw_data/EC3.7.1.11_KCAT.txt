@@ -1,0 +1,1 @@
+ecNumber*3.7.1.11#turnoverNumber*1.6#turnoverNumberMaximum*#substrate*Cyclohexane-1,2-dione#commentary*pH 8.0, 37&deg;C#organism*Azoarcus sp.#ligandStructureId*10620#literature*719464#

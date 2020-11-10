@@ -1,0 +1,3 @@
+KCAT	Pyrobaculum aerophilum	8	N2O	*pH 7.6, 25&deg;C
+KCAT	Achromobacter cycloclastes	89.3	reduced pseudoazurin	*pH 7.1, temperature not specified in the publication
+KCAT	Achromobacter cycloclastes	162.9	reduced benzyl viologen	*pH 7.1, temperature not specified in the publication

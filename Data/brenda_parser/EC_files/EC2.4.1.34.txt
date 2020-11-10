@@ -1,0 +1,4 @@
+KCAT	Staphylococcus aureus	0.00217	UDPglucose	*D332A
+KCAT	Staphylococcus aureus	0.0433	UDPglucose	*D13A
+KCAT	Staphylococcus aureus	0.55	UDPglucose	*wild-type
+KCAT	Staphylococcus aureus	0.717	UDPglucose	*H125A

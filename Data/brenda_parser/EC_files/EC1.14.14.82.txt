@@ -1,0 +1,17 @@
+KCAT	Camellia sinensis	0.00000036	kaempferol	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	5.8	kaempferol	*pH 7.3, 25&Acirc;&deg;C
+KCAT	Tagetes erecta	10.2	kaempferol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Fragaria x ananassa	17	kaempferol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	9.3	apigenin	*pH 7.3, 25&Acirc;&deg;C
+KCAT	Fragaria x ananassa	13.4	apigenin	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Tagetes erecta	22.1	apigenin	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Camellia sinensis	0.00000082	naringenin	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	2.1	naringenin	*pH 7.3, 25&Acirc;&deg;C
+KCAT	Fragaria x ananassa	10.6	naringenin	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Tagetes erecta	17	naringenin	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Camellia sinensis	0.00000016	dihydrokaempferol	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Tagetes erecta	12.5	dihydrokaempferol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	12.7	dihydrokaempferol	*pH 7.3, 25&Acirc;&deg;C
+KCAT	Fragaria x ananassa	81.4	dihydrokaempferol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	12.3	5-deoxyleucopelargonidin	*pH 7.3, 25&Acirc;&deg;C
+KCAT	Tagetes erecta	38.7	5-deoxyleucopelargonidin	*pH 7.0, 25&Acirc;&deg;C

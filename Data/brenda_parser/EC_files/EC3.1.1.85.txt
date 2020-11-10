@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	1.5	4-nitrophenyl laurate	*in 50 mM HEPES-K (pH 7.5) buffer, at 37&deg;C
+KCAT	Escherichia coli	4	4-nitrophenyl caproate	*in 50 mM HEPES-K (pH 7.5) buffer, at 37&deg;C
+KCAT	Escherichia coli	6.1	4-nitrophenyl butyrate	*in 50 mM HEPES-K (pH 7.5) buffer, at 37&deg;C
+KCAT	Escherichia coli	13.1	4-nitrophenyl propionate	*in 50 mM HEPES-K (pH 7.5) buffer, at 37&deg;C
+KCAT	Escherichia coli	18.5	4-nitrophenyl acetate	*in 50 mM HEPES-K (pH 7.5) buffer, at 37&deg;C

@@ -1,0 +1,15 @@
+KCAT	Mycobacterium tuberculosis	0.05	ATP	*mutant N449D, pH 8.5, 37&Acirc;&deg;C, co-substrate: UDP-MurNAc-L-Ala-D-Glu, meso-2,6-diaminoheptanedioate
+KCAT	Mycobacterium tuberculosis	0.06	ATP	*mutant R451A, pH 8.5, 37&Acirc;&deg;C, co-substrate: UDP-MurNAc-L-Ala-D-Glu, meso-2,6-diaminoheptanedioate
+KCAT	Mycobacterium tuberculosis	0.08	ATP	*mutant K157A, pH 8.5, 37&Acirc;&deg;C, co-substrate: UDP-MurNAc-L-Ala-D-Glu, meso-2,6-diaminoheptanedioate
+KCAT	Mycobacterium tuberculosis	0.1	ATP	*mutant D392A, pH 8.5, 37&Acirc;&deg;C, co-substrate: UDP-MurNAc-L-Ala-D-Glu, meso-2,6-diaminoheptanedioate
+KCAT	Mycobacterium tuberculosis	0.56	ATP	*mutant E220A, pH 8.5, 37&Acirc;&deg;C, co-substrate: UDP-MurNAc-L-Ala-D-Glu, meso-2,6-diaminoheptanedioate
+KCAT	Mycobacterium tuberculosis	1.11	ATP	*N-terminal deletion mutant, pH 8.5, 37&Acirc;&deg;C, co-substrate: UDP-MurNAc-L-Ala-D-Glu, meso-2,6-diaminoheptanedioate
+KCAT	Mycobacterium tuberculosis	1.3	ATP	*wild-type, pH 8.5, 37&Acirc;&deg;C, co-substrate: UDP-MurNAc-L-Ala-D-Glu, meso-2,6-diaminoheptanedioate
+KCAT	Erysipelothrix rhusiopathiae	1.83	ATP	*pH 9.6, 37&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Erysipelothrix rhusiopathiae	1.03	L-alanine	*pH 9.6, 37&Acirc;&deg;C, recombinant mutant MurEEr(HDNR/DNPR)
+KCAT	Erysipelothrix rhusiopathiae	2.83	L-alanine	*pH 9.6, 37&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Erysipelothrix rhusiopathiae	4.17	meso-2,6-diaminoheptanedioate	*pH 9.6, 37&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Erysipelothrix rhusiopathiae	4.83	meso-2,6-diaminoheptanedioate	*pH 9.6, 37&Acirc;&deg;C, recombinant mutant MurEEr(HDNR/DNPR)
+KCAT	Erysipelothrix rhusiopathiae	3.33	UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamate	*pH 9.6, 37&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Erysipelothrix rhusiopathiae	3.67	UDP-N-acetyl-alpha-D-muramoyl-L-seryl-D-glutamate	*pH 9.6, 37&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Erysipelothrix rhusiopathiae	8.83	UDP-N-acetyl-alpha-D-muramoyl-glycyl-D-glutamate	*pH 9.6, 37&Acirc;&deg;C, recombinant His-tagged enzyme

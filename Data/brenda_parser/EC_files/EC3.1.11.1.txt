@@ -1,0 +1,11 @@
+KCAT	Thermus thermophilus	0.17	ssDNA 40 mer	*pH 7.5, 37&deg;C
+KCAT	Thermus thermophilus	0.19	ssDNA 50 mer	*pH 7.5, 37&deg;C
+KCAT	Thermus thermophilus	0.23	ssDNA 28 mer	*pH 7.5, 37&deg;C
+KCAT	Thermus thermophilus	0.4	ssDNA 21 mer	*pH 7.5, 37&deg;C
+KCAT	Thermus thermophilus	0.71	ssDNA 10 mer	*pH 7.5, 37&deg;C
+KCAT	Thermus thermophilus	1	ssDNA 50 mer	*pH 7.5, 60&deg;C
+KCAT	Thermus thermophilus	1.9	ssDNA 28 mer	*pH 7.5, 60&deg;C
+KCAT	Thermus thermophilus	2.3	ssDNA 40 mer	*pH 7.5, 60&deg;C
+KCAT	Thermus thermophilus	5.3	ssDNA 21 mer	*pH 7.5, 60&deg;C
+KCAT	Thermus thermophilus	7.5	ssDNA 10 mer	*pH 7.5, 60&deg;C
+KCAT	Escherichia coli	115.5	single-stranded DNA	*at 37&deg;C, in 20 mM Tris-HCl buffer, pH 8.0, 100 mM NaCl, 3 mM MgCl2, 1 mM 2-mercaptoethanol, 0.1 g/l bovine serum albumin, 10% (v/v) glycerol, 5% (v/v) dimethyl sulfoxide

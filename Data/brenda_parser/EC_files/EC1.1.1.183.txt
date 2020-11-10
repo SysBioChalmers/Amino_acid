@@ -1,0 +1,3 @@
+KCAT	Zingiber officinale	5	NADP+	*at pH 9.5 and 25&Acirc;&deg;C; pH 9.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Zingiber officinale	5.4	geraniol	*at pH 9.5 and 25&Acirc;&deg;C; pH 9.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Zingiber officinale	4.6	nerol	*at pH 9.5 and 25&Acirc;&deg;C; pH 9.5, 25&Acirc;&deg;C, recombinant enzyme

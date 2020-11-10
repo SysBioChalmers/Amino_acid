@@ -1,0 +1,2 @@
+KCAT	Mesorhizobium loti	1.4	4-pyridoxate	*pH 7.5
+KCAT	Mesorhizobium loti	12.2	4-Pyridoxolactone	*pH 7.5

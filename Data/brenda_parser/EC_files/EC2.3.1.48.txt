@@ -1,0 +1,77 @@
+KCAT	Saccharomyces cerevisiae	0.0011	acetyl-CoA	*mutant E374A/E378A/D301K, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.0021	acetyl-CoA	*mutant E374K/E378K, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.0023	acetyl-CoA	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.0024	acetyl-CoA	*mutant E374A/E378A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.0028	acetyl-CoA	*mutant D288N, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.0033	acetyl-CoA	*at 0.015 mM histone H4 peptide, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.005	acetyl-CoA	*at 0.030 mM histone H4 peptide, pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	0.0091	acetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, mutant E338Q
+KCAT	Homo sapiens	0.0117	acetyl-CoA	*PCAF protein
+KCAT	Saccharomyces cerevisiae	0.012	acetyl-CoA	*mutant D287N, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.012	acetyl-CoA	*at 0.060 mM histone H4 peptide, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.018	acetyl-CoA	*at 0.090 mM histone H4 peptide, pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	0.0267	acetyl-CoA	*mutant A190S and A190T of Gcn5
+KCAT	Tetrahymena thermophila	0.0267	acetyl-CoA	*Gcn5
+KCAT	Saccharomyces cerevisiae	0.0283	acetyl-CoA	*Gcn5 protein
+KCAT	Saccharomyces cerevisiae	0.0283	acetyl-CoA	*Gcn5 protein
+KCAT	Homo sapiens	0.0283	acetyl-CoA	*Gcn5 protein
+KCAT	Saccharomyces cerevisiae	0.0283	acetyl-CoA	*Gcn5 protein
+KCAT	Saccharomyces cerevisiae	0.031	acetyl-CoA	*mutant E374A/E378A/D301K, presence of chaperone Vps75, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.035	acetyl-CoA	*mutant E374K/E378K, presence of chaperone Vps75, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.0383	acetyl-CoA	*PCAF catalytic domain
+KCAT	Homo sapiens	0.0383	acetyl-CoA	*PCAF
+KCAT	Homo sapiens	0.0467	acetyl-CoA	*PCAF catalytic domain
+KCAT	Saccharomyces cerevisiae	0.07	acetyl-CoA	*wild-type, wild-type, presence of 0.2 equivalents of chaperone Vps75, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.08	acetyl-CoA	*wild-type, presence of 0.4 equivalents of chaperone Vps75, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.11	acetyl-CoA	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.14	acetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, mutant C304S
+KCAT	Saccharomyces cerevisiae	0.16	acetyl-CoA	*mutant E374A/E378A, presence of chaperone Vps75, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.28	acetyl-CoA	*wild-type, presence of 1 equivalent of chaperone Vps75, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.48	acetyl-CoA	*wild-type, presence of 2 equivalents of chaperone Vps75, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.62	acetyl-CoA	*wild-type, presence of 8 equivalents of chaperone Vps75, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.76	acetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, mutant C304A
+KCAT	Sus scrofa	0.8	acetyl-CoA	*enzyme form type I
+KCAT	Saccharomyces cerevisiae	1.6	acetyl-CoA	*pH 7.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	4.14	acetyl-CoA	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Sus scrofa	12	acetyl-CoA	*enzyme form type II
+KCAT	Sus scrofa	0.8	histone	*enzyme form type I
+KCAT	Sus scrofa	12	histone	*enzyme form type II
+KCAT	Homo sapiens	0.0018	histone H4	*pH 7.5, 25&Acirc;&deg;C, mutant Y612C
+KCAT	Homo sapiens	0.003	histone H4	*pH 7.5, 25&Acirc;&deg;C, mutant L503P/D601G/Y612C
+KCAT	Homo sapiens	0.0035	histone H4	*pH 7.5, 25&Acirc;&deg;C, mutant Y612C/P655R
+KCAT	Homo sapiens	0.0048	histone H4	*pH 7.5, 25&Acirc;&deg;C, wild-type P/CAF enzyme and mutant V582A
+KCAT	Homo sapiens	0.0053	histone H4	*pH 7.5, 25&Acirc;&deg;C, mutant L503P
+KCAT	Homo sapiens	0.0055	histone H4	*pH 7.5, 25&Acirc;&deg;C, mutant D601G
+KCAT	Homo sapiens	0.0058	histone H4	*pH 7.5, 25&Acirc;&deg;C, mutant D639E
+KCAT	Homo sapiens	0.0062	histone H4	*pH 7.5, 25&Acirc;&deg;C, mutant V582A/D639E
+KCAT	Saccharomyces cerevisiae	-999	more	*Gcn5 protein mutants
+KCAT	Saccharomyces cerevisiae	0.0011	histone H3 tail peptide	*mutant D287A/D288A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.0021	histone H3 tail peptide	*mutant D288N, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.00317	histone H3-peptide p20	*PCAF catalytic domain, recombinant mutant Y638A
+KCAT	Saccharomyces cerevisiae	0.0087	histone H3 tail peptide	*mutant D287N, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.0117	histone H3-peptide	*PCAF protein
+KCAT	Saccharomyces cerevisiae	0.0267	histone H3	*mutant A190S and A190T of Gcn5
+KCAT	Tetrahymena thermophila	0.0267	histone H3	*Gcn5
+KCAT	Saccharomyces cerevisiae	0.0283	histone H3-peptide	*Gcn5 protein
+KCAT	Saccharomyces cerevisiae	0.0283	histone H3-peptide	*Gcn5 protein
+KCAT	Homo sapiens	0.0283	histone H3-peptide	*Gcn5 protein
+KCAT	Saccharomyces cerevisiae	0.0283	histone H3-peptide	*Gcn5 protein
+KCAT	Homo sapiens	0.0383	histone H3-peptide	*PCAF catalytic domain
+KCAT	Homo sapiens	0.0383	histone H3-peptide	*PCAF
+KCAT	Homo sapiens	0.0467	histone H3-peptide	*PCAF catalytic domain
+KCAT	Homo sapiens	0.0583	histone H3-peptide p20	*PCAF catalytic domain, recombinant wild-type
+KCAT	Homo sapiens	0.0667	histone H3-peptide	*PCAF catalytic domain
+KCAT	Saccharomyces cerevisiae	0.11	histone H3 tail peptide	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.131	histone H3-peptide p19	*PCAF catalytic domain
+KCAT	Homo sapiens	0.15	histone H4 peptide	*mutant E276Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.17	histone H3-peptide p27	*PCAF catalytic domain
+KCAT	Homo sapiens	0.18	histone H3	*pH 7.5, 25&Acirc;&deg;C, mutants V582A and Y612C
+KCAT	Homo sapiens	0.2	histone H3	*pH 7.5, 25&Acirc;&deg;C, wild-type P/CAF enzyme, and mutants L503P, D601G, D639E, Y612C/P655R, and L503P/D601G/Y612C
+KCAT	Homo sapiens	0.22	histone H3	*pH 7.5, 25&Acirc;&deg;C, mutant V582A/D639E
+KCAT	Homo sapiens	0.28	histone H4 peptide	*mutant E187Q, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.41	histone H4 peptide	*mutant W199A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.5	histone H4 peptide	*mutant E64A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.53	histone H4 peptide	*mutant D277N, pH not specified in the publication, temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	0.62	histone H3	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.99	histone H4 peptide	*mutant D62A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	4.28	histone H4 peptide	*wild-type, pH not specified in the publication, temperature not specified in the publication

@@ -1,0 +1,4 @@
+KCAT	Escherichia coli	616.5	guanosine 5'-triphosphate	*25&Acirc;&deg;C, pH 6.75
+KCAT	Escherichia coli	573.3	inosine 5'-triphosphate	*25&Acirc;&deg;C, pH 6.75
+KCAT	Escherichia coli	2625	xanthosine 5'-triphosphate	*25&Acirc;&deg;C, pH 6.75
+KCAT	Escherichia coli	22.3	2'-deoxyinosine 5'-triphosphate	*25&Acirc;&deg;C, pH 6.75

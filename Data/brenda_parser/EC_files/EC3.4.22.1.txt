@@ -1,0 +1,54 @@
+KCAT	Oryctolagus cuniculus	0.000000001	azocasein	*
+KCAT	Oryctolagus cuniculus	0.00000000817	gelatin	*
+KCAT	Oryctolagus cuniculus	0.000625	Collagen	*
+KCAT	Homo sapiens	0.004	Arg-4-methylcoumaryl-7-amide	*
+KCAT	Homo sapiens	0.011	N,N'-diBoc-dityrosine-Gly-(isoniazid)2	*pH 6.2, 25&deg;C
+KCAT	Homo sapiens	0.036	N,N'-diBoc-dityrosine-Lys-(isoniazid)2	*pH 6.2, 25&deg;C
+KCAT	Bos taurus	0.075	benzoyl-DL-Arg-beta-naphthylamide	*
+KCAT	Nicotiana benthamiana	0.1	Abz-GIVRAK-Dnp	*37&deg;C, pH 4.5
+KCAT	Homo sapiens	0.125	benzyloxycarbonyl-Ala-Arg-Arg-4-methoxy-beta-naphthylamide	*
+KCAT	Fasciola hepatica	0.13	N-benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	*pH 6.0, 22&deg;C
+KCAT	Fasciola hepatica	0.13	Tos-Gly-Pro-Arg-4-methylcoumarin 7-amide	*pH 6.0, 22&deg;C
+KCAT	Homo sapiens	0.139	benzyloxycarbonyl-Arg-Arg-4-methoxy-beta-naphthylamide	*
+KCAT	Fasciola hepatica	0.14	D-Val-Leu-Arg-4-methylcoumarin 7-amide	*pH 6.0, 22&deg;C
+KCAT	Homo sapiens	0.149	benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Fasciola hepatica	0.19	N-benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	*pH 6.0, 22&deg;C
+KCAT	Homo sapiens	0.28	Boc-Asp-Pro-Arg-4-methyl-7-amidocoumarin	*pH 6.0, 22&deg;C
+KCAT	Naegleria fowleri	0.318	benzyloxycarbonyl-L-phenylalaninyl-L-arginine 4-methylcoumaryl-7-amide	*pH 4.5,37&deg;C
+KCAT	Homo sapiens	0.325	benzyloxycarbonyl-Val-Lys-Lys-Arg-4-methoxy-beta-naphthylamide	*
+KCAT	Naegleria fowleri	0.327	benzyloxycarbonyl-L-leucyl-L-arginine-4-methylcoumaryl-7-amide	*pH 4.5,37&deg;C
+KCAT	Homo sapiens	0.445	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Naegleria fowleri	0.476	benzyloxycarbonyl-L-phenylalaninyl-L-arginine 4-methylcoumaryl-7-amide	*pH 4.5,37&deg;C
+KCAT	Fasciola hepatica	0.51	N-benzyloxycarbonyl-Val-Ile-Arg-4-methylcoumarin 7-amide	*pH 6.0, 22&deg;C
+KCAT	Naegleria fowleri	0.512	benzyloxycarbonyl-L-leucyl-L-arginine-4-methylcoumaryl-7-amide	*pH 4.5,37&deg;C
+KCAT	Fasciola hepatica	0.69	Boc-Asp-Pro-Arg-4-methylcoumarin 7-amide	*pH 6.0, 22&deg;C
+KCAT	Fasciola hepatica	0.72	Boc-Val-Pro-Arg-4-methylcoumarin 7-amide	*pH 6.0, 22&deg;C
+KCAT	Homo sapiens	1.09	N-benzyloxycarbonyl-Arg-Arg-4-methyl-7-amidocoumarin	*pH 6.0, 22&deg;C
+KCAT	Homo sapiens	1.71	N-benzyloxycarbonyl-Phe-Arg-4-methyl-7-amidocoumarin	*pH 6.0, 22&deg;C
+KCAT	Homo sapiens	2.26	Tos-Gly-Pro-Arg-4-methyl-7-amidocoumarin	*pH 6.0, 22&deg;C
+KCAT	Gallus gallus	2.4	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Nicotiana benthamiana	2.9	Abz-FRF(NO2)A	*37&deg;C, pH 4.5
+KCAT	Homo sapiens	3.38	Boc-Val-Leu-Lys-4-methyl-7-amidocoumarin	*pH 6.0, 22&deg;C
+KCAT	Oryctolagus cuniculus	3.45	benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Nicotiana benthamiana	4.7	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*37&deg;C, pH 4.5
+KCAT	Oryctolagus cuniculus	7.67	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Oryctolagus cuniculus	8.12	benzoyl-Phe-Val-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Cyprinus carpio	8.97	benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Nicotiana benthamiana	11	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*37&deg;C, pH 4.5
+KCAT	Schistosoma mansoni	12.2	benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Cyprinus carpio	34	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Mus musculus	34	Nalpha-benzoyl-Arg-Arg-7-amido-4-methylcoumarin	*pH 6.0, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	43	Abz-GIVRAK(Dnp)-OH	*200 mM NaCl, 2.5 mM DTT, pH 4.5, 37&deg;C
+KCAT	Homo sapiens	43	benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Schistosoma mansoni	49.5	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Bos taurus	52	benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Sus scrofa	63	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Homo sapiens	67	Nalpha-benzoyl-Arg-Arg-7-amido-4-methylcoumarin	*pH 6.0, 37&deg;C, recombinant enzyme
+KCAT	Sus scrofa	68	benzyloxycarbonyl-Val-Lys-Lys-Arg-4-methoxy-beta-naphthylamide	*
+KCAT	Gallus gallus	83	benzoyl-DL-Arg-p-nitroanilide	*
+KCAT	Mus musculus	86	Nalpha-benzoyl-Phe-Arg-7-amido-4-methylcoumarin	*pH 6.0, 37&deg;C, recombinant enzyme
+KCAT	Sus scrofa	87	benzyloxycarbonyl-Ala-Arg-Arg-4-methoxy-beta-naphthylamide	*
+KCAT	Homo sapiens	115	Nalpha-benzoyl-Phe-Arg-7-amido-4-methylcoumarin	*pH 6.0, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	158	benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide	*
+KCAT	Meretrix meretrix	277.6	Nalpha-carbobenzoxy-L-Arg-L-Arg-7-amido-4-trifluoromethylcoumarin	*recombinant enzyme, at pH 7.3 and 37&deg;C
+KCAT	Homo sapiens	364	benzyloxycarbonyl-Phe-Arg-4-methylcoumaryl-7-amide	*

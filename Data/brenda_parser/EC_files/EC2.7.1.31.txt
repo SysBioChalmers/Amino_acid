@@ -1,0 +1,2 @@
+KCAT	Spinacia oleracea	200	D-glycerate	*
+KCAT	Escherichia coli	350	D-glycerate	*

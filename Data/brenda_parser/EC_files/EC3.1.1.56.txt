@@ -1,0 +1,42 @@
+KCAT	Saccharomyces cerevisiae	-999	p-nitrophenyl butyrate	*maximal 0.0165/sec, mutant L58F/W197I, Lineweaver-Burke extrapolation; mutant C60H/W197I, catalytic efficiency kcat/KM: 1700 +/-300 1/mM/min; mutant C60K/W197I, catalytic efficiency kcat/KM: 2500 +/-1600 1/mM/min; mutant C60Q/W197I, catalytic efficiency kcat/KM: 8000 +/-1000 1/mM/min; mutant C60R/W197I, catalytic efficiency kcat/KM: 1400 +/-200 1/mM/min; mutant C60S, catalytic efficiency kcat/KM: 50 +/-20 1/mM/min; mutant C60S/W197I, catalytic efficiency kcat/KM: 6200 +/-700 1/mM/min; mutant L58F/W197I, Lineweaver-Burke extrapolation, catalytic efficiency kcat/KM: below 5 1/mM/min; mutant M162H/C60S/W197I, catalytic efficiency kcat/KM: 20 +/-5 1/mM/min; mutant M162H, catalytic efficiency kcat/KM: 1.4 +/-0.5 1/mM/min; mutant W197I, catalytic efficiency kcat/KM: 2900 +/-700 1/mM/min; wild-type, catalytic efficiency kcat/KM: 130 +/-30 1/mM/min
+KCAT	Saccharomyces cerevisiae	0.0032	p-nitrophenyl butyrate	*mutant M162H
+KCAT	Saccharomyces cerevisiae	0.04	p-nitrophenyl butyrate	*mutant M162H/C60S/W197I
+KCAT	Saccharomyces cerevisiae	0.078	p-nitrophenyl butyrate	*mutant C60S
+KCAT	Saccharomyces cerevisiae	0.198	p-nitrophenyl butyrate	*wild-type
+KCAT	Saccharomyces cerevisiae	0.43	p-nitrophenyl butyrate	*mutant C60R/W197I
+KCAT	Saccharomyces cerevisiae	1.23	p-nitrophenyl butyrate	*mutant C60K/W197I
+KCAT	Saccharomyces cerevisiae	1.65	p-nitrophenyl butyrate	*mutant C60Q/W197I
+KCAT	Saccharomyces cerevisiae	1.917	p-nitrophenyl butyrate	*mutant W197I
+KCAT	Saccharomyces cerevisiae	1.97	p-nitrophenyl butyrate	*mutant C60S/W197I
+KCAT	Saccharomyces cerevisiae	3.63	p-nitrophenyl butyrate	*mutant C60H/W197I
+KCAT	Saccharomyces cerevisiae	-999	p-nitrophenyl acetate	*mutant C60H/W197I, catalytic efficiency kcat/KM: 260 +/-20 1/mM/min; mutant C60K/W197I, catalytic efficiency kcat/KM: 390 +/-30 1/mM/min; mutant C60Q/W197I, catalytic efficiency kcat/KM: 320 +/-30 1/mM/min; mutant C60R/W197I, catalytic efficiency kcat/KM: 1500 +/-200 1/mM/min; mutant C60S, after removal of beta-mercaptoethanol, catalytic efficiency kcat/KM: 300 +/-60 1/mM/min; mutant C60S, catalytic efficiency kcat/KM: 480 +/-80 1/mM/min; mutant C60S/W197I, catalytic efficiency kcat/KM: 330 +/-20 1/mM/min; mutant L58F/W197I, Lineweaver-Burke extrapolation, catalytic efficiency kcat/KM: 1.5 +/-0.5 1/mM/min; mutant M162H/C60S/W197I, catalytic efficiency kcat/KM: 0.7 +/-0.2 1/mM/min; mutant M162H, catalytic efficiency kcat/KM: 7 +/-3 1/mM/min; mutant W197I, catalytic efficiency kcat/KM: 1200 +/-100 1/mM/min; wild-type, catalytic efficiency kcat/KM: 270 +/-50 1/mM/min
+KCAT	Saccharomyces cerevisiae	0.0055	p-nitrophenyl acetate	*mutant L58F/W197I, Lineweaver-Burke extrapolation
+KCAT	Saccharomyces cerevisiae	0.0283	p-nitrophenyl acetate	*mutant M162H/C60S/W197I
+KCAT	Saccharomyces cerevisiae	0.1	p-nitrophenyl acetate	*mutant M162H
+KCAT	Saccharomyces cerevisiae	0.317	p-nitrophenyl acetate	*mutant C60R/W197I
+KCAT	Saccharomyces cerevisiae	0.525	p-nitrophenyl acetate	*mutant C60Q/W197I
+KCAT	Saccharomyces cerevisiae	0.763	p-nitrophenyl acetate	*mutant C60S/W197I
+KCAT	Saccharomyces cerevisiae	0.972	p-nitrophenyl acetate	*mutant C60K/W197I
+KCAT	Saccharomyces cerevisiae	1.05	p-nitrophenyl acetate	*mutant W197I
+KCAT	Saccharomyces cerevisiae	1.5	p-nitrophenyl acetate	*mutant C60H/W197I
+KCAT	Saccharomyces cerevisiae	1.53	p-nitrophenyl acetate	*mutant C60S
+KCAT	Saccharomyces cerevisiae	1.583	p-nitrophenyl acetate	*mutant C60S, after removal of beta-mercaptoethanol
+KCAT	Saccharomyces cerevisiae	1.783	p-nitrophenyl acetate	*wild-type
+KCAT	Saccharomyces cerevisiae	-999	S-Lactoylglutathione	*mutant C60S/W197I, catalytic efficiency kcat/KM: 1000 +/-700 1/mM/min; mutant W197I, catalytic efficiency kcat/KM: 2000 +/-1000 1/mM/min; wild-type, activity not twice above background (spontaneous hydrolysis)
+KCAT	Saccharomyces cerevisiae	50	S-Lactoylglutathione	*mutant C60S/W197I
+KCAT	Saccharomyces cerevisiae	116.7	S-Lactoylglutathione	*mutant W197I
+KCAT	Saccharomyces cerevisiae	0.0067	Diethyl p-nitrophenyl phosphate	*phosphorylation rate, wild-type, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.1	Diethyl p-nitrophenyl phosphate	*phosphorylation rate, mutant W197H, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.187	Diethyl p-nitrophenyl phosphate	*phosphorylation rate, mutant W197I, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.317	Diethyl p-nitrophenyl phosphate	*phosphorylation rate, double mutant W197I/C60Q, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.333	Diethyl p-nitrophenyl phosphate	*phosphorylation rate, double mutant W197I/C60H, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.733	Diethyl p-nitrophenyl phosphate	*phosphorylation rate, double mutant W197I/C60R, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.767	Diethyl p-nitrophenyl phosphate	*phosphorylation rate, double mutant W197I/C60K, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	-999	dimethyl p-nitrophenyl phosphate	*no detectable phosphorylation rate, double mutant W197I/C60S, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.00483	dimethyl p-nitrophenyl phosphate	*phosphorylation rate, wild-type, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.217	dimethyl p-nitrophenyl phosphate	*phosphorylation rate, mutant M162H, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.24	dimethyl p-nitrophenyl phosphate	*phosphorylation rate, double mutant W197I/C60Q, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.417	dimethyl p-nitrophenyl phosphate	*phosphorylation rate, mutant W197I, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.53	dimethyl p-nitrophenyl phosphate	*phosphorylation rate, double mutant W197I/C60H, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.637	dimethyl p-nitrophenyl phosphate	*phosphorylation rate, double mutant W197I/C60K, 22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.8	dimethyl p-nitrophenyl phosphate	*phosphorylation rate, double mutant W197I/C60R, 22&Acirc;&deg;C

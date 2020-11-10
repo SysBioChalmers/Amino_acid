@@ -1,0 +1,6 @@
+KCAT	Carapichea ipecacuanha	6.4	vincoside	*pH 5.0, 30&deg;C
+KCAT	Carapichea ipecacuanha	18.7	1alpha(S)-6-O-methyl-N-deacetylisoipecoside	*pH 5.0, 30&deg;C
+KCAT	Carapichea ipecacuanha	28.2	1beta(R)-N-deacetylipecoside	*pH 5.0, 30&deg;C
+KCAT	Carapichea ipecacuanha	31.1	1beta(R)-6-O-methyl-N-deacetylipecoside	*pH 5.0, 30&deg;C
+KCAT	Carapichea ipecacuanha	51.6	ipecoside	*pH 5.0, 30&deg;C
+KCAT	Carapichea ipecacuanha	86.3	1alpha(S)-N-deacetylisoipecoside	*pH 5.0, 30&deg;C

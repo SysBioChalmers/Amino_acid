@@ -1,0 +1,8 @@
+KCAT	Homo sapiens	107	methenyltetrahydrofolate	*forward reaction, recombinant mutant S197T
+KCAT	Homo sapiens	118	methenyltetrahydrofolate	*forward reaction, recombinant mutant S197A
+KCAT	Homo sapiens	123	methenyltetrahydrofolate	*forward reaction, recombinant mutant R173E
+KCAT	Homo sapiens	128	methenyltetrahydrofolate	*forward reaction, recombinant mutant R173A
+KCAT	Homo sapiens	134	methenyltetrahydrofolate	*forward reaction, recombinant wild-type enzyme
+KCAT	Homo sapiens	141	methenyltetrahydrofolate	*forward reaction, recombinant mutant R173K
+KCAT	Homo sapiens	177	methenyltetrahydrofolate	*forward reaction, recombinant mutant S197D
+KCAT	Homo sapiens	185	methenyltetrahydrofolate	*forward reaction, recombinant mutant S197R

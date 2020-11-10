@@ -1,0 +1,1 @@
+ecNumber*3.5.1.107#turnoverNumber*11.7#turnoverNumberMaximum*#substrate*Maleamate#commentary*pH 7.5, 25&deg;C#organism*Bordetella bronchiseptica#ligandStructureId*9211#literature*718939#

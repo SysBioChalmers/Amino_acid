@@ -1,0 +1,39 @@
+KCAT	Mycobacterium tuberculosis	0.004	NAD+	*pH 9.5, 30&Acirc;&deg;C
+KCAT	Homo sapiens	705	NAD+	*isozyme SCHAD II, at pH 7.0
+KCAT	Homo sapiens	1817	NAD+	*isozyme SCHAD I, at pH 7.0
+KCAT	Mycobacterium tuberculosis	0.189	NADH	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	176.7	NADH	*isozyme SCHAD I, at pH 8.5
+KCAT	Homo sapiens	510	NADH	*isozyme SCHAD II, at pH 9.3
+KCAT	Rattus norvegicus	0.019	acetoacetyl-CoA	*pH 5.0, recombinant His-tagged mutant S137C
+KCAT	Rattus norvegicus	0.026	acetoacetyl-CoA	*pH 5.0, recombinant His-tagged mutant S137T
+KCAT	Rattus norvegicus	0.12	acetoacetyl-CoA	*pH 5.0, recombinant His-tagged mutant S137A
+KCAT	Homo sapiens	21.3	acetoacetyl-CoA	*isozyme SCHAD II, at pH 8.0
+KCAT	Homo sapiens	23.8	acetoacetyl-CoA	*isozyme SCHAD II, at pH 7.0
+KCAT	Homo sapiens	37	acetoacetyl-CoA	*enzyme from brain, pH 7.0
+KCAT	Homo sapiens	113	acetoacetyl-CoA	*pH 8.0
+KCAT	Homo sapiens	155	acetoacetyl-CoA	*pH 5.0
+KCAT	Homo sapiens	246	acetoacetyl-CoA	*pH 6.0
+KCAT	Homo sapiens	252	acetoacetyl-CoA	*pH 7.0
+KCAT	Sus scrofa	330	acetoacetyl-CoA	*pH 7.0
+KCAT	Rattus norvegicus	569	acetoacetyl-CoA	*pH 5.0, recombinant His-tagged wild-type enzyme
+KCAT	Homo sapiens	681.7	acetoacetyl-CoA	*isozyme SCHAD I, at pH 8.0
+KCAT	Homo sapiens	1287	acetoacetyl-CoA	*isozyme SCHAD I, at pH 7.0
+KCAT	Cupriavidus necator	45500	acetoacetyl-CoA	*pH 8.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Homo sapiens	0.011	androsterone	*enzyme from brain
+KCAT	Homo sapiens	0.011	17beta-estradiol	*enzyme from brain
+KCAT	Mycobacterium tuberculosis	0.012	(S)-3-hydroxybutyryl-CoA	*pH 9.5, 30&Acirc;&deg;C
+KCAT	Homo sapiens	375	(S)-3-hydroxybutyryl-CoA	*isozyme SCHAD I, at pH 8.5
+KCAT	Homo sapiens	533.3	(S)-3-hydroxybutyryl-CoA	*isozyme SCHAD I, at pH 8.0
+KCAT	Homo sapiens	643.3	(S)-3-hydroxybutyryl-CoA	*isozyme SCHAD II, at pH 8.0
+KCAT	Homo sapiens	1420	(S)-3-hydroxybutyryl-CoA	*isozyme SCHAD II, at pH 9.3
+KCAT	Metallosphaera sedula	15	(S)-3-hydroxybutanoyl-CoA	*pH 8.0, 70&Acirc;&deg;C
+KCAT	Sus scrofa	45	3-ketohexadecanoyl-CoA	*
+KCAT	Mycobacterium tuberculosis	0.011	3-acetoacetyl-CoA	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	28	3-ketooctanoyl-CoA	*enzyme from brain, pH 7.0
+KCAT	Sus scrofa	102	3-ketooctanoyl-CoA	*
+KCAT	Homo sapiens	0.093	(3beta,5alpha,17beta)-androstane-3,17-diol	*enzyme from brain
+KCAT	Caenorhabditis elegans	2	(R)-3-hydroxyacyl-CoA	*recombinant mutant R204A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	10	(R)-3-hydroxyacyl-CoA	*recombinant mutant R204A/Y209A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	17	(R)-3-hydroxyacyl-CoA	*recombinant mutant Y209A, pH 7.0, 25&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	45	(R)-3-hydroxyacyl-CoA	*recombinant wild-type enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	24	3-ketohexdecanoyl-CoA	*enzyme from brain, pH 7.0

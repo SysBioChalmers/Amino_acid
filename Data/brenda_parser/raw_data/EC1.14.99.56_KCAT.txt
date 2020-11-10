@@ -1,0 +1,1 @@
+ecNumber*1.14.99.56#turnoverNumber*0.11#turnoverNumberMaximum*#substrate*cellotetraose#commentary*pH 7.0, 37&Acirc;&deg;C#organism*Lentinus similis#ligandStructureId*590#literature*741041#

@@ -1,0 +1,10 @@
+KCAT	Tetrahymena pyriformis	38	Phosphonopyruvate	*
+KCAT	Tetrahymena pyriformis	41	Phosphonopyruvate	*30&Acirc;&deg;C, pH 7.7
+KCAT	Tetrahymena pyriformis	60	Phosphonopyruvate	*pH 7.5
+KCAT	Tetrahymena pyriformis	71	Phosphonopyruvate	*truncated enzyme
+KCAT	Tetrahymena pyriformis	150	Phosphonopyruvate	*pH 7.5
+KCAT	Mytilus edulis	0.006	3-phosphonopyruvate	*mutant N122A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Mytilus edulis	0.0098	3-phosphonopyruvate	*mutant L124A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Mytilus edulis	0.32	3-phosphonopyruvate	*mutant K120R, pH 7.5, 25&Acirc;&deg;C
+KCAT	Mytilus edulis	0.34	3-phosphonopyruvate	*mutant K120A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Mytilus edulis	34	3-phosphonopyruvate	*wild-type, pH 7.5, 25&Acirc;&deg;C

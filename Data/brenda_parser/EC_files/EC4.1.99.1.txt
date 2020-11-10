@@ -1,0 +1,39 @@
+KCAT	Escherichia coli	0.009	L-tryptophan	*recombinant mutant F464A, pH 7.8, 22&Acirc;&deg;C
+KCAT	Prevotella intermedia	0.45	L-tryptophan	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Photobacterium profundum	2.5	L-tryptophan	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	4	L-tryptophan	*wild-type enzyme, pH 8.0, 25&Acirc;&deg;C
+KCAT	Vibrio cholerae O1	5.252	L-tryptophan	*recombinant His-tagged wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	6	L-tryptophan	*recombinant wild-type enzyme, pH 7.8, 22&Acirc;&deg;C
+KCAT	Escherichia coli	6.8	L-tryptophan	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Proteus vulgaris	0.0303	L-Ser	*pH 7.8, 37&Acirc;&deg;C, mutant enzyme Y72F
+KCAT	Porphyromonas gingivalis	0.24	L-Trp	*purified recombinant tryptophanase in 200 mM sodium phosphate buffer (pH 7.5), at 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	1.37	L-Trp	*purified recombinant tryptophanase in 200 mM potassium phosphate buffer (pH 7.5), at 37&Acirc;&deg;C
+KCAT	Symbiobacterium thermophilum	42	L-Trp	*
+KCAT	Proteus vulgaris	0.00004	Trp	*pH 7.8, 37&Acirc;&deg;C, mutant enzyme Y72F
+KCAT	Prevotella intermedia	0.2	S-methyl-L-cysteine	*pH 7.6, 37&Acirc;&deg;C
+KCAT	Vibrio cholerae O1	0.49	S-methyl-L-cysteine	*recombinant His-tagged wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	0.5	S-methyl-L-cysteine	*purified recombinant tryptophanase in 200 mM potassium phosphate buffer (pH 7.5), at 37&Acirc;&deg;C
+KCAT	Proteus vulgaris	0.0051	S-methyl-L-Cys	*pH 7.8, 37&Acirc;&deg;C, mutant enzyme Y72F
+KCAT	Photobacterium profundum	0.2	S-methyl-L-Cys	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	5	S-methyl-L-Cys	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Proteus vulgaris	0.035	S-ethyl-L-cysteine	*pH 7.8, 37&Acirc;&deg;C, mutant enzyme Y72F
+KCAT	Escherichia coli	0.074	S-ethyl-L-cysteine	*recombinant mutant F464A, pH 7.8, 22&Acirc;&deg;C
+KCAT	Prevotella intermedia	1.79	S-ethyl-L-cysteine	*pH 7.6, 37&Acirc;&deg;C
+KCAT	Porphyromonas gingivalis	1.87	S-ethyl-L-cysteine	*purified recombinant tryptophanase in 200 mM potassium phosphate buffer (pH 7.5), at 37&Acirc;&deg;C
+KCAT	Escherichia coli	6	S-ethyl-L-cysteine	*recombinant wild-type enzyme, pH 7.8, 22&Acirc;&deg;C
+KCAT	Vibrio cholerae O1	0.346	S-Benzyl-L-cysteine	*recombinant His-tagged wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Photobacterium profundum	0.4	S-ethyl-L-Cys	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	6	S-ethyl-L-Cys	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Photobacterium profundum	1.1	S-benzyl-L-Cys	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	5.2	S-benzyl-L-Cys	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Proteus vulgaris	0.0932	beta-chloroalanine	*pH 7.8, 37&Acirc;&deg;C, mutant enzyme Y72F
+KCAT	Photobacterium profundum	3	beta-chloro-L-Ala	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	12.4	beta-chloro-L-Ala	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Proteus vulgaris	0.00046	S-benzylcysteine	*pH 7.8, 37&Acirc;&deg;C, mutant enzyme Y72F
+KCAT	Proteus vulgaris	0.423	S-o-nitrophenyl-L-Cys	*pH 7.8, 37&Acirc;&deg;C, mutant enzyme Y72F
+KCAT	Escherichia coli	2.2	S-(2-nitrophenyl)-L-cysteine	*recombinant mutant F464A, pH 7.8, 22&Acirc;&deg;C
+KCAT	Photobacterium profundum	13.9	S-(2-nitrophenyl)-L-cysteine	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	38	S-(2-nitrophenyl)-L-cysteine	*recombinant wild-type enzyme, pH 7.8, 22&Acirc;&deg;C
+KCAT	Escherichia coli	44	S-(2-nitrophenyl)-L-cysteine	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.22	beta-(benzimidazol-1-yl)-L-alanine	*mutant H463F, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	5.6	beta-(benzimidazol-1-yl)-L-alanine	*wild-type enzyme, pH 8.0, 25&Acirc;&deg;C

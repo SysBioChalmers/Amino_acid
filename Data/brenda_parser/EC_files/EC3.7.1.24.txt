@@ -1,0 +1,10 @@
+KCAT	Pseudomonas fluorescens	0.000026	2,4-diacetylphloroglucinol	*recombinant mutant E274A, pH 7.1, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	0.000081	2,4-diacetylphloroglucinol	*recombinant mutant E160A, pH 7.1, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	0.05	2,4-diacetylphloroglucinol	*recombinant mutant Y121A, pH 7.1, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	0.21	2,4-diacetylphloroglucinol	*recombinant mutant Y229A, pH 7.1, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	0.58	2,4-diacetylphloroglucinol	*recombinant mutant H214Q, pH 7.1, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	0.74	2,4-diacetylphloroglucinol	*recombinant mutant N132A, pH 7.1, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	1.4	2,4-diacetylphloroglucinol	*recombinant mutants Y229F and H214A, pH 7.1, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	4.7	2,4-diacetylphloroglucinol	*recombinant wild-type enzyme, pH 7.1, 25&Acirc;&deg;C
+KCAT	Pseudomonas sp.	5.8	2,4-diacetylphloroglucinol	*recombinant enzyme, pH 7.0, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	33	2,4-diacetylphloroglucinol	*recombinant enzyme, pH 7.0, 30&Acirc;&deg;C

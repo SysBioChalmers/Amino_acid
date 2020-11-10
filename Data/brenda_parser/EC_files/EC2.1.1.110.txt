@@ -1,0 +1,3 @@
+KCAT	Aspergillus parasiticus	0.022	sterigmatocystin	*
+KCAT	Aspergillus parasiticus	1.4	sterigmatocystin	*
+KCAT	Aspergillus parasiticus	2.2	sterigmatocystin	*

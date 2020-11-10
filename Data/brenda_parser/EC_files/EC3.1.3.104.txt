@@ -1,0 +1,6 @@
+KCAT	Bacteroides thetaiotaomicron	0.016	5-amino-6-(5-phospho-D-ribitylamino)uracil	*pH 25&deg;C, pH 7.5
+KCAT	Arabidopsis thaliana	0.13	5-amino-6-(5-phospho-D-ribitylamino)uracil	*pH 8.0, 30&deg;C
+KCAT	Arabidopsis thaliana	0.59	FMN	*pH 8.0, 30&deg;C
+KCAT	Bacteroides thetaiotaomicron	1.5	D-ribitol 5-phosphate	*pH 25&deg;C, pH 7.5
+KCAT	Bacteroides thetaiotaomicron	1.8	D-ribitol 1-phosphate	*pH 25&deg;C, pH 7.5
+KCAT	Arabidopsis thaliana	2.8	5-amino-6-(5-phospho-D-ribitylamino)uracil	*pH 8.0, 30&deg;C

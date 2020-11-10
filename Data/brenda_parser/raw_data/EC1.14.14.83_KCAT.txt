@@ -1,0 +1,1 @@
+ecNumber*1.14.14.83#turnoverNumber*0.131#turnoverNumberMaximum*#substrate*geraniol#commentary*pH 8.0, 30&deg;C, recombinant enzyme#organism*Catharanthus roseus#ligandStructureId*987#literature*715234#!ecNumber*1.14.14.83#turnoverNumber*2.8#turnoverNumberMaximum*#substrate*geraniol#commentary*pH 7.4, 27&deg;C#organism*Catharanthus roseus#ligandStructureId*987#literature*745686#

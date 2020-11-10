@@ -1,0 +1,5 @@
+KCAT	Pantoea agglomerans	0.135	L-valine	*pH 8.0, 22&deg;C
+KCAT	Pantoea agglomerans	0.16	L-isoleucine	*pH 8.0, 22&deg;C
+KCAT	Pantoea agglomerans	0.19	L-leucine	*pH 8.0, 22&deg;C
+KCAT	Pantoea agglomerans	0.35	(2E)-4-[[(2S)-2-amino-2-carboxyethyl]amino]-4-oxobut-2-enoate	*pH 8.0, 22&deg;C
+KCAT	Pantoea agglomerans	3	Nbeta-(R,R)-trans-epoxysuccinamoyl-(2S)-2,3-diaminopropionate	*pH 8.0, 22&deg;C

@@ -1,0 +1,1 @@
+ecNumber*5.5.1.10#turnoverNumber*250#turnoverNumberMaximum*#substrate*alpha-pinene#commentary*pH 9.0, 30&deg;C#organism*Nocardia sp.#ligandStructureId*7315#literature*648893#

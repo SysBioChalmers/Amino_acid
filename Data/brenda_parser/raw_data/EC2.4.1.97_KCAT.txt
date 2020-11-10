@@ -1,0 +1,1 @@
+ecNumber*2.4.1.97#turnoverNumber*400#turnoverNumberMaximum*#substrate*laminaritriose#commentary*with phosphate, pH 7.5, 30&deg;C#organism*Ochromonas danica#ligandStructureId*1875#literature*724604#

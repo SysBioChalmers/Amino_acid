@@ -1,0 +1,1 @@
+ecNumber*2.4.1.222#turnoverNumber*0.08#turnoverNumberMaximum*#substrate*UDP-beta-D-GlcNAc#commentary*wild-type, pH 6.8, 37&deg;C#organism*Mus musculus#ligandStructureId*8457#literature*704581#

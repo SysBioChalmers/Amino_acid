@@ -1,0 +1,1 @@
+ecNumber*2.7.1.164#turnoverNumber*0.069#turnoverNumberMaximum*#substrate*ATP#commentary*37&deg;C#organism*Methanocaldococcus jannaschii#ligandStructureId*4#literature*694429#!ecNumber*2.7.1.164#turnoverNumber*0.098#turnoverNumberMaximum*#substrate*L-seryl-tRNASec#commentary*37&deg;C#organism*Methanocaldococcus jannaschii#ligandStructureId*4086#literature*694429#

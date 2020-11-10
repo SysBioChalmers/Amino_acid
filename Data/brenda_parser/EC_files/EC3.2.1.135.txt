@@ -1,0 +1,7 @@
+KCAT	Thermoanaerobacter ethanolicus	298.3	starch	*TetApuM955
+KCAT	Thermoanaerobacter ethanolicus	313.3	starch	*TetApuR855
+KCAT	Ruminococcus bromii	297	pullulan	*45&Acirc;&deg;C, pH 5.0
+KCAT	Thermoanaerobacter ethanolicus	828.3	pullulan	*TetApuM955
+KCAT	Thermoanaerobacter ethanolicus	1010	pullulan	*TetApuR855
+KCAT	Geobacillus stearothermophilus	62000	pullulan	*
+KCAT	Geobacillus stearothermophilus	111000	soluble starch	*

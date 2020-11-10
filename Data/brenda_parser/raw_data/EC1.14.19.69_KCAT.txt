@@ -1,0 +1,1 @@
+ecNumber*1.14.19.69#turnoverNumber*0.017#turnoverNumberMaximum*#substrate*flaviolin#commentary*pH 7.5, 37&deg;C#organism*Streptomyces coelicolor#ligandStructureId*4425#literature*687498#

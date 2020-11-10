@@ -1,0 +1,4 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.058	GTP	*pH 8.8, 37&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	1.8	GTP	*
+KCAT	Methanocaldococcus jannaschii	4.7	adenosylcobinamide phosphate	*
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.093	5'-deoxyadenosylcobinamide phosphate	*pH 8.8, 37&Acirc;&deg;C

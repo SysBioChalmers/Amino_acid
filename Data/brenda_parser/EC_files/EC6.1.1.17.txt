@@ -1,0 +1,32 @@
+KCAT	Thermus thermophilus	-999	more	*turnover numbers of wild-type and mutant enzymes
+KCAT	Escherichia coli	-999	more	*activity with diverse modified forms of tRNAAsp and tRNAGlu
+KCAT	Escherichia coli	-999	more	*diverse tRNAGlu mutants
+KCAT	Escherichia coli	0.0058	tRNAGlu	*wild-type
+KCAT	Methanothermobacter thermautotrophicus	0.006	tRNAGln(UUG)	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	0.016	tRNAGlu	*in presence of the GluRS-Arc1p complex
+KCAT	Methanothermobacter thermautotrophicus	0.04	tRNAGlu	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Methanothermobacter thermautotrophicus	0.041	tRNAGln(CUG)	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Thermus thermophilus	0.18	C36G mutant tRNAGlu	*recombinant wild-type enzyme, 65&deg;C
+KCAT	Mycobacterium tuberculosis	0.272	ATP	*pH 7.3, 37&deg;C
+KCAT	Escherichia coli	0.3	Glu-tRNA	*
+KCAT	Homo sapiens	0.31	tRNAGlu	*
+KCAT	Mycobacterium tuberculosis	0.408	tRNAGlu	*pH 7.3, 37&deg;C
+KCAT	Plasmodium falciparum	0.42	tRNAGln	*in 100 mM HEPES-KOH, pH 7.2, 30 mM KOH, 12 mM MgCl2, 2 mM dithiothreitol, at 37&deg;C
+KCAT	Plasmodium falciparum	0.43	tRNAGlu	*in 100 mM HEPES-KOH, pH 7.2, 30 mM KOH, 12 mM MgCl2, 2 mM dithiothreitol, at 37&deg;C
+KCAT	Escherichia coli	0.8	GlutRNA	*
+KCAT	Pseudomonas aeruginosa	0.8	tRNAGlu	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.95	tRNAGln	*
+KCAT	Plasmodium falciparum	1.18	ATP	*in 100 mM HEPES-KOH, pH 7.2, 30 mM KOH, 12 mM MgCl2, 2 mM dithiothreitol, at 37&deg;C
+KCAT	Plasmodium falciparum	1.39	L-glutamate	*in 100 mM HEPES-KOH, pH 7.2, 30 mM KOH, 12 mM MgCl2, 2 mM dithiothreitol, at 37&deg;C
+KCAT	Thermus thermophilus	1.4	C36G mutant tRNAGlu	*recombinant mutant enzyme R358Q, 65&deg;C
+KCAT	Saccharomyces cerevisiae	1.5	L-glutamate	*pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	1.5	tRNAGlu	*pH and temperature not specified in the publication
+KCAT	Thermus thermophilus	1.5	wild-type tRNAGlu	*recombinant mutant enzyme R358Q, 65&deg;C
+KCAT	Thermus thermophilus	2.1	wild-type tRNAGlu	*recombinant wild-type enzyme, 65&deg;C
+KCAT	Plasmodium falciparum	2.11	tRNAGln	*in the presence of diphosphatase, in 100 mM HEPES-KOH, pH 7.2, 30 mM KOH, 12 mM MgCl2, 2 mM dithiothreitol, at 37&deg;C
+KCAT	Mycobacterium tuberculosis	2.15	L-glutamate	*pH 7.3, 37&deg;C
+KCAT	Escherichia coli	2.2	ATP	*
+KCAT	Escherichia coli	2.2	Glu	*
+KCAT	Escherichia coli	3	tRNAGlu	*wild-type tRNA substrate, pH 7.2, 37&deg;C
+KCAT	Escherichia coli	3.4	Glu-tRNA	*
+KCAT	Plasmodium falciparum	3.61	tRNAGlu	*in the presence of diphosphatase, in 100 mM HEPES-KOH, pH 7.2, 30 mM KOH, 12 mM MgCl2, 2 mM dithiothreitol, at 37&deg;C

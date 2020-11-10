@@ -1,0 +1,2 @@
+KCAT	Aspergillus fumigatus	2	4-dimethylallyl-L-tryptophan	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Aspergillus fumigatus	2	S-adenosyl-L-methionine	*pH 7.5, 37&deg;C, recombinant enzyme

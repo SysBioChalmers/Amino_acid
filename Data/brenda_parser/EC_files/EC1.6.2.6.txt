@@ -1,0 +1,7 @@
+KCAT	Glycine max	137	NADH	*recombinant FLbR-2
+KCAT	Glycine max	31	Lipoamide	*recombinant enzyme
+KCAT	Glycine max	392	Lipoamide	*recombinant FLbR-2
+KCAT	Glycine max	1.6	ferrileghemoglobin	*recombinant FLbR-2
+KCAT	Vigna unguiculata	2.5	ferrileghemoglobin	*soybean ferrileghemoglobin
+KCAT	Vigna unguiculata	3.1	ferrileghemoglobin	*cowpea ferrileghemoglobin
+KCAT	Glycine max	6.2	ferrileghemoglobin	*native enzyme; recombinant enzyme

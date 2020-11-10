@@ -1,0 +1,10 @@
+KCAT	Medicago sativa	-999	more	*
+KCAT	Hypericum androsaemum	0.007	4-coumaroyl-CoA	*pH 7.0, 35&deg;C, mutant enzyme L263M/F265Y/S338G
+KCAT	Hypericum androsaemum	0.0113	benzoyl-CoA	*pH 7.0, 35&deg;C, wild-type enzyme
+KCAT	Hypericum androsaemum	0.0156	benzoyl-CoA	*pH 7.0, 35&deg;C, mutant enzyme L263M/F265Y/S338G
+KCAT	Scutellaria baicalensis	0.0167	4-coumaroyl-CoA	*pH 8.0, 30&deg;C
+KCAT	Scutellaria baicalensis	0.021	4-coumaroyl-CoA	*
+KCAT	Hypericum androsaemum	0.042	4-coumaroyl-CoA	*pH 7.0, 35&deg;C, wild-type enzyme
+KCAT	Scutellaria baicalensis	0.044	decanoyl-CoA	*pH 8.0, 30&deg;C
+KCAT	Scutellaria baicalensis	0.066	octanoyl-CoA	*pH 8.0, 30&deg;C
+KCAT	Scutellaria baicalensis	0.147	hexanoyl-CoA	*pH 8.0, 30&deg;C

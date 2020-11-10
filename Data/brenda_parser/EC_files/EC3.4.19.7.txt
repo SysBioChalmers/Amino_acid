@@ -1,0 +1,10 @@
+KCAT	Rattus norvegicus	12.3	N-Formyl-Met-Leu-Phe	*
+KCAT	Rattus norvegicus	5.94	N-Formyl-Met-Val	*
+KCAT	Rattus norvegicus	76.4	N-Formyl-Met 2-naphthylamide	*
+KCAT	Rattus norvegicus	230	N-Formyl-Met 2-naphthylamide	*
+KCAT	Rattus norvegicus	5.17	N-Formyl-Met-Leu	*
+KCAT	Rattus norvegicus	5.45	Acetyl-Met-Leu	*
+KCAT	Rattus norvegicus	27.1	Acetyl-Met-Leu-Phe	*
+KCAT	Rattus norvegicus	15.5	N-Formyl-Met-Leu-Tyr	*
+KCAT	Rattus norvegicus	70.2	N-Formyl-Met-Phe	*
+KCAT	Rattus norvegicus	31.3	N-Formyl-Met-Trp	*

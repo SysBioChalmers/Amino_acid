@@ -1,0 +1,41 @@
+KCAT	Thermotoga maritima	-999	more	*values for PRAI variants
+KCAT	Thermotoga maritima	0.000092	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D130T, mutant form of imidazole glycerol phosphate synthase
+KCAT	Thermotoga maritima	0.00018	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D130V, mutant form of imidazole glycerol phosphate synthase
+KCAT	Thermotoga maritima	0.000183	N-(5-phospho-beta-D-ribosyl)anthranilate	*mutant enzyme D130V, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Thermotoga maritima	0.00022	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D130P, mutant form of imidazole glycerol phosphate synthase
+KCAT	Thermotoga maritima	0.000283	N-(5-phospho-beta-D-ribosyl)anthranilate	*mutant enzyme D173V, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Thermotoga maritima	0.0012	N-(5-phospho-beta-D-ribosyl)anthranilate	*mutant enzyme D130V/D176V, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Thermotoga maritima	0.0013	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D127G, mutant form of EC 5.3.1.6
+KCAT	Thermotoga maritima	0.0017	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D127K, mutant form of EC 5.3.1.6
+KCAT	Thermotoga maritima	0.0023	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D127F, mutant form of EC 5.3.1.6
+KCAT	Thermotoga maritima	0.0027	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D127T, mutant form of EC 5.3.1.6
+KCAT	Thermotoga maritima	0.0086	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D127V, mutant form of EC 5.3.1.6
+KCAT	Thermotoga maritima	0.009	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, D127V/T164H, mutant form of EC 5.3.1.6
+KCAT	Thermotoga maritima	0.009	N-(5-phospho-beta-D-ribosyl)anthranilate	*mutant enzyme D127V, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Thermotoga maritima	0.028	N-(5-phospho-beta-D-ribosyl)anthranilate	*mutant enzyme D169V, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Thermotoga maritima	0.032	N-(5-phospho-beta-D-ribosyl)anthranilate	*mutant enzyme D127V/D173V, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Thermotoga maritima	0.522	N-(5-phospho-beta-D-ribosyl)anthranilate	*mutant enzyme D127V/D169V, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Streptomyces coelicolor	1.4	N-(5-phospho-beta-D-ribosyl)anthranilate	*PriA mutant R19A, PRA isomerase activity
+KCAT	Streptomyces coelicolor	3.4	N-(5-phospho-beta-D-ribosyl)anthranilate	*PriA, PRA isomerase activity
+KCAT	Thermotoga maritima	3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, dimer
+KCAT	Thermotoga maritima	3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, dimer
+KCAT	Thermotoga maritima	3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, dimer
+KCAT	Thermotoga maritima	3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, dimer
+KCAT	Thermotoga maritima	3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	*in 50 mM HEPES, pH 7.5 at 25&deg;C
+KCAT	Thermotoga maritima	3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	*wild type enzyme, in 50 mM HEPES, pH 7.5, at 25&deg;C
+KCAT	Streptomyces coelicolor	12	N-(5-phospho-beta-D-ribosyl)anthranilate	*PriA, PRA isomerase activity
+KCAT	Thermotoga maritima	13.5	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 45&deg;C, dimer
+KCAT	Thermotoga maritima	13.5	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 45&deg;C, dimer
+KCAT	Escherichia coli	32	N-(5-phospho-beta-D-ribosyl)anthranilate	*25&deg;C, monomeric domain PRAI[ML256-452]
+KCAT	Escherichia coli	32	N-(5-phospho-beta-D-ribosyl)anthranilate	*25&deg;C, monomeric domain PRAI[ML256-452]; pH 7.5
+KCAT	Thermotoga maritima	38.5	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 60&deg;C, dimer
+KCAT	Thermotoga maritima	38.5	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 60&deg;C, dimer
+KCAT	Escherichia coli	39	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 20&deg;C
+KCAT	Escherichia coli	40	N-(5-phospho-beta-D-ribosyl)anthranilate	*25&deg;C; bifunctional IGPS:PRAI
+KCAT	Escherichia coli	40	N-(5-phospho-beta-D-ribosyl)anthranilate	*bifunctional IGPS:PRAI
+KCAT	Escherichia coli	40	N-(5-phospho-beta-D-ribosyl)anthranilate	*bifunctional IGPS:PRAI; pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	50	N-(5-phospho-beta-D-ribosyl)anthranilate	*30&deg;C
+KCAT	Escherichia coli	50	N-(5-phospho-beta-D-ribosyl)anthranilate	*
+KCAT	Saccharomyces cerevisiae	69	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 25&deg;C, recombinant xPRAI, expressed in E. coli
+KCAT	Thermotoga maritima	130	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 80&deg;C, dimer
+KCAT	Thermotoga maritima	130	N-(5-phospho-beta-D-ribosyl)anthranilate	*pH 7.5, 80&deg;C, dimer

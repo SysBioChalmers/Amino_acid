@@ -1,0 +1,1 @@
+ecNumber*2.4.2.54#turnoverNumber*0.23#turnoverNumberMaximum*#substrate*5-phospho-alpha-D-ribose 1-diphosphate#commentary*pH 4.8, 70&deg;C#organism*Methanocaldococcus jannaschii#ligandStructureId*158#literature*719820#

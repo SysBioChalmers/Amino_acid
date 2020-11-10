@@ -1,0 +1,20 @@
+KCAT	Saccharomyces cerevisiae	90	ATP	*pH 7.7, 25&Acirc;&ordm;C, reverse reaction
+KCAT	Bos taurus	130	GTP	*calculated as GDP produced
+KCAT	Oryza sativa Japonica Group	23	GMP	*recombinant chloroplast isozyme, pH 7.5, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	52	GMP	*recombinant isozyme, pH 7.5, 30&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	70	GMP	*recombinant cytosolic isozyme, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	209	GMP	*recombinant cytosolic isozyme, pH 7.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	394	GMP	*pH 7.7, 25&Acirc;&ordm;C, forward reaction
+KCAT	Plasmodium falciparum	848	GMP	*mutant E101D
+KCAT	Plasmodium falciparum	946	GMP	*wild-type enzyme
+KCAT	Plasmodium falciparum	1032	GMP	*mutant Y76F
+KCAT	Plasmodium falciparum	1080	GMP	*mutant N103D
+KCAT	Plasmodium falciparum	1121	GMP	*mutant D74A
+KCAT	Brugia malayi	1500	GMP	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	2	dGMP	*mutant Y76F
+KCAT	Plasmodium falciparum	26.5	dGMP	*mutant E101D
+KCAT	Plasmodium falciparum	26.8	dGMP	*mutant N103D
+KCAT	Plasmodium falciparum	33.1	dGMP	*mutant D74A
+KCAT	Plasmodium falciparum	43	dGMP	*wild-type enzyme
+KCAT	Saccharomyces cerevisiae	51	dGMP	*pH 7.5, 25&Acirc;&ordm;C
+KCAT	Brugia malayi	510	dGMP	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme

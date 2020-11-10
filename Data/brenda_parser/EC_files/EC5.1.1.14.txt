@@ -1,0 +1,2 @@
+KCAT	Nocardia uniformis	0.35	nocardicin A	*
+KCAT	Nocardia uniformis	0.59	isonocardicin A	*

@@ -1,0 +1,16 @@
+KCAT	Arabidopsis thaliana	-999	more	*
+KCAT	Saccharomyces cerevisiae	-999	more	*
+KCAT	Homo sapiens	0.032	HIV1 Nef protein N-terminal peptide	*pH 7.4, 37&deg;C, isozyme NMT2; pH 7.4, 37&deg;C, isozyme NMT2
+KCAT	Homo sapiens	0.052	HIV1 Nef protein N-terminal peptide	*pH 7.4, 37&deg;C, isozyme NMT1; pH 7.4, 37&deg;C, isozyme NMT1
+KCAT	Homo sapiens	0.107	HIV1 Gag protein N-terminal peptide	*pH 7.4, 37&deg;C, isozyme NMT2; pH 7.4, 37&deg;C, isozyme NMT2
+KCAT	Trypanosoma cruzi	0.15	CAP5.5 peptide	*source Trypanosoma cruzi, pH 7.4, 30&deg;C
+KCAT	Arabidopsis thaliana	0.234	myristoyl-CoA	*pH 8.0, 30&deg;C, continuous assay
+KCAT	Homo sapiens	0.265	HIV1 Gag protein N-terminal peptide	*pH 7.4, 37&deg;C, isozyme NMT1; pH 7.4, 37&deg;C, isozyme NMT1
+KCAT	Trypanosoma cruzi	0.34	myristoyl-CoA	*pH 7.4, 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.49	myristoyl-CoA	*pH 8.0, 30&deg;C, continuous assay
+KCAT	Trypanosoma cruzi	2.11	CAP5.5 peptide	*source Trypanosoma brucei, pH 7.4, 30&deg;C
+KCAT	Saccharomyces cerevisiae	13.8	myristoyl-CoA	*chemical transformation step
+KCAT	Trypanosoma brucei	18.2	GCGGSKVK	*
+KCAT	Leishmania major	23.6	myristoyl-CoA	*
+KCAT	Leishmania major	24	GQLFTSLN	*
+KCAT	Trypanosoma brucei	76.8	myristoyl-CoA	*

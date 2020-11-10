@@ -1,0 +1,14 @@
+KCAT	Homo sapiens	16.1	Benzyloxycarbonyl-Gly-Phe	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	16.8	Benzyloxycarbonyl-Gly-Phe	*
+KCAT	Homo sapiens	58.1	benzyloxycarbonyl-Gly-Gly-Phe	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	90.3	benzyloxycarbonyl-Gly-Gly-Phe	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	9.7	Benzyloxycarbonyl-Gly-Tyr	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	14.4	Benzyloxycarbonyl-Gly-Tyr	*
+KCAT	Homo sapiens	9.3	hippuryl-L-phenylalanine	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Homo sapiens	11.8	benzyloxycarbonyl-Gly-Gly-Leu	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	14	benzyloxycarbonyl-Gly-Gly-Leu	*
+KCAT	Rattus norvegicus	26.6	benzyloxycarbonyl-Gly-Trp	*
+KCAT	Homo sapiens	5.1	methotrexate-alpha-phenylalanine	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Homo sapiens	22	methotrexate-alpha-(1-naphthyl)alanine	*pH 7.4, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Rattus norvegicus	96.9	benzyloxycarbonyl-Gly-Gly-Trp	*
+KCAT	Homo sapiens	70	benzyloxycarbonyl-Gly-Gly-Tyr	*pH 7.5, 25&Acirc;&deg;C

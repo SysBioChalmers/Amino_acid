@@ -1,0 +1,1 @@
+ecNumber*2.8.3.19#turnoverNumber*11#turnoverNumberMaximum*#substrate*acetyl-CoA#commentary*at pH 6.7 and 25&deg;C#organism*Escherichia coli#ligandStructureId*29#literature*726342#!ecNumber*2.8.3.19#turnoverNumber*15#turnoverNumberMaximum*#substrate*oxalate#commentary*at pH 6.7 and 25&deg;C#organism*Escherichia coli#ligandStructureId*185#literature*726342#

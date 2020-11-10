@@ -1,0 +1,8 @@
+KCAT	Homo sapiens	0.007	GDP-L-fucose	*wild type isoform FUT1, in 50 mM Tris-HCl (pH 7.2), at 37&deg;C
+KCAT	Homo sapiens	0.011	phenyl-beta-D-galactoside	*isoform FUT1 mutant C35T, in 50 mM Tris-HCl (pH 7.2), at 37&deg;C; wild type isoform FUT1, in 50 mM Tris-HCl (pH 7.2), at 37&deg;C
+KCAT	Escherichia coli	0.0173	methyl beta-D-galactopyranoside	*
+KCAT	Escherichia coli	0.0497	lactose	*
+KCAT	Escherichia coli	0.066	GDP-beta-L-fucose	*at pH 7.6 and 30&deg;C
+KCAT	Escherichia coli	0.067	D-lactose	*at pH 7.6 and 30&deg;C
+KCAT	Escherichia coli	0.131	GDP-fucose	*
+KCAT	Escherichia coli	0.151	lactulose	*

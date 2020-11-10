@@ -1,0 +1,83 @@
+KCAT	Homo sapiens	-999	2-[5-Amino-2-(4-fluoro-phenyl)-6-oxo-6H-pyrimidin-1-yl]-N-(1-benzyl-2-oxo-2-thiazol-2-yl-ethyl)-acetamide	*the catalytic efficiency kcat/Km, of phospholipid vesicles containing 20 or 35% phosphatidylethanolamine and no phosphatidylserine is 5.5fold higher than that of vesicles containing 1% phosphatidylserine and no phosphatidylethanolamine
+KCAT	Homo sapiens	0.005	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	*mutant enzyme FIXagamma225P
+KCAT	Homo sapiens	0.058	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	*mutant enzyme FIXagamma225P, in presence of 200 mM Na+
+KCAT	Homo sapiens	0.42	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	*wild type enzyme FIXa
+KCAT	Homo sapiens	0.63	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	*wild type enzyme FIXa, in presence of 200 mM Na+
+KCAT	Homo sapiens	0.78	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	*mutant enzyme FIXagamma225P, in presence of Ca2+ and 185 mM Na+
+KCAT	Homo sapiens	0.89	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	*mutant enzyme FIXagamma225P, in presence of 200 mM Ca2+
+KCAT	Homo sapiens	3.15	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	*wild type enzyme FIXa, in presence of 200 mM Ca2+
+KCAT	Homo sapiens	3.38	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	*wild type enzyme FIXa, in presence of Ca2+ and 185 mM Na+
+KCAT	Homo sapiens	18.5	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme, in absence of NaCl
+KCAT	Homo sapiens	18.5	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	*pH 7.5, 22&Acirc;&deg;C, in presence of 5 mM Ca2+
+KCAT	Homo sapiens	19	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	*pH 7.5, 22&Acirc;&deg;C, in presence of 5 mM Ca2+ and 0.2 M LiCl
+KCAT	Homo sapiens	20.2	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme, in presence of 0.2 M NaCl
+KCAT	Homo sapiens	20.2	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	*pH 7.5, 22&Acirc;&deg;C, in presence of 5 mM Ca2+ and 0.2 M NaCl
+KCAT	Homo sapiens	21.3	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	*pH 7.5, 22&Acirc;&deg;C, in presence of 5 mM Ca2+ and 0.2 M ChCl
+KCAT	Homo sapiens	21.9	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	*pH 7.5, 22&Acirc;&deg;C, in presence of 5 mM Ca2+ and 0.2 M RbCl
+KCAT	Homo sapiens	17.5	L-Leu-Gly-L-Arg-4-nitroanilide	*FIXa/FXa chimera in which the 39-loop of the protease is replaced with the corresponding loop of FXa, in 0.02 M Tris-HCl (pH 7.5) buffer containing 0.1 M NaCl, 0.1 mg/ml bovine serum albumin, 33% ethylene glycol, and 5 mM Ca2+, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	21.4	L-Leu-Gly-L-Arg-4-nitroanilide	*wild type enzyme, in 0.02 M Tris-HCl (pH 7.5) buffer containing 0.1 M NaCl, 0.1 mg/ml bovine serum albumin, 33% ethylene glycol, and 5 mM Ca2+, at 22&Acirc;&deg;C
+KCAT	Homo sapiens	2.01	methoxycarbonyl-D-Nle-Gly-Arg-p-nitroanilide	*rFIXa, at pH 7.4, in the presence of 33% v/v ethylene glycol
+KCAT	Homo sapiens	5.67	methylsulfonyl-D-cyclohexylglycyl-Gly-Arg-p-nitroanilide	*rFIXa, at pH 7.4, in the presence of 33% v/v ethylene glycol
+KCAT	Homo sapiens	6.11	methylsulfonyl-D-hexahydrotyrosyl-Gly-Arg-p-nitroanilide	*rFIXa, at pH 7.4, in the presence of 33% v/v ethylene glycol
+KCAT	Homo sapiens	13.2	CH3SO2-D-Leu-Gly-L-Arg-p-nitroanilide	*
+KCAT	Homo sapiens	-999	more	*the catalytic efficiency kcat/Km, of phospholipid vesicles containing 20 or 35% phosphatidylethanolamine and no phosphatidylserine is 5.5fold higher than that of vesicles containing 1% phosphatidylserine and no phosphatidylethanolamine
+KCAT	Homo sapiens	0.00011	Factor X	*mutant Y94F/K98T/Y177F, FX activation in presence of FVIIIa
+KCAT	Homo sapiens	0.00016	Factor X	*25&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	0.00017	Factor X	*wild type FIXa, FX activation in presence of FVIIIa
+KCAT	Homo sapiens	0.0002	Factor X	*mutant Y94F/A95aK/K98T/Y177F/I213V/E219G, FX activation in presence of FVIIIa
+KCAT	Homo sapiens	0.00021	Factor X	*plasma-derived FIXa, FX activation in absence of FVIIIa
+KCAT	Homo sapiens	0.00022	Factor X	*plasma-derived FIXa, FX activation in presence of FVIIIa
+KCAT	Homo sapiens	0.00023	Factor X	*25&Acirc;&deg;C, pH 7.4, in the presence of GIGAVLKVLTTGLPALISSWIKRKRQQ
+KCAT	Homo sapiens	0.00025	Factor X	*25&Acirc;&deg;C, pH 7.4, in the presence of TRYLRIHPQSWVHQIALRMEV
+KCAT	Homo sapiens	0.00029	Factor X	*wild type FIXa, FX activation in absence of FVIIIa
+KCAT	Homo sapiens	0.0003	Factor X	*mutant Y94F/K98T, FX activation in presence of FVIIIa
+KCAT	Homo sapiens	0.00033	Factor X	*mutant Y94F/K98T/Y177F, FX activation in absence of FVIIIa
+KCAT	Homo sapiens	0.00059	Factor X	*mutant Y94F/K98T, FX activation in absence of FVIIIa
+KCAT	Homo sapiens	0.0008	Factor X	*
+KCAT	Homo sapiens	0.00088	Factor X	*mutant Y94F/K98T/Y177F/I213V/E219, FX activation in presence of FVIIIa
+KCAT	Homo sapiens	0.00096	Factor X	*mutant enzyme E410H, in the absence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C; mutant enzyme E410N, in the absence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.001	Factor X	*in the presence of 0.1 mM phospholipid and 5 mM Ca2+
+KCAT	Homo sapiens	0.001	Factor X	*mutant Y94F/A95aK/K98T/Y177F/I213V/E219G, FX activation in absence of FVIIIa
+KCAT	Homo sapiens	0.00105	Factor X	*mutant enzyme E410A, in the absence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0012	Factor X	*mutant enzyme E410L, in the absence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00127	Factor X	*wild type enzyme, in the absence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00157	Factor X	*wild type enzyme, in the presence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.002	Factor X	*FIXa, in the absence of platelet surface
+KCAT	Homo sapiens	0.0022	Factor X	*mutant Y94F/K98T/Y177F/I213V/E219, FX activation in absence of FVIIIa
+KCAT	Homo sapiens	0.00248	Factor X	*mutant enzyme E410N, in the presence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00361	Factor X	*mutant enzyme E410L, in the presence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00397	Factor X	*mutant enzyme E410H, in the presence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00399	Factor X	*mutant enzyme E410A, in the presence of factor VIIIa, at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.048	Factor X	*in the presence of emicizumab, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.38	Factor X	*25&Acirc;&deg;C, pH 7.4, in the presence of phospholipid vesicle containing 79% phosphatidylcholine, 1% phosphatidylserine and 20% phosphatidylethanolamine
+KCAT	Homo sapiens	1	Factor X	*FIXa/FXa chimera in which the 39-loop of the protease is replaced with the corresponding loop of FXa, in TBS containing 0.1 mg/ml bovine serum albumin, 0.1% polyethylene glycol (PEG) 8000, and 5 mM Ca2+, at 22&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	1.9	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant R165A the intrinsic tenase complex, in absence of ethylene glycol
+KCAT	Homo sapiens	2.1	Factor X	*in the presence of factor VIIIa, pH and temperature not specified in the publication
+KCAT	Homo sapiens	2.9	Factor X	*mutant enzyme rFIXa104A, 5 units/ml FVIIIa and SFLLRN-activated platelets supplemented with bovine serum albumine (2 mg/ml) and 5 mM CaCl2, at 37 &Acirc;&deg;C; mutant enzyme rFIXa94A, 5 units/ml FVIIIa and SFLLRN-activated platelets supplemented with bovine serum albumine (2 mg/ml) and 5 mM CaCl2, at 37 &Acirc;&deg;C
+KCAT	Homo sapiens	3.2	Factor X	*chimera enzyme FIXaN, in the presence of SFLLRN-activated platelets
+KCAT	Homo sapiens	3.3	Factor X	*chimera enzyme FIX7EGF2, in the presence of SFLLRN-activated platelets
+KCAT	Homo sapiens	3.3	Factor X	*mutant enzyme rFIXa107A, 5 units/ml FVIIIa and SFLLRN-activated platelets supplemented with bovine serum albumine (2 mg/ml) and 5 mM CaCl2, at 37 &Acirc;&deg;C
+KCAT	Homo sapiens	3.4	Factor X	*plasma-derived FIXa, 5 units/ml FVIIIa and SFLLRN-activated platelets supplemented with bovine serum albumine (2 mg/ml) and 5 mM CaCl2, at 37 &Acirc;&deg;C
+KCAT	Homo sapiens	3.5	Factor X	*
+KCAT	Homo sapiens	3.5	Factor X	*wild type enzyme, in TBS containing 0.1 mg/ml bovine serum albumin, 0.1% polyethylene glycol (PEG) 8000, and 5 mM Ca2+, at 22&Acirc;&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	3.8	Factor X	*chimera enzyme FIX7omegaloop, in the presence of SFLLRN-activated platelets
+KCAT	Homo sapiens	3.8	Factor X	*mutant enzyme rFIXa105A, 5 units/ml FVIIIa and SFLLRN-activated platelets supplemented with bovine serum albumine (2 mg/ml) and 5 mM CaCl2, at 37 &Acirc;&deg;C
+KCAT	Homo sapiens	4.1	Factor X	*mutant enzyme rFIXa90A, 5 units/ml FVIIIa and SFLLRN-activated platelets supplemented with bovine serum albumine (2 mg/ml) and 5 mM CaCl2, at 37 &Acirc;&deg;C
+KCAT	Homo sapiens	5.08	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant N178A the intrinsic tenase complex, in absence of ethylene glycol
+KCAT	Homo sapiens	5.2	Factor X	*mutant enzyme rFIXa91A, 5 units/ml FVIIIa and SFLLRN-activated platelets supplemented with bovine serum albumine (2 mg/ml) and 5 mM CaCl2, at 37 &Acirc;&deg;C
+KCAT	Homo sapiens	5.2	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant K126A the intrinsic tenase complex, in absence of ethylene glycol
+KCAT	Homo sapiens	5.47	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant K132A the intrinsic tenase complex, in absence of ethylene glycol
+KCAT	Homo sapiens	5.51	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme the intrinsic tenase complex, in absence of ethylene glycol
+KCAT	Homo sapiens	5.6	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant N129A the intrinsic tenase complex, in absence of ethylene glycol
+KCAT	Homo sapiens	12.3	Factor X	*factor IXaAL
+KCAT	Homo sapiens	16.6	Factor X	*mutant enzyme rFIXa89A, 5 units/ml FVIIIa and SFLLRN-activated platelets supplemented with bovine serum albumine (2 mg/ml) and 5 mM CaCl2, at 37 &Acirc;&deg;C
+KCAT	Homo sapiens	20.8	Factor X	*factor IXaCH
+KCAT	Homo sapiens	31.2	Factor X	*
+KCAT	Homo sapiens	43.9	Factor X	*factor IXaAL, platelet-bound
+KCAT	Homo sapiens	44.5	Factor X	*
+KCAT	Homo sapiens	110	Factor X	*factor IXaCH , platelet-bound
+KCAT	Homo sapiens	600	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant N178A the intrinsic tenase complex, in presence of 30% ethylene glycol
+KCAT	Homo sapiens	1000	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant R165A the intrinsic tenase complex, in presence of 30% ethylene glycol
+KCAT	Homo sapiens	1340	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme and mutant N129A, each in the intrinsic tenase complex, in presence of 30% ethylene glycol
+KCAT	Homo sapiens	1780	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant K132A the intrinsic tenase complex, in presence of 30% ethylene glycol
+KCAT	Homo sapiens	1999	Factor X	*pH 7.4, 22&Acirc;&deg;C, recombinant mutant K126A the intrinsic tenase complex, in presence of 30% ethylene glycol

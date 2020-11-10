@@ -1,0 +1,6 @@
+KCAT	Methylorubrum extorquens	5.2	D-cysteine	*pH 7.4, 30&deg;C
+KCAT	Arabidopsis thaliana	6	D-cysteine	*
+KCAT	Escherichia coli	72	D-cysteine	*37&deg;C, pH 8.0
+KCAT	Escherichia coli	281	3-chloro-D-alanine	*37&deg;C, pH 8.0
+KCAT	Pseudomonas putida	654	D-cysteine	*double mutant Pseudomonas putida E295S+L322T
+KCAT	Solanum lycopersicum	13800	D-cysteine	*

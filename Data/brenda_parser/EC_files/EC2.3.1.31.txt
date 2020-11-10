@@ -1,0 +1,57 @@
+KCAT	Thermotoga maritima	1.9	CoA	*25&Acirc;&deg;C, pH 7.5
+KCAT	Bacillus cereus	0.015	acetyl-CoA	*E237A, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	0.02	acetyl-CoA	*mutant E237A
+KCAT	Schizosaccharomyces pombe	0.031	acetyl-CoA	*21&Acirc;&deg;C, pH 8.0, mutant enzyme
+KCAT	Bacillus cereus	0.05	acetyl-CoA	*mutant E237Q
+KCAT	Bacillus cereus	0.052	acetyl-CoA	*E237Q, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	0.07	acetyl-CoA	*K47M, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C; mutant K47M
+KCAT	Bacillus cereus	0.1	acetyl-CoA	*mutant R249M
+KCAT	Bacillus cereus	0.101	acetyl-CoA	*R249M , 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	0.158	acetyl-CoA	*E237D, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	0.16	acetyl-CoA	*mutant E237D
+KCAT	Bacillus cereus	0.328	acetyl-CoA	*K163M, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	0.33	acetyl-CoA	*mutant K163M
+KCAT	Bacillus cereus	0.435	acetyl-CoA	*E250A, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	0.44	acetyl-CoA	*mutant E250A
+KCAT	Bacillus cereus	0.54	acetyl-CoA	*mutant S192A
+KCAT	Bacillus cereus	0.543	acetyl-CoA	*S192A, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Schizosaccharomyces pombe	0.64	acetyl-CoA	*21&Acirc;&deg;C, pH 8.0, mutant enzyme
+KCAT	Bacillus cereus	0.655	acetyl-CoA	*K47R, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	0.66	acetyl-CoA	*mutant K47R
+KCAT	Bacillus cereus	0.977	acetyl-CoA	*wild-type, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Bacillus cereus	0.98	acetyl-CoA	*wild-type
+KCAT	Schizosaccharomyces pombe	8.46	acetyl-CoA	*21&Acirc;&deg;C, pH 8.0, mutant enzyme
+KCAT	Schizosaccharomyces pombe	9.34	acetyl-CoA	*21&Acirc;&deg;C, pH 8.0, wild-type enzyme
+KCAT	Schizosaccharomyces pombe	12.9	acetyl-CoA	*21&Acirc;&deg;C, pH 8.0, mutant enzyme
+KCAT	Thermotoga maritima	23	acetyl-CoA	*25&Acirc;&deg;C, pH 7.5
+KCAT	Haemophilus influenzae	92	acetyl-CoA	*
+KCAT	Thermotoga maritima	0.12	malonyl-CoA	*25&Acirc;&deg;C, pH 7.5
+KCAT	Thermotoga maritima	0.19	succinyl-CoA	*25&Acirc;&deg;C, pH 7.5
+KCAT	Bacillus cereus	0.803	succinyl-CoA	*E111G, 50 mM potassium phosphate buffer, pH 7.5, 2 mM L-homoserine, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	27	butyryl-CoA	*
+KCAT	Schizosaccharomyces pombe	47.2	butyryl-CoA	*21&Acirc;&deg;C, pH 8.0, wild-type enzyme
+KCAT	Streptomyces lavendulae	0.22	L-homoserine	*recombinant His-tagged mutant G52A enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	0.63	L-homoserine	*recombinant His-tagged mutant P55G enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	0.78	L-homoserine	*recombinant His-tagged mutant G52A/P55G enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	1.47	L-homoserine	*recombinant His-tagged wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Schizosaccharomyces pombe	1.67	L-homoserine	*21&Acirc;&deg;C, pH 8.0, mutant enzyme
+KCAT	Schizosaccharomyces pombe	8.4	L-homoserine	*21&Acirc;&deg;C, pH 8.0, mutant enzyme
+KCAT	Schizosaccharomyces pombe	9.6	L-homoserine	*21&Acirc;&deg;C, pH 8.0, wild-type enzyme
+KCAT	Schizosaccharomyces pombe	13.4	L-homoserine	*21&Acirc;&deg;C, pH 8.0, mutant enzyme
+KCAT	Thermotoga maritima	23	L-homoserine	*25&Acirc;&deg;C, pH 7.5
+KCAT	Haemophilus influenzae	92	L-homoserine	*
+KCAT	Cryptococcus neoformans	122	L-homoserine	*
+KCAT	Thermotoga maritima	2.6	propionyl-CoA	*25&Acirc;&deg;C, pH 7.5
+KCAT	Schizosaccharomyces pombe	16.1	propionyl-CoA	*21&Acirc;&deg;C, pH 8.0, wild-type enzyme
+KCAT	Haemophilus influenzae	30	propionyl-CoA	*
+KCAT	Haemophilus influenzae	15	crotonyl-CoA	*
+KCAT	Haemophilus influenzae	7.8	4-nitrophenyl acetate	*
+KCAT	Thermotoga maritima	0.25	glutaryl-CoA	*25&Acirc;&deg;C, pH 7.5
+KCAT	Thermotoga maritima	0.19	isobutyryl-CoA	*25&Acirc;&deg;C, pH 7.5
+KCAT	Haemophilus influenzae	31	O-acetyl-L-homoserine	*
+KCAT	Thermotoga maritima	16	D-homoserine	*25&Acirc;&deg;C, pH 7.5
+KCAT	Haemophilus influenzae	78	D-homoserine	*
+KCAT	Haemophilus influenzae	5	3-Amino-1-propanol	*
+KCAT	Thermotoga maritima	0.12	beta-hydroxybutyryl-CoA	*25&Acirc;&deg;C, pH 7.5
+KCAT	Thermotoga maritima	1.9	O-acetylhomoserine	*25&Acirc;&deg;C, pH 7.5
+KCAT	Haemophilus influenzae	50	4-hydroxybutyric acid	*

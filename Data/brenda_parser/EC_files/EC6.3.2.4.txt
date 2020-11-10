@@ -1,0 +1,30 @@
+KCAT	Mycobacterium tuberculosis	0.00073	ATP	*pH 8.0, 37&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Helicobacter pylori	1.9	ATP	*pH 8.0-9.0, 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.00073	D-alanine	*pH 8.0, 37&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Thermus thermophilus	0.076	D-alanine	*pH 9.0, 40&Acirc;&deg;C, mutant S293E
+KCAT	Thermus thermophilus	0.092	D-alanine	*pH 9.0, 40&Acirc;&deg;C, mutant S293D
+KCAT	Streptomyces lavendulae	1.67	D-alanine	*
+KCAT	Helicobacter pylori	1.9	D-alanine	*pH 8.0-9.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	3.3	D-alanine	*37&Acirc;&deg;C, mutant enzyme E15Q, pH 6.0; 37&Acirc;&deg;C, mutant enzyme S150A, pH 6.0
+KCAT	Escherichia coli	7.5	D-alanine	*37&Acirc;&deg;C, mutant enzyme Y216F, pH 6.0
+KCAT	Escherichia coli	10.5	D-alanine	*37&Acirc;&deg;C, mutant enzyme Y216F, pH 7.5
+KCAT	Escherichia coli	11.83	D-alanine	*37&Acirc;&deg;C, wild-type enzyme, pH 6.0
+KCAT	Escherichia coli	13.7	D-alanine	*37&Acirc;&deg;C, mutant enzyme E15Q, pH 7.5
+KCAT	Escherichia coli	14.7	D-alanine	*37&Acirc;&deg;C, wild-type enzyme, pH 7.5
+KCAT	Escherichia coli	16.3	D-alanine	*37&Acirc;&deg;C, mutant enzyme S150A, pH 7.5
+KCAT	Escherichia coli	18.3	D-alanine	*37&Acirc;&deg;C, mutant enzyme E15Q, pH 9.2; 37&Acirc;&deg;C, mutant enzyme S150A, pH 9.2
+KCAT	Escherichia coli	20	D-alanine	*37&Acirc;&deg;C, mutant enzyme Y216F, pH 9.2
+KCAT	Escherichia coli	26.7	D-alanine	*37&Acirc;&deg;C, wild-type enzyme, pH 9.2
+KCAT	Acinetobacter baumannii	30.08	D-alanine	*pH 7.8, 45&Acirc;&deg;C
+KCAT	Escherichia coli	31.2	D-alanine	*
+KCAT	Chlamydia trachomatis	48.5	D-alanine	*
+KCAT	Escherichia coli	4.92	D-Ala	*
+KCAT	Escherichia coli	7.4	D-Ala	*ligase A
+KCAT	Escherichia coli	17	D-Ala	*ligase B
+KCAT	Escherichia coli	2.6	D-serine	*
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*
+KCAT	Escherichia coli	-999	more	*turnover numbers of wild-type and mutant enzyme forms
+KCAT	Enterococcus faecium	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Leuconostoc mesenteroides	-999	more	*
+KCAT	Enterococcus faecalis	-999	more	*

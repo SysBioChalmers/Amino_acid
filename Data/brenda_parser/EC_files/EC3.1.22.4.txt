@@ -1,0 +1,22 @@
+KCAT	Escherichia coli	0.0000047	DNA junction RC1(2,3')	*
+KCAT	Schizosaccharomyces pombe	0.000006	junction 1, unconstrained	*E226N, 480fold reduced turnover rate
+KCAT	Saccharolobus solfataricus	0.00014	Holliday junction 3	*at 50&deg;C
+KCAT	Schizosaccharomyces pombe	0.00034	J1T2	*
+KCAT	Escherichia coli	0.000566	DNA junction RC1(1,3')	*
+KCAT	Schizosaccharomyces pombe	0.001	J1T1	*
+KCAT	Schizosaccharomyces pombe	0.0029	junction 1, unconstrained	*
+KCAT	Escherichia coli	0.00416	DNA junction RC1	*
+KCAT	Homo sapiens	0.0047	X12 junction in single-stranded DNA	*like nX12, without the nick at the cross-over point
+KCAT	Saccharolobus solfataricus	0.0065	DNA junction 1	*at 30&deg;C, steady-state approximation under maximal velocity conditions at 15 mM MgCl2
+KCAT	Saccharolobus solfataricus	0.02	Holliday junction 3	*prediction: at 80&deg;C
+KCAT	Homo sapiens	0.037	intact Holliday junction	*in 25 mM Tris-HCl, pH 8.0, 1 mM MgCl2, 0.2 mM dithiothreitol, at 37&deg;C
+KCAT	Saccharolobus solfataricus	0.05	DNA junction 1	*at 65&deg;C, pH 7, converting 6% of the substrate into product
+KCAT	Saccharomyces cerevisiae	0.09	D-loop junction in DNA	*
+KCAT	Homo sapiens	0.12	3'-flapped junction in DNA	*the 3'flap substrate contains 50 bp of duplex DNA, a central nick, and 25 bases of single-stranded DNA
+KCAT	Homo sapiens	0.18	nX12 junction in single-stranded DNA	*the nX12 substrate has four 25-bp duplex DNA arms, with a 12-bp homologous core that allows branch migration of the junction, and contains a nick at the cross-over point
+KCAT	Saccharomyces cerevisiae	0.26	splayed Y junction in DNA	*
+KCAT	Saccharomyces cerevisiae	0.32	pXO12-3' junction in single-stranded DNA	*
+KCAT	Homo sapiens	0.354	3'-flapped junction in DNA	*in 25 mM Tris-HCl, pH 8.0, 1 mM MgCl2, 0.2 mM dithiothreitol, at 37&deg;C
+KCAT	Saccharomyces cerevisiae	0.97	3'-flapped junction in DNA	*
+KCAT	Saccharomyces cerevisiae	1.2	nXO12 junction in single-stranded DNA	*
+KCAT	Saccharomyces cerevisiae	1.35	replication fork-like junction in DNA	*

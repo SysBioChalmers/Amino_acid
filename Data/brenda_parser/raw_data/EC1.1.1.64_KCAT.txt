@@ -1,0 +1,1 @@
+ecNumber*1.1.1.64#turnoverNumber*0.148#turnoverNumberMaximum*#substrate*4-oxo-2-nonenal#commentary*pH 7.4, 25&Acirc;&deg;C#organism*Homo sapiens#ligandStructureId*10426#literature*724719#

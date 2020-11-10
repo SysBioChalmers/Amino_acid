@@ -1,0 +1,4 @@
+KCAT	Streptomyces niveus	2.4	decarbamoylnovobiocin	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces niveus	4.1	decarbamoylnovobiocin	*pH 8.5, 22&Acirc;&deg;C
+KCAT	Streptomyces niveus	1.32	novclobiocin 104	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces niveus	1.53	novclobiocin 105	*pH 8.0, 30&Acirc;&deg;C

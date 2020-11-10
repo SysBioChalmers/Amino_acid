@@ -1,0 +1,4 @@
+KCAT	Sus scrofa	0.0000019	N-hydroxy-benzenecarboximidamide	*at 37&deg;C
+KCAT	Rattus norvegicus	0.35	stearoyl-CoA	*25&deg;C
+KCAT	Rattus norvegicus	0.35	stearoyl-CoA	*fatty acyl-CoA substrates with chain length of 14-19 carbon atoms show similar turnover number of about 22
+KCAT	Spinacia oleracea	0.5	stearoyl-acyl-carrier protein	*

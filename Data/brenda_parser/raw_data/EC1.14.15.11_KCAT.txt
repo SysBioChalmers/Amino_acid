@@ -1,0 +1,1 @@
+ecNumber*1.14.15.11#turnoverNumber*0.018#turnoverNumberMaximum*#substrate*Compactin#commentary*pH 7.4, 30&deg;C#organism*Streptomyces avermitilis#ligandStructureId*29866#literature*745541#!ecNumber*1.14.15.11#turnoverNumber*0.36#turnoverNumberMaximum*#substrate*diclofenac#commentary*pH 7.4, 30&deg;C#organism*Streptomyces avermitilis#ligandStructureId*1291#literature*745541#

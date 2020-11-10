@@ -1,0 +1,1 @@
+KCAT	Lactobacillus sakei	930	L-cysteine	*pH 10.0, 35&deg;C, recombinant His-tagged enzyme

@@ -1,0 +1,39 @@
+KCAT	Aeromonas jandaei	0.01	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme H85Y
+KCAT	Aeromonas jandaei	0.02	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme D168V
+KCAT	Aeromonas jandaei	0.05	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme D168N; pH 8.0, 25&deg;C, mutant enzyme H85F
+KCAT	Aeromonas jandaei	0.08	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme K199R
+KCAT	Aeromonas jandaei	0.08	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme N64E
+KCAT	Aeromonas jandaei	0.17	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme R171F
+KCAT	Aeromonas jandaei	0.2	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme H85Y; pH 8.0, 25&deg;C, mutant enzyme N64I; pH 8.0, 25&deg;C, mutant enzyme R171Q
+KCAT	Aeromonas jandaei	0.23	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme R171F
+KCAT	Aeromonas jandaei	0.3	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme N64E
+KCAT	Aeromonas jandaei	0.3	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme H85F
+KCAT	Aeromonas jandaei	0.32	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme R313H
+KCAT	Aeromonas jandaei	0.42	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme D168S
+KCAT	Aeromonas jandaei	0.47	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme R171Q
+KCAT	Aeromonas jandaei	0.6	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme D168V
+KCAT	Aeromonas jandaei	0.641	L-threonine	*pH 8.0, 30&deg;C, wild-type enzyme
+KCAT	Aeromonas jandaei	0.7	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme R231A
+KCAT	Aeromonas jandaei	0.83	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme D168S
+KCAT	Aeromonas jandaei	0.913	L-threonine	*pH 8.0, 30&deg;C, mutant enzyme S292R
+KCAT	Aeromonas jandaei	1	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme N64I
+KCAT	Aeromonas jandaei	1.81	L-threonine	*pH 8.0, 30&deg;C, mutant enzyme H128Y
+KCAT	Aeromonas jandaei	1.9	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme E138A
+KCAT	Aeromonas jandaei	2.14	L-threonine	*pH 8.0, 30&deg;C, mutant enzyme H128Y/S292R
+KCAT	Aeromonas jandaei	2.3	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme R313H
+KCAT	Aeromonas jandaei	2.3	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme R231A
+KCAT	Aeromonas jandaei	2.9	L-allo-threonine	*pH 8.0, 30&deg;C, mutant enzyme K51A
+KCAT	Aeromonas jandaei	3	L-allo-threonine	*pH 8.0, 30&deg;C, mutant enzyme K224A; pH 8.0, 30&deg;C, wild-type enzyme
+KCAT	Aeromonas jandaei	3.9	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme E138A
+KCAT	Aeromonas jandaei	4.3	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme S198H
+KCAT	Aeromonas jandaei	5.1	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme S198H
+KCAT	Aeromonas jandaei	8.67	L-allo-threonine	*pH 8.0, 25&deg;C, wild-type enzyme
+KCAT	Aeromonas jandaei	13.3	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme C196T
+KCAT	Aeromonas jandaei	13.6	L-allo-threonine	*pH 8.0, 25&deg;C, mutant enzyme G200S
+KCAT	Aeromonas jandaei	13.8	L-allo-threonine	*pH 8.0, 30&deg;C, wild-type enzyme
+KCAT	Aeromonas jandaei	16.5	L-allo-threonine	*pH 8.0, 30&deg;C, mutant enzyme H128Y
+KCAT	Aeromonas jandaei	18.3	L-allo-threonine	*pH 8.0, 30&deg;C, mutant enzyme S292R
+KCAT	Aeromonas jandaei	22	L-allo-threonine	*pH 8.0, 30&deg;C, mutant enzyme H128Y/S292R
+KCAT	Aeromonas jandaei	60.5	L-beta-Phenylserine	*pH 8.0, 25&deg;C, wild-type enzyme
+KCAT	Aeromonas jandaei	74.4	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme G200S
+KCAT	Aeromonas jandaei	84	L-beta-Phenylserine	*pH 8.0, 25&deg;C, mutant enzyme C196T

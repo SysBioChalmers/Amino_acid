@@ -1,0 +1,1 @@
+ecNumber*1.1.1.399#turnoverNumber*33.3#turnoverNumberMaximum*#substrate*2-oxoglutarate#commentary*at pH 7.5 and 37&Acirc;&deg;C#organism*Escherichia coli#ligandStructureId*34#literature*287546#

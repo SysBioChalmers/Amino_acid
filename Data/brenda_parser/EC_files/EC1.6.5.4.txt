@@ -1,0 +1,9 @@
+KCAT	Cucumis sativus	150	NADPH	*
+KCAT	Solanum lycopersicum	62.67	NADH	*mutant enzyme C117A, in 50 mM Tris-HCl (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Solanum lycopersicum	89.89	NADH	*mutant enzyme C117S, in 50 mM Tris-HCl (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Physcomitrella patens	119	NADH	*
+KCAT	Solanum lycopersicum	121.4	NADH	*recombinant wild type enzyme, in 50 mM Tris-HCl (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Solanum lycopersicum	126.6	NADH	*native wild type enzyme, in 50 mM Tris-HCl (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Physcomitrella patens	128	NADH	*
+KCAT	Physcomitrella patens	170	NADH	*
+KCAT	Cucumis sativus	200	NADH	*

@@ -1,0 +1,8 @@
+KCAT	Streptomyces galilaeus	0.003	aklavinone	*with dTDP-4-amino-2-deoxyrhamnose as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Streptomyces galilaeus	0.004	aklavinone	*with dTDP-L-2-deoxyfucose as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Streptomyces galilaeus	0.001	epsilon-rhodomycinone	*with dTDP-L-2-deoxyfucose as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Streptomyces galilaeus	0.0083	dTDP-beta-L-rhodosamine	*in the absence of activator protein AknT, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Streptomyces galilaeus	0.16	dTDP-beta-L-rhodosamine	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Streptomyces galilaeus	0.001	dTDP-L-2-deoxyfucose	*with epsilon-rhodomycinone as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Streptomyces galilaeus	0.004	dTDP-L-2-deoxyfucose	*with aklavinone as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Streptomyces galilaeus	0.003	dTDP-4-amino-2-deoxyrhamnose	*in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25&Acirc;&deg;C

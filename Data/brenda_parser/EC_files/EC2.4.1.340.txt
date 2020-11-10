@@ -1,0 +1,8 @@
+KCAT	Thermoanaerobacter sp.	2	D-fructose	*pH 5.0, 30&Acirc;&deg;C, synthetic reaction
+KCAT	Thermoanaerobacter sp.	22	alpha-D-mannose 1-phosphate	*pH 5.0, 30&Acirc;&deg;C, synthetic reaction
+KCAT	Thermoanaerobacter sp.	1.9	alpha-D-mannose	*pH 5.0, 30&Acirc;&deg;C, synthetic reaction
+KCAT	Thermoanaerobacter sp.	1.9	[(1-&gt;2)-beta-D-mannosyl]2	*pH 5.0, 30&Acirc;&deg;C, phosphorolytic reaction
+KCAT	Thermoanaerobacter sp.	25	[(1-&gt;2)-beta-D-mannosyl]2	*pH 5.0, 30&Acirc;&deg;C, synthetic reaction
+KCAT	Thermoanaerobacter sp.	20	[(1-&gt;2)-beta-D-mannosyl]3	*pH 5.0, 30&Acirc;&deg;C, phosphorolytic reaction
+KCAT	Thermoanaerobacter sp.	43	[(1-&gt;2)-beta-D-mannosyl]3	*pH 5.0, 30&Acirc;&deg;C, synthetic reaction
+KCAT	Thermoanaerobacter sp.	49	[(1-&gt;2)-beta-D-mannosyl]4	*pH 5.0, 30&Acirc;&deg;C, phosphorolytic reaction

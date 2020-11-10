@@ -1,0 +1,2 @@
+KCAT	Chloroflexus aurantiacus	11.4	(S)-malate	*55&deg;C, pH not specified in the publication, recombinant enzyme
+KCAT	Chloroflexus aurantiacus	11.4	succinyl-CoA	*55&deg;C, pH not specified in the publication, recombinant enzyme

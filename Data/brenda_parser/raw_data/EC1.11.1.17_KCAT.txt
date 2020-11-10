@@ -1,0 +1,1 @@
+ecNumber*1.11.1.17#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*kinetic analysis of the glutathione amide reductase, using glutathione amide disulfide (cf. EC 1.8.1.16) and NADH as substrates#organism*Marichromatium gracile#ligandStructureId*#literature*698716#

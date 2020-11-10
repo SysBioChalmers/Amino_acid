@@ -1,0 +1,20 @@
+KCAT	Arabidopsis thaliana	0.0012	alpha-D-mannose 1-phosphate	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	0.023	alpha-D-galactose 1-phosphate	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	0.024	GDP-alpha-D-mannose	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	0.093	GDP-alpha-D-mannose	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	0.093	GDP-alpha-D-mannose	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	2.04	GDP-alpha-L-galactose	*pH 7.5, 20&deg;C
+KCAT	Arabidopsis thaliana	2.68	GDP-alpha-L-galactose	*pH 7.5, 20&deg;C
+KCAT	Arabidopsis thaliana	3.8	alpha-D-galactose 1-phosphate	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	5.8	alpha-D-glucose 1-phosphate	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	6	alpha-D-galactose 1-phosphate	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	6	alpha-L-galactose 1-phosphate	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	6	alpha-L-galactose 1-phosphate	*pH 7.5, 26&deg;C; pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	9.9	GDP-alpha-D-glucose	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	12	alpha-D-glucose 1-phosphate	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	12	alpha-D-glucose 1-phosphate	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	13	GDP-alpha-L-galactose	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	23	GDP-alpha-D-glucose	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	23	GDP-alpha-D-glucose	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	27	GDP-alpha-L-galactose	*pH 7.5, 26&deg;C
+KCAT	Arabidopsis thaliana	64	GDP-alpha-L-galactose	*pH 7.5, 26&deg;C

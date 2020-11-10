@@ -1,0 +1,120 @@
+KCAT	Thermotoga maritima	-999	phenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Bacteroides thetaiotaomicron	0.00218	4-nitrophenyl alpha-D-galactoside	*mutant enzyme D415N, in 40 mM sodium phosphate buffer, pH 6.0, at 35&deg;C
+KCAT	Thermotoga maritima	0.01	3,4-dimethylphenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.01	4-O-methylphenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.016	4-bromophenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.021	beta-naphthyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.027	phenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.03	4-O-methylphenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.03	4-nitrophenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Debaryomyces hansenii	0.03	melibiose	*pH 5.0, 55&deg;C, intracellular enzyme
+KCAT	Thermotoga maritima	0.035	2-nitrophenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.042	2,5-dinitrophenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.042	3-nitrophenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.052	3,4-dimethylphenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.06	4-nitrophenyl alpha-D-galactopyranoside	*pH 5.0, 65&deg;C, mutant enzyme D327G
+KCAT	Bacteroides thetaiotaomicron	0.0684	4-nitrophenyl alpha-D-galactoside	*mutant enzyme E470Q, in 40 mM sodium phosphate buffer, pH 6.0, at 35&deg;C
+KCAT	Thermotoga maritima	0.085	2,4-dinitrophenyl alpha-D-galactoside	*mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Citrobacter freundii	0.12	4-nitrophenyl-alpha-D-galactopyranoside	*pH 4.5, 37&deg;C
+KCAT	Citrobacter freundii	0.23	4-nitrophenyl-alpha-D-galactopyranoside	*pH 9.0, 37&deg;C
+KCAT	Phaseolus vulgaris	0.238	o-nitrophenyl-alpha-D-galactopyranoside	*
+KCAT	Citrobacter freundii	0.3	4-nitrophenyl-alpha-D-galactopyranoside	*pH 6.7, 37&deg;C
+KCAT	Thermotoga maritima	0.41	2,4-dinitrophenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	0.52	2-nitrophenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Penicillium canescens	0.57	stachyose	*pH 5.0, 40&deg;C
+KCAT	Citrobacter freundii	0.62	4-nitrophenyl-alpha-D-galactopyranoside	*pH 8.7, 37&deg;C
+KCAT	Rhizomucor miehei	0.65	melibiose	*pH 4.5, 50&deg;C
+KCAT	Phaseolus vulgaris	0.822	m-nitrophenyl-alpha-D-galactopyranoside	*
+KCAT	Penicillium canescens	0.89	raffinose	*pH 5.0, 40&deg;C
+KCAT	Geobacillus stearothermophilus	0.97	4-nitrophenyl alpha-D-galactopyranoside	*mutant enzyme W336D of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Acinetobacter sp.	1	raffinose	*isoform Ag-II, at pH 7.0 and 36&deg;C
+KCAT	Citrobacter freundii	1.05	4-nitrophenyl-alpha-D-galactopyranoside	*pH 7.1, 37&deg;C
+KCAT	Thermotoga maritima	1.1	4-nitrophenyl alpha-D-galactopyranoside	*37&deg;C, pH 5.0, mutant enzyme 328A
+KCAT	Citrobacter freundii	1.37	4-nitrophenyl-alpha-D-galactopyranoside	*pH 8.4, 37&deg;C
+KCAT	Citrobacter freundii	1.68	4-nitrophenyl-alpha-D-galactopyranoside	*pH 7.5, 37&deg;C
+KCAT	Citrobacter freundii	1.75	4-nitrophenyl-alpha-D-galactopyranoside	*pH 8.0, 37&deg;C
+KCAT	Acinetobacter sp.	1.83	raffinose	*isoform Ag-I, at pH 7.0 and 36&deg;C
+KCAT	Citrobacter freundii	2.07	4-nitrophenyl-alpha-D-galactopyranoside	*pH 7.8, 37&deg;C
+KCAT	Thermotoga maritima	2.07	4-nitrophenyl alpha-D-galactopyranoside	*pH 5.0, 65&deg;C, mutant enzyme D327G, assay performed in 500 mM NaN3
+KCAT	Thermomyces lanuginosus	2.3	melibiose	*50&deg;C, pH 4.5
+KCAT	Flavobacterium sp.	2.33	melibiose	*pH 5.5, 45&deg;C
+KCAT	Acinetobacter sp.	2.53	4-nitrophenyl alpha-D-galactopyranoside	*isoform Ag-II, at pH 7.0 and 36&deg;C
+KCAT	Debaryomyces hansenii	3.29	4-nitrophenyl-alpha-D-galactopyranoside	*pH 5.0, 55&deg;C, intracellular enzyme
+KCAT	Phaseolus vulgaris	3.61	p-nitrophenyl-alpha-D-galactopyranoside	*
+KCAT	Debaryomyces hansenii	4.12	raffinose	*pH 5.0, 55&deg;C, intracellular enzyme
+KCAT	Rhizomucor miehei	4.2	raffinose	*pH 4.5, 50&deg;C
+KCAT	Geobacillus stearothermophilus	5.2	raffinose	*mutant enzyme W336S of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Thermotoga maritima	5.71	phenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Debaryomyces hansenii	6.05	stachyose	*pH 5.0, 55&deg;C, intracellular enzyme
+KCAT	Thermotoga maritima	6.26	beta-naphthyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Rhizomucor miehei	6.3	4-nitrophenyl alpha-D-galactopyranoside	*pH 4.5, 50&deg;C
+KCAT	Rhizomucor miehei	6.4	stachyose	*pH 4.5, 50&deg;C
+KCAT	Thermotoga maritima	6.69	4-O-methylphenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Penicillium canescens	7	4-nitrophenyl alpha-D-galactopyranoside	*pH 5.0, 40&deg;C
+KCAT	Penicillium canescens	7	galactomannan with galactose/mannose ratio 1:1.72	*pH 5.0, 50&deg;C
+KCAT	Acinetobacter sp.	7.42	4-nitrophenyl alpha-D-galactopyranoside	*isoform Ag-I, at pH 7.0 and 36&deg;C
+KCAT	Geobacillus stearothermophilus	7.9	4-nitrophenyl alpha-D-galactopyranoside	*mutant enzyme W336A of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Thermotoga maritima	8	4-nitrophenyl alpha-D-galactopyranoside	*37&deg;C, pH 5.0, wild-type enzyme
+KCAT	Thermotoga maritima	8.15	4-nitrophenyl alpha-D-galactopyranoside	*37&deg;C, pH 5.0, mutant enzyme G385L
+KCAT	Thermotoga maritima	8.58	4-nitrophenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	9.8	4-nitrophenyl alpha-D-galactopyranoside	*37&deg;C, pH 5.0, mutant enzyme P402S
+KCAT	Penicillium canescens	10	galactomannan with galactose/mannose ratio 1:2.4	*pH 5.0, 50&deg;C
+KCAT	Geobacillus stearothermophilus	10.3	raffinose	*mutant enzyme W336N of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Thermotoga maritima	10.39	3,4-dimethylphenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	10.5	3-nitrophenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	10.73	4-nitrophenyl alpha-D-galactopyranoside	*37&deg;C, pH 5.0, mutant enzyme P402D
+KCAT	Thermotoga maritima	11.2	2,5-dinitrophenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	12.2	4-nitrophenyl alpha-D-galactopyranoside	*37&deg;C, pH 5.0, mutant enzyme L195C
+KCAT	Thermotoga maritima	12.23	2,4-dinitrophenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	12.58	4-bromophenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Thermotoga maritima	13.67	2-nitrophenyl alpha-D-galactoside	*wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37&deg;C
+KCAT	Saccharomyces cerevisiae	16	4-nitrophenyl-alpha-D-galactopyranoside	*mutant Q251W, pH 7.4, 30&deg;C
+KCAT	Thermotoga maritima	20.4	4-nitrophenyl alpha-D-galactopyranoside	*37&deg;C, pH 5.0, mutant enzyme F194K
+KCAT	Thermomyces lanuginosus	32.4	raffinose	*50&deg;C, pH 4.5
+KCAT	Geobacillus stearothermophilus	38.2	4-nitrophenyl alpha-D-galactopyranoside	*mutant enzyme W336N of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Flavobacterium sp.	42.04	stachyose	*pH 5.5, 45&deg;C
+KCAT	Saccharomyces cerevisiae	46.8	raffinose	*wild-type, pH 7.4, 30&deg;C
+KCAT	Geobacillus stearothermophilus	48	4-nitrophenyl alpha-D-galactopyranoside	*mutant enzyme W336S of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Geobacillus stearothermophilus	48.1	raffinose	*mutant enzyme W336A of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Thermomyces lanuginosus	49.8	4-methylumbelliferyl alpha-D-galactoside	*50&deg;C, pH 4.5
+KCAT	Thermotoga maritima	65	4-nitrophenyl alpha-D-galactopyranoside	*pH 5.0, 65&deg;C, wild-type enzyme
+KCAT	Phanerochaete chrysosporium	77	6-bromo-2-naphthyl alpha-D-galactoside	*temperature not specified in the publication, pH 5
+KCAT	Phanerochaete chrysosporium	87	alpha-D-galactosyl fluoride	*temperature not specified in the publication, pH 5
+KCAT	Saccharomyces cerevisiae	90	4-nitrophenyl-alpha-D-galactopyranoside	*mutant A41Y, pH 7.4, 30&deg;C
+KCAT	Saccharomyces cerevisiae	91	raffinose	*mutant A41Y, pH 7.4, 30&deg;C
+KCAT	Geobacillus stearothermophilus	105.6	4-nitrophenyl alpha-D-galactopyranoside	*wild type enzyme isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Thermotoga maritima	109	raffinose	*pH 5, 75&deg;C
+KCAT	Saccharomyces cerevisiae	113	melibiose	*mutant Q251A, pH 7.4, 30&deg;C
+KCAT	Saccharomyces cerevisiae	131	melibiose	*mutant A41Y, pH 7.4, 30&deg;C
+KCAT	Thermotoga neapolitana	157.3	raffinose	*pH 7, 98&deg;C
+KCAT	Saccharomyces cerevisiae	170	4-nitrophenyl-alpha-D-galactopyranoside	*mutant Q251A, pH 7.4, 30&deg;C
+KCAT	Phanerochaete chrysosporium	171	1-naphthyl alpha-D-galactoside	*temperature not specified in the publication, pH 5
+KCAT	Thermotoga maritima	176	p-nitrophenyl alpha-D-galactopyranoside	*pH 5, 75&deg;C
+KCAT	Geobacillus stearothermophilus	180	raffinose	*wild type enzyme isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Saccharomyces cerevisiae	193	melibiose	*wild-type, pH 7.4, 30&deg;C
+KCAT	Thermotoga neapolitana	234.2	melibiose	*pH 7, 98&deg;C
+KCAT	Bacteroides thetaiotaomicron	244	4-nitrophenyl alpha-D-galactoside	*wild type enzyme, in 40 mM sodium phosphate buffer, pH 6.0, at 35&deg;C
+KCAT	Phanerochaete chrysosporium	272	4-nitrophenyl alpha-D-galactopyranoside	*temperature not specified in the publication, pH 5
+KCAT	Saccharomyces cerevisiae	286	4-nitrophenyl-alpha-D-galactopyranoside	*wild-type, pH 7.4, 30&deg;C
+KCAT	Thermotoga neapolitana	302.9	p-nitrophenyl alpha-D-galactopyranoside	*pH 7, 98&deg;C
+KCAT	Geobacillus stearothermophilus	375	4-nitrophenyl alpha-D-galactopyranoside	*mutant enzyme W336F of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Sphingomonas sp.	448	melibiose	*at pH 5.0 and 60&deg;C
+KCAT	Sphingomonas sp.	512	4-nitrophenyl alpha-D-galactopyranoside	*at pH 5.0 and 60&deg;C
+KCAT	Phanerochaete chrysosporium	514	2-nitrophenyl alpha-D-galactopyranoside	*temperature not specified in the publication, pH 5
+KCAT	Aspergillus nidulans	586	raffinose	*pH 5, 37&deg;C
+KCAT	Flavobacterium sp.	654.6	4-nitrophenyl-alpha-D-galactopyranoside	*pH 5.5, 45&deg;C
+KCAT	Geobacillus stearothermophilus	832	raffinose	*mutant enzyme W336F of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Aspergillus nidulans	1067	melibiose	*pH 5, 37&deg;C
+KCAT	Penicillium canescens	1100	raffinose	*pH 5.0, 40&deg;C
+KCAT	Geobacillus stearothermophilus	1205	raffinose	*wild type enzyme isoform AgaB, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Penicillium canescens	1250	stachyose	*pH 5.0, 40&deg;C
+KCAT	Aspergillus nidulans	1278	4-nitrophenyl-alpha-D-galactopyranoside	*pH 5, 37&deg;C
+KCAT	Penicillium canescens	1800	4-nitrophenyl alpha-D-galactopyranoside	*pH 5.0, 40&deg;C
+KCAT	Geobacillus stearothermophilus	2382	4-nitrophenyl alpha-D-galactopyranoside	*wild type enzyme isoform AgaB, in 100 mM potassium phosphate buffer, pH 6.5, at 25&deg;C
+KCAT	Yersinia pestis	3279	4-nitrophenyl alpha-D-galactoside	*
+KCAT	Thermomyces lanuginosus	3914	4-nitrophenyl alpha-D-galactopyranoside	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Thermomyces lanuginosus	3914	p-nitrophenyl alpha-D-galactopyranoside	*at 55&deg;C, in 50 mM citrate buffer (pH 4.2)
+KCAT	Thermomyces lanuginosus	6946	raffinose	*at 55&deg;C, in 50 mM citrate buffer (pH 4.2)
+KCAT	Thermomyces lanuginosus	6946	raffinose	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Thermomyces lanuginosus	7659	stachyose	*at 55&deg;C, in 50 mM citrate buffer (pH 4.2)
+KCAT	Thermomyces lanuginosus	7659	stachyose	*pH not specified in the publication, temperature not specified in the publication

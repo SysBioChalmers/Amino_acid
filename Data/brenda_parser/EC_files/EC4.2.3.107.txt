@@ -1,0 +1,5 @@
+KCAT	Picea sitchensis	0.098	geranyl diphosphate	*wild-type, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Picea sitchensis	0.643	geranyl diphosphate	*mutant L596F, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Lavandula x intermedia	2.07	geranyl diphosphate	*recombinant His-tagged enzyme, pH 7.2, temperature not specified in the publication
+KCAT	Picea sitchensis	2.21	geranyl diphosphate	*pH 7.4, 30&Acirc;&deg;C, proteins from both susceptible and resistant plants have similar kinetic parameters
+KCAT	Lavandula x intermedia	0.636	neryl diphosphate	*recombinant His-tagged enzyme, pH 7.2, temperature not specified in the publication

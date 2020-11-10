@@ -1,0 +1,6 @@
+KCAT	Bacteroides thetaiotaomicron	240	phosphate	*pH 5.5, 30&Acirc;&deg;C, cosubstrate: 4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine, phosphorolytic reaction
+KCAT	Bacteroides thetaiotaomicron	37	N-acetyl-D-glucosamine	*pH 5.5, 30&Acirc;&deg;C; pH 5.5, 30&Acirc;&deg;C, synthetic reaction
+KCAT	Bacteroides thetaiotaomicron	25	alpha-D-mannose 1-phosphate	*pH 5.5, 30&Acirc;&deg;C; pH 5.5, 30&Acirc;&deg;C, cosubstrate: N-acetyl-D-glucosamine, synthetic reaction
+KCAT	Bacteroides thetaiotaomicron	22	N,N'-diacetylchitobiose	*pH 5.5, 30&Acirc;&deg;C, synthetic reaction
+KCAT	Bacteroides thetaiotaomicron	240	4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine	*pH 5.5, 30&Acirc;&deg;C, cosubstrate: phosphate, phosphorolytic reaction
+KCAT	Bacteroides thetaiotaomicron	22	4-O-beta-N-acetyl-D-glucosaminyl-N-acetyl-D-glucosamine	*pH 5.5, 30&Acirc;&deg;C

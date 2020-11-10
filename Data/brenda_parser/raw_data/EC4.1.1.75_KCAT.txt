@@ -1,0 +1,1 @@
+ecNumber*4.1.1.75#turnoverNumber*167#turnoverNumberMaximum*#substrate*5-guanidino-2-oxopentanoate#commentary*#organism*Pseudomonas putida#ligandStructureId*4884#literature*288074#

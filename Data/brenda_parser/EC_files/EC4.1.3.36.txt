@@ -1,0 +1,10 @@
+KCAT	Mycobacterium tuberculosis	0.00022	2-succinylbenzoyl-CoA	*D185N mutant protein, pH 7.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.00025	2-(3-carboxypropyl)-benzoyl-CoA	*wild type protein protein, pH 7.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.0017	2-succinylbenzoyl-CoA	*S190A mutant protein, pH 7.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.0023	2-succinylbenzoyl-CoA	*D185E mutant protein, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	0.0027	o-succinylbenzoate	*pH 7.0, temperature not specified in the publication, mutant R267A
+KCAT	Escherichia coli	0.0035	o-succinylbenzoate	*pH 7.0, temperature not specified in the publication, mutant F270A
+KCAT	Escherichia coli	0.021	o-succinylbenzoate	*pH 7.0, temperature not specified in the publication, wild-type enzyme
+KCAT	Escherichia coli	0.038	o-succinylbenzoate	*pH 7.0, temperature not specified in the publication, mutant K89A
+KCAT	Escherichia coli	0.062	o-succinylbenzoyl-CoA	*pH 7.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.462	2-succinylbenzoyl-CoA	*wild type protein, pH 7.0, 25&deg;C

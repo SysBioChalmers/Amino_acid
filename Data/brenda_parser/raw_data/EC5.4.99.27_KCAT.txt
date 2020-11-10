@@ -1,0 +1,1 @@
+ecNumber*5.4.99.27#turnoverNumber*0.00097#turnoverNumberMaximum*#substrate*tRNA uridine13#commentary*#organism*Escherichia coli#ligandStructureId*#literature*701924#

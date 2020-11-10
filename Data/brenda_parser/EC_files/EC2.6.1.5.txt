@@ -1,0 +1,62 @@
+KCAT	Papaver somniferum	0.34	pyruvate	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	0.5	pyruvate	*mutant R20A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1.5	pyruvate	*mutant N17S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	47.4	pyruvate	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Papaver somniferum	0.22	2-oxoglutarate	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.25	2-oxoglutarate	*wild type enzyme
+KCAT	Homo sapiens	0.3	2-oxoglutarate	*mutant enzyme I249A
+KCAT	Trypanosoma cruzi	0.5	2-oxoglutarate	*mutant R20A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Petunia x hybrida	0.92	2-oxoglutarate	*cosubstrate phenylalanine, pH 10.0, 30&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	4.2	2-oxoglutarate	*mutant N17S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Variovorax paradoxus	10.6	2-oxoglutarate	*pH 7.6, 30&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	21.8	2-oxoglutarate	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Mus musculus	25.66	2-oxoglutarate	*pH 7.0, 38&Acirc;&deg;C
+KCAT	Rattus norvegicus	116	2-oxoglutarate	*mutant N54S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	490	2-oxoglutarate	*mutant R315K, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	566	2-oxoglutarate	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Petunia x hybrida	0.44	L-glutamate	*cosubstrate phenylpyruvate, pH 10.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	3.8	L-glutamate	*wild type enzyme
+KCAT	Rattus norvegicus	6.6	L-glutamate	*mutant N54S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Mus musculus	9.33	L-glutamate	*pH 7.0, 38&Acirc;&deg;C
+KCAT	Homo sapiens	69	L-glutamate	*wild type enzyme
+KCAT	Rattus norvegicus	199	L-glutamate	*mutant R315K, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	210	L-glutamate	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Papaver somniferum	0.37	oxaloacetate	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	0.35	L-alanine	*mutant R20A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	3.8	L-alanine	*mutant N17S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	23.5	L-alanine	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Papaver somniferum	0.08	L-phenylalanine	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Petunia x hybrida	0.17	L-phenylalanine	*cosubstrate 4-hydroxyphenylpyruvate, pH 10.0, 30&Acirc;&deg;C
+KCAT	Petunia x hybrida	0.44	L-phenylalanine	*cosubstrate 2-oxoglutarate, pH 10.0, 30&Acirc;&deg;C
+KCAT	Mus musculus	15.33	L-phenylalanine	*pH 7.0, 38&Acirc;&deg;C
+KCAT	Papaver somniferum	0.24	L-tyrosine	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	0.7	L-tyrosine	*mutant R20A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1	L-tyrosine	*wild type enzyme
+KCAT	Homo sapiens	1.2	L-tyrosine	*mutant enzyme I249A
+KCAT	Petunia x hybrida	1.48	L-tyrosine	*cosubstrate phenylpyruvate, pH 10.0, 30&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	1.8	L-tyrosine	*mutant N17S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Mus musculus	19.33	L-tyrosine	*pH 7.0, 38&Acirc;&deg;C
+KCAT	Escherichia coli	24	L-tyrosine	*aspartate aminotransferase with mutations HEX, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	25.6	L-tyrosine	*aspartate aminotransferase with mutations HEX and I73V, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	35.7	L-tyrosine	*aspartate aminotransferase with mutations HEX and I73V, A293D, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	39	L-tyrosine	*aspartate aminotransferase with mutations HEX and A293D, pH 8.0, 25&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	44.6	L-tyrosine	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	83	L-tyrosine	*wild type enzyme
+KCAT	Rattus norvegicus	132	L-tyrosine	*mutant N54S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	510	L-tyrosine	*mutant R315K, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	576	L-tyrosine	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Papaver somniferum	0.36	L-tryptophan	*pH 8.5, 30&Acirc;&deg;C
+KCAT	Petunia x hybrida	1.19	phenylpyruvate	*cosubstrate L-glutamate, pH 10.0, 30&Acirc;&deg;C
+KCAT	Petunia x hybrida	1.46	phenylpyruvate	*cosubstrate L-tyrosine, pH 10.0, 30&Acirc;&deg;C
+KCAT	Mus musculus	2.66	phenylpyruvate	*pH 7.0, 38&Acirc;&deg;C
+KCAT	Petunia x hybrida	0.7	4-hydroxyphenylpyruvate	*cosubstrate phenylalanine, pH 10.0, 30&Acirc;&deg;C
+KCAT	Mus musculus	15.83	4-hydroxyphenylpyruvate	*pH 7.0, 38&Acirc;&deg;C
+KCAT	Mus musculus	1.83	2-Oxohexanoate	*pH 7.0, 38&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	0.4	2-oxoisocaproate	*mutant R20A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	9.3	2-oxoisocaproate	*mutant N17S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	34	2-oxoisocaproate	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.2	p-hydroxyphenylpyruvate	*wild type enzyme
+KCAT	Rattus norvegicus	5.9	p-hydroxyphenylpyruvate	*mutant N54S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	155	p-hydroxyphenylpyruvate	*mutant R315K, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	165	p-hydroxyphenylpyruvate	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Variovorax paradoxus	11.8	(S)-beta-phenylalanine	*pH 7.6, 30&Acirc;&deg;C

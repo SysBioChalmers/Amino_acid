@@ -1,0 +1,1 @@
+KCAT	Danio rerio	0.00044	all-trans retinyl ester	*pH and temperature not specified in the publication

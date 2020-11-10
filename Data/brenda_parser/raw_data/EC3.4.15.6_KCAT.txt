@@ -1,0 +1,1 @@
+ecNumber*3.4.15.6#turnoverNumber*16.5#turnoverNumberMaximum*#substrate*[L-Asp(4-Arg)]n#commentary*30&deg;C in 50 mM N-[2-hydroxy-1,1-bis(hydroxymethyl) ethyl]glycine, pH 8.0, maximum at pH 9.0#organism*Synechocystis sp. PCC 6803#ligandStructureId*#literature*709525#

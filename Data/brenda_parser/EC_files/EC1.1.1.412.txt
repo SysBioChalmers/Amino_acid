@@ -1,0 +1,5 @@
+KCAT	Stenotrophomonas maltophilia	0.97	(2R/2S)-2-hexyl-3-oxodecanoic acid	*at pH 8.0 and 25&deg;C
+KCAT	Stenotrophomonas maltophilia	1.2	syn-2-hexyl-3-hydroxydecanoic acid	*at pH 8.0 and 25&deg;C
+KCAT	Stenotrophomonas maltophilia	1.3	(2R,3S)-2-hexyl-3-hydroxydecanoic acid	*at pH 8.0 and 25&deg;C
+KCAT	Stenotrophomonas maltophilia	1.4	syn-2-decyl-3-hydroxytetradecanoic acid	*at pH 8.0 and 25&deg;C
+KCAT	Stenotrophomonas maltophilia	2	syn-2-octyl-3-hydroxydodecanoic acid	*at pH 8.0 and 25&deg;C

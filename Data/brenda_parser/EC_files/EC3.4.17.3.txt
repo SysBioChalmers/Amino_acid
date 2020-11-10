@@ -1,0 +1,24 @@
+KCAT	Homo sapiens	1.5	fibrinopeptide alphaArg96-104	*
+KCAT	Homo sapiens	1.5	fibrinopeptide-alpha-Arg96-104	*
+KCAT	Homo sapiens	2.6	fibrinopeptide gammaLys54-62	*
+KCAT	Homo sapiens	2.6	fibrinopeptide-gamma-Lys54-62	*
+KCAT	Homo sapiens	2.7	chemerin	*; 
+KCAT	Homo sapiens	2.9	fibrinopeptide alphaArg96-104	*
+KCAT	Homo sapiens	3.5	fibrinopeptide gammaLys54-62	*
+KCAT	Homo sapiens	5.9	fibrinopeptide gammaLys77-85	*
+KCAT	Homo sapiens	5.9	fibrinopeptide-gamma-Lys77-85	*
+KCAT	Homo sapiens	8.4	C3a69-77	*; peptide derived from bradykinin
+KCAT	Homo sapiens	9.1	bradykinin	*
+KCAT	Homo sapiens	9.3	C5a66-74	*peptide derived from bradykinin
+KCAT	Homo sapiens	11.8	fibrinopeptide gammaLys77-85	*
+KCAT	Homo sapiens	13.6	fibrinopeptide betaLys125-133	*
+KCAT	Homo sapiens	13.6	fibrinopeptide-beta-Lys125-133	*
+KCAT	Homo sapiens	19.7	bradykinin	*; 
+KCAT	Homo sapiens	29.5	C5a66-74	*peptide derived from bradykinin
+KCAT	Homo sapiens	31	furylacryloyl-Ala-Arg	*
+KCAT	Homo sapiens	57.9	C3a69-77	*peptide derived from bradykinin
+KCAT	Homo sapiens	80.35	chemerin	*
+KCAT	Homo sapiens	97	furylacryloyl-Ala-Lys	*
+KCAT	Homo sapiens	109.1	fibrinopeptide betaLys125-133	*
+KCAT	Homo sapiens	139	benzoyl-Ala-Arg	*
+KCAT	Homo sapiens	352	Benzoyl-Ala-Lys	*

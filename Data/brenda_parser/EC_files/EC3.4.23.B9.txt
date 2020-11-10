@@ -1,0 +1,50 @@
+KCAT	bovine leukemia virus	0.003	KTKVLVVQPK	*mutant W99V
+KCAT	bovine leukemia virus	0.006	KTKVLVVQPK	*mutant V57I
+KCAT	bovine leukemia virus	0.01	KTKVLDVQPK	*value below 0.01, P1'-substituted peptide
+KCAT	bovine leukemia virus	0.01	PPMVGVLDAP	*pH 5.6, 37&deg;C
+KCAT	bovine leukemia virus	0.016	KTKVLVVQPK	*mutant D97T/K98P/W99V
+KCAT	bovine leukemia virus	0.02	KGPPVILPIQAP	*pH 5.6, 37&deg;C
+KCAT	bovine leukemia virus	0.04	PPAILPIISE	*pH 5.6, 37&deg;C
+KCAT	bovine leukemia virus	0.07	APQVLPVMHP	*pH 5.6, 37&deg;C
+KCAT	bovine leukemia virus	0.07	KTKDLVVQPK	*P2-substituted peptide
+KCAT	bovine leukemia virus	0.09	KTKVGVVQPK	*P1-substituted peptide
+KCAT	bovine leukemia virus	0.11	KTKVDVVQPK	*P1-substituted peptide
+KCAT	bovine leukemia virus	0.11	KTKVSVVQPK	*P1-substituted peptide
+KCAT	bovine leukemia virus	0.11	KTLVLVVQPK	*P3-substituted peptide
+KCAT	bovine leukemia virus	0.12	KTKVLGVQPK	*P1'-substituted peptide
+KCAT	bovine leukemia virus	0.13	KTKNLVVQPK	*P2-substituted peptide
+KCAT	bovine leukemia virus	0.13	KTVVLVVQPK	*P3-substituted peptide
+KCAT	bovine leukemia virus	0.16	KPKVLVVQPK	*P4-substituted peptide
+KCAT	bovine leukemia virus	0.17	KTDVLVVQPK	*P3-substituted peptide
+KCAT	bovine leukemia virus	0.17	KTKVLVVQPK	*pH 5.6, 37&deg;C
+KCAT	bovine leukemia virus	0.18	KQPAILVHTPG	*pH 5.6, 37&deg;C
+KCAT	bovine leukemia virus	0.18	KTAVLVVQPK	*P3-substituted peptide
+KCAT	bovine leukemia virus	0.18	KTKVLSVQPK	*P1'-substituted peptide
+KCAT	bovine leukemia virus	0.19	KSKVLVVQPK	*P4-substituted peptide
+KCAT	bovine leukemia virus	0.19	KTKGLVVQPK	*P2-substituted peptide
+KCAT	bovine leukemia virus	0.2	KTSVLVVQPK	*P3-substituted peptide
+KCAT	bovine leukemia virus	0.2	KVKVLVVQPK	*P4-substituted peptide
+KCAT	bovine leukemia virus	0.22	KAKVLVVQPK	*P4-substituted peptide
+KCAT	bovine leukemia virus	0.23	KTKVLIVQPK	*P1'-substituted peptide
+KCAT	bovine leukemia virus	0.23	KTKVLVVQPK	*mutant N38D
+KCAT	bovine leukemia virus	0.24	KTKVMVVQPK	*P1-substituted peptide
+KCAT	bovine leukemia virus	0.27	KTKVLVVQPK	*
+KCAT	bovine leukemia virus	0.28	KTKVLFVQPK	*P1'-substituted peptide
+KCAT	bovine leukemia virus	0.29	KTKILVVQPK	*P2-substituted peptide
+KCAT	bovine leukemia virus	0.29	KTKLLVVQPK	*P2-substituted peptide
+KCAT	bovine leukemia virus	0.32	KTKFLVVQPK	*P2-substituted peptide
+KCAT	bovine leukemia virus	0.34	KTKVAVVQPK	*P1-substituted peptide
+KCAT	bovine leukemia virus	0.34	KTKVLLVQPK	*P1'-substituted peptide
+KCAT	bovine leukemia virus	0.35	KTKALVVQPK	*P2-substituted peptide
+KCAT	bovine leukemia virus	0.35	KTKSLVVQPK	*P2-substituted peptide
+KCAT	bovine leukemia virus	0.35	TKVLVVQPK	*
+KCAT	bovine leukemia virus	0.36	KTKVLKVQPK	*P1'-substituted peptide
+KCAT	bovine leukemia virus	0.44	KTFVLVVQPK	*P3-substituted peptide
+KCAT	bovine leukemia virus	0.58	KGKVLVVQPK	*P4-substituted peptide
+KCAT	bovine leukemia virus	0.71	KVLVVQPK	*
+KCAT	bovine leukemia virus	0.74	KLKVLVVQPK	*P4-substituted peptide
+KCAT	bovine leukemia virus	0.74	KTGVLVVQPK	*P3-substituted peptide
+KCAT	bovine leukemia virus	0.74	KTKVYVVQPK	*P1-substituted peptide
+KCAT	bovine leukemia virus	0.85	KTKVLPVQPK	*P1'-substituted peptide
+KCAT	bovine leukemia virus	0.9	KDKVLVVQPK	*P4-substituted peptide
+KCAT	bovine leukemia virus	2	KTKVFVVQPK	*P1-substituted peptide

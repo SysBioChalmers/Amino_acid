@@ -1,0 +1,12 @@
+KCAT	Homo sapiens	0.005	ATP	*recombinant COT30-467/p105DELTAN, pH 7.5, 22&Acirc;&deg;C, with 10 mM Mg2+
+KCAT	Homo sapiens	0.006	ATP	*recombinant COT30-467/p105DELTAN, pH 7.5, 22&Acirc;&deg;C, with 5 mM Mn2+
+KCAT	Homo sapiens	0.0328	ATP	*recombinant COT30-397/p105DELTAN, pH 7.5, 22&Acirc;&deg;C, with 10 mM Mg2+
+KCAT	Homo sapiens	0.033	ATP	*recombinant COT30-397/p105DELTAN, pH 7.5, 22&Acirc;&deg;C, with 5 mM Mn2+
+KCAT	Homo sapiens	0.245	ATP	*recombinant COT30-397, pH 7.5, 22&Acirc;&deg;C, with 10 mM Mn2+
+KCAT	Homo sapiens	0.26	ATP	*recombinant COT30-397, pH 7.5, 22&Acirc;&deg;C, with 5 mM Mn2+
+KCAT	Homo sapiens	0.005	MEK	*recombinant COT30-467/p105DELTAN, pH 7.5, 22&Acirc;&deg;C, with 10 mM Mg2+
+KCAT	Homo sapiens	0.006	MEK	*recombinant COT30-467/p105DELTAN, pH 7.5, 22&Acirc;&deg;C, with 5 mM Mn2+
+KCAT	Homo sapiens	0.0328	MEK	*recombinant COT30-397/p105DELTAN, pH 7.5, 22&Acirc;&deg;C, with 10 mM Mg2+
+KCAT	Homo sapiens	0.033	MEK	*recombinant COT30-397/p105DELTAN, pH 7.5, 22&Acirc;&deg;C, with 5 mM Mn2+
+KCAT	Homo sapiens	0.245	MEK	*recombinant COT30-397, pH 7.5, 22&Acirc;&deg;C, with 10 mM Mg2+
+KCAT	Homo sapiens	0.26	MEK	*recombinant COT30-397, pH 7.5, 22&Acirc;&deg;C, with 5 mM Mn2+

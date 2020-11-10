@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	0.022	Lys-Val-Tyr 4-nitroanilide	*
+KCAT	Homo sapiens	0.028	Arg-Pro-Tyr 4-nitroanilide	*
+KCAT	Homo sapiens	0.075	N-succinyl-L-Ala-L-Ala-L-Pro-L-Phe 4-nitroanilide	*
+KCAT	Homo sapiens	0.19	4-morpholinecarbonyl-HSSKLQ-7-amido-4-methylcoumarin	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.75	MeO-Suc-Arg-Pro-Tyr-4-nitroanilide	*pH 7.4, 37&deg;C

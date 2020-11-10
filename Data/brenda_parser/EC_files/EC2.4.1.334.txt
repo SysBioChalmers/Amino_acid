@@ -1,0 +1,7 @@
+KCAT	Lachnoclostridium phytofermentans	2.7	maltose	*pH 7.0, 30&Acirc;&deg;C, reverse phosphorolysis reaction, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	3.5	kojibiose	*pH 7.0, 30&Acirc;&deg;C, reverse phosphorolysis reaction, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	8.7	3-O-alpha-D-glucopyranosyl-D-glucopyranose	*pH 7.0, 30&Acirc;&deg;C, reverse phosphorolysis reaction, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	5.1	beta-D-glucopyranose 1-phosphate	*pH 7.0, 30&Acirc;&deg;C, reverse phosphorolysis reaction, acceptor 3-O-alpha-D-glucopyranosyl-D-glucopyranose, i.e. nigerose
+KCAT	Lachnoclostridium phytofermentans	11	3-O-alpha-D-glucopyranosyl-3-O-alpha-D-glucopyranosyl-D-glucopyranose	*pH 7.0, 30&Acirc;&deg;C, phosphorolysis reaction, release of beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	17	3-O-alpha-D-glucopyranosyl-3-O-alpha-D-glucopyranosyl-D-glucopyranose	*pH 7.0, 30&Acirc;&deg;C, reverse phosphorolysis reaction, donor beta-D-glucopyranose 1-phosphate
+KCAT	Lachnoclostridium phytofermentans	8.5	3-O-alpha-D-glucopyranosyl-3-O-alpha-D-glucopyranosyl-3-O-alpha-D-glucopyranosyl-D-glucopyranose	*pH 7.0, 30&Acirc;&deg;C, phosphorolysis reaction, release of beta-D-glucopyranose 1-phosphate

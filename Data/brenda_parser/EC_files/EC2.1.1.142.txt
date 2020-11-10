@@ -1,0 +1,14 @@
+KCAT	Glycine max	0.00000083	24,25-dehydro-27-methylene-cycloartenol	*pH 7.5, 35&deg;C, recombinant enzyme
+KCAT	Glycine max	0.0001	cyclobranol	*
+KCAT	Glycine max	0.0003	24-fluorocycloartenol	*pH 7.5, 35&deg;C
+KCAT	Glycine max	0.00033	24-fluorocycloartenol	*
+KCAT	Glycine max	0.00033	26,27-dehydrocycloartenol	*
+KCAT	Glycine max	0.001	24(28)-methylenelophenol	*
+KCAT	Arabidopsis thaliana	0.001	26,27-dehydrozymosterol	*pH 7.5, 35&deg;C
+KCAT	Paracoccidioides brasiliensis	0.0023	lanosterol	*pH 7.5, 30&deg;C, recombinant wild-type enzyme
+KCAT	Arabidopsis thaliana	0.01	Cycloartenol	*pH 7.5, 35&deg;C
+KCAT	Glycine max	0.01	Cycloartenol	*
+KCAT	Glycine max	0.01	Cycloartenol	*
+KCAT	Glycine max	0.01	Cycloartenol	*pH 7.5, 35&deg;C, recombinant enzyme
+KCAT	Glycine max	0.01	Cycloartenol	*pH 7.5, 35&deg;C
+KCAT	Glycine max	0.013	24(28)methylene lophenol	*

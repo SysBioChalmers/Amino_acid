@@ -1,0 +1,4 @@
+KCAT	Synechocystis sp.	0.95	Fe(III)-EDTA	*in the absence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	2	Fe(III)-EDTA	*in the presence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	0.24	Fe(III)-citrate	*in the absence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	1.11	Fe(III)-citrate	*in the presence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C

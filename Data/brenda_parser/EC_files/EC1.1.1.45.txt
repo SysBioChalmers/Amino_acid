@@ -1,0 +1,2 @@
+KCAT	Drosophila melanogaster	0.733	DL-3-hydroxybutanoate	*
+KCAT	Drosophila melanogaster	7.4	L-gulonate	*

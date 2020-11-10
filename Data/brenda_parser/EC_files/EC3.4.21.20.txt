@@ -1,0 +1,22 @@
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	0.025	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-amino benzoyl-NH2	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.421	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-amino benzoyl-NH2	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.512	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Phe-amino benzoyl-NH2	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.524	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Trp-amino benzoyl-NH2	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.604	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Asp-amino benzoyl-NH2	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	3	N-benzoyl-L-tyrosine ethyl ester	*
+KCAT	Homo sapiens	6	methoxysuccinyl-L-alanine-L-alanine-L-proline-L-valine-p-nitroanilide	*
+KCAT	Homo sapiens	6.08	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Asp-amino benzoyl-NH2	*pH 7.5, 25&deg;C
+KCAT	Homo sapiens	6.08	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Trp-amino benzoyl-NH2	*pH 7.5, 25&deg;C
+KCAT	Mus musculus	9	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	*mutant enzyme S189A/A226E, in PBS buffer, pH 8.0, 37&deg;C
+KCAT	Mus musculus	12	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	*mutant enzyme A226E, in PBS buffer, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	14	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	*wild type enzyme, in PBS buffer, pH 8.0, 37&deg;C
+KCAT	Mus musculus	16	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	*mutant enzyme S189A/A226E, in 1.8 M NaCl, pH 8.0, 37&deg;C
+KCAT	Rattus norvegicus	16.5	methoxysuccinyl-L-alanine-L-alanine-L-proline-L-valine-p-nitrophenylanilide	*
+KCAT	Homo sapiens	19	acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-amino benzoyl-NH2	*pH 7.5, 25&deg;C
+KCAT	Rattus norvegicus	20.2	N-acetyl-L-phenylalanine-p-nitrophenyl ester	*
+KCAT	Mus musculus	22	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	*mutant enzyme A226E, in 1.8 M NaCl, pH 8.0, 37&deg;C
+KCAT	Mus musculus	33	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	*wild type enzyme, in PBS buffer, pH 8.0, 37&deg;C
+KCAT	Mus musculus	41	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	*wild type enzyme, in 1.8 M NaCl, pH 8.0, 37&deg;C
+KCAT	Homo sapiens	68.3	N-acetyl-L-phenylalanine-p-nitrophenyl ester	*
+KCAT	Homo sapiens	100	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	*wild type enzyme, in 1.8 M NaCl, pH 8.0, 37&deg;C

@@ -1,0 +1,1 @@
+ecNumber*2.5.1.67#turnoverNumber*0.008#turnoverNumberMaximum*#substrate*dimethylallyl diphosphate#commentary*pH 7.5, 30&deg;C, His-tagged or detagged recombinant enzyme#organism*Tanacetum cinerariifolium#ligandStructureId*157#literature*670719#

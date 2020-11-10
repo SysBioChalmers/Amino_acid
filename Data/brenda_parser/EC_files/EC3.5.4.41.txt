@@ -1,0 +1,4 @@
+KCAT	Methanocaldococcus jannaschii	1.12	5'-deoxyadenosine	*pH and temperature not specified in the publication, mutant enzyme Y136R/E150R
+KCAT	Methanocaldococcus jannaschii	21	5'-deoxyadenosine	*pH and temperature not specified in the publication, mutant enzyme E150R
+KCAT	Methanocaldococcus jannaschii	330	5'-deoxyadenosine	*pH and temperature not specified in the publication, mutant enzyme Y136R
+KCAT	Methanocaldococcus jannaschii	120000	5'-deoxyadenosine	*pH and temperature not specified in the publication, wild-type enzyme

@@ -1,0 +1,1 @@
+ecNumber*1.11.2.5#turnoverNumber*0.205#turnoverNumberMaximum*#substrate*L-tyrosine#commentary*pH 9.0, 25&deg;C#organism*Streptomyces lavendulae#ligandStructureId*109#literature*725507#!ecNumber*1.11.2.5#turnoverNumber*0.476#turnoverNumberMaximum*#substrate*3-methyl-L-tyrosine#commentary*pH 9.0, 25&deg;C#organism*Streptomyces lavendulae#ligandStructureId*10920#literature*725507#

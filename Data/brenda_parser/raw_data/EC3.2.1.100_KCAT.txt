@@ -1,0 +1,1 @@
+ecNumber*3.2.1.100#turnoverNumber*12.53#turnoverNumberMaximum*#substrate*beta-mannan#commentary*pH 5.5, 40&deg;C#organism*Xanthomonas citri#ligandStructureId*#literature*751110#!ecNumber*3.2.1.100#turnoverNumber*126.86#turnoverNumberMaximum*#substrate*mannohexaose#commentary*pH 5.5, 40&deg;C#organism*Xanthomonas citri#ligandStructureId*31240#literature*751110#

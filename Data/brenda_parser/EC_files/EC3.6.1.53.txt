@@ -1,0 +1,63 @@
+KCAT	Danio rerio	0.2	ADP	*mutant H97A, pH 7.5, temperature not specified in the publication
+KCAT	Danio rerio	1.8	ADP	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Rattus norvegicus	4.4	ADP	*pH 7.5, 37&Acirc;&deg;C; recombinant enzyme, in 50 mM Tris-HCl (pH 7.5), 0.1 mM MnCl2, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.003	ADP-ribose	*mutant R43A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Danio rerio	0.4	ADP-ribose	*mutant H97A, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	0.47	ADP-ribose	*mutant H111A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.3	ADP-ribose	*mutant H111N, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.3	ADP-ribose	*mutant N110A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	7	ADP-ribose	*mutant F37A/L196A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	8	ADP-ribose	*mutant F37A/L196F, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	10	ADP-ribose	*mutant Q27H, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	12.8	ADP-ribose	*pH 7.5, 37&Acirc;&deg;C; recombinant enzyme, in 50 mM Tris-HCl (pH 7.5), 01 mM MnCl2, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	13	ADP-ribose	*mutant F37A/L196F/C253A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	14	ADP-ribose	*mutant F37A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	16	ADP-ribose	*mutant L196A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Danio rerio	18	ADP-ribose	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	19	ADP-ribose	*mutant F210A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	35	ADP-ribose	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	50	ADP-ribose	*mutant F37Y, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	97	ADP-ribose	*mutant C253A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.11	2',3'-cAMP	*mutant N110A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.95	2',3'-cAMP	*mutant R43A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2	2',3'-cAMP	*mutant F37A/L196F, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.7	2',3'-cAMP	*mutant F210A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	3	2',3'-cAMP	*mutant F37A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	4.3	2',3'-cAMP	*mutant Q27H, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	7.4	2',3'-cAMP	*mutant H111A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Danio rerio	16.9	2',3'-cAMP	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	19	2',3'-cAMP	*mutant F37A/L196A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	20	2',3'-cAMP	*mutant F37A/L196F/C253A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Danio rerio	29.7	2',3'-cAMP	*mutant H97A, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	30	2',3'-cAMP	*mutant L196A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	34	2',3'-cAMP	*mutant H111N, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	60	2',3'-cAMP	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	70	2',3'-cAMP	*mutant F37Y, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	83	2',3'-cAMP	*mutant C253A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.025	CDP-choline	*mutant R43A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Danio rerio	0.8	CDP-choline	*mutant H97A, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	2.2	CDP-choline	*mutant H111A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.3	CDP-choline	*mutant H111N, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	5.7	CDP-choline	*mutant N110A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	25	CDP-choline	*mutant F37A/L196A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	26	CDP-choline	*mutant F37A/L196F, pH 7.5, 37&Acirc;&deg;C
+KCAT	Rattus norvegicus	28.5	CDP-choline	*pH 7.5, 37&Acirc;&deg;C; recombinant enzyme, in 50 mM Tris-HCl (pH 7.5), 0.1 mM MnCl2, at 37&Acirc;&deg;C
+KCAT	Homo sapiens	29	CDP-choline	*mutant L196A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	33	CDP-choline	*mutant F37A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	37	CDP-choline	*mutant F37A/L196F/C253A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	39	CDP-choline	*mutant Q27H, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	50	CDP-choline	*mutant F210A, pH 7.5, 37&Acirc;&deg;C; wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Danio rerio	67.2	CDP-choline	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	76	CDP-choline	*mutant F37Y, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	79	CDP-choline	*mutant C253A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Danio rerio	2.1	CDP-ethanolamine	*mutant H97A, pH 7.5, temperature not specified in the publication
+KCAT	Rattus norvegicus	41.3	CDP-ethanolamine	*pH 7.5, 37&Acirc;&deg;C; recombinant enzyme, in 50 mM Tris-HCl (pH 7.5), 0.1 mM MnCl2, at 37&Acirc;&deg;C
+KCAT	Danio rerio	125.2	CDP-ethanolamine	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Danio rerio	0.8	CDP-glycerol	*mutant H97A, pH 7.5, temperature not specified in the publication
+KCAT	Rattus norvegicus	28.1	CDP-glycerol	*pH 7.5, 37&Acirc;&deg;C; recombinant enzyme, in 50 mM Tris-HCl (pH 7.5), 0.1 mM MnCl2, at 37&Acirc;&deg;C
+KCAT	Danio rerio	95.6	CDP-glycerol	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Danio rerio	0.005	cyclic ADP-ribose	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Rattus norvegicus	0.87	cyclic ADP-ribose	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.2	cyclic ADP-ribose	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	8.9	cyclic ADP-ribose	*mutant C253A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	16	cyclic ADP-ribose	*mutant F37A/L196F/C253A, pH 7.5, 37&Acirc;&deg;C

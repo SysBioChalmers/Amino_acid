@@ -1,0 +1,12 @@
+KCAT	Thermotoga maritima	11	D-arabinitol	*pH 8.5, 85&deg;C, recombinant Strep-tagged enzyme
+KCAT	Thermotoga maritima	11	D-arabitol	*85&deg;C, pH 8.5, Strep-tagged enzyme
+KCAT	Thermotoga maritima	11.2	D-xylitol	*pH 8.5, 85&deg;C, recombinant Strep-tagged enzyme
+KCAT	Thermotoga maritima	11.2	D-xylitol	*85&deg;C, pH 8.5, Strep-tagged enzyme
+KCAT	Thermotoga maritima	16.6	D-xylitol	*pH 8.5, 85&deg;C, recombinant detagged enzyme
+KCAT	Thermotoga maritima	16.6	D-xylitol	*85&deg;C, pH 8.5, tag-less enzyme
+KCAT	Thermotoga maritima	18.7	D-arabinitol	*pH 8.5, 85&deg;C, recombinant detagged enzyme
+KCAT	Thermotoga maritima	18.7	D-arabitol	*85&deg;C, pH 8.5, tag-less enzyme
+KCAT	Thermotoga maritima	165.6	D-ribulose	*pH 7.5, 85&deg;C, recombinant Strep-tagged enzyme
+KCAT	Thermotoga maritima	165.6	D-ribulose	*85&deg;C, pH 7.5, Strep-tagged enzyme
+KCAT	Thermotoga maritima	193.2	D-ribulose	*pH 7.5, 85&deg;C, recombinant detagged enzyme
+KCAT	Thermotoga maritima	193.2	D-ribulose	*85&deg;C, pH 7.5, tag-less enzyme

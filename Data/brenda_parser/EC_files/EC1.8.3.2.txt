@@ -1,0 +1,46 @@
+KCAT	Saccharomyces cerevisiae	-999	more	*
+KCAT	Gallus gallus	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Saccharomyces cerevisiae	-999	more	*
+KCAT	Aspergillus niger	0.002	RNAse A	*thiol per second
+KCAT	Saccharomyces cerevisiae	0.7	O2	*25&deg;C, recombinant mutant C159S/C176S, in presence of 10 3.5 mM tris(2-carboxyethyl)phosphine
+KCAT	Trypanosoma brucei	0.79	RNAse A	*mutant CIPHCII, pH 7.0, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.8	O2	*25&deg;C, recombinant mutant C159S/C176S, in presence of 10 mM DTT
+KCAT	Homo sapiens	0.83	dithiothreitol	*pH 7.5, 25&deg;C, recombinant mutant C74A/C85A
+KCAT	Homo sapiens	0.87	dithiothreitol	*pH 7.5, 25&deg;C, recombinant mutant C15A
+KCAT	Homo sapiens	0.9	dithiothreitol	*pH 7.5, 25&deg;C, recombinant mutant C124A
+KCAT	Trypanosoma brucei	0.9	dithiothreitol	*mutant CIPHCII, pH 7.0, 25&deg;C
+KCAT	Homo sapiens	0.95	dithiothreitol	*pH 7.5, 25&deg;C, recombinant mutant C15A/C124A
+KCAT	Homo sapiens	1.1	dithiothreitol	*pH 7.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Saccharomyces cerevisiae	1.1	O2	*25&deg;C, recombinant wild-type enzyme, in presence of 3.5 mM tris(2-carboxyethyl)phosphine
+KCAT	Homo sapiens	1.25	dithiothreitol	*pH 7.5, 25&deg;C, recombinant mutant C15A/C74A/C85A/C124A
+KCAT	Saccharomyces cerevisiae	1.3	O2	*25&deg;C, recombinant wild-type enzyme, in presence of 10 mM DTT
+KCAT	Saccharomyces cerevisiae	1.5	O2	*25&deg;C, recombinant mutant C30S/C33S, in presence of 10 mM DTT
+KCAT	Saccharomyces cerevisiae	3.43	dithiothreitol	*
+KCAT	Gallus gallus	3.5	DTT	*3&deg;C
+KCAT	Saccharomyces cerevisiae	4	DTT	*Evr2p
+KCAT	Trypanosoma brucei	11	RNAse A	*mutant CIGPCII, pH 7.0, 25&deg;C
+KCAT	Trypanosoma brucei	13.7	dithiothreitol	*mutant CIGPCII, pH 7.0, 25&deg;C
+KCAT	Glycine max	13.9	dithiothreitol	*recombinant enzyme, pH 7.4, 25&deg;C
+KCAT	Gallus gallus	17.2	dithiothreitol	*
+KCAT	Glycine max	17.5	RNAse A	*recombinant enzyme, pH 7.4, 25&deg;C
+KCAT	Gallus gallus	20	DTT	*25&deg;C
+KCAT	Gallus gallus	20.3	2-mercaptoethanol	*
+KCAT	Gallus gallus	21.3	L-Cys	*
+KCAT	Trypanosoma brucei	21.9	RNAse A	*wild-type enzyme, pH 7.0, 25&deg;C
+KCAT	Trypanosoma brucei	22	rRNaseA	*pH 7.5, 37&deg;C
+KCAT	Gallus gallus	23.1	GSH	*
+KCAT	Trypanosoma brucei	45	dithiothreitol	*pH 7.5, 37&deg;C
+KCAT	Trypanosoma brucei	45.1	dithiothreitol	*wild-type enzyme, pH 7.0, 25&deg;C
+KCAT	Aspergillus oryzae	50	2-mercaptoethanol	*pH 7.5, 20&deg;C
+KCAT	Aspergillus niger	66.67	glutathione	*
+KCAT	Gallus gallus	1013	DTT	*native enzyme, pH 7.5
+KCAT	Aspergillus oryzae	5950	D-Cys	*pH 7.5, 20&deg;C
+KCAT	Aspergillus oryzae	6800	L-Cys	*pH 7.5, 20&deg;C
+KCAT	Aspergillus oryzae	52300	L-Cys	*pH 7.5, 20&deg;C
+KCAT	Aspergillus oryzae	55400	2-mercaptoethanol	*pH 7.5, 20&deg;C
+KCAT	Aspergillus oryzae	78600	D-Cys	*pH 7.5, 20&deg;C
+KCAT	Aspergillus oryzae	97500	glutathione	*pH 7.5, 20&deg;C
+KCAT	Aspergillus oryzae	309000	dithiothreitol	*pH 7.5, 20&deg;C
+KCAT	Aspergillus oryzae	337800	dithiothreitol	*pH 7.5, 20&deg;C
+KCAT	Aspergillus oryzae	3600000	glutathione	*pH 7.5, 20&deg;C

@@ -1,0 +1,11 @@
+KCAT	Plasmodium falciparum	0.00025	[histone H3]-N6-acetyl-L-lysine	*at pH 8.0 and 37&deg;C
+KCAT	Plasmodium falciparum	0.00035	[histone H4]-N6-acetyl-L-lysine	*at pH 8.0 and 37&deg;C
+KCAT	Plasmodium falciparum	0.00092	[peptide p300]-N6-acetyl-L-lysine	*at pH 8.0 and 37&deg;C
+KCAT	Plasmodium falciparum	0.001	[histone H3]-N6-acetyl-L-lysine9	*at pH 8.0 and 37&deg;C
+KCAT	Plasmodium falciparum	0.001	[histone H3]-N6-butyryl-L-lysine9	*at pH 8.0 and 37&deg;C
+KCAT	Plasmodium falciparum	0.001	[histone H3]-N6-octanoyl-L-lysine9	*at pH 8.0 and 37&deg;C
+KCAT	Plasmodium falciparum	0.01	[histone H3]-N6-myristoyl-L-lysine9	*Km below 0.001 mM, at pH 8.0 and 37&deg;C
+KCAT	Homo sapiens	0.018	[histone H3]-N6-myristoyl-L-lysine9	*at pH 8.0 and 37&deg;C
+KCAT	Thermotoga maritima	0.023	K382azaKAc-containing p53 peptide	*at 37&deg;C, pH not specified in the publication
+KCAT	Thermotoga maritima	0.18	K382KAc-containing p53 peptide	*at 37&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.275	[histone H3]-N6-acetyl-L-lysine9	*at pH 8.0 and 37&deg;C

@@ -1,0 +1,4 @@
+KCAT	Alteromonas fortis	4.1	iota-carrageenan	*mutant enzyme H281A, at 40&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl
+KCAT	Alteromonas fortis	13.8	iota-carrageenan	*mutant enzyme E310Q, at 40&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl
+KCAT	Wenyingzhuangia fucanilytica	560.75	iota-carrageenan	*pH 8.0, 30&deg;C, recombinant enzyme
+KCAT	Alteromonas fortis	726.6	iota-carrageenan	*wild type enzyme, at 40&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl

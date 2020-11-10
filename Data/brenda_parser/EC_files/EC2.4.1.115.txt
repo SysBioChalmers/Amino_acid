@@ -1,0 +1,4 @@
+KCAT	Vitis labrusca	0.000113	quercetin	*in 100 mM Tris-HCl pH 8.0, at 30&deg;C
+KCAT	Vitis labrusca	0.000247	UDP-glucose	*in 100 mM Tris-HCl pH 8.0, at 30&deg;C
+KCAT	Vitis labrusca	0.000704	cyanidin	*in 100 mM Tris-HCl pH 8.0, at 30&deg;C
+KCAT	Glycine max	1.25	kaempferol	*recombinant enzyme, at pH 8.0 and 30&deg;C

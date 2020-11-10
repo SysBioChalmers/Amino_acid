@@ -1,0 +1,2 @@
+KCAT	Coprinopsis cinerea	0.012	(2E,6E)-farnesyl diphosphate	*pH 8.0, 30&deg;C
+KCAT	Solidago canadensis	0.03	(2E,6E)-farnesyl diphosphate	*25&deg;C, pH not specified in the publication

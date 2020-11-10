@@ -1,0 +1,1 @@
+ecNumber*3.5.1.78#turnoverNumber*2.1#turnoverNumberMaximum*#substrate*glutathionylspermidine#commentary*#organism*Escherichia coli#ligandStructureId*3375#literature*969#

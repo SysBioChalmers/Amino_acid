@@ -1,0 +1,11 @@
+KCAT	Streptomyces coelicolor	0.035	4-nitrophenylpyruvic acid	*pH 7.5, 25&deg;C
+KCAT	Streptomyces coelicolor	0.077	4-fluorophenylpyruvic acid	*pH 7.5, 25&deg;C
+KCAT	Streptomyces coelicolor	0.13	4-methylphenylpyruvic acid	*pH 7.5, 25&deg;C
+KCAT	Streptomyces coelicolor	0.17	2-oxo-4-phenylbutanoic acid	*pH 7.5, 25&deg;C
+KCAT	Streptomyces coelicolor	0.88	phenylpyruvic acid	*pH 7.5, 25&deg;C
+KCAT	Streptomyces coelicolor	0.96	4-methoxyphenylpyruvic acid	*pH 7.5, 25&deg;C
+KCAT	Amycolatopsis orientalis	1.2	4-hydroxyphenylpyruvate	*pH 7.0, 25&deg;C, mutant T214P
+KCAT	Amycolatopsis orientalis	1.4	4-hydroxyphenylpyruvate	*pH 7.0, 25&deg;C, mutant I216N
+KCAT	Amycolatopsis orientalis	3	4-hydroxyphenylpyruvate	*pH 7.0, 25&deg;C, mutant S201A
+KCAT	Amycolatopsis orientalis	3.7	4-hydroxyphenylpyruvate	*pH 7.0, 25&deg;C, wild-type enzyme
+KCAT	Streptomyces coelicolor	4.5	4-hydroxyphenylpyruvate	*pH 7.5, 25&deg;C

@@ -1,0 +1,1 @@
+KCAT	Streptomyces niveus	0.4	demethyldecarbamoylnovobiocin	*pH 8.5, 22&deg;C

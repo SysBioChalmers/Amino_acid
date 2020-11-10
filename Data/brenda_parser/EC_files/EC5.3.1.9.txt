@@ -1,0 +1,71 @@
+KCAT	Thermococcus litoralis	0.0003	D-fructose 6-phosphate	*50&deg;C, pH 7.5, mutant enzyme E98V
+KCAT	Thermococcus litoralis	0.021	D-fructose 6-phosphate	*50&deg;C, pH 7.5, mutant enzyme H89A
+KCAT	Homo sapiens	0.04	D-glucose 6-phosphate	*kcat below 0.04 s-1mutant enzyme H389L, at 21&deg;C in 20 mM HEPES buffer (pH 7.5); kcat below 0.04 s-1,mutant enzyme K362A, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Archaeoglobus fulgidus	0.06	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme E93D
+KCAT	Archaeoglobus fulgidus	0.07	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme G79L
+KCAT	Archaeoglobus fulgidus	0.22	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme Y95F
+KCAT	Homo sapiens	0.3	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant S278L
+KCAT	Archaeoglobus fulgidus	0.32	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme G79A
+KCAT	Thermococcus litoralis	0.34	D-fructose 6-phosphate	*50&deg;C, pH 7.5, mutant enzyme H137A
+KCAT	Archaeoglobus fulgidus	0.42	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme H80D
+KCAT	Archaeoglobus fulgidus	0.43	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme H80A
+KCAT	Thermococcus litoralis	0.5	D-fructose 6-phosphate	*50&deg;C, pH 7.5, mutant enzyme H91A
+KCAT	Homo sapiens	0.6	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant S278L
+KCAT	Homo sapiens	0.6	D-glucose 6-phosphate	*mutant enzyme H100L, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Archaeoglobus fulgidus	0.68	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme Y95K
+KCAT	Homo sapiens	1.3	D-glucose 6-phosphate	*mutant enzyme D511N, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Homo sapiens	1.6	D-glucose 6-phosphate	*mutant enzyme E495Q, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Archaeoglobus fulgidus	1.9	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme T63A
+KCAT	Homo sapiens	4	D-glucose 6-phosphate	*mutant enzyme Q388A, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Thermococcus kodakarensis	5	D-fructose 6-phosphate	*at pH 6.0 and 37&deg;C
+KCAT	Archaeoglobus fulgidus	8	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme H82A
+KCAT	Pyrococcus furiosus	8.4	D-fructose 6-phosphate	*50&deg;C
+KCAT	Archaeoglobus fulgidus	11.6	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme Y160F
+KCAT	Homo sapiens	15	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant L339P
+KCAT	Homo sapiens	17	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant L487F
+KCAT	Carassius auratus	18	D-fructose 6-phosphate	*pH 8.0
+KCAT	Homo sapiens	19	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant L487F
+KCAT	Homo sapiens	21	D-glucose 6-phosphate	*mutant enzyme H396L, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Thermococcus litoralis	26	D-fructose 6-phosphate	*50&deg;C, pH 7.5, wild-type enzyme
+KCAT	Archaeoglobus fulgidus	30.8	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, mutant enzyme H136A
+KCAT	Homo sapiens	31	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant L339P
+KCAT	Archaeoglobus fulgidus	32.4	D-fructose 6-phosphate	*pH 7.4, 70&deg;C, wild-type enzyme
+KCAT	Homo sapiens	42	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R347H
+KCAT	Thermococcus litoralis	42	D-glucose 6-phosphate	*50&deg;C, pH 7.5, wild-type enzyme
+KCAT	Homo sapiens	61	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant A300P
+KCAT	Homo sapiens	63	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R347H
+KCAT	Homo sapiens	75	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant T375R
+KCAT	Homo sapiens	76	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant I525T
+KCAT	Homo sapiens	80	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant T375R
+KCAT	Homo sapiens	93	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R75G
+KCAT	Homo sapiens	100	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant A300P
+KCAT	Homo sapiens	110	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant I525T
+KCAT	Homo sapiens	120	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R83W
+KCAT	Homo sapiens	130	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R75G
+KCAT	Homo sapiens	140	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant V101M
+KCAT	Homo sapiens	150	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R347C
+KCAT	Homo sapiens	160	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant V101M
+KCAT	Homo sapiens	190	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R472H; pH 7.5, 30&deg;C, recombinant mutant R83W
+KCAT	Homo sapiens	240	D-glucose 6-phosphate	*mutant enzyme Y274F, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Homo sapiens	260	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R472H
+KCAT	Homo sapiens	300	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant T195I
+KCAT	Homo sapiens	340	D-glucose 6-phosphate	*mutant enzyme Y341F, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Homo sapiens	350	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant R347C
+KCAT	Homo sapiens	360	D-glucose 6-phosphate	*mutant enzyme S185A, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Homo sapiens	380	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant T195I
+KCAT	Homo sapiens	420	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant E495K
+KCAT	Homo sapiens	470	D-glucose 6-phosphate	*mutant enzyme N154Q, at 21&deg;C in 20 mM HEPES buffer (pH 7.5); mutant enzyme N386A, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Pyrococcus furiosus	475.5	L-talose	*pH 7.0, 95&deg;C
+KCAT	Homo sapiens	500	D-glucose 6-phosphate	*wild type enzyme, at 21&deg;C in 20 mM HEPES buffer (pH 7.5)
+KCAT	Homo sapiens	650	D-fructose 6-phosphate	*pH 7.5, 30&deg;C, recombinant wild-type enzyme
+KCAT	Hungateiclostridium thermocellum	729	D-glucose 6-phosphate	*cellulose-binding module-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	750	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant mutant E495K
+KCAT	Hungateiclostridium thermocellum	929	D-glucose 6-phosphate	*free enzyme, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 37&deg;C
+KCAT	Hungateiclostridium thermocellum	946	D-glucose 6-phosphate	*avicel-cellulose-binding module-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1000	D-glucose 6-phosphate	*pH 7.5, 30&deg;C, recombinant wild-type enzyme
+KCAT	Hungateiclostridium thermocellum	1091	D-glucose 6-phosphate	*immobilized-cellulose-binding module-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 37&deg;C
+KCAT	Hungateiclostridium thermocellum	2009	D-glucose 6-phosphate	*avicel-cellulose-binding module-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 60&deg;C
+KCAT	Hungateiclostridium thermocellum	2198	D-glucose 6-phosphate	*immobilized-cellulose-binding module-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 60&deg;C
+KCAT	Hungateiclostridium thermocellum	2433	D-glucose 6-phosphate	*cellulose-binding module-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 60&deg;C
+KCAT	Hungateiclostridium thermocellum	2765	D-glucose 6-phosphate	*free enzyme, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 60&deg;C
+KCAT	Homo sapiens	3330	fructose 6-phosphate	*isomerase a

@@ -1,0 +1,4 @@
+KCAT	Manihot esculenta	0.02	N-hydroxy-2-phenylethanimine	*pH 7.9, 28&deg;C
+KCAT	Manihot esculenta	0.13	N-hydroxy-2-(4-hydroxypheny)-lethanimine	*pH 7.9, 28&deg;C
+KCAT	Manihot esculenta	0.28	(E)-2-methylbutanal oxime	*pH 7.9, 28&deg;C
+KCAT	Manihot esculenta	0.35	(E)-2-methylpropanal oxime	*pH 7.9, 28&deg;C

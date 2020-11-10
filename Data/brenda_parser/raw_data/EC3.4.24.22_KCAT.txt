@@ -1,0 +1,1 @@
+ecNumber*3.4.24.22#turnoverNumber*3.8#turnoverNumberMaximum*#substrate*(7-Methoxycoumarin-4-yl)acetyl-Arg-Pro-Lys-Pro-Val-Glu-norvaline-Trp-Arg-Lys(2,4-dinitrophenyl)-NH2#commentary*#organism*Homo sapiens#ligandStructureId*8978#literature*31017#

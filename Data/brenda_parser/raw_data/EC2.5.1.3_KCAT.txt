@@ -1,0 +1,1 @@
+ecNumber*2.5.1.3#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Bacillus subtilis#ligandStructureId*#literature*639724#

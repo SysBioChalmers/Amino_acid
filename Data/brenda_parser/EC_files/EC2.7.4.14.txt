@@ -1,0 +1,30 @@
+KCAT	Homo sapiens	0.019	cytarabine	*pH and temperature not specified in the publication, recombinant mutant P64T
+KCAT	Homo sapiens	0.036	dCMP	*pH and temperature not specified in the publication, recombinant mutant P64T
+KCAT	Homo sapiens	0.09	Cidofovir	*pH and temperature not specified in the publication, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.31	CMP	*pH and temperature not specified in the publication, recombinant mutant P64T
+KCAT	Homo sapiens	0.35	UMP	*pH and temperature not specified in the publication, recombinant mutant P64T
+KCAT	Homo sapiens	0.47	5-aza-cidofovir	*pH and temperature not specified in the publication, recombinant wild-type enzyme
+KCAT	Sus scrofa	0.65	UMP	*pH 7.0, 25&deg;C, AUA chimeric enzyme
+KCAT	Homo sapiens	5.8	dUMP	*pH and temperature not specified in the publication, recombinant wild-type enzyme
+KCAT	Arabidopsis thaliana	7.64	UMP	*pH 6.5
+KCAT	Arabidopsis thaliana	8.57	CMP	*pH 6.5
+KCAT	Dictyostelium sp.	10	beta-L-2',3'-dideoxy-3'-thiacytidine monophosphate	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	13.4	dCMP	*pH and temperature not specified in the publication, recombinant wild-type enzyme
+KCAT	Sus scrofa	13.7	UMP	*pH 7.0, 25&deg;C, UAU chimeric enzyme
+KCAT	Homo sapiens	14	beta-L-2',3'-dideoxy-3'-thiacytidine monophosphate	*pH 7.4, 37&deg;C, GST fusion UMP/CMP kinase
+KCAT	Dictyostelium sp.	22	dCMP	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	30	dCMP	*pH 7.4, 37&deg;C, GST fusion UMP-CMP kinase
+KCAT	Homo sapiens	36	beta-L-2',3'-dideoxy-3'-thiacytidine monophosphate	*pH 7.4, 37&deg;C, His-tagged UMP-CMP kinase
+KCAT	Homo sapiens	45	ara-CMP	*pH 7.4, 37&deg;C, GST fusion UMP-CMP kinase
+KCAT	Homo sapiens	72	CMP	*pH 7.4, 37&deg;C, GST fusion UMP-CMP kinase
+KCAT	Homo sapiens	73	dCMP	*pH 7.4, 37&deg;C, His-tagged UMP-CMP kinase
+KCAT	Homo sapiens	92	UMP	*pH 7.4, 37&deg;C, GST fusion UMP-CMP kinase
+KCAT	Homo sapiens	125	CMP	*pH and temperature not specified in the publication, recombinant wild-type enzyme
+KCAT	Homo sapiens	130	CMP	*pH 7.4, 37&deg;C, His-tagged UMP-CMP kinase
+KCAT	Homo sapiens	130	cytarabine	*pH and temperature not specified in the publication, recombinant wild-type enzyme
+KCAT	Homo sapiens	130	UMP	*pH 7.4, 37&deg;C, His-tagged UMP-CMP kinase
+KCAT	Homo sapiens	150	ara-CMP	*pH 7.4, 37&deg;C, His-tagged UMP-CMP kinase
+KCAT	Sus scrofa	174	UMP	*pH 7.0, 25&deg;C, UMP-CMP kinase
+KCAT	Homo sapiens	188	UMP	*pH and temperature not specified in the publication, recombinant wild-type enzyme
+KCAT	Dictyostelium sp.	217	UMP	*pH 7.4, 37&deg;C
+KCAT	Dictyostelium sp.	410	CMP	*pH 7.4, 37&deg;C

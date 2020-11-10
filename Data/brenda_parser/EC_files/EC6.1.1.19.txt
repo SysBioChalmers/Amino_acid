@@ -1,0 +1,42 @@
+KCAT	Homo sapiens	0.28	ATP	*37&Acirc;&deg;C, pH 7.5, arginylation, full-length enzyme
+KCAT	Homo sapiens	0.77	ATP	*37&Acirc;&deg;C, pH 7.5, arginylation, mutant enzyme DELTA1-72
+KCAT	Homo sapiens	3.4	ATP	*pH 7.5, 37&Acirc;&deg;C, recombinant, truncated DELTANhcArgRS, presence of hemin
+KCAT	Escherichia coli	5.6	ATP	*mutant W162A, pH 7.4, 37&Acirc;&ordm;C
+KCAT	Homo sapiens	15.5	ATP	*pH 7.5, 37&Acirc;&deg;C, recombinant, truncated DELTANhcArgRS, absence of hemin
+KCAT	Escherichia coli	26	ATP	*pH 7.4, 37&Acirc;&ordm;C
+KCAT	Canavalia ensiformis	0.215	L-arginine	*pH 7.5, 30&Acirc;&deg;C, recombinant HIS-/thioredoxin-tagged enzyme
+KCAT	Canavalia ensiformis	0.337	L-arginine	*pH 7.5, 30&Acirc;&deg;C, recombinant detagged enzyme
+KCAT	Homo sapiens	0.41	L-arginine	*37&Acirc;&deg;C, pH 7.5, arginylation, full-length enzyme
+KCAT	Homo sapiens	0.97	L-arginine	*37&Acirc;&deg;C, pH 7.5, arginylation, mutant enzyme DELTA1-72
+KCAT	Homo sapiens	3.8	L-arginine	*pH 7.5, 37&Acirc;&deg;C, recombinant, truncated DELTANhcArgRS, presence of hemin
+KCAT	Homo sapiens	17.9	L-arginine	*pH 7.5, 37&Acirc;&deg;C, recombinant, truncated DELTANhcArgRS, absence of hemin
+KCAT	Saccharomyces cerevisiae	0.63	Arg	*aminoacylation of tRNAArg-C-C-A(3'NH2)
+KCAT	Saccharomyces cerevisiae	3.22	Arg	*aminoacylation of tRNAArg-C-C-A
+KCAT	Cricetulus sp.	0.00016	tRNAArg	*25&Acirc;&deg;C, pH 7.5, mammalian tRNAArg, aminoacylation
+KCAT	Cricetulus sp.	0.0045	tRNAArg	*25&Acirc;&deg;C, pH 7.5, tRNAArg from Saccharomyces cerevisiae, aminoacylation
+KCAT	Methanothermobacter thermautotrophicus	0.026	tRNAArg	*pH 7.5, 50&Acirc;&deg;C, recombinant MtArgRS
+KCAT	Methanothermobacter thermautotrophicus	0.034	tRNAArg	*pH 7.5, 50&Acirc;&deg;C, recombinant MtArgRS in presence of recombinant MtSerRS
+KCAT	Homo sapiens	0.32	tRNAArg	*37&Acirc;&deg;C, pH 7.5, arginylation, full-length enzyme
+KCAT	Homo sapiens	0.36	tRNAArg	*wild type enzyme, in 50 mM Tris-HCl (pH 7.5)
+KCAT	Homo sapiens	0.8	tRNAArg	*mutant enzyme DELTANhcArgRS, in 50 mM Tris-HCl (pH 7.5)
+KCAT	Homo sapiens	0.81	tRNAArg	*37&Acirc;&deg;C, pH 7.5, arginylation, mutant enzyme DELTA1-72
+KCAT	Cricetulus sp.	1.8	tRNAArg	*25&Acirc;&deg;C, pH 7.5, native tRNAArg from beef liver, wild type enzyme
+KCAT	Escherichia coli	2	tRNAArg	*transfer RNA isoacceptor for arginine UCU
+KCAT	Homo sapiens	2.5	tRNAArg	*pH 7.5, 37&Acirc;&deg;C, recombinant, truncated DELTANhcArgRS, presence of hemin, Escherichia coli tRNAArg
+KCAT	Cricetulus sp.	2.6	tRNAArg	*25&Acirc;&deg;C, pH 7.5, native tRNAArg from beef liver, mutant enzyme DELTA1-73
+KCAT	Escherichia coli	2.8	tRNAArg	*argS1 mutant, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	16.5	tRNAArg	*pH 7.5, 37&Acirc;&deg;C, recombinant, truncated DELTANhcArgRS, absence of hemin, Escherichia coli tRNAArg
+KCAT	Escherichia coli	17	tRNAArg	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	21.9	tRNAArg	*transfer RNA isoacceptor for arginine UCU
+KCAT	Escherichia coli	26	tRNAArg	*transfer RNA isoacceptor for arginine UCU
+KCAT	Saccharomyces cerevisiae	-999	more	*turnover numbers for aminoacylation of various amino acids with tRNAArg-C-C-A and tRNAArg-C-C-A(3'NH2)
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Escherichia coli	-999	more	*effect on the turnover number of several variations of the tRNAArg sequence
+KCAT	Cricetulus griseus	-999	more	*values for ATP and L-arginine for several mutants and revertants
+KCAT	Saccharomyces cerevisiae	-999	more	*values for different tRNAArg variants
+KCAT	Escherichia coli	0.0017	tRNAArg(ACG)	*tRNA from Escherichia coli, pH and temperature not specified in the publication
+KCAT	Escherichia coli	0.02	tRNAArg(ACG)	*tRNA from Glycine max. pH and temperature not specified in the publication
+KCAT	Glycine max	0.03	tRNAArg(ACG)	*tRNA from Escherichia coli, pH and temperature not specified in the publication
+KCAT	Glycine max	0.04	tRNAArg(ACG)	*tRNA from Glycine max, pH and temperature not specified in the publication
+KCAT	Canavalia ensiformis	0.055	tRNAArg(ACG)	*tRNA from Escherichia coli, pH and temperature not specified in the publication
+KCAT	Canavalia ensiformis	0.105	tRNAArg(ACG)	*tRNA from Glycine max, pH and temperature not specified in the publication

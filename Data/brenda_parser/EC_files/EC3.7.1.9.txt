@@ -1,0 +1,46 @@
+KCAT	Pseudomonas fluorescens	0.002	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*mutant A129/V227I
+KCAT	Pseudomonas fluorescens	0.01	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*mutant A129/I199V; mutant A129V
+KCAT	Pseudomonas fluorescens	0.02	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*mutant I199V; mutant V227I
+KCAT	Pseudomonas fluorescens	0.03	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*
+KCAT	Pseudomonas fluorescens	0.037	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*wild-type
+KCAT	Pseudomonas fluorescens	0.3	2-hydroxy-6-oxohepta-2,4-dienoate	*mutant S34A
+KCAT	Pseudomonas fluorescens	1.5	2-hydroxy-6-oxohepta-2,4-dienoate	*mutant S34G
+KCAT	Pseudomonas fluorescens	6.5	2-hydroxy-6-oxohepta-2,4-dienoate	*mutant F104M
+KCAT	Pseudomonas fluorescens	18	2-hydroxy-6-oxohepta-2,4-dienoate	*
+KCAT	Pseudomonas fluorescens	19	2-hydroxy-6-oxohepta-2,4-dienoate	*mutant A129/I199V
+KCAT	Pseudomonas fluorescens	19.5	2-hydroxy-6-oxohepta-2,4-dienoate	*wild-type
+KCAT	Pseudomonas fluorescens	29	2-hydroxy-6-oxohepta-2,4-dienoate	*mutant A129/V227I
+KCAT	Pseudomonas putida	35	2-hydroxy-6-oxohepta-2,4-dienoate	*
+KCAT	Pseudomonas sp.	36.53	2-hydroxy-6-oxohepta-2,4-dienoate	*recombinant enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	38	2-hydroxy-6-oxohepta-2,4-dienoate	*mutant I199V
+KCAT	Pseudomonas fluorescens	52	2-hydroxy-6-oxohepta-2,4-dienoate	*mutant V227I
+KCAT	Flavobacterium sp.	57	2-hydroxy-6-oxohepta-2,4-dienoate	*
+KCAT	Pseudomonas fluorescens	81	2-hydroxy-6-oxohepta-2,4-dienoate	*mutant A129V
+KCAT	Pseudomonas fluorescens	1.3	2-hydroxy-6-oxoocta-2,4-dienoate	*mutant S34A
+KCAT	Pseudomonas fluorescens	8.4	2-hydroxy-6-oxoocta-2,4-dienoate	*mutant S34G
+KCAT	Pseudomonas putida	14	2-hydroxy-6-oxoocta-2,4-dienoate	*
+KCAT	Pseudomonas fluorescens	15.4	2-hydroxy-6-oxoocta-2,4-dienoate	*mutant F104M
+KCAT	Pseudomonas fluorescens	24	2-hydroxy-6-oxoocta-2,4-dienoate	*mutant A129/V227I
+KCAT	Pseudomonas fluorescens	35	2-hydroxy-6-oxoocta-2,4-dienoate	*mutant A129/I199V
+KCAT	Pseudomonas fluorescens	37	2-hydroxy-6-oxoocta-2,4-dienoate	*mutant I199V
+KCAT	Pseudomonas fluorescens	41	2-hydroxy-6-oxoocta-2,4-dienoate	*
+KCAT	Pseudomonas fluorescens	42.4	2-hydroxy-6-oxoocta-2,4-dienoate	*wild-type
+KCAT	Pseudomonas fluorescens	75	2-hydroxy-6-oxoocta-2,4-dienoate	*mutant A129V
+KCAT	Pseudomonas fluorescens	78	2-hydroxy-6-oxoocta-2,4-dienoate	*mutant V227I
+KCAT	Pseudomonas putida	0.41	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*
+KCAT	Pseudomonas fluorescens	0.73	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant A129/V227I
+KCAT	Pseudomonas fluorescens	3.3	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant A129/I199V
+KCAT	Pseudomonas fluorescens	4.55	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant A129/I199V
+KCAT	Pseudomonas fluorescens	6.4	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant F104M
+KCAT	Pseudomonas fluorescens	6.7	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant S34A
+KCAT	Pseudomonas fluorescens	8.1	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant S34G
+KCAT	Pseudomonas fluorescens	20	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant V227I
+KCAT	Pseudomonas fluorescens	21	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*150 mM phosphate, 25&Acirc;&deg;C, pH 7.5
+KCAT	Pseudomonas fluorescens	21	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*150 mM phosphate buffer, at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	23.1	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*wild-type
+KCAT	Pseudomonas fluorescens	25	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant A129V
+KCAT	Pseudomonas fluorescens	29	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	*mutant I199V
+KCAT	Pseudomonas sp.	18.2	2-hydroxymuconate-6-semialdehyde	*recombinant enzyme, pH 7.5, 25&Acirc;&deg;C
+KCAT	Flavobacterium sp.	42	2-hydroxymuconic semialdehyde	*
+KCAT	Flavobacterium sp.	16	2-hydroxy-5-methylmuconic semialdehyde	*
+KCAT	Pseudomonas sp.	1.15	2-hydroxy-5-methylmuconate-6-semialdehyde	*recombinant enzyme, pH 7.5, 25&Acirc;&deg;C

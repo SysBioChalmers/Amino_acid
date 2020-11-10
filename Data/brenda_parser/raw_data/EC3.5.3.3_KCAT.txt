@@ -1,0 +1,1 @@
+ecNumber*3.5.3.3#turnoverNumber*0.246#turnoverNumberMaximum*#substrate*Creatine#commentary*#organism*Pseudomonas putida#ligandStructureId*433#literature*288989#

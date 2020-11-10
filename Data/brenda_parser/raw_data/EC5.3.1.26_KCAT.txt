@@ -1,0 +1,1 @@
+ecNumber*5.3.1.26#turnoverNumber*0.16#turnoverNumberMaximum*#substrate*D-allose#commentary*pH 7.0, 30&deg;C#organism*Lactococcus lactis#ligandStructureId*945#literature*713915#

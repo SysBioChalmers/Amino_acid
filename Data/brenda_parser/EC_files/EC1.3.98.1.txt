@@ -1,0 +1,13 @@
+KCAT	Plasmodium falciparum	-999	2,3-dimethoxy-5-methyl-6-(3-methyl-2-butenyl)-1,4-benzoquinone	*at saturating concentration of dihydroorotate
+KCAT	Plasmodium falciparum	1.7	L-dihydroorotate	*pH 8.0, 22&deg;C, mutant H185A
+KCAT	Lactobacillus delbrueckii subsp. bulgaricus	2.7	S-dihydroorotate	*with oxygen
+KCAT	Crithidia fasciculata	4	S-dihydroorotate	*
+KCAT	Plasmodium falciparum	4.6	L-dihydroorotate	*pH 8.0, 22&deg;C, mutant R265A
+KCAT	Saccharomyces cerevisiae	6.8	S-dihydroorotate	*with O2
+KCAT	Plasmodium falciparum	7.8	L-dihydroorotate	*pH 8.0, 22&deg;C, wild-type
+KCAT	Trypanosoma brucei	8.5	fumarate	*apparent value
+KCAT	Saccharomyces cerevisiae	23	S-dihydroorotate	*with fumarate, pH 7.5
+KCAT	Saccharomyces cerevisiae	39	dihydrooxonate	*with ferricyanide
+KCAT	Lactobacillus delbrueckii subsp. bulgaricus	157	ferricyanide	*
+KCAT	Saccharomyces cerevisiae	190	S-dihydroorotate	*with ferricyanide
+KCAT	Crithidia fasciculata	231	S-dihydroorotate	*pH 7.4

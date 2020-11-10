@@ -1,0 +1,12 @@
+KCAT	Clostridium perfringens	-999	more	*
+KCAT	Desulfovibrio vulgaris	-999	more	*
+KCAT	Enterococcus faecalis	-999	more	*pH dependence of kcat from pH 5 to pH 9
+KCAT	Enterococcus faecalis	-999	more	*kcat at different pH values
+KCAT	Enterococcus faecalis	0.000167	NADH	*C42A mutant at pH 7.0 and 25&deg;C
+KCAT	Enterococcus faecalis	0.0005	NADH	*C42S mutant at pH 7.0 and 25&deg;C
+KCAT	Enterococcus faecalis	0.05	NADH	*R303M mutant
+KCAT	Enterococcus faecalis	0.388	NADH	*wild type
+KCAT	Enterococcus faecalis	0.395	NADH	*H10Q mutant
+KCAT	Enterococcus faecalis	1.17	NADH	*wild type enzyme at pH 7.0 and 25&deg;C
+KCAT	Enterococcus faecalis	66.7	H2O2	*calculated per flavin
+KCAT	Enterococcus faecalis	83.3	NADH	*under standard assay conditions

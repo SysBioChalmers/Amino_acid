@@ -1,0 +1,8 @@
+KCAT	Tulipa gesneriana	1400	6-tuliposide A	*isoform TCEA-b1, pH not specified in the publication, temperature not specified in the publication
+KCAT	Tulipa gesneriana	2800	6-tuliposide A	*pH 6.5, 22&Acirc;&deg;C
+KCAT	Tulipa gesneriana	3900	6-tuliposide A	*recombinant enzyme, pH 6.5, 22&Acirc;&deg;C
+KCAT	Tulipa gesneriana	480	6-tuliposide B	*recombinant enzyme, pH 6.5, 22&Acirc;&deg;C
+KCAT	Tulipa gesneriana	510	6-tuliposide B	*pH 6.5, 22&Acirc;&deg;C
+KCAT	Tulipa gesneriana	610	6-tuliposide B	*isoform TCEA-b1, pH not specified in the publication, temperature not specified in the publication
+KCAT	Tulipa gesneriana	3300	1,6-tuliposide D	*recombinant enzyme, pH 6.5, 22&Acirc;&deg;C
+KCAT	Tulipa gesneriana	780	tuliposide F	*recombinant enzyme, pH 6.5, 22&Acirc;&deg;C

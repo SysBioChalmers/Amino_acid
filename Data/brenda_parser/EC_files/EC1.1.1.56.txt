@@ -1,0 +1,4 @@
+KCAT	Klebsiella aerogenes	36	xylitol	*
+KCAT	Providencia alcalifaciens	10	ribitol	*at pH 10.0 and 35&Acirc;&deg;C
+KCAT	Klebsiella aerogenes	299	ribitol	*
+KCAT	Klebsiella aerogenes	28	L-arabitol	*

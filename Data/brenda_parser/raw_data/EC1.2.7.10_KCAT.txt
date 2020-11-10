@@ -1,0 +1,1 @@
+ecNumber*1.2.7.10#turnoverNumber*0.09#turnoverNumberMaximum*#substrate*oxalate#commentary*in 50 mM Tris-HCl, 2 mM dithiothreitol, pH 7.9, at 25&deg;C#organism*Moorella thermoacetica#ligandStructureId*185#literature*715568#

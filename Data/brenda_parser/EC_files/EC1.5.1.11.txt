@@ -1,0 +1,29 @@
+KCAT	Pecten maximus	7.3	NADH	*mutant enzyme H212A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	9.3	NADH	*mutant enzyme D329A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	25	NADH	*mutant enzyme R324A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	47	NADH	*mutant enzyme Q118D, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	173	NADH	*mutant enzyme Q118A, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	410	NADH	*mutant enzyme C148S, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	422	NADH	*mutant enzyme C148A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	652	NADH	*wild type recombinant enzyme, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	652	NADH	*wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	13	pyruvate	*mutant enzyme H212A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	15.4	pyruvate	*mutant enzyme D329A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	22.5	pyruvate	*mutant enzyme R324A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	73	pyruvate	*mutant enzyme Q118D, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	283	pyruvate	*mutant enzyme Q118A, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	499	pyruvate	*mutant enzyme C148A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	511	pyruvate	*mutant enzyme C148S, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	775	pyruvate	*wild type recombinant enzyme, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	775	pyruvate	*wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	2	L-Arg	*mutant enzyme D329A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	5.1	L-Arg	*mutant enzyme H212A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	43	L-Arg	*mutant enzyme R324A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	120	L-Arg	*mutant enzyme Q118A, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	122	L-Arg	*mutant enzyme Q118D, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	444	L-Arg	*mutant enzyme C148A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	446	L-Arg	*mutant enzyme C148S, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	640	L-Arg	*wild type recombinant enzyme, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	640	L-Arg	*wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	526	2-oxobutanoate	*wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C
+KCAT	Pecten maximus	272	2-oxovalerate	*wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25&Acirc;&deg;C

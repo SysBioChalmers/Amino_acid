@@ -1,0 +1,1 @@
+ecNumber*4.2.1.143#turnoverNumber*2.1#turnoverNumberMaximum*#substrate*versiconal#commentary*pH 6.5, 37&deg;C#organism*Aspergillus parasiticus#ligandStructureId*7938#literature*722606#!ecNumber*4.2.1.143#turnoverNumber*2.5#turnoverNumberMaximum*#substrate*versiconal hemiacetal#commentary*pH 6.5, 37&deg;C#organism*Aspergillus parasiticus#ligandStructureId*42490#literature*721577#

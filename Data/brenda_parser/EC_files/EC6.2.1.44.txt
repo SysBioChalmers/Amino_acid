@@ -1,0 +1,12 @@
+KCAT	Ruegeria pomeroyi	3.7	propionate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	10.8	propionate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Candidatus Pelagibacter ubique	17.7	propionate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	7.2	Butyrate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	14.4	Butyrate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Candidatus Pelagibacter ubique	43.8	Butyrate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	1	Acrylate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	14.3	Acrylate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Candidatus Pelagibacter ubique	22.3	Acrylate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	14.9	3-(methylthio)propanoate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	18.7	3-(methylthio)propanoate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Candidatus Pelagibacter ubique	29.4	3-(methylthio)propanoate	*pH 7.5, 22&Acirc;&deg;C

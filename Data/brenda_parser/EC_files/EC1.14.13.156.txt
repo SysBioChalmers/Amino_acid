@@ -1,0 +1,2 @@
+KCAT	Citrobacter braakii	44	NADPH	*pH 7.5, 22&deg;C, P450cin mutant R346A
+KCAT	Citrobacter braakii	82.4	NADPH	*pH 7.5, 22&deg;C, P450cin mutant R102A

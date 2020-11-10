@@ -1,0 +1,11 @@
+KCAT	Agrobacterium fabrum	1.5	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant Y58F
+KCAT	Escherichia coli	3.3	nicotinamide mononucleotide	*in 100 mM potassium phosphate, pH 8.0, 10 mM sodium fluoride, 10 mM EDTA, at 37&Acirc;&deg;C
+KCAT	Shewanella oneidensis	3.3	nicotinamide mononucleotide	*in 100 mM potassium phosphate, pH 8.0, 10 mM sodium fluoride, 10 mM EDTA, at 37&Acirc;&deg;C
+KCAT	Agrobacterium fabrum	3.5	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant T105A
+KCAT	Agrobacterium fabrum	7.3	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant C32A
+KCAT	Agrobacterium fabrum	8.7	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant S48A; pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Oceanobacillus iheyensis	0.38	beta-nicotinamide D-ribonucleotide	*recombinant enzyme, pH 7.4, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1.1	beta-nicotinamide D-ribonucleotide	*recombinant mutant S103A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.2	beta-nicotinamide D-ribonucleotide	*recombinant mutant T31A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.9	beta-nicotinamide D-ribonucleotide	*recombinant mutant E28A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	4.1	beta-nicotinamide D-ribonucleotide	*recombinant wild-type enzyme, pH 7.5, 37&Acirc;&deg;C

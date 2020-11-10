@@ -1,0 +1,3 @@
+KCAT	Arabidopsis thaliana	73	(S)-2-ureidoglycine	*mutant enzyme Y252F, at pH 8.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	493	(S)-2-ureidoglycine	*mutant enzyme K291R, at pH 8.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	761	(S)-2-ureidoglycine	*wild type enzyme, at pH 8.5 and 30&deg;C

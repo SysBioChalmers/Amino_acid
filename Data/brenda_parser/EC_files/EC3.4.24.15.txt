@@ -1,0 +1,250 @@
+KCAT	Rattus norvegicus	0.00037	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant Y612F, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.00052	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant Y612F, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.001	Abz-GFSIFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	0.0015	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant Y605FY612F, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.0023	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant Y605FY612F, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.0026	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant G603P, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.00449	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant G603P, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.0086	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant Y605F, 23&deg;C, pH 7.8
+KCAT	Homo sapiens	0.01	Abz-GFSPERQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.012	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant Y605F, 23&deg;C, pH 7.8
+KCAT	Homo sapiens	0.02	Abz-GFSPLRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.025	(7-methoxycoumarin-4-yl)acetyl-Glu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-OH	*mutant Y605FY612F, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.027	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenyl	*pH 7.8, mutant enzyme Y612F
+KCAT	Rattus norvegicus	0.03	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant G599A, 23&deg;C, pH 7.8
+KCAT	Homo sapiens	0.03	Abz-GFSPDRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.04	Abz-GFSPIRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.061	(7-methoxycoumarin-4-yl)acetyl-Glu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-OH	*mutant Y612F, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.1	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant Y605FY612F, 23&deg;C, pH 7.8
+KCAT	Sus scrofa	0.1	(o-aminobenzoyl)-GGFLRRIQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-I bond
+KCAT	Rattus norvegicus	0.11	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant G604A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.11	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant G604A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.18	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant G603P, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.18	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant G599A, 23&deg;C, pH 7.8
+KCAT	Homo sapiens	0.19	Abz-GFSIFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.193	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant G611A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.2	Abz-GFSWFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Sus scrofa	0.2	(o-aminobenzoyl)-GGFLRRFQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Sus scrofa	0.2	(o-aminobenzoyl)-GGFLRRLQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Sus scrofa	0.2	(o-aminobenzoyl)-GGFLRRYQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-Y bond
+KCAT	Rattus norvegicus	0.27	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant G603A/G604A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.28	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant G603A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.3	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*wild-type, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.3	7-methoxycoumarin-4-acetyl-(L-Ala-L-Lys(2,4-dinitrophenyl))-bradykinin	*pH 7.8, 23&deg;C
+KCAT	Rattus norvegicus	0.3	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant G611A, 23&deg;C, pH 7.8
+KCAT	Homo sapiens	0.3	Abz-GFSDFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.3	Abz-GFSPHRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Sus scrofa	0.3	(o-aminobenzoyl)-GGFLRRFQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-F bond
+KCAT	Sus scrofa	0.3	(o-aminobenzoyl)-GGFLRRNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-N bond
+KCAT	Sus scrofa	0.3	(o-aminobenzoyl)-GGFLRRYQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	0.3	(ortho-aminobenzoyl)-LYENKPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	0.33	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*wild-type, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.34	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant Y605F, 23&deg;C, pH 7.8
+KCAT	Homo sapiens	0.4	Abz-GFSPSRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.44	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*wild-type, 23&deg;C, pH 7.8
+KCAT	Sus scrofa	0.5	(o-aminobenzoyl)-GGFLRRLQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-L bond
+KCAT	Rattus norvegicus	0.53	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant G604A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.53	(o-aminobenzoyl)-EFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	0.6	Abz-GFSRFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Sus scrofa	0.6	(o-aminobenzoyl)-GGFLRRHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-H bond
+KCAT	Sus scrofa	0.6	(o-aminobenzoyl)-GGFLRRNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	0.67	(o-aminobenzoyl)-SFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Homo sapiens	0.7	Abz-GFSPQRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.7	(o-aminobenzoyl)-GFSEFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Sus scrofa	0.7	(o-aminobenzoyl)-GGFLRRIQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	0.7	(ortho-aminobenzoyl)-NKPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	0.72	7-methoxycoumarin-4-acetyl-(L-Ala-L-Lys(2,4-dinitrophenyl))-bradykinin	*pH 7.8, 23&deg;C, presence of 1.5 M urea
+KCAT	Rattus norvegicus	0.74	(o-aminobenzoyl)-GFSPLRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	0.75	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant Y612F, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.75	(o-aminobenzoyl)-NFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	0.75	(ortho-aminobenzoyl)-AKPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	0.77	(o-aminobenzoyl)-GFSPFRR-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.82	(o-aminobenzoyl)-GFSPFQQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	0.86	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant G599A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.89	(o-aminobenzoyl)-GFHPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.91	7-methoxycoumarin-4-acetyl-(L-Ala-L-Lys(2,4-dinitrophenyl))-bradykinin	*pH 7.8, 23&deg;C, presence of 2.5 M urea
+KCAT	Rattus norvegicus	0.94	(o-aminobenzoyl)-IFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	1	(o-aminobenzoyl)-DFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Sus scrofa	1	(o-aminobenzoyl)-GGFLRRDQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	1.07	7-methoxycoumarin-4-acetyl-(L-Ala-L-Lys(2,4-dinitrophenyl))-bradykinin	*pH 7.8, 23&deg;C, presence of 3.5 M urea
+KCAT	Rattus norvegicus	1.1	(o-aminobenzoyl)-GFSPFFQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Sus scrofa	1.1	(o-aminobenzoyl)-GGFLRREQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	1.1	(o-aminobenzoyl)-QFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	1.15	benzoyl-Gly-Ala-Ala-Gly-p-aminobenzoate	*
+KCAT	Rattus norvegicus	1.2	(o-aminobenzoyl)-GFSPFSQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	1.22	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant G603A/G604A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	1.26	(7-methoxycoumarin-4-yl)acetyl-Leu-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Lys(Dnp)-OH	*mutant G603A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	1.34	7-methoxycoumarin-4-acetyl-[Ala7, Lys(dinitrophenol)9]-bradykinin	*mutant G611A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	1.4	2-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	1.4	(7-methoxycoumarin-4-yl)acetyl-Glu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-OH	*mutant Y605F, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	1.4	(o-aminobenzoyl)-EFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	1.4	(o-aminobenzoyl)-GFSPFSQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Sus scrofa	1.4	(o-aminobenzoyl)-GGFLRRVQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	1.45	benzoyl-Gly-Gly-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	1.5	Abz-GFSEFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	1.5	Abz-GFSRFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	1.5	Abz-GFSSFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Rattus norvegicus	1.5	(o-aminobenzoyl)-GFSPERQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	1.5	(o-aminobenzoyl)-GFSQFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	1.5	(o-aminobenzoyl)-IFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Homo sapiens	1.6	Abz-GFSEFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	1.6	(o-aminobenzoyl)-FFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	1.6	(o-aminobenzoyl)-GFPPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	1.6	(o-aminobenzoyl)-GFSPFEQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Sus scrofa	1.6	(o-aminobenzoyl)-GGFLRRHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Homo sapiens	1.7	Abz-GFSPARQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	1.7	Abz-GFSSFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	1.8	Abz-GFSHFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Rattus norvegicus	1.8	(o-aminobenzoyl)-GFQPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	1.8	(o-aminobenzoyl)-GFSPERQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	1.8	(o-aminobenzoyl)-GFSPFHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Sus scrofa	1.8	(o-aminobenzoyl)-GGFLRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Sus scrofa	2	(o-aminobenzoyl)-GGFLRRV-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	2.2	benzoyl-Gly-Asp-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	2.2	(o-aminobenzoyl)-GDSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	2.2	(o-aminobenzoyl)-LFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Homo sapiens	2.3	neurotensin	*recombinant wild-type enzyme, pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	2.3	(o-aminobenzoyl)-GFSPFAQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	2.3	(o-aminobenzoyl)-GFSPFQQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	2.32	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant G603A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	2.44	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenol	*mutant G603A/G604A, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	2.5	(o-aminobenzoyl)-GASPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	2.5	(o-aminobenzoyl)-GFNPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	2.6	Abz-GFSAFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	2.6	(o-aminobenzoyl)-AFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	2.6	(o-aminobenzoyl)-GFSPFRP-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	2.7	Abz-GFSWFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	2.7	(o-aminobenzoyl)-GFSPRRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	2.75	benzoyl-Gly-Phe-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Homo sapiens	2.9	Abz-GFSPFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	2.9	(o-aminobenzoyl)-GQSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3	(o-aminobenzoyl)-GFLPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3	(o-aminobenzoyl)-GFSPFHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	3	(o-aminobenzoyl)-GFSPFRI-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3	(o-aminobenzoyl)-NFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	3.1	benzoyl-Gly-Ala-Ala-Leu-p-aminobenzoate	*
+KCAT	Rattus norvegicus	3.1	(o-aminobenzoyl)-GFSPFLQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	3.1	(o-aminobenzoyl)-GFSPFRE-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3.2	Abz-GFSEFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Sus scrofa	3.2	(o-aminobenzoyl)-GGFLRRAQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	3.2	(o-aminobenzoyl)-GSSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3.2	(ortho-aminobenzoyl)-ENKPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Sus scrofa	3.3	(o-aminobenzoyl)-GGFLRRRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4. 37&deg;C, cleavage of the R-R bond
+KCAT	Rattus norvegicus	3.4	Abz-GFSLFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	3.4	(o-aminobenzoyl)-GFDPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3.4	(o-aminobenzoyl)-GFSLFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3.6	(ortho-aminobenzoyl)-NAPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	3.7	(ortho-aminobenzoyl)-GGFLPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	3.7	(ortho-aminobenzoyl)-KPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	3.8	(o-aminobenzoyl)-GFSPIRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	3.8	(o-aminobenzoyl)-LFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	4	(o-aminobenzoyl)-GFEPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	4	(o-aminobenzoyl)-GFSPFDQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	4.1	(o-aminobenzoyl)-SFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Homo sapiens	4.2	neurotensin	*recombinant mutant E469R/R498T, pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	4.2	(o-aminobenzoyl)-GFSPFNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	4.2	(o-aminobenzoyl)-GFSPLRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	4.2	(ortho-aminobenzoyl)-NKPARPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	4.3	(o-aminobenzoyl)-GFSPFRS-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	4.3	(o-aminobenzoyl)-RFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Homo sapiens	4.5	Abz-GFSPRRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	4.54	benzoyl-Gly-Gly-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	4.7	2-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Rattus norvegicus	4.7	(o-aminobenzoyl)-DFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	4.7	(o-aminobenzoyl)-QFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	4.77	benzoyl-Gly-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	4.8	(o-aminobenzoyl)-GFSPFRL-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	4.9	(o-aminobenzoyl)-GFIPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	5	Abz-GFSIFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Rattus norvegicus	5.2	(o-aminobenzoyl)-GNSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	5.25	benzoyl-Gly-Arg-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	5.3	Abz-GFSEFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Rattus norvegicus	5.3	benzoyl-Gly-Ala-Ala-Gly	*
+KCAT	Rattus norvegicus	5.3	(o-aminobenzoyl)-GFFPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	5.3	(o-aminobenzoyl)-GFSPHRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	5.7	(o-aminobenzoyl)-GFAPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	5.7	(ortho-aminobenzoyl)-NKPRRAQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	5.8	Abz-GFSQFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Rattus norvegicus	5.8	(o-aminobenzoyl)-GESPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	5.9	Abz-GFSFFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	5.9	(o-aminobenzoyl)-GFSPIRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Homo sapiens	6	Abz-GFSWFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	6	(o-aminobenzoyl)-HFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	6.08	(o-aminobenzoyl)-EFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	6.08	(o-aminobenzoyl)-GFHPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	6.08	(o-aminobenzoyl)-GFSPFQQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	6.08	(o-aminobenzoyl)-GFSPFRR-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	6.08	(o-aminobenzoyl)-GFSPLRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	6.08	(o-aminobenzoyl)-IFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	6.08	(o-aminobenzoyl)-SFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	6.2	Abz-GFSyFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	6.2	benzoyl-Gly-Phe-Phe-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	6.3	2-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	6.3	Abz-GFSQFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	6.3	(o-aminobenzoyl)-GFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C; pH 7.4, 37&deg;C, cleavage of P-F bond; pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	6.3	(o-aminobenzoyl)-GFSRFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	6.3	(o-aminobenzoyl)-GFSXFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	6.4	Abz-GFSyFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	6.7	Abz-GFSFFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	6.7	(o-aminobenzoyl)-GFSFFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	7	Abz-GFSLFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Homo sapiens	7	Abz-GFSQFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	7	Abz-GFSRFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	7	(o-aminobenzoyl)-GFSHFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	7	(o-aminobenzoyl)-GFSPFPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	7.1	(o-aminobenzoyl)-GFSPFRF-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	7.7	(o-aminobenzoyl)-GFRPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	7.9	(o-aminobenzoyl)-GFSPFNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	7.9	pGlu-Leu-Tyr-Glu-Asn-Lys-Pro-Arg-Arg-Pro-Tyr-Ile-Leu	*
+KCAT	Rattus norvegicus	8	(ortho-aminobenzoyl)-NKARRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	8.2	(o-aminobenzoyl)-GFSPDRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	8.4	(o-aminobenzoyl)-GISPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	8.6	benzoyl-Gly-Phe-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	8.7	(ortho-aminobenzoyl)-NKPRAPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 8.0, 37&deg;C, hydrolysis of R-R bond
+KCAT	Rattus norvegicus	8.8	Abz-GFSSFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	8.8	(o-aminobenzoyl)-GFSSFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	8.9	(o-aminobenzoyl)-GFSNFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	8.9	(o-aminobenzoyl)-GFSPDRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Homo sapiens	9.1	Abz-GFSRFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	9.1	Abz-GFSWFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Homo sapiens	9.2	Abz-GFSSFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	9.8	(o-aminobenzoyl)-AFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	9.9	7-methoxycoumarin-4-acetyl-Pro-Leu-Gly-Pro-Lys-dinitrophenyl	*pH 7.8, wild-type enzyme
+KCAT	Rattus norvegicus	10.1	benzoyl-Gly-Lys-Arg-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	10.1	(o-aminobenzoyl)-GFSPNRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	10.2	Abz-GFSAFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	10.2	(o-aminobenzoyl)-GFSAFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	10.4	Abz-GFSAFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Homo sapiens	11.1	Abz-GFSAFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	11.1	(o-aminobenzoyl)-GFSPFIQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-F bond
+KCAT	Rattus norvegicus	11.2	(7-methoxycoumarin-4-yl)acetyl-Glu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-OH	*wild-type, 23&deg;C, pH 7.8
+KCAT	Rattus norvegicus	11.5	(o-aminobenzoyl)-GLSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	11.5	(o-aminobenzoyl)-GPSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	11.8	(o-aminobenzoyl)-GFSPFEQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of F-S bond
+KCAT	Rattus norvegicus	12	pGlu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-Gly-NH2	*
+KCAT	Rattus norvegicus	12.1	Abz-GFSQFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	12.3	(o-aminobenzoyl)-GFSPFRN-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	12.3	(o-aminobenzoyl)-GFSPQRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	12.7	Abz-GFSFFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Homo sapiens	13.3	Abz-GFSHFRQ-EDDnp	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	13.3	(o-aminobenzoyl)-GRSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	13.6	Abz-GFSIFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	13.6	Abz-GFSLFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	14.5	(o-aminobenzoyl)-GHSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	15.1	Abz-GFSHFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	17	benzoyl-Gly-Ala-Ala-Leu-p-aminobenzoate	*
+KCAT	Rattus norvegicus	17.5	(o-aminobenzoyl)-GFSPFRA-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	18.5	(o-aminobenzoyl)-GFSPARQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	19.2	benzoyl-Gly-Phe-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	20.4	Abz-GFSyFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605A
+KCAT	Rattus norvegicus	21.5	(o-aminobenzoyl)-GFSPSRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C, cleavage of P-X bond
+KCAT	Rattus norvegicus	21.5	tert-butoxycarbonyl-Phe-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	24.7	Abz-GFSHFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged wild-type enzyme
+KCAT	Rattus norvegicus	24.7	(o-aminobenzoyl)-GFSDFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	27.3	Abz-GFSFFRQEDDnp	*pH 7.4, 37&deg;C, recombinant GST-tagged mutant Y605F
+KCAT	Rattus norvegicus	33.8	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg	*
+KCAT	Rattus norvegicus	37.9	Tyr-Gly-Gly-Phe-Leu-Arg-Lys-Tyr-Pro	*
+KCAT	Rattus norvegicus	48.3	benzoyl-Gly-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	86.4	Tyr-Gly-Gly-Phe-Leu-Arg-Arg-Ile	*
+KCAT	Rattus norvegicus	94.1	tert-butoxycarbonyl-Phe-Ala-Ala-Phe-p-aminobenzoate	*
+KCAT	Rattus norvegicus	179	benzoyl-Gly-Ala-Ala-Phe-p-aminobenzoate	*

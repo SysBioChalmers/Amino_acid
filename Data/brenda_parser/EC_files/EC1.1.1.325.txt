@@ -1,0 +1,2 @@
+KCAT	Chlorobaculum tepidum	5	NADPH	*pH 8.8, 45&deg;C
+KCAT	Chlorobaculum tepidum	5	sepiapterin	*pH 8.8, 45&deg;C

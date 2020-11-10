@@ -1,0 +1,54 @@
+KCAT	Bacillus clarkii	0.03	maltooctaose	*
+KCAT	Bacillus sp. (in: Bacteria)	0.19	amylopectin	*
+KCAT	Bacillus sp. (in: Bacteria)	0.7	beta-cyclomaltodextrin	*pH 7.0, dodecamer
+KCAT	Pyrococcus furiosus	1.63	maltoheptaose	*pH 4.5, 85&deg;C, mutant enzyme G415E
+KCAT	Bacillus sp. (in: Bacteria)	1.68	beta-cyclomaltodextrin	*pH 6.0, dimer
+KCAT	Bacillus sp. (in: Bacteria)	2	amylose	*
+KCAT	Laceyella sacchari	2.2	beta-cyclodextrin	*pH 6, 55&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	3	beta-cyclodextrin	*pH 7.0
+KCAT	Bacillus sp. (in: Bacteria)	3	cyclomaltoheptaose	*
+KCAT	Anoxybacillus flavithermus	3.6	pullulan	*pH 6.5, 55&deg;C
+KCAT	Thermoactinomyces vulgaris	4.8	pullulan	*mutant Y374A
+KCAT	Bacillus sp. (in: Bacteria)	8.5	beta-cyclodextrin	*pH 6.0
+KCAT	Thermoactinomyces vulgaris	9.4	starch	*mutant Y374A
+KCAT	Anoxybacillus flavithermus	13.4	amylose	*pH 6.5, 55&deg;C
+KCAT	Anoxybacillus flavithermus	16.9	soluble starch	*pH 6.5, 55&deg;C
+KCAT	Flavobacterium sp. 92	17.4	gamma-cyclodextrin	*wild-type
+KCAT	Bacillus sp. (in: Bacteria)	22.11	amylose	*
+KCAT	Laceyella sacchari	23	amylose	*pH 6, 55&deg;C
+KCAT	Pyrococcus furiosus	23	beta-cyclodextrin	*pH 4.5, 85&deg;C, mutant enzyme M439W/D440H
+KCAT	Paenibacillus sp.	25	alpha-cyclodextrin	*
+KCAT	Flavobacterium sp. 92	26.5	beta-cyclodextrin	*wild-type
+KCAT	Paenibacillus sp.	26.7	gamma-cyclodextrin	*
+KCAT	Paenibacillus sp.	36.7	beta-cyclodextrin	*
+KCAT	Laceyella sacchari	36.8	soluble starch	*pH 6, 55&deg;C
+KCAT	Flavobacterium sp. 92	40.9	alpha-cyclodextrin	*wild-type
+KCAT	Laceyella sacchari	42.6	pullulan	*pH 6, 55&deg;C
+KCAT	Laceyella sacchari	46.1	alpha-cyclodextrin	*pH 6, 55&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	50.36	amylopectin	*
+KCAT	Pyrococcus furiosus	55	maltoheptaose	*pH 4.5, 85&deg;C, mutant enzyme M439W/D440H
+KCAT	Pyrococcus furiosus	64	beta-cyclodextrin	*pH 4.5, 85&deg;C, mutant enzyme D440H
+KCAT	Pyrococcus furiosus	67	starch	*pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Laceyella sacchari	73.7	beta-cyclodextrin	*pH 6, 55&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	78.18	cyclomaltoheptaose	*
+KCAT	Bacillus sp. (in: Bacteria)	78.2	beta-cyclodextrin	*pH 7.0
+KCAT	Pyrococcus furiosus	93.3	maltoheptaose	*pH 4.5, 85&deg;C, wild-type enzyme
+KCAT	Thermoactinomyces vulgaris	120	starch	*wild-type enzyme
+KCAT	Massilia timonae	138.8	beta-cyclodextrin	*at pH 7.5 and 40&deg;C
+KCAT	Thermoactinomyces vulgaris	140	pullulan	*wild-type enzyme
+KCAT	Pyrococcus furiosus	160	maltoheptaose	*pH 4.5, 85&deg;C, wild-type enzyme
+KCAT	Pyrococcus furiosus	170	maltoheptaose	*pH 4.5, 85&deg;C, mutant enzyme D440H
+KCAT	Pyrococcus furiosus	173	gamma-cyclodextrin	*pH 4.5, 90&deg;C; pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Pyrococcus furiosus	196	beta-cyclodextrin	*pH 4.5, 90&deg;C; pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Pyrococcus furiosus	199	beta-cyclodextrin	*pH 4.5, 85&deg;C, mutant enzyme G415E
+KCAT	Pyrococcus furiosus	228	acarbose	*pH 4.5, 90&deg;C; pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Pyrococcus furiosus	241	alpha-cyclodextrin	*pH 4.5, 90&deg;C; pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Pyrococcus furiosus	268	maltotriose	*pH 4.5, 90&deg;C; pH 4.5, 90&deg;C, recombinant enzyme
+KCAT	Anoxybacillus flavithermus	315	beta-cyclodextrin	*pH 6.5, 55&deg;C
+KCAT	Pyrococcus furiosus	382	beta-cyclodextrin	*pH 4.5, 85&deg;C, wild-type enzyme
+KCAT	Anoxybacillus flavithermus	545	alpha-cyclodextrin	*pH 6.5, 55&deg;C
+KCAT	Pyrococcus furiosus	610	beta-cyclodextrin	*pH 4.5, 85&deg;C, wild-type enzyme
+KCAT	Paenibacillus sp.	800	alpha-cyclodextrin	*pH 7.0, 40&deg;C
+KCAT	Paenibacillus sp.	1155	gamma-cyclodextrin	*pH 7.0, 40&deg;C
+KCAT	Paenibacillus sp.	2044	beta-cyclodextrin	*pH 7.0, 40&deg;C
+KCAT	Bacillus clarkii	3100	gamma-cyclodextrin	*

@@ -1,0 +1,1 @@
+ecNumber*3.3.2.13#turnoverNumber*17.6#turnoverNumberMaximum*#substrate*chorismate#commentary*in deuterated potassium phosphate buffer (20 mM, pH 7.0), at 20&Acirc;&deg;C#organism*Streptomyces hygroscopicus subsp. ascomyceticus#ligandStructureId*204#literature*726377#

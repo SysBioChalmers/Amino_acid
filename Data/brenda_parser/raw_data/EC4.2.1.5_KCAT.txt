@@ -1,0 +1,1 @@
+ecNumber*4.2.1.5#turnoverNumber*1.8#turnoverNumberMaximum*#substrate*D-Arabinonate#commentary*pH 7.5, 70&deg;C#organism*Saccharolobus solfataricus#ligandStructureId*9136#literature*719837#

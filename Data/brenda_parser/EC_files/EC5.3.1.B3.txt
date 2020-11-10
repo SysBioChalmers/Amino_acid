@@ -1,0 +1,12 @@
+KCAT	Cellulomonas parahominis	17.5	D-fructose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	2.5	D-mannose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	0.38	L-sorbose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	18.2	D-xylulose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	17.3	D-Lyxose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	108.8	L-ribulose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	15.8	D-talose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	40.8	D-tagatose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	95.2	L-ribose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	2.1	L-gulose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	2.8	L-allose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C
+KCAT	Cellulomonas parahominis	2.2	L-psicose	*in 50 mM glycine-NaOH buffer (pH 9.0), at 40&Acirc;&deg;C

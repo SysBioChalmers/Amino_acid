@@ -1,0 +1,1 @@
+ecNumber*5.4.3.2#turnoverNumber*0.083#turnoverNumberMaximum*#substrate*L-Lys#commentary*pH 8.0, 37&deg;C#organism*Escherichia coli#ligandStructureId*502#literature*678156#!ecNumber*5.4.3.2#turnoverNumber*83#turnoverNumberMaximum*#substrate*L-Lys#commentary*pH 8.0, 37&deg;C#organism*Clostridium subterminale#ligandStructureId*502#literature*678156#

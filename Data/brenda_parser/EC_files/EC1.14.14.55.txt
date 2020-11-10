@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	0.00327	Quinine	*recombinant CYP2C19
+KCAT	Homo sapiens	0.125	Quinine	*recombinant CYP3A4

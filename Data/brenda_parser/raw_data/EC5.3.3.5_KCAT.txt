@@ -1,0 +1,1 @@
+ecNumber*5.3.3.5#turnoverNumber*0.423#turnoverNumberMaximum*#substrate*Zymosterol#commentary*#organism*Homo sapiens#ligandStructureId*1067#literature*649741#

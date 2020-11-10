@@ -1,0 +1,159 @@
+KCAT	Oryctolagus cuniculus	0.0002	D-fructose 1,6-bisphosphate	*turnover number less than 0.0002 sec-1, mutant enzyme K146A
+KCAT	Escherichia coli	0.001	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, N286D mutant
+KCAT	Oryctolagus cuniculus	0.0019	D-fructose 1,6-bisphosphate	*mutant enzyme K146M
+KCAT	Oryctolagus cuniculus	0.002	D-fructose 1,6-bisphosphate	*mutant enzyme D33S
+KCAT	Escherichia coli	0.0028	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, D109A mutant
+KCAT	Oryctolagus cuniculus	0.003	D-fructose 1,6-bisphosphate	*mutant enzyme D33N
+KCAT	Oryctolagus cuniculus	0.005	D-fructose 1,6-bisphosphate	*mutant enzyme E187Q
+KCAT	Methylococcus capsulatus	0.005	D-fructose 1,6-bisphosphate	*in the absence of Co2+, at pH 7.5, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.011	D-fructose 1,6-bisphosphate	*pH 7.4, 30&Acirc;&deg;C, enzyme from patients with intolerance
+KCAT	Escherichia coli	0.013	D-fructose 1,6-bisphosphate	*E174A mutant, 30&Acirc;&deg;C
+KCAT	Methylococcus capsulatus	0.018	D-fructose 1,6-bisphosphate	*in the presence of 0.02 mM Co2+, at substrate concentrations of 0.008-0.5 mM, at pH 7.5, 30&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	0.026	D-fructose 1,6-bisphosphate	*pH 8.0, 48&Acirc;&deg;C, mutant enzyme Y348F
+KCAT	Sulfurisphaera tokodaii	0.027	D-fructose 1,6-bisphosphate	*pH 8.0, 48&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.029	D-fructose 1,6-bisphosphate	*pH 7.4, 10&Acirc;&deg;C, enzyme from patients with intolerance
+KCAT	Oryctolagus cuniculus	0.03	D-fructose 1,6-bisphosphate	*E187Q mutant, pH 7.6, 22&Acirc;&deg;C
+KCAT	Escherichia coli	0.033	D-fructose 1,6-bisphosphate	*E182A mutant, 30&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.046	D-fructose 1,6-bisphosphate	*mutant enzyme E187A
+KCAT	Methylococcus capsulatus	0.055	D-fructose 1,6-bisphosphate	*in the presence of 0.02 mM Co2+, at substrate concentrations of 0.5-1.5 mM, at pH 7.5, 30&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.12	D-fructose 1,6-bisphosphate	*E187A mutant, pH 7.6, 22&Acirc;&deg;C
+KCAT	Escherichia coli	0.16	D-fructose 1,6-bisphosphate	*N35A mutant, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.19	D-fructose 1,6-bisphosphate	*pH 7.4, 10&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.19	D-fructose 1,6-bisphosphate	*N334K mutant, 22&Acirc;&deg;C
+KCAT	Escherichia coli	0.19	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, N286A mutant
+KCAT	Homo sapiens	0.43	D-fructose 1,6-bisphosphate	*W147R mutant, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.54	D-fructose 1,6-bisphosphate	*L256P mutant, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.57	D-fructose 1,6-bisphosphate	*Q354E mutant, 22&Acirc;&deg;C
+KCAT	Escherichia coli	0.58	D-fructose 1,6-bisphosphate	*K325A mutant, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.61	D-fructose 1,6-bisphosphate	*wild-type enzyme, 22&Acirc;&deg;C
+KCAT	Giardia intestinalis	0.63	D-fructose 1,6-bisphosphate	*mutant enzyme D255A, in 50 mM K+-HEPES (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.65	D-fructose 1,6-bisphosphate	*mutant enzyme K107M
+KCAT	Escherichia coli	0.85	D-fructose 1,6-bisphosphate	*S61A mutant, 30&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	1.07	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, AB_All mutant
+KCAT	Staphylococcus aureus	1.16	D-fructose 1,6-bisphosphate	*at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	1.53	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, aldolase B
+KCAT	Pseudomonas aeruginosa	1.53	D-fructose 1,6-bisphosphate	*in Tris-HCl pH 8.0, at 30&Acirc;&deg;C
+KCAT	Bacillus methanolicus	1.6	D-fructose 1,6-bisphosphate	*pH 7.8, 55&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	1.63	D-fructose 1,6-bisphosphate	*pH 5.5
+KCAT	Oryctolagus cuniculus	1.69	D-fructose 1,6-bisphosphate	*E189Q mutant, pH 7.6, 22&Acirc;&deg;C
+KCAT	Escherichia coli	2	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, D144A mutant
+KCAT	Homo sapiens	2.1	D-fructose 1,6-bisphosphate	*pH 7.4, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Neisseria meningitidis	2.1	D-fructose 1,6-bisphosphate	*at 30&Acirc;&deg;C in 50 mM Tris-HCl, 0.1 M potassium acetate buffer (pH 8.0)
+KCAT	Escherichia coli	2.2	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, D288A mutant
+KCAT	Homo sapiens	2.83	D-fructose 1,6-bisphosphate	*mutant aldolase C Y363S
+KCAT	Oryctolagus cuniculus	2.94	D-fructose 1,6-bisphosphate	*E189Q mutant, pH 7.6, 22&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	2.94	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, aldolase B
+KCAT	Bacillus cereus	2.95	D-fructose 1,6-bisphosphate	*in Tris-HCl pH 8.0, at 30&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	3.4	D-fructose 1,6-bisphosphate	*E189A mutant, pH 7.6, 22&Acirc;&deg;C
+KCAT	Giardia intestinalis	3.55	D-fructose 1,6-bisphosphate	*at pH 7.5 and 25&Acirc;&deg;C, in the absence of Zn2+
+KCAT	Giardia intestinalis	3.55	D-fructose 1,6-bisphosphate	*wild type enzyme, in 50 mM K+-HEPES (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	4.02	D-fructose 1,6-bisphosphate	*pH 9.3
+KCAT	Homo sapiens	4.7	D-fructose 1,6-bisphosphate	*mutant enzyme G346S
+KCAT	Trypanosoma brucei	5.03	D-fructose 1,6-bisphosphate	*pH 5.5
+KCAT	Bacillus methanolicus	5.1	D-fructose 1,6-bisphosphate	*pH 7.6, 50&Acirc;&deg;C
+KCAT	Homo sapiens	5.2	D-fructose 1,6-bisphosphate	*
+KCAT	Trypanosoma brucei	5.28	D-fructose 1,6-bisphosphate	*pH 9.2
+KCAT	Oryctolagus cuniculus	5.47	D-fructose 1,6-bisphosphate	*pH 7.6
+KCAT	Escherichia coli	5.8	D-fructose 1,6-bisphosphate	*E181A mutant, 30&Acirc;&deg;C
+KCAT	Escherichia coli	6.08	D-fructose 1,6-bisphosphate	*K325A mutant, 30&Acirc;&deg;C
+KCAT	Homo sapiens	6.08	D-fructose 1,6-bisphosphate	*L256P mutant, 22&Acirc;&deg;C; Q354E mutant, 22&Acirc;&deg;C; wild-type enzyme, 22&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	6.08	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, AB_All mutant
+KCAT	Escherichia coli	6.3	D-fructose 1,6-bisphosphate	*S61T mutant, 30&Acirc;&deg;C
+KCAT	Escherichia coli	7	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, D290A mutant
+KCAT	Toxoplasma gondii	7.09	D-fructose 1,6-bisphosphate	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Staphylococcus aureus	7.5	D-fructose 1,6-bisphosphate	*pH 9.3
+KCAT	Staphylococcus aureus	7.87	D-fructose 1,6-bisphosphate	*pH 5.5
+KCAT	Escherichia coli	8.2	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, wild-type enzyme
+KCAT	Leishmania mexicana	8.2	D-fructose 1,6-bisphosphate	*pH 7.6
+KCAT	Escherichia coli	8.5	D-fructose 1,6-bisphosphate	*Q59A mutant, 30&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	10.2	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, aldolase A
+KCAT	Oryctolagus cuniculus	10.2	D-fructose 1,6-bisphosphate	*at 30&Acirc;&deg;C
+KCAT	Trypanosoma brucei	10.3	D-fructose 1,6-bisphosphate	*pH 7.6, native enzyme
+KCAT	Trypanosoma brucei	10.3	D-fructose 1,6-bisphosphate	*pH 7.6, native enzyme
+KCAT	Escherichia coli	10.5	D-fructose 1,6-bisphosphate	*wild-type enzyme, 30&Acirc;&deg;C
+KCAT	Escherichia coli	10.5	D-fructose 1,6-bisphosphate	*wild-type enzyme, 30&Acirc;&deg;C
+KCAT	Homo sapiens	10.7	D-fructose 1,6-bisphosphate	*mutant enzyme E206K
+KCAT	Trypanosoma brucei	10.9	D-fructose 1,6-bisphosphate	*pH 7.6, recombinant enzyme
+KCAT	Escherichia coli	12.3	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, D329A mutant
+KCAT	Homo sapiens	12.6	D-fructose 1,6-bisphosphate	*aldolase C
+KCAT	Edwardsiella ictaluri	13	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	13.22	D-fructose 1,6-bisphosphate	*native wild type enzyme
+KCAT	Staphylococcus aureus	13.9	D-fructose 1,6-bisphosphate	*pH 7.6
+KCAT	Homo sapiens	14	D-fructose 1,6-bisphosphate	*wild-type and mutants, pH 7.4
+KCAT	Escherichia coli	14.2	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C
+KCAT	Lethenteron camtschaticum	15.8	D-fructose 1,6-bisphosphate	*non-muscle-type enzyme
+KCAT	Oryctolagus cuniculus	16.5	D-fructose 1,6-bisphosphate	*30&Acirc;&deg;C, H156E mutant
+KCAT	Homo sapiens	16.7	D-fructose 1,6-bisphosphate	*wild-type enzyme
+KCAT	Staphylococcus carnosus	16.76	D-fructose 1,6-bisphosphate	*native enzyme, in Tris-HCl buffer (40 mM, pH 8.0), at 25&Acirc;&deg;C
+KCAT	Lethenteron camtschaticum	17.9	D-fructose 1,6-bisphosphate	*recombinant non-muscle-type enzyme
+KCAT	Homo sapiens	20.1	D-fructose 1,6-bisphosphate	*aldolase B
+KCAT	Staphylococcus carnosus	20.3	D-fructose 1,6-bisphosphate	*recombinant fusion protein DLF, in Tris-HCl buffer (40 mM, pH 8.0), at 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	21	D-fructose 1,6-bisphosphate	*pH 7.3, 28&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	30.1	D-fructose 1,6-bisphosphate	*in Tris-HCl pH 8.0, at 30&Acirc;&deg;C
+KCAT	Rattus norvegicus	33	D-fructose 1,6-bisphosphate	*aldolase C
+KCAT	Oryctolagus cuniculus	36.9	D-fructose 1,6-bisphosphate	*E189A mutant, pH 7.6, 22&Acirc;&deg;C
+KCAT	Vigna radiata	40	D-fructose 1,6-bisphosphate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	42.2	D-fructose 1,6-bisphosphate	*native recombinant enzyme, pH 7.6, 22&Acirc;&deg;C
+KCAT	Pyricularia grisea	45.7	D-fructose 1,6-bisphosphate	*in Tris-HCl pH 8.0, at 30&Acirc;&deg;C
+KCAT	Gallus gallus	45.9	D-fructose 1,6-bisphosphate	*
+KCAT	Pyricularia grisea	46	D-fructose 1,6-bisphosphate	*at pH 7.8
+KCAT	Lethenteron camtschaticum	46.1	D-fructose 1,6-bisphosphate	*muscle-type enzyme
+KCAT	Lethenteron camtschaticum	49.3	D-fructose 1,6-bisphosphate	*recombinant muscle-type enzyme
+KCAT	Homo sapiens	59.7	D-fructose 1,6-bisphosphate	*aldolase A
+KCAT	Daucus carota	64.5	D-fructose 1,6-bisphosphate	*
+KCAT	Methylococcus capsulatus	0.002	D-glyceraldehyde 3-phosphate	*in the absence of Co2+, at pH 7.5, 30&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	0.1	D-glyceraldehyde 3-phosphate	*pH 8.0, 48&Acirc;&deg;C, mutant enzyme Y348F
+KCAT	Bacillus methanolicus	0.56	D-glyceraldehyde 3-phosphate	*pH 7.6, 50&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	0.91	D-glyceraldehyde 3-phosphate	*pH 8.0, 48&Acirc;&deg;C, wild-type enzyme
+KCAT	Bacillus methanolicus	12.6	D-glyceraldehyde 3-phosphate	*pH 7.8, 55&Acirc;&deg;C
+KCAT	Methylococcus capsulatus	0.002	dihydroxyacetone phosphate	*in the absence of Co2+, at pH 7.5, 30&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	0.1	glycerone phosphate	*pH 8.0, 48&Acirc;&deg;C, mutant enzyme Y348F
+KCAT	Bacillus methanolicus	0.4	glycerone phosphate	*pH 7.6, 50&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	0.91	glycerone phosphate	*pH 8.0, 48&Acirc;&deg;C, wild-type enzyme
+KCAT	Bacillus methanolicus	8	glycerone phosphate	*pH 7.8, 55&Acirc;&deg;C
+KCAT	Homo sapiens	0.008	D-Fructose 1-phosphate	*pH 7.4, 30&Acirc;&deg;C, enzyme from patients with intolerance
+KCAT	Homo sapiens	0.019	D-Fructose 1-phosphate	*pH 7.4, 10&Acirc;&deg;C, enzyme from patients with intolerance
+KCAT	Homo sapiens	0.059	D-Fructose 1-phosphate	*Q354E mutant, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.085	D-Fructose 1-phosphate	*N334K mutant, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.12	D-Fructose 1-phosphate	*pH 7.4, 10&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.25	D-Fructose 1-phosphate	*W147R mutant, 22&Acirc;&deg;C
+KCAT	Homo sapiens	0.38	D-Fructose 1-phosphate	*L256P mutant, 22&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	0.63	D-Fructose 1-phosphate	*30&Acirc;&deg;C, aldolase A
+KCAT	Oryctolagus cuniculus	0.63	D-Fructose 1-phosphate	*at 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.67	D-Fructose 1-phosphate	*wild-type enzyme, 22&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	1.47	D-Fructose 1-phosphate	*30&Acirc;&deg;C, AB_All mutant
+KCAT	Homo sapiens	2	D-Fructose 1-phosphate	*pH 7.4, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	2.8	D-Fructose 1-phosphate	*
+KCAT	Homo sapiens	6.08	D-Fructose 1-phosphate	*wild-type enzyme, 22&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	6.08	D-Fructose 1-phosphate	*30&Acirc;&deg;C, AB_All mutant; 30&Acirc;&deg;C, aldolase A; 30&Acirc;&deg;C, aldolase B
+KCAT	Oryctolagus cuniculus	0.167	fructose 1-phosphate	*pH 9.3
+KCAT	Oryctolagus cuniculus	0.183	fructose 1-phosphate	*pH 5.5
+KCAT	Oryctolagus cuniculus	0.267	fructose 1-phosphate	*pH 7.6
+KCAT	Staphylococcus aureus	0.45	fructose 1-phosphate	*pH 5.5
+KCAT	Staphylococcus aureus	0.583	fructose 1-phosphate	*pH 9.3
+KCAT	Homo sapiens	0.75	fructose 1-phosphate	*mutant aldolase C Y363S
+KCAT	Staphylococcus aureus	1.05	fructose 1-phosphate	*pH 7.6
+KCAT	Trypanosoma brucei	1.13	fructose 1-phosphate	*pH 5.5
+KCAT	Trypanosoma brucei	1.27	fructose 1-phosphate	*pH 9.2
+KCAT	Homo sapiens	1.28	fructose 1-phosphate	*aldolase A
+KCAT	Lethenteron camtschaticum	1.38	fructose 1-phosphate	*muscle-type enzyme
+KCAT	Homo sapiens	1.48	fructose 1-phosphate	*aldolase C
+KCAT	Lethenteron camtschaticum	1.55	fructose 1-phosphate	*recombinant muscle-type enzyme
+KCAT	Trypanosoma brucei	1.7	fructose 1-phosphate	*pH 7.6
+KCAT	Rattus norvegicus	2.67	fructose 1-phosphate	*aldolase C
+KCAT	Lethenteron camtschaticum	3.6	fructose 1-phosphate	*non-muscle-type enzyme
+KCAT	Lethenteron camtschaticum	3.65	fructose 1-phosphate	*recombinant non-muscle-type enzyme
+KCAT	Homo sapiens	10.8	fructose 1-phosphate	*aldolase B
+KCAT	Daucus carota	25.2	sedoheptulose 1,7-diphosphate	*
+KCAT	Vigna radiata	33.3	sedoheptulose 7-phosphate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.01	D-fructose-1,6-bisphosphate	*mutant E169A, pH 7.8, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.11	D-fructose-1,6-bisphosphate	*mutant G167A/G166A, pH 7.8, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.17	D-fructose-1,6-bisphosphate	*mutant G167A, pH 7.8, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.45	D-fructose-1,6-bisphosphate	*mutant D276A, pH 7.8, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	2.67	D-fructose-1,6-bisphosphate	*mutant E168A, pH 7.8, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	12	D-fructose-1,6-bisphosphate	*wild-type, pH 7.8, 22&Acirc;&deg;C
+KCAT	Methylococcus capsulatus	0.003	sedoheptulose 1,7-bisphosphate	*in the absence of Co2+, at pH 7.5, 30&Acirc;&deg;C
+KCAT	Synechococcus elongatus PCC 7942 = FACHB-805	-999	more	*
+KCAT	Oryctolagus cuniculus	-999	more	*turnover-numbers of wild-type and mutant enzymes
+KCAT	Cavia porcellus	-999	more	*Km for fructose 1,6-diphosphate is dependent on the protein concentration in the range 0.01-0.05 mM
+KCAT	Homo sapiens	-999	more	*turnover-numbers of chimeric enzymes between two human aldolases A, B, or C

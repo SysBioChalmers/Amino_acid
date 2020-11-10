@@ -1,0 +1,1 @@
+ecNumber*1.1.1.B57#turnoverNumber*1719#turnoverNumberMaximum*#substrate*3,4-dihydro-1(2H)-naphthalenone#commentary*95&deg;C, pH 7.5#organism*Pyrobaculum aerophilum#ligandStructureId*51336#literature*727585#

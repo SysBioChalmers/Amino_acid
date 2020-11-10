@@ -1,0 +1,13 @@
+KCAT	Thermotoga maritima	-999	more	*turnover-numbers for phosphoribosylanthranilate of mutant enzymes D127V, D127K, D127T, D127G, D127F and D127V/T164H
+KCAT	Thermotoga maritima	0.00027	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*25&deg;C, pH 7.5, mutant enzyme D127N
+KCAT	Thermotoga maritima	0.018	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*25&deg;C, pH 7.5, mutant enzyme T164A
+KCAT	Thermotoga maritima	0.23	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*25&deg;C, pH 7.5, mutant enzyme R83N
+KCAT	Thermotoga maritima	0.29	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*25&deg;C, pH 7.5, mutant enzyme D51N
+KCAT	Thermotoga maritima	0.38	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*25&deg;C, pH 7.5, mutant enzyme H48A
+KCAT	Thermotoga maritima	0.67	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*25&deg;C, pH 7.5, wild-type enzyme
+KCAT	Thermotoga maritima	1.54	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*37&deg;C, pH 7.5, wild-type enzyme
+KCAT	Thermotoga maritima	2.94	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*37&deg;C, pH 7.5, wild-type enzyme
+KCAT	Escherichia coli	4.9	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*25&deg;C, pH 7.5
+KCAT	Thermotoga maritima	6.08	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*25&deg;C, pH 7.5, wild-type enzyme
+KCAT	Escherichia coli	14.3	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*37&deg;C, pH 7.5
+KCAT	Thermotoga maritima	32	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	*80&deg;C, pH 7.5, wild-type enzyme

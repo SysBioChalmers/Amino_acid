@@ -1,0 +1,1 @@
+ecNumber*1.7.3.6#turnoverNumber*0.53#turnoverNumberMaximum*#substrate*hydroxylamine#commentary*pH 8, temperature not specified in the publication#organism*Paracoccus denitrificans#ligandStructureId*85#literature*394342#

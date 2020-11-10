@@ -1,0 +1,29 @@
+KCAT	Escherichia coli	-999	more	*single turnover reactions
+KCAT	Escherichia coli	0.001	S-adenosyl-L-methionine	*pH 9.0, recombinant mutant R253A
+KCAT	Arabidopsis thaliana	0.001	S-adenosyl-L-methionine	*mutant F326Y, pH 8.6, 37&deg;C
+KCAT	Arabidopsis thaliana	0.0012	S-adenosyl-L-methionine	*wild-type, pH 8.6, 37&deg;C
+KCAT	Escherichia coli	0.0021	8-Amino-7-oxononanoate	*pH 9, 25&deg;C, R391A mutant
+KCAT	Escherichia coli	0.0035	S-adenosyl-L-methionine	*pH 9.0, recombinant mutant Y17F
+KCAT	Escherichia coli	0.009	S-adenosyl-L-methionine	*pH 9.0, recombinant mutant R253K
+KCAT	Mycobacterium tuberculosis	0.009	sinefungin	*pH 7.5, temperature not specified in the publication
+KCAT	Escherichia coli	0.01	S-adenosyl-L-methionine	*pH 9.0, recombinant mutant R253M
+KCAT	Escherichia coli	0.012	8-Amino-7-oxononanoate	*pH 9.0, recombinant mutant Y17F
+KCAT	Mycobacterium tuberculosis	0.012	S-adenosyl-L-methionine	*pH 7.5, temperature not specified in the publication
+KCAT	Escherichia coli	0.013	8-Amino-7-oxononanoate	*pH 9, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.016	S-adenosyl-(5')-3-methylthiopropylamine	*pH 9.0, recombinant wild-type enzyme and mutant R253K
+KCAT	Escherichia coli	0.016	S-adenosyl-L-methionine	*pH 9.0, recombinant wild-type enzyme
+KCAT	Mycobacterium tuberculosis	0.017	S-adenosyl-L-methionine	*pH 8.6, 37&deg;C
+KCAT	Escherichia coli	0.02	S-adenosyl-L-methionine	*
+KCAT	Escherichia coli	0.04	8-Amino-7-oxononanoate	*pH 9.0, recombinant mutant Y144F
+KCAT	Escherichia coli	0.06	S-adenosyl-L-methionine	*pH 9.0, recombinant mutant Y144F
+KCAT	Escherichia coli	0.074	S-adenosyl-L-methionine	*pH 9.0, recombinant mutant R253Q
+KCAT	Escherichia coli	0.08	S-adenosyl-L-methionine	*recombinant enzyme
+KCAT	Escherichia coli	0.13	S-adenosyl-L-methionine	*native enzyme
+KCAT	Escherichia coli	0.283	8-Amino-7-oxononanoate	*pH 8.5, 37&deg;C
+KCAT	Escherichia coli	0.283	8-Amino-7-oxononanoate	*pH 8.5, 37&deg;C
+KCAT	Escherichia coli	0.67	8-Amino-7-oxononanoate	*pH 9.0, recombinant mutant R253M
+KCAT	Escherichia coli	0.79	8-Amino-7-oxononanoate	*pH 9.0, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.8	8-Amino-7-oxononanoate	*
+KCAT	Mycobacterium tuberculosis	1	8-Amino-7-oxononanoate	*
+KCAT	Escherichia coli	1.3	8-Amino-7-oxononanoate	*pH 9.0, recombinant mutant R253A; pH 9.0, recombinant mutant R253K
+KCAT	Escherichia coli	1.7	8-Amino-7-oxononanoate	*pH 9.0, recombinant mutant R253Q

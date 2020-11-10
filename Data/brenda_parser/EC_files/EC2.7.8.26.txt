@@ -1,0 +1,1 @@
+KCAT	Salmonella enterica	0.67	alpha-ribazole	*

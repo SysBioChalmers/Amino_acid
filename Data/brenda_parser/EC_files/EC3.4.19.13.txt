@@ -1,0 +1,6 @@
+KCAT	Bacillus licheniformis	2.09	L-glutamic acid-(4-nitroanilide)	*mutant DELTAY385-I396, pH 8.0, 25&Acirc;&deg;C
+KCAT	Bacillus licheniformis	3.01	L-glutamic acid-(4-nitroanilide)	*mutant DELTAY385-K394, pH 8.0, 25&Acirc;&deg;C
+KCAT	Bacillus licheniformis	4.74	L-glutamic acid-(4-nitroanilide)	*mutant DELTAY385-P391, pH 8.0, 25&Acirc;&deg;C
+KCAT	Bacillus licheniformis	12.45	L-glutamic acid-(4-nitroanilide)	*wild-type, pH 8.0, 25&Acirc;&deg;C
+KCAT	Bacillus licheniformis	24.41	L-glutamic acid-(4-nitroanilide)	*mutant DELTAY385-V388, pH 8.0, 25&Acirc;&deg;C
+KCAT	Bacillus licheniformis	55.11	L-glutamic acid-(4-nitroanilide)	*mutant DELTAY385-I387, pH 8.0, 25&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*2.3.1.65#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*higher kcat for glycine than for taurine#organism*Bos taurus#ligandStructureId*#literature*487364#!ecNumber*2.3.1.65#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*higher kcat for glycine than for taurine#organism*Bos taurus#ligandStructureId*#literature*487365#

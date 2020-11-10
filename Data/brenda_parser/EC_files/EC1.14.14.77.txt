@@ -1,0 +1,4 @@
+KCAT	Chamberlinius hualienensis	0.71	4-Hydroxyphenylacetonitrile	*pH 6.0, 20&deg;C
+KCAT	Chamberlinius hualienensis	1.09	3-methyl phenylacetonitrile	*pH 6.0, 20&deg;C
+KCAT	Chamberlinius hualienensis	1.12	2-methyl phenylacetonitrile	*pH 6.0, 20&deg;C
+KCAT	Chamberlinius hualienensis	3.07	phenylacetonitrile	*pH 6.0, 20&deg;C

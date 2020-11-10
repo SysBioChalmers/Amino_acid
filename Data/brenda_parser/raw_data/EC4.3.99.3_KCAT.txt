@@ -1,0 +1,1 @@
+ecNumber*4.3.99.3#turnoverNumber*5.4#turnoverNumberMaximum*#substrate*6-carboxy-5,6,7,8-tetrahydropterin#commentary*pH 7,4, temperature not specified in the publication, recombinant enzyme#organism*Bacillus subtilis#ligandStructureId*10265#literature*729229#

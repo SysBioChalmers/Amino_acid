@@ -1,0 +1,4 @@
+KCAT	Streptomyces venezuelae	0.0092	10-deoxymethynolide	*pH 8.0, 29&Acirc;&deg;C, cosubstrate: 10 mM dTDP-3-amino-4,6-dideoxy-alpha-D-glucopyranose
+KCAT	Streptomyces venezuelae	1	10-deoxymethynolide	*pH 8.0, 29&Acirc;&deg;C, addition of the DesIII protein, cosubstrate: 1.0 mM dTDP-3-amino-4,6-dideoxy-alpha-D-glucopyranose
+KCAT	Streptomyces venezuelae	0.0062	TDP-3-dimethylamino-4,6-dideoxy-alpha-D-glucopyranose	*pH 8.0, 29&Acirc;&deg;C, cosubstrate: 9.1 mM 10-deoxymethynolide
+KCAT	Streptomyces venezuelae	1.33	TDP-3-dimethylamino-4,6-dideoxy-alpha-D-glucopyranose	*pH 8.0, 29&Acirc;&deg;C, addition of the DesIII protein, cosubstrate: 9.1 mM 10-deoxymethynolide

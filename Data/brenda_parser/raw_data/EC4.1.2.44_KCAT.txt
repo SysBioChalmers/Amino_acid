@@ -1,0 +1,1 @@
+ecNumber*4.1.2.44#turnoverNumber*20#turnoverNumberMaximum*#substrate*2,3-dihydro-2,3-dihydroxybenzoyl-CoA#commentary*#organism*Aromatoleum evansii#ligandStructureId*11951#literature*700259#

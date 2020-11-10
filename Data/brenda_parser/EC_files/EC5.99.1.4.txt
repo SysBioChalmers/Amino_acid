@@ -1,0 +1,2 @@
+KCAT	Pseudomonas putida	19	(3E)-4-(2-hydroxyphenyl)-2-oxobut-3-enoate	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Pseudomonas putida	47	2-hydroxy-2H-chromene-2-carboxylate	*pH 7.0, 25&Acirc;&deg;C

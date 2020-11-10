@@ -1,0 +1,3 @@
+KCAT	Papaver somniferum	0.028	(S)-reticuline	*pH 7.0, 30&deg;C
+KCAT	Papaver somniferum	0.047	S-adenosyl-L-methionine	*pH 7.0, 30&deg;C
+KCAT	Papaver somniferum	0.053	(R)-reticuline	*pH 7.0, 30&deg;C

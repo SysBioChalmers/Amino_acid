@@ -1,0 +1,1 @@
+ecNumber*1.1.99.2#turnoverNumber*613#turnoverNumberMaximum*#substrate*(S)-2-hydroxyglutarate#commentary*at pH 7.4 and 30&deg;C#organism*Arabidopsis thaliana#ligandStructureId*5081#literature*741137#

@@ -1,0 +1,1 @@
+ecNumber*1.13.11.81#turnoverNumber*0.0011#turnoverNumberMaximum*#substrate*7,8-dihydroneopterin#commentary*at pH 7.0 and 25&deg;C#organism*Mycobacterium tuberculosis#ligandStructureId*3544#literature*727676#

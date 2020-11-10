@@ -1,0 +1,33 @@
+KCAT	Alkaliphilus oremlandii	10	dithiothreitol	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Nicotiana tabacum	0.048	thioredoxin	*in 20 mM Tris-HCl, pH 8.0, 30 mM KCl, 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.088	thioredoxin	*mutant C86S/C206S, pH 8.0, 25&Acirc;&deg;C
+KCAT	Solanum lycopersicum	0.1	thioredoxin	*mutant C180S of isoform MSRA2, in 50 mM Tris-HCl (pH 8.0), at 28&Acirc;&deg;C; mutant C194S of isoform E4, in 50 mM Tris-HCl (pH 8.0), at 28&Acirc;&deg;C
+KCAT	Solanum lycopersicum	0.11	thioredoxin	*wild type isoform MSRA2, in 50 mM Tris-HCl (pH 8.0), at 28&Acirc;&deg;C
+KCAT	Solanum lycopersicum	0.13	thioredoxin	*mutant C188S of isoform E4, in 50 mM Tris-HCl (pH 8.0), at 28&Acirc;&deg;C
+KCAT	Solanum lycopersicum	0.15	thioredoxin	*wild type isoform E4, in 50 mM Tris-HCl (pH 8.0), at 28&Acirc;&deg;C
+KCAT	Solanum lycopersicum	0.17	thioredoxin	*mutant C180S of isoform E4, in 50 mM Tris-HCl (pH 8.0), at 28&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	0.32	L-methionine (S)-sulfoxide	*recombinant enzyme. isoform MSRA, at 30&Acirc;&deg;C and pH 7.5
+KCAT	Trypanosoma cruzi	0.52	L-methionine (S)-sulfoxide	*recombinant enzyme. isoform MSR10, at 30&Acirc;&deg;C and pH 7.5
+KCAT	Neisseria meningitidis	0.6	L-methionine (S)-sulfoxide	*pH 5.5, 25&Acirc;&deg;C, MsrA, steady-state conditions
+KCAT	Escherichia coli	3.7	L-methionine (S)-sulfoxide	*pH 8.0, 25&Acirc;&deg;C, cofactor thioredoxin
+KCAT	Neisseria meningitidis	7	L-methionine (S)-sulfoxide	*pH 8.0, 25&Acirc;&deg;C, MsrA, steady-state conditions
+KCAT	Mus musculus	0.28	dabsyl-L-methionine-(S)-S-oxide	*recombinant wild-type MsrA, with DTT, pH 7.5, 37&Acirc;&deg;C
+KCAT	Mus musculus	0.78	dabsyl-L-methionine-(S)-S-oxide	*recombinant truncated MsrA DELTA(1-46), with DTT, pH 7.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.91	9-fluorenylmethyl chloroformate-labeled L-methionine-(S)-S-oxide	*recombinant isozyme PMSRA3, with DTT, pH 7.5, 22&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1.59	9-fluorenylmethyl chloroformate-labeled L-methionine-(S)-S-oxide	*recombinant isozyme PMSRA4, with DTT, pH 8.0, 22&Acirc;&deg;C
+KCAT	Clostridium sp.	3.8	dabsylated L-methionine (S)-sulfoxide	*purified cysteine mutant form U16C, using dithiothreitol as cosubstrate, in 50 mM sodium phosphate, pH 7.5, at 37&Acirc;&deg;C
+KCAT	Clostridium sp.	84	dabsylated L-methionine (S)-sulfoxide	*wild type enzyme, using dithiothreitol as cosubstrate, in 50 mM sodium phosphate, pH 7.5, at 37&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	0.06	dabsyl L-methionine-(S)-sulfoxide	*pH 7.4, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Neisseria meningitidis	3.7	L-methionine (S,R)-sulfoxide	*MsrB activity of PILB, pH 8.0, 25&Acirc;&deg;C
+KCAT	Treponema denticola	0.026	dabsyl-L-methionine (S)-S-oxide	*isolated MrsA domain, pH 7.5, 37&Acirc;&deg;C
+KCAT	Treponema denticola	0.045	dabsyl-L-methionine (S)-S-oxide	*mutant Y163A//E165A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Treponema denticola	0.068	dabsyl-L-methionine (S)-S-oxide	*mutant Y163A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Treponema denticola	0.096	dabsyl-L-methionine (S)-S-oxide	*mutant E165A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Treponema denticola	0.108	dabsyl-L-methionine (S)-S-oxide	*mutant C285S, pH 7.5, 37&Acirc;&deg;C
+KCAT	Treponema denticola	0.11	dabsyl-L-methionine (S)-S-oxide	*mutant D164A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Treponema denticola	0.12	dabsyl-L-methionine (S)-S-oxide	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Neisseria meningitidis	-999	more	*
+KCAT	Trypanosoma cruzi	0.32	tryparedoxin I	*recombinant enzyme. isoform MSRA, at 30&Acirc;&deg;C and pH 7.5
+KCAT	Trypanosoma cruzi	0.52	tryparedoxin I	*recombinant enzyme. isoform MSR10, at 30&Acirc;&deg;C and pH 7.5
+KCAT	Alkaliphilus oremlandii	4.5	glutaredoxin 2	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Alkaliphilus oremlandii	4.6	glutaredoxin 2	*mutant C15S, pH 7.5, 37&Acirc;&deg;C

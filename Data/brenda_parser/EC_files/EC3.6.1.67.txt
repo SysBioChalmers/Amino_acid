@@ -1,0 +1,5 @@
+KCAT	Arabidopsis thaliana	0.0006	7,8-dihydroneopterin 3'-triphosphate	*pH 8.0, 30&deg;C
+KCAT	Arabidopsis thaliana	0.21	7,8-dihydroneopterin 3'-triphosphate	*pH 8.0, 30&deg;C
+KCAT	Lactococcus lactis	0.21	7,8-dihydroneopterin 3'-triphosphate	*pH 8.0, 30&deg;C
+KCAT	Escherichia coli	4.59	dATP	*pH 8.5, 37&deg;C
+KCAT	Escherichia coli	11.6	7,8-dihydroneopterin 3'-triphosphate	*pH 8.5, 37&deg;C

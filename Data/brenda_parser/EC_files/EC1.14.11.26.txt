@@ -1,0 +1,39 @@
+KCAT	Streptomyces clavuligerus	0.0315	penicillin G	*mutant enzyme G79E
+KCAT	Streptomyces clavuligerus	0.0453	penicillin G	*mutant enzyme A106T; wild type enzyme
+KCAT	Streptomyces clavuligerus	0.0456	penicillin G	*mutant enzyme M188V
+KCAT	Streptomyces clavuligerus	0.0476	penicillin G	*mutant enzyme C155Y
+KCAT	Streptomyces clavuligerus	0.048	Penicillin N	*mutant enzyme C155Y/Y184/V275I/C281Y; mutant enzyme Y184H
+KCAT	Streptomyces clavuligerus	0.0502	penicillin G	*mutant enzyme V275I
+KCAT	Streptomyces clavuligerus	0.0507	penicillin G	*mutant enzyme M188I
+KCAT	Streptomyces clavuligerus	0.0522	penicillin G	*mutant enzyme T91A
+KCAT	Streptomyces clavuligerus	0.055	cephalosporin G	*pH 7.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Streptomyces clavuligerus	0.0564	penicillin G	*mutant enzyme N304K
+KCAT	Streptomyces clavuligerus	0.0627	penicillin G	*mutant enzyme M73T
+KCAT	Streptomyces clavuligerus	0.0698	penicillin G	*mutant enzyme H244Q
+KCAT	Streptomyces clavuligerus	0.0744	penicillin G	*mutant enzyme C281Y
+KCAT	Streptomyces clavuligerus	0.0759	penicillin G	*mutant enzyme I305L
+KCAT	Streptomyces clavuligerus	0.0798	penicillin G	*mutant enzyme Y184H
+KCAT	Streptomyces clavuligerus	0.084	Penicillin N	*mutant enzyme M188V
+KCAT	Streptomyces clavuligerus	0.1036	penicillin G	*mutant enzyme L277Q
+KCAT	Streptomyces clavuligerus	0.122	cephalosporin G	*pH 7.5, 25&deg;C, recombinant mutant T90A/P72L/A311V
+KCAT	Streptomyces clavuligerus	0.1398	penicillin G	*mutant enzyme C155Y/Y184/V275I/C281Y
+KCAT	Streptomyces clavuligerus	0.1452	penicillin G	*mutant enzyme I305M
+KCAT	Streptomyces clavuligerus	0.1458	penicillin G	*mutant enzyme V275I/I305M
+KCAT	Streptomyces clavuligerus	0.178	Penicillin N	*mutant enzyme G79E
+KCAT	Streptomyces clavuligerus	0.235	Penicillin N	*mutant enzyme C155Y
+KCAT	Streptomyces clavuligerus	0.239	Penicillin N	*mutant enzyme M73T
+KCAT	Streptomyces clavuligerus	0.247	Penicillin N	*mutant enzyme T91A
+KCAT	Streptomyces clavuligerus	0.252	Penicillin N	*mutant enzyme V275I
+KCAT	Streptomyces clavuligerus	0.26	Penicillin N	*mutant enzyme H244Q
+KCAT	Streptomyces clavuligerus	0.273	Penicillin N	*mutant enzyme C281Y
+KCAT	Streptomyces clavuligerus	0.277	Penicillin N	*mutant enzyme A106T; mutant enzyme M188I
+KCAT	Streptomyces clavuligerus	0.284	Penicillin N	*mutant enzyme I305L
+KCAT	Streptomyces clavuligerus	0.297	Penicillin N	*mutant enzyme L277Q
+KCAT	Streptomyces clavuligerus	0.307	Penicillin N	*wild type enzyme
+KCAT	Streptomyces clavuligerus	0.31	Penicillin N	*mutant enzyme I305M
+KCAT	Streptomyces clavuligerus	0.316	Penicillin N	*mutant enzyme V275I/I305M
+KCAT	Streptomyces clavuligerus	0.326	cephalosporin G	*pH 7.5, 25&deg;C, recombinant mutant T90A/P72L/A311V/A40V/M229I/T273A
+KCAT	Streptomyces clavuligerus	0.366	Penicillin N	*mutant enzyme N304K
+KCAT	Streptomyces clavuligerus	1.805	cephalosporin G	*pH 7.5, 25&deg;C, recombinant mutant T90A/P72L/A311V/A40V/M229I/T273A/V171L/R182W/F267L
+KCAT	Streptomyces clavuligerus	1.899	cephalosporin G	*pH 7.5, 25&deg;C, recombinant mutant T90A/P72L/A311V/A40V/M229I/T273A/V171L/R182W/F267L/G108D
+KCAT	Streptomyces clavuligerus	2.302	cephalosporin G	*pH 7.5, 25&deg;C, recombinant mutant T90A/P72L/A311V/A40V/M229I/T273A/V171L/R182W/F267L

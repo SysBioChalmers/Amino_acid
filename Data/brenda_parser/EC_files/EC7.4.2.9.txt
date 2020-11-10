@@ -1,0 +1,2 @@
+KCAT	Escherichia coli	8.31	L-Ala-L-gamma-Glu-L-Phe-L-Leu-[L-Ala-L-gamma-Glu-L-Phe-L-Leu-binding protein][side 1]	*at pH 7.0 and 37&deg;C
+KCAT	Escherichia coli	24.4	L-Ala-L-gamma-Glu-L-Leu-[L-Ala-L-gamma-Glu-L-Leu-binding protein][side 1]	*at pH 7.0 and 37&deg;C

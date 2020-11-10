@@ -1,0 +1,67 @@
+KCAT	Saccharomyces cerevisiae	0.31	ATP	*mutant K18R
+KCAT	Saccharomyces cerevisiae	0.41	ATP	*mutant H292A
+KCAT	Saccharomyces cerevisiae	0.53	ATP	*mutant K18A
+KCAT	Saccharomyces cerevisiae	0.6	ATP	*mutant K18Q
+KCAT	Saccharomyces cerevisiae	1.13	ATP	*mutant E279A
+KCAT	Saccharomyces cerevisiae	4.43	ATP	*mutant E254A
+KCAT	Saccharomyces cerevisiae	5.55	ATP	*mutant R419A
+KCAT	Saccharomyces cerevisiae	7.33	ATP	*mutant H497A
+KCAT	Saccharomyces cerevisiae	8.3	ATP	*mutant H292Q
+KCAT	Arabidopsis thaliana	8.4	ATP	*; monofunctional AK3
+KCAT	Bacillus subtilis	11.87	ATP	*
+KCAT	Thermus thermophilus	11.87	ATP	*
+KCAT	Arabidopsis thaliana	14.5	ATP	*; monofunctional AK2
+KCAT	Bacillus subtilis	15.25	ATP	*
+KCAT	Thermus thermophilus	15.25	ATP	*
+KCAT	Bacillus subtilis	15.87	ATP	*wild type
+KCAT	Saccharomyces cerevisiae	19.1	ATP	*mutant S23A
+KCAT	Saccharomyces cerevisiae	23.3	ATP	*mutant T295V
+KCAT	Arabidopsis thaliana	23.4	ATP	*; monofunctional AK1
+KCAT	Saccharomyces cerevisiae	49.3	ATP	*wild type
+KCAT	Saccharomyces cerevisiae	56.9	ATP	*mutant T22A
+KCAT	Escherichia coli	0.16	L-aspartate	*recombinant hybrid bifunctional holoenzyme AKIII-HDHI+ containing the interface region, asparate kinase activity
+KCAT	Saccharomyces cerevisiae	0.3	L-aspartate	*mutant K18R
+KCAT	Escherichia coli	0.39	L-aspartate	*recombinant wild-type bifunctional holoenzyme, asparate kinase activity
+KCAT	Saccharomyces cerevisiae	0.41	L-aspartate	*mutant K18A
+KCAT	Saccharomyces cerevisiae	0.54	L-aspartate	*mutant K18Q
+KCAT	Thermus thermophilus	0.8	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant S41A
+KCAT	Thermus thermophilus	0.967	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant G135A
+KCAT	Saccharomyces cerevisiae	0.98	L-aspartate	*mutant E279A
+KCAT	Thermus thermophilus	1.83	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant R150A, D154A
+KCAT	Thermus thermophilus	2.17	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant D154N, D182A
+KCAT	Saccharomyces cerevisiae	2.49	L-aspartate	*mutant H292A
+KCAT	Thermus thermophilus	2.83	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant G10A
+KCAT	Thermus thermophilus	3	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant D174A
+KCAT	Thermus thermophilus	4	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant E202A
+KCAT	Thermus thermophilus	4.33	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant G152A, P183A
+KCAT	Saccharomyces cerevisiae	4.65	L-aspartate	*mutant R419A
+KCAT	Thermus thermophilus	4.67	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant A157L
+KCAT	Saccharomyces cerevisiae	5.14	L-aspartate	*mutant E254A
+KCAT	Thermus thermophilus	6	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant A189L
+KCAT	Thermus thermophilus	6.67	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant T47A
+KCAT	Saccharomyces cerevisiae	6.92	L-aspartate	*mutant H497A
+KCAT	Thermus thermophilus	7.33	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant T238A
+KCAT	Saccharomyces cerevisiae	10.3	L-aspartate	*mutant H292Q
+KCAT	Thermus thermophilus	10.8	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant I171A
+KCAT	Methanocaldococcus jannaschii	12	L-aspartate	*at 37&Acirc;&deg;C
+KCAT	Thermus thermophilus	12.3	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant S153A
+KCAT	Thermus thermophilus	13.3	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant G149A, G177A
+KCAT	Thermus thermophilus	13.8	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant Y8A
+KCAT	Escherichia coli	14.2	L-aspartate	*aspartokinase II
+KCAT	Thermus thermophilus	16.7	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant F136A
+KCAT	Saccharomyces cerevisiae	17.9	L-aspartate	*mutant S23A
+KCAT	Saccharomyces cerevisiae	18	L-aspartate	*mutant T295V
+KCAT	Thermus thermophilus	23.2	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant A42S
+KCAT	Thermus thermophilus	23.3	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant L148A
+KCAT	Thermus thermophilus	24.3	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant A23L
+KCAT	Thermus thermophilus	24.7	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant S12A
+KCAT	Thermus thermophilus	25	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, wild-type
+KCAT	Thermus thermophilus	31.7	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant G73A
+KCAT	Thermus thermophilus	32	L-aspartate	*pH 7.5, 60&Acirc;&deg;C, mutant V39A
+KCAT	Escherichia coli	39.2	L-aspartate	*aspartokinase III
+KCAT	Saccharomyces cerevisiae	45	L-aspartate	*mutant T22A
+KCAT	Saccharomyces cerevisiae	46.6	L-aspartate	*wild type
+KCAT	Escherichia coli	56.7	L-aspartate	*aspartokinase I
+KCAT	Saccharomyces cerevisiae	227	L-aspartate	*
+KCAT	Methanocaldococcus jannaschii	245	L-aspartate	*at 70&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.333	aspartate	*pH 7.0, 30&Acirc;&deg;C

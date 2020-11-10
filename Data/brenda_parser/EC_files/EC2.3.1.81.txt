@@ -1,0 +1,57 @@
+KCAT	Corynebacterium striatum	0.24	acetyl-CoA	*pH 6.0, 37&Acirc;&deg;C; recombinant His-tagged enzyme, pH 6.0, 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	10.5	acetyl-CoA	*cosubstrate neomycin B, pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	39	acetyl-CoA	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	39.4	acetyl-CoA	*cosubstrate kanamycin A, pH 7.6, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	5.7	malonyl-CoA	*cosubstrate kanamycin A, pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	9	malonyl-CoA	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.3	butyryl-CoA	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	33	propionyl-CoA	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.012	kanamycin A	*pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET28a
+KCAT	Escherichia coli	0.017	kanamycin A	*pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET28a
+KCAT	Escherichia coli	0.044	kanamycin A	*pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector Int-pET19b-pps
+KCAT	Escherichia coli	0.134	kanamycin A	*pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.144	kanamycin A	*pH 6.6, with n-propionyl-CoA, untagged enzyme expressed from vector Int-pET19b-pps
+KCAT	Escherichia coli	0.163	kanamycin A	*pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector Int-pET19b-pps
+KCAT	Escherichia coli	0.3	kanamycin A	*pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.559	kanamycin A	*pH 6.6, with acetyl-CoA, untagged enzyme expressed from vector Int-pET19b-pps
+KCAT	Pseudomonas aeruginosa	51	kanamycin A	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	51.4	kanamycin A	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	80	kanamycin A	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.089	tobramycin	*pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.179	tobramycin	*pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Pseudomonas aeruginosa	47.8	tobramycin	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	48	tobramycin	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	162	tobramycin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.124	amikacin	*pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.126	amikacin	*pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.146	amikacin	*pH 6.6, with malonyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.5	amikacin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	10	neomycin	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	60	neomycin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	23.5	ribostamycin	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	24	ribostamycin	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	146	ribostamycin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	15	paromomycin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	33.6	paromomycin	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.076	neomycin B	*pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.188	neomycin B	*pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Pseudomonas aeruginosa	9.5	neomycin B	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.041	gentamicin	*pH 6.6, with malonyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.123	gentamicin	*pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.182	gentamicin	*pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	32	netilmicin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Corynebacterium striatum	0.23	kanamycin B	*pH 6.0, 37&Acirc;&deg;C; recombinant His-tagged enzyme, pH 6.0, 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	54.5	kanamycin B	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	55	kanamycin B	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.121	sisomicin	*pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Escherichia coli	0.173	sisomicin	*pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+KCAT	Pseudomonas aeruginosa	10.2	n-propionyl-CoA	*cosubstrate kanamycin A, pH 7.6, 25&Acirc;&deg;C
+KCAT	Corynebacterium striatum	0.17	dibekacin	*pH 6.0, 37&Acirc;&deg;C; recombinant His-tagged enzyme, pH 6.0, 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	46	sisomycin	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	46.3	sisomycin	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	51	sisomycin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	40	gentamycin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	3.5	butirosin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	33.8	lividomycin A	*pH 7.6, 25&Acirc;&deg;C
+KCAT	Escherichia coli	61	apramycin	*in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	34	neomycin E	*pH 7.6, 25&Acirc;&deg;C

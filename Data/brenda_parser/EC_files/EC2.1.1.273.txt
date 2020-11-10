@@ -1,0 +1,4 @@
+KCAT	Antirrhinum majus	0.0058	benzoic acid	*pH 7.5, 20&deg;C
+KCAT	Antirrhinum majus	0.006	S-adenosyl-L-methionine	*with benzoic acid, pH 7.5, 20&deg;C
+KCAT	Arabidopsis thaliana	0.19	benzoic acid	*pH 7.7, 30&deg;C
+KCAT	Arabidopsis lyrata	0.3	benzoic acid	*pH 7.7, 30&deg;C

@@ -1,0 +1,114 @@
+KCAT	Rattus norvegicus	-999	more	*comparison of kcat of wild-type and mutant enzymes
+KCAT	Rattus norvegicus	-999	more	*comparison of kcat of metal-substituted enzymes, kcat for product formation decreases for C3 fluoromethyl farnesyl diphosphate substrates, paralleling the number of fluorines at the C3 methyl position
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Rattus norvegicus	-999	more	*comparison of kcat-value of substrates with the structure Lys-Lys-Ser-Ser-Cys-Val-Ile-X for for farnesyltransferase and geranylgeranyltransferase
+KCAT	Homo sapiens	-999	more	*comparison of kcat of mutant enzymes
+KCAT	Rattus norvegicus	-999	more	*comparison of kcat of mutant enzymes
+KCAT	Rattus norvegicus	0.0005	TKCVID	*
+KCAT	Rattus norvegicus	0.001	TKCVII	*
+KCAT	Rattus norvegicus	0.001	TKCVIL	*
+KCAT	Rattus norvegicus	0.001	TKCVIR	*
+KCAT	Rattus norvegicus	0.0017	TKCVIY	*
+KCAT	Rattus norvegicus	0.0021	TKCVIV	*
+KCAT	Escherichia coli	0.0025	Thr-Lys-Val-Ile-Phe	*25&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.004	(2E,6E)-8-(3-fluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.004	geranyl diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.0082	TKCVIF	*
+KCAT	Rattus norvegicus	0.009	3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate	*cosubstrate: dansyl-Gly-Cys-Val-Ile-Met
+KCAT	Rattus norvegicus	0.009	dansyl-Gly-Cys-Val-Ile-Met	*cosubstrate: 3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate
+KCAT	Rattus norvegicus	0.01	(2E,6E)-3,7-dimethyl-8-(phenylamino)octa-2,6-dien-1-yl diphosphate	*apparent turnover number, measured by continuous fluorescence assay
+KCAT	Rattus norvegicus	0.01	dansyl-Gly-Cys-Val-Ile-Met	*cosubstrate: farnesyl diphosphate
+KCAT	Rattus norvegicus	0.01	farnesyl diphosphate	*cosubstrate: dansyl-Gly-Cys-Val-Ile-Met
+KCAT	Rattus norvegicus	0.013	TKCVIN	*
+KCAT	Rattus norvegicus	0.015	3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate	*cosubstrate: dansyl-Gly-Cys-Lys-Val-Leu
+KCAT	Rattus norvegicus	0.015	dansyl-Gly-Cys-Lys-Val-Leu	*cosubstrate: 3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate
+KCAT	Rattus norvegicus	0.017	TKCVIT	*
+KCAT	Homo sapiens	0.02	AAA-GPP	*at room temperature
+KCAT	Rattus norvegicus	0.022	dansyl-Gly-Cys-Lys-Thr-Gln	*cosubstrate: farnesyl diphosphate
+KCAT	Rattus norvegicus	0.022	farnesyl diphosphate	*cosubstrate: dansyl-Gly-Cys-Lys-Thr-Gln
+KCAT	Rattus norvegicus	0.03	(2E,6E)-3,7-dimethyl-8-[3-(trifluoromethoxy)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.033	3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate	*cosubstrate: dansyl-Gly-Cys-Lys-Thr-Gln
+KCAT	Rattus norvegicus	0.033	dansyl-Gly-Cys-Lys-Thr-Gln	*cosubstrate: 3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate
+KCAT	Rattus norvegicus	0.04	(2E,6E)-8-(3-cyanophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.04	(2E,6E)-8-(isoxazol-3-ylamino)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.041	TKCVIM	*
+KCAT	Homo sapiens	0.042	APO-GPP	*at room temperature
+KCAT	Rattus norvegicus	0.045	dansyl-Gly-Cys-Lys-Val-Leu	*cosubstrate: farnesyl diphosphate
+KCAT	Rattus norvegicus	0.045	farnesyl diphosphate	*cosubstrate: dansyl-Gly-Cys-Lys-Val-Leu
+KCAT	Rattus norvegicus	0.046	TKCVIA	*in 50 mM N2-hydroxyethylpiperazine-N-2-hydroxypropanesulfonic acid-NaOH, pH 7.8, 5 mM MgCl2, and 2 mM tris(2-carboxyethyl)phosphine hydrochloride
+KCAT	Rattus norvegicus	0.053	(E)-[4-[(3,7-dimethylocta-2,6-dien-1-yl)oxy]phenyl]-methanyl diphosphate	*pH 7.8, 25&deg;C
+KCAT	Rattus norvegicus	0.058	3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate	*cosubstrate: dansyl-Gly-Cys-Val-Leu-Ser
+KCAT	Rattus norvegicus	0.058	dansyl-Gly-Cys-Val-Leu-Ser	*cosubstrate: 3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate
+KCAT	Rattus norvegicus	0.06	(2E,6E)-8-(3-bromophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.069	(2E,6E)-3,7-dimethyl-8-[(3-methylphenyl)amino]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.07	(2E,6E)-8-(3-iodophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.08	(2E,6E)-8-[(3-ethylphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Homo sapiens	0.08	HOM-GPP	*at room temperature
+KCAT	Escherichia coli	0.08	Thr-Lys-Cys-Val-Leu-Ala	*25&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.088	(2E,6E)-8-[(2-methoxyphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.095	(2E,6E)-8-[(4-fluorophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.1	(2E,6E)-8-(3,5-difluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.1	(2E,6E)-8-[(3-fluorophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl diphosphate	*apparent turnover number
+KCAT	Escherichia coli	0.1	Thr-Lys-Cys-Val-Ile-Met	*25&deg;C, pH 7.8
+KCAT	Rattus norvegicus	0.11	(2E,6E)-8-(2-ethylphenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.11	(2E,6E)-8-(2-iodophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.11	(2E,6E)-8-(3,4-difluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.12	(2E,6E)-3,7-dimethyl-8-(phenylamino)octa-2,6-dien-1-yl diphosphate	*apparent turnover number, determined by RP-HPLC product analysis
+KCAT	Aspergillus fumigatus	0.12	(2E,6E)-farnesyl diphosphate	*pH 7.5, 25&deg;C
+KCAT	Rattus norvegicus	0.13	(2E,6E)-3,7-dimethyl-8-[3-(trifluoromethyl)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.13	(2E,6E)-8-[(3-bromophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.13	(2E,6E)-8-[(3-cyanophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.13	dansyl-Gly-Cys-Val-Leu-Ser	*cosubstrate: farnesyl diphosphate
+KCAT	Rattus norvegicus	0.13	farnesyl diphosphate	*cosubstrate: dansyl-Gly-Cys-Val-Leu-Ser
+KCAT	Rattus norvegicus	0.14	(2E,6E)-farnesyl diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.15	(2E,6E)-8-[(2-fluorophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.16	(2E,6E)-3,7-dimethyl-8-[4-(trifluoromethoxy)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.161	TKCVIQ	*
+KCAT	Rattus norvegicus	0.166	(2E,6E)-3,7-dimethyl-8-[(2-methylphenyl)amino]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.17	(2E,6E)-3,7-dimethyl-8-(phenylsulfanyl)octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.17	(2E,6E)-8-[(2-ethylphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.17	(2E,6E)-8-(3-ethylphenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.17	(2E,6E)-8-[(4-iodophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.17	(2E,6E)-8-(benzyloxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.19	(2E,6E)-8-(2-fluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.19	(2E,6E)-8-(3,5-dichlorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.21	(2E,6E)-3,7-dimethyl-8-[3-(1-methylethyl)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.21	TKCVIS	*
+KCAT	Rattus norvegicus	0.23	(2E,6E)-8-(2,3-difluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.24	(2E,6E)-8-(3,4-dichlorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.24	(2E,6E)-8-[(3-iodophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.27	(2E,6E)-3,7-dimethyl-8-[[4-(trifluoromethoxy)phenyl]amino]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.27	(2E,6E)-8-[(4-bromophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.27	(2E,6E)-8-(4-iodophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.28	(2E,6E)-8-(4-ethylphenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.29	(2E,6E)-farnesyl diphosphate	*pH 7.8, 25&deg;C
+KCAT	Rattus norvegicus	0.29	[3-[(3-phenoxyphenoxy)methyl]phenyl]-methanyl diphosphate	*pH 7.8, 25&deg;C
+KCAT	Rattus norvegicus	0.3	(2E,6E)-3,7-dimethyl-8-[[2-(trifluoromethyl)phenyl]amino]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.3	(2E,6E)-3,7-dimethyl-8-phenoxyocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.3	(2E,6E)-8-(2-bromophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.3	(2E,6E)-8-(4-benzylphenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.31	TKCVIC	*
+KCAT	Rattus norvegicus	0.4	(2E,6E)-3,7-dimethyl-8-[[3-(trifluoromethoxy)phenyl]amino]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.4	(2E,6E)-3,7-dimethyl-9-phenylnona-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.44	(2E,6E)-3,7-dimethyl-8-[4-(1-methylethyl)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.44	(2E,6E)-8-[3-(hydroxymethyl)phenoxy]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.5	(2E,6E)-8-(4-bromophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.53	(2E,6E)-8-[(3-methoxyphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.55	(2E,6E)-8-(4-nitrophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.58	(2E,6E)-8-(4-fluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.6	(2E,6E)-3,7-dimethyl-8-[(4-methylphenyl)amino]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Homo sapiens	0.66	farnesyl diphosphate	*at room temperature
+KCAT	Rattus norvegicus	0.7	(2E,6E)-8-[(4-cyanophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	0.84	7-benzyloxy-3-methyl-2-hepten-1-ol-diphosphate	*
+KCAT	Rattus norvegicus	1.15	(2E,6E)-8-[4-(hydroxymethyl)phenoxy]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	1.4	(2E,6E)-8-[(4-methoxyphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	1.6	(2E,6E)-3,7-dimethyl-8-[(4-nitrophenyl)amino]octa-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	1.67	(2E,6E)-8-(2,6-difluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	1.93	(2E,6E)-8-(4-cyanophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	3.1	(2E,6E)-3,7-dimethyl-8-(2,3,5,6-tetrafluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	*apparent turnover number
+KCAT	Rattus norvegicus	15	geranylgeranyl diphosphate	*
+KCAT	Rattus norvegicus	25	10-benzyloxy-3-methyl-2-decen-1-ol-diphosphate	*
+KCAT	Rattus norvegicus	27	8-benzyloxy-3-methyl-2-octen-1-ol-diphosphate	*
+KCAT	Rattus norvegicus	43	9-benzyloxy-3-methyl-2-nonen-1-ol-diphosphate	*
+KCAT	Rattus norvegicus	44	6-benzyloxy-3-methyl-2-hexen-1-ol-diphosphate	*
+KCAT	Rattus norvegicus	100	farnesyl diphosphate	*

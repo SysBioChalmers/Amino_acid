@@ -1,0 +1,151 @@
+KCAT	Bacillus sp. (in: Bacteria)	0.0039	Laminarin	*E63Q
+KCAT	Bacillus sp. (in: Bacteria)	0.0097	Laminarin	*E63D
+KCAT	Bacillus sp. (in: Bacteria)	0.021	Laminarin	*W192A; Y123A
+KCAT	Bacillus sp. (in: Bacteria)	0.045	Laminarin	*N26A
+KCAT	Bacillus sp. (in: Bacteria)	0.056	Laminarin	*S90A
+KCAT	Bacillus sp. (in: Bacteria)	0.07	Laminarin	*Y24A
+KCAT	Bacillus sp. (in: Bacteria)	0.09	Laminarin	*R65A
+KCAT	Bacillus sp. (in: Bacteria)	0.095	Laminarin	*W184Y
+KCAT	Bacillus sp. (in: Bacteria)	0.1711	Laminarin	*Y24F
+KCAT	Bacillus sp. (in: Bacteria)	0.178	Laminarin	*H99R
+KCAT	Bacillus sp. (in: Bacteria)	0.198	Laminarin	*H99D
+KCAT	Bacillus sp. (in: Bacteria)	0.217	Laminarin	*E131Q
+KCAT	Bacillus sp. (in: Bacteria)	0.263	Laminarin	*wild type
+KCAT	Bacillus sp. (in: Bacteria)	0.375	Laminarin	*A98W
+KCAT	Bacillus sp. (in: Bacteria)	0.5	Laminarin	*Y24W
+KCAT	Bacillus sp. (in: Bacteria)	0.65	Laminarin	*Y123F
+KCAT	Malbranchea cinnamomea	0.007	lichenan	*pH 10.0, 55&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	0.047	lichenan	*E131Q
+KCAT	Paenibacillus macerans	0.2	lichenan	*mutant enzyme E107D
+KCAT	Paenibacillus macerans	0.55	lichenan	*mutant enzyme E103D
+KCAT	Paenibacillus macerans	0.7	lichenan	*mutant enzyme E107H
+KCAT	Paenibacillus macerans	1.7	lichenan	*mutant enzyme W101Y
+KCAT	Penicillium sp. 'occitanis'	1.707	lichenan	*pH 5.5, 50&Acirc;&deg;C
+KCAT	Paenibacillus macerans	2.9	lichenan	*mutant enzyme W101F
+KCAT	Paenibacillus macerans	3.1	lichenan	*mutant enzyme D105N
+KCAT	Synechocystis sp. PCC 6803	3.71	lichenan	*calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	5.8	lichenan	*mutant E11L, 45&Acirc;&deg;C, pH 5.0
+KCAT	Thermotoga maritima	7	lichenan	*pH 6.6, 70&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	8.08	lichenan	*E63Q
+KCAT	Aspergillus niger	13.32	lichenan	*pH 5.0, 60&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	27	lichenan	*E63D
+KCAT	Bacillus sp. (in: Bacteria)	40.4	lichenan	*Y123A
+KCAT	Bacillus sp. (in: Bacteria)	40.5	lichenan	*W192A
+KCAT	Fibrobacter succinogenes	44	lichenan	*mutant W203R, calculated as D-glucose units released from lichenan
+KCAT	Bacillus licheniformis	60	lichenan	*isozyme EG1, pH 5.0, 50&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes	109	lichenan	*mutant Q70I, calculated as D-glucose units released from lichenan
+KCAT	Bacillus sp. (in: Bacteria)	112.6	lichenan	*E63D
+KCAT	Fibrobacter succinogenes	131	lichenan	*mutant F40I, 45&Acirc;&deg;C, pH not specified in the publication
+KCAT	Bacillus sp. (in: Bacteria)	147.1	lichenan	*H99R
+KCAT	Fibrobacter succinogenes	154	lichenan	*mutant R137Q, 40&Acirc;&deg;C, pH not specified in the publication
+KCAT	Bacillus sp. (in: Bacteria)	163.8	lichenan	*W184Y
+KCAT	Paecilomyces sp. (in: Eurotiomycetes)	166.4	lichenan	*calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	244	lichenan	*mutant Q70A, calculated as D-glucose units released from lichenan
+KCAT	Bacillus sp. (in: Bacteria)	262	lichenan	*N26A
+KCAT	Bacillus sp. (in: Bacteria)	276	lichenan	*H99D
+KCAT	Bacillus sp. (in: Bacteria)	302.4	lichenan	*E131Q
+KCAT	Fibrobacter succinogenes	322	lichenan	*mutant Y42L, 45&Acirc;&deg;C, pH not specified in the publication
+KCAT	Bacillus sp. (in: Bacteria)	324	lichenan	*S90A
+KCAT	Bacillus sp. (in: Bacteria)	325	lichenan	*Y24A
+KCAT	Fibrobacter succinogenes	349	lichenan	*mutant R137M, 40&Acirc;&deg;C, pH not specified in the publication
+KCAT	Fibrobacter succinogenes	371	lichenan	*mutant Q70N, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	401	lichenan	*mutant L62G, 45&Acirc;&deg;C, pH not specified in the publication
+KCAT	Bacillus sp. (in: Bacteria)	481	lichenan	*Y24F
+KCAT	Fibrobacter succinogenes	504	lichenan	*mutant N72Q, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	608	lichenan	*mutant G207-, calculated as D-glucose units released from lichenan
+KCAT	Bacillus sp. (in: Bacteria)	627	lichenan	*Y123F
+KCAT	Fibrobacter succinogenes	639	lichenan	*mutant Q70D, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	641	lichenan	*mutant Q70E, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	699	lichenan	*mutant D206R, calculated as D-glucose units released from lichenan
+KCAT	Bacillus licheniformis	708.3	lichenan	*isozyme EG1, pH 5.0, 50&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes	756	lichenan	*mutant N139A, 45&Acirc;&deg;C, pH not specified in the publication
+KCAT	Fibrobacter succinogenes	785	lichenan	*mutant E85I, calculated as D-glucose units released from lichenan
+KCAT	Bacillus sp. (in: Bacteria)	787	lichenan	*Y24W
+KCAT	Bacillus sp. (in: Bacteria)	811	lichenan	*R65A
+KCAT	Fibrobacter succinogenes	820	lichenan	*mutant N72A, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	865	lichenan	*mutant F205L, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	883	lichenan	*mutant D202L, calculated as D-glucose units released from lichenan
+KCAT	Bacillus sp. (in: Bacteria)	908	lichenan	*A98W
+KCAT	Fibrobacter succinogenes	911	lichenan	*mutant K200M, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	942	lichenan	*mutant N208G, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	992	lichenan	*mutant E47I, 45&Acirc;&deg;C, pH not specified in the publication
+KCAT	Paenibacillus macerans	1020	lichenan	*wild-type enzyme
+KCAT	Fibrobacter succinogenes	1037	lichenan	*mutant R209M, calculated as D-glucose units released from lichenan
+KCAT	Bacillus subtilis	1120	lichenan	*pH 6.0, 50&Acirc;&deg;C, mutant chimeric enzyme
+KCAT	Fibrobacter succinogenes	1141	lichenan	*mutant K200F, calculated as D-glucose units released from lichenan
+KCAT	Bacillus sp. (in: Bacteria)	1191	lichenan	*wild type
+KCAT	Bacillus subtilis	1220	lichenan	*pH 6.0, 50&Acirc;&deg;C, wild-type enzyme
+KCAT	Fibrobacter succinogenes	1277	lichenan	*mutant T204F, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	1296	lichenan	*wild-type, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	1353	lichenan	*mutant G201S, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	1422	lichenan	*mutant E85D, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	1435	lichenan	*mutant Q70R, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	1788	lichenan	*mutant K64A, 50&Acirc;&deg;C, pH not specified in the publication
+KCAT	Fibrobacter succinogenes	1833	lichenan	*mutant K64M, 50&Acirc;&deg;C, pH not specified in the publication
+KCAT	Fibrobacter succinogenes	1860	lichenan	*mutant D206N, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	1955	lichenan	*mutant G207N, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	2060	lichenan	*mutant D206M, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	2170	lichenan	*mutant N44L, 55&Acirc;&deg;C, pH not specified in the publication
+KCAT	Fibrobacter succinogenes	2562	lichenan	*mutant D202N, calculated as D-glucose units released from lichenan
+KCAT	Bacillus pumilus	2613	lichenan	*pH 6.0, 55&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes	2663	lichenan	*mutant Q81N, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	2924	lichenan	*pH 5.0, 50&Acirc;&deg;C, wild-type enzyme, calculated as reducing sugar released from substrate
+KCAT	Fibrobacter succinogenes	3026	lichenan	*mutant N44Q, 55&Acirc;&deg;C, pH not specified in the publication
+KCAT	Fibrobacter succinogenes	3224	lichenan	*pH 5.0, 50&Acirc;&deg;C, mutant V18Y, calculated as reducing sugar released from substrate
+KCAT	Fibrobacter succinogenes	3641	lichenan	*mutant Q81I, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	3911	lichenan	*wild-type, 50&Acirc;&deg;C, pH 5.0
+KCAT	Fibrobacter succinogenes	3920	lichenan	*truncated enzyme, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	5003	lichenan	*pH 5.0, 50&Acirc;&deg;C, mutant W203Y, calculated as reducing sugar released from substrate
+KCAT	Fibrobacter succinogenes	5090	lichenan	*pH 5.0, 50&Acirc;&deg;C, mutant V18Y/W203Y, calculated as reducing sugar released from substrate
+KCAT	Fibrobacter succinogenes	5476	lichenan	*mutant W203F, calculated as D-glucose units released from lichenan
+KCAT	Fibrobacter succinogenes	10100	lichenan	*pH 6.0-7.0, 45&Acirc;&deg;C, mutant TFsW203F
+KCAT	Malbranchea cinnamomea	0.016	Barley beta-glucan	*pH 10.0, 55&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.074	Barley beta-glucan	*
+KCAT	Bacillus subtilis	0.091	Barley beta-glucan	*
+KCAT	Thermotoga maritima	6.2	Barley beta-glucan	*pH 6.6, 70&Acirc;&deg;C
+KCAT	Bacillus sp. SJ-10	7.45	Barley beta-glucan	*mutant K48A, pH 6.0, 50&Acirc;&deg;C; mutant K48L, pH 6.0, 50&Acirc;&deg;C; wild-type, pH 6.0, 50&Acirc;&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	7.5	Barley beta-glucan	*mutant K48A, pH 6.0, 50&Acirc;&deg;C; mutant K48L, pH 6.0, 50&Acirc;&deg;C; wild-type, pH 6.0, 50&Acirc;&deg;C
+KCAT	Synechocystis sp. PCC 6803	8.4	Barley beta-glucan	*
+KCAT	Aspergillus niger	19.11	Barley beta-glucan	*pH 5.0, 60&Acirc;&deg;C
+KCAT	Neocallimastix patriciarum	63.06	Barley beta-glucan	*recombinant enzyme, pH 6.0, 40&Acirc;&deg;C
+KCAT	Neocallimastix patriciarum	68.19	Barley beta-glucan	*recombinant enzyme, pH 6.0, 40&Acirc;&deg;C
+KCAT	Paecilomyces sp. (in: Eurotiomycetes)	81.6	Barley beta-glucan	*calculated as D-glucose units released from beta-glucan
+KCAT	Neocallimastix patriciarum	83.89	Barley beta-glucan	*recombinant enzyme, pH 6.0, 40&Acirc;&deg;C
+KCAT	Paecilomyces sp. 'thermophila'	102	Barley beta-glucan	*pH 5.0, 70&Acirc;&deg;C, wild-type enzyme
+KCAT	Neocallimastix patriciarum	133.3	Barley beta-glucan	*recombinant enzyme, pH 6.0, 40&Acirc;&deg;C
+KCAT	Paecilomyces sp. 'thermophila'	143	Barley beta-glucan	*pH 5.0, 70&Acirc;&deg;C, mutant D56G/D221G/C263S
+KCAT	Aspergillus fumigatus	159.9	Barley beta-glucan	*pH 5.0, 55&Acirc;&deg;C, recombinant enzyme
+KCAT	Bacillus tequilensis	183.6	Barley beta-glucan	*mutant P102C/N125C, at pH 6.5 and 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	184.9	Barley beta-glucan	*wild type enzyme, at pH 6.5 and 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	186.3	Barley beta-glucan	*mutant N31C/T187C/P102C/N125C, at pH 6.5 and 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	187.6	Barley beta-glucan	*mutant N31C/T187C, at pH 6.5 and 40&Acirc;&deg;C
+KCAT	Paenibacillus sp. X4	235	Barley beta-glucan	*wild type enzyme, at pH 5.0 and 60&Acirc;&deg;C
+KCAT	Paenibacillus sp. X4	710	Barley beta-glucan	*mutant enzyme C17R/Q87T/D152G/Y307H/V330A/N344D, at pH 5.0 and 60&Acirc;&deg;C
+KCAT	Paenibacillus sp. X4	2067	Barley beta-glucan	*wild type enzyme, at pH 5.0 and 40&Acirc;&deg;C
+KCAT	Paenibacillus sp. X4	3628	Barley beta-glucan	*mutant enzyme C17R/Q87T/D152G/Y307H/V330A/N344D, at pH 5.0 and 40&Acirc;&deg;C
+KCAT	Bacillus pumilus	5750	Barley beta-glucan	*pH 6.0, 55&Acirc;&deg;C
+KCAT	Hungateiclostridium thermocellum	2.3	Beta-D-glucan	*native enzyme, pH 6.0, 70&Acirc;&deg;C
+KCAT	Bacillus amyloliquefaciens	9.2	Beta-D-glucan	*native enzyme, pH 6.0, 50&Acirc;&deg;C
+KCAT	Bacillus amyloliquefaciens	20.3	Beta-D-glucan	*fusion protein encoding beta-1,3-1,4-glucanase both from Bacillus amyloliquefaciens and Clostridium thermocellum, pH 6.0, 70&Acirc;&deg;C
+KCAT	Hungateiclostridium thermocellum	20.3	Beta-D-glucan	*fusion protein encoding beta-1,3-1,4-glucanase both from Bacillus amyloliquefaciens and Clostridium thermocellum, pH 6.0, 70&Acirc;&deg;C
+KCAT	Bacillus licheniformis	0.04	beta-D-Glc-(1-3)-alpha-D-Glc-fluoride	*pH 7.0, 35&Acirc;&deg;C
+KCAT	Bacillus licheniformis	0.91	beta-D-Glc-(1-4)-beta-D-Glc-(1-3)-alpha-D-Glc-fluoride	*pH 7.0, 35&Acirc;&deg;C
+KCAT	Bacillus licheniformis	1.35	beta-D-Glc-(1-4)-beta-D-Glc-(1-4)-beta-D-Glc-(1-3)-alpha-D-Glc-fluoride	*pH 7.0, 35&Acirc;&deg;C
+KCAT	Synechocystis sp. PCC 6803	0.327	4-methylumbelliferyl laminaribiose	*
+KCAT	Synechocystis sp. PCC 6803	1.35	4-methylumbelliferyl cellobiose	*
+KCAT	Laetiporus sulphureus	13.5	beta-1,3-1,4-glucan	*pH 4.0, 75&Acirc;&deg;C, substrate from Hordeum vulgare
+KCAT	Malbranchea cinnamomea	0.022	Oat beta-glucan	*pH 10.0, 55&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes	2.25	1,3-1,4-beta-D-glucan	*wild-type, expressed in Escherichia coli, pH 5.0, 50&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes	2.44	1,3-1,4-beta-D-glucan	*mutant V18Y, expressed in Escherichia coli, pH 5.0, 50&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes	3.29	1,3-1,4-beta-D-glucan	*mutant V18Y/W203Y, expressed in Escherichia coli, pH 5.0, 50&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes	3.67	1,3-1,4-beta-D-glucan	*mutant W203Y, expressed in Escherichia coli, pH 5.0, 50&Acirc;&deg;C
+KCAT	Laetiporus sulphureus	5.3	carboxymethylcellulose	*pH 4.0, 75&Acirc;&deg;C, substrate from Hordeum vulgare
+KCAT	Aspergillus fumigatus	43.32	carboxymethyl cellulose	*pH 5.0, 55&Acirc;&deg;C, recombinant enzyme
+KCAT	Bacillus amyloliquefaciens	109	AZO blue beta-glucan	*recombinant wild-type enzyme, pH 6.5, 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	137	azo-barley glucan	*wild-type, pH 6.5, 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	137	azo blue barley beta-glucan	*wild-type, pH 6.5, 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	185	azo blue barley beta-glucan	*wild-type, pH 6.5, 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	186	azo blue barley beta-glucan	*mutant N31C/T187C/P102C/N125C, pH 6.5, 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	187	azo blue barley beta-glucan	*mutant E46P/S43E/H205P/S40E, pH 6.5, 40&Acirc;&deg;C
+KCAT	Bacillus tequilensis	189	azo-barley glucan	*mutant K20S/N31C/S40E/S43E/E46P/P102C/K117S/N125C/K165S/T187C/H205P, pH 6.5, 40&Acirc;&deg;C
+KCAT	Bacillus amyloliquefaciens	267	AZO blue beta-glucan	*recombinant optimally-modified enzyme, pH 6.5, 40&Acirc;&deg;C

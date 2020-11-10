@@ -1,0 +1,8 @@
+KCAT	Bacillus anthracis	0.01	fluorescein-QRRKKVYPYPME	*mutant H690A, pH 7.4, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	0.1	fluorescein-QRRKKVYPYPME	*mutant E687D, pH 7.4, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	0.52	fluorescein-QRRKKVYPYPME	*wild-type, pH 7.4, 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	21.2	acetyl-GYbetaARRRRRRRRVLR-4-nitroanilide	*pH 7.4, 22&Acirc;&deg;C, apoprotein reconstituted in presence of Cu2+
+KCAT	Bacillus anthracis	3.9	acetyl-Gly-Tyr-beta-Ala-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Val-Leu-Arg-7-amido-4-methylcoumarin	*copper-substituted enzyme, at pH 6.5 and 20&Acirc;&deg;C
+KCAT	Bacillus anthracis	6.1	acetyl-Gly-Tyr-beta-Ala-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Val-Leu-Arg-7-amido-4-methylcoumarin	*copper-substituted enzyme, at pH 6.5 and 20&Acirc;&deg;C
+KCAT	Bacillus anthracis	10.6	acetyl-Gly-Tyr-beta-Ala-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Val-Leu-Arg-4-nitroanilide	*copper-substituted enzyme, at pH 6.5 and 20&Acirc;&deg;C
+KCAT	Bacillus anthracis	26.6	acetyl-Gly-Tyr-beta-Ala-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Val-Leu-Arg-4-nitroanilide	*copper-substituted enzyme, at pH 6.5 and 20&Acirc;&deg;C

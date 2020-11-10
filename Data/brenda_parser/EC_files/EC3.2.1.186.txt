@@ -1,0 +1,10 @@
+KCAT	Solanum torvum	4.9	4-nitrophenyl beta-D-glucoside	*recombinant His-tagged enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	9.1	4-nitrophenyl beta-D-glucoside	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	9.1	4-nitrophenyl beta-D-glucoside	*native enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	4.7	4-methylumbelliferyl beta-D-glucoside	*recombinant His-tagged enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	8.3	4-methylumbelliferyl beta-D-glucoside	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	8.3	4-methylumbelliferyl beta-D-glucoside	*native enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	7.3	torvoside A	*recombinant His-tagged enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	8.6	torvoside A	*pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	8.6	torvoside A	*native enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Solanum torvum	7.7	torvoside H	*pH 5.0, 37&Acirc;&deg;C

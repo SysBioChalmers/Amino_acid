@@ -1,0 +1,1 @@
+KCAT	Methanothermus fervidus	108	ATP	*pH 7.5, 75&Acirc;&deg;C

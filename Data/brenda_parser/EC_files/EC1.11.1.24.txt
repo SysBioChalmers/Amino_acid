@@ -1,0 +1,45 @@
+KCAT	Synechocystis sp. PCC 6803	0.009	thioredoxin B	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.01	thioredoxin A	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.01	thioredoxin Q	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.015	thioredoxin A	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.045	thioredoxin B	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.063	thioredoxin Q	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.072	thioredoxin B	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.079	thioredoxin Q	*pH 7.0, temperature not specified in the publication; pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.092	thioredoxin A	*pH 7.0, temperature not specified in the publication; pH 7.0, temperature not specified in the publication
+KCAT	Vibrio vulnificus	0.098	reduced thioredoxin A	*pH 7.0, 25&deg;C
+KCAT	Synechocystis sp. PCC 6803	0.099	thioredoxin A	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp. PCC 6803	0.212	thioredoxin B	*pH 7.0, temperature not specified in the publication; pH 7.0, temperature not specified in the publication
+KCAT	Rhodobacter sphaeroides	0.274	cumene hydroperoxide	*PrxT, in 50 mM HEPES/NaOH, pH 7.3, at 25&deg;C
+KCAT	Rhodobacter sphaeroides	0.281	cumene hydroperoxide	*PrxQ, in 50 mM HEPES/NaOH, pH 7.3, at 25&deg;C
+KCAT	Rhodobacter sphaeroides	0.285	H2O2	*PrxQ, in 50 mM HEPES/NaOH, pH 7.3, at 25&deg;C; PrxT, in 50 mM HEPES/NaOH, pH 7.3, at 25&deg;C
+KCAT	Xylella fastidiosa	0.41	cumene hydroperoxide	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Pisum sativum	0.69	H2O2	*
+KCAT	Toxoplasma gondii	0.83	H2O2	*
+KCAT	Xylella fastidiosa	1.1	H2O2	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	1.67	H2O2	*pH 7.6, 30&deg;C
+KCAT	Xylella fastidiosa	2	t-butyl hydroperoxide	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Toxoplasma gondii	2.79	tert-butyl hydroperoxide	*
+KCAT	Vibrio vulnificus	2.9	reduced thioredoxin A	*pH 7.0, 25&deg;C
+KCAT	Seriola lalandi	3.2	t-butyl hydroperoxide	*pH 7.0, temperature not specified in the publication, Prx197
+KCAT	Fasciola hepatica	6.3	cumene hydroperoxide	*22&deg;C, pH 7.0
+KCAT	Seriola lalandi	7.3	cumene hydroperoxide	*pH 7.0, temperature not specified in the publication, Prx197
+KCAT	Fasciola hepatica	7.6	tert-butyl hydroperoxide	*22&deg;C, pH 7.0
+KCAT	Plasmodium falciparum	9.65	thioredoxin	*pH 7.6, 30&deg;C
+KCAT	Treponema pallidum	9.8	cumene hydroperoxide	*pH 7.0, 25&deg;C, TpAhpC
+KCAT	Treponema pallidum	9.8	thioredoxin	*pH 7.0, 25&deg;C, TpAhpC with cumene hydroperoxide
+KCAT	Seriola lalandi	10.4	t-butyl hydroperoxide	*pH 7.0, temperature not specified in the publication, Prx231
+KCAT	Pisum sativum	10.6	H2O2	*wild type enzyme, in 25 mM Tris-HCl (pH 8)
+KCAT	Seriola lalandi	15.2	cumene hydroperoxide	*pH 7.0, temperature not specified in the publication, Prx231
+KCAT	Fasciola hepatica	15.8	H2O2	*22&deg;C, pH 7.0
+KCAT	Treponema pallidum	17	H2O2	*pH 7.0, 25&deg;C, TpAhpC
+KCAT	Treponema pallidum	17	thioredoxin	*pH 7.0, 25&deg;C, TpAhpC with H2O2
+KCAT	Treponema pallidum	20.9	t-butyl hydroperoxide	*pH 7.0, 25&deg;C, TpAhpC
+KCAT	Treponema pallidum	20.9	thioredoxin	*pH 7.0, 25&deg;C, TpAhpC with t-butyl hydroperoxide
+KCAT	Seriola lalandi	22.3	H2O2	*pH 7.0, temperature not specified in the publication, Prx197
+KCAT	Seriola lalandi	24.6	H2O2	*pH 7.0, temperature not specified in the publication, Prx231
+KCAT	Leishmania infantum	37	tryparedoxin 2	*pH 7.6, 25&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	52	cumene hydroperoxide	*in 50 mM potassium phosphate pH 7.0, at 25&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	52.4	H2O2	*in 50 mM potassium phosphate pH 7.0, at 25&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	52.7	Ethyl hydroperoxide	*in 50 mM potassium phosphate pH 7.0, at 25&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	54.7	tert-butyl hydroperoxide	*in 50 mM potassium phosphate pH 7.0, at 25&deg;C

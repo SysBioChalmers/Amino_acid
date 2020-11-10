@@ -1,0 +1,1 @@
+ecNumber*1.1.99.40#turnoverNumber*4#turnoverNumberMaximum*#substrate*D-2-hydroxyglutarate#commentary*pH 9.5, 30&deg;C#organism*Saccharomyces cerevisiae#ligandStructureId*5143#literature*740757#!ecNumber*1.1.99.40#turnoverNumber*4.9#turnoverNumberMaximum*#substrate*pyruvate#commentary*pH 9.5, 30&deg;C#organism*Saccharomyces cerevisiae#ligandStructureId*31#literature*740757#

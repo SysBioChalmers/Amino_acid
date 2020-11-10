@@ -1,0 +1,121 @@
+KCAT	Thermococcus sibiricus	1.51	NADPH	*pH 7.5, 60&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	2.21	NADPH	*substrate furfural, pH 7.2, 30&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	4.75	NADPH	*substrate furfural, pH 7.2, 30&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	6.3	NADPH	*80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Scheffersomyces stipitis	6.5	NADPH	*substrate 5-hydroxymethylfurfural, pH 7.2, 30&Acirc;&deg;C
+KCAT	Thermococcus sp.	24	NADPH	*native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8); recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)
+KCAT	Lactobacillus brevis	38.1	NADPH	*oxidation, recombinant wild-type, 30&Acirc;&deg;C, pH 7.0
+KCAT	Pseudothermotoga hypogea	52	NADPH	*pH 8.0, 80&Acirc;&deg;C
+KCAT	Thermococcus guaymasensis	158	NADPH	*cosubstrate: 2-butanone, pH 7.5, 80&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	2.4	NAD+	*80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Lactobacillus brevis	9.9	NAD+	*reduction, recombinant mutant G37D, 30&Acirc;&deg;C, pH 7.0
+KCAT	Scheffersomyces stipitis	2.7	NADH	*substrate furfural, pH 7.2, 30&Acirc;&deg;C
+KCAT	Scheffersomyces stipitis	6.23	NADH	*substrate furfural, pH 7.2, 30&Acirc;&deg;C
+KCAT	Lactobacillus brevis	36.6	NADH	*oxidation, recombinant mutant G37D, 30&Acirc;&deg;C, pH 7.0
+KCAT	Thermococcus sibiricus	0.45	NADP+	*pH 10.5, 60&Acirc;&deg;C
+KCAT	Lactobacillus brevis	4.4	NADP+	*reduction, recombinant wild-type, 30&Acirc;&deg;C, pH 7.0
+KCAT	Lactobacillus brevis	5.9	NADP+	*reduction, recombinant mutant G37D, 30&Acirc;&deg;C, pH 7.0
+KCAT	Mycobacterium sp.	13.41	NADP+	*pH 7.0. 30&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	15.8	NADP+	*80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Pseudothermotoga hypogea	50	NADP+	*pH 11.0, 80&Acirc;&deg;C
+KCAT	Thermococcus sp.	81	NADP+	*recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)
+KCAT	Thermococcus sp.	84	NADP+	*native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)
+KCAT	Thermococcus guaymasensis	1333	NADP+	*cosubstrate: 2-butanol, pH 7.5, 80&Acirc;&deg;C
+KCAT	Pseudothermotoga hypogea	14	ethanol	*pH 11.0, 80&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	19.2	ethanol	*80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Synechocystis sp.	27.35	ethanol	*; in 30 mM Tris-HCl (pH 8.0)
+KCAT	Thermococcus sp.	81	ethanol	*recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)
+KCAT	Thermococcus sp.	84	ethanol	*native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)
+KCAT	Pyrococcus furiosus	5.5	acetaldehyde	*80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Pseudothermotoga hypogea	15	acetaldehyde	*pH 8.0, 80&Acirc;&deg;C
+KCAT	Thermococcus sp.	22.9	acetaldehyde	*recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)
+KCAT	Thermococcus sp.	23.6	acetaldehyde	*native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)
+KCAT	Escherichia coli	53.5	acetaldehyde	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Synechocystis sp.	157.6	acetaldehyde	*; in 30 mM Tris-HCl (pH 8.0)
+KCAT	Thermococcus sibiricus	0.7	D-xylose	*pH 10.5, 60&Acirc;&deg;C
+KCAT	Homo sapiens	0.0283	glycerol	*
+KCAT	Sus scrofa	0.612	glycerol	*
+KCAT	Escherichia coli	45.1	propionaldehyde	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	3.7	methylglyoxal	*80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Sus scrofa	11.6	D-glucuronate	*
+KCAT	Pseudothermotoga hypogea	48	Butyraldehyde	*pH 8.0, 80&Acirc;&deg;C
+KCAT	Pectobacterium atrosepticum	20.1	Butanal	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp.	156	Butanal	*
+KCAT	Synechocystis sp.	156.6	Butanal	*in 30 mM Tris-HCl (pH 8.0)
+KCAT	Synechocystis sp.	17.05	butanol	*; in 30 mM Tris-HCl (pH 8.0)
+KCAT	Pseudothermotoga hypogea	48	butanol	*pH 11.0, 80&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	359	hexanal	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	14.4	D-glyceraldehyde	*
+KCAT	Thermococcus sibiricus	0.53	2-propanol	*pH 10.5, 60&Acirc;&deg;C
+KCAT	Thermococcus guaymasensis	202	diacetyl	*cosubstrate: NADPH, pH 7.5, 80&Acirc;&deg;C
+KCAT	Sus scrofa	22	4-nitrobenzaldehyde	*
+KCAT	Pyrococcus furiosus	10.4	phenylacetaldehyde	*80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Pectobacterium atrosepticum	49.2	pentanal	*pH 7.0, temperature not specified in the publication
+KCAT	Synechocystis sp.	159	pentanal	*
+KCAT	Synechocystis sp.	159.1	pentanal	*in 30 mM Tris-HCl (pH 8.0)
+KCAT	Saccharomyces cerevisiae	378	pentanal	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	11920	pentanal	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	14.8	cinnamyl alcohol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	60.78	cinnamyl alcohol	*; in 30 mM Tris-HCl (pH 8.0)
+KCAT	Saccharomyces cerevisiae	70	cinnamyl alcohol	*pH 10.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1622	cinnamyl alcohol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	3404	cinnamyl alcohol	*pH 10.0, 25&Acirc;&deg;C
+KCAT	Lactobacillus brevis	35.7	acetophenone	*cofactor NADH, reduction, recombinant mutant G37Dm 30&Acirc;&deg;C, pH 7.0
+KCAT	Lactobacillus brevis	44.5	acetophenone	*cofactor NADPH, reduction, recombinant wild-type, 30&Acirc;&deg;C, pH 7.0
+KCAT	Synechocystis sp.	107.9	cinnamaldehyde	*; in 30 mM Tris-HCl (pH 8.0)
+KCAT	Saccharomyces cerevisiae	307	cinnamaldehyde	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	7913	cinnamaldehyde	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	9.5	p-nitrobenzaldehyde	*
+KCAT	Thermococcus guaymasensis	833	2-butanol	*cosubstrate: NADP+, pH 7.5, 80&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	918	1-Pentanol	*pH 10.0, 25&Acirc;&deg;C
+KCAT	Thermococcus guaymasensis	190	2-butanone	*cosubstrate: NADPH, pH 7.5, 80&Acirc;&deg;C
+KCAT	Escherichia coli	62.5	acrolein	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Thermococcus guaymasensis	142	acetoin	*cosubstrate: NADPH, pH 7.5, 80&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	10.7	Hexanol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	13.15	Pentanol	*; in 30 mM Tris-HCl (pH 8.0)
+KCAT	Sus scrofa	1.77	L-arabitol	*
+KCAT	Mycobacterium sp.	7.02	butan-1-ol	*pH 7.0. 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.0283	Phenylethanol	*
+KCAT	Lactobacillus brevis	5.4	Phenylethanol	*oxidation, cosubstrate NADP+, recombinant wild-type, 30&Acirc;&deg;C, pH 7.0
+KCAT	Lactobacillus brevis	8.2	Phenylethanol	*oxidation, cosubstrate NADP+, recombinant mutant G37D, 30&Acirc;&deg;C, pH 7.0
+KCAT	Lactobacillus brevis	9.5	Phenylethanol	*oxidation, cosubstrate NAD+, recombinant mutant G37D, 30&Acirc;&deg;C, pH 7.0
+KCAT	Saccharomyces cerevisiae	1132	Phenylethanol	*pH 10.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	296	3-Methylbutanal	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	9581	3-Methylbutanal	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Sus scrofa	21.7	4-carboxybenzaldehyde	*
+KCAT	Homo sapiens	0.0433	Propane-1,2-diol	*
+KCAT	Sus scrofa	26.8	3-Pyridinecarboxaldehyde	*
+KCAT	Escherichia coli	60.1	malondialdehyde	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	173	3-methyl-1-butanol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	2866	3-methyl-1-butanol	*pH 10.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	263	veratraldehyde	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	6000	veratraldehyde	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Thermococcus guaymasensis	952	meso-2,3-butanediol	*cosubstrate: NADP+, pH 7.5, 80&Acirc;&deg;C
+KCAT	Homo sapiens	0.0733	benzylalcohol	*
+KCAT	Sus scrofa	13.7	D-Lactaldehyde	*
+KCAT	Thermococcus sibiricus	2.04	Pyruvaldehyde	*pH 7.5, 60&Acirc;&deg;C
+KCAT	Sus scrofa	19.3	4-Pyridinecarboxaldehyde	*
+KCAT	Escherichia coli	59.5	butanaldehyde	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Sus scrofa	16.6	4-cyanobenzaldehyde	*
+KCAT	Thermococcus guaymasensis	512	(2S,3S)-2,3-butanediol	*cosubstrate: NADP+, pH 7.5, 80&Acirc;&deg;C
+KCAT	Homo sapiens	0.148	4-Hydroxy-3-methoxybenzyl alcohol	*
+KCAT	Sus scrofa	0.07	3-Pyridinemethanol	*
+KCAT	Thermococcus guaymasensis	740	(2R,3R)-2,3-butanediol	*cosubstrate: NADP+, pH 7.5, 80&Acirc;&deg;C
+KCAT	Sus scrofa	5.6	(+)-Camphorquinone	*
+KCAT	Mycobacterium sp.	5.31	1,5-pentanediol	*pH 7.0. 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.08	phenylethanediol	*
+KCAT	Thermoanaerobacter ethanolicus	0.65	(S)-1-phenyl-2-propanol	*mutant W110L, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	2.3	(S)-1-phenyl-2-propanol	*mutant W110Q, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	4.5	(S)-1-phenyl-2-propanol	*mutant W110M, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	17.8	(S)-1-phenyl-2-propanol	*mutant W110G, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	18.8	(S)-1-phenyl-2-propanol	*mutant W110I, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	31.1	(S)-1-phenyl-2-propanol	*mutant W110A, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	38.6	(S)-1-phenyl-2-propanol	*mutant W110V, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	0.008	(R)-1-phenyl-2-propanol	*mutant W110L, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	0.025	(R)-1-phenyl-2-propanol	*mutant W110Q, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	0.045	(R)-1-phenyl-2-propanol	*mutant W110M, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	0.46	(R)-1-phenyl-2-propanol	*mutant W110I, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	0.56	(R)-1-phenyl-2-propanol	*mutant W110A, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	1.2	(R)-1-phenyl-2-propanol	*mutant W110V, pH 8.9, 50&Acirc;&deg;C
+KCAT	Thermoanaerobacter ethanolicus	1.4	(R)-1-phenyl-2-propanol	*mutant W110G, pH 8.9, 50&Acirc;&deg;C
+KCAT	Mycobacterium sp.	7.84	3-methyl-1,5-pentanediol	*pH 7.0. 30&Acirc;&deg;C

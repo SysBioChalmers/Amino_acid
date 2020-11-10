@@ -1,0 +1,1 @@
+ecNumber*2.1.1.327#turnoverNumber*1.3#turnoverNumberMaximum*#substrate*phenazine-1-carboxylate#commentary*presence of hydroxylase PhzS, pH 7.8, 22&Acirc;&deg;C#organism*Pseudomonas aeruginosa#ligandStructureId*212422#literature*737667#

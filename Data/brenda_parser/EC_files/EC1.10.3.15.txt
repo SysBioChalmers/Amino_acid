@@ -1,0 +1,6 @@
+KCAT	Streptomyces griseus	0.066	L-Dopa	*at pH 7.0 and 55&deg;C
+KCAT	Streptomyces griseus	0.8	3,4-Dihydroxybenzaldehyde	*at pH 7.0 and 55&deg;C
+KCAT	Streptomyces griseus	12	catechol	*at pH 7.0 and 55&deg;C
+KCAT	Streptomyces griseus	14	3-amino-4-hydroxybenzaldehyde	*at pH 7.0 and 55&deg;C
+KCAT	Streptomyces griseus	18	2-amino-4-methylphenol	*at pH 7.0 and 55&deg;C
+KCAT	Streptomyces griseus	20	o-aminophenol	*at pH 7.0 and 55&deg;C

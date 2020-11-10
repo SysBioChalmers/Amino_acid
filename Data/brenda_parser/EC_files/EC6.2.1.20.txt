@@ -1,0 +1,1 @@
+KCAT	Synechococcus elongatus	0.016	oleic acid	*pH 8.0

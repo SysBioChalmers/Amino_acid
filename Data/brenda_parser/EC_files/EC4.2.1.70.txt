@@ -1,0 +1,3 @@
+KCAT	Saccharomyces cerevisiae	0.00667	tRNAVal	*substrate from yeast, limiting
+KCAT	Saccharomyces cerevisiae	0.00833	tRNAIle	*substrate from yeast, intronless, limiting
+KCAT	Saccharomyces cerevisiae	0.00833	tRNAVal	*substrate from yeast, in absence of Mg2+

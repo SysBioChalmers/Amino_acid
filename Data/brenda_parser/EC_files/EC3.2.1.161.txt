@@ -1,0 +1,13 @@
+KCAT	Viburnum furcatum	0.005	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	*37&Acirc;&deg;C, pH 5.0, S504W
+KCAT	Viburnum furcatum	0.017	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	*37&Acirc;&deg;C, pH 5.0, A419W
+KCAT	Viburnum furcatum	0.042	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	*37&Acirc;&deg;C, pH 5.0, A419V
+KCAT	Viburnum furcatum	0.093	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	*37&Acirc;&deg;C, pH 5.0, S504A
+KCAT	Viburnum furcatum	0.098	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	*37&Acirc;&deg;C, pH 5.0, wild-type
+KCAT	Dalbergia nigrescens	7	4-nitrophenyl-beta-D-fucoside	*
+KCAT	Dalbergia nigrescens	10.4	4-nitrophenyl-beta-D-glucopyranoside	*
+KCAT	Dalbergia nigrescens	20	dalpatein 7-O-beta-D-apiofuranosyl-(1-&gt;6)-beta-D-glucopyranoside	*pH 5.5, 30&deg;C, recombinant Dnbglu2
+KCAT	Dalbergia nigrescens	229	dalnigrein 7-O-beta-D-apiofuranosyl-(1-&gt;6)-beta-D-glucopyranoside	*pH 5.5, 30&deg;C, recombinant Dnbglu2
+KCAT	Dalbergia nigrescens	334	dalpaniculin-7-O-[beta-D-apiofuranosyl-(1-6)-beta-D-glucopyranoside]	*
+KCAT	Dalbergia nigrescens	465	dalpatein-7-O-[beta-D-apiofuranosyl-(1-6)-beta-D-glucopyranoside]	*
+KCAT	Dalbergia nigrescens	480	daidzin	*
+KCAT	Dalbergia nigrescens	500	genistin	*

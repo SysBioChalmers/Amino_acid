@@ -1,0 +1,5 @@
+KCAT	Aneurinibacillus thermoaerophilus	0.18	dTDP-4-dehydro-6-deoxy-alpha-D-glucose	*mutant enzyme R15Y/H95R, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aneurinibacillus thermoaerophilus	0.19	dTDP-4-dehydro-6-deoxy-alpha-D-glucose	*mutant enzyme R15Y, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aneurinibacillus thermoaerophilus	1.23	dTDP-4-dehydro-6-deoxy-alpha-D-glucose	*mutant enzyme H95R, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aneurinibacillus thermoaerophilus	3.3	dTDP-4-dehydro-6-deoxy-alpha-D-glucose	*mutant enzyme Y35F, at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Aneurinibacillus thermoaerophilus	10.5	dTDP-4-dehydro-6-deoxy-alpha-D-glucose	*wild type enzyme, at pH 7.5 and 37&Acirc;&deg;C

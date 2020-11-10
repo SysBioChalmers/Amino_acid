@@ -1,0 +1,36 @@
+KCAT	Homo sapiens	0.0058	glutathione	*mutant with C-terminal residues FGLC deleted, pH 6.9, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.0138	glutathione	*mutant containing six cysteine-to-serine mutations, with C-terminal residues FGLC deleted, pH 6.9, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.0175	glutathione	*wild-type, pH 6.9, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.0293	glutathione	*mutant containing six cysteine-to-serine mutations with the C-terminal cysteine residue deleted, pH 6.9, 30&Acirc;&deg;C
+KCAT	Pinus bungeana	40.53	glutathione	*
+KCAT	Ipomoea batatas	100.6	glutathione	*25&Acirc;&deg;C
+KCAT	Populus tomentosa	745	glutathione	*mutant K8A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	6705	glutathione	*mutant S73A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	15960	glutathione	*mutant D72A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	40850	glutathione	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	53880	glutathione	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	99830	glutathione	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Spinacia oleracea	210	GSH	*mutant enzyme C9S/C26S
+KCAT	Spinacia oleracea	280	GSH	*mutant enzyme C23S
+KCAT	Spinacia oleracea	420	GSH	*mutant enzyme C9S
+KCAT	Spinacia oleracea	490	GSH	*wild-type enzyme
+KCAT	Homo sapiens	0.0047	dehydroascorbate	*mutant with C-terminal residues FGLC deleted, pH 6.9, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.008	dehydroascorbate	*mutant containing six cysteine-to-serine mutations, with C-terminal residues FGLC deleted, pH 6.9, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.011	dehydroascorbate	*wild-type, pH 6.9, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.0135	dehydroascorbate	*mutant containing six cysteine-to-serine mutations with the C-terminal cysteine residue deleted, pH 6.9, 30&Acirc;&deg;C
+KCAT	Homo sapiens	5.27	dehydroascorbate	*
+KCAT	Pinus bungeana	10.15	dehydroascorbate	*
+KCAT	Taiwanofungus camphoratus	21.51	dehydroascorbate	*
+KCAT	Spinacia oleracea	210	dehydroascorbate	*
+KCAT	Spinacia oleracea	280	dehydroascorbate	*mutant enzyme C23S
+KCAT	Ipomoea batatas	368.2	dehydroascorbate	*25&Acirc;&deg;C
+KCAT	Spinacia oleracea	420	dehydroascorbate	*mutant enzyme C9S
+KCAT	Spinacia oleracea	490	dehydroascorbate	*wild-type enzyme
+KCAT	Populus tomentosa	570	dehydroascorbate	*mutant K8A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	3988	dehydroascorbate	*mutant S73A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	5737	dehydroascorbate	*mutant D72A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	13130	dehydroascorbate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	17730	dehydroascorbate	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Populus tomentosa	21150	dehydroascorbate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Spinacia oleracea	-999	more	*
+KCAT	Sus scrofa	-999	more	*

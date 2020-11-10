@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	0.012	cytosine967 in 16S rRNA	*pH 7.5, 37&Acirc;&deg;C

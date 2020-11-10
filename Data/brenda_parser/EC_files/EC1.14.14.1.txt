@@ -1,0 +1,40 @@
+KCAT	Bacillus megaterium	-999	more	*Kcat-values of wild-type and mutant enzyme for different fatty acids and alkyl trimethylammonium compounds
+KCAT	Bacillus megaterium	-999	more	*scanning chimeragenesis succeeds in changing bacterial monooxygenase CYP102A1 into an enzyme capable of carrying out the major reaction of insect terpenoid omega-hydroxylase CYP4C7, with a 100fold increase in turnover number
+KCAT	Bacillus megaterium	0.016	NADH	*mutant A74G/F87V/L188Q
+KCAT	Streptomyces tubercidicus	0.048	avermectin	*pH 7.0, 30&deg;C, recombinant Ema1
+KCAT	Bacillus subtilis	0.4	omega-(p-nitrophenyl)octanoic acid	*pH 8.0, wild-type
+KCAT	Bacillus megaterium	0.43	NADPH	*mutant F87A
+KCAT	Bacillus megaterium	0.45	NADPH	*wild-type enzyme
+KCAT	Bacillus megaterium	0.5	NADPH	*mutant F87G
+KCAT	Bacillus megaterium	0.83	NADPH	*mutant A74E/F87V/P386S
+KCAT	Bacillus subtilis	1.3	omega-(p-nitrophenyl)decanoic acid	*pH 8.0, mutant A74G/F88V/S189Q
+KCAT	Bacillus subtilis	1.3	omega-(p-nitrophenyl)dodecanoic acid	*pH 8.0, mutant A74G/F88V/S189Q
+KCAT	Bacillus subtilis	1.5	omega-(p-nitrophenyl)decanoic acid	*pH 8.0, wild-type
+KCAT	Bacillus megaterium	1.7	NADPH	*mutant A74G/F87V/L188Q
+KCAT	Bacillus subtilis	3.1	omega-(p-nitrophenyl)dodecanoic acid	*pH 8.0, wild-type
+KCAT	Bacillus subtilis	3.5	omega-(p-nitrophenyl)octanoic acid	*pH 8.0, mutant A74G/F88V/S189Q
+KCAT	Bacillus megaterium	5.67	NADPH	*mutant A74G/F87V/L188Q/S965D
+KCAT	Rhodococcus ruber	6	NADH	*pH 7.4, 25&deg;C
+KCAT	Bacillus megaterium	6.5	NADPH	*mutant A74G/F87V/L188Q/W1046A
+KCAT	Bacillus megaterium	7	NADH	*mutant A74G/F87V/L188Q/S965D
+KCAT	Bacillus megaterium	9.3	NADPH	*mutant A74G/F87V/L188Q/R966M
+KCAT	Bacillus megaterium	9.83	NADPH	*mutant A74G/F87V/L188Q/W1046S
+KCAT	Rhodococcus ruber	12.75	NADPH	*pH 7.4, 25&deg;C
+KCAT	Bacillus licheniformis	13.9	12-methyl-tetradecanoic acid	*CYP102A7, at pH 7.5
+KCAT	Bacillus licheniformis	16.18	stearic acid	*CYP102A7, at pH 7.5
+KCAT	Bacillus licheniformis	21.1	13-methyl-tetradecanoic acid	*CYP102A7, at pH 7.5
+KCAT	Bacillus licheniformis	22.8	palmitoleic acid	*CYP102A7, at pH 7.5
+KCAT	Bacillus licheniformis	25.65	hexadecanoic acid	*CYP102A7, at pH 7.5, highest binding affinity
+KCAT	Bacillus licheniformis	27.7	dodecanoic acid	*CYP102A7, at pH 7.5
+KCAT	Bacillus licheniformis	29.3	linoleic acid	*CYP102A7, at pH 7.5
+KCAT	Bacillus megaterium	32	NADH	*mutant A74G/F87V/L188Q/R966D
+KCAT	Bacillus megaterium	37.83	NADH	*mutant A74G/F87V/L188Q/R966M
+KCAT	Bacillus megaterium	46.83	NADH	*mutant A74G/F87V/L188Q
+KCAT	Bacillus licheniformis	59.8	tetradecanoic acid	*CYP102A7, at pH 7.5, highest activity
+KCAT	Bacillus megaterium	89	NADH	*mutant A74G/F87V/L188Q/W1046A
+KCAT	Bacillus megaterium	105.2	NADH	*mutant A74G/F87V/L188Q/W1046A
+KCAT	Bacillus licheniformis	122.4	cytochrome c	*CYP102A7, at pH 7.5
+KCAT	Bacillus megaterium	132.2	NADPH	*mutant A74G/F87V/L188Q
+KCAT	Bacillus megaterium	156	NADH	*mutant A74G/F87V/L188Q/W1046S
+KCAT	Bacillus megaterium	183	NADPH	*mutant A74G/F87V/L188Q/R966D
+KCAT	Bacillus megaterium	362.8	NADPH	*mutant A74G/F87V/L188Q/R966M

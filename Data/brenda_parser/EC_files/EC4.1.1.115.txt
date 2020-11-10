@@ -1,0 +1,2 @@
+KCAT	Olsenella scatoligenes	2	(1H-indol-3-yl)acetate	*pH 7.5, 30&deg;C
+KCAT	Clostridium scatologenes	130	(1H-indol-3-yl)acetate	*pH 7.5, 30&deg;C

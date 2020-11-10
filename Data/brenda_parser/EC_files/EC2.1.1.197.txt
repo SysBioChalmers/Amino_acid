@@ -1,0 +1,2 @@
+KCAT	Bacillus cereus	173	S-adenosyl-L-methionine	*pH 7, 37&deg;C, cosubstrate malonyl-[acyl-carrier protein]
+KCAT	Bacillus cereus	225	malonyl-[acyl-carrier protein]	*pH 7, 37&deg;C

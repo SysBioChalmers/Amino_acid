@@ -1,0 +1,26 @@
+KCAT	Arabidopsis thaliana	0.0039	geranyl phosphate	*pH and temperature not specified in the publication
+KCAT	Methanothermobacter thermautotrophicus	0.0142	geranyl phosphate	*pH 7.5, 37&deg;C
+KCAT	Thermoplasma acidophilum	0.03	fosfomycin	*pH 7.5, 37&deg;C, mutant K204A
+KCAT	Thermoplasma acidophilum	0.04	fosfomycin	*pH 7.5, 37&deg;C, wild-type
+KCAT	Methanocaldococcus jannaschii	0.04	isopentenyl phosphate	*mutant H60Q, pH 8.0, temperature not specified in the publication
+KCAT	Thermoplasma acidophilum	0.047	geranyl phosphate	*pH 7.5, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	1.46	isopentenyl phosphate	*wild-type enzyme, pH 8.0, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	2.7	dimethylallyl phosphate	*pH and temperature not specified in the publication
+KCAT	Thermoplasma acidophilum	2.75	isopentenyl diphosphate	*pH 7.5, 37&deg;C, reverse reaction
+KCAT	Thermoplasma acidophilum	2.84	isopentenyl thiolophosphate	*pH 7.5, 37&deg;C
+KCAT	Arabidopsis thaliana	3.7	isopentenyl phosphate	*pH and temperature not specified in the publication
+KCAT	Methanothermobacter thermautotrophicus	4.5	isopentenyl diphosphate	*pH 7.5, 37&deg;C, reverse reaction
+KCAT	Thermoplasma acidophilum	7.7	isopentenyl phosphate	*pH 7.5, 37&deg;C, mutant K204A
+KCAT	Thermoplasma acidophilum	8	isopentenyl phosphate	*pH 7.5, 37&deg;C
+KCAT	Thermoplasma acidophilum	8	isopentenyl phosphate	*pH 7.5, 37&deg;C, wild-type
+KCAT	Thermoplasma acidophilum	8.07	but-3-en-1-yl phosphate	*pH 7.5, 37&deg;C
+KCAT	Methanothermobacter thermautotrophicus	8.22	isopentenyl thiolophosphate	*pH 7.5, 37&deg;C
+KCAT	Thermoplasma acidophilum	9.9	butyl phosphate	*pH 7.5, 37&deg;C
+KCAT	Thermoplasma acidophilum	11.3	dimethylallyl phosphate	*pH 7.5, 37&deg;C
+KCAT	Haloferax volcanii	16.3	ATP	*pH 7.5, 30&deg;C
+KCAT	Haloferax volcanii	16.3	isopentenyl phosphate	*pH 7.5, 30&deg;C
+KCAT	Methanothermobacter thermautotrophicus	20.5	but-3-en-1-yl phosphate	*pH 7.5, 37&deg;C
+KCAT	Methanothermobacter thermautotrophicus	27.5	isopentenyl phosphate	*pH 7.5, 37&deg;C
+KCAT	Methanothermobacter thermautotrophicus	31.8	butyl phosphate	*pH 7.5, 37&deg;C
+KCAT	Methanothermobacter thermautotrophicus	34	dimethylallyl phosphate	*pH 7.5, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	330	isopentenyl phosphate	*pH 7.5, 55&deg;C

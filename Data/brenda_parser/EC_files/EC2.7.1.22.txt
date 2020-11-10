@@ -1,0 +1,1 @@
+KCAT	Haemophilus influenzae	0.92	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, nicotinamide mononucleotide adenylyltransferase activity

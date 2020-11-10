@@ -1,0 +1,9 @@
+KCAT	Taxus cuspidata	5.77	taxadien-2alpha,5alpha,10beta-triol	*
+KCAT	Taxus cuspidata	27.92	taxadien-2alpha,5alpha,10beta-triol	*
+KCAT	Taxus cuspidata	11.91	taxadien-5alpha,9alpha,10beta,13alpha-tetraol	*
+KCAT	Taxus cuspidata	15.47	taxadien-5alpha,9alpha,10beta,13alpha-tetraol	*
+KCAT	Taxus cuspidata	145	taxadien-5alpha-acetoxy-9alpha,10beta,13alpha-triol	*
+KCAT	Taxus cuspidata	297.9	taxadien-5alpha-acetoxy-9alpha,10beta,13alpha-triol	*
+KCAT	Taxus cuspidata	4.28	taxadien-5alpha-ol	*
+KCAT	Taxus cuspidata	29.59	taxadien-5alpha-ol	*
+KCAT	Taxus cuspidata	52.13	taxadien-2alpha,5alpha-diol	*

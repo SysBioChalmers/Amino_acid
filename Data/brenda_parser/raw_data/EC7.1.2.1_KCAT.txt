@@ -1,0 +1,1 @@
+ecNumber*7.1.2.1#turnoverNumber*3#turnoverNumberMaximum*6#substrate*ATP#commentary*pH 6.8, 25&Acirc;&deg;C#organism*Kluyveromyces lactis#ligandStructureId*4#literature*685157#!ecNumber*7.1.2.1#turnoverNumber*56.7#turnoverNumberMaximum*#substrate*ATP#commentary*#organism*Arabidopsis thaliana#ligandStructureId*4#literature*246931#

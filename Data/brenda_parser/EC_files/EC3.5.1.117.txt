@@ -1,0 +1,4 @@
+KCAT	Pseudomonas sp.	9.2	N-(6-aminohexanoyl)-6-aminohexanoate	*pH and temperature not specified in the publication
+KCAT	Arthrobacter sp.	19	N-(6-aminohexanoyl)-6-aminohexanoate	*pH and temperature not specified in the publication
+KCAT	Agromyces sp.	6.5	6-aminohexanoate cyclic oligomer	*pH 7.3, 60&Acirc;&deg;C, mutant enzyme D122G/H130Y/D36A/E236Q
+KCAT	Pseudomonas sp.	21	N-(4-nitrophenyl)-6-aminohexanamide	*pH and temperature not specified in the publication

@@ -1,0 +1,1 @@
+KCAT	Homo sapiens	3.8	(7-Methoxycoumarin-4-yl)acetyl-Arg-Pro-Lys-Pro-Val-Glu-norvaline-Trp-Arg-Lys(2,4-dinitrophenyl)-NH2	*

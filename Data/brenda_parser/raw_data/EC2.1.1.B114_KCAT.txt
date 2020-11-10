@@ -1,0 +1,1 @@
+ecNumber*2.1.1.B114#turnoverNumber*0.041#turnoverNumberMaximum*#substrate*oligoduplex 5'-GGACGCTTCACCGGATGTm6ACAGGCATGCGACGACCCCTAG-3'/3'-CCTGCGAAGTGGCCTACATGTCCGTACGCTGCTGGGGATC-5'#commentary*pH 7.5, 75&Acirc;&deg;C#organism*Pyrococcus abyssi#ligandStructureId*#literature*723996#

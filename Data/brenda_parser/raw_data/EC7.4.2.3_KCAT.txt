@@ -1,0 +1,1 @@
+ecNumber*7.4.2.3#turnoverNumber*0.00068#turnoverNumberMaximum*#substrate*ATP#commentary*pH 7.5, 25&deg;C, full-length mtHsp70 in absence of Hep#organism*Homo sapiens#ligandStructureId*4#literature*698800#

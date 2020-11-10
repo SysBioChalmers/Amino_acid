@@ -1,0 +1,5 @@
+KCAT	Manihot esculenta	0.1	L-isoleucine	*pH 7.9, 30&deg;C
+KCAT	Lotus japonicus	0.73	L-valine	*28&deg;C, pH 7.5
+KCAT	Lotus japonicus	0.83	L-valine	*28&deg;C, pH 7.5
+KCAT	Lotus japonicus	2	L-isoleucine	*28&deg;C, pH 7.5; pH 7.5, 28&deg;C
+KCAT	Lotus japonicus	3.67	L-isoleucine	*28&deg;C, pH 7.5; pH 7.5, 28&deg;C

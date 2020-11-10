@@ -1,0 +1,5 @@
+KCAT	Mycobacterium tuberculosis	0.031	O2	*flavin: FMNH2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.075	3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione	*flavin: FADH2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.2	3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione	*flavin: FMNH2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.11	3-hydroxybiphenyl	*flavin: FMNH2, pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.24	3,17-dihydroxy-9,10-seconandrost-1,3,5(10)-triene-9-one	*flavin: FMNH2, pH 7.4, 25&Acirc;&deg;C

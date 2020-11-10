@@ -1,0 +1,26 @@
+KCAT	Paenarthrobacter aurescens	-999	more	*effect of temperature in the turnover number
+KCAT	Pedobacter heparinus	-999	more	*effect of temperature in the turnover number
+KCAT	Pedobacter heparinus	0.0015	phenyl 4-methylumbelliferyl-beta-D-glucopyranosiduronic acid	*pH 8.0
+KCAT	Pedobacter heparinus	0.0016	phenyl 4-methylumbelliferyl-beta-D-glucopyranosiduronic acid	*pH 8.0
+KCAT	Pedobacter heparinus	0.005	benzyl S-(2-acetamido-2-deoxy-beta-D-galactopyranosyl)-(1-4)-4-deoxy-4-thio-beta-D-glucopyranosiduronic acid	*
+KCAT	Pedobacter heparinus	0.019	benzyl 4-O-(2',4'-dinitrophenyl)-beta-D-glucopyranosiduronic acid	*pH 6.8
+KCAT	Pedobacter heparinus	0.019	benzyl 4-O-(2',4'-dinitrophenyl)-beta-D-glucopyranosiduronic acid	*pH 6.8
+KCAT	Pedobacter heparinus	0.019	benzyl 4-O-(3',4'-dinitrophenyl)-beta-D-glucopyranosiduronic acid	*pH 6.8
+KCAT	Pedobacter heparinus	0.027	benzyl 4-O-(2'-nitrophenyl)-beta-D-glucopyranosiduronic acid	*pH 6.8
+KCAT	Pedobacter heparinus	0.035	benzyl 4-O-(4'-chloro-2'-nitrophenyl)-beta-D-glucopyranosiduronic acid	*pH 6.8
+KCAT	Pedobacter heparinus	0.041	4-O-(2',4'-dinitrophenyl)-beta-D-glucopyranosiruronic acid	*pH 6.8, 30&deg;C, wild-type enzyme
+KCAT	Pedobacter heparinus	0.16	benzyl 4-deoxy-4-fluoro-beta-D-glucopyranosiduronic acid	*pH 6.8
+KCAT	Pedobacter heparinus	0.16	benzyl 4-deoxy-4-fluoro-beta-D-glucopyranosiduronic acid	*
+KCAT	Pedobacter heparinus	2.3	phenyl 4-deoxy-4-fluoro-beta-D-glucopyranosiduronic acid	*pH 6.8
+KCAT	Pedobacter heparinus	2.3	phenyl 4-deoxy-4-fluoro-beta-D-glucopyranosiduronic acid	*
+KCAT	Pedobacter heparinus	234	chondroitin 4-sulfate	*recombinant enzyme, pH 8.0, 35&deg;C, dependent on expression system
+KCAT	Pedobacter heparinus	308	chondroitin 4-sulfate	*20&deg;C
+KCAT	Pedobacter heparinus	345	chondroitin 6-sulfate	*20&deg;C
+KCAT	Paenarthrobacter aurescens	403	chondroitin 4-sulfate	*20&deg;C
+KCAT	Pedobacter heparinus	423	chondroitin 6-sulfate	*recombinant enzyme, pH 8.0, 35&deg;C, dependent on expression system
+KCAT	Paenarthrobacter aurescens	522	chondroitin 6-sulfate	*20&deg;C
+KCAT	Pedobacter heparinus	570	hyaluronate	*20&deg;C
+KCAT	Pedobacter heparinus	840	chondroitin	*20&deg;C
+KCAT	Pedobacter heparinus	855	chondroitin 6-sulfate	*pH 6.8, 30&deg;C, wild-type enzyme
+KCAT	Paenarthrobacter aurescens	868	chondroitin	*20&deg;C
+KCAT	Paenarthrobacter aurescens	1200	hyaluronate	*20&deg;C

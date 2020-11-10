@@ -1,0 +1,3 @@
+KCAT	Bordetella pertussis	0.3	CTP	*in the presence of 5 mM Mn2+, in 75 mM HEPES-NaOH, pH 7.4, at 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	7.2	CTP	*in the presence of 5 mM Mg2+, in 75 mM HEPES-NaOH, pH 7.4, at 37&Acirc;&deg;C
+KCAT	Bacillus anthracis	8.8	CTP	*in the presence of 5 mM Mn2+, in 75 mM HEPES-NaOH, pH 7.4, at 37&Acirc;&deg;C

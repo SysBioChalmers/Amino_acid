@@ -1,0 +1,1 @@
+KCAT	Saccharomyces cerevisiae	-999	more	*kinetics of reductive and oxidative half-reactions

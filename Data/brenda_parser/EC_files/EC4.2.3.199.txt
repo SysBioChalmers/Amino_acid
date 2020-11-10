@@ -1,0 +1,3 @@
+KCAT	Salvia miltiorrhiza	1.53	(2E,6E)-farnesyl-diphosphate	*30&deg;C, pH 7.0, enzyme form SmSTPS3
+KCAT	Salvia miltiorrhiza	2.07	(2E,6E)-farnesyl-diphosphate	*30&deg;C, pH 7.0, enzyme form SmSTPS2
+KCAT	Salvia miltiorrhiza	2.09	(2E,6E)-farnesyl-diphosphate	*30&deg;C, pH 7.0, enzyme form SmSTPS1

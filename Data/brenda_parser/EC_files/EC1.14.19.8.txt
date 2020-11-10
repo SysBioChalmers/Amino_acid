@@ -1,0 +1,9 @@
+KCAT	Streptomyces arenae	0.000067	pentalenolactone F	*recombinant mutant M81A, pH 8.0, 30&deg;C
+KCAT	Streptomyces arenae	0.00032	pentalenolactone F	*recombinant mutant M77S, pH 8.0, 30&deg;C
+KCAT	Streptomyces arenae	0.00058	pentalenolactone F	*recombinant mutant F232A, pH 8.0, 30&deg;C
+KCAT	Streptomyces arenae	0.00142	pentalenolactone F	*recombinant mutant M81C-2-mercaptoethanol conjugate, pH 8.0, 30&deg;C
+KCAT	Streptomyces arenae	0.0015	pentalenolactone F	*recombinant mutant F232L, pH 8.0, 30&deg;C
+KCAT	Streptomyces arenae	0.00153	pentalenolactone F	*recombinant mutant M81C, pH 8.0, 30&deg;C
+KCAT	Streptomyces arenae	0.03	pentalenolactone F	*recombinant wild-type enzyme, pH 8.0, 30&deg;C
+KCAT	Streptomyces arenae	8.8	pentalenolactone F	*at 30&deg;C, pH not specified in the publication
+KCAT	Streptomyces exfoliatus	10.5	pentalenolactone F	*at 30&deg;C, pH not specified in the publication

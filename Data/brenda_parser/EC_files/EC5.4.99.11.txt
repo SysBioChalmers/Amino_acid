@@ -1,0 +1,27 @@
+KCAT	Serratia plymuthica	0.2	sucrose	*pH 7.0, 30&deg;C, purified recombinant mutant F297A+P
+KCAT	Serratia plymuthica	1.3	sucrose	*pH 7.0, 30&deg;C, purified recombinant mutant F297A
+KCAT	Pseudomonas mesoacidophila	1.7	isomaltulose	*mutant enzyme R311C
+KCAT	Serratia plymuthica	3.8	sucrose	*pH 7.0, 30&deg;C, purified recombinant mutant R333K
+KCAT	Pseudomonas mesoacidophila	11.5	Trehalulose	*mutant enzyme R311C
+KCAT	Pseudomonas mesoacidophila	15	D-glucose	*wild type enzyme
+KCAT	Serratia plymuthica	30	sucrose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Pseudomonas mesoacidophila	32.5	D-glucose	*mutant enzyme R311C
+KCAT	Pseudomonas mesoacidophila	44	D-glucose	*mutant enzyme D442N
+KCAT	Pseudomonas mesoacidophila	241	Trehalulose	*mutant enzyme D442N
+KCAT	Pseudomonas mesoacidophila	258	isomaltulose	*wild type enzyme
+KCAT	Klebsiella sp.	720	sucrose	*mutant enzyme R325D and R325L, pH 6.0, 35&deg;C
+KCAT	Klebsiella sp.	876	sucrose	*mutant enzyme R328D, pH 6.0, 35&deg;C
+KCAT	Serratia plymuthica	992.8	sucrose	*recombinant wild-type enzyme, pH 6.0, 30&deg;C
+KCAT	Serratia plymuthica	1014.3	sucrose	*recombinant mutant K576D, pH 6.0, 30&deg;C
+KCAT	Serratia plymuthica	1055.8	sucrose	*recombinant mutant E175N/K576D, pH 6.0, 30&deg;C
+KCAT	Pseudomonas mesoacidophila	1144	Trehalulose	*wild type enzyme
+KCAT	Serratia plymuthica	1280.3	sucrose	*recombinant mutant E175N pH 6.0, 30&deg;C
+KCAT	Pseudomonas mesoacidophila	1947	isomaltulose	*mutant enzyme D442N
+KCAT	Klebsiella sp.	2070	sucrose	*mutant enzyme R328L, pH 6.0, 35&deg;C
+KCAT	Klebsiella sp.	4260	sucrose	*mutant enzyme D327R, pH 6.0, 35&deg;C
+KCAT	Klebsiella sp.	7368	sucrose	*mutant enzyme D327N, pH 6.0, 35&deg;C
+KCAT	Klebsiella sp.	7370	sucrose	*mutant enzyme D327N, pH 6.0, 35&deg;C
+KCAT	Klebsiella sp.	8898	sucrose	*mutant enzyme D329L, pH 6.0, 35&deg;C
+KCAT	Klebsiella sp.	8900	sucrose	*mutant enzyme D329L, pH 6.0, 35&deg;C
+KCAT	Klebsiella sp.	10400	sucrose	*wild-type enzyme, pH 6.0, 35&deg;C
+KCAT	Klebsiella sp.	10430	sucrose	*wild-type enzyme, pH 6.0, 35&deg;C

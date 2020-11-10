@@ -1,0 +1,5 @@
+KCAT	Fusarium oxysporum	0.0122	linolenate	*pH 9.0, temperature not specified in the publication, recombinant enzyme
+KCAT	Gaeumannomyces graminis	18.3	linoleic acid	*
+KCAT	Gaeumannomyces graminis	23.3	O2	*
+KCAT	Gaeumannomyces graminis	40	alpha-linolenic acid	*
+KCAT	Gaeumannomyces graminis	40	linoleate	*pH 7.5, 18:3n-3 substrate

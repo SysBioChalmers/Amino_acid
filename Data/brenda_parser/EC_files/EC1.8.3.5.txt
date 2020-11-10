@@ -1,0 +1,1 @@
+KCAT	Homo sapiens	0.000133	farnesyl-L-cysteine	*

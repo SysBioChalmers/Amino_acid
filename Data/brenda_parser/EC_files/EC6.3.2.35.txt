@@ -1,0 +1,2 @@
+KCAT	Enterococcus casseliflavus	8.17	D-serine	*pH 7.5
+KCAT	Enterococcus casseliflavus	8.87	D-asparagine	*pH 7.5

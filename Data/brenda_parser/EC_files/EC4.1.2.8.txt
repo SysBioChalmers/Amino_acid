@@ -1,0 +1,3 @@
+KCAT	Zea mays	0.006	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate	*
+KCAT	Zea mays	2.3	indole-3-glycerol phosphate	*
+KCAT	Oryza sativa	6.55	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate	*pH 8.0, 22&deg;C

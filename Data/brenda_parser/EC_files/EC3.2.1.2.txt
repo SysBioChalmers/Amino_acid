@@ -1,0 +1,34 @@
+KCAT	Thermococcus sp.	11.45	maltotriose	*pH 5.0, 85&Acirc;&deg;C
+KCAT	Hordeum vulgare	299	starch	*pH 5, 40&Acirc;&deg;C, soluble starch, wild-type Sd2L
+KCAT	Hordeum vulgare	305	starch	*pH 5, 40&Acirc;&deg;C, soluble starch, wild-type Sd1
+KCAT	Hordeum vulgare	308	starch	*pH 5, 40&Acirc;&deg;C, soluble starch, wild-type Sd2H and V233A/L347S double mutant of Sd2L
+KCAT	Hordeum vulgare	309	starch	*pH 5, 40&Acirc;&deg;C, soluble starch, L347S and R115C mutants of Sd2L
+KCAT	Hordeum vulgare	314	starch	*pH 5, 40&Acirc;&deg;C, soluble starch, V233A mutant of Sd1
+KCAT	Hordeum vulgare	315	starch	*pH 5, 40&Acirc;&deg;C, soluble starch, V233A mutant of Sd2L
+KCAT	Hordeum vulgare	319	starch	*pH 5, 40&Acirc;&deg;C, soluble starch, D165E and V430A mutants of Sd2L
+KCAT	Glycine max	1260	starch	*pH 5.4-6.0, major isozyme
+KCAT	Curculigo pilosa	5460	starch	*from potato
+KCAT	Curculigo pilosa	6540	starch	*soluble starch
+KCAT	Thermococcus sp.	3.95	maltotetraose	*pH 5.0, 85&Acirc;&deg;C
+KCAT	Glycine max	0.034	maltopentaose	*pH 5.4, 37&Acirc;&deg;C, mutant E380Q
+KCAT	Glycine max	0.08	maltopentaose	*pH 5.4, 37&Acirc;&deg;C, mutant E186Q
+KCAT	Thermococcus sp.	3.85	maltopentaose	*pH 5.0, 85&Acirc;&deg;C
+KCAT	Glycine max	1280	maltopentaose	*pH 5.4, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Curculigo pilosa	2400	amylose	*
+KCAT	Glycine max	0.24	amylopectin	*pH 5.4, 37&Acirc;&deg;C, recombinant mutant T342V
+KCAT	Glycine max	0.75	amylopectin	*pH 5.4, 37&Acirc;&deg;C, recombinant mutant T342A
+KCAT	Glycine max	3.5	amylopectin	*pH 5.4, 37&Acirc;&deg;C, recombinant mutant T342S
+KCAT	Bacillus cereus	92	amylopectin	*37&Acirc;&deg;C, recombinant mutant Y164H
+KCAT	Glycine max	98.4	amylopectin	*pH 5.4, 37&Acirc;&deg;C, recombinant mutant T342V
+KCAT	Bacillus cereus	325	amylopectin	*37&Acirc;&deg;C, recombinant mutant T47M/Y164E/T328N
+KCAT	Bacillus cereus	453	amylopectin	*37&Acirc;&deg;C, recombinant mutant Y164Q
+KCAT	Curculigo pilosa	550	amylopectin	*
+KCAT	Bacillus cereus	988	amylopectin	*37&Acirc;&deg;C, recombinant mutant Y164F
+KCAT	Bacillus cereus	1129	amylopectin	*37&Acirc;&deg;C, recombinant mutant Y164E
+KCAT	Glycine max	1280	amylopectin	*pH 5.4, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus cereus	2739	amylopectin	*37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Pyrococcus furiosus	962	4-nitrophenyl alpha-maltopyranoside	*pH 7.0, 90&Acirc;&deg;C
+KCAT	Ipomoea batatas	-999	more	*
+KCAT	Vicia faba	-999	more	*
+KCAT	Hordeum vulgare	-999	more	*kinetic parameters for several deletion mutants
+KCAT	Bacillus cereus	-999	more	*

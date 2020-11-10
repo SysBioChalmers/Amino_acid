@@ -1,0 +1,22 @@
+KCAT	Homo sapiens	7	dansyl-Phe-Ala-Arg	*mutant E350Q, pH 6.5, 37&Acirc;&deg;C; pH 6.5, 37&Acirc;&deg;C, mutant enzyme E350Q
+KCAT	Homo sapiens	8.5	dansyl-Phe-Ala-Arg	*mutant E762Q, pH 6.5, 37&Acirc;&deg;C; pH 6.5, 37&Acirc;&deg;C, mutant enzyme E762Q
+KCAT	Homo sapiens	12.5	dansyl-Phe-Ala-Arg	*pH 6.5, 37&Acirc;&deg;C, wild-type enzyme; wild-type, pH 6.5, 37&Acirc;&deg;C
+KCAT	Anas sp.	19	dansyl-Phe-Ala-Arg	*wild-type enzyme, pH 6.4, 37&Acirc;&deg;C
+KCAT	Anas platyrhynchos	51	dansyl-Phe-Ala-Arg	*enzyme form gp180
+KCAT	Anas platyrhynchos	57	dansyl-Phe-Ala-Arg	*enzyme form gp170
+KCAT	Anas sp.	3.07	Tyr-Gly-Gly-Phe-Leu-Arg	*wild-type enzyme, pH 6.4, 37&Acirc;&deg;C
+KCAT	Anas sp.	6.7	Dansyl-Pro-Ala-Arg	*wild-type enzyme, pH 6.4, 37&Acirc;&deg;C
+KCAT	Anas platyrhynchos	22	Dansyl-Pro-Ala-Arg	*enzyme form gp180
+KCAT	Bos taurus	4.5	dansyl-Phe-Leu-Arg	*
+KCAT	Anas sp.	3.7	dansyl-Phe-Phe-Arg	*wild-type enzyme, pH 6.4, 37&Acirc;&deg;C
+KCAT	Bos taurus	5.9	dansyl-Phe-Phe-Arg	*
+KCAT	Anas platyrhynchos	5.9	dansyl-Phe-Phe-Arg	*enzyme form gp180
+KCAT	Anas platyrhynchos	17	dansyl-Phe-Phe-Arg	*enzyme form gp170
+KCAT	Anas sp.	2.6	dansyl-Phe-Gly-Arg	*wild-type enzyme, pH 6.4, 37&Acirc;&deg;C
+KCAT	Bos taurus	4.4	dansyl-Phe-Gly-Arg	*
+KCAT	Bos taurus	25	Dansyl-Leu-Ala-Arg	*
+KCAT	Bos taurus	0.07	dansyl-Phe-Ile-Arg	*
+KCAT	Bos taurus	0.0417	Dansyl-Leu-Arg	*
+KCAT	Bos taurus	0.002	dansyl-Phe-Pro-Arg	*
+KCAT	Anas sp.	3.97	Tyr-Gly-Gly-Phe-Leu-Lys	*wild-type enzyme, pH 6.4, 37&Acirc;&deg;C
+KCAT	Anas sp.	-999	more	*turnover numbers of domain 1 and 2

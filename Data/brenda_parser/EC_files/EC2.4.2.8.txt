@@ -1,0 +1,158 @@
+KCAT	Homo sapiens	-999	more	*kinetics
+KCAT	Tritrichomonas suis	-999	more	*wild-type and mutants: kcat for substrates hypoxanthine, guanine, xanthine, IMP, GMP, XMP, diphosphate, 5-phosphoribosyl 1-diphosphate
+KCAT	Giardia intestinalis	-999	more	*kcat of mutant enzymes
+KCAT	Trypanosoma cruzi	-999	more	*wild-type and diverse mutant enzymes, overview
+KCAT	Pyrococcus horikoshii	-999	more	*increasing kcat with temperature (40-70&deg;C) for all substrates tested; kcat/KM for 5-phospho-alpha-D-ribose 1-diphosphate = 0.00093 mM(-1)*min(-1) at 40&deg;C, 0.00069 mM(-1)*min(-1) at 50&deg;C, 0.00357 mM(-1)*min(-1) at 60&deg;C, 0.00496 mM(-1)*min(-1) at 70&deg;C; kcat/KM for guanine = 0.00262 mM(-1)*min(-1) at 50&deg;C, 0.02631 mM(-1)*min(-1) at 70&deg;C; kcat/KM for hypoxanthine = 0.00579 mM(-1)*min(-1) at 40&deg;C, 0.00708 mM(-1)*min(-1) at 50&deg;C, 0.01719 mM(-1)*min(-1) at 60&deg;C, 0.03107 mM(-1)*min(-1) at 70&deg;C; kcat/KM for hypoxanthine similar to kcat/KM for guanine, kcat/KM for xanthine approximately 20 times lower; kcat/KM for xanthine = 0.00040 mM(-1)*min(-1) at 50&deg;C, 0.00139 mM(-1)*min(-1) at 70&deg;C
+KCAT	Trypanosoma cruzi	0.001	inosine monophosphate	*loop II-deletion mutant
+KCAT	Trypanosoma cruzi	0.002	diphosphate	*loop II-deletion mutant
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	0.0024	guanine	*pH 7.4, 25&deg;C
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	0.0027	guanine	*pH 7.4, 50&deg;C
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	0.0033	guanine	*pH 7.4, 37&deg;C
+KCAT	Plasmodium falciparum	0.0036	IMP	*unactivated enzyme, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.0042	IMP	*IMP-activated enzyme, at pH 7.4 and 23&deg;C
+KCAT	Homo sapiens	0.013	guanine	*purified recombinant chimeric enzyme DS1
+KCAT	Plasmodium falciparum	0.013	guanine	*purified recombinant chimeric enzyme DS1
+KCAT	Mycobacterium tuberculosis	0.0139	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.4, 25&deg;C, recombinant enzyme, with guanine
+KCAT	Homo sapiens	0.038	IMP	*wild-type enzyme
+KCAT	Trypanosoma cruzi	0.039	guanine	*loop II-deletion mutant
+KCAT	Plasmodium falciparum	0.04	5-phospho-alpha-D-ribose 1-diphosphate	*unactivated enzyme, with guanine as cosubstrate, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Homo sapiens	0.041	diphosphate	*wild-type enzyme
+KCAT	Trypanosoma cruzi	0.05	5-phosphoribosyl 1-diphosphate	*loop II-deletion mutant
+KCAT	Plasmodium falciparum	0.06	guanine	*unactivated enzyme, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Trypanosoma cruzi	0.06	hypoxanthine	*loop II-deletion mutant
+KCAT	Homo sapiens	0.062	xanthine	*purified recombinant chimeric enzyme DS1
+KCAT	Plasmodium falciparum	0.062	xanthine	*purified recombinant chimeric enzyme DS1
+KCAT	Trypanosoma cruzi	0.07	IMP	*pH 7.5, 37&deg;C, recombinant mutant L67M
+KCAT	Homo sapiens	0.07	xanthine	*pH 7.4, 22&deg;C, recombinant mutant F36L
+KCAT	Homo sapiens	0.073	hypoxanthine	*purified recombinant chimeric enzyme DS1
+KCAT	Plasmodium falciparum	0.073	hypoxanthine	*purified recombinant chimeric enzyme DS1
+KCAT	Homo sapiens	0.08	xanthine	*pH 7.4, 28&deg;C, recombinant chimeric mutant enzyme
+KCAT	Plasmodium falciparum	0.08	xanthine	*pH 7.4, 28&deg;C, recombinant chimeric mutant enzyme
+KCAT	Trypanosoma cruzi	0.09	GMP	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	0.1	5-phospho-alpha-D-ribose 1-diphosphate	*unactivated enzyme, with guanine as cosubstrate, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C; unactivated enzyme, with hypoxanthine as cosubstrate, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Trypanosoma cruzi	0.1	diphosphate	*pH 7.5, 37&deg;C, recombinant enzyme, with GMP
+KCAT	Plasmodium falciparum	0.1	guanine	*unactivated enzyme, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.1	hypoxanthine	*unactivated enzyme, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Trypanosoma cruzi	0.12	diphosphate	*pH 7.5, 37&deg;C, recombinant mutant L67M
+KCAT	Mycobacterium tuberculosis	0.14	guanine	*pH 7.4, 25&deg;C, recombinant enzyme, with 5-phospho-alpha-D-ribose 1-diphosphate
+KCAT	Homo sapiens	0.18	IMP	*mutant E196D
+KCAT	Trypanosoma cruzi	0.19	IMP	*pH 7.5, 37&deg;C, recombinant mutant G69S
+KCAT	Mycobacterium tuberculosis	0.193	guanine	*at pH 7.5 and 25&deg;C
+KCAT	Plasmodium falciparum	0.2	5-phospho-alpha-D-ribose 1-diphosphate	*unactivated enzyme, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.2	5-phospho-alpha-D-ribose 1-diphosphate	*activated enzyme, with hypoxanthine as cosubstrate, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C; unactivated enzyme, with hypoxanthine as cosubstrate, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C; unactivated enzyme, with xanthine as cosubstrate, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C; unactivated enzyme, with xanthine as cosubstrate, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.2	hypoxanthine	*unactivated enzyme, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.2	xanthine	*unactivated enzyme, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.2	xanthine	*unactivated enzyme, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C
+KCAT	Pyrococcus horikoshii	0.21	guanine	*+/-0.01, 50&deg;C
+KCAT	Homo sapiens	0.23	inosine monophosphate	*recombinant enzyme, reverse reaction
+KCAT	Homo sapiens	0.23	IMP	*mutant E196A
+KCAT	Plasmodium falciparum	0.3	5-phospho-alpha-D-ribose 1-diphosphate	*activated enzyme, with hypoxanthine as cosubstrate, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.3	guanine	*activated enzyme, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C
+KCAT	Trypanosoma cruzi	0.3	hypoxanthine	*pH 7.5, 37&deg;C, recombinant mutant L67M
+KCAT	Plasmodium falciparum	0.3	hypoxanthine	*activated enzyme, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C; activated enzyme, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.3	xanthine	*unactivated enzyme, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Trypanosoma cruzi	0.31	diphosphate	*pH 7.5, 37&deg;C, recombinant mutant G69S
+KCAT	Homo sapiens	0.33	diphosphate	*mutant E196D
+KCAT	Homo sapiens	0.37	guanine	*pH 7.4, 28&deg;C, recombinant chimeric mutant enzyme
+KCAT	Plasmodium falciparum	0.37	guanine	*pH 7.4, 28&deg;C, recombinant chimeric mutant enzyme
+KCAT	Pyrococcus horikoshii	0.38	hypoxanthine	*+/-0.01, 40&deg;C
+KCAT	Plasmodium falciparum	0.4	5-phospho-alpha-D-ribose 1-diphosphate	*activated enzyme, with guanine as cosubstrate, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C; activated enzyme, with guanine as cosubstrate, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	0.4	guanine	*activated enzyme, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Trypanosoma cruzi	0.46	IMP	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Trypanosoma cruzi	0.47	diphosphate	*pH 7.5, 37&deg;C, recombinant enzyme, with IMP
+KCAT	Homo sapiens	0.47	hypoxanthine	*pH 7.4, 28&deg;C, recombinant chimeric mutant enzyme
+KCAT	Plasmodium falciparum	0.47	hypoxanthine	*pH 7.4, 28&deg;C, recombinant chimeric mutant enzyme
+KCAT	Trypanosoma cruzi	0.47	IMP	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Trypanosoma cruzi	0.472	inosine monophosphate	*wild-type enzyme
+KCAT	Trypanosoma cruzi	0.477	diphosphate	*wild-type enzyme
+KCAT	Pyrococcus horikoshii	0.48	5-phospho-alpha-D-ribose 1-diphosphate	*+/-0.02, 50&deg;C
+KCAT	Trypanosoma cruzi	0.48	diphosphate	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.51	IMP	*mutant E196Q
+KCAT	Pyrococcus horikoshii	0.66	5-phospho-alpha-D-ribose 1-diphosphate	*+/-0.03, 40&deg;C
+KCAT	Pyrococcus horikoshii	0.68	xanthine	*+/-0.04, 50&deg;C
+KCAT	Plasmodium falciparum	0.8	xanthine	*activated enzyme, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Pyrococcus horikoshii	0.83	hypoxanthine	*+/-0.04, 50&deg;C
+KCAT	Mycobacterium tuberculosis	0.89	hypoxanthine	*at pH 7.5 and 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.9	hypoxanthine	*pH 7.4, 25&deg;C, recombinant enzyme, with 5-phospho-alpha-D-ribose 1-diphosphate
+KCAT	Plasmodium falciparum	0.94	hypoxanthine	*pH 7.4, 22&deg;C, recombinant mutant L44F
+KCAT	Mycobacterium tuberculosis	0.97	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.4, 25&deg;C, recombinant enzyme, with hypoxanthine
+KCAT	Plasmodium falciparum	1	5-phospho-alpha-D-ribose 1-diphosphate	*activated enzyme, with xanthine as cosubstrate, in 10 mM potassium phosphate, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	1	xanthine	*activated enzyme, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	1.1	guanine	*pH 7.4, 22&deg;C, recombinant mutant L44F
+KCAT	Plasmodium falciparum	1.13	hypoxanthine	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	1.13	hypoxanthine	*pH 7.4, 28&deg;C, wild-type enzyme
+KCAT	Plasmodium falciparum	1.2	guanine	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	1.2	guanine	*pH 7.4, 28&deg;C, wild-type enzyme
+KCAT	Plasmodium falciparum	1.2	xanthine	*pH 7.4, 22&deg;C, recombinant mutant L44F
+KCAT	Pyrococcus horikoshii	1.38	hypoxanthine	*+/-0.03, 60&deg;C
+KCAT	Pyrococcus horikoshii	1.43	guanine	*+/-0.02, 70&deg;C
+KCAT	Plasmodium falciparum	1.6	5-phospho-alpha-D-ribose 1-diphosphate	*IMP-activated enzyme, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	1.6	5-phospho-alpha-D-ribose 1-diphosphate	*activated enzyme, with xanthine as cosubstrate, in 100 mM Tris-HCl, at pH 7.4 and 23&deg;C
+KCAT	Plasmodium falciparum	1.6	xanthine	*IMP-activated enzyme, at pH 7.4 and 23&deg;C
+KCAT	Pyrococcus horikoshii	1.68	5-phospho-alpha-D-ribose 1-diphosphate	*+/-0.06, 60&deg;C
+KCAT	Pyrococcus horikoshii	2.2	xanthine	*+/-0.08, 70&deg;C
+KCAT	Schistosoma mansoni	2.4	hypoxanthine	*native enzyme
+KCAT	Homo sapiens	2.5	5-phospho-alpha-D-ribose 1-diphosphate	*wild-type enzyme
+KCAT	Schistosoma mansoni	2.6	hypoxanthine	*recombinant enzyme
+KCAT	Homo sapiens	2.6	hypoxanthine	*wild-type enzyme
+KCAT	Homo sapiens	2.8	5-phospho-alpha-D-ribose 1-diphosphate	*mutant E196R
+KCAT	Plasmodium falciparum	2.9	xanthine	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	2.9	xanthine	*pH 7.4, 28&deg;C, wild-type enzyme
+KCAT	Pyrococcus horikoshii	3.05	5-phospho-alpha-D-ribose 1-diphosphate	*+/-0.07, 70&deg;C
+KCAT	Homo sapiens	3.1	hypoxanthine	*pH 7.4, 22&deg;C, recombinant mutant F36G
+KCAT	Pyrococcus horikoshii	3.16	hypoxanthine	*+/-0.08, 70&deg;C
+KCAT	Homo sapiens	3.4	guanine	*pH 7.4, 22&deg;C, recombinant mutant F36G
+KCAT	Homo sapiens	3.4	hypoxanthine	*pH 7.4, 22&deg;C, recombinant mutant F36K
+KCAT	Homo sapiens	3.8	hypoxanthine	*mutant E196R
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	4.12	hypoxanthine	*pH 7.4, 25&deg;C
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	4.26	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.4, 12 mM MgCl2
+KCAT	Schistosoma mansoni	4.3	guanine	*native enzyme
+KCAT	Trypanosoma cruzi	4.7	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.5, 37&deg;C, recombinant mutant L67M
+KCAT	Schistosoma mansoni	5	guanine	*recombinant enzyme
+KCAT	Homo sapiens	5.4	hypoxanthine	*pH 7.4, 22&deg;C, recombinant mutant F36L
+KCAT	Giardia intestinalis	5.7	guanine	*wild-type enzyme
+KCAT	Leishmania donovani	5.7	hypoxanthine	*wild-type enzyme
+KCAT	Homo sapiens	5.7	hypoxanthine	*wild-type enzyme
+KCAT	Giardia intestinalis	5.8	GMP	*wild-type enzyme, reverse reaction
+KCAT	Leishmania donovani	6.2	hypoxanthine	*mutant enzyme
+KCAT	Homo sapiens	6.3	guanine	*pH 7.4, 22&deg;C, recombinant mutant F36K
+KCAT	Tritrichomonas suis	6.71	hypoxanthine	*mutant T47K
+KCAT	Homo sapiens	7.1	hypoxanthine	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KCAT	Plasmodium falciparum	7.1	hypoxanthine	*pH 7.4, 28&deg;C, wild-type enzyme
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	7.97	hypoxanthine	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	8.5	hypoxanthine	*recombinant enzyme
+KCAT	Leishmania donovani	8.54	hypoxanthine	*wild-type enzyme
+KCAT	Thermus thermophilus	9.1	hypoxanthine	*pH 7.9, 25&deg;C
+KCAT	Homo sapiens	10.5	guanine	*wild-type enzyme
+KCAT	Homo sapiens	10.9	5-phospho-alpha-D-ribose 1-diphosphate	*mutant E196Q
+KCAT	Leishmania donovani	12.1	guanine	*wild-type enzyme
+KCAT	Homo sapiens	13.7	hypoxanthine	*mutant E196Q
+KCAT	Homo sapiens	13.8	hypoxanthine	*mutant E196D
+KCAT	Homo sapiens	14.2	5-phospho-alpha-D-ribose 1-diphosphate	*mutant E196D
+KCAT	Leishmania donovani	15.8	guanine	*mutant enzyme
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	15.9	hypoxanthine	*pH 7.4, 50&deg;C
+KCAT	Homo sapiens	18	guanine	*pH 7.4, 22&deg;C, recombinant mutant F36L
+KCAT	Trypanosoma cruzi	20	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.5, 37&deg;C, recombinant mutant G69S
+KCAT	Thermus thermophilus	20	guanine	*pH 7.9, 25&deg;C
+KCAT	Homo sapiens	20.3	5-phospho-alpha-D-ribose 1-diphosphate	*mutant E196A
+KCAT	Homo sapiens	20.3	hypoxanthine	*mutant E196A
+KCAT	Trypanosoma cruzi	22	hypoxanthine	*pH 7.5, 37&deg;C, recombinant mutant G69S
+KCAT	Trypanosoma cruzi	22.1	guanine	*pH 7.5, 37&deg;C, recombinant mutant G69S
+KCAT	Trypanosoma cruzi	22.9	hypoxanthine	*wild-type enzyme
+KCAT	Trypanosoma cruzi	22.9	hypoxanthine	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Trypanosoma cruzi	22.9	hypoxanthine	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Trypanosoma cruzi	23.2	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Trypanosoma cruzi	23.2	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.5, 37&deg;C, recombinant enzyme, with hypoxanthine
+KCAT	Trypanosoma cruzi	23.2	5-phosphoribosyl 1-diphosphate	*wild-type enzyme
+KCAT	Homo sapiens	25.5	guanine	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KCAT	Plasmodium falciparum	25.5	guanine	*pH 7.4, 28&deg;C, wild-type enzyme
+KCAT	Trypanosoma cruzi	32.2	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.5, 37&deg;C, recombinant enzyme, with guanine
+KCAT	Trypanosoma cruzi	32.9	guanine	*wild-type enzyme
+KCAT	Trypanosoma cruzi	32.9	guanine	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Trypanosoma cruzi	32.9	guanine	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Leishmania donovani	36.3	5-phospho-alpha-D-ribose 1-diphosphate	*wild-type enzyme
+KCAT	Leishmania donovani	41.3	guanine	*wild-type enzyme
+KCAT	Giardia intestinalis	74.8	5-phospho-alpha-D-ribose 1-diphosphate	*wild-type enzyme, forward reaction
+KCAT	Giardia intestinalis	76.7	guanine	*wild-type, forward reaction
+KCAT	Leishmania donovani	77	inosine monophosphate	*wild-type enzyme
+KCAT	Leishmania donovani	90	diphosphate	*wild-type enzyme
