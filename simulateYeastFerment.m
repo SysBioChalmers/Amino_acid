@@ -31,7 +31,7 @@ substrate = 'r_1714'; % glucose
 expList = txt(1,3:end);
 clear txt;
 
-for j = 1:length(expList)
+for j = 19:21
     expID = expList{j};
     display([num2str(j),'/',num2str(length(expList))]);
     
@@ -41,8 +41,8 @@ for j = 1:length(expList)
     % printRxnFormula(model,'rxnAbbrList',model.rxns,'metNameFlag',true);
     
     cd Model/;
-    save(['modelYeast_' expID '.mat'],'model');
-    save(['enzymedataYeast_' expID '.mat'],'enzymedata');
+    save(['ferment_modelYeast_' expID '.mat'],'model');
+    save(['ferment_enzymedataYeast_' expID '.mat'],'enzymedata');
     cd ../;
     
     model = setYeastMedia(model);
@@ -60,6 +60,8 @@ for j = 1:length(expList)
     model.S(p_aasubs,ismember(model.rxns,'r_4047')) = 0;
     model.S(p_aa,ismember(model.rxns,'r_4047')) = aacoef;
     model.S(p_aaprod,ismember(model.rxns,'r_4047')) = 0;
+
+    model = changeRxnBounds(model, 'r_1992', 0, 'b'); % block oxygen uptake
 
     model = changeObjective(model, substrate);
     model = changeRxnBounds(model, substrate, -1000, 'l');
@@ -108,7 +110,7 @@ for j = 1:length(expList)
     cost_yeast.flux_ref = flux_ref_1;
     cost_yeast.flux_AAs = flux_AAs_1;
     cd Cost/;
-    save(['cost_yeast_' expID '.mat'],'cost_yeast');
+    save(['ferment_cost_yeast_' expID '.mat'],'cost_yeast');
     cd ../;
 end
 

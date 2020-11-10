@@ -24,14 +24,13 @@ AA = {'A';'R';'N';'D';'C';
 step = 0.0001;
 mu = 0.1;
 tol = 1;
-substrate = 'r_1714'; % glucose
-% substrate = 'r_1761'; % ethanol
+substrate = 'r_1761'; % ethanol
 
 [~,txt,~] = xlsread('Yeast_fluxes_proteomics.xlsx','fluxes');
 expList = txt(1,3:end);
 clear txt;
 
-for j = 1:length(expList)
+for j = 22:24
     expID = expList{j};
     display([num2str(j),'/',num2str(length(expList))]);
     
@@ -41,8 +40,8 @@ for j = 1:length(expList)
     % printRxnFormula(model,'rxnAbbrList',model.rxns,'metNameFlag',true);
     
     cd Model/;
-    save(['modelYeast_' expID '.mat'],'model');
-    save(['enzymedataYeast_' expID '.mat'],'enzymedata');
+    save(['ethanol_modelYeast_' expID '.mat'],'model');
+    save(['ethanol_enzymedataYeast_' expID '.mat'],'enzymedata');
     cd ../;
     
     model = setYeastMedia(model);
@@ -108,7 +107,7 @@ for j = 1:length(expList)
     cost_yeast.flux_ref = flux_ref_1;
     cost_yeast.flux_AAs = flux_AAs_1;
     cd Cost/;
-    save(['cost_yeast_' expID '.mat'],'cost_yeast');
+    save(['ethanol_cost_yeast_' expID '.mat'],'cost_yeast');
     cd ../;
 end
 
