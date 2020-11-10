@@ -1,4 +1,3 @@
-# AAsynthesis
 Amino acid biosynthesis
 ===============
 
