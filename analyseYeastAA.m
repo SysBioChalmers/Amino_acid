@@ -1,7 +1,6 @@
 
-% expID = 'Yu_ClimR2';
-expID = 'DiBartolomeo_GlucR3';
-% expID = 'Lahtvee_REF';
+expID = 'Yu_Clim';
+% expID = 'DiBartolomeo_Gluc';
 
 load(['cost_yeast_' expID '.mat']);
 

@@ -22,14 +22,16 @@ AA = {'A';'R';'N';'D';'C';
     'S';'T';'W';'Y';'V'};
 
 step = 0.0001;
-mu = 0.1;
+mu = 1;
 tol = 1;
 substrate = 'r_1714'; % glucose
-% substrate = 'r_1761'; % ethanol
 
-[~,txt,~] = xlsread('Yeast_fluxes_proteomics.xlsx','fluxes');
-expList = txt(1,3:end);
-clear txt;
+% [~,txt,~] = xlsread('Yeast_fluxes_proteomics.xlsx','fluxes');
+% expList = txt(1,3:end);
+% clear txt;
+
+
+expList = {'Yu_Clim' 'DiBartolomeo_Gluc'};
 
 for j = 1:length(expList)
     expID = expList{j};

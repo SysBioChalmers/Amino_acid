@@ -1,5 +1,5 @@
 %% updateEcoliEnzyme
-function enzymedata = updateEcoliEnzyme(enzymedata,model)
+function enzymedata = updateEcoliEnzyme(enzymedata,model,expID)
 
 [num, txt, ~] = xlsread('UniProt_Ecoli.xlsx');
 unip_gene = txt(2:end,1);
@@ -47,74 +47,46 @@ for i = 1:length(rxnlist)
     end
 end
 
-% update kcat values based on max specific activity (DOI: 10.1073/pnas.1514240113)
-% only greater one adopted compared to the data
-[num, txt, ~] = xlsread('manualEcoli.xlsx','sa');
-rxnlist = txt(2:end,1);
-samanual = num;
-for i = 1:length(rxnlist)
-    rxnid_tmp = rxnlist(i);
-    rxnid_tmp = strrep(rxnid_tmp,'_reverse','_rvs');
-    sa_tmp = samanual(i);
-    if ismember(rxnid_tmp,enzymedata.rxn)
-        idx_tmp = ismember(enzymedata.rxn,rxnid_tmp);
-        mw_tmp = enzymedata.minMW(idx_tmp);
-        kcandidate = 60*sa_tmp*mw_tmp/1000; % unit: /h
-        if enzymedata.kcat_conf(idx_tmp) < 4
-            enzymedata.kcat(idx_tmp) = kcandidate;
+if contains(expID,'Heckmann')
+    [kapplist, txt, ~] = xlsread('kapp_data_ecoli_Heckmann.xlsx',strrep(expID,'Heckmann_',''));
+    rxnlist = txt(2:end,1);
+    unq_rxnlist = unique(rxnlist);
+    for i = 1:length(unq_rxnlist)
+        rxnid_tmp = unq_rxnlist(i);
+        kapp_tmp = mean(kapplist(ismember(rxnlist,rxnid_tmp)))*3600; % unit: /h
+        rxnid_tmp = strrep(rxnid_tmp,'_b','_rvs');
+        if ismember(rxnid_tmp,enzymedata.rxn)
+            idx_tmp = ismember(enzymedata.rxn,rxnid_tmp);
+            enzymedata.kcat(idx_tmp) = kapp_tmp;
             enzymedata.kcat_conf(idx_tmp) = 5;
-        else
-            if kcandidate > enzymedata.kcat(idx_tmp)
-                enzymedata.kcat(idx_tmp) = kcandidate;
-                enzymedata.kcat_conf(idx_tmp) = 5;
-            end
-        end
-    elseif ismember(strcat(rxnid_tmp,'_fwd'),enzymedata.rxn)
-        idx_tmp = ismember(enzymedata.rxn,strcat(rxnid_tmp,'_fwd'));
-        mw_tmp = enzymedata.minMW(idx_tmp);
-        kcandidate = 60*sa_tmp*mw_tmp/1000; % unit: /h
-        if enzymedata.kcat_conf(idx_tmp) < 4
-            enzymedata.kcat(idx_tmp) = kcandidate;
+        elseif ismember(strcat(rxnid_tmp,'_fwd'),enzymedata.rxn)
+            idx_tmp = ismember(enzymedata.rxn,strcat(rxnid_tmp,'_fwd'));
+            enzymedata.kcat(idx_tmp) = kapp_tmp;
             enzymedata.kcat_conf(idx_tmp) = 5;
-        else
-            if kcandidate > enzymedata.kcat(idx_tmp)
-                enzymedata.kcat(idx_tmp) = kcandidate;
-                enzymedata.kcat_conf(idx_tmp) = 5;
-            end
         end
     end
-end
-
-% update kcat values based on kmax (DOI: 10.1101/767996), only greater one
-% adopted compared to the data with conf > 3
-[num, txt, ~] = xlsread('manualEcoli.xlsx','kmax');
-rxnlist = txt(2:end,1);
-kmaxmanual = num;
-for i = 1:length(rxnlist)
-    rxnid_tmp = rxnlist(i);
-    rxnid_tmp = strrep(rxnid_tmp,'_b','_rvs');
-    kmax_tmp = kmaxmanual(i)*3600; % unit: /h
-    if ismember(rxnid_tmp,enzymedata.rxn)
-        idx_tmp = ismember(enzymedata.rxn,rxnid_tmp);
-        if enzymedata.kcat_conf(idx_tmp) < 4
-            enzymedata.kcat(idx_tmp) = kmax_tmp;
+elseif contains(expID,'Davidi')
+    [num, txt, ~] = xlsread('kapp_data_ecoli_Davidi.xlsx');
+    rxnlist = txt(2:end,1);
+    id = txt(1,2:end);
+    salist = num(:,ismember(id,strrep(expID,'Davidi_','')));
+    nanidx = isnan(salist);
+    rxnlist = rxnlist(~nanidx);
+    salist = salist(~nanidx);
+    for i = 1:length(rxnlist)
+        sa_tmp = salist(i);
+        rxnid_tmp = rxnlist(i);
+        rxnid_tmp = strrep(rxnid_tmp,'_reverse','_rvs');
+        if ismember(rxnid_tmp,enzymedata.rxn)
+            idx_tmp = ismember(enzymedata.rxn,rxnid_tmp);
+            mw_tmp = enzymedata.minMW(idx_tmp);
+            enzymedata.kcat(idx_tmp) = 60*sa_tmp*mw_tmp/1000; % unit: /h
             enzymedata.kcat_conf(idx_tmp) = 5;
-        else
-            if kmax_tmp > enzymedata.kcat(idx_tmp)
-                enzymedata.kcat(idx_tmp) = kmax_tmp;
-                enzymedata.kcat_conf(idx_tmp) = 5;
-            end
-        end
-    elseif ismember(strcat(rxnid_tmp,'_fwd'),enzymedata.rxn)
-        idx_tmp = ismember(enzymedata.rxn,strcat(rxnid_tmp,'_fwd'));
-        if enzymedata.kcat_conf(idx_tmp) < 4
-            enzymedata.kcat(idx_tmp) = kmax_tmp;
+        elseif ismember(strcat(rxnid_tmp,'_fwd'),enzymedata.rxn)
+            idx_tmp = ismember(enzymedata.rxn,strcat(rxnid_tmp,'_fwd'));
+            mw_tmp = enzymedata.minMW(idx_tmp);
+            enzymedata.kcat(idx_tmp) = 60*sa_tmp*mw_tmp/1000; % unit: /h
             enzymedata.kcat_conf(idx_tmp) = 5;
-        else
-            if kmax_tmp > enzymedata.kcat(idx_tmp)
-                enzymedata.kcat(idx_tmp) = kmax_tmp;
-                enzymedata.kcat_conf(idx_tmp) = 5;
-            end
         end
     end
 end
@@ -127,14 +99,9 @@ kcatconf = num(:,2);
 for i = 1:length(rxnlist)
     if ismember(rxnlist(i),enzymedata.rxn)
         idx_tmp = ismember(enzymedata.rxn,rxnlist(i));
-        if enzymedata.kcat_conf(idx_tmp) < 4
+        if enzymedata.kcat_conf(idx_tmp) <= kcatconf(i)
             enzymedata.kcat(idx_tmp) = 3600*kcatmanual(i);
             enzymedata.kcat_conf(idx_tmp) = kcatconf(i);
-        else
-            if 3600*kcatmanual(i) > enzymedata.kcat(idx_tmp)
-                enzymedata.kcat(idx_tmp) = 3600*kcatmanual(i);
-                enzymedata.kcat_conf(idx_tmp) = kcatconf(i);
-            end
         end
     end
 end

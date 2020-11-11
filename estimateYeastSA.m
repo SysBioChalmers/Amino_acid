@@ -26,7 +26,7 @@ clear num txt;
 
 SA_estimated = zeros(length(model.rxns),length(expList));
 
-for i = 1:length(expList)
+for i = [11,12,19:24]
     display([num2str(i),'/',num2str(length(expList))]);
     
     expID = expList{i};
@@ -114,3 +114,67 @@ for i = 1:length(expList)
     save(['YeastSA_' expID '.mat'],'YeastSA');
     cd ../;
 end
+
+% combine replicates
+load('YeastSA_Yu_ClimR1.mat');
+r1 = YeastSA;
+load('YeastSA_Yu_ClimR2.mat');
+r2 = YeastSA;
+clear YeastSA;
+rxn = [r1.rxn;r2.rxn];
+sa = [r1.sa;r2.sa];
+grRules = [r1.grRules;r2.grRules];
+YeastSA.rxn = unique(rxn);
+YeastSA.sa = zeros(length(YeastSA.rxn),1);
+YeastSA.grRules = cell(length(YeastSA.rxn),1);
+for i = 1:length(YeastSA.rxn)
+    YeastSA.sa(i) = mean(sa(ismember(rxn,YeastSA.rxn(i))));
+    YeastSA.grRules(i) = unique(grRules(ismember(rxn,YeastSA.rxn(i))));
+end
+cd SA/;
+save('YeastSA_Yu_Clim.mat','YeastSA');
+cd ../;
+
+
+load('YeastSA_DiBartolomeo_GlucR1.mat');
+r1 = YeastSA;
+load('YeastSA_DiBartolomeo_GlucR2.mat');
+r2 = YeastSA;
+load('YeastSA_DiBartolomeo_GlucR3.mat');
+r3 = YeastSA;
+clear YeastSA;
+rxn = [r1.rxn;r2.rxn;r3.rxn];
+sa = [r1.sa;r2.sa;r3.sa];
+grRules = [r1.grRules;r2.grRules;r3.grRules];
+YeastSA.rxn = unique(rxn);
+YeastSA.sa = zeros(length(YeastSA.rxn),1);
+YeastSA.grRules = cell(length(YeastSA.rxn),1);
+for i = 1:length(YeastSA.rxn)
+    YeastSA.sa(i) = mean(sa(ismember(rxn,YeastSA.rxn(i))));
+    YeastSA.grRules(i) = unique(grRules(ismember(rxn,YeastSA.rxn(i))));
+end
+cd SA/;
+save('YeastSA_DiBartolomeo_Gluc.mat','YeastSA');
+cd ../;
+
+
+load('YeastSA_DiBartolomeo_EtohR1.mat');
+r1 = YeastSA;
+load('YeastSA_DiBartolomeo_EtohR2.mat');
+r2 = YeastSA;
+load('YeastSA_DiBartolomeo_EtohR3.mat');
+r3 = YeastSA;
+clear YeastSA;
+rxn = [r1.rxn;r2.rxn;r3.rxn];
+sa = [r1.sa;r2.sa;r3.sa];
+grRules = [r1.grRules;r2.grRules;r3.grRules];
+YeastSA.rxn = unique(rxn);
+YeastSA.sa = zeros(length(YeastSA.rxn),1);
+YeastSA.grRules = cell(length(YeastSA.rxn),1);
+for i = 1:length(YeastSA.rxn)
+    YeastSA.sa(i) = mean(sa(ismember(rxn,YeastSA.rxn(i))));
+    YeastSA.grRules(i) = unique(grRules(ismember(rxn,YeastSA.rxn(i))));
+end
+cd SA/;
+save('YeastSA_DiBartolomeo_Etoh.mat','YeastSA');
+cd ../;
