@@ -1,0 +1,35 @@
+KCAT	Homo sapiens	5.5	alpha-D-glucose 1-phosphate	*mutant F194L, pH 8.8, 37&Acirc;&deg;C; mutant R333G, pH 8.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	9.3	alpha-D-glucose 1-phosphate	*mutant D28Y, pH 8.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	17.7	alpha-D-glucose 1-phosphate	*wild-type, pH 8.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.0967	UDP-galactose	*recombinant mutant S161A, reverse reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	55	UDP-galactose	*recombinant mutant C160A, reverse reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	177	UDP-galactose	*recombinant mutant E182A, reverse reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	283	UDP-galactose	*recombinant wild-type, reverse reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	283	UDP-galactose	*recombinant wild-type, reverse reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Homo sapiens	0.98	UDP-alpha-D-glucose	*mutant R333G, pH 8.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.5	UDP-alpha-D-glucose	*mutant F194L, pH 8.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	9.4	UDP-alpha-D-glucose	*mutant D28Y, pH 8.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	13.6	UDP-alpha-D-glucose	*wild-type, pH 8.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.0167	imidazole	*mutant H166A, forward reaction with UDP-glucose, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	5.52	imidazole	*mutant H166G, forward reaction with UDP-glucose, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	0.0533	alpha-D-galactose 1-phosphate	*recombinant mutant S161A, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	0.0533	alpha-D-galactose 1-phosphate	*recombinant mutant S161A, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Homo sapiens	3.6	alpha-D-galactose 1-phosphate	*recombinant wild-type, pH 8.7
+KCAT	Homo sapiens	9.3	alpha-D-galactose 1-phosphate	*recombinant wild-type, pH 8.7
+KCAT	Escherichia coli	19	alpha-D-galactose 1-phosphate	*recombinant mutant Q168N, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	24	alpha-D-galactose 1-phosphate	*purified recombinant bifunctional chimeric fusion protein, pH 8.5, 27&Acirc;&deg;C
+KCAT	Homo sapiens	98	alpha-D-galactose 1-phosphate	*recombinant wild-type, pH 8.7
+KCAT	Escherichia coli	265	alpha-D-galactose 1-phosphate	*recombinant mutant C160A, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	265	alpha-D-galactose 1-phosphate	*recombinant mutant C160A, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	278	alpha-D-galactose 1-phosphate	*pH 8.8, 25&Acirc;&deg;C
+KCAT	Escherichia coli	281	alpha-D-galactose 1-phosphate	*recombinant wild-type, pH 8.5, 4&Acirc;&deg;C
+KCAT	Escherichia coli	653	alpha-D-galactose 1-phosphate	*recombinant mutant E182A, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	780	alpha-D-galactose 1-phosphate	*recombinant wild-type, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	780	alpha-D-galactose 1-phosphate	*recombinant wild-type, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	780	alpha-D-galactose 1-phosphate	*recombinant wild-type, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	780	alpha-D-galactose 1-phosphate	*recombinant wild-type, forward reaction, pH 8.5, 27&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	987	alpha-D-galactose 1-phosphate	*pH 8.7, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	987	alpha-D-galactose 1-phosphate	*pH 8.7, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.0217	uridine 5'-phosphoimidazolate	*mutant H166A, forward reaction with D-glucose 1-phosphate, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	13.5	uridine 5'-phosphoimidazolate	*mutant H166G, forward reaction with D-glucose 1-phosphate, pH 8.5, 27&Acirc;&deg;C
+KCAT	Escherichia coli	-999	more	*

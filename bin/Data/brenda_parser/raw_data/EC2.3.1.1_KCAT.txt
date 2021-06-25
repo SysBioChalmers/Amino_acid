@@ -1,0 +1,1 @@
+ecNumber*2.3.1.1#turnoverNumber*0.22#turnoverNumberMaximum*#substrate*L-glutamate#commentary*#organism*Mycobacterium tuberculosis#ligandStructureId*41#literature*662031#!ecNumber*2.3.1.1#turnoverNumber*0.78#turnoverNumberMaximum*#substrate*L-glutamine#commentary*#organism*Mycobacterium tuberculosis#ligandStructureId*102#literature*662031#

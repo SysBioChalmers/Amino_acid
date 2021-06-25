@@ -1,0 +1,74 @@
+KCAT	Bacillus subtilis	0.00000783	protoporphyrinogen-IX	*
+KCAT	Bacillus subtilis	0.00317	protoporphyrinogen-IX	*
+KCAT	Homo sapiens	0.00333	protoporphyrinogen-IX	*below 0.2/min, R59W mutant enzyme
+KCAT	Homo sapiens	0.04	protoporphyrinogen-IX	*recombinant mutant R59W, pH 8.2
+KCAT	Myxococcus xanthus	0.0867	protoporphyrinogen-IX	*
+KCAT	Mus musculus	0.124	protoporphyrinogen-IX	*
+KCAT	Homo sapiens	0.15	protoporphyrinogen-IX	*recombinant mutant R59I, pH 8.2
+KCAT	Homo sapiens	0.17	protoporphyrinogen-IX	*recombinant mutant R59S, pH 8.2
+KCAT	Homo sapiens	0.175	protoporphyrinogen-IX	*wild type enzyme
+KCAT	Homo sapiens	0.175	protoporphyrinogen-IX	*
+KCAT	Homo sapiens	0.175	protoporphyrinogen-IX	*
+KCAT	Desulfovibrio gigas	0.295	protoporphyrinogen-IX	*
+KCAT	Homo sapiens	0.53	protoporphyrinogen-IX	*recombinant mutant Y348, pH 7.8
+KCAT	Homo sapiens	1.02	protoporphyrinogen-IX	*recombinant mutant R168C, pH 8.2
+KCAT	Homo sapiens	2.57	protoporphyrinogen-IX	*recombinant mutant R59K, pH 8.2
+KCAT	Homo sapiens	3.9	protoporphyrinogen-IX	*recombinant mutant G14A, pH 8.2
+KCAT	Homo sapiens	5.95	protoporphyrinogen-IX	*recombinant wild-type enzyme, pH 8.2
+KCAT	Nicotiana tabacum	6	protoporphyrinogen-IX	*wild-type; wild type enzyme PPO2, at 20&Acirc;&deg;C
+KCAT	Nicotiana tabacum	7	protoporphyrinogen-IX	*L372N; mutant enzyme L372N, at 20&Acirc;&deg;C
+KCAT	Nicotiana tabacum	11	protoporphyrinogen-IX	*F392E; mutant enzyme F392E, at 20&Acirc;&deg;C
+KCAT	Nicotiana tabacum	12	protoporphyrinogen-IX	*mutant enzyme N67W/S374D, at 20&Acirc;&deg;C; N67W/S374D
+KCAT	Bacillus subtilis	12.9	protoporphyrinogen-IX	*recombinant mutant V311M, pH 7.4, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	14.1	protoporphyrinogen-IX	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Nicotiana tabacum	34	protoporphyrinogen-IX	*mutant enzyme R98E, at 20&Acirc;&deg;C; R98E
+KCAT	Nicotiana tabacum	37	protoporphyrinogen-IX	*mutant enzyme R98K, at 20&Acirc;&deg;C; R98K
+KCAT	Nicotiana tabacum	38	protoporphyrinogen-IX	*L356N; mutant enzyme L356N, at 20&Acirc;&deg;C
+KCAT	Nicotiana tabacum	97	protoporphyrinogen-IX	*mutant enzyme N67R, at 20&Acirc;&deg;C; N67R
+KCAT	Nicotiana tabacum	111	protoporphyrinogen-IX	*mutant enzyme N67R/S374D, at 20&Acirc;&deg;C; N67R/S374D
+KCAT	Nicotiana tabacum	208	protoporphyrinogen-IX	*mutant enzyme S374D, at 20&Acirc;&deg;C
+KCAT	Nicotiana tabacum	300	protoporphyrinogen-IX	*L356V; mutant enzyme L356V, at 20&Acirc;&deg;C
+KCAT	Nicotiana tabacum	365	protoporphyrinogen-IX	*mutant enzyme R98A, at 20&Acirc;&deg;C; R98A
+KCAT	Nicotiana tabacum	597	protoporphyrinogen-IX	*L372V; mutant enzyme L372V, at 20&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.000833	Coproporphyrinogen-III	*
+KCAT	Bacillus subtilis	0.00015	protoporphyrinogen IX	*pH 7.5, 22&Acirc;&deg;C, recombinant mutant Y366E
+KCAT	Bacillus subtilis	0.0004	protoporphyrinogen IX	*mutant K71A, pH 7.5, temperature not specified in the publication
+KCAT	Bacillus subtilis	0.00042	protoporphyrinogen IX	*pH 7.5, 22&Acirc;&deg;C, recombinant mutant Y366A
+KCAT	Bacillus subtilis	0.001	protoporphyrinogen IX	*mutant I176A, pH 7.5, temperature not specified in the publication
+KCAT	Bacillus subtilis	0.0016	protoporphyrinogen IX	*pH 7.5, 22&Acirc;&deg;C, recombinant mutant Y366H
+KCAT	Bacillus subtilis	0.0027	protoporphyrinogen IX	*mutant P64A, pH 7.5, temperature not specified in the publication
+KCAT	Bacillus subtilis	0.0034	protoporphyrinogen IX	*pH 7.5, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.0062	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant G169A
+KCAT	Homo sapiens	0.0062	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant G169A
+KCAT	Bacillus subtilis	0.0131	protoporphyrinogen IX	*wild-type enzyme, pH 7.5, temperature not specified in the publication
+KCAT	Bacillus subtilis	0.0181	protoporphyrinogen IX	*mutant F227R, pH 7.5, temperature not specified in the publication
+KCAT	Homo sapiens	0.0303	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant L166N
+KCAT	Homo sapiens	0.0303	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant L166N
+KCAT	Homo sapiens	0.0495	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, wild-type enzyme
+KCAT	Homo sapiens	0.05	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, wild-type enzyme
+KCAT	Homo sapiens	0.055	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant R168S
+KCAT	Homo sapiens	0.0553	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant R168S
+KCAT	Homo sapiens	0.0727	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant F331A
+KCAT	Homo sapiens	0.073	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant F331A
+KCAT	Myxococcus xanthus	0.08	protoporphyrinogen IX	*pH 8.1, 37&Acirc;&deg;C, recombinant mutant N44I
+KCAT	Homo sapiens	0.128	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant V170T
+KCAT	Homo sapiens	0.1283	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant V170T
+KCAT	Myxococcus xanthus	0.14	protoporphyrinogen IX	*pH 8.1, 37&Acirc;&deg;C, recombinant mutant W408L
+KCAT	Homo sapiens	0.151	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant F331T
+KCAT	Homo sapiens	0.1513	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant F331T
+KCAT	Homo sapiens	0.1548	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant M368Q
+KCAT	Homo sapiens	0.155	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant M368Q
+KCAT	Homo sapiens	0.236	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant M368K
+KCAT	Homo sapiens	0.2362	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant M368K
+KCAT	Myxococcus xanthus	0.32	protoporphyrinogen IX	*pH 8.1, 37&Acirc;&deg;C, recombinant mutant N44Q; pH 8.1, 37&Acirc;&deg;C, recombinant mutant W408Y
+KCAT	Myxococcus xanthus	0.42	protoporphyrinogen IX	*pH 8.1, 37&Acirc;&deg;C, recombinant mutant S20A
+KCAT	Myxococcus xanthus	0.72	protoporphyrinogen IX	*pH 8.1, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Myxococcus xanthus	0.78	protoporphyrinogen IX	*pH 8.1, 37&Acirc;&deg;C, recombinant mutant S20T
+KCAT	Homo sapiens	0.853	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant L334V
+KCAT	Homo sapiens	0.8532	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant L334V
+KCAT	Homo sapiens	1.273	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant R97G
+KCAT	Homo sapiens	1.273	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant R97G
+KCAT	Myxococcus xanthus	1.52	protoporphyrinogen IX	*pH 8.1, 37&Acirc;&deg;C, recombinant mutant E39D
+KCAT	Nicotiana tabacum	6	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, wild-type enzyme
+KCAT	Nicotiana tabacum	365	protoporphyrinogen IX	*pH 7.4, temperature not specified in the publication, mutant R98A
+KCAT	Bacillus subtilis	0.0448	Mesoporphyrinogen-IX	*

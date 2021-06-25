@@ -1,0 +1,2 @@
+KCAT	Streptococcus pneumoniae	6.5	phenylacetyl-CoA	*wild type enzyme, at pH 7.6 and 21&deg;C
+KCAT	Streptococcus pneumoniae	32.8	decanoyl-CoA	*wild type enzyme, at pH 7.6 and 21&deg;C

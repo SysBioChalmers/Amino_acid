@@ -1,0 +1,1 @@
+ecNumber*5.1.1.12#turnoverNumber*980#turnoverNumberMaximum*#substrate*L-ornithine#commentary*pH 8.5, room temperature#organism*Acetoanaerobium sticklandii#ligandStructureId*192#literature*651651#!ecNumber*5.1.1.12#turnoverNumber*1660#turnoverNumberMaximum*#substrate*L-ornithine#commentary*#organism*Acetoanaerobium sticklandii#ligandStructureId*192#literature*704292#

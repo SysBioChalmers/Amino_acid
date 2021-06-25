@@ -1,0 +1,1 @@
+ecNumber*3.4.21.3#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Metridium senile#ligandStructureId*#literature*95359#

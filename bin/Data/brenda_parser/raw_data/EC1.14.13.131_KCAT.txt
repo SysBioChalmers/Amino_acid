@@ -1,0 +1,1 @@
+ecNumber*1.14.13.131#turnoverNumber*5.45#turnoverNumberMaximum*#substrate*Dimethyl sulfide#commentary*pH 7.4, 30&Acirc;&deg;C#organism*Hyphomicrobium sulfonivorans#ligandStructureId*3812#literature*715375#

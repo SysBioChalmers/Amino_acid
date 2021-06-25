@@ -1,0 +1,6 @@
+KCAT	Escherichia coli	5.83	ATP	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	5.5	2,3-Dihydroxybenzoate	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.23	2,4-Dihydroxybenzoate	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	2.5	2-hydroxybenzoic acid	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.45	2,3,4-Trihydroxybenzoate	*pH 9.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.15	2,5-dihydroxybenzoic acid	*pH 9.0, 37&Acirc;&deg;C

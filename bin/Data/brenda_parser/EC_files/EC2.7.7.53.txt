@@ -1,0 +1,6 @@
+KCAT	Saccharomyces cerevisiae	96	ADP	*ADP/phosphate-exchange, pH 7.0, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.48	P1,P4-bis(5'-adenosyl) tetraphosphate	*mutant S147A, pH 7.6, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	1.38	P1,P4-bis(5'-adenosyl) tetraphosphate	*mutant G146Q, pH 7.6, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	1.49	P1,P4-bis(5'-adenosyl) tetraphosphate	*mutant S147T, pH 7.6, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	1.99	P1,P4-bis(5'-adenosyl) tetraphosphate	*mutant G146S, pH 7.6, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	8.48	P1,P4-bis(5'-adenosyl) tetraphosphate	*wild-type, pH 7.6, 37&Acirc;&deg;C

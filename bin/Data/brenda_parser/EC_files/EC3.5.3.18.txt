@@ -1,0 +1,19 @@
+KCAT	Homo sapiens	0.0015	Nomega,Nomega-dimethyl-L-arginine	*mutant E78A, pH 7.3, temperature not specified in the publication
+KCAT	Homo sapiens	0.0087	Nomega,Nomega-dimethyl-L-arginine	*mutant L271G, pH 7.3, temperature not specified in the publication
+KCAT	Rattus norvegicus	0.009	NG,NG-Dimethyl-L-homoarginine	*
+KCAT	Homo sapiens	0.0097	S-methyl-L-thiocitrulline	*mutant L271G, pH 7.3, temperature not specified in the publication
+KCAT	Homo sapiens	0.014	Nomega,Nomega-dimethyl-L-arginine	*wild-type, pH 7.3, temperature not specified in the publication
+KCAT	Homo sapiens	0.0163	Nomega,Nomega-dimethyl-L-arginine	*mutant L30A, pH 7.3, temperature not specified in the publication
+KCAT	Homo sapiens	0.03	S-methyl-L-thiocitrulline	*mutant E78AA, pH 7.3, temperature not specified in the publication
+KCAT	Homo sapiens	0.042	S-methyl-L-thiocitrulline	*mutant L30A, pH 7.3, temperature not specified in the publication; wild-type, pH 7.3, temperature not specified in the publication
+KCAT	Rattus norvegicus	0.094	NG-monomethyl-L-arginine	*
+KCAT	Pseudomonas aeruginosa	0.12	NG-Amino-L-arginine	*
+KCAT	Bos taurus	0.27	NG,NG-dimethyl-L-arginine	*
+KCAT	Pseudomonas aeruginosa	0.31	NG-methyl-L-arginine	*
+KCAT	Pseudomonas aeruginosa	0.33	NG-Hydroxy-L-arginine	*
+KCAT	Bos taurus	0.34	NG-monomethyl-L-arginine	*
+KCAT	Pseudomonas aeruginosa	0.56	NG,NG-dimethyl-L-arginine	*
+KCAT	Pseudomonas aeruginosa	0.59	NG-methyl-L-arginine	*at pH 8.0
+KCAT	Pseudomonas aeruginosa	0.84	S-methyl-L-thiocitrulline	*
+KCAT	Pseudomonas aeruginosa	1.27	NG,NG-dimethyl-L-arginine	*at pH 8.0
+KCAT	Pseudomonas aeruginosa	1.3	S-methyl-L-thiocitrulline	*at pH 8.0

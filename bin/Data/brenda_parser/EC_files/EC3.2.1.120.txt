@@ -1,0 +1,3 @@
+KCAT	Aspergillus oryzae	1216	alpha-D-Xyl-(1-&gt;6)-beta-D-Glc-(1-&gt;4)-[alpha-D-Xyl-(1-&gt;6)]-beta-D-Glc-(1-&gt;4)-beta-D-Glc	*pH 4.5, 60&Acirc;&deg;C
+KCAT	Aspergillus oryzae	532	alpha-D-Xyl-(1-&gt;6)-beta-D-Glc	*pH 4.5, 60&Acirc;&deg;C
+KCAT	Aspergillus oryzae	661	alpha-D-Xyl-(1-&gt;6)-beta-D-Glc-(1-&gt;4)-[beta-D-Gal-(1-&gt;2)-alpha-D-Xyl-(1-&gt;6)]-beta-D-Glc-(1-&gt;4)-[beta-D-Gal-(1-&gt;2)-alpha-D-Xyl-(1-&gt;6)]-beta-D-Glc	*pH 4.5, 60&Acirc;&deg;C

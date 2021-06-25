@@ -1,0 +1,3 @@
+KCAT	Phaseolus lunatus	0.04	cis-zeatin	*
+KCAT	Phaseolus lunatus	0.08	m-topolin	*
+KCAT	Phaseolus lunatus	0.45	trans-zeatin	*

@@ -1,0 +1,1 @@
+ecNumber*1.11.1.23#turnoverNumber*0.0028#turnoverNumberMaximum*#substrate*(S)-2-hydroxypropylphosphonic acid#commentary*pH 7.5#organism*Pseudomonas syringae#ligandStructureId*78569#literature*702244#

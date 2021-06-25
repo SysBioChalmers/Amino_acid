@@ -1,0 +1,2 @@
+KCAT	Pisum sativum	0.011	[large subunit of spinach Rubisco-human carbonic anhydrase II fusion protein]-L-lysine	*in 100 mM Bicine, 20 mM MgCl2 pH 8.0, at 30&deg;C
+KCAT	Pisum sativum	0.019	S-adenosyl-L-methionine	*in 100 mM Bicine, 20 mM MgCl2 pH 8.0, at 30&deg;C

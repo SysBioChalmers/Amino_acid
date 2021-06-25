@@ -1,0 +1,32 @@
+KCAT	Homo sapiens	0.0000293	ATP	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.000403	GTP	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.000914	CTP	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	0.00002	UTP	*mutant K149A, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.00003	UTP	*mutant V271R, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.000033	UTP	*mutant R121A
+KCAT	Trypanosoma brucei	0.00005	UTP	*mutant C83F, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.0000666	UTP	*mutant D297N
+KCAT	Trypanosoma brucei	0.00011	UTP	*mutant R141A
+KCAT	Trypanosoma brucei	0.00012	UTP	*mutant V271R/C83F, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.000133	UTP	*mutant R307A
+KCAT	Homo sapiens	0.000248	UTP	*pH 8.0, 37&Acirc;&deg;C
+KCAT	Trypanosoma brucei	0.0003	UTP	*wild-type, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.00033	UTP	*mutant D297A
+KCAT	Trypanosoma brucei	0.0005	UTP	*mutant S188A
+KCAT	Trypanosoma brucei	0.0012	UTP	*mutant V271R, cosubstrate RNAn containing a terminal U residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.0015	UTP	*mutant C83F, cosubstrate RNAn containing a terminal U residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.0018	UTP	*mutant V271R/C83F, cosubstrate RNAn containing a terminal U residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.003	UTP	*wild-type, cosubstrate RNAn containing a terminal U residue, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.005	UTP	*mutant N147A
+KCAT	Trypanosoma brucei	0.0066	UTP	*mutant E300A
+KCAT	Trypanosoma brucei	0.015	UTP	*mutant Y189F
+KCAT	Trypanosoma brucei	0.021	UTP	*mutant S148A
+KCAT	Trypanosoma brucei	0.00166	RNA	*mutant S188A
+KCAT	Trypanosoma brucei	0.005	RNA	*mutant R121A
+KCAT	Trypanosoma brucei	0.00833	RNA	*mutant R307A
+KCAT	Trypanosoma brucei	0.0166	RNA	*mutant S148A
+KCAT	Trypanosoma brucei	0.0216	RNA	*mutant R141A
+KCAT	Trypanosoma brucei	0.0003	RNAn	*recombinant enzyme, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.0007	RNAn	*RNA editing core complex RECC, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.0015	RNAn containing a terminal U residue	*RNA editing core complex RECC, pH 8.0, temperature not specified in the publication
+KCAT	Trypanosoma brucei	0.0033	RNAn containing a terminal U residue	*recombinant enzyme, pH 8.0, temperature not specified in the publication

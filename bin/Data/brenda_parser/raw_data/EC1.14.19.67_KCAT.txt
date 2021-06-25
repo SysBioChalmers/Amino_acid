@@ -1,0 +1,1 @@
+ecNumber*1.14.19.67#turnoverNumber*0.027#turnoverNumberMaximum*#substrate*(R)-reticuline#commentary*#organism*Papaver somniferum#ligandStructureId*5080#literature*698930#

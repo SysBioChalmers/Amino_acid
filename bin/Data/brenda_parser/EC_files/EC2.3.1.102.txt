@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	0.0000385	N-Methylhydroxylamine	*
+KCAT	Escherichia coli	0.0000477	N6-hydroxylysine	*
+KCAT	Escherichia coli	0.0000797	1-amino-5(hydroxyamino)pentane	*
+KCAT	Escherichia coli	0.000112	N6-Hydroxyornithine	*
+KCAT	Escherichia coli	0.00177	hydroxylamine	*

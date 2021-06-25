@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	0.37	acetyl-DEVD-7-amido-4-methylcoumarin	*pH 7.0 or pH 7.5
+KCAT	Homo sapiens	0.65	Ac-IETD-fluoromethylcoumarin	*cleaved caspase-8, 37&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	0.78	Ac-IETD-fluoromethylcoumarin	*non-cleavable caspase-8 + 0.001 mM FLIP D297A, 37&Acirc;&deg;C, pH 7.4, in the presence of 0.7 M sodium citrate
+KCAT	Homo sapiens	0.98	Ac-IETD-fluoromethylcoumarin	*non-cleavable caspase-8 + 0.001 mM FLIP, 37&Acirc;&deg;C, pH 7.4, in the presence of 0.7 M sodium citrate
+KCAT	Homo sapiens	1.25	Ac-IETD-fluoromethylcoumarin	*cleaved caspase-8, 37&Acirc;&deg;C, pH 7.4, in the presence of 0.7 M sodium citrate

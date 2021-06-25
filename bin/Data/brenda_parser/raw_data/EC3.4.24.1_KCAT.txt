@@ -1,0 +1,1 @@
+ecNumber*3.4.24.1#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Crotalus atrox#ligandStructureId*#literature*31266#

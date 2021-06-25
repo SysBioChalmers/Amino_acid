@@ -1,0 +1,18 @@
+KCAT	Mycobacterium tuberculosis	0.01	beta-Alanine	*25&deg;C, pH 7.8, mutant enzyme K160C
+KCAT	Mycobacterium tuberculosis	0.02	beta-Alanine	*25&deg;C, pH 7.8, mutant enzyme Q164A
+KCAT	Arabidopsis thaliana	0.039	(R)-pantoate	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Arabidopsis thaliana	0.16	beta-Alanine	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Arabidopsis thaliana	0.59	beta-Alanine	*25&deg;C, pH 8.0, mutant enzyme E132A
+KCAT	Lotus japonicus	0.62	Pantoate	*25&deg;C, pH 8.0
+KCAT	Arabidopsis thaliana	0.81	(R)-pantoate	*25&deg;C, pH 8.0, mutant enzyme E132A
+KCAT	Mycobacterium tuberculosis	1.01	beta-Alanine	*25&deg;C, pH 7.8, wild-type enzyme
+KCAT	Escherichia coli	1.4	ATP	*25&deg;C
+KCAT	Escherichia coli	1.4	beta-Alanine	*25&deg;C
+KCAT	Escherichia coli	1.4	(R)-pantoate	*25&deg;C
+KCAT	Staphylococcus aureus	1.5	beta-Alanine	*co-substrate: (R)-pantoate, pH 8.0, 30&deg;C
+KCAT	Staphylococcus aureus	1.5	(R)-pantoate	*co-substrate: beta-alanine, pH 8.0, 30&deg;C
+KCAT	Mycobacterium tuberculosis	1.74	Pantoate	*
+KCAT	Mycobacterium tuberculosis	2.94	Pantoate	*
+KCAT	Mycobacterium tuberculosis	3.4	beta-Alanine	*25&deg;C, pH 7.8
+KCAT	Mycobacterium tuberculosis	3.4	D-pantoate	*25&deg;C, pH 7.8
+KCAT	Lotus japonicus	6.08	Pantoate	*25&deg;C, pH 8.0

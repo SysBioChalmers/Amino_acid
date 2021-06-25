@@ -1,0 +1,1 @@
+ecNumber*6.3.1.17#turnoverNumber*1.5#turnoverNumberMaximum*#substrate*L-glutamate#commentary*pH 8.0, 30&deg;C#organism*Mus musculus#ligandStructureId*41#literature*725404#

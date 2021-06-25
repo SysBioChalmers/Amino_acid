@@ -1,0 +1,1 @@
+ecNumber*3.7.1.19#turnoverNumber*792#turnoverNumberMaximum*#substrate*2,6-dihydroxypseudooxynicotine#commentary*in 75 mM phosphate buffer, pH 7.5, temperature not specified in the publication#organism*Paenarthrobacter nicotinovorans#ligandStructureId*42256#literature*719704#

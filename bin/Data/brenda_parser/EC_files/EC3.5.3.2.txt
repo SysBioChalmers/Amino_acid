@@ -1,0 +1,2 @@
+KCAT	Pseudomonas sp.	54.1	Guanidinoacetate	*
+KCAT	Flavobacterium sp.	60.2	Guanidinoacetate	*

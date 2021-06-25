@@ -1,0 +1,6 @@
+KCAT	Alcaligenes faecalis	1.02	benzylamine	*pH 7.5, 25&deg;C, recombinant enzyme
+KCAT	Alcaligenes faecalis	1.14	benzylamine	*pH 7.5, 25&deg;C, native enzyme
+KCAT	Alcaligenes faecalis	9.1	dopamine	*
+KCAT	Alcaligenes faecalis	27.1	dopamine	*
+KCAT	Alcaligenes faecalis	64	azurin	*in 0.01 M potassium phosphate buffer
+KCAT	Alcaligenes faecalis	91	azurin	*in 0.25 M potassium phosphate buffer

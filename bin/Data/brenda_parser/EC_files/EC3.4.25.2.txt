@@ -1,0 +1,7 @@
+KCAT	Haemophilus influenzae	0.033	SulA mutant P8L	*pH 5.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Haemophilus influenzae	0.05	SulA	*pH 5.5, 37&Acirc;&deg;C, wild-type SulA, recombinant enzyme
+KCAT	Haemophilus influenzae	0.063	SulA mutant F10A	*pH 5.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Haemophilus influenzae	0.068	SulA mutant I37V	*pH 5.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	0.077	Arc-MYL-st11 plus	*pH 7.6, 37&Acirc;&deg;C, HslUV
+KCAT	Escherichia coli	0.11	Arc1-53-st11-titin-ssrA	*pH 7.6, 37&Acirc;&deg;C, HslUV
+KCAT	Escherichia coli	0.11	Arc-MYL-st11	*pH 7.6, 37&Acirc;&deg;C, HslUV

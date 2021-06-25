@@ -1,5 +1,5 @@
 %% updateYeastEnzyme
-function enzymedata = updateYeastEnzyme(enzymedata,model,expID)
+function enzymedata = updateYeastEnzyme(enzymedata,model)
 
 [num, txt, ~] = xlsread('UniProt_Yeast.xlsx');
 unip_gene = txt(2:end,1);
@@ -47,50 +47,6 @@ for i = 1:length(rxnlist)
     end
 end
 
-
-% update kcat values based on estimated max specific activity 
-% only greater one adopted compared to the data
-% load('YeastSA.mat');
-% idx = ~contains(YeastSA.grRules,'and');
-% YeastSA.grRules = YeastSA.grRules(idx);
-% YeastSA.rxn = YeastSA.rxn(idx);
-% YeastSA.samax = YeastSA.samax(idx);
-% 
-% for i = 1:length(YeastSA.rxn)
-%     rxnid_tmp = YeastSA.rxn(i);
-%     minMW = enzymedata.minMW(i);
-%     samax = YeastSA.samax(i);
-%     kmax_tmp = samax*minMW*60/1000;
-%     
-%     idx_tmp = ismember(enzymedata.rxn,rxnid_tmp);
-%     if enzymedata.kcat_conf(idx_tmp) < 4
-%         enzymedata.kcat(idx_tmp) = kmax_tmp;
-%         enzymedata.kcat_conf(idx_tmp) = 5;
-%     else
-%         if kmax_tmp > enzymedata.kcat(idx_tmp)
-%             enzymedata.kcat(idx_tmp) = kmax_tmp;
-%             enzymedata.kcat_conf(idx_tmp) = 5;
-%         end
-%     end
-% end
-
-load(['YeastSA_' expID '.mat']);
-idx = ~contains(YeastSA.grRules,'and');
-YeastSA.grRules = YeastSA.grRules(idx);
-YeastSA.rxn = YeastSA.rxn(idx);
-YeastSA.sa = YeastSA.sa(idx);
-for i = 1:length(YeastSA.rxn)
-    rxnid_tmp = YeastSA.rxn(i);
-    minMW = enzymedata.minMW(i);
-    samax = YeastSA.sa(i);
-    kmax_tmp = samax*minMW*60/1000;
-    
-    idx_tmp = ismember(enzymedata.rxn,rxnid_tmp);
-    enzymedata.kcat(idx_tmp) = kmax_tmp;
-    enzymedata.kcat_conf(idx_tmp) = 5;
-end
-
-
 % update kcat values based on manual check
 [num, txt, ~] = xlsread('manualYeast.xlsx','kcat');
 rxnlist = txt(2:end,1);
@@ -99,20 +55,47 @@ kcatconf = num(:,2);
 for i = 1:length(rxnlist)
     if ismember(rxnlist(i),enzymedata.rxn)
         idx_tmp = ismember(enzymedata.rxn,rxnlist(i));
-        if enzymedata.kcat_conf(idx_tmp) <= kcatconf(i)
+        if enzymedata.kcat_conf(idx_tmp) < kcatconf(i)
             enzymedata.kcat(idx_tmp) = 3600*kcatmanual(i);
             enzymedata.kcat_conf(idx_tmp) = kcatconf(i);
+        elseif enzymedata.kcat_conf(idx_tmp) == kcatconf(i) && enzymedata.kcat(idx_tmp) < 3600*kcatmanual(i)
+            enzymedata.kcat(idx_tmp) = 3600*kcatmanual(i);
         end
     end
 end
 
+% update kcat values from https://github.com/SysBioChalmers/Yeast_kapp
+% from collected in vitro kcat
+load('../Yeast_kapp/kcat.mat');
+for i = 1:length(kcat.rxn)
+    if ismember(kcat.rxn(i),enzymedata.rxn)
+        idx_tmp = ismember(enzymedata.rxn,kcat.rxn(i));
+        if enzymedata.kcat_conf(idx_tmp) < 4
+            enzymedata.kcat(idx_tmp) = 3600*kcat.value(i);
+            enzymedata.kcat_conf(idx_tmp) = 4;
+        elseif enzymedata.kcat_conf(idx_tmp) == 4 && enzymedata.kcat(idx_tmp) < 3600*kcat.value(i)
+            enzymedata.kcat(idx_tmp) = 3600*kcat.value(i);
+        end
+    end
+end
 
+% add protein cost
+enzymedata.minPC = enzymedata.minMW./enzymedata.kcat;
 
-
-
-
-
-
+load('../Yeast_kapp/kapp.mat');
+for i = 1:length(kapp.rxn)
+    if ismember(kapp.rxn(i),enzymedata.rxn)
+        idx_tmp = ismember(enzymedata.rxn,kapp.rxn(i));
+        if enzymedata.kcat_conf(idx_tmp) < 5 && max(kapp.values(i,:)) > 0
+            enzymedata.kcat(idx_tmp) = max(kapp.values(i,:))*3600;
+            enzymedata.minPC(idx_tmp) = enzymedata.minMW(idx_tmp)/(max(kapp.values(i,:))*3600);
+            enzymedata.kcat_conf(idx_tmp) = 5;
+        elseif enzymedata.kcat_conf(idx_tmp) == 5 && enzymedata.kcat(idx_tmp) < max(kapp.values(i,:))*3600
+            enzymedata.kcat(idx_tmp) = max(kapp.values(i,:))*3600;
+            enzymedata.minPC(idx_tmp) = enzymedata.minMW(idx_tmp)/(max(kapp.values(i,:))*3600);
+        end
+    end
+end
 
 
 

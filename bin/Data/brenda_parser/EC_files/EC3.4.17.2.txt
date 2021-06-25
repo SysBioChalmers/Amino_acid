@@ -1,0 +1,32 @@
+KCAT	Struthio camelus	27.4	hippuryl-L-Arg	*
+KCAT	Salaria basilisca	36.23	hippuryl-L-Arg	*pH 8, 60&Acirc;&deg;C
+KCAT	Sus scrofa	48.3	hippuryl-L-Arg	*
+KCAT	Protopterus aethiopicus	171	hippuryl-L-Arg	*
+KCAT	Homo sapiens	61	hippuryl-Arg	*
+KCAT	Struthio camelus	86.9	hippuryl-Arg	*
+KCAT	Sus scrofa	119	hippuryl-Arg	*
+KCAT	Bos taurus	3.67	benzoyl-Gly-Arg	*crystallized enzyme
+KCAT	Bos taurus	60	benzoyl-Gly-Arg	*soluble enzyme
+KCAT	Bos taurus	183	benzoyl-Gly-Arg	*soluble enzyme
+KCAT	Asterias amurensis	427	benzoyl-Gly-Arg	*
+KCAT	Bos taurus	0.333	benzoyl-Gly-Gly-Phe	*crystallized enzyme
+KCAT	Bos taurus	5.5	benzoyl-Gly-Gly-Phe	*soluble enzyme
+KCAT	Bos taurus	104	Carbobenzoxy-Gly-Phe	*soluble enzyme
+KCAT	Protopterus aethiopicus	86	benzoyl-Gly-L-Arg	*
+KCAT	Sus scrofa	50	furylacryloylalanylarginine	*
+KCAT	Struthio camelus	58.7	furylacryloylalanylarginine	*
+KCAT	Struthio camelus	24.6	furylacryloylalanyllysine	*
+KCAT	Sus scrofa	38.6	furylacryloylalanyllysine	*
+KCAT	Bos taurus	2.83	benzoyl-Gly-glycylphenyllactic acid	*crystallized enzyme
+KCAT	Bos taurus	917	benzoyl-Gly-glycylphenyllactic acid	*soluble enzyme
+KCAT	Struthio camelus	10.5	hippuryl-Lys	*
+KCAT	Sus scrofa	25.5	hippuryl-Lys	*
+KCAT	Bos taurus	53	N-benzoylglycyl-L-Arg	*carboxypeptidase B II
+KCAT	Bos taurus	57	N-benzoylglycyl-L-Arg	*carboxypeptidase B I
+KCAT	Bos taurus	0.667	N-(phenylcarbonyl)glycyl-L-arginine	*crystallized enzyme
+KCAT	Homo sapiens	0.16	hippuryl-Asp	*mutant enzyme D253R
+KCAT	Homo sapiens	0.26	hippuryl-Asp	*mutant enzyme D253K
+KCAT	Homo sapiens	1.9	biotin-(epsilon-aminocaproic acid)2-GLMVGGVVR	*pH 7.4
+KCAT	Bos taurus	2.5	carbobenbenzoxy-Gly-Phe	*crystallized enzyme
+KCAT	Homo sapiens	3.8	hippuryl-Glu	*mutant enzyme D253K
+KCAT	Scyliorhinus canicula	-999	more	*

@@ -1,0 +1,615 @@
+KCAT	Oryza sativa	-999	more	*in the presence of 50 mM azide, the apparent kcat values of the E176Q and E176A mutants are nearly independent of the pH from pH 5-10, while those of the wild-type and E176D enzymes decrease 30 and 8fold, respectively, as the pH increases from 5 to 10
+KCAT	Spodoptera frugiperda	0.000285	4-nitrophenyl-beta-D-galactoside	*mutant enzyme E451A, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.00038	4-nitrophenyl-beta-D-galactoside	*mutant enzyme Q39N, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.0004	4-nitrophenyl-beta-D-fucoside	*mutant enzyme Q39N/E451S, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.00053	4-nitrophenyl-beta-D-fucoside	*mutant enzyme E451S, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.0006	4-nitrophenyl-beta-D-galactoside	*mutant enzyme Q39N/E451S, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.00061	4-nitrophenyl-beta-D-fucoside	*mutant enzyme E451A, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.00093	4-nitrophenyl-beta-D-galactoside	*mutant enzyme E451S, at 30&deg;C
+KCAT	Aspergillus niger	0.001	cellobiose	*mutant enzyme E490A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Spodoptera frugiperda	0.00188	4-nitrophenyl beta-D-xyloside	*mutant E190A, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.0036	4-nitrophenyl-beta-D-galactoside	*mutant enzyme Q39E/E451A, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.0065	4-nitrophenyl-beta-D-galactoside	*mutant enzyme Q39E/E451S, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.0073	4-nitrophenyl beta-D-xyloside	*mutant K201A, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.01	p-nitrophenyl-beta-D-xylopyranoside	*30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.0127	4-nitrophenyl beta-D-xyloside	*mutant E194A, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.02	4-methylumbeliferyl beta-D-glucoside	*mutant E190A, 30&deg;C, pH 6.0
+KCAT	Glycine max	0.02	esculin	*40&deg;C, pH 5.0
+KCAT	Spodoptera frugiperda	0.0211	4-nitrophenyl beta-D-xyloside	*mutant E190Q, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.022	4-nitrophenyl-beta-D-fucoside	*mutant enzyme Q39N, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.0236	4-nitrophenyl-beta-D-fucoside	*mutant enzyme Q39E/E451A, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.0238	4-nitrophenyl beta-D-xyloside	*mutant M453A, 30&deg;C, pH 6.0
+KCAT	Penicillium decumbens	0.03	arbutin	*40&deg;C, pH 6.5
+KCAT	Spodoptera frugiperda	0.0302	4-nitrophenyl beta-D-xyloside	*wild-type, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.032	4-methylumbeliferyl beta-D-glucoside	*mutant K201A, 30&deg;C, pH 6.0
+KCAT	Rhizomucor miehei	0.033	Laminaran	*pH 5.0, 50&deg;C
+KCAT	Spodoptera frugiperda	0.0342	4-nitrophenyl-beta-D-fucoside	*mutant enzyme Q39E/E451S, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.0377	4-nitrophenyl-beta-D-galactoside	*mutant enzyme Q39E, at 30&deg;C
+KCAT	Thermofilum pendens	0.038	4-O-alpha-D-mannopyranosyl-D-mannopyranose	*pH 3.5, 90&deg;C
+KCAT	Phanerochaete chrysosporium	0.04	4-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 30&deg;C, recombinant His-tagged isozyme BGL1A
+KCAT	Phanerochaete chrysosporium	0.04	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.5, 30&deg;C, recombinant His-tagged isozyme BGL1A
+KCAT	Rhizomucor miehei	0.043	cellobiose	*pH 5.0, 50&deg;C
+KCAT	Glycine max	0.05	4-methylumbelliferyl-beta-D-glucopyranoside	*40&deg;C, pH 5.0
+KCAT	Rhizomucor miehei	0.056	gentobiose	*pH 5.0, 50&deg;C
+KCAT	Spodoptera frugiperda	0.058	4-nitrophenyl beta-D-galactoside	*mutant K201A, 30&deg;C, pH 6.0
+KCAT	Rhizomucor miehei	0.059	cellotetraose	*pH 5.0, 50&deg;C
+KCAT	Spodoptera frugiperda	0.06	octyl-beta-D-glucopyranoside	*30&deg;C, pH 6.0
+KCAT	Rhizomucor miehei	0.067	cellotriose	*pH 5.0, 50&deg;C
+KCAT	Rhizomucor miehei	0.071	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 50&deg;C
+KCAT	Spodoptera frugiperda	0.072	4-nitrophenyl beta-D-galactoside	*mutant E190A, 30&deg;C, pH 6.0
+KCAT	Rhizomucor miehei	0.077	laminaritriose	*pH 5.0, 50&deg;C
+KCAT	Rhizomucor miehei	0.078	laminaribiose	*pH 5.0, 50&deg;C
+KCAT	Spodoptera frugiperda	0.089	4-nitrophenyl beta-D-xyloside	*mutant K201F, 30&deg;C, pH 6.0
+KCAT	Penicillium decumbens	0.1	arbutin	*40&deg;C, pH 6.5
+KCAT	Penicillium decumbens	0.1	cellobiose	*40&deg;C, pH 6.5
+KCAT	Glycine max	0.1	p-nitrophenyl-alpha-D-mannopyranoside	*40&deg;C, pH 5.0
+KCAT	Penicillium decumbens	0.1	Salicin	*40&deg;C, pH 6.5
+KCAT	Glycine max	0.11	p-nitrophenyl-beta-D-glucopyranoside	*40&deg;C, pH 5.0
+KCAT	Spodoptera frugiperda	0.114	4-methylumbeliferyl beta-D-glucoside	*mutant E190Q, 30&deg;C, pH 6.0
+KCAT	Oryza sativa	0.13	cellobiose	*beta-(1-4)-linked cellobiose,in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Glycine max	0.15	arbutin	*40&deg;C, pH 5.0
+KCAT	Spodoptera frugiperda	0.153	4-nitrophenyl beta-D-galactoside	*mutant E190Q, 30&deg;C, pH 6.0
+KCAT	Zea mays	0.16	Dhurrin	*pH 5.8, 37&deg;C, mutant F205L
+KCAT	Penicillium decumbens	0.17	apigetrin	*40&deg;C, pH 6.5
+KCAT	Oryza sativa	0.17	gentiobiose	*beta-(1-6)-linked gentiobiose, in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Spodoptera frugiperda	0.17	p-nitrophenyl-beta-D-galactopyranoside	*30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.174	4-nitrophenyl beta-D-galactoside	*mutant M453A, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.189	4-nitrophenyl beta-D-galactoside	*mutant E194A, 30&deg;C, pH 6.0
+KCAT	Penicillium decumbens	0.19	naringenin	*40&deg;C, pH 6.5
+KCAT	Penicillium decumbens	0.2	daidzin	*40&deg;C, pH 6.5
+KCAT	Zea mays	0.21	Dhurrin	*pH 5.8, 37&deg;C, mutant M263F
+KCAT	Glycine max	0.21	Salicin	*40&deg;C, pH 5.0
+KCAT	Zea mays	0.22	4-methylumbelliferyl-beta-D-glucoside	*mutant W373K
+KCAT	Zea mays	0.22	4-nitrophenyl-beta-D-glucoside	*mutant F193A
+KCAT	Spodoptera frugiperda	0.231	4-methylumbeliferyl beta-D-glucoside	*wild-type, 30&deg;C, pH 6.0
+KCAT	Homo sapiens	0.24	daidzein-7-malonyl-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Spodoptera frugiperda	0.2674	4-methylumbeliferyl beta-D-glucoside	*mutant E194A, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.269	4-nitrophenyl beta-D-galactoside	*wild-type, 30&deg;C, pH 6.0
+KCAT	Homo sapiens	0.29	4-nitrophenyl beta-L-arabinopyranoside	*recombinant wild-type enzyme
+KCAT	Homo sapiens	0.3	quercetin-3,4'-di-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Thermofilum pendens	0.317	cellobiose	*pH 3.5, 90&deg;C
+KCAT	Aspergillus niger	0.32	4-nitrophenyl beta-D-glucoside	*mutant enzyme E490A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Spodoptera frugiperda	0.32	amygdalin	*30&deg;C, pH 6.0
+KCAT	Pseudomonas sp.	0.32	p-nitrophenyl-beta-D-mannopyranoside	*40&deg;C, pH 6.0
+KCAT	Aspergillus niger	0.34	2,4-dinitrophenyl beta-D-glucoside	*mutant enzyme E490A, in 0.1 M sodium acetate, pH 6.0, at 40&deg;C
+KCAT	Spodoptera frugiperda	0.348	4-nitrophenyl beta-D-fucoside	*mutant E190A, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.35	4-nitrophenyl-beta-D-galactoside	*wild type enzyme, at 30&deg;C
+KCAT	Penicillium decumbens	0.36	p-nitrophenyl-beta-D-glucopyranoside	*40&deg;C, pH 6.5
+KCAT	Halothermothrix orenii	0.38	cellobiose	*mutant F417S, pH 7.0, 70&deg;C
+KCAT	Phanerochaete chrysosporium	0.384	4-nitrophenyl-beta-D-xylopyranoside	*pH 6.5, 30&deg;C, recombinant His-tagged isozyme BGL1A
+KCAT	Penicillium decumbens	0.4	daidzin	*40&deg;C, pH 6.5
+KCAT	Penicillium decumbens	0.4	gentiobiose	*40&deg;C, pH 6.5
+KCAT	Glycine max	0.49	p-nitrophenyl-alpha-D-galactopyranoside	*40&deg;C, pH 5.0
+KCAT	Phoma sp.	0.5	4-nitrophenyl-beta-D-glucopyranoside	*pH 4.5, 60&deg;
+KCAT	Spodoptera frugiperda	0.5	cellobiose	*30&deg;C, pH 6.0
+KCAT	Penicillium decumbens	0.5	cellobiose	*40&deg;C, pH 6.5
+KCAT	Zea mays	0.55	Dhurrin	*pH 5.8, 37&deg;C, mutant F466S/A467S
+KCAT	Spodoptera frugiperda	0.56	4-nitrophenyl beta-D-glucoside	*mutant E194A, 30&deg;C, pH 6.0
+KCAT	Saccharolobus solfataricus	0.56	N,N'-diacetyl-beta-chitobiose	*pH 4.0, 60&deg;C
+KCAT	Spodoptera frugiperda	0.56	p-nitrophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.0
+KCAT	Thermofilum pendens	0.577	4-nitrophenyl beta-D-glucopyranoside	*pH 3.5, 90&deg;C
+KCAT	Spodoptera frugiperda	0.59	4-nitrophenyl beta-D-glucoside	*mutant E190A, 30&deg;C, pH 6.0
+KCAT	Zea mays	0.59	Dhurrin	*pH 5.8, 37&deg;C, mutant F466S
+KCAT	Penicillium decumbens	0.6	apigetrin	*40&deg;C, pH 6.5
+KCAT	Spodoptera frugiperda	0.6	gentiobiose	*30&deg;C, pH 6.0
+KCAT	Penicillium decumbens	0.6	gentiobiose	*40&deg;C, pH 6.5
+KCAT	Penicillium decumbens	0.6	naringenin	*40&deg;C, pH 6.5
+KCAT	Homo sapiens	0.6	quercetin-7-O-beta-D-glucoside	*recombinant wild-type enzyme
+KCAT	Spodoptera frugiperda	0.62	4-methylumbeliferyl beta-D-glucoside	*mutant M453A, 30&deg;C, pH 6.0
+KCAT	Pseudomonas sp.	0.62	p-nitrophenyl-beta-D-galactopyranoside	*40&deg;C, pH 6.0
+KCAT	Zea mays	0.63	4-nitrophenyl-beta-D-glucoside	*mutant W373K
+KCAT	Spodoptera frugiperda	0.65	4-nitrophenyl beta-D-glucoside	*mutant E190Q, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	0.66	4-nitrophenyl beta-D-glucoside	*mutant K201A, 30&deg;C, pH 6.0
+KCAT	Streptomyces sp.	0.66	phenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Homo sapiens	0.66	p-nitrophenyl-beta-L-arabinopyranoside	*37&deg;C, pH 6.5
+KCAT	Spodoptera frugiperda	0.668	4-nitrophenyl beta-D-fucoside	*mutant K201F, 30&deg;C, pH 6.0
+KCAT	Zea mays	0.67	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F198V/F205L/P377A
+KCAT	Homo sapiens	0.69	quercetin-7-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	0.69	quercetin-7-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Zea mays	0.7	Dhurrin	*pH 5.8, 37&deg;C, mutant F198V/F205L/P377A
+KCAT	Penicillium decumbens	0.7	Salicin	*40&deg;C, pH 6.5
+KCAT	Rasamsonia emersonii	0.72	cellotriose	*pH 5.0, 37&deg;C
+KCAT	Homo sapiens	0.73	eriodictyol-7-glucoside	*recombinant wild-type enzyme
+KCAT	Bacillus halodurans	0.75	4-nitrophenyl-beta-D-glucopyranoside	*pH 8.0, 45&deg;C
+KCAT	Homo sapiens	0.75	p-nitrophenyl-beta-D-xylopyranoside	*37&deg;C, pH 6.5
+KCAT	Homo sapiens	0.77	apigenin-7-O-beta-D-glucoside	*recombinant wild-type enzyme
+KCAT	Pseudomonas sp.	0.87	p-nitrophenyl-beta-D-glucopyranoside	*40&deg;C, pH 6.0
+KCAT	Phanerochaete chrysosporium	0.9	4-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 30&deg;C, recombinant His-tagged isozyme BGL1A
+KCAT	Glycine max	0.93	p-nitrophenyl-beta-D-galactopyranoside	*40&deg;C, pH 5.0
+KCAT	Spodoptera frugiperda	0.98	4-nitrophenyl beta-D-fucoside	*mutant E194A, 30&deg;C, pH 6.0
+KCAT	Physarum polycephalum	1	2-nitrophenyl beta-D-glucopyranoside	*230000 Da form, pH 4.5, 37&deg;C
+KCAT	Avena sativa	1	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.8, isoform AsGlu2 mutant E495K
+KCAT	Pseudomonas sp.	1.06	arbutin	*40&deg;C, pH 6.0
+KCAT	Homo sapiens	1.08	quercetin-4'-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	1.08	quercetin-4'-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Oryza sativa	1.12	cellobiose	*mutant L442R, pH 5.0, 30&deg;C
+KCAT	Zea mays	1.13	Dhurrin	*pH 5.8, 37&deg;C, mutant Y473F
+KCAT	Oryza sativa	1.16	cellobiose	*wild-type, pH 5.0, 30&deg;C
+KCAT	Homo sapiens	1.17	luteolin-4'-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	1.17	luteolin-4'-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Avena sativa	1.2	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.8, isoform AsGlu1
+KCAT	Homo sapiens	1.26	eriodictyol-7-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	1.26	eriodictyol-7-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Zea mays	1.29	4-methylumbelliferyl-beta-D-glucoside	*mutant F193A
+KCAT	Spodoptera frugiperda	1.32	4-methylumbeliferyl beta-D-glucoside	*mutant K201F, 30&deg;C, pH 6.0
+KCAT	Zea mays	1.32	Dhurrin	*pH 5.8, 37&deg;C, chimeric mutant (Chim21) bearing a C-terminal octapeptide (466-477) exchanged with the homologous octapeptide of Sorghum Dhr1
+KCAT	Pseudomonas sp.	1.32	Salicin	*40&deg;C, pH 6.0
+KCAT	Homo sapiens	1.4	naringenin-7-glucoside	*recombinant wild-type enzyme
+KCAT	Glycine max	1.4	o-nitrophenyl-beta-D-glucopyranoside	*40&deg;C, pH 5.0
+KCAT	Halothermothrix orenii	1.47	lactose	*mutant N222F, pH 7.0, 70&deg;C
+KCAT	Spodoptera frugiperda	1.49	4-nitrophenyl-beta-D-fucoside	*mutant enzyme Q39E, at 30&deg;C
+KCAT	Penicillium decumbens	1.5	p-nitrophenyl-beta-D-glucopyranoside	*40&deg;C, pH 6.5
+KCAT	Homo sapiens	1.5	quercetin-4'-O-beta-D-glucoside	*recombinant wild-type enzyme
+KCAT	Spodoptera frugiperda	1.52	4-nitrophenyl beta-D-glucoside	*mutant M453A, 30&deg;C, pH 6.0
+KCAT	Homo sapiens	1.53	apigenin-7-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Homo sapiens	1.53	genistein-7-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Pseudomonas sp.	1.57	esculin	*40&deg;C, pH 6.0
+KCAT	Thermobifida fusca	1.6	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant L444F
+KCAT	Oryza sativa	1.64	laminaritriose	*in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Zea mays	1.7	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F198V/F205L/P377A
+KCAT	Spodoptera frugiperda	1.73	4-methylumbelliferyl-beta-D-glucopyranoside	*30&deg;C, pH 6.0
+KCAT	Saccharolobus solfataricus	1.8	cellobiose	*pH 4.0, 60&deg;C
+KCAT	Zea mays	1.87	4-methylumbelliferyl-beta-D-glucoside	*mutant F200K
+KCAT	Homo sapiens	1.88	4-nitrophenyl-alpha-L-arabino-pyranoside	*recombinant wild-type enzyme
+KCAT	Aspergillus niger	2	cellotriose	*pH 4.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Avena sativa	2	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.8, isoform AsGlu2
+KCAT	Oryza sativa	2.09	cellobiose	*mutant N190H, pH 5.0, 30&deg;C
+KCAT	Carapichea ipecacuanha	2.1	strictosidine	*pH 5.0, 30&deg;C
+KCAT	Aspergillus niger	2.12	2,4-dinitrophenyl beta-D-glucoside	*mutant enzyme E490A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Zea mays	2.23	Dhurrin	*pH 5.8, 37&deg;C, chimeric mutant (Chim16) bearing a C-terminal octapeptide (466-477) exchanged with the homologous octapeptide of Sorghum Dhr1 (with an extra 22 amino acids substitution)
+KCAT	Spodoptera frugiperda	2.26	4-nitrophenyl beta-D-glucoside	*wild-type, 30&deg;C, pH 6.0
+KCAT	Oryza sativa	2.35	cellotriose	*wild-type, pH 5.0, 30&deg;C
+KCAT	Pseudomonas sp.	2.39	daidzein-7-beta-D-glucosyl-6''-O-malonate	*40&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	2.4	p-nitrophenyl-beta-D-fucopyranoside	*30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	2.43	4-nitrophenyl beta-D-fucoside	*mutant K201A, 30&deg;C, pH 6.0
+KCAT	Zea mays	2.43	4-nitrophenyl-beta-D-glucoside	*mutant F200K
+KCAT	Phanerochaete chrysosporium	2.53	cellobiose	*pH 6.5, mutant M177L
+KCAT	Oryza sativa	2.58	cellotriose	*mutant L442R, pH 5.0, 30&deg;C
+KCAT	Homo sapiens	2.6	naringenin-7-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	2.6	naringenin-7-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Pseudomonas sp.	2.68	genistein-7-beta-D-glucosyl-6''-O-malonate	*40&deg;C, pH 6.0
+KCAT	Oryza sativa	3.05	cellotriose	*mutant N190H, pH 5.0, 30&deg;C
+KCAT	Homo sapiens	3.05	luteolin-7-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	3.05	luteolin-7-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Glycine max	3.07	daidzein-7-O-glucoside	*40&deg;C, pH 5.0
+KCAT	Bacillus subtilis	3.1	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, temperature not specified in the publication
+KCAT	Homo sapiens	3.12	4-nitrophenyl-beta-D-glucopyranoside	*recombinant wild-type enzyme
+KCAT	Homo sapiens	3.13	4-nitrophenyl-beta-D-fucopyranoside	*recombinant wild-type enzyme
+KCAT	Humicola insolens	3.21	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 50&deg;C, mutant enzyme I48W
+KCAT	Phanerochaete chrysosporium	3.23	cellobiose	*pH 6.5, mutant D229N
+KCAT	Spodoptera frugiperda	3.3	4-nitrophenyl-beta-D-fucoside	*wild type enzyme, at 30&deg;C
+KCAT	Oryza sativa	3.3	cellotriose	*mutant I179V, pH 5.0, 30&deg;C
+KCAT	Streptomyces sp.	3.32	4-bromophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Zea mays	3.4	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F198V
+KCAT	Oryza sativa	3.42	cellobiose	*mutant I179V, pH 5.0, 30&deg;C
+KCAT	Homo sapiens	3.55	daidzein-7-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Homo sapiens	3.55	daidzein 7-O-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Thermotoga neapolitana	3.6	4-nitrophenyl beta-D-glucopyranoside	*mutant E458G, pH 5.6, 90&deg;C
+KCAT	Sorghum bicolor	3.6	Dhurrin	*pH 5.8, 37&deg;C, mutant A375P
+KCAT	Sorghum bicolor	3.7	Dhurrin	*pH 5.8, 37&deg;C, mutant V196F/L203F
+KCAT	Paecilomyces sp. 'thermophila'	3.7	sophorose	*pH 6.2, 50&deg;C
+KCAT	Cellulomonas gilvus	3.84	4-nitrophenyl-beta-D-glucopyranoside	*chimeric beta-glucosidase No.8, in 50 mM MOPS buffer (pH 6.5), at 30&deg;C
+KCAT	Thermotoga maritima	3.84	4-nitrophenyl-beta-D-glucopyranoside	*chimeric beta-glucosidase No.8, in 50 mM MOPS buffer (pH 6.5), at 30&deg;C
+KCAT	Avena sativa	3.9	4-nitrophenyl beta-D-glucopyranoside	*pH 6.8, 30&deg;C, hexameric enzyme form
+KCAT	Pseudomonas sp.	3.92	apigenin-7-O-beta-D-glucopyranoside	*40&deg;C, pH 6.0
+KCAT	Phanerochaete chrysosporium	3.94	cellobiose	*pH 6.5, mutant H231D
+KCAT	Spodoptera frugiperda	4	4-nitrophenyl beta-D-glucoside	*mutant K201F, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	4.03	4-nitrophenyl beta-D-galactoside	*mutant K201F, 30&deg;C, pH 6.0
+KCAT	Spodoptera frugiperda	4.15	4-nitrophenyl beta-D-fucoside	*mutant M453A, 30&deg;C, pH 6.0
+KCAT	Paecilomyces sp. 'thermophila'	4.2	gentiobiose	*pH 6.2, 50&deg;C
+KCAT	Humicola insolens	4.24	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 50&deg;C, mutant enzyme I48W/I278F/T484Y
+KCAT	Oryza sativa	4.25	n-heptyl-beta-D-glucoside	*in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Thermobifida fusca	4.3	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant N317Y/N439S
+KCAT	Glycine max	4.34	daidzein-7-O-glucosyl-6''-O-malonate	*40&deg;C, pH 5.0
+KCAT	Phanerochaete chrysosporium	4.35	cellobiose	*pH 6.5, mutant V173C
+KCAT	Glycine max	4.38	genistein-7-O-glucosyl-6''-O-malonate	*40&deg;C, pH 5.0
+KCAT	Glycine max	4.45	genistein-7-O-glucoside	*40&deg;C, pH 5.0
+KCAT	Phanerochaete chrysosporium	4.47	cellobiose	*pH 6.5, mutant K253A
+KCAT	Paecilomyces sp. 'thermophila'	4.5	cellobiose	*pH 6.2, 50&deg;C
+KCAT	Oryza sativa	4.57	4-nitrophenyl-beta-D-glucopyranoside	*mutant L442R, pH 5.0, 30&deg;C
+KCAT	Oryza sativa	4.69	4-nitrophenyl-beta-D-glucopyranoside	*wild-type, pH 5.0, 30&deg;C
+KCAT	Oryza sativa	4.7	4-nitrophenyl-beta-D-glucopyranoside	*mutant N245V, pH 5.0, 30&deg;C
+KCAT	Avena sativa	4.75	avenacoside	*pH 6.8, isoform AsGlu2 mutant E495K
+KCAT	Zea mays	4.97	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant D261N
+KCAT	Physarum polycephalum	5	cellohexaose	*230000 Da form, pH 4.5, 37&deg;C
+KCAT	Pseudomonas sp.	5.12	daidzein-7-beta-D-glucopyranoside	*40&deg;C, pH 6.0
+KCAT	Pseudomonas sp.	5.31	genistein-7-beta-D-glucopyranoside	*40&deg;C, pH 6.0
+KCAT	Rasamsonia emersonii	5.4	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 37&deg;C
+KCAT	Rasamsonia emersonii	5.5	cellobiose	*pH 5.0, 37&deg;C
+KCAT	Homo sapiens	5.53	4-nitrophenyl-beta-D-galactopyranoside	*recombinant wild-type enzyme
+KCAT	Cellulomonas gilvus	5.62	4-nitrophenyl-beta-D-glucopyranoside	*chimeric beta-glucosidase No.6, in 50 mM MOPS buffer (pH 6.5), at 30&deg;C
+KCAT	Thermotoga maritima	5.62	4-nitrophenyl-beta-D-glucopyranoside	*chimeric beta-glucosidase No.6, in 50 mM MOPS buffer (pH 6.5), at 30&deg;C
+KCAT	Putranjiva roxburghii	5.82	4-nitrophenyl beta-D-galactopyranoside	*pH 4.6, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	5.97	p-nitrophenyl-alpha-L-arabinopyranoside	*37&deg;C, pH 6.5
+KCAT	Homo sapiens	6	p-nitrophenyl-beta-D-arabinopyranoside	*50&deg;C, pH 6.5
+KCAT	Oryza sativa	6.08	4-nitrophenyl-beta-D-glucopyranoside	*mutant I179V, pH 5.0, 30&deg;C
+KCAT	Oryza sativa	6.17	laminaribiose	*beta-(1-3)-linked laminaribose,in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Thermotoga maritima	6.4	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.5, 30&deg;C, wild-type enzyme
+KCAT	Thermotoga maritima	6.4	4-nitrophenyl-beta-D-glucopyranoside	*wild type enzyme, in 50 mM MOPS buffer (pH 6.5), at 30&deg;C
+KCAT	Carapichea ipecacuanha	6.4	vincoside	*pH 5.0, 30&deg;C
+KCAT	Sorghum bicolor	6.52	Dhurrin	*pH 5.8, 37&deg;C, mutant F469Y
+KCAT	Oryza sativa	6.58	cellotriose	*mutant N245V, pH 5.0, 30&deg;C
+KCAT	Zea mays	6.6	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F198V
+KCAT	Oryza sativa	6.76	4-nitrophenyl-beta-D-glucopyranoside	*mutant N190H, pH 5.0, 30&deg;C
+KCAT	Halothermothrix orenii	6.9	lactose	*mutant Y296F, pH 7.0, 70&deg;C
+KCAT	uncultured microorganism	6.94	4-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 5.5, 75&deg;C
+KCAT	Putranjiva roxburghii	6.95	cellobiose	*pH 4.6, 37&deg;C, recombinant enzyme
+KCAT	Thermotoga neapolitana	7.1	4-nitrophenyl beta-D-glucopyranoside	*mutant D58A, pH 5.6, 90&deg;C
+KCAT	Paecilomyces sp. 'thermophila'	7.1	Salicin	*pH 6.2, 50&deg;C
+KCAT	Spodoptera frugiperda	7.14	4-nitrophenyl beta-D-fucoside	*wild-type, 30&deg;C, pH 6.0
+KCAT	Oryza sativa	7.17	cellobiose	*mutant N245V, pH 5.0, 30&deg;C
+KCAT	Komagataella pastoris	7.2	4-methylumbelliferyl beta-D-glucoside	*pH 7.3, 40&deg;C
+KCAT	Putranjiva roxburghii	7.39	4-nitrophenyl beta-D-galactopyranoside	*pH 4.6, 37&deg;C, native enzyme
+KCAT	Thermotoga neapolitana	7.4	4-nitrophenyl beta-D-glucopyranoside	*mutant D58A, pH 5.6, 90&deg;C, 0.1 M NaN3
+KCAT	Halothermothrix orenii	7.4	lactose	*mutant N294T, pH 7.0, 70&deg;C
+KCAT	Putranjiva roxburghii	7.56	4-nitrophenyl beta-D-cellobioside	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Streptomyces sp.	7.72	2-Nitrophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Halothermothrix orenii	7.8	lactose	*mutant F417S, pH 7.0, 70&deg;C
+KCAT	Putranjiva roxburghii	7.88	cellobiose	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Paecilomyces sp. 'thermophila'	7.9	amygdalin	*pH 6.2, 50&deg;C
+KCAT	Putranjiva roxburghii	7.95	4-nitrophenyl beta-D-galactopyranoside	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Physarum polycephalum	8	cellohexaose	*130000 Da form, pH 4.5, 37&deg;C
+KCAT	Putranjiva roxburghii	8.12	cellobiose	*pH 4.6, 37&deg;C, native enzyme
+KCAT	Streptomyces sp.	8.14	p-nitrophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Halothermothrix orenii	8.5	cellobiose	*mutant Y296F, pH 7.0, 70&deg;C
+KCAT	Saccharolobus solfataricus	8.8	4-methylumbelliferyl beta-D-glucopyranoside	*pH 4.0, 60&deg;C
+KCAT	Spodoptera frugiperda	8.9	4-nitrophenyl beta-D-fucoside	*mutant K201F, 30&deg;C, pH 6.0
+KCAT	Thermotoga maritima	9	4-nitrophenyl-alpha-L-arabinopyranoside	*pH 6.5, 30&deg;C, wild-type enzyme
+KCAT	Phanerochaete chrysosporium	9.15	4-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 30&deg;C, recombinant His-tagged isozyme BGL1A
+KCAT	Saccharolobus solfataricus	9.15	4-nitrophenyl beta-D-glucoside	*pH 4.0, 60&deg;C
+KCAT	Sorghum bicolor	9.2	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F469Y
+KCAT	Phanerochaete chrysosporium	9.35	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.5, 30&deg;C, recombinant His-tagged isozyme BGL1A
+KCAT	Humicola insolens	9.61	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 50&deg;C, mutant enzyme I278F
+KCAT	Oryza sativa	9.8	4-nitrophenyl-beta-D-galactopyranoside	*in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Oryza sativa	9.8	sophorose	*beta-(1-2)-linked sophorose, in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Sorghum bicolor	10.1	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant V196F/L203F
+KCAT	Humicola insolens	10.2	4-nitrophenyl-beta-D-xyloside	*pH 5.0, 50&deg;C
+KCAT	Putranjiva roxburghii	10.39	4-nitrophenyl beta-D-glucopyranoside	*pH 4.6, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	10.7	p-nitrophenyl-beta-D-fucopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	10.7	p-nitrophenyl-beta-D-fucopyranoside	*37&deg;C, pH 6.5
+KCAT	Zea mays	10.85	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant P377A
+KCAT	Zea mays	11.1	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant M263F
+KCAT	Sorghum bicolor	11.4	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant A375P
+KCAT	Thermosphaera aggregans	11.6	2-nitrophenyl beta-D-glucopyranoside	*mutant N62Y/Q63K/L231F/V303A/E386G/A412V, pH 6.0, 65&deg;C
+KCAT	Komagataella pastoris	11.6	4-nitrophenyl beta-D-glucopyranoside	*pH 7.3, 40&deg;C
+KCAT	Streptomyces sp.	11.7	2,3-dinitrophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Streptomyces sp.	11.7	4-methylumbelliferyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Putranjiva roxburghii	11.7	4-nitrophenyl beta-D-glucopyranoside	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Putranjiva roxburghii	12	4-nitrophenyl beta-D-glucopyranoside	*pH 4.6, 37&deg;C, native enzyme
+KCAT	Homo sapiens	12.1	p-nitrophenyl-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	12.1	p-nitrophenyl-beta-D-glucopyranoside	*37&deg;C, pH 6.5
+KCAT	Thermobifida fusca	12.3	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant A433V
+KCAT	Putranjiva roxburghii	12.71	4-nitrophenyl beta-D-fucopyranoside	*pH 4.6, 37&deg;C, recombinant enzyme
+KCAT	Physarum polycephalum	13	2-nitrophenyl beta-D-glucopyranoside	*130000 Da form, pH 4.5, 37&deg;C
+KCAT	Paecilomyces sp. 'thermophila'	13	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.2, 50&deg;C
+KCAT	Physarum polycephalum	13	4-nitrophenyl beta-D-glucopyranoside	*230000 Da form, pH 4.5, 37&deg;C
+KCAT	Thermotoga neapolitana	13	4-nitrophenyl beta-D-glucopyranoside	*mutant E458G, pH 5.6, 90&deg;C, 0.1 M NaN3
+KCAT	Glycine max	13	genistein 7-O-beta-D-glucoside	*pH 7.0, 30&deg;C
+KCAT	Sorghum bicolor	13.46	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+KCAT	Zea mays	13.46	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+KCAT	Thermotoga neapolitana	13.6	quercetin 3-O-beta-D-glucopyranoside	*wild-type, pH 5.6, 80&deg;C
+KCAT	Komagataella pastoris	13.7	2-nitrophenyl beta-D-glucopyranoside	*pH 7.3, 40&deg;C
+KCAT	Sorghum bicolor	13.8	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, wild-type
+KCAT	Plumeria obtusa	13.9	plumieride coumarate beta-D-glucoside	*pH 5.5, 37&deg;C
+KCAT	Rasamsonia emersonii	14	2-chloro-4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 37&deg;C
+KCAT	Rasamsonia emersonii	14	2-chloro-4-nitrophenyl-beta-D-glucopyranoside	*pH 5.0, 37&deg;C
+KCAT	Thermoplasma acidophilum	14	4-nitrophenyl-beta-D-mannopyranoside	*in 100 mM citrate/phosphate buffer, at pH 6.0 and 90&deg;C
+KCAT	Thermobifida fusca	14	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant N317Y
+KCAT	Putranjiva roxburghii	14.05	4-nitrophenyl beta-D-fucopyranoside	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Sorghum bicolor	14.3	Dhurrin	*pH 5.8, 37&deg;C, wild-type
+KCAT	Thermotoga neapolitana	14.4	quercetin 3-O-beta-D-glucopyranoside	*mutant F224I, pH 5.6, 80&deg;C
+KCAT	Putranjiva roxburghii	14.77	4-nitrophenyl beta-D-fucopyranoside	*pH 4.6, 37&deg;C, native enzyme
+KCAT	Humicola insolens	15.05	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 50&deg;C, mutant enzyme T484Y
+KCAT	Streptomyces sp.	15.8	3-nitrophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	uncultured microorganism	16	4-nitrophenyl beta-D-fucopyranoside	*wild-type, pH 5.5, 75&deg;C
+KCAT	Thermobifida fusca	16.3	D-cellobiose	*pH 7.2, 25&deg;C, recombinant wild-type enzyme
+KCAT	Halothermothrix orenii	16.5	cellobiose	*mutant N294T, pH 7.0, 70&deg;C
+KCAT	Zea mays	16.8	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant P377A
+KCAT	Thermobifida fusca	16.8	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant N317Y/L444F
+KCAT	Halothermothrix orenii	16.9	cellobiose	*mutant N222F, pH 7.0, 70&deg;C
+KCAT	Physarum polycephalum	17	gentiobiose	*230000 Da form, pH 4.5, 37&deg;C
+KCAT	Zea mays	17.2	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant D261N
+KCAT	uncultured microorganism	17.6	4-nitrophenyl beta-D-galactopyranoside	*mutant N223Y, pH 5.5, 75&deg;C
+KCAT	Homo sapiens	17.6	p-nitrophenyl-beta-D-galactopyranoside	*50&deg;C, pH 6.5
+KCAT	Homo sapiens	17.6	p-nitrophenyl-beta-D-galactopyranoside	*37&deg;C, pH 6.5
+KCAT	Zea mays	17.8	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant M263F
+KCAT	Streptomyces sp.	18.2	3,4-dinitrophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Thermotoga maritima	18.4	4-nitrophenyl-beta-D-xylopyranoside	*pH 6.5, 30&deg;C, wild-type enzyme
+KCAT	Trichoderma reesei	18.6	cellobiose	*beta-glucosidase II
+KCAT	Sorghum bicolor	18.68	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim17 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 462-508 of Zea mays)
+KCAT	Zea mays	18.68	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim17 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 462-508 of Zea mays)
+KCAT	Zea mays	19.1	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F198V/F205L/P377A
+KCAT	Thermobifida fusca	19.2	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant N317Y/L444F/A433V
+KCAT	Zea mays	19.83	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, wild-type
+KCAT	Physarum polycephalum	20	gentiobiose	*130000 Da form, pH 4.5, 37&deg;C
+KCAT	Streptomyces sp.	20.5	3,5-dinitrophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Thermococcus kodakarensis	20.69	4-nitrophenyl beta-D-mannopyranoside	*80&deg;C, pH is not specified in the publication, mutant enzyme D206N
+KCAT	Phanerochaete chrysosporium	20.8	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.5, 30&deg;C, recombinant His-tagged isozyme BGL1A
+KCAT	Thermobifida fusca	21	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant S319C
+KCAT	Thermotoga neapolitana	22	4-nitrophenyl beta-D-glucopyranoside	*mutant N221F, pH 5.6, 80&deg;C
+KCAT	Glycine max	22	daidzein 7'-O-beta-D-glucoside	*pH 7.0, 30&deg;C
+KCAT	Agrobacterium tumefaciens	22.1	4-nitrophenyl-beta-D-fucopyranoside	*pH 6.5, 30&deg;C, wild-type enzyme
+KCAT	Thermobifida fusca	22.3	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant N178I
+KCAT	Sorghum bicolor	22.7	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+KCAT	Zea mays	22.7	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+KCAT	Thermus thermophilus	23	4-nitrophenyl-beta-D-glucopyranoside	*
+KCAT	Sorghum bicolor	23.41	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim39 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 466-492 of Zea mays)
+KCAT	Zea mays	23.41	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim39 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 466-492 of Zea mays)
+KCAT	Zea mays	24.16	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, wild-type
+KCAT	Thermotoga neapolitana	25.3	4-nitrophenyl beta-D-glucopyranoside	*mutant D242G, pH 5.6, 90&deg;C, 0.1 M NaN3
+KCAT	Aspergillus niger	26.37	4-nitrophenyl-beta-D-glucopyranoside	*in 50 mM citrate buffer, pH 4.8, at 50&deg;C
+KCAT	Thermotoga petrophila	26.89	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 90&deg;C, without Zn2+
+KCAT	Thermoplasma acidophilum	27	4-nitrophenyl-beta-D-galactopyranoside	*in 100 mM citrate/phosphate buffer, at pH 6.0 and 90&deg;C
+KCAT	Sorghum bicolor	27.17	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+KCAT	Zea mays	27.17	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+KCAT	Phanerochaete chrysosporium	27.5	cellobiose	*wild-type BGL
+KCAT	Thermotoga maritima	27.7	4-nitrophenyl-beta-D-fucopyranoside	*pH 6.5, 30&deg;C, wild-type enzyme
+KCAT	Carapichea ipecacuanha	28.2	N-deacetylipecoside	*pH 5.0, 30&deg;C
+KCAT	Streptomyces sp.	28.4	p-nitrophenyl-beta-D-glucopyranoside	*50&deg;C, pH 6.5
+KCAT	Agrobacterium tumefaciens	28.9	4-nitrophenyl-beta-D-xylopyranoside	*pH 6.5, 30&deg;C, wild-type enzyme
+KCAT	Avena sativa	29	avenacoside	*pH 6.8, 30&deg;C, hexameric enzyme form
+KCAT	Zea mays	29.5	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, wild-type
+KCAT	Thermobifida fusca	29.5	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant N439S
+KCAT	Phanerochaete chrysosporium	29.8	cellobiose	*recombinant BGL
+KCAT	Zea mays	30.3	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, wild-type
+KCAT	Streptomyces sp.	30.4	2,4-dinitrophenyl-beta-D-glucopyranoside	*30&deg;C, pH 6.5
+KCAT	Weissella cibaria	30.63	4-nitrophenyl beta-D-glucopyranoside	*at pH 5.5 and 45&deg;C
+KCAT	Plumeria obtusa	30.7	4-nitrophenyl-beta-D-glucopyranoside	*pH 5.5, 37&deg;C
+KCAT	uncultured microorganism	30.8	4-nitrophenyl beta-D-galactopyranoside	*wild-type, pH 5.5, 75&deg;C
+KCAT	Carapichea ipecacuanha	31.1	6-O-methyl-N-deacetylipecoside	*pH 5.0, 30&deg;C
+KCAT	Sorghum bicolor	31.19	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+KCAT	Zea mays	31.19	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+KCAT	uncultured microorganism	31.2	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, without additive
+KCAT	Aspergillus niger	31.62	cellobiose	*in 50 mM citrate buffer, pH 4.8, at 50&deg;C
+KCAT	Sorghum bicolor	31.83	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+KCAT	Zea mays	31.83	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+KCAT	uncultured microorganism	32.3	4-nitrophenyl beta-D-galactopyranoside	*mutant N223Q, pH 5.5, 75&deg;C
+KCAT	Thermus thermophilus	32.3	4-nitrophenyl-beta-D-glucopyranoside	*pH 5.4, 75&deg;C
+KCAT	Oryza sativa	33.5	4-nitrophenyl-beta-D-fucopyranoside	*in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Humicola insolens	33.9	4-nitrophenyl beta-D-glucopyranoside	*presence of D-glucose, pH 6.0, 50&deg;C
+KCAT	Jeotgalibacillus malaysiensis	33.93	4-nitrophenyl beta-D-glucopyranoside	*at pH 7.4 and 65&deg;C
+KCAT	Sorghum bicolor	34.26	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+KCAT	Zea mays	34.26	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+KCAT	Zea mays	34.3	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F205L
+KCAT	uncultured microorganism	34.8	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, without additive
+KCAT	Streptomyces sp.	35.6	cellobiose	*50&deg;C, pH 6.5
+KCAT	Zea mays	36.4	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant D261N
+KCAT	uncultured microorganism	36.7	4-nitrophenyl beta-D-glucopyranoside	*mutant N223Y, pH 5.5, 75&deg;C
+KCAT	Physarum polycephalum	37	cellobiose	*230000 Da form, pH 4.5, 37&deg;C
+KCAT	Sorghum bicolor	37.05	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+KCAT	Zea mays	37.05	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+KCAT	Streptomyces sp.	37.1	p-nitrophenyl-beta-D-fucopyranoside	*50&deg;C, pH 6.5
+KCAT	uncultured microorganism	38.7	4-nitrophenyl beta-D-fucopyranoside	*mutant N223Y, pH 5.5, 75&deg;C
+KCAT	Halothermothrix orenii	38.7	cellobiose	*mutant F417Y, pH 7.0, 70&deg;C
+KCAT	Oryza sativa	38.9	4-nitrophenyl-beta-D-glucopyranoside	*in 100 mM sodium acetate, pH 5.0, at 30&deg;C
+KCAT	Thermotoga neapolitana	39.8	quercetin 3-O-beta-D-glucopyranoside	*mutant N220S, pH 5.6, 80&deg;C
+KCAT	Humicola insolens	40.42	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 50&deg;C, wild-type enzyme
+KCAT	Trichoderma reesei	40.75	cellobiose	*in 50 mM citrate buffer, pH 4.8, at 50&deg;C
+KCAT	Thermotoga neapolitana	40.8	quercetin 3-O-beta-D-glucopyranoside	*mutant N221S, pH 5.6, 80&deg;C
+KCAT	Halothermothrix orenii	41.5	lactose	*mutant F417Y, pH 7.0, 70&deg;C
+KCAT	Trichoderma reesei	42	cellobiose	*at pH 5.0 and 40&deg;C
+KCAT	Cellulomonas gilvus	42.2	4-nitrophenyl-beta-D-glucopyranoside	*wild type enzyme, in 50 mM MOPS buffer (pH 6.5), at 30&deg;C
+KCAT	uncultured microorganism	42.5	4-nitrophenyl beta-D-glucopyranoside	*mutant N223Q, pH 5.5, 75&deg;C
+KCAT	Zea mays	42.8	4-nitrophenyl-beta-D-glucoside	*wild-type
+KCAT	Penicillium brasilianum	43	cellobiose	*recombinant enzyme, in 50 mM sodium citrate buffer pH 4.8, at 22&deg;C
+KCAT	Thermomyces lanuginosus	44.4	4-nitrophenyl-beta-D-glucopyranoside	*
+KCAT	Thermomyces lanuginosus	44.4	4-nitrophenyl beta-D-glucopyranoside	*pH 6.5, 50&deg;C
+KCAT	Sorghum bicolor	45.65	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+KCAT	Zea mays	45.65	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+KCAT	Glycine max	46	daidzein 7'-O-(6''-O-beta-D-malonyl-beta-D-glucoside)	*pH 7.0, 30&deg;C
+KCAT	Sorghum bicolor	46.02	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+KCAT	Zea mays	46.02	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+KCAT	Aspergillus niger	47.3	cellobiose	*mutant enzyme D501A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Pyrococcus furiosus	49	2-nitrophenyl-beta-1,4-D-galactopyranoside-6-phosphate	*
+KCAT	Zea mays	49.27	4-nitrophenyl-beta-D-glucoside	*mutant F461L
+KCAT	Thermococcus kodakarensis	50.99	4-nitrophenyl beta-D-mannopyranoside	*80&deg;C, pH is not specified in the publication, wild-type
+KCAT	Thermotoga petrophila	51.43	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 90&deg;C, 2 mM Zn2+
+KCAT	Trichoderma reesei	51.5	cellobiose	*beta-glucosidase I
+KCAT	Carapichea ipecacuanha	51.6	ipecoside	*pH 5.0, 30&deg;C
+KCAT	Aspergillus niger	51.7	cellopentaose	*pH 4.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Zea mays	53.8	4-methylumbelliferyl-beta-D-glucoside	*wild-type
+KCAT	Thermosphaera aggregans	53.9	2-nitrophenyl beta-D-glucopyranoside	*mutant N62Y/Q63K/L231F/V303A/E386G/A412V, pH 5.0, 65&deg;C
+KCAT	Sorghum bicolor	53.96	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim23 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 492-508 of Zea mays)
+KCAT	Zea mays	53.96	Dhurrin	*pH 5.8, 37&deg;C, mutant Chim23 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 492-508 of Zea mays)
+KCAT	Sorghum bicolor	54.02	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+KCAT	Zea mays	54.02	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+KCAT	Aspergillus niger	54.7	cellotetraose	*pH 4.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Rasamsonia emersonii	55	cellobiose	*pH 5.0, 37&deg;C
+KCAT	Zea mays	57.3	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F205L
+KCAT	Thermotoga neapolitana	61	4-nitrophenyl beta-D-glucopyranoside	*mutant W322A, pH 5.6, 80&deg;C
+KCAT	Thermoascus aurantiacus	63.3	daidzin	*free enzyme, at pH 5.0 and 37&deg;C
+KCAT	Zea mays	63.4	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant Y473F
+KCAT	Thermoascus aurantiacus	63.9	glycitin	*free enzyme, at pH 5.0 and 37&deg;C
+KCAT	Sorghum bicolor	64.25	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+KCAT	Zea mays	64.25	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+KCAT	Melanocarpus sp.	66.67	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.0, 60&deg;C
+KCAT	Aspergillus niger	66.7	4-nitrophenyl-beta-D-glucopyranoside	*
+KCAT	Aspergillus niger	67.4	cellobiose	*wild type enzyme, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Phanerochaete chrysosporium	67.6	4-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 30&deg;C, recombinant His-tagged isozyme BGL1A
+KCAT	Humicola insolens	68.16	4-nitrophenyl beta-D-glucopyranoside	*pH 5.5, 60&deg;C, mutant enzyme Y509T
+KCAT	Sorghum bicolor	68.9	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+KCAT	Zea mays	68.9	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+KCAT	uncultured microorganism	69	4-nitrophenyl beta-D-glucopyranoside	*wild-type, presence of 500 mM D-glucose, pH 5.5, 75&deg;C
+KCAT	Aspergillus niger	70	gentiobiose	*pH 4.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Zea mays	70.88	4-methylumbelliferyl-beta-D-glucoside	*mutant F461L
+KCAT	Aspergillus niger	71	2,4-dinitrophenyl beta-D-glucoside	*wild type enzyme, in 0.1 M sodium acetate, pH 6.0, at 40&deg;C
+KCAT	Thermosphaera aggregans	72.9	2-nitrophenyl beta-D-glucopyranoside	*mutant E387G, pH 6.5, 65&deg;C, presence of 2 M formate
+KCAT	Thermoascus aurantiacus	72.9	genistin	*free enzyme, at pH 5.0 and 37&deg;C
+KCAT	Humicola insolens	73.08	4-nitrophenyl beta-D-glucopyranoside	*pH 5.5, 60&deg;C, wild-type enzyme
+KCAT	Zea mays	74.4	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant P377A
+KCAT	Sorghum bicolor	77.7	Dhurrin	*pH 5.8, 37&deg;C, wild-type
+KCAT	Thermotoga neapolitana	78	4-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 5.6, 90&deg;C, 0.1 M NaN3
+KCAT	Aspergillus niger	78.3	cellobiose	*mutant enzyme D496A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Aspergillus niger	78.4	cellobiose	*mutant enzyme D463A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Thermoascus aurantiacus	79.8	daidzin	*immobilized enzyme, at pH 5.0 and 37&deg;C
+KCAT	uncultured microorganism	80.4	4-nitrophenyl beta-D-fucopyranoside	*mutant N223Q, pH 5.5, 75&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	82	4-nitrophenyl-beta-D-galactopyranoside	*in 50 mM citrate buffer, at pH 5.5 and 70&deg;C
+KCAT	uncultured microorganism	82.8	4-nitrophenyl beta-D-glucopyranoside	*mutant N223Q, presence of 500 mM D-glucose, pH 5.5, 75&deg;C
+KCAT	Thermoascus aurantiacus	83.5	4-nitrophenyl beta-D-glucoside	*free enzyme, at pH 5.0 and 37&deg;C
+KCAT	Aspergillus niger	85.1	cellotriose	*pH 4.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Zea mays	87.2	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F466S/A467S
+KCAT	Sorghum bicolor	87.24	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+KCAT	Zea mays	87.24	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+KCAT	Aspergillus niger	87.7	cellobiose	*mutant enzyme D487A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Trichoderma reesei	87.93	4-nitrophenyl-beta-D-glucopyranoside	*in 50 mM citrate buffer, pH 4.8, at 50&deg;C
+KCAT	Aspergillus niger	89	4-nitrophenyl-beta-D-glucopyranoside	*pH 4.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Talaromyces verruculosus	89	cellobiose	*at pH 5.0 and 40&deg;C
+KCAT	Thermotoga neapolitana	89.6	4-nitrophenyl beta-D-glucopyranoside	*mutant W243F, pH 5.6, 90&deg;C
+KCAT	Sorghum bicolor	90.8	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+KCAT	Zea mays	90.8	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+KCAT	Agrobacterium tumefaciens	91	cellobiose	*mutant C174V, pH not specified in the publication, temperature not specified in the publication
+KCAT	uncultured microorganism	91.1	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, additive: 25 mM cellobiose
+KCAT	Agrobacterium tumefaciens	95	4-nitrophenyl beta-D-glucopyranoside	*mutant C174V, pH not specified in the publication, temperature not specified in the publication
+KCAT	Agrobacterium tumefaciens	95.4	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.5, 30&deg;C, wild-type enzyme
+KCAT	uncultured microorganism	95.6	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, without additive
+KCAT	Thermoascus aurantiacus	95.8	glycitin	*immobilized enzyme, at pH 5.0 and 37&deg;C
+KCAT	Phanerochaete chrysosporium	96.2	p-nitrophenyl-beta-D-glucose	*wild-type BGL
+KCAT	Zea mays	97.9	4-methylumbelliferyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F466S
+KCAT	Glycine max	98	genistein 7-O-(6''-O-malonyl-beta-D-glucoside)	*pH 7.0, 30&deg;C
+KCAT	Zea mays	100.7	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F466S
+KCAT	Fomitopsis palustris	101.8	cellobiose	*
+KCAT	Aspergillus niger	103	cellobiose	*pH 4.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Physarum polycephalum	103	cellobiose	*130000 Da form, pH 4.5, 37&deg;C
+KCAT	Phanerochaete chrysosporium	103.1	p-nitrophenyl-beta-D-glucose	*recombinant BGL
+KCAT	Aspergillus niger	104	4-nitrophenyl beta-D-glucoside	*mutant enzyme D501A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Lamium galeobdolon	104.4	oleuropein	*isoform GLU1, at pH 5.5 and 30&deg;C
+KCAT	Agrobacterium tumefaciens	107	cellobiose	*mutant W127F, pH not specified in the publication, temperature not specified in the publication
+KCAT	Sorghum bicolor	107.9	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+KCAT	Zea mays	107.9	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 25&deg;C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+KCAT	uncultured microorganism	108	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-galactose
+KCAT	Physarum polycephalum	110	4-nitrophenyl beta-D-glucopyranoside	*130000 Da form, pH 4.5, 37&deg;C
+KCAT	Thermobifida fusca	111.3	D-cellobiose	*pH 7.2, 25&deg;C, recombinant mutant S319C
+KCAT	Lamium galeobdolon	112.5	Dhurrin	*isoform GLU1, at pH 5.5 and 30&deg;C
+KCAT	Thermoascus aurantiacus	116.6	4-nitrophenyl beta-D-glucoside	*immobilized enzyme, at pH 5.0 and 37&deg;C
+KCAT	uncultured microorganism	117	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-galactose
+KCAT	Penicillium brasilianum	118	4-nitrophenyl-beta-D-glucopyranoside	*recombinant enzyme, in 50 mM sodium citrate buffer pH 4.8, at 22&deg;C
+KCAT	Trichoderma reesei	118	4-nitrophenyl-beta-D-glucopyranoside	*at pH 5.0 and 40&deg;C
+KCAT	Agrobacterium tumefaciens	118	cellobiose	*mutant H229S, pH not specified in the publication, temperature not specified in the publication
+KCAT	Streptomyces sp.	118	p-nitrophenyl-beta-D-galactopyranoside	*50&deg;C, pH 6.5
+KCAT	Zea mays	118.5	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F466S/A467S
+KCAT	Agrobacterium tumefaciens	119	4-nitrophenyl-alpha-L-arabinopyranoside	*pH 6.5, 30&deg;C, wild-type enzyme
+KCAT	Zea mays	121.5	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, wild-type
+KCAT	uncultured microorganism	128	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-galactose
+KCAT	uncultured microorganism	129	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, additive: 25 mM cellobiose
+KCAT	Thermotoga neapolitana	129	4-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 5.6, 90&deg;C
+KCAT	Agrobacterium tumefaciens	131.5	4-nitrophenyl beta-D-glucopyranoside	*wild-type, presence of 1 M glucose, pH not specified in the publication, temperature not specified in the publication
+KCAT	Thermoascus aurantiacus	136	sophorose	*pH 5, 50&deg;C
+KCAT	Thermoascus aurantiacus	136.4	sophorose	*60&deg;C, pH 4.5
+KCAT	Zea mays	137.3	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F205L
+KCAT	Trichoderma reesei	138	4-nitrophenyl-beta-D-glucopyranoside	*beta-glucosidase II
+KCAT	Thermoascus aurantiacus	140.7	gentiobiose	*60&deg;C, pH 4.5
+KCAT	Thermoplasma acidophilum	141	4-nitrophenyl-beta-D-glucopyranoside	*in 100 mM citrate/phosphate buffer, at pH 6.0 and 90&deg;C
+KCAT	Aspergillus niger	141	4-nitrophenyl beta-D-glucoside	*mutant enzyme D496A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C; wild type enzyme, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Thermoascus aurantiacus	141	gentiobiose	*pH 5, 50&deg;C
+KCAT	Schwanniomyces etchellsii	141	p-nitrophenyl-beta-D-glucopyranoside	*50&deg;C, pH 6.0
+KCAT	uncultured microorganism	142	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, additive: 25 mM cellobiose
+KCAT	Zea mays	143.8	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant M263F
+KCAT	Trichoderma reesei	144	4-nitrophenyl-beta-D-glucopyranoside	*beta-glucosidase I
+KCAT	Prunus armeniaca	144.8	cellobiose	*pH 6.0, 35&deg;C
+KCAT	uncultured microorganism	145	4-nitrophenyl beta-D-glucopyranoside	*mutant N223Y, presence of 500 mM D-glucose, pH 5.5, 75&deg;C
+KCAT	Talaromyces verruculosus	160	4-nitrophenyl-beta-D-glucopyranoside	*at pH 5.0 and 40&deg;C
+KCAT	Aspergillus niger	160	4-nitrophenyl beta-D-glucoside	*mutant enzyme D463A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Agrobacterium tumefaciens	163	4-nitrophenyl beta-D-glucopyranoside	*wild-type, presence of 0.5 M glucose, pH not specified in the publication, temperature not specified in the publication
+KCAT	Aspergillus niger	163	4-nitrophenyl beta-D-glucoside	*mutant enzyme D487A, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Zea mays	163.8	4-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant Y473F
+KCAT	Thermomyces dupontii	167	cellobiose	*pH 6.5, 40&deg;C
+KCAT	Thermus thermophilus	167.4	4-nitrophenyl-beta-D-galactopyranoside	*pH 5.4, 75&deg;C
+KCAT	Schwanniomyces etchellsii	170	p-nitrophenyl-beta-D-glucopyranoside	*50&deg;C, pH 6.0
+KCAT	Thermoascus aurantiacus	171.2	genistin	*immobilized enzyme, at pH 5.0 and 37&deg;C
+KCAT	Humicola insolens	172.1	cellobiose	*presence of D-glucose, pH 6.0, 50&deg;C
+KCAT	Zea mays	172.4	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F466S
+KCAT	Zea mays	177.1	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant F466S/A467S
+KCAT	Phanerochaete chrysosporium	181	cellobiose	*pH 6.5, wild-type isozyme BGL1A
+KCAT	Thermoplasma acidophilum	182	4-nitrophenyl-beta-D-fucopyranoside	*in 100 mM citrate/phosphate buffer, at pH 6.0 and 90&deg;C
+KCAT	uncultured microorganism	187	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-glucose
+KCAT	Agrobacterium tumefaciens	193	4-nitrophenyl beta-D-glucopyranoside	*mutant H229S, pH not specified in the publication, temperature not specified in the publication
+KCAT	uncultured microorganism	197	4-nitrophenyl beta-D-galactopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-xylose
+KCAT	Lamium galeobdolon	211.1	2,4-dihydroxy-1,4-benzoxazin-3-one glucoside	*isoform GLU1, at pH 5.5 and 30&deg;C
+KCAT	Thermococcus kodakarensis	227.64	4-nitrophenyl beta-D-glucopyranoside	*80&deg;C, pH is not specified in the publication, wild-type
+KCAT	Agrobacterium tumefaciens	230	4-nitrophenyl beta-D-glucopyranoside	*wild-type, presence of 0.25 M glucose, pH not specified in the publication, temperature not specified in the publication
+KCAT	Schwanniomyces etchellsii	233	cellobiose	*50&deg;C, pH 6.0
+KCAT	Agrobacterium tumefaciens	233	cellobiose	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Thermoascus aurantiacus	234.8	n-octyl-beta-D-glucopyranoside	*60&deg;C, pH 4.5
+KCAT	Thermoascus aurantiacus	235	2-Nitrophenyl beta-D-glucoside	*pH 5, 50&deg;C
+KCAT	Thermoascus aurantiacus	235	n-octyl beta-D-glucoside	*pH 5, 50&deg;C
+KCAT	Thermoascus aurantiacus	235.2	o-nitrophenyl-beta-D-glucopyranoside	*60&deg;C, pH 4.5
+KCAT	uncultured microorganism	236	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-glucose
+KCAT	Thermoascus aurantiacus	242	4-nitrophenyl beta-D-glucoside	*pH 5, 50&deg;C
+KCAT	Thermoascus aurantiacus	242.2	p-nitrophenyl-beta-D-glucopyranoside	*60&deg;C, pH 4.5
+KCAT	Aspergillus japonicus	259	4-nitrophenyl-beta-D-glucopyranoside	*at pH 5.0 and 40&deg;C
+KCAT	Agrobacterium tumefaciens	277	4-nitrophenyl beta-D-glucopyranoside	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Stereum hirsutum	281	cellobiose	*at pH 6.0 and 30&deg;C
+KCAT	Agrobacterium tumefaciens	282	4-nitrophenyl beta-D-glucopyranoside	*mutant V176A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Thermoascus aurantiacus	284	beta-beta-trehalose	*pH 5, 50&deg;C
+KCAT	Thermoascus aurantiacus	284	cellobiose	*pH 5, 50&deg;C
+KCAT	Thermoascus aurantiacus	284.2	beta,beta-trehalose	*60&deg;C, pH 4.5
+KCAT	Thermoascus aurantiacus	284.2	cellobiose	*60&deg;C, pH 4.5
+KCAT	uncultured microorganism	286	4-nitrophenyl beta-D-glucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-xylose
+KCAT	Thermus thermophilus	288.3	2-nitrophenyl-beta-D-galactopyranoside	*pH 5.4, 75&deg;C
+KCAT	Thermomyces dupontii	304	2-nitrophenyl-beta-D-galactopyranoside	*pH 6.5, 40&deg;C
+KCAT	Thermosphaera aggregans	305	2-nitrophenyl beta-D-glucopyranoside	*mutant N62Y/Q63K/L231F/V303A/E386G/A412V, pH 4.0, 65&deg;C
+KCAT	Thermomyces dupontii	308	2-Nitrophenyl-beta-D-glucopyranoside	*pH 6.5, 40&deg;C
+KCAT	Thermosphaera aggregans	309	2-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 6.5, 65&deg;C
+KCAT	Thermococcus kodakarensis	322.25	4-nitrophenyl beta-D-fucopyranoside	*80&deg;C, pH is not specified in the publication, wild-type
+KCAT	Thermococcus kodakarensis	323.41	4-nitrophenyl beta-D-fucopyranoside	*80&deg;C, pH is not specified in the publication, mutant enzyme D206N
+KCAT	Agrobacterium tumefaciens	324	cellobiose	*mutant V176A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Agrobacterium tumefaciens	328	cellobiose	*mutant L178A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Agrobacterium tumefaciens	334.9	4-nitrophenyl beta-D-glucopyranoside	*wild-type, presence of 0.1 M glucose, pH not specified in the publication, temperature not specified in the publication
+KCAT	Humicola insolens	343.5	4-nitrophenyl-beta-D-glucopyranoside	*pH 5.0, 50&deg;C
+KCAT	Thermococcus kodakarensis	349.62	4-nitrophenyl beta-D-glucopyranoside	*80&deg;C, pH is not specified in the publication, mutant enzyme D206N
+KCAT	Aspergillus japonicus	350	cellobiose	*at pH 5.0 and 40&deg;C
+KCAT	Zea mays	353.2	2-nitrophenyl beta-D-glucopyranoside	*pH 5.8, 37&deg;C, mutant Y473F
+KCAT	Agrobacterium tumefaciens	354	cellobiose	*mutant L178E, pH not specified in the publication, temperature not specified in the publication
+KCAT	Agrobacterium tumefaciens	363	4-nitrophenyl beta-D-glucopyranoside	*mutant L178E, pH not specified in the publication, temperature not specified in the publication
+KCAT	Halothermothrix orenii	366	lactose	*wild-type, pH 7.0, 70&deg;C
+KCAT	Aspergillus oryzae	370	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 40&deg;C
+KCAT	Thermotoga neapolitana	371	4-nitrophenyl beta-D-glucopyranoside	*mutant F310L, pH 5.6, 80&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	387	4-nitrophenyl-beta-D-glucopyranoside	*in 50 mM citrate buffer, at pH 5.5 and 70&deg;C
+KCAT	Halothermothrix orenii	387	cellobiose	*wild-type, pH 7.0, 70&deg;C
+KCAT	Agrobacterium tumefaciens	390	4-nitrophenyl beta-D-glucopyranoside	*mutant L178A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Avena sativa	402	avenacoside	*pH 6.8, isoform AsGlu1
+KCAT	Humicola insolens	404.8	Salicin	*pH 5.0, 50&deg;C
+KCAT	Aspergillus niger	422	2,4-dinitrophenyl beta-D-glucoside	*wild type enzyme, in 0.1 M sodium acetate, pH 4.0, at 40&deg;C
+KCAT	Thermosphaera aggregans	439.8	2-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 6.5, 65&deg;C, presence of 2 M formate
+KCAT	Avena sativa	443	avenacoside	*pH 6.8, isoform AsGlu2
+KCAT	Thermotoga neapolitana	485	4-nitrophenyl beta-D-glucopyranoside	*wild-type, pH 5.6, 80&deg;C
+KCAT	uncultured microorganism	486	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-glucose
+KCAT	Thermotoga neapolitana	508	4-nitrophenyl beta-D-glucopyranoside	*mutant F310E, pH 5.6, 80&deg;C
+KCAT	Caldicellulosiruptor saccharolyticus	516	4-nitrophenyl-beta-D-fucopyranoside	*in 50 mM citrate buffer, at pH 5.5 and 70&deg;C
+KCAT	Agrobacterium tumefaciens	559	4-nitrophenyl beta-D-glucopyranoside	*mutant W127F, pH not specified in the publication, temperature not specified in the publication
+KCAT	Pyrococcus furiosus	594	cellobiose	*pH 5.5, 85&deg;C
+KCAT	uncultured microorganism	600	4-nitrophenyl beta-D-fucopyranoside	*pH 6.0, 60&deg;C, additive: 250 mM D-xylose
+KCAT	Acremonium persicinum	640	4-nitrophenyl-beta-D-glucopyranoside	*
+KCAT	Phoma sp.	699	cellobiose	*pH 4.5, 60&deg;
+KCAT	Fomitopsis palustris	721	4-nitrophenyl-beta-D-glucopyranoside	*
+KCAT	Thermotoga neapolitana	757	4-nitrophenyl beta-D-glucopyranoside	*mutant N220S, pH 5.6, 80&deg;C
+KCAT	Thermotoga neapolitana	803	4-nitrophenyl beta-D-glucopyranoside	*mutant F224I, pH 5.6, 80&deg;C
+KCAT	Aspergillus oryzae	820	sophorose	*pH 5.0, 40&deg;C
+KCAT	Thermotoga neapolitana	849	4-nitrophenyl beta-D-glucopyranoside	*mutant N220F, pH 5.6, 80&deg;C
+KCAT	Pyrococcus furiosus	860	2-Nitrophenyl-beta-D-glucopyranoside	*
+KCAT	Stachybotrys sp.	915	4-nitrophenyl-beta-D-glucopyranoside	*pH 6.0, 50&deg;C
+KCAT	Aspergillus oryzae	930	laminaribiose	*pH 5.0, 40&deg;C
+KCAT	Aspergillus oryzae	950	beta-gentiobiose	*pH 5.0, 40&deg;C
+KCAT	Thermosphaera aggregans	970	2-nitrophenyl beta-D-glucopyranoside	*mutant N62Y/Q63K/L231F/V303A/E386G/A412V, pH 3.0, 65&deg;C
+KCAT	unidentified microorganism	989	polydatin	*pH 7.0, 40&deg;C
+KCAT	Aspergillus oryzae	1000	cellobiose	*pH 5.0, 40&deg;C
+KCAT	Thermotoga neapolitana	1170	4-nitrophenyl beta-D-glucopyranoside	*mutant N221S, pH 5.6, 80&deg;C
+KCAT	Thermotoga naphthophila	1469.8	cellobiose	*pH 5.0, 85&deg;C
+KCAT	Pyrococcus furiosus	2050	2-nitrophenyl-beta-D-galactopyranoside	*
+KCAT	Rasamsonia emersonii	2226	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 72&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	2532	daidzin	*pH 5.5, 90&deg;C
+KCAT	Humicola insolens	3132	cellobiose	*pH 5.0, 50&deg;C
+KCAT	Pholiota adiposa	3460	4-nitrophenyl-beta-D-glucopyranoside	*pH 5.0, 65&deg;C
+KCAT	Aspergillus niger	4000	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 72&deg;C, recombinant enzyme
+KCAT	Thermotoga petrophila	5300	4-nitrophenyl-beta-D-xylopyranoside	*pH 7.0, 90&deg;C
+KCAT	Thermotoga petrophila	5300	4-nitrophenyl beta-D-xylopyranoside	*pH 7.0, 90&deg;C
+KCAT	Trichoderma reesei	8664	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 72&deg;C, recombinant enzyme
+KCAT	Thermotoga petrophila	17500	4-nitrophenyl-beta-D-cellobioside	*pH 7.0, 90&deg;C
+KCAT	Thermotoga petrophila	17500	4-nitrophenyl beta-D-cellobioside	*pH 7.0, 90&deg;C
+KCAT	Thermotoga naphthophila	78809.5	4-nitrophenyl beta-D-galactopyranoside	*pH 5.0, 85&deg;C
+KCAT	Thermotoga naphthophila	83730.2	4-nitrophenyl beta-D-cellobioside	*pH 5.0, 85&deg;C
+KCAT	Thermotoga petrophila	87400	4-nitrophenyl-beta-D-glucopyranoside	*pH 7.0, 90&deg;C
+KCAT	Thermotoga petrophila	87400	4-nitrophenyl beta-D-glucopyranoside	*pH 7.0, 90&deg;C
+KCAT	Thermotoga naphthophila	114048	4-nitrophenyl alpha-D-fucopyranoside	*pH 5.0, 85&deg;C
+KCAT	Thermotoga naphthophila	232540	4-nitrophenyl beta-D-xylopyranoside	*pH 5.0, 85&deg;C
+KCAT	Thermotoga naphthophila	1214290	4-nitrophenyl beta-D-glucopyranoside	*pH 5.0, 85&deg;C

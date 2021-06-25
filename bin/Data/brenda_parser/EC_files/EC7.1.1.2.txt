@@ -1,0 +1,34 @@
+KCAT	Escherichia coli	3	NADPH	*wild-type enzyme, pH 6.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	10	NADPH	*mutant E183H, pH 6.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	11	NADPH	*mutant E183N, pH 6.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	14	NADPH	*mutant E183Q, pH 6.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	34	NADPH	*mutant E183D, pH 6.0, 30&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.9	NADH	*pH 7.5, 60&Acirc;&deg;C
+KCAT	Thermus thermophilus	1.1	NADH	*pH 7.5, 60&Acirc;&deg;C
+KCAT	Escherichia coli	2	NADH	*mutant E183Q, pH 6.0, 30&Acirc;&deg;C
+KCAT	Bos taurus	2.7	NADH	*pH 7.6, 32&Acirc;&deg;C, cosubstrate: ubiquinone-1, ubiquinone-0 or idebenone
+KCAT	Escherichia coli	11	NADH	*mutant E183N, pH 6.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	26	NADH	*wild-type enzyme, pH 6.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	37	NADH	*mutants E183D and E18H, pH 6.0, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	80	NADH	*with ubiquinone-6 as acceptor, Triton assay medium
+KCAT	Saccharomyces cerevisiae	500	NADH	*with ubiquinone-6 as acceptor, mitochondria
+KCAT	Plasmodium falciparum	0.077	menadione	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.015	ubiquinone-1	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Plasmodium falciparum	664	ubiquinone-1	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Bos taurus	211.5	coenzyme Q1	*
+KCAT	Mycobacterium tuberculosis	423	menaquinone	*pH 7.0, temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	640	ubiquinone-2	*pH 7.0, temperature not specified in the publication
+KCAT	Plasmodium falciparum	0.33	ubiquinone-0	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	480	ubiquinone-0	*pH 7.0, temperature not specified in the publication
+KCAT	Bos taurus	47.69	coenzyme Q0	*
+KCAT	Bos taurus	62.82	2-[(6-chloroimidazo[2,1-b][1,3]thiazol-5-yl)methyl]-5,6-dimethoxy-3-methylbenzo-1,4-quinone	*
+KCAT	Bos taurus	81.73	2,3-dimethoxy-5-methyl-6-[(6-methylimidazo[2,1-b][1,3]thiazol-5-yl)methyl]benzo-1,4-quinone	*
+KCAT	Bos taurus	63.46	2-[(6-chloro-2,3-dihydroimidazo[2,1-b][1,3]thiazol-5-yl)methyl]-5,6-dimethoxy-3-methylbenzo-1,4-quinone	*
+KCAT	Bos taurus	11.22	2-[(2,6-dimethylimidazo[2,1-b][1,3]thiazol-5-yl)methyl]-5,6-dimethoxy-3-methylbenzo-1,4-quinone	*
+KCAT	Bos taurus	76.28	2-[(6-chloro-2-methylimidazo[2,1-b][1,3]thiazol-5-yl)methyl]-5,6-dimethoxy-3-methylbenzo-1,4-quinone	*
+KCAT	Bos taurus	23.88	2,3-dimethoxy-5-methyl-6-[(6-phenylimidazo[2,1-b][1,3]thiazol-5-yl)methyl]benzo-1,4-quinone	*
+KCAT	Bos taurus	8.33	2,3-dimethoxy-5-methyl-6-[(6-methyl-2,3-dihydroimidazo[2,1-b][1,3]thiazol-5-yl)methyl]benzo-1,4-quinone	*
+KCAT	Bos taurus	42.95	2-[(2-chloro-6-methylimidazo[2,1-b][1,3]thiazol-5-yl)methyl]-5,6-dimethoxy-3-methylbenzo-1,4-quinone	*
+KCAT	Bos taurus	25.8	2-[(2-chloro-6-phenylimidazo[2,1-b][1,3]thiazol-5-yl)methyl]-5,6-dimethoxy-3-methylbenzo-1,4-quinone	*
+KCAT	Escherichia coli	1500	hexaammineruthenium-III-chloride	*
+KCAT	Plasmodium falciparum	0.032	oxidized dichlorophenolindophenol	*pH 8.0, 25&Acirc;&deg;C

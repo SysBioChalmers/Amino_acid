@@ -1,0 +1,6 @@
+KCAT	Fusarium oxysporum	0.84	ATP	*
+KCAT	Saccharomyces cerevisiae	6.2	NAD+	*mutant enzyme R293H, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	7.4	NAD+	*wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Fusarium oxysporum	0.95	NADH	*
+KCAT	Saccharomyces cerevisiae	7.7	NADH	*mutant enzyme R293H, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	16.1	NADH	*wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C

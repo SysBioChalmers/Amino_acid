@@ -1,0 +1,4 @@
+KCAT	Vitis labrusca	0.0035	methanol	*pH 7.5, 20-22&deg;C, cosubstrate: anthraniloyl-CoA, native enzyme
+KCAT	Vitis labrusca	0.0058	methanol	*pH 7.5, 20-22&deg;C, cosubstrate: anthraniloyl-CoA, recombinant enzyme
+KCAT	Vitis labrusca	0.01	anthraniloyl-CoA	*pH 7.5, 20-22&deg;C, cosubstrate: methanol, recombinant enzyme
+KCAT	Vitis labrusca	0.022	anthraniloyl-CoA	*pH 7.5, 20-22&deg;C, cosubstrate: methanol, native enzyme

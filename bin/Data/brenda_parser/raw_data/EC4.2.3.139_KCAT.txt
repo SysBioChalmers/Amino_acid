@@ -1,0 +1,1 @@
+ecNumber*4.2.3.139#turnoverNumber*0.01#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH 7.5, 30&deg;C#organism*Valeriana officinalis#ligandStructureId*81#literature*719468#

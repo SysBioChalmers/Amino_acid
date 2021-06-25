@@ -1,0 +1,1 @@
+ecNumber*1.1.1.240#turnoverNumber*655#turnoverNumberMaximum*#substrate*N-acetyl-D-glucosamine#commentary*#organism*Pseudomonas sp.#ligandStructureId*300#literature*286366#!ecNumber*1.1.1.240#turnoverNumber*932#turnoverNumberMaximum*#substrate*N-acetyl-D-galactosamine#commentary*#organism*Pseudomonas sp.#ligandStructureId*1075#literature*286366#

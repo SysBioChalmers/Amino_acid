@@ -1,0 +1,2 @@
+KCAT	Homo sapiens	0.1	acetyl-VEHD-7-amido-4-methylcoumarin	*pH 7.5
+KCAT	Homo sapiens	0.2	acetyl-VEHD-7-amido-4-methylcoumarin	*pH 6.5

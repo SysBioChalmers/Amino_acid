@@ -1,0 +1,1 @@
+ecNumber*4.1.1.51#turnoverNumber*0.6#turnoverNumberMaximum*#substrate*3-hydroxy-2-methylpyridine-4,5-dicarboxylate#commentary*in 100 mM Tris-HCl at pH 8.0 containing 100 mM NaCl and 2 mM dithiothreitol#organism*Mesorhizobium loti#ligandStructureId*12340#literature*678245#

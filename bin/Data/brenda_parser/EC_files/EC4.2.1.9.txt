@@ -1,0 +1,13 @@
+KCAT	Saccharolobus solfataricus	0.011	D-glycerate	*pH 7, 50&Acirc;&deg;C, non-activated enzyme
+KCAT	Saccharolobus solfataricus	0.03	D-glycerate	*pH 7, 50&Acirc;&deg;C, enzyme activated by 2-mercaptoethanol
+KCAT	Saccharolobus solfataricus	0.4	D-gluconate	*pH 7, 50&Acirc;&deg;C, non-activated enzyme
+KCAT	Saccharolobus solfataricus	1.19	D-gluconate	*pH 7, 50&Acirc;&deg;C, enzyme activated by 2-mercaptoethanol
+KCAT	Saccharolobus solfataricus	48.5	D-gluconate	*
+KCAT	Spinacia oleracea	25	2,3-dihydroxyisovalerate	*
+KCAT	Saccharolobus solfataricus	75.8	2,3-dihydroxyisovalerate	*
+KCAT	Saccharolobus solfataricus	0.31	2,3-Dihydroxy-3-methylbutanoate	*pH 7, 50&Acirc;&deg;C, enzyme activated by 2-mercaptoethanol; pH 7, 50&Acirc;&deg;C, non-activated enzyme
+KCAT	Spinacia oleracea	11.5	2,3-Dihydroxy-3-methylbutanoate	*
+KCAT	Spinacia oleracea	8.3	2R,3R-2,3-dihydroxy-3-methylpentanoate	*
+KCAT	Spinacia oleracea	12.3	2R,3S-2,3-dihydroxy-3-methylpentanoate	*
+KCAT	Spinacia oleracea	4.6	2,3-dihydroxybutanoate	*
+KCAT	Spinacia oleracea	5.7	3-cyclopropyl-2,3-dihydroxybutanoate	*

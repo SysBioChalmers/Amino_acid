@@ -1,0 +1,8 @@
+KCAT	Sus scrofa	58.3	acetoacetyl-CoA	*pH 8.1, 21-22&Acirc;&deg;C, mutant C196S
+KCAT	Sus scrofa	816.7	acetoacetyl-CoA	*pH 8.1, 21-22&Acirc;&deg;C, mutant C28S
+KCAT	Sus scrofa	933	acetoacetyl-CoA	*pH 8.1
+KCAT	Sus scrofa	1250	acetoacetyl-CoA	*pH 8.1, 21-22&Acirc;&deg;C, wild-type enzyme
+KCAT	Sus scrofa	37.3	succinyl-CoA	*pH 8.1
+KCAT	Sus scrofa	9.17	acetoacetate	*pH 8.1, 21-22&Acirc;&deg;C, mutant C28S
+KCAT	Sus scrofa	35	acetoacetate	*pH 8.1, 21-22&Acirc;&deg;C, mutant C196S
+KCAT	Sus scrofa	98.3	acetoacetate	*pH 8.1, 21-22&Acirc;&deg;C, wild-type enzyme

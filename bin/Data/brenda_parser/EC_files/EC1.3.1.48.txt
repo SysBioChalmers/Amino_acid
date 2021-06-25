@@ -1,0 +1,28 @@
+KCAT	Mus musculus	0.12	15-ketoprostaglandin E1	*in 0.1 M Tris-HCl (pH 7.4), at 37&deg;C
+KCAT	Mus musculus	0.16	NADPH	*in 0.1 M Tris-HCl (pH 7.4), at 37&deg;C
+KCAT	Mus musculus	0.19	15-ketoprostaglandin E2	*in 0.1 M Tris-HCl (pH 7.4), at 37&deg;C
+KCAT	Mus musculus	0.22	15-ketoprostaglandin F1alpha	*in 0.1 M Tris-HCl (pH 7.4), at 37&deg;C
+KCAT	Mus musculus	0.25	15-ketoprostaglandin F2alpha	*in 0.1 M Tris-HCl (pH 7.4), at 37&deg;C
+KCAT	Sus scrofa	0.517	15-ketoprostaglandin E1	*cofactor NADH
+KCAT	Bos taurus	0.7	15-ketoprostaglandin E	*
+KCAT	Sus scrofa	1.52	15-ketoprostaglandin E1	*cofactor NADPH
+KCAT	Rattus norvegicus	3.72	acrolein	*
+KCAT	Rattus norvegicus	8.05	crotonaldehyde	*
+KCAT	Rattus norvegicus	13.1	alpha-methylcinnamaldehyde	*
+KCAT	Rattus norvegicus	13.4	4-hydroxy-2-hexenal	*
+KCAT	Rattus norvegicus	15.7	cinnamaldehyde	*
+KCAT	Rattus norvegicus	16.8	trans-2-pentenal	*
+KCAT	Rattus norvegicus	17.2	trans,trans-2,4-nonadienal	*
+KCAT	Rattus norvegicus	18.5	3-penten-2-one	*
+KCAT	Rattus norvegicus	19.8	3-nonen-2-one	*
+KCAT	Rattus norvegicus	28.8	trans-2-hexenal	*
+KCAT	Rattus norvegicus	32.3	chalcone	*
+KCAT	Rattus norvegicus	40	15-oxoprostaglandin E1	*
+KCAT	Rattus norvegicus	54.7	benzylidene acetone	*
+KCAT	Rattus norvegicus	60.2	trans-2-dodecenal	*
+KCAT	Rattus norvegicus	67.3	4-hydroxy-2-nonenal	*
+KCAT	Rattus norvegicus	70.8	trans-2-decenal	*
+KCAT	Rattus norvegicus	89.7	trans-2-octenal	*
+KCAT	Rattus norvegicus	94.5	trans-2-nonenal	*
+KCAT	Rattus norvegicus	156	methylvinylketone	*
+KCAT	Rattus norvegicus	160	ethylvinylketone	*

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.19#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*0.119 per mM * s, L-gulonate, steady state kinetic; 10.82 per mM * s, D-glucuronate, steady state kinetic; 1124 per mM * s, NADPH, steady state kinetic#organism*Homo sapiens#ligandStructureId*#literature*286149#

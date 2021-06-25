@@ -1,0 +1,1 @@
+ecNumber*1.18.1.1#turnoverNumber*8.42#turnoverNumberMaximum*#substrate*Desulfovibrio gigas rubredoxin#commentary*#organism*Desulfovibrio gigas#ligandStructureId*#literature*437861#

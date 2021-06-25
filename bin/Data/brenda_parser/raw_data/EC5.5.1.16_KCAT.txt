@@ -1,0 +1,1 @@
+ecNumber*5.5.1.16#turnoverNumber*0.12#turnoverNumberMaximum*#substrate*(E,E,E)-geranylgeranyl diphosphate#commentary*#organism*Mycobacterium tuberculosis#ligandStructureId*3768#literature*704527#

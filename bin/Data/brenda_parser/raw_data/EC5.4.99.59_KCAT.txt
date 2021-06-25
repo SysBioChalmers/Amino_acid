@@ -1,0 +1,1 @@
+ecNumber*5.4.99.59#turnoverNumber*0.056#turnoverNumberMaximum*#substrate*dTDP-alpha-D-fucopyranose#commentary*pH 7.4, 37&Acirc;&deg;C#organism*Escherichia coli#ligandStructureId*9565#literature*723209#

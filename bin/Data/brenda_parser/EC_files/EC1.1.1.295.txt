@@ -1,0 +1,4 @@
+KCAT	Oryza sativa	0.02	oryzalexin A	*pH 8.0, 30&deg;C
+KCAT	Oryza sativa	0.023	oryzalexin A	*pH 8.0, 30&deg;C
+KCAT	Oryza sativa	0.08	3beta-hydroxy-9beta-pimara-7,15-diene-19,6beta-olide	*pH 8.0, 30&deg;C
+KCAT	Oryza sativa	0.4	3beta-hydroxy-9beta-pimara-7,15-diene-19,6beta-olide	*pH 8.0, 30&deg;C

@@ -1,0 +1,1 @@
+ecNumber*4.1.99.17#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*ThiC undergoes ThiC undergoes steady-state turnover, and multiple turnovers with a 5fold molar excess of 5-amino-1-(5-phospho-D-ribosyl)imidazole#organism*Salmonella enterica#ligandStructureId*#literature*727960#

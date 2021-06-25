@@ -1,0 +1,24 @@
+KCAT	Geobacillus stearothermophilus	0.01	N-acetyl-L-phenylalanine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	0.08	N-acetyl-L-tyrosine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	0.08	N-acetyl-L-valine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	0.16	N-carbamoyl-L-phenylalanine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	0.18	N-carbamoyl-L-tyrosine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	0.84	N-carbamoyl-L-valine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Paenarthrobacter aurescens	0.9	N-carbamoyl-L-methionine	*
+KCAT	Geobacillus stearothermophilus	1.46	N-Formyl-L-tyrosine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	2.26	N-acetyl-L-methionine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Pseudomonas sp. ON4a	3.54	N-carbamoyl-L-methionine	*pH 9.0, 50&deg;C
+KCAT	Paenarthrobacter aurescens	5	N-formyl-DL-tryptophan	*
+KCAT	Paenarthrobacter aurescens	5.1	N-carbamoyl-L-tryptophan	*
+KCAT	Geobacillus stearothermophilus	5.32	N-carbamoyl-L-methionine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Pseudomonas sp. ON4a	6.11	N-carbamoyl-L-alanine	*pH 9.0, 50&deg;C
+KCAT	Paenarthrobacter aurescens	6.5	N-carbamoyl-L-tyrosine	*
+KCAT	Pseudomonas sp. ON4a	7.56	N-Carbamoyl-glycine	*pH 9.0, 50&deg;C
+KCAT	Geobacillus stearothermophilus	12.12	N-formyl-L-phenylalanine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Paenarthrobacter aurescens	16.1	N-carbamoyl-L-thienylalanine	*
+KCAT	Pseudomonas sp. ON4a	16.5	N-carbamoyl-L-cysteine	*pH 9.0, 50&deg;C
+KCAT	Geobacillus stearothermophilus	27.26	N-formyl-L-valine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	27.86	N-acetyl-L-alanine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	48.96	N-carbamoyl-L-alanine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	293.5	N-formyl-L-alanine	*pH 7.5, 65&deg;C, preincubation with CoCl2
+KCAT	Geobacillus stearothermophilus	839.1	N-formyl-L-methionine	*pH 7.5, 65&deg;C, preincubation with CoCl2

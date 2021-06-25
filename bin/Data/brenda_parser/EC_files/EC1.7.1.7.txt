@@ -1,0 +1,4 @@
+KCAT	Homo sapiens	0.265	GMP	*pH 8.0, 35&deg;C
+KCAT	Escherichia coli	0.28	guanosine 5'-phosphate	*pH 7.8, 25&deg;C
+KCAT	Homo sapiens	0.284	GMP	*pH 8.0, 35&deg;C
+KCAT	Trypanosoma brucei brucei	0.519	GMP	*pH 8.0, 35&deg;C

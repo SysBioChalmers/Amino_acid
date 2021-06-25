@@ -1,0 +1,1 @@
+ecNumber*5.1.3.25#turnoverNumber*0.9#turnoverNumberMaximum*#substrate*dTDP-6-deoxy-beta-L-talose#commentary*pH 8.2, temperature not specified in the publication#organism*Burkholderia thailandensis#ligandStructureId*11856#literature*727136#

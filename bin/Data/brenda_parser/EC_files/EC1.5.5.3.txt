@@ -1,0 +1,4 @@
+KCAT	Homo sapiens	0.19	coenzyme Q1	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.27	duroquinone	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.28	menaquinone	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.19	trans-4-hydroxy-L-proline	*at pH 7.5 and 25&Acirc;&deg;C

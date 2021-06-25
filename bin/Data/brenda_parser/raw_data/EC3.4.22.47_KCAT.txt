@@ -1,0 +1,1 @@
+ecNumber*3.4.22.47#turnoverNumber*9.4#turnoverNumberMaximum*#substrate*hemoglobin#commentary*pH 7.6, 37&deg;C, human serum hemoglobin#organism*Porphyromonas gingivalis#ligandStructureId*#literature*638851#

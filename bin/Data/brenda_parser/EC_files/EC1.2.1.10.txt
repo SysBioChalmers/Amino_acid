@@ -1,0 +1,26 @@
+KCAT	Citrobacter sp. S-77	0.013	acetyl-CoA	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Paraburkholderia xenovorans	6.9	acetaldehyde	*mutant enzyme I195W, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	7.6	acetaldehyde	*mutant enzyme D208A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	7.8	acetaldehyde	*mutant enzyme I171F, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Citrobacter sp.	13	acetaldehyde	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Citrobacter sp. S-77	13	acetaldehyde	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Paraburkholderia xenovorans	15.4	acetaldehyde	*mutant enzyme I195F, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Escherichia coli	15.7	acetaldehyde	*at 25&Acirc;&deg;C in 50 mM Tris/HCl buffer, pH 8.0
+KCAT	Paraburkholderia xenovorans	17.2	acetaldehyde	*wild type enzyme, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	19.7	acetaldehyde	*mutant enzyme I195A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	37.9	acetaldehyde	*mutant enzyme I171A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	3.4	propionaldehyde	*mutant enzyme I195W, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	6	propionaldehyde	*mutant enzyme I171F, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	7.6	propionaldehyde	*mutant enzyme I195F, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	12.1	propionaldehyde	*mutant enzyme I195A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	16.3	propionaldehyde	*wild type enzyme, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	24.9	propionaldehyde	*mutant enzyme I171A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	7.1	Butyraldehyde	*mutant enzyme I171F, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	9.5	Butyraldehyde	*wild type enzyme, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	12.6	Butyraldehyde	*mutant enzyme I195A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	16.7	Butyraldehyde	*mutant enzyme I171A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	13	pentaldehyde	*mutant enzyme I195A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	1.9	picolinaldehyde	*mutant enzyme I171A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	2.4	picolinaldehyde	*mutant enzyme I171F, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	2.8	picolinaldehyde	*wild type enzyme, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)
+KCAT	Paraburkholderia xenovorans	3.2	picolinaldehyde	*mutant enzyme I195A, at 25&Acirc;&deg;C in 100 mM HEPES buffer (pH 8.0)

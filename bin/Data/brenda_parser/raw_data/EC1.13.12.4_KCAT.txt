@@ -1,0 +1,1 @@
+ecNumber*1.13.12.4#turnoverNumber*0.0148#turnoverNumberMaximum*#substrate*(S)-lactate#commentary*#organism*Mycolicibacterium smegmatis#ligandStructureId*669#literature*440397#

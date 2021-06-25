@@ -1,0 +1,11 @@
+KCAT	Phytophthora sojae	1.4	glycocyamine	*recombinant enzyme, pH 9.0, 30&deg;C
+KCAT	Clonorchis sinensis	4.5	ATP	*recombinant domain D2, pH 8.0, 25&deg;C
+KCAT	Clonorchis sinensis	4.5	Taurocyamine	*recombinant domain D2, pH 8.0, 25&deg;C
+KCAT	Arenicola brasiliensis	9.43	Taurocyamine	*
+KCAT	Riftia pachyptila	12.5	Taurocyamine	*
+KCAT	Arenicola brasiliensis	14.3	Taurocyamine	*
+KCAT	Clonorchis sinensis	17.78	ATP	*recombinant full-length enzyme, pH 8.0, 25&deg;C
+KCAT	Clonorchis sinensis	17.78	Taurocyamine	*recombinant full-length enzyme, pH 8.0, 25&deg;C
+KCAT	Clonorchis sinensis	22.59	ATP	*recombinant domain D1, pH 8.0, 25&deg;C
+KCAT	Clonorchis sinensis	22.59	Taurocyamine	*recombinant domain D1, pH 8.0, 25&deg;C
+KCAT	Phytophthora sojae	94.1	Taurocyamine	*recombinant enzyme, pH 9.0, 30&deg;C

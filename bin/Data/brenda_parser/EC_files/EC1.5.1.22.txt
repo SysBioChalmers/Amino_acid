@@ -1,0 +1,15 @@
+KCAT	Marphysa sanguinea	3.86	NAD+	*apparent value, isozyme St/AlDH1, with 20 mM D-strombine, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	3.96	NAD+	*apparent value, isozyme St/AlDH1, with 20 mM meso-alanopine, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	43.58	NADH	*apparent value, isozyme St/AlDH1, with 5 mM pyruvate and 100 mM Gly, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	44.7	NADH	*apparent value, isozyme St/AlDH1, with 5 mM pyruvate and 100 mM L-Ala, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	47.33	pyruvate	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM Gly, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	47.78	pyruvate	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM L-Ala, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	42.66	oxaloacetate	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM Gly, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	44.25	oxaloacetate	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM L-Ala, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	50.08	Gly	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 5 mM pyruvate, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	51.7	L-Ala	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 5 mM pyruvate, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	23.64	L-Ser	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 5 mM pyruvate, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	21.77	2-Ketobutyrate	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM Gly, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	23.2	2-Ketobutyrate	*apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM L-Ala, in 0.1 M PIPES-NaOH (pH 7.2), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	5.12	meso-Alanopine	*apparent value, isozyme St/AlDH1, with 1 mM NAD+, in 0.1 M PIPES-NaOH (pH 9.1), at 30&Acirc;&deg;C
+KCAT	Marphysa sanguinea	4.99	D-strombine	*apparent value, isozyme St/AlDH1, with 1 mM NAD+, in 0.1 M PIPES-NaOH (pH 9.1), at 30&Acirc;&deg;C

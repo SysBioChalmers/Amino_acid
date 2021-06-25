@@ -1,0 +1,228 @@
+KCAT	Pleurotus eryngii	2	Mn2+	*25&Acirc;&deg;C, pH 5, mutant E36A/E40A/D175A; 25&Acirc;&deg;C, pH 5, mutant E36A/E40A/D175A/P327ter
+KCAT	Bjerkandera fumosa	3.9	Mn2+	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Pleurotus eryngii	5	Mn2+	*25&Acirc;&deg;C, pH 5, mutant E36A/E40A
+KCAT	Pleurotus ostreatus	6.2	Mn2+	*at pH 5.0 and 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	15	Mn2+	*25&Acirc;&deg;C, pH 5, mutant E40A
+KCAT	Pleurotus eryngii	32	Mn2+	*25&Acirc;&deg;C, pH 5, mutant D175A
+KCAT	Pleurotus eryngii	54	Mn2+	*wild-type, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	54	Mn2+	*at pH 5.0 and 25&Acirc;&deg;C
+KCAT	Bjerkandera sp.	59	Mn2+	*pH 4.5
+KCAT	Pleurotus eryngii	75	Mn2+	*mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	78	Mn2+	*pH 5.0, isoenzyme PS3
+KCAT	Pleurotus eryngii	79	Mn2+	*pH 5.0, isoenzyme PS1
+KCAT	Pleurotus eryngii	85	Mn2+	*25&Acirc;&deg;C, pH 5, mutant E36A
+KCAT	Pleurotus eryngii	103	Mn2+	*25&Acirc;&deg;C, pH 5, mutant E36D
+KCAT	Pleurotus eryngii	110	Mn2+	*
+KCAT	Pleurotus eryngii	138	Mn2+	*pH 5.0, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	145	Mn2+	*25&Acirc;&deg;C, pH 5, mutant E40D
+KCAT	Pleurotus eryngii	164	Mn2+	*mutant enzyme W164Y
+KCAT	Pleurotus eryngii	207	Mn2+	*mutant W164S, pH 5.0
+KCAT	Pleurotus eryngii	207	Mn2+	*mutant enzyme R257A/A260F; mutant enzyme W164S
+KCAT	Pleurotus eryngii	216	Mn2+	*mutant enzyme W164Y/R257A/A260F
+KCAT	Pleurotus eryngii	247	Mn2+	*mutant W164S/P76H, pH 5.0
+KCAT	Pleurotus eryngii	275	Mn2+	*native recombinant enzyme
+KCAT	Pleurotus eryngii	291	Mn2+	*mutant P76H, pH 5.0
+KCAT	Pleurotus eryngii	298	Mn2+	*0.000083 1/sec/mg, incubates 30 min at 37&Acirc;&deg;C, pH 9.0, spectrophotometrically measured at 415 nm; wild-type, pH 5.0
+KCAT	Pleurotus eryngii	308	Mn2+	*mutant H232F, pH 5.0
+KCAT	Pleurotus eryngii	320	Mn2+	*mutant W164H, pH 5.0
+KCAT	Pleurotus eryngii	328	Mn2+	*mutant enzyme W164H
+KCAT	Pleurotus eryngii	467	Mn2+	*25&Acirc;&deg;C, pH 5, mutant A173R
+KCAT	Pleurotus ostreatus	0.6	H2O2	*at pH 5.0 and 25&Acirc;&deg;C
+KCAT	Rhodococcus jostii	1.8	H2O2	*mutant D153H, pH 5.5, 25&Acirc;&deg;C
+KCAT	Rhodococcus jostii	3.2	H2O2	*wild-type, pH 5.5, 25&Acirc;&deg;C
+KCAT	Rhodococcus jostii	5.4	H2O2	*mutant N246A, pH 5.5, 25&Acirc;&deg;C
+KCAT	Rhodococcus jostii	19	H2O2	*mutant D153A/N246A, pH 5.5, 25&Acirc;&deg;C
+KCAT	Rhodococcus jostii	51	H2O2	*mutant D153A, pH 5.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera sp.	75	H2O2	*pH 4.5
+KCAT	Pleurotus eryngii	135	H2O2	*wild-type, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	490	H2O2	*mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	8	catechol	*mutant W164S, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	75	catechol	*mutant F142G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	78	catechol	*mutant P141G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	80	catechol	*mutant K176G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	81	catechol	*mutant K215Q, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	85	catechol	*mutant K215G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	94	catechol	*mutant K176D, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	99	catechol	*mutant P76G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	105.6	catechol	*mutant E140G/P141G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	135.7	catechol	*mutant E140G/P141G/K176G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	164	catechol	*mutant E140G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	164.8	catechol	*mutant E140G/W164S/K176G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	185	catechol	*wild-type, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	185.6	catechol	*mutant E140G/K176G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera sp.	2.3	2,6-dimethoxyphenol	*pH 4.5
+KCAT	Pleurotus eryngii	4.6	2,6-dimethoxyphenol	*mutant E140G/P141G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	4.8	2,6-dimethoxyphenol	*mutant P141G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	5.6	2,6-dimethoxyphenol	*wild-type, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	6.2	2,6-dimethoxyphenol	*mutant P76G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	7.6	2,6-dimethoxyphenol	*mutant K215Q, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	9.3	2,6-dimethoxyphenol	*mutant K176G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	9.5	2,6-dimethoxyphenol	*mutant K215G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	9.8	2,6-dimethoxyphenol	*mutant F142G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	10	2,6-dimethoxyphenol	*mutant E140G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera fumosa	10.6	2,6-dimethoxyphenol	*absence of Mn2+, pH not specified in the publication, temperature not specified in the publication
+KCAT	Pleurotus eryngii	10.6	2,6-dimethoxyphenol	*mutant K176D, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	17.3	2,6-dimethoxyphenol	*mutant E140G/K176G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	20.4	2,6-dimethoxyphenol	*mutant E140G/P141G/K176G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	29.8	2,6-dimethoxyphenol	*wild-type, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera fumosa	30	2,6-dimethoxyphenol	*presence of Mn2+, pH not specified in the publication, temperature not specified in the publication
+KCAT	Pleurotus eryngii	47.6	2,6-dimethoxyphenol	*mutant W164S, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	50.2	2,6-dimethoxyphenol	*mutant E140G/W164S/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	56.6	2,6-dimethoxyphenol	*mutant E140G/P141G/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	58	2,6-dimethoxyphenol	*mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	61	2,6-dimethoxyphenol	*mutant E140G/P141G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	67	2,6-dimethoxyphenol	*mutant E140G/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	74.5	2,6-dimethoxyphenol	*mutant K215Q, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	98	2,6-dimethoxyphenol	*wild-type, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	98	2,6-dimethoxyphenol	*at pH 3.0 and 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	141	2,6-dimethoxyphenol	*mutant P141G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	231.6	2,6-dimethoxyphenol	*mutant K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	293	2,6-dimethoxyphenol	*mutant E140G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	9.3	guaiacol	*mutant P141G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	16.2	guaiacol	*mutant K215G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	17.5	guaiacol	*mutant F142G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	22.7	guaiacol	*wild-type, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	23.8	guaiacol	*mutant K215Q, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	26.2	guaiacol	*mutant P76G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	29.8	guaiacol	*mutant K176D, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	30.6	guaiacol	*mutant W164S, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	33.3	guaiacol	*mutant K176G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	34.8	guaiacol	*mutant E140G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	105.6	guaiacol	*mutant E140G/P141G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	135.7	guaiacol	*mutant E140G/P141G/K176G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	164.8	guaiacol	*mutant E140G/W164S/K176G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	185.6	guaiacol	*mutant E140G/K176G, pH 3.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera sp.	1.4	veratryl alcohol	*pH 4.5
+KCAT	Bjerkandera sp.	2.8	veratryl alcohol	*pH 3.0
+KCAT	Pleurotus eryngii	4	veratryl alcohol	*pH 3.0, isoenzyme PS1
+KCAT	Pleurotus eryngii	4.3	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant M247F
+KCAT	Pleurotus eryngii	5	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant M247L
+KCAT	Pleurotus eryngii	6.4	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C
+KCAT	Bjerkandera fumosa	7.08	veratryl alcohol	*absence of Mn2+, pH 3.0, temperature not specified in the publication
+KCAT	Pleurotus eryngii	7.5	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant A260F
+KCAT	Pleurotus eryngii	8	veratryl alcohol	*H196A mutant, 30&Acirc;&deg;C, pH 6.5; wild-type, pH 3.0
+KCAT	Pleurotus eryngii	8.2	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant K264A
+KCAT	Pleurotus eryngii	9.5	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, wild-type
+KCAT	Pleurotus eryngii	9.5	veratryl alcohol	*native recombinant enzyme
+KCAT	Pleurotus eryngii	9.6	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant S158D; pH 3.0, 25&Acirc;&deg;C, mutant S158E
+KCAT	Pleurotus eryngii	10.9	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant R257K
+KCAT	Pleurotus eryngii	11	veratryl alcohol	*mutant P76H, pH 3.0
+KCAT	Pleurotus eryngii	13	veratryl alcohol	*
+KCAT	Pleurotus eryngii	14	veratryl alcohol	*mutant H232F, pH 3.0
+KCAT	Pleurotus eryngii	17.9	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant R257A/A260F
+KCAT	Pleurotus eryngii	17.9	veratryl alcohol	*mutant enzyme R257A/A260F
+KCAT	Pleurotus eryngii	19.6	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant R257D
+KCAT	Bjerkandera fumosa	26.8	veratryl alcohol	*presence of Mn2+, pH 4.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	27.3	veratryl alcohol	*pH 3.0, 25&Acirc;&deg;C, mutant R257L
+KCAT	Pleurotus sapidus	1600	veratryl alcohol	*at 30&Acirc;&deg;C and pH 4.5
+KCAT	Bjerkandera adusta	0.18	methylene blue	*lignin peroxidase activity, pH 3.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera adusta	2.92	methylene blue	*manganese peroxidase activity, pH 4.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera fumosa	0.22	syringaldazine	*absence of Mn2+, pH 7.0, temperature not specified in the publication
+KCAT	Bjerkandera fumosa	6.1	syringaldazine	*presence of Mn2+, pH 7.0, temperature not specified in the publication
+KCAT	Pleurotus eryngii	0.7	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant M247F
+KCAT	Bjerkandera sp.	1.3	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 4.5
+KCAT	Bjerkandera fumosa	2.77	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*absence of Mn2+, pH 3.0, temperature not specified in the publication
+KCAT	Pleurotus eryngii	4.9	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant M247L
+KCAT	Pleurotus eryngii	5.4	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	5.9	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant A260F
+KCAT	Bjerkandera fumosa	6.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*presence of Mn2+, pH 3.0, temperature not specified in the publication
+KCAT	Pleurotus eryngii	6.6	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant P76G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	7.7	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant S158D
+KCAT	Pleurotus eryngii	7.9	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant K215Q, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	8.1	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, wild-type
+KCAT	Pleurotus eryngii	8.1	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*wild-type, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	8.8	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant K264A
+KCAT	Pleurotus eryngii	9.1	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant S158E
+KCAT	Pleurotus eryngii	10.9	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant F142G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	11.8	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant R257K
+KCAT	Pleurotus eryngii	12.6	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant E140G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	13.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant K176G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	13.8	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant K176D, high efficiency site, pH 3.5, 25&Acirc;&deg;C; mutant K215G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	16.1	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant P141G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	18.6	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant R257A/A260F
+KCAT	Pleurotus eryngii	19.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant E140G/P141G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	22.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*pH 3.5, 25&Acirc;&deg;C, mutant R257L
+KCAT	Pleurotus eryngii	93	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant P141G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	146	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant P76G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	154	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant F142G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	162	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant E140G/P141G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	165	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant K215Q, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	186	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*wild-type, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	204	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant K215G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	205	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant W164S, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	216	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant E140G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	220	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*wild-type, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	220	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*at pH 3.0 and 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	223	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant K176D, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	227	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant E140G/W164S/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	235	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant E140G/P141G/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	259	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	326	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant E140G/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	365	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus sapidus	12300	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	*at 30&Acirc;&deg;C and pH 4.5
+KCAT	Pleurotus sapidus	1000	beta-carotene	*at 30&Acirc;&deg;C and pH 4.5
+KCAT	Pleurotus eryngii	0.4	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant M247F
+KCAT	Pleurotus eryngii	2.3	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant R257K
+KCAT	Pleurotus eryngii	2.7	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	3.1	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant A260F
+KCAT	Pleurotus eryngii	3.3	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant M247L
+KCAT	Pleurotus eryngii	4.2	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant K264A
+KCAT	Pleurotus eryngii	4.6	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant S158E
+KCAT	Pleurotus eryngii	4.7	Reactive Black 5	*mutant H232F, pH 3.5
+KCAT	Bjerkandera adusta	4.8	Reactive Black 5	*pH 4.0
+KCAT	Pleurotus eryngii	4.9	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant S158D
+KCAT	Pleurotus eryngii	5	Reactive Black 5	*pH 3.0, isoenzyme PS1
+KCAT	Pleurotus eryngii	5	Reactive Black 5	*0.0 M NaCl, 55.6 IgG relative content, 5.5% relative DNase activity; wild-type, pH 3.5
+KCAT	Pleurotus eryngii	5.5	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, wild-type
+KCAT	Pleurotus eryngii	5.5	Reactive Black 5	*native recombinant enzyme
+KCAT	Pleurotus eryngii	6	Reactive Black 5	*mutant P76H, pH 3.5
+KCAT	Pleurotus eryngii	9.1	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant R257A/A260F
+KCAT	Pleurotus eryngii	9.1	Reactive Black 5	*mutant enzyme R257A/A260F
+KCAT	Pleurotus eryngii	10.6	Reactive Black 5	*mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	11.6	Reactive Black 5	*pH 3.5, 25&Acirc;&deg;C, mutant R257L
+KCAT	Pleurotus eryngii	11.8	Reactive Black 5	*wild-type, pH 3.5, temperature not specified in the publication
+KCAT	Pleurotus eryngii	11.8	Reactive Black 5	*at pH 3.0 and 25&Acirc;&deg;C
+KCAT	Pleurotus ostreatus	54	Reactive Black 5	*at pH 3.5 and 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	7.2	4-hydroquinone	*mutant K215G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	8	4-hydroquinone	*mutant K176D, high efficiency site, pH 3.5, 25&Acirc;&deg;C; mutant P76G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	9.71	4-hydroquinone	*mutant F142G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	10.3	4-hydroquinone	*wild-type, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	11.4	4-hydroquinone	*mutant K215Q, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	11.6	4-hydroquinone	*mutant K176G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	14.6	4-hydroquinone	*mutant E140G/P141G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	15.6	4-hydroquinone	*mutant P141G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	16.2	4-hydroquinone	*mutant E140G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	19.2	4-hydroquinone	*mutant F142G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	20	4-hydroquinone	*mutant E140G/K176G, high efficiency site, pH 3.5, 25&Acirc;&deg;C; mutant W164S, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	20.4	4-hydroquinone	*mutant E140G/P141G/K176G, high efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	25.2	4-hydroquinone	*mutant K176D, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	25.8	4-hydroquinone	*mutant K215G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	29.9	4-hydroquinone	*mutant P76G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	35.1	4-hydroquinone	*wild-type, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	35.2	4-hydroquinone	*mutant K215Q, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	65.5	4-hydroquinone	*mutant E140G/P141G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	70.6	4-hydroquinone	*mutant K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	72.9	4-hydroquinone	*mutant E140G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	82.1	4-hydroquinone	*mutant E140G/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	82.2	4-hydroquinone	*mutant E140G/P141G/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	85.6	4-hydroquinone	*mutant E140G/W164S/K176G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	108	4-hydroquinone	*mutant P141G, low efficiency site, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	4	methoxyhydroquinone	*pH 3.0, isoenzyme PS1
+KCAT	Pleurotus eryngii	17	methoxyhydroquinone	*
+KCAT	Pleurotus eryngii	19	methoxyhydroquinone	*pH 3.0, isoenzyme PS3
+KCAT	Pleurotus ostreatus	0.83	Orange II	*at pH 3.0 and 25&Acirc;&deg;C
+KCAT	Bjerkandera adusta	0.02	humic acid	*Hill coefficient 2.8, presence of Mn2+, pH 3.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera adusta	0.021	humic acid	*Hill coefficient 1.2, absence of Mn2+, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	3	syringol	*pH 3.0, isoenzyme PS3
+KCAT	Pleurotus eryngii	6	syringol	*pH 3.0, isoenzyme PS1
+KCAT	Pleurotus sapidus	54500	syringol	*at 30&Acirc;&deg;C and pH 4.5
+KCAT	Bjerkandera fumosa	0.19	2,7-diaminofluorene	*absence of Mn2+, pH 4.5, temperature not specified in the publication
+KCAT	Bjerkandera fumosa	0.83	2,7-diaminofluorene	*presence of Mn2+, pH 7.0, temperature not specified in the publication
+KCAT	Bjerkandera adusta	2.4	2-methylanthracene	*pH 4.0
+KCAT	Pleurotus eryngii	4	p-dimethoxybenzene	*pH 3.0, isoenzyme PS1
+KCAT	Bjerkandera adusta	19.8	Reactive Blue 38	*pH 4.0
+KCAT	Bjerkandera adusta	10	Reactive Blue 72	*pH 4.0
+KCAT	Bjerkandera adusta	16.9	Reactive Violet 5	*pH 4.0
+KCAT	Bjerkandera adusta	0.018	fulvic acid	*Hill coefficient 3.6, absence of Mn2+, pH 3.5, 25&Acirc;&deg;C
+KCAT	Bjerkandera adusta	0.045	fulvic acid	*Hill coefficient 3.0, presence of Mn2+, pH 3.5, 25&Acirc;&deg;C
+KCAT	Pleurotus eryngii	47	manganese(II)-substituted polyoxometalate	*in 0.1 M sodium tartrate, pH 5.0, at 20&Acirc;&deg;C

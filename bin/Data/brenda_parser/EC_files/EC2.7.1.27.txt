@@ -1,0 +1,2 @@
+KCAT	Brucella abortus	230	ATP	*pH 8.0, 25&deg;C, recombinant erythritol kinase
+KCAT	Brucella abortus	230	meso-erythritol	*pH 8.0, 25&deg;C, recombinant erythritol kinase

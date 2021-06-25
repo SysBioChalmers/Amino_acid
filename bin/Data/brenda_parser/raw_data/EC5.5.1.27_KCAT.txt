@@ -1,0 +1,1 @@
+ecNumber*5.5.1.27#turnoverNumber*16#turnoverNumberMaximum*#substrate*D-galactaro-1,5-lactone#commentary*mutant enzyme N240D, pH and temperature not specified in the publication#organism*Agrobacterium tumefaciens#ligandStructureId*200980#literature*747077#

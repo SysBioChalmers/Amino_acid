@@ -1,0 +1,2 @@
+KCAT	Pseudomonas aeruginosa	0.0165	2-aminobenzoyl-CoA	*pH 7, 37&deg;C
+KCAT	Pseudomonas aeruginosa	0.0165	3-oxodecanoate	*pH 7, 37&deg;C

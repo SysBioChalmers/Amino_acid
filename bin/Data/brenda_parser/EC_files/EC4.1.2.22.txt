@@ -1,0 +1,23 @@
+KCAT	Lactobacillus plantarum	1.12	phosphate	*at pH 6.0 and 37&Acirc;&deg;C
+KCAT	Bifidobacterium breve	25.7	phosphate	*in 40 mM potassium phosphate pH 6.5, 25 mM MES buffer pH 6.5, 0.02 mM ThDP and 0.1 mM MgCl2, at 22&Acirc;&deg;C
+KCAT	Bifidobacterium breve	0.2	D-fructose 6-phosphate	*mutant enzyme H142A, pH and temperature not specified in the publication
+KCAT	Bifidobacterium breve	0.65	D-fructose 6-phosphate	*mutant enzyme H142N, pH and temperature not specified in the publication
+KCAT	Bifidobacterium breve	0.99	D-fructose 6-phosphate	*mutant enzyme Q321A, pH and temperature not specified in the publication
+KCAT	Lactobacillus plantarum	1.05	D-fructose 6-phosphate	*at pH 6.0 and 37&Acirc;&deg;C
+KCAT	Bifidobacterium breve	1.67	D-fructose 6-phosphate	*mutant enzyme H548A, pH and temperature not specified in the publication
+KCAT	Bifidobacterium breve	3.28	D-fructose 6-phosphate	*mutant enzyme Y501F, pH and temperature not specified in the publication
+KCAT	Bifidobacterium breve	5.83	D-fructose 6-phosphate	*mutant enzyme S440A, pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	13.05	D-fructose 6-phosphate	*at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	13.1	D-fructose 6-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Bifidobacterium breve	25.67	D-fructose 6-phosphate	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bifidobacterium breve	25.7	D-fructose 6-phosphate	*in 40 mM potassium phosphate pH 6.5, 25 mM MES buffer pH 6.5, 0.02 mM ThDP and 0.1 mM MgCl2, at 22&Acirc;&deg;C
+KCAT	Leuconostoc mesenteroides subsp. mesenteroides	44.2	D-fructose 6-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Leuconostoc mesenteroides	44.23	D-fructose 6-phosphate	*at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Lactococcus lactis	117.76	D-fructose 6-phosphate	*at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Lactococcus lactis subsp. lactis	117.8	D-fructose 6-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	13.18	D-xylulose 5-phosphate	*at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	13.2	D-xylulose 5-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Leuconostoc mesenteroides	431.78	D-xylulose 5-phosphate	*at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Leuconostoc mesenteroides subsp. mesenteroides	431.8	D-xylulose 5-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Lactococcus lactis	587.76	D-xylulose 5-phosphate	*at pH 6.5 and 37&Acirc;&deg;C
+KCAT	Lactococcus lactis subsp. lactis	587.8	D-xylulose 5-phosphate	*pH 6.5, 37&Acirc;&deg;C

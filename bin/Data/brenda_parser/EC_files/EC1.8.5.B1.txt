@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	4.83	dimethyl sulfoxide	*25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Escherichia coli	14.8	Trimethylamine N-oxide	*presence of 1 M urea, 25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Escherichia coli	19	Trimethylamine N-oxide	*25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Escherichia coli	25.6	L-methionine sulfoxide	*25&Acirc;&deg;C, pH not specified in the publication
+KCAT	Escherichia coli	18.1	tetrahydrothiophene oxide	*25&Acirc;&deg;C, pH not specified in the publication

@@ -1,0 +1,12 @@
+KCAT	Lentzea aerocolonigenes	0.0023	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme H140A
+KCAT	Lentzea aerocolonigenes	0.005	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme D166A
+KCAT	Lentzea aerocolonigenes	0.0063	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme P75S
+KCAT	Lentzea aerocolonigenes	0.01	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme H141A
+KCAT	Lentzea aerocolonigenes	0.017	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme W134Y
+KCAT	Lentzea aerocolonigenes	0.023	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme S138A
+KCAT	Lentzea aerocolonigenes	0.025	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme L136V
+KCAT	Lentzea aerocolonigenes	0.047	S-adenosyl-L-methionine	*pH 8.0, 30&Acirc;&deg;C, cosubstrate: dechlorinated 4'-demethyl-rebeccamycin
+KCAT	Lentzea aerocolonigenes	0.047	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Lentzea aerocolonigenes	0.048	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme C70A
+KCAT	Lentzea aerocolonigenes	0.072	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme C70S
+KCAT	Lentzea aerocolonigenes	0.047	dechlorinated 4'-demethyl-rebeccamycin	*pH 8.0, 30&Acirc;&deg;C

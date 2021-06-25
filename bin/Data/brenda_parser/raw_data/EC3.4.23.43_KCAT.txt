@@ -1,0 +1,1 @@
+ecNumber*3.4.23.43#turnoverNumber*3#turnoverNumberMaximum*#substrate*prepilin type IV#commentary*#organism*Pseudomonas aeruginosa#ligandStructureId*#literature*668803#

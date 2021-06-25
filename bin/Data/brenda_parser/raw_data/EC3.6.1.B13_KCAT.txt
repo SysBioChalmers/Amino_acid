@@ -1,0 +1,1 @@
+ecNumber*3.6.1.B13#turnoverNumber*9.8#turnoverNumberMaximum*#substrate*P1,P6-bis(5'-adenosyl)hexaphosphate#commentary*pH 7.6, 37&deg;C#organism*Arabidopsis thaliana#ligandStructureId*2615#literature*714949#

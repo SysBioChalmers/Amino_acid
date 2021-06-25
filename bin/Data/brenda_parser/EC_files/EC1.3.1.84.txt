@@ -1,0 +1,7 @@
+KCAT	Sulfurisphaera tokodaii	13	NADPH	*pH 6.0, 65&Acirc;&deg;C
+KCAT	Escherichia coli	45	acrylyl-CoA	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	45	acrylyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Ruegeria pomeroyi	60	acrylyl-CoA	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	60	acrylyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Rhodobacter sphaeroides	80	acrylyl-CoA	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Rhodobacter sphaeroides	80	acrylyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme

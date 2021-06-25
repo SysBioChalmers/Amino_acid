@@ -1,12 +1,12 @@
-Amino acid biosynthesis
+Amino acid biosynthetic costs
 ===============
 
 Introduction
 ------------
 
-This repository contains codes for calculating cost for synthesizing each amino acid.
+This repository contains codes for calculating cost for synthesizing each amino acid in yeast.
 
-* Last update: 2020-11-10
+* Last update: 2021-06-25
 
 
 Required Software & Repository
@@ -14,6 +14,7 @@ Required Software & Repository
 
 * A functional Matlab installation.
 * The [COBRA toolbox for MATLAB](https://github.com/opencobra/cobratoolbox).
+* The yeast kapp dataset (https://github.com/SysBioChalmers/Yeast_kapp).
 
 
 Contact

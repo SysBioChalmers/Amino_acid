@@ -1,0 +1,1 @@
+ecNumber*6.2.1.37#turnoverNumber*15#turnoverNumberMaximum*#substrate*3-hydroxybenzoate#commentary*pH and temperature not specified in the publication#organism*Thauera aromatica#ligandStructureId*1002#literature*712275#

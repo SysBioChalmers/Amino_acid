@@ -1,0 +1,2 @@
+KCAT	Histoplasma capsulatum	83.3	NO	*in 100 mM potassium phosphate (pH 7.5), at 25&deg;C
+KCAT	Fusarium oxysporum	1200	NO	*in 0.1 mM sodium phosphate, pH 7.2, at 10&deg;C

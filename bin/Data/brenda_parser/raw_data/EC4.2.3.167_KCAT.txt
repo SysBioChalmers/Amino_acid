@@ -1,0 +1,1 @@
+ecNumber*4.2.3.167#turnoverNumber*0.83#turnoverNumberMaximum*#substrate*geranylgeranyl diphosphate#commentary*pH not specified in the publication, temperature not specified in the publication#organism*Arabidopsis thaliana#ligandStructureId*231#literature*742598#

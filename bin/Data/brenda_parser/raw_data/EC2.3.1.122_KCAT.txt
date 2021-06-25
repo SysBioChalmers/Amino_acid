@@ -1,0 +1,1 @@
+ecNumber*2.3.1.122#turnoverNumber*1.09#turnoverNumberMaximum*#substrate*alpha,alpha-trehalose 6-monomycolate#commentary*pH 5.7, 37&Acirc;&deg;C#organism*Mycolicibacterium smegmatis#ligandStructureId*12075#literature*705100#

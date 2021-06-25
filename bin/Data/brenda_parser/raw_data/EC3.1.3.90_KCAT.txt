@@ -1,0 +1,1 @@
+ecNumber*3.1.3.90#turnoverNumber*128#turnoverNumberMaximum*#substrate*maltose 6'-phosphate#commentary*pH 7.0, temperature not specified in the publication#organism*Enterococcus faecalis#ligandStructureId*5178#literature*723222#

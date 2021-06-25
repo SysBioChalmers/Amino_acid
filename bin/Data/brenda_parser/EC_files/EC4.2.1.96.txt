@@ -1,0 +1,8 @@
+KCAT	Rattus norvegicus	2.4	4a(S)-hydroxy-6(R)-methyltetrahydropterin	*mutant enzyme H62A
+KCAT	Rattus norvegicus	7.5	4a(S)-hydroxy-6(R)-methyltetrahydropterin	*mutant enzyme H79A
+KCAT	Rattus norvegicus	8.6	4a(R)-hydroxy-6(S)-methyltetrahydropterin	*mutant enzyme H61A
+KCAT	Rattus norvegicus	8.9	4a(R)-hydroxy-6(S)-methyltetrahydropterin	*mutant enzyme H62A
+KCAT	Rattus norvegicus	10	4a(R)-hydroxy-6(S)-methyltetrahydropterin	*wild type enzyme
+KCAT	Rattus norvegicus	10	4a(S)-hydroxy-6(R)-methyltetrahydropterin	*wild type enzyme
+KCAT	Homo sapiens	23	(6R)-6-(L-erythro-1,2-dihydroxypropyl)-5,6,7,8-tetrahydro-4a-hydroxypterin	*N61D; N61D/Q45R/K98Q; Q45R/K98Q
+KCAT	Homo sapiens	24	(6R)-6-(L-erythro-1,2-dihydroxypropyl)-5,6,7,8-tetrahydro-4a-hydroxypterin	*wild-type

@@ -1,0 +1,1 @@
+ecNumber*1.14.13.189#turnoverNumber*0.013#turnoverNumberMaximum*#substrate*NADPH#commentary*pH 9.0, 25&Acirc;&deg;C#organism*Streptomyces sahachiroi#ligandStructureId*5#literature*725941#

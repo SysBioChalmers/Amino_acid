@@ -1,0 +1,19 @@
+KCAT	Escherichia coli	0.022	D-2-deoxyribose	*pH 7.5, 25&deg;C, K172E mutant
+KCAT	Escherichia coli	0.064	D-2-deoxyribose	*pH 7.5, 25&deg;C, R207E mutant
+KCAT	Escherichia coli	0.107	D-2-deoxyribose	*pH 7.5, 25&deg;C, wild-type
+KCAT	Escherichia coli	0.175	D-2-deoxyribose	*pH 7.5, 25&deg;C, S239E mutant
+KCAT	Escherichia coli	0.21	D-2-deoxyribose	*pH 7.5, 25&deg;C, S238D mutant
+KCAT	Escherichia coli	0.58	2-deoxy-D-ribose 5-phosphate	*pH 7.5, 25&deg;C, S238D mutant
+KCAT	Rhodococcus erythropolis	1.23	2-deoxy-D-ribose	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	1.4	2-deoxy-D-ribose 5-phosphate	*pH 8.0, 30&deg;C, mutant enzyme S238I/S239I
+KCAT	Thermus thermophilus	5	2-deoxy-D-ribose 5-phosphate	*pH 7.4, 25&deg;C
+KCAT	Escherichia coli	6.08	2-deoxy-D-ribose 5-phosphate	*pH 7.5, 25&deg;C, S238D mutant
+KCAT	Escherichia coli	11	2-deoxy-D-ribose 5-phosphate	*pH 8.0, 30&deg;C, mutant enzyme S239P
+KCAT	Thermus thermophilus	11.4	2-deoxy-D-ribose 5-phosphate	*pH 7.4, 35&deg;C
+KCAT	Escherichia coli	15	2-deoxy-D-ribose 5-phosphate	*pH 8.0, 30&deg;C, wild-type enzyme
+KCAT	Rhodococcus erythropolis	18	2-deoxy-D-ribose 5-phosphate	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	41	2-deoxy-D-ribose 5-phosphate	*pH 7.5, 25&deg;C, S239E mutant
+KCAT	Escherichia coli	68	2-deoxy-D-ribose 5-phosphate	*pH 7.5, 25&deg;C, wild-type
+KCAT	Thermococcus kodakarensis	116	2-deoxy-D-ribose 5-phosphate	*95&deg;C
+KCAT	Paenibacillus sp.	320	2-deoxy-D-ribose 5-phosphate	*in 100 mM Tris-HCl buffer (pH 8.8), at 50&deg;C
+KCAT	Escherichia coli	521	2-deoxy-D-ribose 5-phosphate	*

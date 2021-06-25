@@ -1,0 +1,6 @@
+KCAT	Methanocaldococcus jannaschii	5	NADP+	*pH and temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	6.9	NADPH	*pH and temperature not specified in the publication
+KCAT	Archaeoglobus fulgidus	26.3	NADP+	*pH and temperature not specified in the publication
+KCAT	Archaeoglobus fulgidus	40.3	NADPH	*pH and temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	212	NADP+	*pH and temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	236	NADPH	*pH and temperature not specified in the publication

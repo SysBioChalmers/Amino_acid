@@ -1,0 +1,1 @@
+ecNumber*1.4.3.24#turnoverNumber*151#turnoverNumberMaximum*#substrate*4-(methylamino)-1-(pyridin-3-yl)butan-1-one#commentary*pH 8.0, temperature not specified in the publication#organism*Pseudomonas sp.#ligandStructureId*28623#literature*718644#

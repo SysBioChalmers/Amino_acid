@@ -1,0 +1,6 @@
+KCAT	Haemophilus influenzae	0.14	D-ribitol 5-phosphate	*pH 7.2, 25&deg;C, R18A mutant
+KCAT	Staphylococcus aureus	2.8	CTP	*pH 7.2
+KCAT	Haemophilus influenzae	9.7	D-ribitol 5-phosphate	*pH 7.2, 25&deg;C, K386A mutant
+KCAT	Haemophilus influenzae	13	D-ribitol 5-phosphate	*pH 7.2, 25&deg;C, wild-type enzyme
+KCAT	Haemophilus influenzae	23.5	CTP	*pH 7.2
+KCAT	Staphylococcus aureus	76.8	CTP	*pH 7.2

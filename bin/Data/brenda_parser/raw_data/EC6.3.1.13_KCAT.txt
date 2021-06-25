@@ -1,0 +1,1 @@
+ecNumber*6.3.1.13#turnoverNumber*3.15#turnoverNumberMaximum*#substrate*1D-myo-inositol 2-amino-2-deoxy-alpha-D-glycopyranoside#commentary*pH 7.8, 25&Acirc;&deg;C, recombinant enzyme#organism*Mycolicibacterium smegmatis#ligandStructureId*24550#literature*672220#

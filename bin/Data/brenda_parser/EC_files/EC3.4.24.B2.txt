@@ -1,0 +1,1 @@
+KCAT	Geobacillus thermoleovorans	5.99	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	*pH 7.3, 40&Acirc;&deg;C, recombinant wild-type enzyme

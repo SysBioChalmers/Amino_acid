@@ -1,0 +1,4 @@
+KCAT	Trimeresurus stejnegeri	0.23	ADP	*pH 7.4, 37&deg;C
+KCAT	Trimeresurus stejnegeri	0.82	nicotinamide adenine dinucleotide	*pH 7.4, 37&deg;C
+KCAT	Trimeresurus stejnegeri	2.68	ATP	*pH 7.4, 37&deg;C
+KCAT	Trimeresurus stejnegeri	3.65	nicotinamide guanine dinucleotide	*pH 7.4, 37&deg;C

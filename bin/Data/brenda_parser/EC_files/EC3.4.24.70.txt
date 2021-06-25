@@ -1,0 +1,14 @@
+KCAT	Escherichia coli	0.08	Abz-GESPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.1	Abz-GPSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.2	Abz-GDSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.2	Abz-GGSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.3	Abz-GSSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.4	Abz-GKSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.5	Abz-GASPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.5	Abz-GNSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.6	Abz-GQSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.74	Abz-GHSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	1.1	Abz-GFSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	1.5	Abz-GLSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	1.5	Abz-GYSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	2.4	Abz-GRSPFRQ-EDDnp	*pH 7.4, 37&deg;C, recombinant wild-type enzyme

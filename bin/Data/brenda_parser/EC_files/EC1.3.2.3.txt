@@ -1,0 +1,23 @@
+KCAT	Arabidopsis thaliana	0.22	L-gulono-1,4-lactone	*mutant E386A
+KCAT	Arabidopsis thaliana	0.7	L-galactono-1,4-lactone	*mutant R388A
+KCAT	Arabidopsis thaliana	1.2	D-arabinono-1,4-lactone	*mutant E386D
+KCAT	Arabidopsis thaliana	1.4	L-galactono-1,4-lactone	*mutant E386A
+KCAT	Arabidopsis thaliana	4	L-gulono-1,4-lactone	*in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	4	L-gulono-1,4-lactone	*wild-type enzyme
+KCAT	Arabidopsis thaliana	4.7	L-galactono-1,4-lactone	*mutant E386D
+KCAT	Arabidopsis thaliana	10.4	L-gulono-1,4-lactone	*mutant E386D
+KCAT	Arabidopsis thaliana	32	L-galactono-1,4-lactone	*mutant enzyme L56H, in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	45	L-galactono-1,4-lactone	*mutant enzyme L56IA in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	48.5	L-galactono-1,4-lactone	*mutant R388K
+KCAT	Arabidopsis thaliana	51	D-arabinono-1,4-lactone	*wild-type enzyme
+KCAT	Arabidopsis thaliana	59	L-galactono-1,4-lactone	*mutant C340S
+KCAT	Arabidopsis thaliana	64	phenazine methosulfate	*in the presence of L-galactono-1,4-lactone, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	76	L-galactono-1,4-lactone	*mutant enzyme L56C, in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	79	L-galactono-1,4-lactone	*mutant C340A
+KCAT	Arabidopsis thaliana	108	1,4-benzoquinone	*in the presence of L-galactono-1,4-lactone, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	126	L-galactono-1,4-lactone	*mutant enzyme L56F in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	134	L-galactono-1,4-lactone	*wild type enzyme, in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	134	L-galactono-1,4-lactone	*wild-type enzyme
+KCAT	Arabidopsis thaliana	134	L-galactono-1,4-lactone	*wild-type enzyme
+KCAT	Arabidopsis thaliana	151	cytochrome c	*in the presence of L-galactono-1,4-lactone, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C
+KCAT	Arabidopsis thaliana	240	L-galactono-1,4-lactone	*mutant enzyme L56I, in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25&deg;C

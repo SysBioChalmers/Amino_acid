@@ -1,0 +1,1 @@
+ecNumber*1.5.1.8#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*lower turnover number with S-2-aminoethyl-L-cysteine as substrate than with L-lysine#organism*Oryza sativa#ligandStructureId*#literature*392367#

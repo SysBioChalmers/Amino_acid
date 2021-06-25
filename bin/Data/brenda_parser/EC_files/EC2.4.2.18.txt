@@ -1,0 +1,61 @@
+KCAT	Saccharolobus solfataricus	-999	5-phospho-alpha-D-ribose 1-diphosphate	*I36E/M47D double mutant, kcat/KM: 0.0019 1/s*microM; wild-type, kcat/KM: 0.0023 1/s*microM
+KCAT	Saccharolobus solfataricus	0.014	5-phospho-alpha-D-ribose 1-diphosphate	*25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.035	5-phospho-alpha-D-ribose 1-diphosphate	*40&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.046	5-phospho-alpha-D-ribose 1-diphosphate	*mutant enzyme I36E/M47D/T77I/D83G/F149S/I169T/F193S/L320M, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.067	5-phospho-alpha-D-ribose 1-diphosphate	*50&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.105	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.4	5-phospho-alpha-D-ribose 1-diphosphate	*87&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.48	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 2 mM Mg2+, mutant enzyme K106Q
+KCAT	Saccharolobus solfataricus	0.62	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, mutant enzyme R164A
+KCAT	Saccharolobus solfataricus	0.73	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, mutant enzyme R164A/H154A
+KCAT	Saccharolobus solfataricus	0.78	5-phospho-alpha-D-ribose 1-diphosphate	*mutant enzyme I36E/M47D/D83G/N109S/F149S, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.1	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 2 mM Mg2+, wild-type enzyme
+KCAT	Saccharolobus solfataricus	1.2	5-phospho-alpha-D-ribose 1-diphosphate	*mutant enzyme I36E/M47D/T77I/D83G/F149S/N109S/I169T/F193S/L320M, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.3	5-phospho-alpha-D-ribose 1-diphosphate	*mutant enzyme I36E/M47D/T77I/D83G/F149S, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	2	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, mutant enzyme H107A/P178A
+KCAT	Saccharolobus solfataricus	2.7	5-phospho-alpha-D-ribose 1-diphosphate	*mutant enzyme I36E/M47D/D83G/F149S/F193S, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	3.4	5-phospho-alpha-D-ribose 1-diphosphate	*mutant enzyme I36E/M47D/D83G/F149S, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	3.5	5-phospho-alpha-D-ribose 1-diphosphate	*mutant enzyme I36E/M47D/D83G/F149S/I169T, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	3.9	5-phospho-alpha-D-ribose 1-diphosphate	*mutant enzyme I36E/M47D/D83G/F149S/L320M, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	4.2	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, wild-type enzyme
+KCAT	Escherichia coli	4.4	5-phospho-alpha-D-ribose 1-diphosphate	*
+KCAT	Saccharolobus solfataricus	5.1	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, mutant enzyme H107A
+KCAT	Saccharolobus solfataricus	5.6	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 2 mM Mg2+, mutant enzyme E224Q
+KCAT	Saccharolobus solfataricus	6	5-phospho-alpha-D-ribose 1-diphosphate	*60&Acirc;&deg;C, pH 7.5, 2 mM Mg2+, mutant enzyme D223N
+KCAT	Saccharolobus solfataricus	-999	anthranilate	*I36E/M47D double mutant, kcat/KM: 4.8 1/s*microM; wild-type, kcat/KM: 4.8 1/s*microM
+KCAT	Saccharolobus solfataricus	0.014	anthranilate	*25&Acirc;&deg;C; at 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.035	anthranilate	*40&Acirc;&deg;C; at 40&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.046	anthranilate	*mutant enzyme I36E/M47D/T77I/D83G/F149S/I169T/F193S/L320M, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.067	anthranilate	*50&Acirc;&deg;C; at 50&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.105	anthranilate	*60&Acirc;&deg;C; at 60&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.24	anthranilate	*wild-type, in the presence of 2 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.28	anthranilate	*+/-0.06, I36E/M47D double mutant, pH 7.2, 37&Acirc;&deg;C, 0.01 microM subunit concentration
+KCAT	Saccharolobus solfataricus	0.33	anthranilate	*wild-type, in the presence of 0.05 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37&Acirc;&deg;C
+KCAT	Ogataea henricii	0.34	anthranilate	*cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate
+KCAT	Saccharolobus solfataricus	0.4	anthranilate	*87&Acirc;&deg;C; at 87&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.41	anthranilate	*+/-0.04, wild-type, pH 7.2, 37&Acirc;&deg;C, 0.01 microM subunit concentration
+KCAT	Saccharolobus solfataricus	0.48	anthranilate	*60&Acirc;&deg;C, pH 7.5, 2 mM Mg2+, mutant enzyme K106Q
+KCAT	Saccharolobus solfataricus	0.62	anthranilate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, mutant enzyme R164A
+KCAT	Saccharolobus solfataricus	0.73	anthranilate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+,mutant enzyme R164A/H154A
+KCAT	Saccharolobus solfataricus	0.78	anthranilate	*mutant enzyme I36E/M47D/D83G/N109S/F149S, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.1	anthranilate	*60&Acirc;&deg;C, pH 7.5, 2 mM Mg2+, wild-type enzyme
+KCAT	Saccharolobus solfataricus	1.2	anthranilate	*mutant F149S, in the presence of 0.05 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.2	anthranilate	*mutant enzyme I36E/M47D/T77I/D83G/F149S/N109S/I169T/F193S/L320M, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.3	anthranilate	*mutant enzyme I36E/M47D/T77I/D83G/F149S, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	2	anthranilate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, mutant enzyme H107A/P178A
+KCAT	Saccharolobus solfataricus	2	anthranilate	*mutant D83G, in the presence of 2 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	2.7	anthranilate	*mutant enzyme I36E/M47D/D83G/F149S/F193S, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	2.9	anthranilate	*cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate
+KCAT	Saccharolobus solfataricus	3.4	anthranilate	*mutant enzyme I36E/M47D/D83G/F149S, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	3.5	anthranilate	*mutant enzyme I36E/M47D/D83G/F149S/I169T, pH 7.2, 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	3.9	anthranilate	*mutant enzyme I36E/M47D/D83G/F149S/L320M, pH 7.2, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.1	anthranilate	*cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.1	anthranilate	*cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate
+KCAT	Saccharolobus solfataricus	4.2	anthranilate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, wild-type enzyme
+KCAT	Escherichia coli	4.4	anthranilate	*
+KCAT	Saccharolobus solfataricus	4.4	anthranilate	*mutant D83G/F149S, in the presence of 0.05 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	5.1	anthranilate	*60&Acirc;&deg;C, pH 7.5, 0.05 mM Mg2+, mutant enzyme H107A
+KCAT	Saccharolobus solfataricus	5.6	anthranilate	*60&Acirc;&deg;C, pH 7.5, 2 mM Mg2+,mutant enzyme E224Q
+KCAT	Saccharolobus solfataricus	6	anthranilate	*60&Acirc;&deg;C, pH 7.5, 2 mM Mg2+,mutant enzyme D223N
+KCAT	Saccharolobus solfataricus	13.3	anthranilate	*mutant D83G/F149S, in the presence of 2 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	-999	more	*single mutants I36E and M47D show the same kcat as I36E/M47D double mutant within experimental error

@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	1.16	chondroitin 4-sulfate	*in 100 mM NaCl
+KCAT	Homo sapiens	0.072	C6-(Gly-Pro-Hyp-Pro-Hyp-Gly)2-Gly-Pro-Hyp-Gly-Thr-Lys(Mca)-Gly-Glu-Leu-Glu-Gly-Arg-Gly-Thr-Lys(Dnp)-Gly-Ile-Ser-(Gly-Pro-Hyp-Pro-Hyp-Gly)2-Gly-Pro-Hyp-NH2	*ADAMTS-4-2, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.433	C6-(Gly-Pro-Hyp-Pro-Hyp-Gly)2-Gly-Pro-Hyp-Gly-Thr-Lys(Mca)-Gly-Glu-Leu-Glu-Gly-Arg-Gly-Thr-Lys(Dnp)-Gly-Ile-Ser-(Gly-Pro-Hyp-Pro-Hyp-Gly)2-Gly-Pro-Hyp-NH2	*ADAMTS-4-2, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.012	[C6-(Gly-Pro-Hyp)5-Gly-Thr-Lys(7-amido-4-methylcoumarin)-Gly-Glu-Leu-Glu-Gly-Arg-Gly-Thr-Lys(2,4-dinitrophenyl)-Gly-Ile-Ser-(Gly-Pro-Hyp)5-NH2]3	*ADAMTS-4-2, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.181	[C6-(Gly-Pro-Hyp)5-Gly-Thr-Lys(7-amido-4-methylcoumarin)-Gly-Glu-Leu-Glu-Gly-Arg-Gly-Thr-Lys(2,4-dinitrophenyl)-Gly-Ile-Ser-(Gly-Pro-Hyp)5-NH2]3	*ADAMTS-4-2, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.49	Aggrecan	*in 100 mM NaCl

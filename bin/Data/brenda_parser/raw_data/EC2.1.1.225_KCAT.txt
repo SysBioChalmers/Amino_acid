@@ -1,0 +1,1 @@
+ecNumber*2.1.1.225#turnoverNumber*0.004#turnoverNumberMaximum*#substrate*adenosine4 in tRNAHis#commentary*pH 8.0, 30&deg;C#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*713500#

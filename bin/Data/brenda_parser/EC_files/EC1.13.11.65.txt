@@ -1,0 +1,8 @@
+KCAT	Galleria mellonella	0.0082	alpha-carotene	*pH 6.8, 20&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	392.7	beta-apo-8'-carotenal	*pH 7.8, 28&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	561.7	beta-apo-10'-carotenal	*pH 7.8, 28&Acirc;&deg;C
+KCAT	Galleria mellonella	0.0087	beta,beta-carotene	*pH 6.8, 20&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	764.3	3-hydroxy-beta-apo-10'-carotenal	*pH 7.8, 28&Acirc;&deg;C
+KCAT	Plesiocystis pacifica SIR-1	4.9	apo-8'-carotenal	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Sphingopyxis alaskensis	4.9	apo-8'-carotenal	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	1308	3-hydroxy-beta-apo-8'-carotenal	*pH 7.8, 28&Acirc;&deg;C

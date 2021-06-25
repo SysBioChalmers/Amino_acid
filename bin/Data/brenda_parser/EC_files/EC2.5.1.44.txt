@@ -1,0 +1,3 @@
+KCAT	Bradyrhizobium japonicum	1.18	putrescine	*
+KCAT	Blastochloris viridis	1.2	putrescine	*
+KCAT	Acinetobacter tartarogenes	8	putrescine	*

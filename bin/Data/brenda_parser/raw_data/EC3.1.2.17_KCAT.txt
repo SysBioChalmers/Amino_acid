@@ -1,0 +1,1 @@
+ecNumber*3.1.2.17#turnoverNumber*23.3#turnoverNumberMaximum*#substrate*(S)-methylmalonyl-CoA#commentary*pH 6.0, 30&deg;C#organism*Rattus norvegicus#ligandStructureId*2455#literature*643853#!ecNumber*3.1.2.17#turnoverNumber*23.3#turnoverNumberMaximum*#substrate*(S)-methylmalonyl-CoA#commentary*pH 6.0, 30&deg;C#organism*Rattus norvegicus#ligandStructureId*2455#literature*643854#

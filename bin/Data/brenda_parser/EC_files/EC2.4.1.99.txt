@@ -1,0 +1,3 @@
+KCAT	Agave tequilana	4.3	sucrose	*pH 5.5, 30&deg;C
+KCAT	Aspergillus aculeatus	775	sucrose	*60&deg;C, pH 5.5, hydrolytic activity
+KCAT	Aspergillus aculeatus	16200	sucrose	*60&deg;C, pH 5.5, transferase activity

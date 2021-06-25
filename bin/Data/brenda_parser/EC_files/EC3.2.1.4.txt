@@ -1,0 +1,145 @@
+KCAT	Bacillus subtilis	-999	more	*
+KCAT	Aspergillus oryzae	-999	more	*356 1/s, one unit defined as the release of 1 mircomol of glucose equivalent per minute from carboxymethylcellulose
+KCAT	Bacillus subtilis	-999	more	*kinetic analysis shows both the turnover rate (kcat) and the catalytic efficiency (kcat/Km) of Egl330 increased for the substrate carboxymethylcellulose compared to Egl499
+KCAT	Pyrococcus horikoshii	-999	more	*kcat-values of N-terminal and C-terminal deletion mutants
+KCAT	Chaetomium thermophilum var. thermophilum	0.0007	barley beta-1,4-D-glucan	*recombinant His-tagged enzyme, pH 5.0, 55&deg;C
+KCAT	Chaetomium thermophilum	0.0007	beta-1,4-D-glucan	*pH 5.0, 55&deg;C
+KCAT	Trichoderma reesei	0.001	4-methylumbelliferyl cellobioside	*mutant K272F, pH 5.0, 45&deg;C; mutant Q274V, pH 5.0, 45&deg;C
+KCAT	Cellulomonas fimi	0.0013	carboxymethyl cellulose	*pH 7.0, 37&deg;C, mutant D392A
+KCAT	Chaetomium thermophilum	0.00158	beta-1,4-D-xylan	*pH 5.0, 55&deg;C
+KCAT	Chaetomium thermophilum	0.00211	carboxymethyl cellulose	*pH 5.0, 55&deg;C
+KCAT	Chaetomium thermophilum var. thermophilum	0.00211	carboxymethyl cellulose	*recombinant His-tagged enzyme, pH 5.0, 55&deg;C
+KCAT	Trichoderma reesei	0.003	4-methylumbelliferyl cellobioside	*mutant Q126F, pH 5.0, 45&deg;C
+KCAT	Pyrococcus horikoshii	0.003	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme I162A
+KCAT	Cellulomonas fimi	0.0051	carboxymethyl cellulose	*pH 7.0, 37&deg;C, mutant D392S
+KCAT	Cellulomonas fimi	0.0059	carboxymethyl cellulose	*pH 7.0, 37&deg;C, mutant D392N
+KCAT	Hungateiclostridium thermocellum	0.006	carboxymethyl cellulose	*pH 4.2, 60&deg;C, recombinant wild-type enzyme CtGH5
+KCAT	Pyrococcus horikoshii	0.006	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme H155A
+KCAT	Cellulomonas fimi	0.0073	carboxymethyl cellulose	*pH 7.0, 37&deg;C, mutant D252C
+KCAT	Trichoderma reesei	0.01	4-methylumbelliferyl cellobioside	*wild-type, pH 5.0, 45&deg;C
+KCAT	Dickeya chrysanthemi	0.01	p-nitrophenyl-beta-D-cellobioside	*
+KCAT	Pyrococcus horikoshii	0.01	p-nitrophenyl cellobiose	*pH 5-6, 50&deg;C, mutant enzyme E201Q; pH 5-6, 50&deg;C, mutant enzyme H297N; pH 5-6, 50&deg;C, mutant enzyme Y299F
+KCAT	Cellulomonas fimi	0.014	carboxymethyl cellulose	*pH 7.0, 37&deg;C, oxidized mutant D252C
+KCAT	Cellulomonas fimi	0.0146	carboxymethyl cellulose	*pH 7.0, 37&deg;C, mutant D216C
+KCAT	Trichoderma reesei	0.0178	4-nitrophenyl D-cellobioside	*N-glycosylation mutant residue D45, pH 4.8, 45&deg;C
+KCAT	Trichoderma reesei	0.018	4-nitrophenyl D-cellobioside	*N-glycosylation mutant residue D270, pH 4.8, 45&deg;C
+KCAT	Trichoderma reesei	0.019	4-nitrophenyl D-cellobioside	*wild-type, pH 4.8, 45&deg;C
+KCAT	Thermobifida fusca	0.02	2,4-dinitrophenyl beta-D-cellobioside	*50&deg;C, wild-type enzyme Cel9A-68
+KCAT	Trichoderma reesei	0.02	4-nitrophenyl D-cellobioside	*N-glycosylation mutant residue 384, pH 4.8, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	0.026	carboxymethyl cellulose	*pH 4.2, 60&deg;C, recombinant mutant CtGH5-F194A
+KCAT	Cellulomonas fimi	0.029	carboxymethyl cellulose	*pH 7.0, 37&deg;C, oxidized mutant D216C
+KCAT	Pyrococcus horikoshii	0.036	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme E163A
+KCAT	Pyrococcus horikoshii	0.037	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme P164A
+KCAT	Hungateiclostridium thermocellum	0.045	beta-Glucan	*pH 4.2, 60&deg;C, recombinant mutant CtGH1-CtGH5-F194A
+KCAT	Hungateiclostridium thermocellum	0.053	lichenan	*pH 4.2, 60&deg;C, recombinant chimeric mutant CtGH1-CtGH5-F194A
+KCAT	Thermobifida fusca	0.07	2,4-dinitrophenyl beta-D-cellobioside	*50&deg;C, mutant enzyme E424A
+KCAT	Pyrococcus horikoshii	0.083	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme R156A
+KCAT	Hungateiclostridium thermocellum	0.09	beta-Glucan	*pH 4.2, 60&deg;C, recombinant wild-type enzyme CtGH5
+KCAT	Trichoderma atroviride	0.091	Avicel	*pH 5.0, 60&deg;C
+KCAT	Pyrococcus horikoshii	0.092	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme G158A
+KCAT	Trichoderma atroviride	0.092	raffinose	*pH 5.0, 60&deg;C
+KCAT	Trichoderma atroviride	0.094	carboxymethylcellulose	*pH 5.0, 60&deg;C
+KCAT	Trichoderma atroviride	0.095	cellobiose	*pH 5.0, 60&deg;C
+KCAT	Hungateiclostridium thermocellum	0.1	lichenan	*pH 4.2, 60&deg;C, recombinant wild-type enzyme CtGH5
+KCAT	Pyrococcus horikoshii	0.11	p-nitrophenyl cellobiose	*pH 5-6, 50&deg;C, mutant enzyme D385N
+KCAT	Hungateiclostridium thermocellum	0.115	carboxymethyl cellulose	*pH 4.2, 60&deg;C, recombinant mutant CtGH1-CtGH5-F194A
+KCAT	Pyrococcus horikoshii	0.115	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme I157A
+KCAT	Pyrococcus horikoshii	0.129	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme T160A
+KCAT	Hungateiclostridium thermocellum	0.135	beta-Glucan	*pH 4.2, 60&deg;C, recombinant mutant CtGH5-F194A
+KCAT	Pyrococcus horikoshii	0.144	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme C159A
+KCAT	Hungateiclostridium thermocellum	0.145	lichenan	*pH 4.2, 60&deg;C, recombinant mutant CtGH5-F194A
+KCAT	Escherichia coli	0.15	carboxymethylcellulose	*mutant V9A/K353E, pH 7.0, 40&deg;C
+KCAT	Pyrococcus horikoshii	0.157	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.16	carboxymethylcellulose	*wild-type, pH 7.0, 40&deg;C
+KCAT	Pyrococcus horikoshii	0.167	p-nitrophenyl cellobiose	*pH 5.5, 50&deg;C, mutant enzyme H161A
+KCAT	Escherichia coli	0.17	carboxymethylcellulose	*mutant G117S, pH 7.0, 40&deg;C
+KCAT	Pseudoalteromonas haloplanktis	0.18	p-nitrophenyl-beta-D-cellobioside	*
+KCAT	Cellulomonas fimi	0.227	carboxymethyl cellulose	*pH 7.0, 37&deg;C, mutant D216N
+KCAT	Pyrococcus horikoshii	0.24	p-nitrophenyl cellobiose	*50&deg;C, mutant enzyme C106A/C159A
+KCAT	Cellulomonas fimi	0.358	2',4'-dinitrophenyl-beta-D-cellobiose	*chimeric xylanase/endoglucanase
+KCAT	Saccharolobus solfataricus	0.39	N-[2-N-[(S-(4-deoxy-4-dimethylamino-phenylazophenylthioureido-beta-D-glucopyranosyl)-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl)-2-thioacetyl]aminoethyl]-1-naphthylamine-5-sulfonate	*pH 3, 80&deg;C, chimeric fusion protein CelA-SSO1949-CelA, that consists of 70 amino acids CelA followed by 163 amino acids SSO1949 and 29 amino acids CelA; pH and temperature not specified in the publication, hybrid protein (CelA-SSO1949-CelA, consisting of 262 amino acids) based on beta-endoglucanase from Sulfolobus solfataricus P2 and beta-endoglucanase from Thermotoga maritima
+KCAT	Thermotoga maritima	0.39	N-[2-N-[(S-(4-deoxy-4-dimethylamino-phenylazophenylthioureido-beta-D-glucopyranosyl)-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl)-2-thioacetyl]aminoethyl]-1-naphthylamine-5-sulfonate	*pH 3, 80&deg;C, chimeric fusion protein CelA-SSO1949-CelA, that consists of 70 amino acids CelA followed by 163 amino acids SSO1949 and 29 amino acids CelA
+KCAT	Cellulomonas fimi	0.397	2',4'-dinitrophenyl-beta-D-cellobiose	*endoglucanase A
+KCAT	Pyrococcus horikoshii	0.41	p-nitrophenyl cellobiose	*50&deg;C, wild-type enzyme
+KCAT	Pyrococcus horikoshii	0.41	p-nitrophenyl cellobiose	*pH 5-6, 50&deg;C, wild-type enzyme
+KCAT	Pyrococcus horikoshii	0.43	p-nitrophenyl cellobiose	*50&deg;C, mutant enzyme C372A/C412A
+KCAT	Rasamsonia emersonii	0.46	4-methylumbelliferyl beta-D-lactoside	*mutant G4C/A72C/N54C/P191C/T243C/A375C, pH 5.0, 22&deg;C
+KCAT	Rasamsonia emersonii	0.47	4-methylumbelliferyl beta-D-lactoside	*mutant T243C/A375C, pH 5.0, 22&deg;C
+KCAT	Pyrococcus horikoshii	0.47	p-nitrophenyl cellobiose	*50&deg;C, mutant enzyme C106A/C159A/C372A/C412A
+KCAT	Rasamsonia emersonii	0.5	4-methylumbelliferyl beta-D-lactoside	*mutant G4C/A72C, pH 5.0, 22&deg;C
+KCAT	Rasamsonia emersonii	0.52	4-methylumbelliferyl beta-D-lactoside	*wild-type, pH 5.0, 22&deg;C
+KCAT	Rasamsonia emersonii	0.55	4-methylumbelliferyl beta-D-lactoside	*deglycosylated wild-type, pH 5.0, 22&deg;C
+KCAT	Rasamsonia emersonii	0.6	4-methylumbelliferyl beta-D-lactoside	*mutant N54C/P191C, pH 5.0, 22&deg;C
+KCAT	Thermobifida fusca	0.7	2,4-dinitrophenyl beta-D-cellobioside	*50&deg;C, mutant enzyme E424G
+KCAT	Alicyclobacillus acidocaldarius	0.75	carboxymethylcellulose	*wild-type, pH 7.5, 65&deg;C
+KCAT	Pyrococcus horikoshii	0.75	p-nitrophenyl cellobiose	*pH 5-6, 50&deg;C, mutant enzyme lacking 5 residues at the C-terminus
+KCAT	Pyrococcus horikoshii	0.78	p-nitrophenyl cellobiose	*pH 5-6, 50&deg;C, mutant enzyme DELTAQ1-G5
+KCAT	Pyrococcus furiosus	0.79	4-nitrophenyl cellobioside	*pH 6.0, 95&deg;C
+KCAT	Pyrococcus horikoshii	0.91	p-nitrophenyl cellobiose	*pH 5-6, 50&deg;C, mutant enzyme lacking 5 residues at the C-terminus and 5 residies at the N-terminus
+KCAT	Cellulomonas fimi	0.994	carboxymethyl cellulose	*pH 7.0, 37&deg;C, mutant D392C
+KCAT	Pyrococcus furiosus	1.4	4-nitrophenyl cellopentaoside	*pH 6.0, 95&deg;C
+KCAT	Alicyclobacillus acidocaldarius	2.2	carboxymethylcellulose	*mutant lacking the IgG-like domain, pH 7.5, 65&deg;C
+KCAT	Cellulomonas fimi	3.57	carboxymethyl cellulose	*pH 7.0, 37&deg;C, oxidized mutant D392C
+KCAT	Pyrococcus furiosus	3.6	4-nitrophenyl cellotetraoside	*pH 6.0, 95&deg;C
+KCAT	Chrysosporium lucknowense	3.8	beta-Glucan	*50&deg;C, pH 5.5, endoglucanase EG25
+KCAT	Pseudoalteromonas sp. DY3	4.2	carboxymethyl cellulose	*pH 5.5, 45&deg;C, recombinant enzyme
+KCAT	Xanthomonas campestris pv. campestris	4.6	carboxymethylcellulose	*pH 7.0, 45&deg;C
+KCAT	Cellulomonas fimi	5.81	carboxymethyl cellulose	*pH 7.0, 37&deg;C, H2O2-treated wild-type CenA
+KCAT	Cellulomonas fimi	5.92	carboxymethyl cellulose	*pH 7.0, 37&deg;C, wild-type CenA
+KCAT	Salipaludibacillus agaradhaerens	7.4	carboxymethyl cellulose	*in presence of 25 mM
+KCAT	Pyrococcus furiosus	8.3	4-nitrophenyl cellotrioside	*pH 6.0, 95&deg;C
+KCAT	Pyrococcus horikoshii	9.55	4-nitrophenyl cellobioside	*pH 6.0, 70&deg;C
+KCAT	Chrysosporium lucknowense	15	carboxymethyl cellulose	*50&deg;C, pH 5.5, endoglucanase EG25
+KCAT	Chrysosporium lucknowense	16	beta-Glucan	*50&deg;C, pH 5.5, endoglucanase EG47
+KCAT	Chrysosporium lucknowense	18	beta-Glucan	*50&deg;C, pH 5.5, endoglucanase EG60
+KCAT	Chrysosporium lucknowense	19	carboxymethyl cellulose	*50&deg;C, pH 5.5, endoglucanase EG28
+KCAT	Thermotoga maritima	19	N-[2-N-[(S-(4-deoxy-4-dimethylamino-phenylazophenylthioureido-beta-D-glucopyranosyl)-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl)-2-thioacetyl]aminoethyl]-1-naphthylamine-5-sulfonate	*pH 3, 80&deg;C, native enzyme
+KCAT	Chrysosporium lucknowense	22	carboxymethyl cellulose	*50&deg;C, pH 5.5, endoglucanase EG60
+KCAT	Bacillus sp. (in: Bacteria)	26	carboxymethyl cellulose	*presence of 2.5 M NaCl, pH 5.0, 55&deg;C
+KCAT	Bacillus circulans	26.4	carboxymethylcellulose	*pH 8.5, 40&deg;C
+KCAT	Chrysosporium lucknowense	27	carboxymethyl cellulose	*50&deg;C, pH 5.5, endoglucanase EG47
+KCAT	bacterium enrichment culture	37.2	Avicel	*pH 5.0, 50&deg;C
+KCAT	uncultured bacterium	41.7	cellohexaose	*pH 7.0, 37&deg;C
+KCAT	uncultured bacterium	42.3	cellopentaose	*pH 7.0, 37&deg;C
+KCAT	uncultured bacterium	49.2	carboxymethyl cellulose	*pH 7.0, 37&deg;C
+KCAT	Rasamsonia emersonii	51.6	carboxymethyl cellulose	*pH 4.5, 90&deg;C
+KCAT	Chrysosporium lucknowense	54	carboxymethyl cellulose	*50&deg;C, pH 5.5, endoglucanase EG44
+KCAT	Chrysosporium lucknowense	54	carboxymethyl cellulose	*50&deg;C, pH 5.5, endoglucanase EG51
+KCAT	Chrysosporium lucknowense	64	beta-Glucan	*50&deg;C, pH 5.5, endoglucanase EG28
+KCAT	bacterium enrichment culture	70.6	carboxymethyl cellulose	*pH 5.0, 50&deg;C
+KCAT	Volvariella volvacea	74.51	carboxymethyl cellulose	*recombinant enzyme, pH 5.0, 60&deg;C
+KCAT	Chrysosporium lucknowense	76	beta-Glucan	*50&deg;C, pH 5.5, endoglucanase EG44
+KCAT	Chrysosporium lucknowense	84	beta-Glucan	*50&deg;C, pH 5.5, endoglucanase EG51
+KCAT	Salipaludibacillus agaradhaerens	84.4	carboxymethyl cellulose	*in presence of 250 mM
+KCAT	Talaromyces verruculosus	127	Barley beta-glucan	*mutant N19A, pH 5.0, 40&deg;C
+KCAT	uncultured bacterium	127.5	Laminarin	*pH 7.0, 37&deg;C
+KCAT	Talaromyces verruculosus	156	beta-Glucan	*pH 5.0, 50&deg;C
+KCAT	uncultured bacterium	159	cellotetraose	*pH 7.0, 37&deg;C
+KCAT	uncultured rumen bacterium	163	carboxymethyl cellulose	*Rucel5B, pH 6.5, 60&deg;C
+KCAT	Talaromyces verruculosus	165	Barley beta-glucan	*wild-type, pH 5.0, 40&deg;C
+KCAT	uncultured bacterium	185.6	hydroxyethylcellulose	*pH 7.0, 37&deg;C
+KCAT	Salipaludibacillus agaradhaerens	190.1	carboxymethyl cellulose	*in presence of 25 mM
+KCAT	Thermotoga petrophila	209	carboxymethyl cellulose	*pH 6.0, 80&deg;C
+KCAT	Cellulomonas biazotea	217	carboxymethyl cellulose	*enzyme from strain NIAB442
+KCAT	Talaromyces verruculosus	227	Barley beta-glucan	*mutant N42A, pH 5.0, 40&deg;C
+KCAT	Bacillus subtilis	246	carboxymethylcellulose	*wild-type
+KCAT	Talaromyces verruculosus	275	Barley beta-glucan	*mutant N194A, pH 5.0, 40&deg;C
+KCAT	Cellulomonas biazotea	278	carboxymethyl cellulose	*enzyme from deoxyglucose- and streptomycin-resistant mutant 51 Smr
+KCAT	Thermotoga petrophila	298	carboxymethyl cellulose	*pH 6.0, 85&deg;C
+KCAT	Rasamsonia emersonii	311	Barley beta-glucan	*pH 4.5, 90&deg;C
+KCAT	Gymnascella citrina	318	carboxymethylcellulose	*in presence of 1.5 mM Mn2+
+KCAT	Thermotoga petrophila	356	carboxymethyl cellulose	*pH 6.0, 90&deg;C
+KCAT	Bacillus subtilis	437	carboxymethylcellulose	*the turnover rate (kcat) of Egl330 increased by 78% compared to wild-type
+KCAT	uncultured bacterium	466	4-nitrophenyl D-cellobioside	*pH 7.0, 37&deg;C
+KCAT	Thermotoga petrophila	471	carboxymethyl cellulose	*pH 6.0, 95&deg;C
+KCAT	Mycothermus thermophilus	475	carboxymethyl cellulose	*absence of Mn2+, pH 5.5, 60&deg;C
+KCAT	Mycothermus thermophilus	677	carboxymethyl cellulose	*presence of Mn2+, pH 5.5, 60&deg;C
+KCAT	Thermotoga maritima	791	beta-Glucan	*wild-type, pH 5.0, 85&deg;C
+KCAT	uncultured bacterium	897	cellotriose	*pH 7.0, 37&deg;C
+KCAT	Thermothelomyces thermophilus	1020	carboxymethylcellulose	*pH 10, 50&deg;C
+KCAT	Thermotoga maritima	1155	beta-Glucan	*mutant Y61G, pH 5.0, 85&deg;C
+KCAT	uncultured bacterium	3276	Barley beta-glucan	*pH 7.0, 37&deg;C
+KCAT	Cellulomonas fimi	4260	phosphoric acid swollen cellulose	*pH 6.0, 50&deg;C, recombinant enzyme
+KCAT	Cellulomonas fimi	26100	phosphoric acid swollen cellulose	*pH 5.5, 65&deg;C, recombinant enzyme
+KCAT	Cellulomonas fimi	128000	Barley beta-glucan	*pH 6.0, 50&deg;C, recombinant enzyme
+KCAT	Cellulomonas fimi	295000	Barley beta-glucan	*pH 5.5, 65&deg;C, recombinant enzyme

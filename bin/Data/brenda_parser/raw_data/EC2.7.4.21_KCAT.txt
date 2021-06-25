@@ -1,0 +1,1 @@
+ecNumber*2.7.4.21#turnoverNumber*0.03#turnoverNumberMaximum*#substrate*1D-myo-inositol hexakisphosphate#commentary*isoform PPIP5K2, in 20 mM HEPES-NaOH pH 7.2, 50 mM KCl, at 37&Acirc;&deg;C#organism*Homo sapiens#ligandStructureId*5734#literature*721882#

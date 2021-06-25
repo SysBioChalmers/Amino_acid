@@ -1,0 +1,82 @@
+KCAT	Saccharomyces cerevisiae	0.0005	nicotinamide	*kcat below 0.0005 s-1, mutant enzyme C167A, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.0006	nicotinamide	*mutant enzyme D8E, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.0009	nicotinamide	*mutant enzyme D8A, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C; mutant enzyme D8N, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C; mutant enzyme K122R, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Borreliella burgdorferi	0.003	nicotinamide	*wild type enzyme, in 100 mM phosphate buffer, pH 7.3 at 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.007	nicotinamide	*mutant enzyme D51A, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.0088	Benzamide	*wild type enzyme, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.014	nicotinamide	*mutant enzyme H53A, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.02	nicotinamide	*mutant enzyme H94A, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.044	nicotinamide	*mutant enzyme K122A, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Oceanobacillus iheyensis	0.05	ethyl nicotinate	*recombinant mutant Q96K, pH 7.3, 37&deg;C
+KCAT	Saccharomyces cerevisiae	0.064	nicotinamide	*mutant enzyme D51N, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Oceanobacillus iheyensis	0.1	ethyl nicotinate	*recombinant wild-type enzyme, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	0.1	ethylnicotinate	*37&deg;C, pH 7.3, mutant enzyme H75E
+KCAT	Mycobacterium tuberculosis	0.1	Pyrazinamide	*mutant enzyme H57D, in 100 mM HEPES at pH 8.0 and 25&deg;C
+KCAT	Oceanobacillus iheyensis	0.14	ethyl nicotinate	*recombinant mutant C133A, pH 7.3, 37&deg;C
+KCAT	Oceanobacillus iheyensis	0.17	methyl nicotinate	*recombinant mutant Q96K, pH 7.3, 37&deg;C
+KCAT	Oceanobacillus iheyensis	0.19	ethyl nicotinate	*recombinant mutant Q96A, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	0.2	ethylnicotinate	*37&deg;C, pH 7.3, mutant enzyme H75S; 37&deg;C, pH 7.3, mutant enzyme W83F
+KCAT	Caenorhabditis elegans	0.28	nicotinamide	*wild type enzyme isoform PNC2, in 100 mM phosphate buffer, pH 7.3 at 25&deg;C
+KCAT	uncultured Acidobacteria bacterium	0.3	ethylnicotinate	*37&deg;C, pH 7.3, mutant enzyme A151C
+KCAT	Plasmodium falciparum	0.3	nicotinamide	*wild type enzyme, in 100 mM phosphate buffer, pH 7.3 at 25&deg;C
+KCAT	Oceanobacillus iheyensis	0.32	methyl nicotinate	*recombinant wild-type enzyme, pH 7.3, 37&deg;C
+KCAT	Oceanobacillus iheyensis	0.43	Pyrazinamide	*recombinant mutant E65H, pH 7.3, 37&deg;C
+KCAT	Oceanobacillus iheyensis	0.45	Pyrazinamide	*recombinant mutant Q96K, pH 7.3, 37&deg;C
+KCAT	Mycobacterium tuberculosis	0.5	nicotinamide	*mutant enzyme H57D, in 100 mM HEPES at pH 8.0 and 25&deg;C
+KCAT	Oceanobacillus iheyensis	0.6	methyl nicotinate	*recombinant mutant Q96A, pH 7.3, 37&deg;C
+KCAT	Saccharomyces cerevisiae	0.69	nicotinamide	*wild type enzyme, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Arabidopsis thaliana	0.93	nicotinamide	*
+KCAT	Oceanobacillus iheyensis	1.02	methyl nicotinate	*recombinant mutant C133A, pH 7.3, 37&deg;C
+KCAT	unidentified	1.1	ethylnicotinate	*pH 7.3, temperature not specified in the publication
+KCAT	uncultured Acidobacteria bacterium	1.3	Pyrazinamide	*37&deg;C, pH 7.3, mutant enzyme H75S
+KCAT	Oceanobacillus iheyensis	1.61	Pyrazinamide	*recombinant mutant Q96A, pH 7.3, 37&deg;C
+KCAT	Saccharomyces cerevisiae	1.75	5-Methylnicotinamide	*wild type enzyme, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	uncultured Acidobacteria bacterium	1.9	methylnicotinate	*37&deg;C, pH 7.3, mutant enzyme H75S
+KCAT	Streptococcus pneumoniae	2.1	nicotinamide	*wild type enzyme, in 100 mM phosphate buffer, pH 7.3 at 25&deg;C
+KCAT	Oceanobacillus iheyensis	2.16	5-methyl nicotinamide	*recombinant mutant Q96K, pH 7.3, 37&deg;C
+KCAT	Oceanobacillus iheyensis	2.37	nicotinamide	*recombinant mutant Q96K, pH 7.3, 37&deg;C
+KCAT	Saccharomyces cerevisiae	2.56	Pyrazinamide	*wild type enzyme, in 50 mM sodium phosphate (pH 7.5), at 25&deg;C
+KCAT	Oceanobacillus iheyensis	2.6	Pyrazinamide	*recombinant wild-type enzyme, pH 7.3, 37&deg;C
+KCAT	Caenorhabditis elegans	3.1	nicotinamide	*wild type enzyme isoform PNC1, in 100 mM phosphate buffer, pH 7.3 at 25&deg;C
+KCAT	Mycobacterium tuberculosis	3.1	nicotinamide	*wild type enzyme, in 100 mM HEPES at pH 8.0 and 25&deg;C
+KCAT	uncultured Acidobacteria bacterium	3.1	Pyrazinamide	*37&deg;C, pH 7.3, mutant enzyme W83F
+KCAT	Oceanobacillus iheyensis	3.31	Pyrazinamide	*recombinant mutant C133A, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	3.5	Pyrazinamide	*37&deg;C, pH 7.3, mutant enzyme H75E
+KCAT	uncultured Acidobacteria bacterium	3.7	ethylnicotinate	*37&deg;C, pH 7.3, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	3.8	nicotinamide	*wild type enzyme, in 100 mM phosphate buffer, pH 7.3 at 25&deg;C
+KCAT	Mycobacterium tuberculosis	3.8	Pyrazinamide	*wild type enzyme, in 100 mM HEPES at pH 8.0 and 25&deg;C
+KCAT	Oceanobacillus iheyensis	3.94	Pyrazinamide	*recombinant mutant F68W, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	4.3	methylnicotinate	*37&deg;C, pH 7.3, mutant enzyme A151C
+KCAT	uncultured Acidobacteria bacterium	4.9	5-Methylnicotinamide	*37&deg;C, pH 7.3, mutant enzyme H75E
+KCAT	uncultured Acidobacteria bacterium	4.9	methylnicotinate	*37&deg;C, pH 7.3, mutant enzyme W83F
+KCAT	unidentified	5	nicotinamide	*pH 7.3, temperature not specified in the publication
+KCAT	Oceanobacillus iheyensis	5.1	5-methyl nicotinamide	*recombinant wild-type enzyme, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	5.1	nicotinamide	*37&deg;C, pH 7.3, mutant enzyme A151C
+KCAT	Oceanobacillus iheyensis	5.21	Pyrazinamide	*recombinant mutant F68W/C133A, pH 7.3, 37&deg;C
+KCAT	Oceanobacillus iheyensis	5.63	nicotinamide	*recombinant mutant E65H, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	5.8	methylnicotinate	*37&deg;C, pH 7.3, mutant enzyme H75E
+KCAT	unidentified	7	methylnicotinate	*pH 7.3, temperature not specified in the publication
+KCAT	Oceanobacillus iheyensis	7.09	5-methyl nicotinamide	*recombinant mutant C133A, pH 7.3, 37&deg;C
+KCAT	unidentified	7.2	Pyrazinamide	*pH 7.3, temperature not specified in the publication
+KCAT	uncultured Acidobacteria bacterium	7.5	Pyrazinamide	*37&deg;C, pH 7.3, mutant enzyme A151C
+KCAT	unidentified	8.2	5-Methylnicotinamide	*pH 7.3, temperature not specified in the publication
+KCAT	Oceanobacillus iheyensis	8.79	nicotinamide	*recombinant mutant F68W, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	9.6	5-Methylnicotinamide	*37&deg;C, pH 7.3, mutant enzyme A151C
+KCAT	Oceanobacillus iheyensis	9.82	nicotinamide	*recombinant mutant F68W/C133A, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	10.2	nicotinamide	*37&deg;C, pH 7.3, mutant enzyme H75E
+KCAT	Oceanobacillus iheyensis	11.65	nicotinamide	*recombinant wild-type enzyme, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	12.4	5-Methylnicotinamide	*37&deg;C, pH 7.3, mutant enzyme H75S
+KCAT	uncultured Acidobacteria bacterium	12.5	nicotinamide	*37&deg;C, pH 7.3, mutant enzyme H75S
+KCAT	Oceanobacillus iheyensis	13.6	nicotinamide	*recombinant mutant C133A, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	13.7	5-Methylnicotinamide	*37&deg;C, pH 7.3, mutant enzyme W83F
+KCAT	uncultured Acidobacteria bacterium	15.5	nicotinamide	*37&deg;C, pH 7.3, mutant enzyme W83F
+KCAT	Oceanobacillus iheyensis	15.9	5-methyl nicotinamide	*recombinant mutant Q96A, pH 7.3, 37&deg;C
+KCAT	Oceanobacillus iheyensis	16.05	nicotinamide	*recombinant mutant Q96A, pH 7.3, 37&deg;C
+KCAT	uncultured Acidobacteria bacterium	18.7	Pyrazinamide	*37&deg;C, pH 7.3, wild-type enzyme
+KCAT	uncultured Acidobacteria bacterium	22.7	nicotinamide	*37&deg;C, pH 7.3, wild-type enzyme
+KCAT	uncultured Acidobacteria bacterium	43.7	5-Methylnicotinamide	*37&deg;C, pH 7.3, wild-type enzyme
+KCAT	Thermus thermophilus	50	nicotinamide	*pH and temperature not specified in the publication
+KCAT	uncultured Acidobacteria bacterium	54.5	methylnicotinate	*37&deg;C, pH 7.3, wild-type enzyme
+KCAT	Acidilobus saccharovorans	76.9	nicotinamide	*pH and temperature not specified in the publication
+KCAT	Acidilobus saccharovorans	76.9	nicotinamide	*pH 7.5, 60&deg;C
+KCAT	Acidilobus saccharovorans	135.7	Pyrazinamide	*pH 7.5, 60&deg;C

@@ -1,0 +1,68 @@
+KCAT	Ananas comosus	0.41	casein	*native enzyme, at pH 7.0
+KCAT	Ananas comosus	0.97	casein	*native enzyme, in the presence of 5 M urea at pH 7.0
+KCAT	Ananas comosus	0.99	casein	*native enzyme, in the presence of 2 M guanidine-HCl at pH 7.0
+KCAT	Ananas comosus	11.72	casein	*native enzyme, at pH 7.0
+KCAT	Ananas comosus	17.33	casein	*native enzyme, in the presence of 5 M urea at pH 7.0
+KCAT	Ananas comosus	18.08	casein	*native enzyme, in the presence of 2 M guanidine-HCl at pH 7.0
+KCAT	Ananas comosus	0.29	Bz-Phe-Val-Arg-4-nitroanilide	*chitosan-immobilized enzyme, in the presence of 12% (v/v) ethanol, at pH 3.2 and 25&Acirc;&deg;C
+KCAT	Ananas comosus	0.39	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, free SO2 25 mg/l
+KCAT	Ananas comosus	0.399	Bz-Phe-Val-Arg-4-nitroanilide	*chitosan-immobilized enzyme, in the presence of 18% (v/v) ethanol, at pH 3.2 and 25&Acirc;&deg;C
+KCAT	Ananas comosus	0.461	Bz-Phe-Val-Arg-4-nitroanilide	*chitosan-immobilized enzyme, at pH 3.2 and 25&Acirc;&deg;C
+KCAT	Ananas comosus	0.96	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, free SO2 10 mg/l
+KCAT	Ananas comosus	4.32	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, seed 1.2 g/l
+KCAT	Ananas comosus	6.31	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, skin 0.99 g/l
+KCAT	Ananas comosus	6.55	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, seed 0.3 g/l
+KCAT	Ananas comosus	8.44	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, skin 0.25 g/l
+KCAT	Ananas comosus	16.94	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, gallic 0.03 g/l
+KCAT	Ananas comosus	18.33	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, ellagic 0.04 g/l
+KCAT	Ananas comosus	18.35	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, gallic 0.02 g/l
+KCAT	Ananas comosus	19.23	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, ellagic 0.02 g/l
+KCAT	Ananas comosus	19.43	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, ethanol 0%
+KCAT	Ananas comosus	19.44	Bz-Phe-Val-Arg-4-nitroanilide	*free enzyme, at pH 3.2 and 25&Acirc;&deg;C
+KCAT	Ananas comosus	20.03	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, ethanol 12%; pH 3.2, 25&Acirc;&deg;C, without free SO2; pH 3.2, 25&Acirc;&deg;C, without gallic; pH 3.2, 25&Acirc;&deg;C, without skin
+KCAT	Ananas comosus	20.03	Bz-Phe-Val-Arg-4-nitroanilide	*free enzyme, at pH 3.2 and 25&Acirc;&deg;C
+KCAT	Ananas comosus	20.03	Bz-Phe-Val-Arg-4-nitroanilide	*free enzyme, in the presence of 12% (v/v) ethanol, at pH 3.2 and 25&Acirc;&deg;C
+KCAT	Ananas comosus	21.45	Bz-Phe-Val-Arg-4-nitroanilide	*pH 3.2, 25&Acirc;&deg;C, ethanol 18%
+KCAT	Ananas comosus	21.45	Bz-Phe-Val-Arg-4-nitroanilide	*free enzyme, in the presence of 18% (v/v) ethanol, at pH 3.2 and 25&Acirc;&deg;C
+KCAT	Ananas comosus	0.39	benzoyl-L-Arg ethyl ester	*enzyme form SB2
+KCAT	Ananas comosus	0.42	benzoyl-L-Arg ethyl ester	*enzyme form SB1
+KCAT	Ananas comosus	0.5	benzoyl-L-Arg ethyl ester	*
+KCAT	Ananas comosus	27	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	27	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	27	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	0.13	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	0.13	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	0.0035	benzoyl-L-Arg amide	*
+KCAT	Ananas comosus	0.0039	benzoyl-L-Arg amide	*enzyme form I-2
+KCAT	Ananas comosus	0.0046	benzoyl-L-Arg amide	*enzyme form I-1
+KCAT	Ananas comosus	0.018	benzoyl-L-Arg amide	*enzyme form II-2
+KCAT	Ananas comosus	0.027	benzoyl-L-Arg amide	*enzyme form II-1
+KCAT	Ananas comosus	0.893	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	0.11	benzoyl-L-Arg methyl ester	*
+KCAT	Ananas comosus	0.68	L-Pyroglutamyl-L-Phe-L-Leu 4-nitroanilide	*enzyme form F5
+KCAT	Ananas comosus	0.87	L-Pyroglutamyl-L-Phe-L-Leu 4-nitroanilide	*enzyme form F4
+KCAT	Ananas comosus	3.94	L-Pyroglutamyl-L-Phe-L-Leu 4-nitroanilide	*enzyme form F9
+KCAT	Ananas comosus	0.12	Benzyloxycarbonyl-Gly-Phe-citrulline 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	0.49	benzyloxycarbonyl-Phe-Arg-NH-4-methylcoumarin 7-amide	*isozyme SBA/a, pH 6.0, 25&Acirc;&deg;C
+KCAT	Ananas comosus	0.56	benzyloxycarbonyl-Phe-Arg-NH-4-methylcoumarin 7-amide	*isozyme SBA/b, pH 6.0, 25&Acirc;&deg;C
+KCAT	Ananas comosus	6.08	benzyloxycarbonyl-Phe-Arg-NH-4-methylcoumarin 7-amide	*isozyme SBA/b, pH 6.0, 25&Acirc;&deg;C
+KCAT	Ananas comosus	0.21	Benzoyl-Gly ethyl ester	*enzyme form SB1
+KCAT	Ananas comosus	0.24	Benzoyl-Gly ethyl ester	*enzyme form SB2
+KCAT	Ananas comosus	0.36	Benzoyl-Gly ethyl ester	*
+KCAT	Ananas comosus	5.1	benzyloxycarbonyl-Phe-Val-Arg-NH-4-methylcoumarin 7-amide	*isozyme SBA/a, pH 6.0, 25&Acirc;&deg;C
+KCAT	Ananas comosus	6.4	benzyloxycarbonyl-Phe-Val-Arg-NH-4-methylcoumarin 7-amide	*isozyme SBA/b, pH 6.0, 25&Acirc;&deg;C
+KCAT	Ananas comosus	0.024	benzyloxycarbonyl-Arg-Arg-NH-4-methylcoumarin 7-amide	*isozyme SBA/a, pH 6.0, 25&Acirc;&deg;C
+KCAT	Ananas comosus	0.04	benzyloxycarbonyl-Arg-Arg-NH-4-methylcoumarin 7-amide	*isozyme SBA/b, pH 6.0, 25&Acirc;&deg;C
+KCAT	Ananas comosus	1.75	Benzyloxycarbonyl-Gly 4-nitrophenyl ester	*bromelain A
+KCAT	Ananas comosus	3.35	Benzyloxycarbonyl-Gly 4-nitrophenyl ester	*bromelain A
+KCAT	Ananas comosus	2.5	benzyloxycarbonyl-L-Ala 4-nitrophenyl ester	*bromelain A
+KCAT	Ananas comosus	8.3	benzyloxycarbonyl-L-Ala 4-nitrophenyl ester	*bromelain B
+KCAT	Ananas comosus	7.4	benzyloxycarbonyl-L-Lys 4-nitrophenyl ester	*bromelain A
+KCAT	Ananas comosus	9.8	benzyloxycarbonyl-L-Lys 4-nitrophenyl ester	*bromelain B
+KCAT	Ananas comosus	0.4	benzyloxycarbonyl-L-Tyr 4-nitrophenyl ester	*bromelain A
+KCAT	Ananas comosus	0.44	benzyloxycarbonyl-L-Tyr 4-nitrophenyl ester	*bromelain B
+KCAT	Ananas comosus	3.4	N-Benzyloxycarbonyl-L-Phe-L-Ser methyl ester	*
+KCAT	Ananas comosus	1.4	Benzyloxycarbonyl-L-Asn 4-nitrophenyl ester	*
+KCAT	Ananas comosus	0.035	Tosyl-L-Lys methyl ester	*
+KCAT	Ananas comosus	0.55	acetyl-Gly ethyl ester	*
+KCAT	Ananas comosus	20	benzyl-Phe-Val-Arg-4-nitroanilide	*tartaric buffer containing 12% ethanol, pH 3.2, 25&Acirc;&deg;C, stem bromelain

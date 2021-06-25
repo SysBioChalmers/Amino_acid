@@ -1,0 +1,29 @@
+KCAT	Haloferax mediterranei	0.00041	D-glucose	*mutant D216K; mutant D344K
+KCAT	Haloferax mediterranei	0.00045	D-glucose	*mutant D172K; mutant D172K/D216K/D344K
+KCAT	Haloferax mediterranei	0.00051	D-glucose	*wild-type
+KCAT	Sulfurisphaera tokodaii	0.0097	D-glucose	*mutant enzyme I189V, at pH 9.0 and 80&deg;C
+KCAT	Sulfurisphaera tokodaii	0.0097	NADP+	*mutant enzyme I189V, at pH 9.0 and 80&deg;C
+KCAT	Sulfurisphaera tokodaii	0.0101	D-glucose	*wild type enzyme, at pH 9.0 and 80&deg;C
+KCAT	Sulfurisphaera tokodaii	0.0101	NADP+	*wild type enzyme, at pH 9.0 and 80&deg;C
+KCAT	Sulfurisphaera tokodaii	0.0167	D-glucose	*mutant enzyme V254I, at pH 9.0 and 80&deg;C
+KCAT	Sulfurisphaera tokodaii	0.0167	NADP+	*mutant enzyme V254I, at pH 9.0 and 80&deg;C
+KCAT	Haloferax mediterranei	0.047	D-glucose	*cosubstrate NAD+, mutant G206D/R207I/R208N, pH 8.8, 40&deg;C
+KCAT	Haloferax mediterranei	0.072	D-glucose	*cosubstrate NAD+, mutant R207I, pH 8.8, 40&deg;C
+KCAT	Sulfurisphaera tokodaii	0.085	D-glucose	*mutant enzyme I189V, at pH 9.0 and 25&deg;C; pH 9.0, 25&deg;C, mutant enzyme I189V
+KCAT	Sulfurisphaera tokodaii	0.085	NADP+	*pH 9.0, 25&deg;C, mutant enzyme I189V
+KCAT	Sulfurisphaera tokodaii	0.0857	NADP+	*mutant enzyme I189V, at pH 9.0 and 25&deg;C
+KCAT	Sulfurisphaera tokodaii	0.11	D-glucose	*pH 9.0, 25&deg;C, wild-type enzyme; wild type enzyme, at pH 9.0 and 25&deg;C
+KCAT	Sulfurisphaera tokodaii	0.11	NADP+	*pH 9.0, 25&deg;C, wild-type enzyme; wild type enzyme, at pH 9.0 and 25&deg;C
+KCAT	Haloferax mediterranei	0.2	D-glucose	*mutant R207I, pH 8.8, 40&deg;C
+KCAT	Sulfurisphaera tokodaii	0.205	D-glucose	*mutant enzyme V254I, at pH 9.0 and 25&deg;C; pH 9.0, 25&deg;C, mutant enzyme V254I
+KCAT	Sulfurisphaera tokodaii	0.205	NADP+	*mutant enzyme V254I, at pH 9.0 and 25&deg;C; pH 9.0, 25&deg;C, mutant enzyme V254I
+KCAT	Haloferax mediterranei	0.26	D-glucose	*cosubstrate NAD+, wild-type, pH 8.8, 40&deg;C; mutant G206D, pH 8.8, 40&deg;C
+KCAT	Haloferax mediterranei	0.5	D-glucose	*wild-type, pH 8.8, 40&deg;C
+KCAT	Haloferax mediterranei	0.57	D-glucose	*cosubstrate NAD+, mutant G206D, pH 8.8, 40&deg;C
+KCAT	Haloferax mediterranei	0.9	D-glucose	*cosubstrate NAD+, mutant G206D/R207I, pH 8.8, 40&deg;C
+KCAT	Sulfurisphaera tokodaii	9.7	D-glucose	*pH 9.0, 80&deg;C, mutant enzyme I189V
+KCAT	Sulfurisphaera tokodaii	9.7	NADP+	*pH 9.0, 80&deg;C, mutant enzyme I189V
+KCAT	Sulfurisphaera tokodaii	10.1	D-glucose	*pH 9.0, 80&deg;C, wild-type enzyme
+KCAT	Sulfurisphaera tokodaii	10.1	NADP+	*pH 9.0, 80&deg;C, wild-type enzyme
+KCAT	Sulfurisphaera tokodaii	16.7	D-glucose	*pH 9.0, 80&deg;C, mutant enzyme V254I
+KCAT	Sulfurisphaera tokodaii	16.7	NADP+	*pH 9.0, 80&deg;C, mutant enzyme V254I

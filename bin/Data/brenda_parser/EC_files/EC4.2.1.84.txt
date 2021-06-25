@@ -1,0 +1,75 @@
+KCAT	Rhodococcus erythropolis	0.0000065	Methacrylonitrile	*mutant enzyme S113A, in 50 mM sodium phosphate, pH 7.5, at 22&deg;C
+KCAT	Rhodococcus erythropolis	0.000016	Methacrylonitrile	*wild type enzyme, in 50 mM sodium phosphate, pH 7.5, at 22&deg;C
+KCAT	Pseudomonas putida	0.0035	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant betaE56Q
+KCAT	Pseudomonas putida	0.0045	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant alphaD164N
+KCAT	Pseudomonas putida	0.01	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant alphaR170N
+KCAT	Pseudomonas putida	0.012	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant betaH147N
+KCAT	Pseudomonas putida	0.02	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant betaH71L
+KCAT	Pseudomonas putida	0.025	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant betaH71N
+KCAT	Pseudomonas putida	0.027	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant betaH71F
+KCAT	Pseudomonas putida	0.04	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant betaY215F
+KCAT	Pseudomonas putida	0.0617	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant alphaE168Q
+KCAT	Pseudomonas putida	0.217	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant mutant alphaY171F
+KCAT	Pseudomonas putida	0.327	n-valeronitrile	*pH 6.7, 0&deg;C, recombinant wild-type enzyme
+KCAT	Streptomyces rimosus	0.44	Toyocamycin	*pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme; pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme; pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme
+KCAT	Rhodococcus rhodochrous	0.74	(R)-mandelonitrile	*pH 7.4, 10&deg;C, wild-type enzyme
+KCAT	Rhodococcus sp.	0.99	Butyronitrile	*+/- 0.04, 10 mM HEPES, pH 7.5, 37&deg;C
+KCAT	Sinorhizobium meliloti	1.04	acetamiprid	*pH 7.5, 30&deg;C
+KCAT	Rhodococcus rhodochrous	1.2	(S)-mandelonitrile	*pH 7.4, 10&deg;C, wild-type enzyme
+KCAT	Rhodococcus rhodochrous	1.4	(S)-mandelonitrile	*pH 7.4, 10&deg;C, mutant enzyme F37H
+KCAT	Rhodococcus sp.	2	acrylonitrile	*+/- 0.5, 10 mM HEPES, pH 7.5, 37&deg;C
+KCAT	Rhodococcus sp.	2.6	Propionitrile	*+/- 0.2, 10 mM HEPES, pH 7.5, 37&deg;C
+KCAT	Pseudonocardia thermophila	4.9	Benzonitrile	*pH 7.6, 25&deg;C, recombinant mutant alphaY114T; pH 7.6, 25&deg;C, recombinant mutant alphaY114T
+KCAT	Pseudonocardia thermophila	7.4	Benzonitrile	*pH 7.6, 25&deg;C, recombinant mutant betaY68F; pH 7.6, 25&deg;C, recombinant mutant betaY68F
+KCAT	Comamonas testosteroni	10	acrylonitrile	*pH 7.0, 25&deg;C, alpha-subunit mutant enzyme R157A
+KCAT	Bacillus sp. (in: Bacteria)	12.4	acetonitrile	*
+KCAT	Pseudonocardia thermophila	14.1	Methacrylonitrile	*pH 7.6, 25&deg;C, recombinant mutant betaY68F; pH 7.6, 25&deg;C, recombinant mutant betaY68F
+KCAT	Pseudonocardia thermophila	15.2	acrylonitrile	*pH 7.6, 25&deg;C, recombinant mutant betaY68F; pH 7.6, 25&deg;C, recombinant mutant betaY68F
+KCAT	Aeribacillus pallidus	17.3	3-Cyanopyridine	*EupergitC-immobilized NHase, at 50&deg;C
+KCAT	Rhodococcus rhodochrous	19.6	5-cyanovaleramide	*pH 7.4, 35&deg;C, mutant enzyme Y68T
+KCAT	Rhodococcus rhodochrous	21.3	5-cyanovaleramide	*pH 7.4, 35&deg;C, mutant enzyme W72Y
+KCAT	Pseudomonas chlororaphis	30.7	Propionitrile	*
+KCAT	Comamonas testosteroni	32	acrylonitrile	*pH 7.0, 25&deg;C, alpha-subunit mutant enzyme R157K
+KCAT	Monosiga brevicollis	33	Benzonitrile	*pH 7.0, 25&deg;C
+KCAT	Pseudonocardia thermophila	33.9	acrylonitrile	*pH 7.6, 25&deg;C, recombinant mutant alphaY114T; pH 7.6, 25&deg;C, recombinant mutant alphaY114T
+KCAT	Pseudonocardia thermophila	34.6	Methacrylonitrile	*pH 7.6, 25&deg;C, recombinant mutant alphaY114T; pH 7.6, 25&deg;C, recombinant mutant alphaY114T
+KCAT	Streptomyces rimosus	35	3-Cyanopyridine	*pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme; pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme; pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme
+KCAT	Rhodococcus rhodochrous	39.1	cyanoacetamide	*pH 7.4, 35&deg;C, mutant enzyme Y68T
+KCAT	Rhodococcus sp.	41	acetonitrile	*+/- 0.9, 10 mM HEPES, pH 7.5, 37&deg;C
+KCAT	Rhodococcus rhodochrous	42.8	cyanoacetamide	*pH 7.4, 35&deg;C, mutant enzyme W72Y
+KCAT	Aeribacillus pallidus	59.05	4-cyanopyridine	*soluble NHase, at 50&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	76.3	Valeronitrile	*
+KCAT	Comamonas testosteroni	77	acrylonitrile	*pH 7.0, 25&deg;C, alpha-subunit mutant enzyme H81A
+KCAT	Streptomyces rimosus	79	3-Cyanopyridine	*pH 65, temperature not specified in the publication, recombinant trimeric enzyme; pH 65, temperature not specified in the publication, recombinant trimeric enzyme; pH 65, temperature not specified in the publication, recombinant trimeric enzyme
+KCAT	Comamonas testosteroni	79	acrylonitrile	*pH 7.0, 25&deg;C, alpha-subunit mutant enzyme H80W/H81W
+KCAT	Pseudonocardia thermophila	90	4-cyanopyridine	*pH 7.6, 25&deg;C, recombinant wild-type enzyme; pH 7.6, 25&deg;C, recombinant wild-type enzyme
+KCAT	Rhodococcus rhodochrous	107.7	4-cyanobenzamide	*pH 7.4, 35&deg;C, wild-type enzyme
+KCAT	Rhodococcus sp.	120	Methacrylonitrile	*mutant betaR56K
+KCAT	Pseudonocardia thermophila	123	Benzonitrile	*pH 7.6, 25&deg;C, recombinant wild-type enzyme; pH 7.6, 25&deg;C, recombinant wild-type enzyme
+KCAT	Monosiga brevicollis	130	acrylonitrile	*pH 7.0, 25&deg;C
+KCAT	Pseudonocardia thermophila	131	3-Cyanopyridine	*pH 7.6, 25&deg;C, recombinant wild-type enzyme; pH 7.6, 25&deg;C, recombinant wild-type enzyme
+KCAT	Sinorhizobium meliloti	131.36	thiacloprid	*pH 7.5, 30&deg;C
+KCAT	Comamonas testosteroni	132	acrylonitrile	*pH 7.0, 25&deg;C, alpha-subunit mutant enzyme H80A/H81A
+KCAT	Pseudonocardia thermophila	132	Benzonitrile	*pH 7.6, 25&deg;C, recombinant mutant alphaT109S; pH 7.6, 25&deg;C, recombinant mutant alphaT109S
+KCAT	Rhodococcus rhodochrous	145.6	2-cyanobenzamide	*pH 7.4, 35&deg;C, wild-type enzyme
+KCAT	Streptomyces rimosus	159	Toyocamycin	*pH 65, temperature not specified in the publication, recombinant trimeric enzyme; pH 65, temperature not specified in the publication, recombinant trimeric enzyme; pH 65, temperature not specified in the publication, recombinant trimeric enzyme
+KCAT	Comamonas testosteroni	220	acrylonitrile	*pH 7.0, 25&deg;C, alpha-subunit mutant enzyme H80A
+KCAT	Rhodococcus rhodochrous	417.2	cyanoacetamide	*pH 7.4, 35&deg;C, wild-type enzyme
+KCAT	Sinorhizobium meliloti	426.68	indole-3-acetonitrile	*pH 7.5, 30&deg;C
+KCAT	Rhodococcus rhodochrous	435.7	5-cyanovaleramide	*pH 7.4, 35&deg;C, wild-type enzyme
+KCAT	Aeribacillus pallidus	443.3	2-Cyanopyridine	*soluble NHase, at 50&deg;C
+KCAT	Pseudonocardia thermophila	482	Methacrylonitrile	*pH 7.6, 25&deg;C, recombinant mutant alphaT109S; pH 7.6, 25&deg;C, recombinant mutant alphaT109S
+KCAT	Pseudonocardia thermophila	621	acrylonitrile	*pH 7.6, 25&deg;C, recombinant mutant alphaT109S; pH 7.6, 25&deg;C, recombinant mutant alphaT109S
+KCAT	Aeribacillus pallidus	629.6	3-Cyanopyridine	*soluble NHase, at 50&deg;C
+KCAT	Pseudomonas putida	720.6	3-Cyanopyridine	*25&deg;C, pH not specified in the publication, subunit-fused wild-type nitrile hydratase
+KCAT	Pseudomonas putida	922.3	3-Cyanopyridine	*25&deg;C, pH not specified in the publication, beta-subunit mutant enzyme M150C
+KCAT	Pseudonocardia thermophila	1000	Methacrylonitrile	*pH 7.6, 25&deg;C, recombinant wild-type enzyme; pH 7.6, 25&deg;C, recombinant wild-type enzyme
+KCAT	Sinorhizobium meliloti	1054.36	3-Cyanopyridine	*pH 7.5, 30&deg;C
+KCAT	Comamonas testosteroni	1100	acrylonitrile	*pH 7.0, 25&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	1112	3-Cyanopyridine	*25&deg;C, pH not specified in the publication, beta-subunit mutant enzyme T173Y
+KCAT	Sinorhizobium meliloti	1489.82	Benzonitrile	*pH 7.5, 30&deg;C
+KCAT	Pseudonocardia thermophila	1910	acrylonitrile	*pH 7.6, 25&deg;C, recombinant wild-type enzyme; pH 7.6, 25&deg;C, recombinant wild-type enzyme
+KCAT	Rhodococcus sp.	2600	Methacrylonitrile	*mutant alphaQ90N
+KCAT	Pseudomonas putida	8935.6	3-Cyanopyridine	*25&deg;C, pH not specified in the publication, beta-subunit mutant enzyme S189E
+KCAT	Rhodococcus sp.	13000	Methacrylonitrile	*mutant alphaQ90E
+KCAT	Rhodococcus sp.	55000	Methacrylonitrile	*wild type

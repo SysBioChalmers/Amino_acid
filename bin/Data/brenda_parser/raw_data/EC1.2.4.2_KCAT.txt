@@ -1,0 +1,1 @@
+ecNumber*1.2.4.2#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Escherichia coli#ligandStructureId*#literature*349022#!ecNumber*1.2.4.2#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Komagataeibacter xylinus#ligandStructureId*#literature*349024#

@@ -1,0 +1,2 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.191	ATP	*pH 8.8, 37&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.251	5'-deoxyadenosylcobinamide	*pH 8.8, 37&deg;C

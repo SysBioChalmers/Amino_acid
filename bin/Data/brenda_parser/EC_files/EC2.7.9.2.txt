@@ -1,0 +1,11 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Saccharolobus solfataricus	0.25	ATP	*65&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	0.326	ATP	*70&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	0.41	pyruvate	*65&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	0.48	pyruvate	*70&deg;C, pH not specified in the publication
+KCAT	Thermoproteus tenax	0.683	pyruvate	*in 100 mM Tris/HCl, pH 7.0, in the presence of 20 mM beta-mercaptoethanol, 6 mM pyruvate, 10 mM ATP and 10 mM MgCl2, at 70&deg;C
+KCAT	Pyrococcus furiosus	8.7	AMP	*pH 8.4, 80&deg;C
+KCAT	Pyrococcus furiosus	11.9	phosphate	*pH 8.4, 80&deg;C
+KCAT	Pyrococcus furiosus	12.6	phosphoenolpyruvate	*pH 8.4, 80&deg;C
+KCAT	Pyrococcus furiosus	1330	ATP	*pH 8.4, 80&deg;C
+KCAT	Pyrococcus furiosus	1570	pyruvate	*pH 8.4, 80&deg;C

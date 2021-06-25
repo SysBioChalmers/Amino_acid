@@ -1,0 +1,3 @@
+KCAT	Pseudomonas putida	0.3	NADP+	*pH 8.5, 30&deg;C
+KCAT	Pseudomonas putida	0.9	NAD+	*pH 8.5, 30&deg;C
+KCAT	Pseudomonas putida	0.9	(R)-mandelate	*pH 8.5, 30&deg;C

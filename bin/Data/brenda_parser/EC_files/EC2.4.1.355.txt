@@ -1,0 +1,4 @@
+KCAT	Staphylococcus aureus	0.053	UDP-N-acetyl-D-glucosamine	*recombinant full-length protein, pH not specified in the publication, temperature not specified in the publication
+KCAT	Staphylococcus aureus	0.062	UDP-N-acetyl-D-glucosamine	*truncated protein, residues 1-349, pH not specified in the publication, temperature not specified in the publication
+KCAT	Staphylococcus aureus	0.6	polyribitol phosphate	*recombinant full-length protein, pH not specified in the publication, temperature not specified in the publication
+KCAT	Staphylococcus aureus	1.1	polyribitol phosphate	*truncated protein, residues 1-349, pH not specified in the publication, temperature not specified in the publication

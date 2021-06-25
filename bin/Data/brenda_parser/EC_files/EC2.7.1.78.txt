@@ -1,0 +1,16 @@
+KCAT	synthetic ribozyme	0.00005	ATP	*pH-independent, 30&Acirc;&deg;C
+KCAT	Mycobacterium virus CJW1	0.0043	ATP	*pH 6.5, 37&Acirc;&deg;C
+KCAT	unidentified baculovirus	0.023	ATP	*pH 5.0, 30&Acirc;&deg;C
+KCAT	Mycobacterium virus Omega	0.2	ATP	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	2.9	ATP	*pH and temperature not specified in the publication
+KCAT	Mycobacterium virus CJW1	0.008	3'-CMP	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Mycobacterium virus Omega	1.6	3'-CMP	*pH 6.5, 37&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.00083	5'-phospho-DNA	*
+KCAT	synthetic ribozyme	0.00283	[gamma-S]ATP	*pH-independent, 30&Acirc;&deg;C
+KCAT	Escherichia virus T4	198	GGGCC(AG)10GGCCC-fluorescein	*
+KCAT	Pyrococcus horikoshii	0.077	5'-OH DNA	*
+KCAT	Hungateiclostridium thermocellum	0.072	5'-HO-CCGACCAACGAAGGT	*wild type enzyme, at pH 7.0 and 37&Acirc;&deg;C
+KCAT	Rhodothermus phage RM378	1.9	r(A20)	*pH 6.0, 65&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	2.6	5'-dephospho-GAAAA-RNA	*pH and temperature not specified in the publication
+KCAT	Rhodothermus phage RM378	2.6	r(A20)	*pH 6.0, 65&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	2.9	5'-dephospho-GC-RNA	*pH and temperature not specified in the publication

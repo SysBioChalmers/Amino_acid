@@ -1,0 +1,28 @@
+KCAT	Ruminococcus albus	0.667	D-allose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	0.763	3-O-methyl-D-glucose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	0.94	3-deoxy-3-fluoro-D-glucose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	2.76	alpha-D-mannose 1-phosphate	*mutant H245A, pH 6.5, 37&deg;C
+KCAT	Ruminococcus albus	5.07	maltose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	5.12	D-mannose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	5.71	2-deoxy-2-fluoro-D-glucose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	6.34	N,N'-diacetylchitobiose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	11.6	laminaribiose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	11.7	2-deoxy-D-glucose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	13.8	sophorose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	15.8	N-acetyl-D-glucosamine	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	17.5	4-O-beta-D-mannopyranosyl-D-glucopyranose	*pH 6.5, 37&deg;C, phosphorolytic reaction, cosubstrate phosphate
+KCAT	Ruminococcus albus	19.3	D-glucose	*mutant H245A, pH 6.5, 37&deg;C
+KCAT	Ruminococcus albus	20.2	cellobiose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	20.7	1,5-anhydro-D-glucitol	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	20.7	methyl alpha-D-glucoside	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Bacteroides fragilis	24.8	phosphate	*pH 7.5, 30&deg;C
+KCAT	Ruminococcus albus	26.1	gentiobiose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	34.5	D-glucose	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	35.2	methyl beta-D-glucoside	*apparent value, pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	42	6-deoxy-6-fluoro-D-glucose	*pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Bacteroides fragilis	42.2	4-O-beta-D-mannopyranosyl-D-glucopyranose	*pH 7.5, 30&deg;C
+KCAT	Ruminococcus albus	45.1	D-glucose	*pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate; pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+KCAT	Ruminococcus albus	52.1	alpha-D-mannose 1-phosphate	*wild-type, pH 6.5, 37&deg;C
+KCAT	Ruminococcus albus	83.3	4-O-beta-D-mannopyranosyl-D-glucopyranose	*pH 6.5, 37&deg;C, phosphorolytic reaction, cosubstrate phosphate
+KCAT	Ruminococcus albus	126	D-glucose	*wild-type, pH 6.5, 37&deg;C
+KCAT	Ruminococcus albus	177	6-deoxy-D-glucose	*pH 6.5, 37&deg;C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate

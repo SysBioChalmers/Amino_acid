@@ -1,0 +1,13 @@
+KCAT	Ferroplasma acidarmanus	0.012	trans-4-hydroxy-L-proline	*pH 8.0, 50&deg;C, mutant enzyme F420W
+KCAT	Thermococcus litoralis	0.014	cis-4-hydroxy-D-proline	*pH 8.0, 50&deg;C, mutant enzyme F62S
+KCAT	Thermococcus litoralis	0.039	trans-4-hydroxy-L-proline	*pH 8.0, 50&deg;C, mutant enzyme F62S
+KCAT	Ferroplasma acidarmanus	0.0395	trans-4-hydroxy-L-proline	*pH 8.0, 50&deg;C, wild-type enzyme
+KCAT	Thermococcus litoralis	0.11	cis-4-hydroxy-D-proline	*pH 8.0, 50&deg;C, mutant enzyme L221H
+KCAT	Thermococcus litoralis	0.13	trans-4-hydroxy-L-proline	*pH 8.0, 50&deg;C, mutant enzyme F62V
+KCAT	Thermococcus litoralis	0.29	trans-3-hydroxy-L-proline	*pH 8.0, 50&deg;C, mutant enzyme W241F
+KCAT	Thermococcus litoralis	0.65	trans-4-hydroxy-L-proline	*pH 8.0, 50&deg;C, mutant enzyme L221H
+KCAT	Thermococcus litoralis	0.69	cis-4-hydroxy-D-proline	*pH 8.0, 50&deg;C, mutant enzyme W241F
+KCAT	Thermococcus litoralis	1.53	trans-4-hydroxy-L-proline	*pH 8.0, 50&deg;C, mutant enzyme W241F
+KCAT	Thermococcus litoralis	3.6	trans-3-hydroxy-L-proline	*pH 8.0, 50&deg;C, wild-type enzyme
+KCAT	Thermococcus litoralis	3.83	cis-4-hydroxy-D-proline	*pH 8.0, 50&deg;C, wild-type enzyme
+KCAT	Thermococcus litoralis	12.13	trans-4-hydroxy-L-proline	*pH 8.0, 50&deg;C, wild-type enzyme

@@ -1,0 +1,20 @@
+KCAT	Pseudomonas sp.	-999	more	*
+KCAT	Rhodococcus erythropolis	0.0567	2-methyl-cis,cis-muconate	*
+KCAT	Rhodococcus erythropolis	0.8	3-methyl-cis,cis-muconate	*
+KCAT	Cupriavidus necator	2.12	(+)-2-Chloromuconolactone	*measurement of substrate consumption
+KCAT	Rhodococcus erythropolis	2.2	2-chloro-cis,cis-muconate	*
+KCAT	Rhodococcus opacus	3.2	3-methyl-cis,cis-muconate	*pH and temperature not specified in the publication
+KCAT	Rhodococcus opacus	3.6	2-chloro-cis,cis-muconate	*pH and temperature not specified in the publication
+KCAT	Cupriavidus necator	3.83	2-chloro-cis,cis-muconate	*measurement of substrate consumption
+KCAT	Cupriavidus necator	3.95	(+)-2-Chloromuconolactone	*measurement of product formation
+KCAT	Rhodococcus erythropolis	4.33	cis,cis-muconate	*
+KCAT	Rhodococcus erythropolis	6.07	3-fluoro-cis,cis-muconate	*
+KCAT	Rhodococcus opacus	8.8	3-chloro-cis,cis-muconate	*pH and temperature not specified in the publication
+KCAT	Cupriavidus necator	10.3	2-chloro-cis,cis-muconate	*measurement of product formation
+KCAT	Rhodococcus erythropolis	22.3	2,4-dichloro-cis,cis-muconate	*
+KCAT	Rhodococcus opacus	24.66	cis,cis-muconate	*pH and temperature not specified in the publication
+KCAT	Cupriavidus necator	24.7	(+)-5-chloromuconolactone	*
+KCAT	Cupriavidus necator	44.7	2,4-dichloro-cis,cis-muconate	*
+KCAT	Cupriavidus necator	57.7	3-chloro-cis,cis-muconate	*
+KCAT	Rhodococcus erythropolis	60.7	3-chloro-cis,cis-muconate	*
+KCAT	Rhodococcus opacus	171000	2-chloro-cis,cis-muconate	*

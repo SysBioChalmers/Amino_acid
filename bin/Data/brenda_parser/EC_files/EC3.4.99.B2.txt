@@ -1,0 +1,6 @@
+KCAT	Paenibacillus sp. B38	0.34	succinyl-D-Asp-7-amido-4-methylcoumarin	*mutant H276A, pH 7.0, 37&deg;C
+KCAT	Paenibacillus sp.	1.66	succinyl-D-Asp-4-methylcoumaryl-7-amide	*pH 8, 37&deg;C, paenidase II
+KCAT	Paenibacillus sp.	1.93	succinyl-D-Asp-4-methylcoumaryl-7-amide	*pH 8, 37&deg;C, paenidase I
+KCAT	Paenibacillus sp. B38	2.88	succinyl-D-Asp-7-amido-4-methylcoumarin	*wild-type, pH 7.0, 37&deg;C
+KCAT	Paenibacillus sp.	4.7	succinyl-D-Asp-p-nitroanilide	*pH 8, 37&deg;C, paenidase I
+KCAT	Paenibacillus sp.	6.6	succinyl-D-Asp-p-nitroanilide	*pH 8, 37&deg;C, paenidase II

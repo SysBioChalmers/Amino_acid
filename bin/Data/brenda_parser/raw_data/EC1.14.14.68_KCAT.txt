@@ -1,0 +1,1 @@
+ecNumber*1.14.14.68#turnoverNumber*1.4#turnoverNumberMaximum*#substrate*9beta-pimara-7,15-diene#commentary*pH 7.5, 32&deg;C#organism*Oryza sativa#ligandStructureId*14135#literature*744147#

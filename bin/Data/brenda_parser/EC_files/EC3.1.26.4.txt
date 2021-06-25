@@ -1,0 +1,49 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Thermus thermophilus	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Escherichia coli	-999	more	*the logarithm of the turnover number of the enzyme increases steeply with pH until a pH-independent region is reached close to neutrality
+KCAT	Archaeoglobus fulgidus	-999	more	*kinetic parameters for the enzyme in the absence and presence of proliferating cell nuclear antigen (PCNA)
+KCAT	Pyrococcus furiosus	0.0005	RNA-RNA duplex	*wild-type, 50&Acirc;&deg;C, presence of Mn2+
+KCAT	Thermus thermophilus	0.003	DNA-RNA-DNA hybrid	*mutant D134H, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.0068	RNA-DNA duplex	*mutant F114E, 50&Acirc;&deg;C, presence of Mn2+
+KCAT	Homo sapiens	0.025	RNA-DNA heteroduplex	*mutant enzyme H264A, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.075	DNA-RNA-DNA hybrid	*mutant A12S, pH 8.0, 30&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.082	DNA-RNA-DNA hybrid	*wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pyrococcus abyssi	0.093	RNA-DNA/DNA hybrid	*pH 8.0, 37&Acirc;&deg;C, purified recombinant His-tagged enzyme
+KCAT	Pyrococcus furiosus	0.093	RNA-RNA duplex	*50&Acirc;&deg;C, pH 8.0, wild-type enzyme, divalent cation: Mn2+
+KCAT	Methanocaldococcus jannaschii	0.11	polyA*dT36	*pH 8.0, 500 mM NaCl, wild-type enzyme
+KCAT	Pyrococcus furiosus	0.11	RNA-DNA duplex	*mutant R113E, 50&Acirc;&deg;C, presence of Mn2+
+KCAT	Thermus thermophilus	0.122	DNA-RNA-DNA hybrid	*mutant A77P, pH 8.0, 30&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.133	DNA-RNA-DNA hybrid	*mutant K75M, pH 8.0, 30&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.133	RNA-DNA*DNA hybrid	*recombinant wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.158	D14R1D3:DNA18	*mutant R291H, pH 8.0, temperature not specified in the publication
+KCAT	Pyrococcus furiosus	0.188	RNA-DNA duplex	*wild-type, 50&Acirc;&deg;C, presence of Mn2+
+KCAT	Archaeoglobus fulgidus	0.192	RNA-DNA*DNA hybrid	*recombinant mutant R146A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.2	DNA-RNA-DNA hybrid	*mutant A12S/K75M, pH 8.0, 30&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.2	RNA-DNA*DNA hybrid	*recombinant mutant R46A and K143A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.208	RNA-DNA*DNA hybrid	*recombinant mutant Y164A, pH 8.0, 30&Acirc;&deg;C
+KCAT	Thermus thermophilus	0.25	DNA-RNA-DNA hybrid	*mutant A12S/A77P, pH 8.0, 30&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	0.255	RNA-DNA duplex	*mutant A115E, 50&Acirc;&deg;C, presence of Mn2+
+KCAT	Pyrococcus furiosus	0.283	RNA-DNA duplex	*wild-type, 50&Acirc;&deg;C, presence of Mg2+
+KCAT	Thermus thermophilus	0.33	DNA-RNA-DNA hybrid	*mutant K75M/A77P, pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.35	D14R1D3:DNA18	*mutant K143I, pH 8.0, temperature not specified in the publication
+KCAT	Homo sapiens	0.4	D14R1D3:DNA18	*wild-type enzyme, pH 8.0, temperature not specified in the publication
+KCAT	Pyrococcus furiosus	0.41	RNA-DNA heteroduplex	*50&Acirc;&deg;C, pH 8.0, divalent cation: Mn2+, mutant enzyme F114E
+KCAT	Thermus thermophilus	0.45	DNA-RNA-DNA hybrid	*mutant A12S/K75M/A77P, pH 8.0, 30&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	0.64	polyA*dT36	*pH 8.0, 50 mM NaCl, wild-type enzyme
+KCAT	Escherichia coli	0.95	DNA-RNA hydrid	*pH 7.8-7.9, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.983	RNA18:DNA18	*mutant R291H, pH 8.0, temperature not specified in the publication
+KCAT	Escherichia coli	1.47	DNA-(oxetane-T)-antisense-RNA hybrid	*pH 7.5, 21&Acirc;&deg;C
+KCAT	Escherichia coli	1.54	DNA-RNA hybrid	*pH 7.5, 21&Acirc;&deg;C
+KCAT	Homo sapiens	2.1	RNA18:DNA18	*mutant K143I, pH 8.0, temperature not specified in the publication
+KCAT	Escherichia coli	2.13	DNA-(azetidine-T)-antisense-RNA hybrid	*pH 7.5, 21&Acirc;&deg;C
+KCAT	Escherichia coli	2.43	DNA-(1',2'-methylene-bridged azetidine-T)-antisense-RNA hybrid	*pH 7.5, 21&Acirc;&deg;C
+KCAT	Escherichia coli	2.5	DNA-(2'-alkoxy-1',2'-methylene-bridged azetidine-T)-antisense-RNA hybrid	*pH 7.5, 21&Acirc;&deg;C
+KCAT	Homo sapiens	3.48	RNA18:DNA18	*wild-type enzyme, pH 8.0, temperature not specified in the publication
+KCAT	Homo sapiens	3.5	RNA-DNA heteroduplex	*wild type enzyme, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	3.97	DNA-(aza-ENA-T)-antisense-RNA hybrid	*pH 7.5, 21&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	6.6	RNA-DNA heteroduplex	*50&Acirc;&deg;C, pH 8.0, divalent cation: Mn2+, mutant enzyme R113E
+KCAT	Pyrococcus furiosus	11.3	RNA-DNA heteroduplex	*50&Acirc;&deg;C, pH 8.0, wild-type enzyme, divalent cation: Mn2+
+KCAT	Pyrococcus furiosus	15.3	RNA-DNA heteroduplex	*50&Acirc;&deg;C, pH 8.0, divalent cation: Mn2+, mutant enzyme A115E
+KCAT	Pyrococcus furiosus	17	RNA-DNA heteroduplex	*50&Acirc;&deg;C, pH 8.0, wild-type enzyme, divalent cation: Mg2+

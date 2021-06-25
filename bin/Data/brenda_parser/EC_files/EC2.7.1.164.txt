@@ -1,0 +1,2 @@
+KCAT	Methanocaldococcus jannaschii	0.069	ATP	*37&deg;C
+KCAT	Methanocaldococcus jannaschii	0.098	L-seryl-tRNASec	*37&deg;C

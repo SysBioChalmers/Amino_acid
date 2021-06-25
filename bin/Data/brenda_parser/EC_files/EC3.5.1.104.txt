@@ -1,0 +1,11 @@
+KCAT	Streptococcus pneumoniae	0.46	4-nitrophenyl acetate	*37&Acirc;&deg;C, pH 7.0
+KCAT	Streptococcus pneumoniae	0.28	4-yethylumbelliferyl acetate	*37&Acirc;&deg;C, pH 7.0
+KCAT	Streptococcus pneumoniae	1.64	4-yethylumbelliferyl acetate	*37&Acirc;&deg;C, pH 8.0
+KCAT	Streptococcus pneumoniae	0.27	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	*mutant enzyme I419G
+KCAT	Streptococcus pneumoniae	0.55	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	*wild-type enzyme
+KCAT	Streptococcus pneumoniae	1.5	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	*mutant enzyme L302A
+KCAT	Streptococcus pneumoniae	1.6	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	*mutant enzyme K304I
+KCAT	Bacillus subtilis	0.24	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacillus cereus	3000	(GlcNAc)5	*pH 6.8, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.099	peptidoglycan-N-acetyl-D-glucosamine	*recombinant enzyme, pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.32	peptidoglycan-N-acetyl-D-glucosamine	*pH 7.0, 37&Acirc;&deg;C

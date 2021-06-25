@@ -1,0 +1,1 @@
+ecNumber*2.3.2.8#turnoverNumber*0.0667#turnoverNumberMaximum*#substrate*L-Arginyl-tRNA#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*20330#literature*488022#

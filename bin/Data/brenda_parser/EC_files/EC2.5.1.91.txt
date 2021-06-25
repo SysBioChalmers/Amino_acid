@@ -1,0 +1,12 @@
+KCAT	Mycobacterium tuberculosis	0.03	(2E,6E,10E)-geranylgeranyl diphosphate	*pH 7.9, 37&deg;C
+KCAT	Mycobacterium tuberculosis	0.052	neryl diphosphate	*pH 7.9, 37&deg;C
+KCAT	Rhodobacter sphaeroides	0.058	(2E,6E,10E)-geranylgeranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	0.06	geranyl diphosphate	*pH 7.9, 37&deg;C
+KCAT	Rhodobacter sphaeroides	0.06	geranyl geranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Rhodobacter sphaeroides	0.067	geranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	0.072	(2E,6E)-farnesyl diphosphate	*pH 7.9, 37&deg;C
+KCAT	Mycobacterium tuberculosis	0.08	isopentenyl diphosphate	*pH 7.9, 37&deg;C
+KCAT	Rhodobacter sphaeroides	0.14	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Rhodobacter sphaeroides	0.143	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Rhodobacter sphaeroides	0.147	(2E,6E)-farnesyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	11.5	(2E,6Z)-farnesyl diphosphate	*pH 7.9, 37&deg;C

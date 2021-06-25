@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	-999	more	*The corrected unwinding rate is 443 base pairs 1/sec, which is due to a single molecule of enzyme that bound to the free double-stranded DNA end opposite the bead, and both translocates and unwinds the DNA in an ATP-dependent manner once the DNA entered the ATP channel. The rate of unwinding increases with increasing ATP concentration and increasing temperature
+KCAT	Escherichia coli	1.4	34-mer ssDNA	*25&deg;C
+KCAT	Escherichia coli	3.7	ds-DNA	*25&deg;C
+KCAT	Escherichia coli	250	ATP	*DNA-unwinding activity
+KCAT	Escherichia coli	740	ATP	*DNA-dependent ATPase activity

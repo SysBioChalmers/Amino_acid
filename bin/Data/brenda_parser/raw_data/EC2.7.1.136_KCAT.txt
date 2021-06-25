@@ -1,0 +1,1 @@
+ecNumber*2.7.1.136#turnoverNumber*1.59#turnoverNumberMaximum*#substrate*ATP#commentary*pH 7.5, 37&deg;C#organism*Escherichia coli#ligandStructureId*4#literature*721302#

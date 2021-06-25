@@ -1,0 +1,1 @@
+ecNumber*2.6.1.51#turnoverNumber*113#turnoverNumberMaximum*#substrate*glyoxylate#commentary*#organism*Drosophila melanogaster#ligandStructureId*101#literature*640085#!ecNumber*2.6.1.51#turnoverNumber*131#turnoverNumberMaximum*#substrate*alanine#commentary*#organism*Drosophila melanogaster#ligandStructureId*654#literature*640085#

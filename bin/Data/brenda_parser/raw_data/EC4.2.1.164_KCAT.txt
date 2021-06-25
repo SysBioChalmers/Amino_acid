@@ -1,0 +1,1 @@
+ecNumber*4.2.1.164#turnoverNumber*0.043#turnoverNumberMaximum*#substrate*dTDP-4-dehydro-2,6-dideoxy-alpha-D-glucose#commentary*pH 7.5, 24&Acirc;&deg;C#organism*Saccharopolyspora spinosa#ligandStructureId*85560#literature*731977#

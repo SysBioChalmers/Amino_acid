@@ -1,0 +1,3 @@
+KCAT	Nostoc punctiforme	178	oleate	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Nostoc punctiforme	135	linoleate	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Nostoc punctiforme	31	alpha-linolenate	*recombinant enzyme, pH and temperature not specified in the publication

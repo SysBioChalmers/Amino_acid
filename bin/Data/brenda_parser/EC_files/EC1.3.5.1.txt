@@ -1,0 +1,62 @@
+KCAT	Escherichia coli	0.1	succinate	*mutant K228R, cosubstrate ubiquinone, pH 7.9, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.3	succinate	*mutant K228L, cosubstrate ubiquinone, pH 7.9, 30&Acirc;&deg;C
+KCAT	Paracoccus denitrificans	10	succinate	*mutant enzyme
+KCAT	Escherichia coli	20.4	succinate	*mutant E49F, cosubstrate ubiquinone, pH 7.9, 30&Acirc;&deg;C
+KCAT	Escherichia coli	23	succinate	*mutant E49L, cosubstrate ubiquinone, pH 7.9, 30&Acirc;&deg;C
+KCAT	Escherichia coli	24	succinate	*wild-type, cosubstrate ubiquinone, pH 7.9, 30&Acirc;&deg;C
+KCAT	Bos taurus	28.3	succinate	*
+KCAT	Rhodospirillum rubrum	66.7	succinate	*
+KCAT	Escherichia coli	78	succinate	*30&Acirc;&deg;C, pH 7.8
+KCAT	Bos taurus	83.3	succinate	*based on FAD content, dependency on assay temperature
+KCAT	Escherichia coli	85	succinate	*fumarate reduction, pH 7.8, 30&Acirc;&deg;C
+KCAT	Escherichia coli	90	succinate	*
+KCAT	Bos taurus	167	succinate	*
+KCAT	Mammalia	167	succinate	*
+KCAT	Escherichia coli	167	succinate	*
+KCAT	Paracoccus denitrificans	260	succinate	*wild-type enzyme
+KCAT	Thermus thermophilus	1.83	2,6-dichlorophenolindophenol	*pH 7.6, 30&Acirc;&deg;C
+KCAT	Escherichia coli	-999	fumarate	*with menaquinone EC 1.3.5.4: , succinate oxidation: 3.4 s-1, pH 7.8, 30&Acirc;&deg;C
+KCAT	Escherichia coli	1.7	fumarate	*succinate oxidation, pH 7.8, 30&Acirc;&deg;C
+KCAT	Rhodothermus marinus	79.6	fumarate	*65&Acirc;&deg;C, pH 6.5
+KCAT	Thermus thermophilus	1.67	menadione	*with 2,6-dichlorophenolindophenol, pH 7.6, 30&Acirc;&deg;C
+KCAT	Bos taurus	0.142	L-malate	*
+KCAT	Thermus thermophilus	8.33	phenazine methosulfate	*with 2,6-dichlorophenolindophenol, pH 7.6, 30&Acirc;&deg;C
+KCAT	Escherichia coli	11.6	ubiquinone	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHB mutant G227L
+KCAT	Escherichia coli	15.6	ubiquinone	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant E101L
+KCAT	Escherichia coli	16.2	ubiquinone	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant D95L
+KCAT	Escherichia coli	17.4	ubiquinone	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHD mutant Q78L
+KCAT	Escherichia coli	18.6	ubiquinone	*pH 7.0, 25&Acirc;&deg;C, recombinant subunit SDHB/C mutant G227L/D95E
+KCAT	Escherichia coli	20.9	ubiquinone	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant E101D
+KCAT	Escherichia coli	22.3	ubiquinone	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant D95E
+KCAT	Escherichia coli	24.8	ubiquinone	*pH 7.0, 25&Acirc;&deg;C, recombinant subunit SDHB/C mutant G227L/D95L
+KCAT	Escherichia coli	37.9	ubiquinone	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Thermus thermophilus	3.67	1,4-Naphthoquinone	*with 2,6-dichlorophenolindophenol, pH 7.6, 30&Acirc;&deg;C
+KCAT	Bos taurus	0.283	D-malate	*
+KCAT	Thermus thermophilus	2.167	duroquinone	*with 2,6-dichlorophenolindophenol, pH 7.6, 30&Acirc;&deg;C
+KCAT	Escherichia coli	35	2,3-dimethoxy-5-methyl-1,4-benzoquinone	*isolated complex
+KCAT	Escherichia coli	182	2,3-dimethoxy-5-methyl-1,4-benzoquinone	*membrane preparation
+KCAT	Escherichia coli	7.7	reduced plumbagin	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant E101L
+KCAT	Escherichia coli	8.6	reduced plumbagin	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant D95L
+KCAT	Escherichia coli	9.1	reduced plumbagin	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHB mutant G227L
+KCAT	Escherichia coli	9.3	reduced plumbagin	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHD mutant Q78L
+KCAT	Escherichia coli	10.4	reduced plumbagin	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant E101D
+KCAT	Escherichia coli	12.7	reduced plumbagin	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant D95E
+KCAT	Escherichia coli	15.9	reduced plumbagin	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	21.5	reduced plumbagin	*pH 7.0, 25&Acirc;&deg;C, recombinant subunit SDHB/C mutant G227L/D95L
+KCAT	Escherichia coli	23	reduced plumbagin	*pH 7.0, 25&Acirc;&deg;C, recombinant subunit SDHB/C mutant G227L/D95E
+KCAT	Saccharomyces cerevisiae	3.6	2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone	*22&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	60	2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone	*22&Acirc;&deg;C
+KCAT	Escherichia coli	9.4	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 7.0, 25&Acirc;&deg;C, recombinant subunit SDHB/C mutant G227L/D95L
+KCAT	Escherichia coli	12.6	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant E101L
+KCAT	Escherichia coli	15.9	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHB mutant G227L
+KCAT	Escherichia coli	17.4	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant D95L
+KCAT	Escherichia coli	18	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant E101D
+KCAT	Escherichia coli	19.9	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 7.0, 25&Acirc;&deg;C, recombinant subunit SDHB/C mutant G227L/D95E
+KCAT	Escherichia coli	20.8	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHD mutant Q78L
+KCAT	Escherichia coli	20.9	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	29.6	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	*pH 8.0, 25&Acirc;&deg;C, recombinant subunit SDHC mutant D95E
+KCAT	Paracoccus denitrificans	0.2	naphthoquinol	*mutant enzyme
+KCAT	Paracoccus denitrificans	2	naphthoquinol	*wild-type enzyme
+KCAT	Escherichia coli	82	succinate-phenazine ethosulfate	*30&Acirc;&deg;C, pH 7.8
+KCAT	Bacillus subtilis	-999	more	*
+KCAT	Escherichia coli	-999	more	*succinate-quinone and quinol-fumarate reductase reaction of succinate dehydrogenase and fumarate reductase

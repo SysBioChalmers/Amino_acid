@@ -1,0 +1,1 @@
+ecNumber*1.1.1.60#turnoverNumber*243#turnoverNumberMaximum*#substrate*NADH#commentary*#organism*Pseudomonas putida#ligandStructureId*8#literature*287165#!ecNumber*1.1.1.60#turnoverNumber*243#turnoverNumberMaximum*#substrate*NADH#commentary*#organism*Pseudomonas putida#ligandStructureId*8#literature*287166#

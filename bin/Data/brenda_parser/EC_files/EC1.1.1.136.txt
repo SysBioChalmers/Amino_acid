@@ -1,0 +1,4 @@
+KCAT	Escherichia coli	1.41	NAD+	*pH 8, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhi	15.5	NAD+	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	0.97	UDP-N-acetyl-D-glucosamine	*pH 8, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhi	15.5	UDP-N-acetyl-D-glucosamine	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme

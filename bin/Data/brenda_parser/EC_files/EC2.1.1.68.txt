@@ -1,0 +1,9 @@
+KCAT	Vanilla planifolia	0.068	myricetin	*; 
+KCAT	Arabidopsis thaliana	0.16	quercetin	*pH 7.5, temperature not specified in the publication
+KCAT	Vanilla planifolia	0.23	methyl gallate	*; 
+KCAT	Arabidopsis thaliana	0.62	caffeic acid	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	1.3	5-hydroxyferulic acid	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	1.52	caffeoyl alcohol	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	1.55	caffeoyl aldehyde	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	2.23	5-hydroxyconiferyl alcohol	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	2.85	5-hydroxyconiferyl aldehyde	*pH 7.5, temperature not specified in the publication

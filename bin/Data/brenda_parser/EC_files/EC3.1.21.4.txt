@@ -1,0 +1,15 @@
+KCAT	Brevibacillus brevis	0.0025	DNA	*37&deg;C, R1+-R2- mutant
+KCAT	Brevibacillus brevis	0.0037	DNA	*37&deg;C, R1-R2+ mutant
+KCAT	Escherichia coli	0.0167	ColE1	*EcoRI, activated by Co2+, 37&deg;C
+KCAT	Escherichia coli	0.018	DNA	*wild type enzyme with 2-site DNA
+KCAT	Escherichia coli	0.0217	Lambda DNA	*EcoR1, 37&deg;C
+KCAT	Escherichia coli	0.025	SV40 DNA	*EcoR1, 37&deg;C
+KCAT	Bacillus amyloliquefaciens	0.0267	NTP14 DNA	*BamHI, 37&deg;C
+KCAT	Escherichia coli	0.03	pBR322	*EcoRI, pBR322, 37&deg;C
+KCAT	Bacillus amyloliquefaciens	0.0367	pJC80 DNA	*BamHI, 37&deg;C
+KCAT	Brevibacillus brevis	0.048	DNA	*37&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.0667	ColE1	*EcoRI, activated by Mg2+
+KCAT	Escherichia coli	0.0667	d(pT-G-A-A-T-T-C-A)	*EcoRI, 12&deg;C
+KCAT	Bacillus amyloliquefaciens	600	d(G-G-T-5-bromodeoxyuridineA-A-C-C)	*Hpa, 25&deg;C
+KCAT	Haemophilus parainfluenzae	600	d(G-G-T-5-bromodeoxyuridineA-A-C-C)	*
+KCAT	Haemophilus parainfluenzae	2830	d(G-G-T-T-A-A-C-C)	*HpaI, 25&deg;C

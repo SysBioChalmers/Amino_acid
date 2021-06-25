@@ -1,0 +1,11 @@
+KCAT	Arabidopsis thaliana	0.0333	O-phosphohomoserine	*without S-adenosylmethionine
+KCAT	Thermus thermophilus	0.034	phosphate	*pH 8.0, 25&deg;C
+KCAT	Arabidopsis thaliana	0.4	O-phosphohomoserine	*without S-adenosylmethionine
+KCAT	Thermus thermophilus	0.61	L-Vinylglycine	*pH 8.0, 25&deg;C
+KCAT	Thermus thermophilus	0.8	O-phospho-L-homoserine	*pH 8.0, 25&deg;C
+KCAT	Arabidopsis thaliana	0.86	O-phosphohomoserine	*in presence of S-adenosylmethionine
+KCAT	Arabidopsis thaliana	3.5	O-phosphohomoserine	*at 0.06 mM S-adenosylmethionine
+KCAT	Escherichia coli	4	O-phospho-L-homoserine	*pH 8.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	7.3	O-phospho-L-homoserine	*
+KCAT	Escherichia coli	7.33	O-phosphohomoserine	*
+KCAT	Methanosarcina acetivorans C2A	4080	O-phospho-L-homoserine	*

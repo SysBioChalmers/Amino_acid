@@ -1,0 +1,9 @@
+KCAT	Arthrobacter dextranolyticus	496	Dextran	*60&Acirc;&deg;C, pH 3.5
+KCAT	Arthrobacter globiformis	0.194	4-nitrophenyl alpha-isomaltoside	*pH 5.3, 30&Acirc;&deg;C, mutant M243A
+KCAT	Arthrobacter globiformis	8.7	4-nitrophenyl alpha-isomaltoside	*pH 5.3, 30&Acirc;&deg;C, mutant D207A
+KCAT	Arthrobacter globiformis	9.26	4-nitrophenyl alpha-isomaltoside	*pH 5.3, 30&Acirc;&deg;C, mutant D207A/N209A
+KCAT	Arthrobacter globiformis	23.6	4-nitrophenyl alpha-isomaltoside	*pH 5.3, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Arthrobacter globiformis	1.03	dextran T2000	*pH 5.3, 30&Acirc;&deg;C, mutant M243A
+KCAT	Arthrobacter globiformis	1.66	dextran T2000	*pH 5.3, 30&Acirc;&deg;C, mutant D207A
+KCAT	Arthrobacter globiformis	3.06	dextran T2000	*pH 5.3, 30&Acirc;&deg;C, mutant D207A/N209A
+KCAT	Arthrobacter globiformis	51.6	dextran T2000	*pH 5.3, 30&Acirc;&deg;C, wild-type enzyme

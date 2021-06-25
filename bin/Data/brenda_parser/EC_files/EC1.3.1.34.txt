@@ -1,0 +1,8 @@
+KCAT	Escherichia coli	0.008	NADPH	*mutant enzyme C337A, in 50 mM potassium phosphate buffer (pH 7.4)
+KCAT	Escherichia coli	0.011	NADPH	*mutant enzyme H252A, in 50 mM potassium phosphate buffer (pH 7.4)
+KCAT	Escherichia coli	0.15	NADPH	*mutant enzyme E164A, in 50 mM potassium phosphate buffer (pH 7.4)
+KCAT	Escherichia coli	0.44	NADPH	*mutant enzyme H252A/Y166F, in 50 mM potassium phosphate buffer (pH 7.4)
+KCAT	Rattus norvegicus	2.1	2-trans,4-trans-hexadienoyl-CoA	*
+KCAT	Escherichia coli	2.5	NADPH	*mutant enzyme Y166F, in 50 mM potassium phosphate buffer (pH 7.4)
+KCAT	Escherichia coli	9.5	NADPH	*wild type enzyme, in 50 mM potassium phosphate buffer (pH 7.4)
+KCAT	Escherichia coli	16	2-trans,4-trans-decadienoyl-CoA	*

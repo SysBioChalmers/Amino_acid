@@ -1,0 +1,2 @@
+KCAT	Bos taurus	2.45	prostaglandin H2	*
+KCAT	Bos taurus	26.5	Prostaglandin H1	*

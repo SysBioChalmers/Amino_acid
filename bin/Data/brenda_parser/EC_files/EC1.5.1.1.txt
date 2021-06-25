@@ -1,0 +1,25 @@
+KCAT	Azospirillum brasilense	0.0069	L-proline	*purified recombinant His-tagged enzyme, with NAD+, pH 6.5, 30&deg;C
+KCAT	Colwellia psychrerythraea	0.0069	L-proline	*pH 10.5, 30&deg;C, coenzyme: NAD+
+KCAT	Colwellia psychrerythraea	0.02	L-pipecolate	*pH 10.5, 30&deg;C, coenzyme: NADP+
+KCAT	Azospirillum brasilense	0.0213	L-pipecolate	*purified recombinant His-tagged enzyme, with NADP+, pH 6.5, 30&deg;C
+KCAT	Colwellia psychrerythraea	0.088	DELTA1-piperidine-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADH
+KCAT	Colwellia psychrerythraea	1.02	(4R)-DELTA1-pyrroline-4-hydroxy-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADPH
+KCAT	Azospirillum brasilense	1.09	L-proline	*purified recombinant His-tagged enzyme, with NADP+, pH 6.5, 30&deg;C
+KCAT	Colwellia psychrerythraea	1.09	L-proline	*pH 10.5, 30&deg;C, coenzyme: NADP+
+KCAT	Colwellia psychrerythraea	1.38	DELTA1-piperidine-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADPH
+KCAT	Azospirillum brasilense	2.5	L-pipecolate	*pH 10.5, 30&deg;C, coenzyme: NADP+
+KCAT	Azospirillum brasilense	3.7	L-pipecolate	*pH 10.5, 30&deg;C, coenzyme: NAD+
+KCAT	Azospirillum brasilense	3.92	L-proline	*pH 10.5, 30&deg;C, coenzyme: NADP+
+KCAT	Azospirillum brasilense	4.23	L-proline	*pH 10.5, 30&deg;C, coenzyme: NAD+
+KCAT	Azospirillum brasilense	10.35	1-pyrroline-(4R)-hydroxy-2-carboxylate	*purified recombinant His-tagged enzyme, with NADPH, pH 6.5, 30&deg;C
+KCAT	Colwellia psychrerythraea	10.35	DELTA1-pyrroline-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADH
+KCAT	Azospirillum brasilense	10.35	DELTA1-pyrroline-(4R)-hydroxy-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADPH
+KCAT	Colwellia psychrerythraea	124.5	DELTA1-pyrroline-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADPH
+KCAT	Azospirillum brasilense	161.5	1-piperideine-2-carboxylate	*purified recombinant His-tagged enzyme, with NADH, pH 6.5, 30&deg;C
+KCAT	Azospirillum brasilense	161.5	DELTA1-piperidine-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADH
+KCAT	Azospirillum brasilense	165.8	DELTA1-piperidine-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADPH
+KCAT	Azospirillum brasilense	166	1-piperideine-2-carboxylate	*purified recombinant His-tagged enzyme, with NADPH, pH 6.5, 30&deg;C
+KCAT	Azospirillum brasilense	523	1-pyrroline-2-carboxylate	*purified recombinant His-tagged enzyme, with NADPH, pH 6.5, 30&deg;C
+KCAT	Azospirillum brasilense	523.3	DELTA1-pyrroline-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADPH
+KCAT	Azospirillum brasilense	615	1-pyrroline-2-carboxylate	*purified recombinant His-tagged enzyme, with NADH, pH 6.5, 30&deg;C
+KCAT	Azospirillum brasilense	615	DELTA1-pyrroline-2-carboxylate	*pH 6.5, 30&deg;C, coenzyme: NADH

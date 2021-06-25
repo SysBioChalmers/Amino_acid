@@ -1,0 +1,26 @@
+KCAT	Saccharolobus solfataricus	1.5	2-oxobutanoate	*pH 7.0, 55&deg;C
+KCAT	Saccharolobus solfataricus	1.55	2-oxobutyrate	*pH 7.0, 55&deg;C
+KCAT	Sulfolobus sp.	1.7	2-oxoglutarate	*pH 7.5, 80&deg;C, mutant enzyme I255V
+KCAT	Sulfolobus sp.	2.2	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme P253F
+KCAT	Saccharolobus solfataricus	2.4	pyruvate	*pH 7.0, 55&deg;C
+KCAT	Sulfolobus sp.	3.2	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme I255S
+KCAT	Sulfolobus sp.	3.6	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme P254G
+KCAT	Sulfolobus sp.	4.1	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme T256S
+KCAT	Sulfolobus sp.	4.3	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme T256A
+KCAT	Sulfolobus sp.	4.6	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme T256V
+KCAT	Sulfolobus sp.	5.1	2-oxoglutarate	*pH 7.5, 80&deg;C, mutant enzyme I255L
+KCAT	Sulfolobus sp.	5.2	2-oxoglutarate	*pH 7.5, 80&deg;C, mutant enzyme P254G
+KCAT	Sulfolobus sp.	5.3	2-oxoglutarate	*pH 7.5, 80&deg;C, mutant enzyme P253F
+KCAT	Sulfolobus sp.	5.5	2-oxoglutarate	*pH 7.5, 80&deg;C, mutant enzyme T256A
+KCAT	Sulfolobus sp.	5.7	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme I255L
+KCAT	Sulfolobus sp.	6	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme I255V
+KCAT	Sulfolobus sp.	6.7	2-oxoglutarate	*pH 7.5, 80&deg;C, mutant enzyme T256V
+KCAT	Sulfolobus sp.	7.4	2-oxoglutarate	*pH 7.5, 80&deg;C, mutant enzyme I255S; pH 7.5, 80&deg;C, mutant enzyme T256S
+KCAT	Saccharolobus solfataricus	7.5	2-oxoglutarate	*pH 7.0, 55&deg;C
+KCAT	Saccharolobus solfataricus	7.53	2-oxoglutarate	*pH 7.0, 55&deg;C
+KCAT	Sulfolobus sp.	7.9	pyruvate	*pH 7.5, 80&deg;C, mutant enzyme I255M
+KCAT	Sulfolobus sp.	10	2-oxoglutarate	*pH 7.5, 80&deg;C, mutant enzyme I255M
+KCAT	Sulfolobus sp.	17	2-oxoglutarate	*pH 7.5, 80&deg;C, recombinant enzyme
+KCAT	Sulfolobus sp.	19	2-oxoglutarate	*pH 7.5, 80&deg;C, natural enzyme
+KCAT	Sulfolobus sp.	48	pyruvate	*pH 7.5, 80&deg;C, recombinant enzyme
+KCAT	Sulfolobus sp.	51	pyruvate	*pH 7.5, 80&deg;C, naturale enzyme

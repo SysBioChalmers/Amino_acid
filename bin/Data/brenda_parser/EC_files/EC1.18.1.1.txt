@@ -1,0 +1,1 @@
+KCAT	Desulfovibrio gigas	8.42	Desulfovibrio gigas rubredoxin	*

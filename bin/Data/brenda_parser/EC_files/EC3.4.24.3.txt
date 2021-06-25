@@ -1,0 +1,6 @@
+KCAT	Hathewaya histolytica	0.092	furylacryloyl-Leu-Gly-Pro-Ala	*isoform ColG with N-terminal His6-tag, pH 7.5, 25&deg;C
+KCAT	Hathewaya histolytica	0.11	furylacryloyl-Leu-Gly-Pro-Ala	*wild-type ColG, pH 7.5, 25&deg;C
+KCAT	Clostridium tetani	3.65	furylacryloyl-Leu-Gly-Pro-Ala	*isoform ColT with N-terminal His6-tag, pH 7.5, 25&deg;C
+KCAT	Clostridium tetani	7.24	furylacryloyl-Leu-Gly-Pro-Ala	*wild-type ColT, pH 7.5, 25&deg;C
+KCAT	Hathewaya histolytica	13.6	furylacryloyl-Leu-Gly-Pro-Ala	*isoform ColH with N-terminal His6-tag, pH 7.5, 25&deg;C
+KCAT	Hathewaya histolytica	15.9	furylacryloyl-Leu-Gly-Pro-Ala	*wild-type ColH, pH 7.5, 25&deg;C

@@ -1,0 +1,4 @@
+KCAT	Salmonella enterica	1.8	D-ornithine	*pH 7.0, 37&deg;C, recombinant enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1.8	D-ornithine	*pH 7.0, 25&deg;C, recombinant His-tagged enzyme
+KCAT	Salmonella enterica	4.4	D-Lysine	*pH 7.0, 37&deg;C, recombinant enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.4	D-Lysine	*pH 7.0, 25&deg;C, recombinant His-tagged enzyme

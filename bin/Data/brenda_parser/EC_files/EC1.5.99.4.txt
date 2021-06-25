@@ -1,0 +1,2 @@
+KCAT	Oryctolagus cuniculus	0.468	(S)-nicotine	*respiratory
+KCAT	Oryctolagus cuniculus	0.597	(S)-nicotine	*olfactory

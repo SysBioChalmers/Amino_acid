@@ -1,0 +1,3 @@
+KCAT	Nocardia farcinica	0.67	lanosterol	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Nocardia farcinica	16.7	lanosterol	*FprD fusion construct F1, pH 7.0, temperature not specified in the publication
+KCAT	Nocardia farcinica	21.9	lanosterol	*FprD fusion construct F2, pH 7.0, temperature not specified in the publication

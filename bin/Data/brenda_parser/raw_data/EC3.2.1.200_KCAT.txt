@@ -1,0 +1,1 @@
+ecNumber*3.2.1.200#turnoverNumber*5000#turnoverNumberMaximum*#substrate*colloidal chitin#commentary*pH 4.0, 70&deg;C#organism*Bacillus licheniformis#ligandStructureId*#literature*750817#

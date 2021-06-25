@@ -1,0 +1,1 @@
+ecNumber*3.2.1.63#turnoverNumber*15.4#turnoverNumberMaximum*#substrate*alpha-L-Fuc-(1-&gt;2)-D-Gal#commentary*at pH 7.0 and 37&Acirc;&deg;C#organism*Clostridium perfringens#ligandStructureId*233079#literature*750985#

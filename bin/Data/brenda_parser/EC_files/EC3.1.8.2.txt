@@ -1,0 +1,52 @@
+KCAT	Sphingobium fuliginis	0.0115	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM glycerol
+KCAT	Sphingobium fuliginis	0.0117	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme
+KCAT	Sphingobium fuliginis	0.0123	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM ethanol; pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM methanol
+KCAT	Sphingobium fuliginis	0.0142	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM 3-amino-1-propanol
+KCAT	Sphingobium fuliginis	0.0148	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM triethylamine
+KCAT	Sphingobium fuliginis	0.0151	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM thiodipropanol
+KCAT	Sphingobium fuliginis	0.0155	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM triethylamine and 300 mM ethanol
+KCAT	Sphingobium fuliginis	0.0163	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM diethylamine
+KCAT	Sphingobium fuliginis	0.0178	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM diethylamine and 300 mM ethanol
+KCAT	Sphingobium fuliginis	0.018	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM ethylamine
+KCAT	Sphingobium fuliginis	0.0193	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM methylamine
+KCAT	Sphingobium fuliginis	0.0195	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM 1-amino-2-propanol; pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM ethylamine and 300 mM ethanol
+KCAT	Sphingobium fuliginis	0.0209	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 400 mM monoethanolamine
+KCAT	Sphingobium fuliginis	0.0211	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM 2-amino-2-methyl-1-propanol
+KCAT	Sphingobium fuliginis	0.0216	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM methylamine and 300 mM ethanol
+KCAT	Sphingobium fuliginis	0.0295	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM thiodiglycol
+KCAT	Sphingobium fuliginis	0.031	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant mutant L140Y
+KCAT	Sphingobium fuliginis	0.0312	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 400 mM diethanolamine
+KCAT	Sphingobium fuliginis	0.0361	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM triisopropanolamine
+KCAT	Sphingobium fuliginis	0.042	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 300 mM triethanolamine
+KCAT	Sphingobium fuliginis	0.0477	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant wild-type enzyme, with 400 mM triethanolamine
+KCAT	Sphingobium fuliginis	0.048	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant mutant F132Y/L140Y
+KCAT	Sphingobium fuliginis	0.049	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant mutant F132Y
+KCAT	Sphingobium fuliginis	0.142	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant mutant L140Y, with 300 mM triethanolamine
+KCAT	Sphingobium fuliginis	0.182	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant mutant F132Y, with 300 mM triethanolamine
+KCAT	Sphingobium fuliginis	0.217	diisopropyl fluorophosphate	*pH 8.0, 25&deg;C, recombinant mutant F132Y/L140Y, with 300 mM triethanolamine
+KCAT	Brevundimonas diminuta	0.3	O-ethyl S-(2-diisopropylamino)ethyl methylphosphonothioate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Brevundimonas diminuta	5	O-pinacolyl methylphosphonofluoridate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Alteromonas sp.	6.11	paraoxon	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	9.69	diisopropyl fluorophosphate	*pH 10.5, 25&deg;C, recombinant PON1 wild-type enzyme
+KCAT	Homo sapiens	20.35	diisopropyl fluorophosphate	*pH 10.5, 25&deg;C, recombinant PON1-hFc fusion enzyme
+KCAT	Brevundimonas diminuta	56	O-isopropylmethylphosphonofluoridate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Brevundimonas diminuta	67	fensulfothion	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Alteromonas sp.	151	O-pinacolyl methylphosphonofluoridate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Brevundimonas diminuta	176	diazinon	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Brevundimonas diminuta	189	methyl parathion	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Loligo vulgaris	208	diisopropyl fluorophosphate	*pH 8, 35&deg;C, effects of pH, temperature and ionic strength on kcat are studied
+KCAT	Loligo vulgaris	211	diisopropyl fluorophosphate	*wild type enzyme
+KCAT	Alteromonas sp.	230	diisopropyl fluorophosphate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Loligo vulgaris	291	diisopropyl fluorophosphate	*mutant enzyme E37A/Y144A/R146A/T195M
+KCAT	Loligo vulgaris	376	diisopropyl fluorophosphate	*mutant enzyme E37D/Y144A/R16A/T195M
+KCAT	Alteromonas sp.	442	O-isopropylmethylphosphonofluoridate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Brevundimonas diminuta	465	diisopropyl fluorophosphate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Alteromonas sp.	583	diisopropyl fluorophosphate	*pH 7.5, 22&deg;C
+KCAT	Brevundimonas diminuta	610	Coumaphos	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Brevundimonas diminuta	630	parathion	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Alteromonas sp.	652	O-cyclohexyl methylphosphonofluoridate	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Pseudoalteromonas undina	917	diisopropyl fluorophosphate	*value above
+KCAT	Loligo vulgaris	2091	diisopropyl fluorophosphate	*wild-type, presence of 3 mM O,O-dicyclopentylphosphoroamidate, pH 7.5, 25&deg;C, in nitrogen atmosphere
+KCAT	Loligo vulgaris	2107	diisopropyl fluorophosphate	*wild-type, pH 7.5, 25&deg;C, in nitrogen atmosphere
+KCAT	Loligo vulgaris	2111	diisopropyl fluorophosphate	*wild-type, presence of 1 mM O,O-dicyclopentylphosphoroamidate, pH 7.5, 25&deg;C, in nitrogen atmosphere
+KCAT	Brevundimonas diminuta	3170	paraoxon	*pH not specified in the publication, temperature not specified in the publication

@@ -1,0 +1,4 @@
+KCAT	Vibrio harveyi	15.5	NADPH	*pH 7.0, 23&Acirc;&deg;C
+KCAT	Pseudomonas putida	128	FAD	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas putida	283	FMN	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Photobacterium leiognathi	-999	more	*LuxG releases FMNH- with a rate constant of 4.5-6/s. The anaerobic reaction of LuxG with NADH involves half-sites reactivity, with the first flavin being reduced at a rate of 68/s and the second at a rate of 2.8/s

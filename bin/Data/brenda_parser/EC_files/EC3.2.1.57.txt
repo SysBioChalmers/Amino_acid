@@ -1,0 +1,2 @@
+KCAT	Aspergillus niger	0.36	panose	*mutant enzyme W402F
+KCAT	Aspergillus niger	180	panose	*wild-type enzyme

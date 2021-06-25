@@ -1,0 +1,47 @@
+KCAT	Thermoplasma acidophilum	0.09	pyruvate	*pH 7.0, 55&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	2.14	pyruvate	*
+KCAT	Homo sapiens	0.19	thiamine diphosphate	*wild-type, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; wild-type, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Homo sapiens	0.31	thiamine diphosphate	*mutant Y300A, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; mutant Y300A, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Homo sapiens	0.41	thiamine diphosphate	*mutant R301A, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; mutant R301A, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Homo sapiens	0.42	thiamine diphosphate	*mutant D295A, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; mutant D295A, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Homo sapiens	0.53	thiamine diphosphate	*mutant Y300F, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; mutant Y300F, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Psychrobacter arcticus	1.7	phenylpyruvate	*pH and temperature not specified in the publication
+KCAT	Psychrobacter cryohalolentis	1.8	phenylpyruvate	*pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	7.5	phenylpyruvate	*
+KCAT	Mycobacterium tuberculosis	5.98	2-oxobutyrate	*
+KCAT	Mycobacterium tuberculosis	3.89	4-hydroxyphenylpyruvate	*
+KCAT	Mycobacterium tuberculosis	18.57	benzoylformate	*
+KCAT	Thermoplasma acidophilum	0.17	4-methyl-2-oxopentanoate	*pH 7.0, 55&Acirc;&deg;C
+KCAT	Psychrobacter arcticus	7	4-methyl-2-oxopentanoate	*pH and temperature not specified in the publication
+KCAT	Psychrobacter cryohalolentis	8.5	4-methyl-2-oxopentanoate	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.19	2-oxoisovalerate	*wild-type, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; wild-type, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Homo sapiens	0.38	2-oxoisovalerate	*mutant Y300A, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; mutant Y300A, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Homo sapiens	0.41	2-oxoisovalerate	*mutant R301A, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; mutant R301A, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Homo sapiens	0.48	2-oxoisovalerate	*mutant D295A, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; mutant D295A, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Homo sapiens	0.57	2-oxoisovalerate	*mutant Y300F, pH 7.5, 30&Acirc;&deg;C, E1b-catalyzed decarboxylation reaction; mutant Y300F, pH 7.5, 30&Acirc;&deg;C, overall reaction
+KCAT	Bacillus subtilis	0.8	2-oxoisovalerate	*mutant Q487G, pH 7.0, 37&Acirc;&deg;C; mutant Q487S, pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	1.1	2-oxoisovalerate	*mutant Q487A, pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	4.8	2-oxoisovalerate	*mutant Q487I, pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	5.4	2-oxoisovalerate	*mutant Q487L, pH 7.0, 37&Acirc;&deg;C
+KCAT	Bacillus subtilis	8.9	2-oxoisovalerate	*wild-type, pH 7.0, 37&Acirc;&deg;C
+KCAT	Thermoplasma acidophilum	0.3	3-methyl-2-oxobutanoate	*pH 7.0, 55&Acirc;&deg;C
+KCAT	Lactococcus lactis	5.2	3-methyl-2-oxobutanoate	*mutant V461I/A290M/Q252N/D306G/E316R/F388Y/I404C, pH 6.5, 30&Acirc;&deg;C
+KCAT	Lactococcus lactis	43	3-methyl-2-oxobutanoate	*mutant V461I/A290M/Q252N/D306G/E316R/F388Y/L434C/M290V, pH 6.5, 30&Acirc;&deg;C
+KCAT	Lactococcus lactis	69	3-methyl-2-oxobutanoate	*mutant V461I/A290M/Q252N/D306G/E316R/F388Y/L434C/M290C, pH 6.5, 30&Acirc;&deg;C
+KCAT	Lactococcus lactis	95	3-methyl-2-oxobutanoate	*mutant A290M/Q252N/D306G/E316R/F388Y/L434C, pH 6.5, 30&Acirc;&deg;C
+KCAT	Lactococcus lactis	118	3-methyl-2-oxobutanoate	*mutant V461I/A290M, pH 6.5, 30&Acirc;&deg;C
+KCAT	Lactococcus lactis	120	3-methyl-2-oxobutanoate	*mutant V461I, pH 6.5, 30&Acirc;&deg;C
+KCAT	Lactococcus lactis	145	3-methyl-2-oxobutanoate	*wild-type, pH 6.5, 30&Acirc;&deg;C
+KCAT	Lactococcus lactis	149	3-methyl-2-oxobutanoate	*mutant V461I/A290M/Q252N/D306G/E316R/F388Y, pH 6.5, 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	6.95	2-Oxopentanoate	*
+KCAT	Mycobacterium tuberculosis	31.5	2-Oxoisohexanoate	*
+KCAT	Mycobacterium tuberculosis	7.06	2-Oxohexanoate	*
+KCAT	Thermoplasma acidophilum	0.5	3-methyl-2-oxopentanoate	*pH 7.0, 55&Acirc;&deg;C
+KCAT	Psychrobacter arcticus	23	3-methyl-2-oxopentanoate	*pH and temperature not specified in the publication
+KCAT	Lactococcus lactis	25	3-methyl-2-oxopentanoate	*pH and temperature not specified in the publication
+KCAT	Psychrobacter cryohalolentis	27	3-methyl-2-oxopentanoate	*pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	28.35	2-oxoisopentanoate	*
+KCAT	Mycobacterium tuberculosis	19.75	2-oxo-3-methylpentanoate	*
+KCAT	Mycobacterium tuberculosis	2.98	(indol-3-yl)pyruvate	*
+KCAT	Psychrobacter arcticus	29	3-methyl-2-oxobutyrate	*pH and temperature not specified in the publication
+KCAT	Psychrobacter cryohalolentis	33	3-methyl-2-oxobutyrate	*pH and temperature not specified in the publication

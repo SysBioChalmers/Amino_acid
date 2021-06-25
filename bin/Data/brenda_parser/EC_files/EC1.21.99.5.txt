@@ -1,0 +1,2 @@
+KCAT	Sulfurospirillum multivorans	1.5	tetrachloroethene	*titanium(III)citrate as sole electron donor
+KCAT	Sulfurospirillum multivorans	20.4	tetrachloroethene	*methyl viologen as artificial electron donor

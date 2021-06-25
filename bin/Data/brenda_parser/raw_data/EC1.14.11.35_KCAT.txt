@@ -1,0 +1,1 @@
+ecNumber*1.14.11.35#turnoverNumber*4.2#turnoverNumberMaximum*#substrate*(+/-)-1-deoxypentalenic acid#commentary*pH 6.0, temperature not specified in the publication#organism*Streptomyces avermitilis#ligandStructureId*42140#literature*719644#

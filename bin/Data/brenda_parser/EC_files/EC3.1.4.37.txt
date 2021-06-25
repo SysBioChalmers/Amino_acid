@@ -1,0 +1,71 @@
+KCAT	Bos taurus	-999	more	*
+KCAT	Escherichia coli	0.031	cyclic 2',3'-AMP	*pH 7, 37&deg;C
+KCAT	Rattus norvegicus	1.15	2',3'-cNADP	*pH 6, 25&deg;C, H230F mutant CNP1
+KCAT	Rattus norvegicus	1.16	2',3'-cNADP	*pH 6, 25&deg;C, H230L mutant CNP1
+KCAT	Escherichia coli	1.24	ADP	*+/- 0.07
+KCAT	Rattus norvegicus	1.27	2',3'-cNADP	*pH 6, 25&deg;C, H309L mutant CNP1
+KCAT	Rattus norvegicus	1.35	2',3'-cNADP	*pH 6, 25&deg;C, H309F mutant CNP1
+KCAT	Hungateiclostridium thermocellum	1.45	cyclic 2',3'-AMP	*mutant H189A, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	1.8	cyclic 2',3'-AMP	*mutant D392A, pH 7.5, 45&deg;C
+KCAT	Escherichia coli	1.97	2',3'-cGMP	*+/- 0.08
+KCAT	Escherichia coli	1.97	cyclic 2',3'-GMP	*pH 7, 37&deg;C
+KCAT	Escherichia coli	2.51	diphosphate	*+/- 0.05
+KCAT	Escherichia coli	2.94	cyclic 2',3'-GMP	*pH 7, 37&deg;C
+KCAT	Escherichia coli	3.09	2'-AMP	*+/- 0.14
+KCAT	Hungateiclostridium thermocellum	3.2	cyclic 2',3'-AMP	*mutant H376D, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	3.25	cyclic 2',3'-AMP	*mutant D233E, pH 7.5, 45&deg;C
+KCAT	Escherichia coli	3.36	CTP	*+/- 0.17
+KCAT	Escherichia coli	3.78	ATP	*+/- 0.12
+KCAT	Hungateiclostridium thermocellum	4.5	cyclic 2',3'-AMP	*mutant D236A, pH 7.5, 45&deg;C
+KCAT	Escherichia coli	4.83	CDP	*+/- 0.39
+KCAT	Hungateiclostridium thermocellum	5.1	cyclic 2',3'-AMP	*mutant H376N, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	5.8	cyclic 2',3'-AMP	*mutant D236N, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	6	cyclic 2',3'-AMP	*mutant D236E, pH 7.5, 45&deg;C
+KCAT	Rattus norvegicus	6.08	2',3'-cNADP	*pH 6, 25&deg;C, H230L mutant CNP1; pH 6, 25&deg;C, H309L mutant CNP1
+KCAT	Hungateiclostridium thermocellum	6.5	cyclic 2',3'-AMP	*mutant H323Q, pH 7.5, 45&deg;C
+KCAT	Escherichia coli	7.63	2',3'-cAMP	*+/- 0.48
+KCAT	Escherichia coli	7.63	cyclic 2',3'-AMP	*pH 7, 37&deg;C
+KCAT	Hungateiclostridium thermocellum	8.6	cyclic 2',3'-AMP	*mutant R237A, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	8.9	cyclic 2',3'-AMP	*wild-type, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	9.1	cyclic 2',3'-AMP	*mutant H323A, pH 7.5, 45&deg;C
+KCAT	Escherichia coli	10.3	p-nitrophenyl phosphate	*+/- 0.28
+KCAT	Mus musculus	14	2',3'-cNADP+	*mutant enzyme H230S, pH and temperature not specified in the publication
+KCAT	Mus musculus	14	2',3'-Cyclic AMP	*mutant H230S, pH and temperature not specified in the publication
+KCAT	Escherichia coli	14.9	NADP	*+/- 0.5
+KCAT	Hungateiclostridium thermocellum	15.9	cyclic 2',3'-AMP	*mutant D392E, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	17.2	cyclic 2',3'-AMP	*mutant H189E, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	18.7	cyclic 2',3'-AMP	*mutant D392N, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	20.2	cyclic 2',3'-AMP	*mutant R237Q, pH 7.5, 45&deg;C
+KCAT	Mus musculus	21	2',3'-cNADP+	*mutant enzyme H309S, pH and temperature not specified in the publication
+KCAT	Mus musculus	21	2',3'-Cyclic AMP	*mutant H309S, pH and temperature not specified in the publication
+KCAT	Mus musculus	24	2',3'-cNADP+	*mutant enzyme H230Q, pH and temperature not specified in the publication
+KCAT	Mus musculus	24	2',3'-Cyclic AMP	*mutant H230Q, pH and temperature not specified in the publication
+KCAT	Hungateiclostridium thermocellum	26.2	cyclic 2',3'-AMP	*mutant R237K, pH 7.5, 45&deg;C
+KCAT	Hungateiclostridium thermocellum	34.3	cyclic 2',3'-AMP	*mutant H189D, pH 7.5, 45&deg;C
+KCAT	Mus musculus	118	2',3'-cAMP	*full-length protein
+KCAT	Mus musculus	183	2',3'-cNADP+	*mutant enzyme F235A, pH and temperature not specified in the publication
+KCAT	Mus musculus	221	2',3'-cNADP+	*mutant enzyme F235L, pH and temperature not specified in the publication
+KCAT	Mus musculus	231	2',3'-cNADP+	*mutant enzyme T232A, pH and temperature not specified in the publication
+KCAT	Mus musculus	237	2',3'-cNADP+	*mutant enzyme Y168A, pH and temperature not specified in the publication
+KCAT	Rattus norvegicus	594	2',3'-cNADP	*pH 6, 25&deg;C, C314S mutant CNP1
+KCAT	Mus musculus	732	2',3'-cNADP+	*mutant enzyme V321A, pH and temperature not specified in the publication
+KCAT	Mus musculus	732	2',3'-Cyclic AMP	*mutant V321A, pH and temperature not specified in the publication
+KCAT	Rattus norvegicus	825	2',3'-cNADP	*pH 6, 25&deg;C, C231S mutant CNP1
+KCAT	Mus musculus	887	2',3'-cNADP+	*mutant enzyme Y168S, pH and temperature not specified in the publication
+KCAT	Mus musculus	940	2',3'-cNADP+	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Mus musculus	940	2',3'-Cyclic AMP	*wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Rattus norvegicus	968	2',3'-cNADP	*pH 6, 25&deg;C, C231A mutant CNP1
+KCAT	Rattus norvegicus	1107	2',3'-cNADP	*pH 6, 25&deg;C, C236S mutant CNP1
+KCAT	Rattus norvegicus	1110	2',3'-cNADP	*pH 6, 25&deg;C, C236S mutant CNP1
+KCAT	Rattus norvegicus	1116	2',3'-cNADP	*pH 6, 25&deg;C, C314A mutant CNP1
+KCAT	Rattus norvegicus	1120	2',3'-cNADP	*pH 6, 25&deg;C, C314A mutant CNP1
+KCAT	Rattus norvegicus	1130	2',3'-cNADP	*pH 6, 25&deg;C, C397S mutant CNP1
+KCAT	Rattus norvegicus	1132	2',3'-cNADP	*pH 6, 25&deg;C, C397S mutant CNP1
+KCAT	Mus musculus	1182	2',3'-cNADP+	*mutant enzyme R307Q, pH and temperature not specified in the publication
+KCAT	Rattus norvegicus	1195	2',3'-cNADP	*pH 6, 25&deg;C, recombinant full-length wild-type CNP1
+KCAT	Rattus norvegicus	1200	2',3'-cNADP	*pH 6, 25&deg;C, recombinant full-length wild-type CNP1
+KCAT	Mus musculus	1332	2',3'-cNADP+	*mutant enzyme P296G, pH and temperature not specified in the publication
+KCAT	Mus musculus	1420	2',3'-cNADP+	*mutant enzyme P225G, pH and temperature not specified in the publication
+KCAT	Rattus norvegicus	1476	2',3'-cNADP	*pH 6, 25&deg;C, C236A mutant CNP1
+KCAT	Rattus norvegicus	1480	2',3'-cNADP	*pH 6, 25&deg;C, C236A mutant CNP1
+KCAT	Rattus norvegicus	1690	2',3'-cNADP	*pH 6, 25&deg;C, catalytic fragment of CNP1 corresponding to the C-terminal 250 amino acids

@@ -1,0 +1,1 @@
+ecNumber*3.4.23.B24#turnoverNumber*0.078#turnoverNumberMaximum*#substrate*dodecanoyl-NGEVAKA-4-methylcumaryl-7-amide#commentary*pH 8.0, 23&deg;C#organism*Bacillus subtilis#ligandStructureId*206887#literature*733343#

@@ -1,0 +1,18 @@
+KCAT	Homo sapiens	0.000333	75000 MW form of vitronectin	*
+KCAT	Homo sapiens	0.00041	stromelysin 1	*pH 7.5, 37&deg;C, dimeric form
+KCAT	Homo sapiens	0.0005	65000 MW form of vitronectin	*
+KCAT	Homo sapiens	0.0019	stromelysin 1	*pH 7.5, 37&deg;C, monomeric form
+KCAT	Homo sapiens	0.04	(7-methoxycoumaryl-4yl)acetylPLGLA2pr(2,4-dinitrophenol)-AR-NH2	*pH 7.5, 37&deg;C, dimeric form
+KCAT	Homo sapiens	2.72	(7-methoxycoumaryl-4yl)acetylPLGLA2pr(2,4-dinitrophenol)-AR-NH2	*pH 7.5, 37&deg;C, monomeric form
+KCAT	Homo sapiens	3	(7-methoxycoumaryl-4yl)acetylPLGLA2pr(2,4-dinitrophenol)-AR-NH2	*pH 7.5, 37&deg;C, monomeric form
+KCAT	Homo sapiens	8.67	(7-methoxycoumaryl-4yl)acetylPLGLA2pr(2,4-dinitrophenol)-AR-NH2	*pH 7.5, 37&deg;C, dimeric form
+KCAT	Mus musculus	9	SGQPHYLTTA	*pH 7.5, 37&deg;C, peptide B1
+KCAT	Mus musculus	9.4	SGKIPRTATA	*pH 7.5, 37&deg;C, peptide A11m2
+KCAT	Mus musculus	11	SGFGSRYLTA	*pH 7.5, 37&deg;C, peptide A19
+KCAT	Mus musculus	20	SGPLFYSVTA	*pH 7.5, 37&deg;C, peptide A10
+KCAT	Mus musculus	30	SGLKALMITA	*pH 7.5, 37&deg;C, peptide A7
+KCAT	Mus musculus	78	SGLRPAKSTA	*pH 7.5, 37&deg;C, peptide A18
+KCAT	Mus musculus	86.4	SGKIPRTLTA	*pH 7.5, 37&deg;C, peptide A11
+KCAT	Mus musculus	178	SGPRAVSTTA	*pH 7.5, 37&deg;C, peptide A6
+KCAT	Mus musculus	224	SGKIPRRLTA	*pH 7.5, 37&deg;C, peptide A11m1
+KCAT	Mus musculus	703	SGKGPRQITA	*pH 7.5, 37&deg;C, peptide C15

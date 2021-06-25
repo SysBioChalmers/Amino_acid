@@ -1,0 +1,1 @@
+ecNumber*2.1.3.1#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*2530 nmol oxaloacetate per nmol biotin per min#organism*Propionibacterium freudenreichii subsp. shermanii#ligandStructureId*#literature*485822#

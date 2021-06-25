@@ -1,0 +1,20 @@
+KCAT	Oryctolagus cuniculus	0.3	O2	*pH 7.4, mutant L367K, with substrate linoleic acid
+KCAT	Homo sapiens	1.4	arachidonic acid	*at 15&deg;C, pH 7.5
+KCAT	Oryctolagus cuniculus	2.2	O2	*pH 7.4, mutant L367E, with substrate linoleic acid
+KCAT	Homo sapiens	2.5	arachidonate	*pH 7.5, 15&deg;C
+KCAT	Homo sapiens	3	arachidonate	*mutant enzyme A416G
+KCAT	Oryctolagus cuniculus	4.4	O2	*pH 7.4, mutant L367W, with substrate linoleic acid
+KCAT	Oryctolagus cuniculus	5.6	O2	*pH 7.4, mutant L367F, with substrate linoleic acid
+KCAT	Sus scrofa	7.2	arachidonic acid	*mutant enzyme M561L
+KCAT	Sus scrofa	8.4	arachidonic acid	*wild type enzyme and mutant enzyme M338L
+KCAT	Homo sapiens	13.1	O2	*
+KCAT	Oryctolagus cuniculus	13.7	O2	*pH 7.4, wild-type enzyme, with substrate linoleic acid
+KCAT	Homo sapiens	14	arachidonate	*wild-type enzyme
+KCAT	Oryctolagus cuniculus	14.7	linoleic acid	*pH 7.4, 20&deg;, mutant Y98A
+KCAT	Homo sapiens	17.8	arachidonate	*pH 7.5, 30&deg;C
+KCAT	Sus scrofa	18	arachidonic acid	*mutant enzyme M367V
+KCAT	Homo sapiens	20	arachidonic acid	*at 40&deg;C, pH 7.5
+KCAT	Oryctolagus cuniculus	44.2	linoleic acid	*pH 7.4, 20&deg;, wild-type
+KCAT	Homo sapiens	46	arachidonate	*pH 7.5, 45&deg;C
+KCAT	Oryctolagus cuniculus	47.23	linoleic acid	*pH 7.4, 20&deg;C, wild-type
+KCAT	Oryctolagus cuniculus	65.2	linoleic acid	*pH 7.4, 20&deg;, mutant Y98F

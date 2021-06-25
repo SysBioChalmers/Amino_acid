@@ -1,0 +1,2 @@
+KCAT	Candida albicans	2.1	L-dihydroorotate	*
+KCAT	Plasmodium falciparum	6.15	2,3-dimethoxy-5-methyl-6-(3-methyl-2-butenyl)-1,4-benzoquinone	*at saturating concentration of dihydroorotate

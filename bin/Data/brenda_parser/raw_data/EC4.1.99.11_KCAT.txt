@@ -1,0 +1,1 @@
+ecNumber*4.1.99.11#turnoverNumber*0.11#turnoverNumberMaximum*#substrate*Toluene#commentary*cell extract, 4&Acirc;&deg;C#organism*Thauera aromatica#ligandStructureId*1335#literature*678164#!ecNumber*4.1.99.11#turnoverNumber*0.35#turnoverNumberMaximum*#substrate*Toluene#commentary*cell extract, 30&Acirc;&deg;C#organism*Thauera aromatica#ligandStructureId*1335#literature*678164#

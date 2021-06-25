@@ -1,0 +1,1 @@
+ecNumber*1.14.99.12#turnoverNumber*0.45#turnoverNumberMaximum*#substrate*testololactone#commentary*formed#organism*Ilyonectria destructans#ligandStructureId*7291#literature*7389#

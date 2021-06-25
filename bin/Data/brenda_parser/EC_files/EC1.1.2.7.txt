@@ -1,0 +1,12 @@
+KCAT	Methylophaga aminisulfidivorans	0.11	methanol	*type I MDH, pH 9.0, 30&Acirc;&deg;C, with phenazine ethosulfate and 2,6-dichlorophenolindophenol; type I MDH, pH 9.0, 30&Acirc;&deg;C, with phenazine ethosulfate and 2,6-dichlorophenolindophenol
+KCAT	Methylophaga aminisulfidivorans	0.16	methanol	*type II MDH, pH 9.0, 30&Acirc;&deg;C, with phenazine ethosulfate and 2,6-dichlorophenolindophenol; type II MDH, pH 9.0, 30&Acirc;&deg;C, with phenazine ethosulfate and 2,6-dichlorophenolindophenol
+KCAT	Hyphomicrobium denitrificans	0.87	methanol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Methylophaga aminisulfidivorans	2.96	methanol	*type I MDH, pH 7.0, 30&Acirc;&deg;C, with cytochrome cL; type I MDH, pH 7.0, 30&Acirc;&deg;C, with cytochrome cL
+KCAT	Methylophaga aminisulfidivorans	4.51	methanol	*type II MDH, pH 7.0, 30&Acirc;&deg;C, with cytochrome cL; type II MDH, pH 7.0, 30&Acirc;&deg;C, with cytochrome cL
+KCAT	Hyphomicrobium denitrificans	0.15	ferricytochrome cL	*pH 5.5, ionic strength: 0.0160 M, steady-state kinetic parameter
+KCAT	Hyphomicrobium denitrificans	0.21	ferricytochrome cL	*pH 6.0, ionic strength: 0.0172 M, steady-state kinetic parameter
+KCAT	Hyphomicrobium denitrificans	0.33	ferricytochrome cL	*pH 6.5, ionic strength: 0.0183 M, steady-state kinetic parameter
+KCAT	Hyphomicrobium denitrificans	0.41	ferricytochrome cL	*pH 5.0, ionic strength: 0.0181 M, steady-state kinetic parameter
+KCAT	Hyphomicrobium denitrificans	0.45	ferricytochrome cL	*pH 4.5, ionic strength: 0.0168 M, steady-state kinetic parameter
+KCAT	Hyphomicrobium denitrificans	0.87	ferricytochrome cL	*pH 7.0, ionic strength: 0.0198 M, steady-state kinetic parameter
+KCAT	Hyphomicrobium denitrificans	-999	more	*kcat at different pH, overview

@@ -1,0 +1,6 @@
+KCAT	Rhodococcus rhodochrous	0.2	phenylacetone	*mutant enzyme T345L, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+KCAT	Rhodococcus rhodochrous	0.6	phenylacetone	*mutant enzyme P157Q, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+KCAT	Rhodococcus rhodochrous	1	phenylacetone	*mutant enzyme L500Y, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+KCAT	Rhodococcus rhodochrous	1.5	phenylacetone	*wild type enzyme, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+KCAT	Rhodococcus rhodochrous	1.8	phenylacetone	*mutant enzyme V291A, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+KCAT	Rhodococcus rhodochrous	3	phenylacetone	*mutant enzyme K295A, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication

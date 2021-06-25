@@ -1,0 +1,18 @@
+KCAT	Lactobacillus leichmannii	-999	more	*
+KCAT	Rattus norvegicus	0.0066	dAMP	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Rattus norvegicus	0.0066	dIMP	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Rattus norvegicus	0.0178	dGMP	*pH 7.5, 37&deg;C, recombinant mutant E105A
+KCAT	Rattus norvegicus	0.0231	dCMP	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Rattus norvegicus	0.0297	dGMP	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Lactobacillus fermentum	0.047	2',3'-dideoxycytidine	*wild-type
+KCAT	Rattus norvegicus	0.158	dUMP	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Lactobacillus leichmannii	0.3	2'-deoxycytidine	*mutant F13R/D92S, pH 6.0, 37&deg;C
+KCAT	Lactobacillus leichmannii	2.1	2'-deoxycytidine	*mutant F13R/D92S/N123S, pH 6.0, 37&deg;C
+KCAT	Lactobacillus leichmannii	2.54	2',3'-dideoxycytidine	*mutant G9S
+KCAT	Lactobacillus fermentum	5.36	2'-deoxycytidine	*mutant A15T
+KCAT	Lactobacillus fermentum	10.4	2',3'-dideoxycytidine	*mutant A15T
+KCAT	Lactobacillus leichmannii	12.4	2'-deoxycytidine	*mutant G9S
+KCAT	Lactobacillus fermentum	45.1	2'-deoxycytidine	*wild-type
+KCAT	Lactobacillus leichmannii	62.2	2'-deoxycytidine	*wild-type
+KCAT	Lactobacillus reuteri	483	2'-deoxyuridine	*pH 6.5, 40&deg;C
+KCAT	Lactobacillus reuteri	2083	cytosine	*pH 6.5, 40&deg;C

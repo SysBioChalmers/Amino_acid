@@ -1,0 +1,2 @@
+KCAT	Methanocaldococcus jannaschii	0.35	GTP	*pH 8.0, 70&deg;C, GTP cyclohydrolase activity
+KCAT	Methanocaldococcus jannaschii	0.5	GTP	*pH 8.0, 70&deg;C, diphosphate phosphohydrolase activity

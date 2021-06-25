@@ -1,0 +1,39 @@
+KCAT	Rattus norvegicus	0.00026	oleamide	*pH 9.0, mutant enzyme K142A
+KCAT	Rattus norvegicus	0.00064	oleamide	*pH 9.0, mutant enzyme K142E
+KCAT	Rattus norvegicus	0.0022	oleamide	*pH 9.0, mutant enzyme S217A, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+KCAT	Rattus norvegicus	0.055	oleamide	*pH 9.0, mutant enzyme S218A, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+KCAT	Rattus norvegicus	3.3	oleamide	*pH 9.0, recombinantly expressed FAAH protein lacking the N-terminal transmembrane domain
+KCAT	Rattus norvegicus	4.4	oleamide	*pH 9.0, mutant enzyme H358A, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+KCAT	Rattus norvegicus	5.2	oleamide	*pH 9.0, wild-type enzyme, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+KCAT	Rattus norvegicus	7.1	oleamide	*pH 9.0, recombinantly expressed wild-type enzyme
+KCAT	Rattus norvegicus	7.7	oleamide	*pH 9.0, mutant enzyme H449A, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+KCAT	Rattus norvegicus	9	oleamide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	20	oleamide	*pH 9.0, mutant enzyme H184Q, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+KCAT	Rattus norvegicus	0.00052	oleoyl p-nitroanilide	*pH 9.0, mutant enzyme K142E
+KCAT	Rattus norvegicus	0.15	oleoyl p-nitroanilide	*pH 9.0, mutant enzyme K142A
+KCAT	Rattus norvegicus	0.21	oleoyl p-nitroanilide	*pH 9.0, mutant enzyme A487V; pH 9.0, mutant enzyme T488A
+KCAT	Rattus norvegicus	0.22	oleoyl p-nitroanilide	*pH 9.0, mutant enzyme I491A
+KCAT	Rattus norvegicus	0.25	oleoyl p-nitroanilide	*pH 9.0, mutant enzyme G489A
+KCAT	Rattus norvegicus	0.27	oleoyl p-nitroanilide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	2.8	oleoyl p-nitroanilide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.2	nonanoyl p-nitroanilide	*pH 9.0, mutant enzyme G489A
+KCAT	Rattus norvegicus	0.51	nonanoyl p-nitroanilide	*pH 9.0, mutant enzyme T488A
+KCAT	Rattus norvegicus	0.58	nonanoyl p-nitroanilide	*pH 9.0, mutant enzyme I491A
+KCAT	Rattus norvegicus	0.6	nonanoyl p-nitroanilide	*pH 9.0, mutant enzyme A487V; pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.13	myristoyl p-nitroanilide	*pH 9.0, mutant enzyme A487V
+KCAT	Rattus norvegicus	0.14	myristoyl p-nitroanilide	*pH 9.0, mutant enzyme G489A
+KCAT	Rattus norvegicus	0.19	myristoyl p-nitroanilide	*pH 9.0, mutant enzyme T488A
+KCAT	Rattus norvegicus	0.21	myristoyl p-nitroanilide	*pH 9.0, mutant enzyme I491A
+KCAT	Rattus norvegicus	0.29	myristoyl p-nitroanilide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.0002	oleoyl methyl ester	*pH 9.0, mutant enzyme K142E
+KCAT	Rattus norvegicus	0.012	oleoyl methyl ester	*pH 9.0, mutant enzyme K142A
+KCAT	Rattus norvegicus	0.17	oleoyl methyl ester	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.0001	oleoyl methyl amide	*pH 9.0, mutant enzyme K142A
+KCAT	Rattus norvegicus	0.00031	oleoyl methyl amide	*pH 9.0, mutant enzyme K142E
+KCAT	Rattus norvegicus	1.9	oleoyl methyl amide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.46	heptanoyl p-nitroanilide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.73	octanoyl p-nitroanilide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.56	decanoyl p-nitroanilide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.46	lauroyl p-nitroanilide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.27	palmitoyl p-nitroanilide	*pH 9.0, wild-type enzyme
+KCAT	Rattus norvegicus	0.48	arachidonoyl p-nitroanilide	*pH 9.0, wild-type enzyme

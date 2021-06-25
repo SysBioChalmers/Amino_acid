@@ -1,0 +1,8 @@
+KCAT	Homo sapiens	1.3	Benzyloxycarbonyl-Lys-thiobenzyl ester	*wild-type enzyme
+KCAT	Homo sapiens	1.84	Benzyloxycarbonyl-Lys-thiobenzyl ester	*mutant enzyme T214S
+KCAT	Homo sapiens	4.5	Benzyloxycarbonyl-Lys-thiobenzyl ester	*mutant enzyme S215W
+KCAT	Homo sapiens	6.31	Benzyloxycarbonyl-Lys-thiobenzyl ester	*mutant enzyme S94Y/S214W
+KCAT	Homo sapiens	7.06	Benzyloxycarbonyl-Lys-thiobenzyl ester	*mutant enzyme T214S/S215W
+KCAT	Homo sapiens	7.45	Benzyloxycarbonyl-Lys-thiobenzyl ester	*mutant enzyme S94Y
+KCAT	Homo sapiens	12	Benzyloxycarbonyl-Lys-thiobenzyl ester	*mutant enzyme S94Y/T214S
+KCAT	Homo sapiens	21.3	Benzyloxycarbonyl-Lys-thiobenzyl ester	*mutant enzyme S94Y/T214S/S215W

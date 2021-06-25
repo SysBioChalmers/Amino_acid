@@ -1,0 +1,10 @@
+KCAT	Homo sapiens	0.0005	ATP	*mutant Q701H
+KCAT	Homo sapiens	0.001	ATP	*mutant D668/Q701H
+KCAT	Escherichia coli	0.021	ATP	*mutant enzyme Y477W
+KCAT	Escherichia coli	0.093	ATP	*wild-type enzyme
+KCAT	Escherichia coli	0.11	ATP	*pH 8.0, 25&deg;C, 200 mM NaCl
+KCAT	Escherichia coli	0.2	ATP	*pH 8.0, 25&deg;C, 100 mM NaCl
+KCAT	Escherichia coli	0.31	ATP	*pH 8.0, 25&deg;C, 50 mM NaCl
+KCAT	Escherichia coli	0.33	ATP	*pH 8.0, 25&deg;C, 10 mM NaCl
+KCAT	Homo sapiens	5	ATP	*pH 7.4, 32&deg;C
+KCAT	Saccharomyces cerevisiae	25	ATP	*pH 9.0, 30&deg;C

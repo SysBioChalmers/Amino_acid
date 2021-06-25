@@ -1,0 +1,18 @@
+KCAT	Pseudomonas putida	0.1	3,4-dihydro-3,4-dihydroxy-2,2',5,5'-tetrachlorobiphenyl	*strain G7
+KCAT	Novosphingobium aromaticivorans	5.25	fluoranthene 2,3-dihydrodiol	*
+KCAT	Pseudomonas putida	5.6	(1R,2S)-1,2-dihydronaphthalene-1,2-diol	*at pH 7.0 and 25&deg;C
+KCAT	Novosphingobium aromaticivorans	6.35	pyrene 4,5-dihydrodiol	*
+KCAT	Novosphingobium aromaticivorans	7.9	benzo(a)pyrene dihydrodiol	*
+KCAT	Pseudomonas putida	8.3	NAD+	*at pH 7.0 and 25&deg;C
+KCAT	Novosphingobium aromaticivorans	9.1	benzo(a)anthracene 1,2-dihydrodiol	*
+KCAT	Novosphingobium aromaticivorans	16.7	phenanthrene 3,4-dihydrodiol	*
+KCAT	Novosphingobium aromaticivorans	20.3	chrysene 3,4-dihydrodiol	*at pH 7.0
+KCAT	Novosphingobium aromaticivorans	21.6	anthracene 1,2-dihydrodiol	*
+KCAT	Novosphingobium aromaticivorans	24.6	biphenyl 2,3-dihydrodiol	*at pH 7.0
+KCAT	Pseudomonas putida	26.4	(1R,2S)-1,2-dihydronaphthalene-1,2-diol	*at pH 9.4 and 25&deg;C
+KCAT	Novosphingobium aromaticivorans	28.2	naphthalene 1,2-dihydrodiol	*
+KCAT	Pseudomonas putida	36.6	NAD+	*at pH 9.4 and 25&deg;C
+KCAT	Pseudomonas putida	51.7	cis-2,3-dihydro-2,3-dihydroxybiphenyl	*strain G7
+KCAT	Pseudomonas putida	149	cis-Naphthalene dihydrodiol	*strain G7
+KCAT	Novosphingobium aromaticivorans	218	chrysene 3,4-dihydrodiol	*at pH 9.5
+KCAT	Novosphingobium aromaticivorans	321	biphenyl 2,3-dihydrodiol	*at pH 9.5

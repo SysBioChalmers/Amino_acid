@@ -1,0 +1,4 @@
+KCAT	Bacillus subtilis	61	2,3-dimethyl-1,4-naphthoquinone	*in 50 mM Tris, pH 7.0, at 25&deg;C
+KCAT	Bacillus subtilis	65	2,3-dimethyl-1,4-naphthoquinone	*in phosphate buffer, pH 6.5, containing 0.5 mg/ml lauryl maltoside, temperature not specified in the publication
+KCAT	Bacillus subtilis	180	dimethylnitrosamine	*wild type enzyme, at pH 6.8 and 25&deg;C
+KCAT	Bacillus subtilis	227	dimethylnitrosamine	*mutant enzyme R70H, at pH 6.8 and 25&deg;C

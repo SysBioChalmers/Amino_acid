@@ -1,0 +1,1 @@
+ecNumber*3.4.22.58#turnoverNumber*2.3#turnoverNumberMaximum*#substrate*acetyl-WEHD-7-amido-4-methylcoumarin#commentary*pH 7-5-8.0#organism*Homo sapiens#ligandStructureId*11282#literature*647424#

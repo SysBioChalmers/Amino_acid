@@ -1,0 +1,38 @@
+KCAT	Rattus norvegicus	0.308	15-deoxy-DELTA12,14-prostaglandin J2	*pH 7.2
+KCAT	Arabidopsis thaliana	0.583	(2E)-pentenal	*pH 6
+KCAT	Arabidopsis thaliana	0.667	propenal	*pH 6
+KCAT	Arabidopsis thaliana	0.7	4-hydroxy-(2E)-hexenal	*pH 6
+KCAT	Arabidopsis thaliana	0.85	(2E)-nonenal	*pH 6
+KCAT	Arabidopsis thaliana	0.94	9-oxo-(10E,12Z)-octadecadienoic acid	*pH 6.0
+KCAT	Rattus norvegicus	0.97	trans-2-pentenal	*pH 7.2
+KCAT	Arabidopsis thaliana	1.05	(2E)-hexenal	*pH 6
+KCAT	Arabidopsis thaliana	1.1	13-oxo-(9E,11Z)-octadecadienoic acid	*pH 6.0
+KCAT	Arabidopsis thaliana	1.3	crotonaldehyde	*pH 7.0, 25&deg;C
+KCAT	Arabidopsis thaliana	1.38	3-buten-2-one	*pH 6
+KCAT	Arabidopsis thaliana	1.47	4-hydroxy-(2E)-nonenal	*pH 6
+KCAT	Arabidopsis thaliana	1.58	Diamide	*pH 6
+KCAT	Arabidopsis thaliana	1.72	3-penten-2-one	*pH 6
+KCAT	Arabidopsis thaliana	3.3	4-hexen-3-one	*pH 7.0, 25&deg;C
+KCAT	Arabidopsis thaliana	3.5	3-buten-2-one	*pH 7.0, 25&deg;C
+KCAT	Rattus norvegicus	3.67	acrolein	*30&deg;C
+KCAT	Arabidopsis thaliana	4	1-penten-3-one	*pH 7.0, 25&deg;C
+KCAT	Rattus norvegicus	16.83	trans-2-pentenal	*pH 7.2
+KCAT	Arabidopsis thaliana	18.9	3-nonen-2-one	*pH 6.0
+KCAT	Arabidopsis thaliana	20	4-hydroxy-(2E)-nonenal	*pH 6.0
+KCAT	Arabidopsis thaliana	20.1	4-oxo-(2E)-nonenal	*pH 6.0
+KCAT	Cucumis sativus	22	3-penten-2-one	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KCAT	Arabidopsis thaliana	22	propenal	*pH 7.0, 25&deg;C
+KCAT	Arabidopsis thaliana	23	NADH	*pH 7.0, 25&deg;C
+KCAT	Arabidopsis thaliana	23	NADPH	*pH 7.0, 25&deg;C
+KCAT	Arabidopsis thaliana	33.9	(2E,6Z)-nonadienal	*pH 6.0
+KCAT	Rattus norvegicus	40	15-oxoprostaglandin E1	*30&deg;C
+KCAT	Cucumis sativus	42	crotonaldehyde	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KCAT	Cucumis sativus	61	1-penten-3-one	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KCAT	Cucumis sativus	63	propenal	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KCAT	Rattus norvegicus	66.7	4-hydroxy-2-nonenal	*30&deg;C
+KCAT	Cucumis sativus	68	4-hexen-3-one	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KCAT	Cucumis sativus	74	3-buten-2-one	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KCAT	Cucumis sativus	75	NADH	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KCAT	Cucumis sativus	75	NADPH	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KCAT	Arabidopsis thaliana	88.1	4-hydroxy-(2E)-nonenal	*pH 6.0
+KCAT	Rattus norvegicus	160	ethyl vinyl ketone	*30&deg;C

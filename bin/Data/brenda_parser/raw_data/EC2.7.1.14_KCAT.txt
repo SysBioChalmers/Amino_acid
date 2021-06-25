@@ -1,0 +1,1 @@
+ecNumber*2.7.1.14#turnoverNumber*115#turnoverNumberMaximum*#substrate*sedoheptulose#commentary*#organism*Mus musculus#ligandStructureId*9265#literature*686771#

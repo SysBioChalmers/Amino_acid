@@ -1,0 +1,1 @@
+ecNumber*5.1.3.40#turnoverNumber*8.7#turnoverNumberMaximum*#substrate*D-tagatose 6-phosphate#commentary*pH 7.9, 25&deg;C#organism*Agrobacterium fabrum#ligandStructureId*3459#literature*740741#

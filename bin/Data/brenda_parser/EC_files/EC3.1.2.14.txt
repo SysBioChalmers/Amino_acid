@@ -1,0 +1,81 @@
+KCAT	Arabidopsis thaliana	-999	more	*recombinant chimeric mutants FatAB and FatBA
+KCAT	Helianthus annuus	0.0002	stearoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant M206W
+KCAT	Helianthus annuus	0.0005	palmitoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant M206W
+KCAT	Helianthus annuus	0.0016	palmitoleoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant M206W
+KCAT	Helianthus annuus	0.002	palmitoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant T182W
+KCAT	Helianthus annuus	0.0024	palmitoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant Q215W
+KCAT	Helianthus annuus	0.003	stearoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant T182W
+KCAT	Arabidopsis thaliana	0.004	myristoleoyl-[acyl-carrier protein]	*isozyme FatA, pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.0041	stearoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant Q215W
+KCAT	Helianthus annuus	0.0062	palmitoleoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant Q215W
+KCAT	Arabidopsis thaliana	0.008	myristoyl-[acyl-carrier protein]	*isozyme FatA, pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.016	palmitoleoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant T182W
+KCAT	Arabidopsis thaliana	0.02	myristoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Macadamia tetraphylla	0.03	palmitoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.032	oleoyl-[acyl-carrier-protein]	*pH 8, 20&deg;C, mutant T182W
+KCAT	Arabidopsis thaliana	0.04	palmitoyl-[acyl-carrier protein]	*isozyme FatA, pH 8.0, 22&deg;C
+KCAT	Camelina sativa	0.06	palmitoleoyl-[acyl-carrier protein]	*pH 8, 20&deg;C
+KCAT	Helianthus annuus	0.0854	oleoyl-[acyl-carrier-protein]	*pH 8, 20&deg;C, mutant Q215W
+KCAT	Camelina sativa	0.1	palmitoleoyl-[acyl-carrier protein]	*pH 8, 20&deg;C
+KCAT	Arabidopsis thaliana	0.12	palmitoleoyl-[acyl-carrier protein]	*isozyme FatA, pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.1258	oleoyl-[acyl-carrier-protein]	*pH 8, 20&deg;C, mutant M206W
+KCAT	Macadamia tetraphylla	0.15	palmitoleoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C
+KCAT	Arabidopsis thaliana	0.15	stearoyl-[acyl-carrier protein]	*isozyme FatA, pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.18	oleoyl-[acyl-carrier protein]	*isoform FatB, oleoyl-[acyl-carrier protein] from Helianthus annuus, at pH 8.0, temperature not specified in the publication
+KCAT	Macadamia tetraphylla	0.18	stearoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.2	palmitoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant L118W
+KCAT	Helianthus annuus	0.2	stearoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant L118W
+KCAT	Cuphea hookeriana	0.22	decanoyl-[acyl-carrier protein]	*mutant enzyme I198E, at pH 8.0 and 27&deg;C
+KCAT	Arabidopsis thaliana	0.22	myristoleoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Ricinus communis	0.22	palmitoleoyl-[acyl-carrier protein]	*in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22&deg;C
+KCAT	Cuphea hookeriana	0.24	decanoyl-[acyl-carrier protein]	*mutant enzyme K287E, at pH 8.0 and 27&deg;C
+KCAT	Macadamia tetraphylla	0.25	oleoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.27	stearoyl-[acyl-carrier protein]	*isoform FatB, stearoyl-[acyl-carrier protein] from Escherichia coli, at pH 8.0, temperature not specified in the publication
+KCAT	Camelina sativa	0.3	palmitoyl-[acyl-carrier protein]	*pH 8, 20&deg;C
+KCAT	Cuphea hookeriana	0.33	decanoyl-[acyl-carrier protein]	*wild type enzyme, at pH 8.0 and 27&deg;C
+KCAT	Ricinus communis	0.38	stearoyl-[acyl-carrier protein]	*in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22&deg;C
+KCAT	Helianthus annuus	0.4	stearoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C, recombinant His-tagged enzyme
+KCAT	Camelina sativa	0.4	stearoyl-[acyl-carrier protein]	*pH 8, 20&deg;C
+KCAT	Helianthus annuus	0.4	stearoyl-[acyl-carrier protein]	*isoform FatA, stearoyl-[acyl-carrier protein] from Escherichia coli, at pH 8.0, temperature not specified in the publication
+KCAT	Ricinus communis	0.41	palmitoyl-[acyl-carrier protein]	*in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22&deg;C
+KCAT	Macadamia tetraphylla	0.44	palmitoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C
+KCAT	Macadamia tetraphylla	0.45	palmitoleoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C
+KCAT	Ricinus communis	0.46	palmitoyl-[acyl-carrier protein]	*in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22&deg;C
+KCAT	Helianthus annuus	0.5	palmitoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C, recombinant His-tagged enzyme
+KCAT	Helianthus annuus	0.5	palmitoyl-[acyl-carrier protein]	*isoform FatA, palmitoyl-[acyl-carrier protein] from Escherichia coli, at pH 8.0, temperature not specified in the publication
+KCAT	Helianthus annuus	0.52	palmitoyl-[acyl-carrier protein]	*isoform FatB, palmitoyl-[acyl-carrier protein] from Escherichia coli, at pH 8.0, temperature not specified in the publication
+KCAT	Ricinus communis	0.56	stearoyl-[acyl-carrier protein]	*in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22&deg;C
+KCAT	Helianthus annuus	0.6	palmitoleoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, mutant L118W
+KCAT	Camelina sativa	0.6	stearoyl-[acyl-carrier protein]	*pH 8, 20&deg;C
+KCAT	Ricinus communis	0.67	oleoyl-[acyl-carrier protein]	*in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22&deg;C
+KCAT	Arabidopsis thaliana	0.74	palmitoleoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.8	stearoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, wild-type
+KCAT	Macadamia tetraphylla	0.88	stearoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	0.9	(9Z)-hexadec-9-enoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C, recombinant His-tagged enzyme
+KCAT	Arabidopsis thaliana	0.91	stearoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Macadamia tetraphylla	0.98	oleoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C
+KCAT	Camelina sativa	1	oleoyl-[acyl-carrier-protein]	*pH 8, 20&deg;C
+KCAT	Helianthus annuus	1.1	palmitoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, wild-type
+KCAT	Cuphea palustris	1.14	octanoyl-[acyl-carrier protein]	*at pH 7.4, temperature not specified in the publication
+KCAT	Helianthus annuus	1.19	oleoyl-[acyl-carrier protein]	*isoform FatB, oleoyl-[acyl-carrier protein] from Escherichia coli, at pH 8.0, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	1.23	oleoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Ricinus communis	1.62	palmitoleoyl-[acyl-carrier protein]	*in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22&deg;C
+KCAT	Arabidopsis thaliana	1.94	oleoyl-[acyl-carrier protein]	*isozyme FatA, pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	2.2	oleoyl-[acyl-carrier-protein]	*pH 8, 20&deg;C, mutant L118W
+KCAT	Arabidopsis thaliana	2.4	palmitoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Arabidopsis thaliana	2.94	oleoyl-[acyl-carrier protein]	*isozyme FatA, pH 8.0, 22&deg;C
+KCAT	Helianthus annuus	3.5	palmitoyl-[acyl-carrier protein]	*isoform FatA, palmitoyl-[acyl-carrier protein] from Helianthus annuus, at pH 8.0, temperature not specified in the publication
+KCAT	Helianthus annuus	3.66	stearoyl-[acyl-carrier protein]	*isoform FatA, stearoyl-[acyl-carrier protein] from Helianthus annuus, at pH 8.0, temperature not specified in the publication
+KCAT	Camelina sativa	4.4	palmitoyl-[acyl-carrier protein]	*pH 8, 20&deg;C
+KCAT	Arabidopsis thaliana	6.08	oleoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Arabidopsis thaliana	6.08	palmitoleoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Arabidopsis thaliana	6.08	stearoyl-[acyl-carrier protein]	*isozyme FatB, pH 8.0, 22&deg;C
+KCAT	Camelina sativa	7	oleoyl-[acyl-carrier-protein]	*pH 8, 20&deg;C
+KCAT	Ricinus communis	7.99	oleoyl-[acyl-carrier protein]	*in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22&deg;C
+KCAT	Helianthus annuus	8	palmitoleoyl-[acyl-carrier protein]	*pH 8, 20&deg;C, wild-type
+KCAT	Helianthus annuus	9.4	palmitoyl-[acyl-carrier protein]	*isoform FatB, palmitoyl-[acyl-carrier protein] from Helianthus annuus, at pH 8.0, temperature not specified in the publication
+KCAT	Helianthus annuus	11.4	oleoyl-[acyl-carrier protein]	*pH 8.0, 22&deg;C, recombinant His-tagged enzyme
+KCAT	Helianthus annuus	11.4	oleoyl-[acyl-carrier protein]	*isoform FatA, oleoyl-[acyl-carrier protein] from Escherichia coli, at pH 8.0, temperature not specified in the publication
+KCAT	Helianthus annuus	17.3	oleoyl-[acyl-carrier protein]	*isoform FatA, oleoyl-[acyl-carrier protein] from Helianthus annuus, at pH 8.0, temperature not specified in the publication
+KCAT	Helianthus annuus	20.4	stearoyl-[acyl-carrier protein]	*isoform FatB, stearoyl-[acyl-carrier protein] from Helianthus annuus, at pH 8.0, temperature not specified in the publication
+KCAT	Helianthus annuus	35.6	oleoyl-[acyl-carrier-protein]	*pH 8, 20&deg;C, wild-type

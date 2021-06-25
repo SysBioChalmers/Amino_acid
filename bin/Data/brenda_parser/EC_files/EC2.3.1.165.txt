@@ -1,0 +1,2 @@
+KCAT	Aspergillus terreus	0.0125	6-Methylsalicylate	*release from enzyme/acyl-carrier-protein, recombinant His6-tagged THID mutant, pH 7.5, 25&deg;C
+KCAT	Aspergillus terreus	0.023	6-Methylsalicylate	*release from enzyme/acyl-carrier-protein, recombinant His6-tagged ATX, pH 7.5, 25&deg;C

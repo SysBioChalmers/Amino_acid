@@ -1,0 +1,75 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Zea mays	-999	more	*
+KCAT	Plasmodium falciparum	0.0038	IMP	*mutant R155A, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	0.0048	GTP	*pH 7.7, 25&deg;C, mutant N38A
+KCAT	Escherichia coli	0.0095	GTP	*pH 7.7, 25&deg;C, mutant H41N
+KCAT	Plasmodium falciparum	0.01	IMP	*mutant R155L, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	0.0134	GTP	*pH 7.7, 25&deg;C, mutant N38D
+KCAT	Escherichia coli	0.034	GTP	*pH 7.7, 25&deg;C, mutant N38E
+KCAT	Escherichia coli	0.049	GTP	*pH 7.7, 25&deg;C, mutant D21A
+KCAT	Escherichia coli	0.05	GTP	*pH 7.7, 25&deg;C, mutant V273N
+KCAT	Escherichia coli	0.08	hydroxylamine	*pH 7.7, 25&deg;C, mutant V273T
+KCAT	Escherichia coli	0.096	GTP	*pH 5.6, 25&deg;C, wild-type
+KCAT	Escherichia coli	0.1	GTP	*pH 7.7, 25&deg;C, mutant R419L
+KCAT	Plasmodium falciparum	0.112	IMP	*mutant R155K, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	0.171	GTP	*pH 5.6, 25&deg;C, mutant N38D
+KCAT	Escherichia coli	0.21	hydroxylamine	*pH 7.7, 25&deg;C, mutant V273A
+KCAT	Escherichia coli	0.24	hydroxylamine	*pH 7.7, 25&deg;C, mutant T301A
+KCAT	Escherichia coli	0.29	hydroxylamine	*pH 7.7, 25&deg;C, mutant V273N
+KCAT	Plasmodium falciparum	0.32	IMP	*mutant N429V, pH 7.0, 37&deg;C
+KCAT	Escherichia coli	0.42	GTP	*pH 7.7, 25&deg;C, mutant T129A
+KCAT	Methanocaldococcus jannaschii	0.45	GTP	*pH 6.0, 70&deg;C
+KCAT	Methanocaldococcus jannaschii	0.45	IMP	*pH 6.0, 70&deg;C
+KCAT	Methanocaldococcus jannaschii	0.45	L-aspartate	*pH 6.0, 70&deg;C
+KCAT	Escherichia coli	0.46	GTP	*pH 7.7, 25&deg;C, mutant T128A
+KCAT	Bacillus subtilis	0.47	GTP	*pH 7.7, 30&deg;C
+KCAT	Escherichia coli	0.5	hydroxylamine	*pH 7.7, 25&deg;C, wild-type
+KCAT	Oryza sativa	0.6	GTP	*isoform AdSS2, pH 7.7, 30&deg;C
+KCAT	Plasmodium falciparum	0.62	IMP	*mutant enzyme C328S/C368S, in 30 mM sodium phosphate, pH 7.4 and at 25&deg;C
+KCAT	Escherichia coli	0.64	GTP	*pH 7.7, 25&deg;C, mutant T300A
+KCAT	Escherichia coli	0.64	GTP	*pH 7.7, 30&deg;C
+KCAT	Plasmodium falciparum	0.7	IMP	*mutant enzyme C368D/C368D, in 30 mM sodium phosphate, pH 7.4 and at 25&deg;C
+KCAT	Plasmodium falciparum	0.84	IMP	*mutant enzyme C328S, in 30 mM sodium phosphate, pH 7.4 and at 25&deg;C
+KCAT	Escherichia coli	0.89	GTP	*pH 7.7, 25&deg;C, mutant T42A
+KCAT	Escherichia coli	0.96	2'-dIMP	*22&deg;C
+KCAT	Escherichia coli	0.96	GTP	*22&deg;C, cosubstrate: 2'-dIMP
+KCAT	Escherichia coli	0.96	L-Asp	*22&deg;C, cosubstrate: 2'-dIMP
+KCAT	Oryza sativa	0.98	GTP	*isoform AdSS1, pH 7.7, 30&deg;C
+KCAT	Escherichia coli	1	GTP	*pH 7.7, 25&deg;C, wild-type
+KCAT	Escherichia coli	1	GTP	*pH 7.7, 25&deg;C, mutant V273A; pH 7.7, 25&deg;C, wild-type
+KCAT	Escherichia coli	1	GTP	*22&deg;C, cosubstrate: IMP
+KCAT	Escherichia coli	1	IMP	*22&deg;C
+KCAT	Plasmodium falciparum	1	IMP	*wild-type, pH 7.0, 25&deg;C
+KCAT	Plasmodium falciparum	1	IMP	*mutant enzyme C368S, in 30 mM sodium phosphate, pH 7.4 and at 25&deg;C
+KCAT	Escherichia coli	1	L-Asp	*22&deg;C, cosubstrate: IMP
+KCAT	Plasmodium falciparum	1.09	IMP	*mutant K62L, pH 7.0, 37&deg;C
+KCAT	Plasmodium falciparum	1.1	GTP	*pH 7.5
+KCAT	Plasmodium falciparum	1.1	IMP	*pH 7.5
+KCAT	Plasmodium falciparum	1.1	IMP	*wild type enzyme, in 30 mM sodium phosphate, pH 7.4 and at 25&deg;C
+KCAT	Plasmodium falciparum	1.1	L-aspartate	*pH 7.5
+KCAT	Escherichia coli	1.4	GTP	*
+KCAT	Plasmodium falciparum	1.44	IMP	*wild-type, pH 7.0, 37&deg;C
+KCAT	Escherichia coli	1.59	GTP	*pH 7.8, 25&deg;C, wild-type
+KCAT	Plasmodium falciparum	1.7	IMP	*mutant enzyme C328D, in 30 mM sodium phosphate, pH 7.4 and at 25&deg;C
+KCAT	Plasmodium falciparum	1.72	IMP	*mutant T307V, pH 7.0, 37&deg;C
+KCAT	Escherichia coli	1.99	GTP	*pH 7.7, 25&deg;C, mutant V273T
+KCAT	Escherichia coli	2.94	GTP	*pH 7.8, 25&deg;C, wild-type
+KCAT	Escherichia coli	2.94	GTP	*pH 7.7, 25&deg;C, mutant V273T
+KCAT	Escherichia coli	3.3	GTP	*pH 7.7, 25&deg;C, mutant T300V
+KCAT	Mus musculus	3.9	GTP	*pH 6.7, 22&deg;C, AdSS1-Tr
+KCAT	Mus musculus	4	GTP	*pH 6.7, 22&deg;C, AdSS2-Tr
+KCAT	Mus musculus	4.2	GTP	*pH 6.7, 22&deg;C, AdSS2
+KCAT	Methanocaldococcus jannaschii	4.2	GTP	*pH 6.0, 70&deg;C
+KCAT	Methanocaldococcus jannaschii	4.2	IMP	*pH 6.0, 70&deg;C
+KCAT	Methanocaldococcus jannaschii	4.2	L-aspartate	*pH 6.0, 70&deg;C
+KCAT	Mus musculus	5.4	GTP	*pH 6.7, 22&deg;C, AdSS1
+KCAT	Mus musculus	5.5	2'-dIMP	*22&deg;C
+KCAT	Mus musculus	5.5	GTP	*22&deg;C, cosubstrate: 2'-dIMP
+KCAT	Mus musculus	5.5	L-Asp	*22&deg;C, cosubstrate: 2'-dIMP
+KCAT	Escherichia coli	6.08	GTP	*pH 7.7, 25&deg;C, mutant T42A
+KCAT	Escherichia coli	6.08	GTP	*pH 7.7, 25&deg;C, mutant T300A

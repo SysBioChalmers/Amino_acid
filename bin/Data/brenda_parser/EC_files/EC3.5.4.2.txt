@@ -1,0 +1,50 @@
+KCAT	Escherichia coli	0.022	adenine	*mutant D284A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.036	adenine	*mutant H90D, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.05	adenine	*mutant H92N, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.053	adenine	*mutant H90C, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.06	adenine	*mutant E185Q, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.072	adenine	*mutant E236Q, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.08	adenine	*mutant H92Q, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.13	adenine	*mutant H120N, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.5	adenine	*mutant H214N, pH 7.5, 30&Acirc;&deg;C; mutant H235N, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.69	adenine	*mutant H92C, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.8	adenine	*mutant H90Q, pH 7.5, 30&Acirc;&deg;C; mutant H92D, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	1.2	adenine	*mutant H235D, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	1.3	adenine	*mutant H214Q, pH 7.5, 30&Acirc;&deg;C; mutant H235Q, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	1.5	adenine	*mutant H235C, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	2	adenine	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	3	adenine	*pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	5.5	adenine	*; 0.067 mM adenine in 0.2 M phosphate buffer, 33&Acirc;&deg;C, pH 7.0
+KCAT	Escherichia coli	8	adenine	*mutant H90N, pH 7.5, 30&Acirc;&deg;C
+KCAT	Kluyveromyces lactis	8.1	adenine	*pH 6.0, 30&Acirc;&deg;C
+KCAT	Schizosaccharomyces pombe	13.4	adenine	*; 
+KCAT	Leishmania donovani	16.75	adenine	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Blastobotrys adeninivorans	20.8	adenine	*at pH 7.4 and 40&Acirc;&deg;C
+KCAT	Methanocaldococcus jannaschii	22	adenine	*mutant C127A, pH 7.0, temperature not specified in the publication
+KCAT	Escherichia coli	37	adenine	*mutant D285A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Burkholderia sp.	56	adenine	*pH and temperature not specified in the publication
+KCAT	Escherichia coli	57	adenine	*mutant E121Q, pH 7.5, 30&Acirc;&deg;C
+KCAT	Paenarthrobacter aurescens	61	adenine	*pH and temperature not specified in the publication
+KCAT	Alteromonas macleodii	62	adenine	*pH and temperature not specified in the publication
+KCAT	Escherichia coli	78	adenine	*mutant S95A, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	123	adenine	*pH 7.5, 30&Acirc;&deg;C, wild-type Zn/Zn-ADE
+KCAT	Escherichia coli	171	adenine	*mutant D474N, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	173	adenine	*mutant D118N, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	178	adenine	*mutant H473N, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	185	adenine	*pH 7.5, 30&Acirc;&deg;C, wild-type Mn/Mn-ADE
+KCAT	Escherichia coli	196	adenine	*pH 7.5, 30&Acirc;&deg;C, wild-type Fe/Fe-ADE
+KCAT	Escherichia coli	200	adenine	*wild-type, pH 7.5, 30&Acirc;&deg;C, + Fe sequestered with a metal chelator, growth medium supplemented with Mn2+ prior to induction
+KCAT	Methanocaldococcus jannaschii	221	adenine	*wild-type, pH 7.0, temperature not specified in the publication
+KCAT	Alteromonas macleodii	1.8	2,6-diaminopurine	*pH and temperature not specified in the publication
+KCAT	Paenarthrobacter aurescens	6.9	2,6-diaminopurine	*pH and temperature not specified in the publication
+KCAT	Blastobotrys adeninivorans	12.3	2,6-diaminopurine	*at pH 7.4 and 40&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	17	2,6-diaminopurine	*pH and temperature not specified in the publication
+KCAT	Burkholderia sp.	0.42	6-Chloropurine	*pH and temperature not specified in the publication
+KCAT	Alteromonas macleodii	0.84	6-Chloropurine	*pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	1.9	6-Chloropurine	*pH and temperature not specified in the publication
+KCAT	Alteromonas macleodii	0.52	6-methoxypurine	*pH and temperature not specified in the publication
+KCAT	Paenarthrobacter aurescens	1.9	6-methoxypurine	*pH and temperature not specified in the publication
+KCAT	Burkholderia sp.	2.2	6-methoxypurine	*pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	7.1	6-methoxypurine	*pH and temperature not specified in the publication
+KCAT	Alteromonas macleodii	0.48	N-6-methyladenine	*pH and temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	1.28	N-6-methyladenine	*pH and temperature not specified in the publication

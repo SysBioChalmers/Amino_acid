@@ -1,0 +1,4 @@
+KCAT	Chloroflexus aurantiacus	7.81	NADPH	*pH 7.8, 57&Acirc;&deg;C
+KCAT	Chloroflexus aurantiacus	18.6	NADPH	*isolated C-terminal fragment, pH 7.8, 57&Acirc;&deg;C
+KCAT	Sulfurisphaera tokodaii	2	malonyl-CoA	*per subunit, pH 7.8, 65&Acirc;&deg;C
+KCAT	Chloroflexus aurantiacus	50	malonyl-CoA	*55&Acirc;&deg;C, pH 7.8

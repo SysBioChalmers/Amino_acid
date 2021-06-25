@@ -1,0 +1,1 @@
+ecNumber*3.2.1.98#turnoverNumber*12.86#turnoverNumberMaximum*#substrate*maltononaose#commentary*pH and temperature not specified in the publication#organism*Bacillus licheniformis#ligandStructureId*5991#literature*731818#

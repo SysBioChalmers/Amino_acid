@@ -1,0 +1,10 @@
+KCAT	Bacillus subtilis	7.2	L-alanine	*pH 7.1, 37&deg;C, mutant enzyme Y75F
+KCAT	Bacillus subtilis	7.2	L-phenylalanine	*pH 7.1, 37&deg;C, mutant enzyme
+KCAT	Bacillus subtilis	7.7	L-alanine	*pH 7.1, 37&deg;C, wild-type enzyme
+KCAT	Bacillus subtilis	7.7	L-phenylalanine	*pH 7.1, 37&deg;C, wild-type enzyme
+KCAT	Bacillus subtilis	7.8	L-alanine	*pH 7.1, 37&deg;C, mutant enzyme S184F
+KCAT	Bacillus subtilis	7.8	L-phenylalanine	*pH 7.1, 37&deg;C, mutant enzyme S184F
+KCAT	Bacillus subtilis	9.7	L-alanine	*pH 7.7, 37&deg;C, mutant enzyme Y75F; pH 7.7, 37&deg;C, wild-type enzyme
+KCAT	Bacillus subtilis	9.7	L-phenylalanine	*pH 7.7, 37&deg;C, mutant enzyme; pH 7.7, 37&deg;C, wild-type enzyme
+KCAT	Bacillus subtilis	10.8	L-alanine	*pH 7.7, 37&deg;C, mutant enzyme S184A
+KCAT	Bacillus subtilis	10.8	L-phenylalanine	*pH 7.7, 37&deg;C, mutant enzyme S184A

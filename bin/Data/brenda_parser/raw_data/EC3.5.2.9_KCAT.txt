@@ -1,0 +1,1 @@
+ecNumber*3.5.2.9#turnoverNumber*0.117#turnoverNumberMaximum*#substrate*5-oxo-L-proline#commentary*#organism*Rattus norvegicus#ligandStructureId*3609#literature*209382#

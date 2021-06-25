@@ -1,0 +1,15 @@
+KCAT	Arabidopsis thaliana	31.1	NAD+	*pH 6.4, temperature not specified in the publication, NAD-ME1
+KCAT	Arabidopsis thaliana	31.1	(S)-malate	*pH 7.4, 30&deg;C, isozyme NAD-ME1
+KCAT	Arabidopsis thaliana	31.1	(S)-malate	*pH 6.4, temperature not specified in the publication, NAD-ME1
+KCAT	Arabidopsis thaliana	39	NAD+	*pH 6.5, temperature not specified in the publication, NAD-MEH
+KCAT	Arabidopsis thaliana	39	(S)-malate	*pH 6.5, temperature not specified in the publication, NAD-MEH
+KCAT	Arabidopsis thaliana	44.1	NAD+	*pH 6.6, temperature not specified in the publication, NAD-ME2
+KCAT	Arabidopsis thaliana	44.1	(S)-malate	*pH 7.4, 30&deg;C, isozyme NAD-ME2
+KCAT	Arabidopsis thaliana	44.1	(S)-malate	*pH 6.6, temperature not specified in the publication, NAD-ME2
+KCAT	Arabidopsis thaliana	46	NAD+	*isozyme NAD-ME2, pH 6.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	46	(S)-malate	*isozyme NAD-ME2, pH 6.5, temperature not specified in the publication
+KCAT	Rhodopseudomonas palustris	480	(S)-malate	*pH 7.2, 30&deg;C, with NADP+
+KCAT	Rhodopseudomonas palustris	520	NADP+	*pH 7.2, 30&deg;C, with (S)-malate
+KCAT	Solanum tuberosum	617	(S)-malate	*
+KCAT	Rhodopseudomonas palustris	720	NAD+	*pH 7.2, 30&deg;C, with (S)-malate
+KCAT	Rhodopseudomonas palustris	770	(S)-malate	*pH 7.2, 30&deg;C, with NAD+

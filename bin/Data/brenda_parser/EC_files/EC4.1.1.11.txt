@@ -1,0 +1,8 @@
+KCAT	Escherichia coli	0.57	L-Asp	*
+KCAT	Mycobacterium tuberculosis	0.65	L-aspartate	*pH 7, 37&deg;C, recombinant enzyme
+KCAT	Aedes aegypti	2.11	L-aspartate	*pH 7.0, 25&deg;C, mutant Q377L
+KCAT	Pyrococcus furiosus	2.83	L-aspartate	*pH 6.0, 75&deg;C
+KCAT	Bacillus subtilis	5.28	L-aspartate	*pH 7.0, 37&deg;C, recombinant mutant L127X
+KCAT	Bacillus subtilis	6.26	L-aspartate	*pH 7.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus subtilis	6.6	L-aspartate	*pH 7.0, 37&deg;C, recombinant mutant I188M
+KCAT	Aedes aegypti	7.03	L-aspartate	*pH 7.0, 25&deg;C, wild-type enzyme

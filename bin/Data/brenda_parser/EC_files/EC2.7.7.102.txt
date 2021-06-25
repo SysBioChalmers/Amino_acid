@@ -1,0 +1,4 @@
+KCAT	Saccharolobus solfataricus	0.00013	NTP	*pH 8.5, 70&deg;C
+KCAT	Sulfolobus islandicus	0.1	5'-CTTCTTCTGTGC-3'	*50&deg;C, pH 7.5, synthesis of full-length primer
+KCAT	Sulfolobus islandicus	0.11	ATP	*50&deg;C, pH 7.5, synthesis of full-length primer
+KCAT	Sulfolobus islandicus	0.16	dATP	*50&deg;C, pH 7.5, synthesis of full-length primer

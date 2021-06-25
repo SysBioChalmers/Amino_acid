@@ -1,0 +1,25 @@
+KCAT	Rattus norvegicus	0.28	NADPH	*DELTAG810 mutant enzyme, in the presence of 10 units/ml catalase and superoxide dismutase, in 25 mM potassium phosphate, pH 7.5, with 100 mM KCl, at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	0.32	NADPH	*DELTAG810 mutant enzyme, in 25 mM potassium phosphate, pH 7.5, with 100 mM KCl, at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	2.33	NADPH	*wild type enzyme, in the presence of 10 units/ml catalase and superoxide dismutase, in 25 mM potassium phosphate, pH 7.5, with 100 mM KCl, at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	2.57	NADPH	*wild type enzyme, in 25 mM potassium phosphate, pH 7.5, with 100 mM KCl, at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	1.08	L-arginine	*
+KCAT	Homo sapiens	6.6	menadione	*full-length enzyme, absence of calmodulin
+KCAT	Homo sapiens	8	menadione	*FAD-NADPH domain
+KCAT	Homo sapiens	9.5	menadione	*FAD-FMN domain, absence of calmodulin
+KCAT	Homo sapiens	88	menadione	*FAD-FMN domain, presence of calmodulin
+KCAT	Homo sapiens	96	menadione	*full-length enzyme, presence of calmodulin
+KCAT	Rattus norvegicus	0.033	nitric oxide	*DELTAG810 mutant enzyme, in 25 mM potassium phosphate, pH 7.5, with 100 mM KCl, at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	0.055	nitric oxide	*DELTAG810 mutant enzyme, in the presence of 10 units/ml catalase and superoxide dismutase, in 25 mM potassium phosphate, pH 7.5, with 100 mM KCl, at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	0.92	nitric oxide	*wild type enzyme, in 25 mM potassium phosphate, pH 7.5, with 100 mM KCl, at 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	1.23	nitric oxide	*wild type enzyme, in the presence of 10 units/ml catalase and superoxide dismutase, in 25 mM potassium phosphate, pH 7.5, with 100 mM KCl, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	4.8	adriamycin	*FAD-FMN domain, absence of calmodulin
+KCAT	Homo sapiens	4.9	adriamycin	*FAD-NADPH domain
+KCAT	Homo sapiens	5.3	adriamycin	*full-length enzyme, absence of calmodulin
+KCAT	Homo sapiens	94	adriamycin	*FAD-FMN domain, presence of calmodulin
+KCAT	Homo sapiens	95	adriamycin	*full-length enzyme, presence of calmodulin
+KCAT	Rattus norvegicus	0.65	nitroblue tetrazolium	*NADPH-diaphorase activity
+KCAT	Homo sapiens	0.62	mitomycin C	*full-length enzyme, absence of calmodulin
+KCAT	Homo sapiens	0.8	mitomycin C	*FAD-NADPH domain
+KCAT	Homo sapiens	2.2	mitomycin C	*FAD-FMN domain, absence of calmodulin
+KCAT	Homo sapiens	15.8	mitomycin C	*full-length enzyme, presence of calmodulin
+KCAT	Homo sapiens	26	mitomycin C	*FAD-FMN domain, presence of calmodulin

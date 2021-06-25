@@ -1,0 +1,1 @@
+ecNumber*2.4.1.298#turnoverNumber*0.279#turnoverNumberMaximum*#substrate*malvidin 3-O-beta-D-glucoside#commentary*pH 7.0, 25&deg;C#organism*Vitis amurensis#ligandStructureId*17666#literature*736957#

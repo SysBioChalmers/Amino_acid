@@ -1,0 +1,5 @@
+KCAT	Crotalus atrox	0.00767	oxidized insulin A-chain	*Ala8-Ser9 bond
+KCAT	Crotalus atrox	0.0433	oxidized insulin A-chain	*Tyr14-Gln15 bond, cobaltous toxin
+KCAT	Crotalus atrox	0.06	oxidized insulin A-chain	*Tyr14-Gln15 bond
+KCAT	Crotalus atrox	0.167	dimethylcasein	*cobaltous toxin
+KCAT	Crotalus atrox	0.217	dimethylcasein	*

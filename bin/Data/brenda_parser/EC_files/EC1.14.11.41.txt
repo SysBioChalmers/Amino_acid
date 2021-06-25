@@ -1,0 +1,3 @@
+KCAT	Streptomyces vinaceus	1.22	L-canavanine	*pH 8.0, 30&deg;C
+KCAT	Streptomyces vinaceus	13.85	L-homoarginine	*pH 8.0, 30&deg;C
+KCAT	Streptomyces vinaceus	43.5	L-arginine	*pH 8.0, 30&deg;C

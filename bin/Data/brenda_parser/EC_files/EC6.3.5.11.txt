@@ -1,0 +1,4 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.13	ATP	*pH 7.7, 30&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.16	cobyrinate	*pH 7.7, 30&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.16	L-glutamine	*pH 7.7, 30&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.18	ammonia	*pH 7.7, 30&deg;C

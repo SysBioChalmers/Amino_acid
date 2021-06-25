@@ -1,0 +1,7 @@
+KCAT	Sphingobium herbicidovorans	0.87	(R)-2-(4-chloro-2-methylphenoxy)propanoate	*pH 6.8, 30&deg;C, mutant enzyme R285A
+KCAT	Sphingobium herbicidovorans	2.9	(R)-2-(4-chloro-2-methylphenoxy)propanoate	*pH 6.8, 30&deg;C, mutant enzyme F171A
+KCAT	Sphingobium herbicidovorans	3.38	(R)-2-(4-chloro-2-methylphenoxy)propanoate	*pH 6.8, 30&deg;C, mutant enzyme F171Q
+KCAT	Sphingobium herbicidovorans	4	(R)-2-(4-chloro-2-methylphenoxy)propanoate	*pH 6.8, 30&deg;C, mutant enzyme I106A
+KCAT	Sphingobium herbicidovorans	4.13	(R)-2-(4-chloro-2-methylphenoxy)propanoate	*pH 6.8, 30&deg;C, mutant enzyme V80A
+KCAT	Sphingobium herbicidovorans	4.2	(R)-2-(4-chloro-2-methylphenoxy)propanoate	*pH 6.8, 30&deg;C, wild-type enzyme
+KCAT	Sphingobium herbicidovorans	4.33	(R)-2-(4-chloro-2-methylphenoxy)propanoate	*pH 6.8, 30&deg;C, mutant enzyme Q93A

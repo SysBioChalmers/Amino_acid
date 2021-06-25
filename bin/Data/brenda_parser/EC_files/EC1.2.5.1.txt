@@ -1,0 +1,3 @@
+KCAT	Escherichia coli	167	pyruvate	*pH and temperature not specified in the publication
+KCAT	Escherichia coli	60	ferricyanide	*without activation of the flavoprotein by proteolytic reactions, i.e. trypsin or chymotrypsin, pH and temperature not specified in the publication
+KCAT	Escherichia coli	883	ferricyanide	*with activation of the flavoprotein by proteolytic reactions, i.e. trypsin or chymotrypsin, pH and temperature not specified in the publication

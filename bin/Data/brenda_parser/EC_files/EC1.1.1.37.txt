@@ -1,0 +1,81 @@
+KCAT	Mytilus californianus	-999	more	*
+KCAT	Mytilus galloprovincialis	-999	more	*
+KCAT	Mytilus trossulus	-999	more	*
+KCAT	Moritella sp.	0.00386	oxaloacetate	*pH 7.0, 30&deg;C, recombinant enzyme
+KCAT	Moritella sp.	0.00483	oxaloacetate	*pH 7.0, 30&deg;C
+KCAT	Haloarcula marismortui	0.3	oxaloacetate	*pH 7.0, temperature not specified in the publication, 4 M NaCl, mutant enzyme R100Q
+KCAT	Escherichia coli	0.77	oxaloacetate	*pH 7.5, 30&deg;C, recombinant mutant R81Q
+KCAT	Flavobacterium frigidimaris	1.73	NAD+	*30&deg;C, pH 10.0
+KCAT	Thermoplasma acidophilum	1.8	oxaloacetate	*
+KCAT	Haloarcula marismortui	2	oxaloacetate	*pH 7.0, temperature not specified in the publication, 2 M NaCl, mutant enzyme R100Q
+KCAT	Haloarcula marismortui	2.1	pyruvate	*pH 7.0, temperature not specified in the publication, 2 M NaCl, mutant enzyme R100Q
+KCAT	Malus domestica	2.54	NAD+	*pH 7.5, 30&deg;C
+KCAT	Sulfolobus acidocaldarius	2.62	oxaloacetate	*
+KCAT	Malus domestica	3.21	NAD+	*pH 7.9, 25&deg;C
+KCAT	Haloarcula marismortui	3.5	pyruvate	*pH 7.0, temperature not specified in the publication, 4 M NaCl, mutant enzyme R100Q
+KCAT	Streptomyces coelicolor	3.66	NAD+	*pH 8.5, 30&deg;C
+KCAT	Streptomyces coelicolor	4.71	(S)-malate	*pH 8.5, 30&deg;C
+KCAT	Haloarcula marismortui	6	oxaloacetate	*pH 7.0, temperature not specified in the publication, 4 M NaCl, wild-type enzyme
+KCAT	Malus domestica	8.4	(S)-malate	*pH 7.9, 25&deg;C
+KCAT	Malus domestica	9.91	(S)-malate	*pH 7.5, 30&deg;C
+KCAT	Haloarcula marismortui	12.3	pyruvate	*pH 7.0, temperature not specified in the publication, 0.15 M NaCl, mutant enzyme R100Q
+KCAT	Sus scrofa	18	(S)-malate	*pH 8.1, 22&deg;C
+KCAT	Flavobacterium frigidimaris	41	NAD+	*10&deg;C, pH 10.0
+KCAT	Flavobacterium frigidimaris	41.3	(S)-malate	*10&deg;C, pH 10.0
+KCAT	Taenia solium	47	(S)-malate	*pH 9.6, 22&deg;C, recombinant enzyme
+KCAT	Taenia solium	47.4	(S)-malate	*pH 8.0, temperature not specified in the publication
+KCAT	Flavobacterium frigidimaris	48.4	(S)-malate	*20&deg;C, pH 10.0
+KCAT	Flavobacterium frigidimaris	48.6	NAD+	*20&deg;C, pH 10.0
+KCAT	Sus scrofa	76.7	L-malate	*
+KCAT	Pyrobaculum calidifontis	77	oxaloacetate	*pH 10, 55&deg;C
+KCAT	Flavobacterium frigidimaris	83.2	(S)-malate	*30&deg;C, pH 10.0
+KCAT	Flavobacterium frigidimaris	83.4	NAD+	*30&deg;C, pH 10.0
+KCAT	Flavobacterium frigidimaris	138	(S)-malate	*40&deg;C, pH 10.0
+KCAT	Flavobacterium frigidimaris	139	NAD+	*40&deg;C, pH 10.0
+KCAT	Plasmodium falciparum	150	NAD+	*pH 10.2
+KCAT	Plasmodium falciparum	175	reduced acetylpyridine adenine dinucleotide	*pH 10.2
+KCAT	Haloarcula marismortui	197	oxaloacetate	*pH 7.0, temperature not specified in the publication, 2 M NaCl, wild-type enzyme
+KCAT	Plasmodium falciparum	250	malate	*pH 10.2
+KCAT	Mycobacterium tuberculosis	302	(S)-malate	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	320	NAD+	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Sus scrofa	377	oxaloacetate	*pH 8.1, 22&deg;C
+KCAT	Taenia solium	385	NAD+	*pH 9.6, 22&deg;C, recombinant enzyme
+KCAT	Taenia solium	385.6	NAD+	*pH 8.0, temperature not specified in the publication
+KCAT	Methylosinus trichosporium	516	oxaloacetate	*recombinant enzyme, pH 9.5, 30&deg;C
+KCAT	Streptomyces coelicolor	542	NADH	*pH 8.5, 30&deg;C
+KCAT	Malus domestica	609.5	NADH	*pH 7.8, 30&deg;C
+KCAT	Methylomicrobium alcaliphilum	621	(S)-malate	*recombinant enzyme, pH 9.5, 30&deg;C
+KCAT	Taenia solium	665	oxaloacetate	*pH 8.0, 22&deg;C, recombinant enzyme
+KCAT	Taenia solium	665.3	oxaloacetate	*pH 8.0, temperature not specified in the publication
+KCAT	Plasmodium falciparum	674	alpha-ketomalonate	*pH 7.5
+KCAT	Methylomicrobium alcaliphilum	870	oxaloacetate	*recombinant enzyme, pH 9.5, 30&deg;C
+KCAT	Escherichia coli	931	oxaloacetate	*pH 7.5, 30&deg;C, recombinant wild-type enzyme
+KCAT	Plasmodium falciparum	950	NADH	*pH 7.5
+KCAT	Plasmodium falciparum	960	oxaloacetate	*pH 7.5
+KCAT	Taenia solium	962	NADH	*pH 8.0, 22&deg;C, recombinant enzyme
+KCAT	Taenia solium	962.7	NADH	*pH 8.0, temperature not specified in the publication
+KCAT	Plasmodium falciparum	1010	acetylpyridine adenine dinucleotide	*pH 7.5
+KCAT	Methylosinus trichosporium	1141	(S)-malate	*recombinant enzyme, pH 9.5, 30&deg;C
+KCAT	Streptomyces coelicolor	1870	oxaloacetate	*pH 8.5, 30&deg;C
+KCAT	Mycobacterium tuberculosis	2437	oxaloacetate	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Rasamsonia emersonii	2770	NAD+	*pH 7.4, 30&deg;C, native enzyme
+KCAT	Rasamsonia emersonii	2900	L-malate	*pH 7.4, 30&deg;C, native enzyme
+KCAT	Rasamsonia emersonii	3100	NAD+	*pH 7.4, 30&deg;C, recombinant enzyme
+KCAT	Mycobacterium tuberculosis	3330	NADH	*recombinant enzyme, pH and temperature not specified in the publication
+KCAT	Rasamsonia emersonii	3500	L-malate	*pH 7.4, 30&deg;C, recombinant enzyme
+KCAT	Malus domestica	4553	oxaloacetate	*pH 7.8, 30&deg;C
+KCAT	Triticum aestivum	4729	malate	*pH 7.5
+KCAT	Plasmodium falciparum	7280	3-acetylpyridine-adenine dinucleotide	*mutant enzyme R183A
+KCAT	Plasmodium falciparum	7300	3-acetylpyridine-adenine dinucleotide	*wild type enzyme
+KCAT	Plasmodium falciparum	7500	oxaloacetate	*mutant enzyme R214G
+KCAT	Plasmodium falciparum	7880	NADH	*wild type enzyme
+KCAT	Plasmodium falciparum	8320	oxaloacetate	*mutant enzyme R183A
+KCAT	Plasmodium falciparum	8440	NADH	*mutant enzyme R214G
+KCAT	Plasmodium falciparum	8570	oxaloacetate	*wild type enzyme
+KCAT	Plasmodium falciparum	8860	NADH	*mutant enzyme R183A
+KCAT	Plasmodium falciparum	10050	3-acetylpyridine-adenine dinucleotide	*mutant enzyme R214G
+KCAT	Rasamsonia emersonii	81000	oxaloacetate	*pH 7.4, 30&deg;C, recombinant enzyme
+KCAT	Rasamsonia emersonii	90000	NADH	*pH 7.4, 30&deg;C, recombinant enzyme
+KCAT	Rasamsonia emersonii	91000	oxaloacetate	*pH 7.4, 30&deg;C, native enzyme
+KCAT	Rasamsonia emersonii	110000	NADH	*pH 7.4, 30&deg;C, native enzyme
+KCAT	Triticum aestivum	121600	oxaloacetate	*pH 7.5

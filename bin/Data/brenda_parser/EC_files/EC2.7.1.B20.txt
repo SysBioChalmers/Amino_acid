@@ -1,0 +1,6 @@
+KCAT	Thermoplasma acidophilum	0.064	cytidine	*pH 8.0, 22&deg;C
+KCAT	Thermoplasma acidophilum	0.072	guanosine	*pH 8.0, 22&deg;C
+KCAT	Thermoplasma acidophilum	0.084	adenosine	*pH 8.0, 22&deg;C
+KCAT	Thermoplasma acidophilum	0.16	Inosine	*pH 8.0, 22&deg;C
+KCAT	Thermoplasma acidophilum	0.17	ATP	*pH 8.0, 22&deg;C, cosubstrate: inosine
+KCAT	Thermoplasma acidophilum	0.27	GTP	*pH 8.0, 22&deg;C

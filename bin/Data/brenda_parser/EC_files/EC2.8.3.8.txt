@@ -1,0 +1,1 @@
+KCAT	Acetobacter aceti	290	acetate	*wild type enzyme, in 50 mM potassium phosphate (pH 8.0), 100 mM potassium chloride, at 30&Acirc;&deg;C

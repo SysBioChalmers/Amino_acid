@@ -1,0 +1,1 @@
+ecNumber*1.1.1.368#turnoverNumber*7#turnoverNumberMaximum*#substrate*6-hydroxycyclohex-1-ene-1-carbonyl-CoA#commentary*pH 7.4, 37&deg;C, calculated as kcat number per subunit#organism*Thauera aromatica#ligandStructureId*11110#literature*724904#

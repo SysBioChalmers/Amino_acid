@@ -1,0 +1,3 @@
+KCAT	Rattus sp.	0.000467	3,3',5'-triiodothyronine	*
+KCAT	Rattus sp.	0.00107	3,3',5'-triiodothyronine	*in hypothyroid medium
+KCAT	Homo sapiens	-999	more	*

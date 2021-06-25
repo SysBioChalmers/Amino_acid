@@ -1,0 +1,1 @@
+KCAT	Pseudomonas pseudoalcaligenes	208	2-aminomuconate	*pH 6.6, 25&Acirc;&deg;C

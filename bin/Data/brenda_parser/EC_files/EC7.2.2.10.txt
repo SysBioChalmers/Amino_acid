@@ -1,0 +1,18 @@
+KCAT	Oryctolagus cuniculus	-999	more	*
+KCAT	Homo sapiens	-999	more	*Ca2+ binding transition rate; Ca2+ binding transition rates of isozymes, overview
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	3.5	ATP	*ATPase turnover rate, pH 7.0, 37&deg;C, isozyme SPCA1a
+KCAT	Oryctolagus cuniculus	9.5	Ca2+	*calcium pump activity, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	15.9	ATP	*ATPase turnover rate, pH 7.0, 37&deg;C, isozyme SPCA1d
+KCAT	Homo sapiens	20.27	ATP	*ATPase turnover rate, pH 7.0, 37&deg;C, isozyme SPCA1a
+KCAT	Homo sapiens	22.5	ATP	*ATPase turnover rate, pH 7.0, 37&deg;C, isozyme SPCA1b
+KCAT	Homo sapiens	27.44	ATP	*ATPase turnover rate, pH 7.0, 37&deg;C, isozyme SPCA1d
+KCAT	Homo sapiens	90	Ca2+	*isoform 3c in presence of a saturing Ca2+ at pH 7.0, in presence of ionophore
+KCAT	Oryctolagus cuniculus	95	Ca2+	*in presence of 0.1 mM Ca2+ at pH optimum 7.23, in presence of ionophore
+KCAT	Homo sapiens	98	Ca2+	*isoform 3a in presence of a saturing Ca2+ concentration at pH 7.0, in presence of ionophore
+KCAT	Homo sapiens	100	Ca2+	*isoform 3b in presence of a saturing Ca2+ at pH 7.0, in presence of ionophore
+KCAT	Oryctolagus cuniculus	128	Ca2+	*in presence of a saturing Ca2+ at pH 7.0, in presence of ionophore
+KCAT	Homo sapiens	130	ATP	*ATPase turnover rate, pH 7.0, 37&deg;C, isozyme SERCA1a
+KCAT	Homo sapiens	132	Ca2+	*isoform 3a in presence of 0.1 mM Ca2+ at pH optimum 7.72, in presence of ionophore
+KCAT	Homo sapiens	134	Ca2+	*isoform 3c in presence of 0.1 mM Ca2+ at pH optimum 7.78, in presence of ionophore
+KCAT	Homo sapiens	149	Ca2+	*isoform 3b in presence of 0.1 mM Ca2+ at pH optimum 7.74, in presence of ionophore

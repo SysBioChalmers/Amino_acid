@@ -1,0 +1,6 @@
+KCAT	Halomonas elongata	4.5	2-oxoglutarate	*wild-type, pH 8.5, 37&deg;C
+KCAT	Halomonas elongata	8.4	2-oxoglutarate	*mutant D180V, pH 8.5, 37&deg;C
+KCAT	Halomonas elongata	25.2	2-oxoglutarate	*mutant D180V/F320Y/Q325R , pH 8.5, 37&deg;C
+KCAT	Halomonas elongata	120	L-2,4-diaminobutanoate	*wild-type, pH 8.5, 37&deg;C
+KCAT	Halomonas elongata	182	L-2,4-diaminobutanoate	*mutant D180V, pH 8.5, 37&deg;C
+KCAT	Halomonas elongata	221	L-2,4-diaminobutanoate	*mutant D180V/F320Y/Q325R , pH 8.5, 37&deg;C

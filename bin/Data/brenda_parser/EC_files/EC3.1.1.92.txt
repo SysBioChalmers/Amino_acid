@@ -1,0 +1,2 @@
+KCAT	Agrobacterium tumefaciens	6.7	4-sulfomuconolactone	*pH 8.0, temperature not specified in the publication
+KCAT	Hydrogenophaga intermedia	45	4-sulfomuconolactone	*pH 8.0, temperature not specified in the publication

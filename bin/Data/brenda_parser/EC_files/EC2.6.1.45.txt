@@ -1,0 +1,5 @@
+KCAT	Oryza sativa Japonica Group	2.03	L-serine	*cosubstrate pyruvate, pH 7.6, 30&deg;C
+KCAT	Arabidopsis thaliana	2.86	L-alanine	*at 10 mM glyoxylate
+KCAT	Arabidopsis thaliana	6.4	L-serine	*at 10 mM glyoxylate
+KCAT	Oryza sativa Japonica Group	8.56	L-alanine	*cosubstrate glyoxylate, pH 7.6, 30&deg;C
+KCAT	Oryza sativa Japonica Group	19.82	L-serine	*cosubstrate glyoxylate, pH 7.6, 30&deg;C

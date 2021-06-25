@@ -1,0 +1,19 @@
+KCAT	Leishmania major	1.05	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*pH 5.5, 25&Acirc;&deg;C, mutant enzyme G234E
+KCAT	Leishmania major	6.6	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*pH 5.5, 25&Acirc;&deg;C, mutant enzyme G234E
+KCAT	Leishmania major	7.6	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*pH 5.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Leishmania major	0.145	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*pH 5.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Arabidopsis thaliana	0.005	Z-Arg-Arg-7-amido-4-methylcoumarin	*mutant H207A, pH 5.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.04	Z-Arg-Arg-7-amido-4-methylcoumarin	*mutant G336E, pH 5.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.05	Z-Arg-Arg-7-amido-4-methylcoumarin	*pH 5.5, 37&Acirc;&deg;C; wild-type, pH 5.5, 37&Acirc;&deg;C
+KCAT	Trypanosoma congolense	1.09	CBZ-Phe-Arg-7-amido-4-methylcoumarin	*
+KCAT	Arabidopsis thaliana	0.14	Z-Phe-Arg-7-amido-4-methylcoumarin	*mutant G336E, pH 5.5, 37&Acirc;&deg;C; mutant H207A, pH 5.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	1	Z-Phe-Arg-7-amido-4-methylcoumarin	*pH 5.5, 37&Acirc;&deg;C; wild-type, pH 5.5, 37&Acirc;&deg;C
+KCAT	Trypanosoma congolense	1.09	Nalpha-benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*
+KCAT	Trypanosoma congolense	3.49	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	*
+KCAT	Trypanosoma congolense	3	CBZ-Arg-Arg-7-amido-4-methylcoumarin	*
+KCAT	Arabidopsis thaliana	0.015	Abz-GIVRAK(Dnp)	*mutant H207A, pH 5.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.02	Abz-FRF(NO2)A	*mutant H207A, pH 5.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.04	Abz-FRF(NO2)A	*mutant G336E, pH 5.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.11	Abz-GIVRAK(Dnp)	*mutant G336E, pH 5.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.17	Abz-FRF(NO2)A	*pH 5.5, 37&Acirc;&deg;C; wild-type, pH 5.5, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.9	Abz-GIVRAK(Dnp)	*pH 5.5, 37&Acirc;&deg;C; wild-type, pH 5.5, 37&Acirc;&deg;C

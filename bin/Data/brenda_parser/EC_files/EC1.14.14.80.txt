@@ -1,0 +1,39 @@
+KCAT	Arabidopsis thaliana	0.002	palmitic acid	*27&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.01	arachidonic acid	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.01	oleic acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.01	oleic acid	*pH 7.4, 37&deg;C; pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.02	arachidonic acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.02	oleic acid	*pH 7.4, 37&deg;C; pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.03	arachidonic acid	*pH 7.4, 37&deg;C; pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.03	palmitic acid	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.055	palmitic acid	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.068	palmitic acid	*pH 7.4, 37&deg;C, recombinant wild-type enzyme with cytochrome B5
+KCAT	Homo sapiens	0.088	palmitic acid	*pH 7.4, 37&deg;C, recombinant mutant S353G
+KCAT	Rattus norvegicus	0.1	arachidonic acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.1	myristic acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.1	palmitic acid	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.1	palmitic acid	*pH 7.4, 37&deg;C, recombinant mutant K276T
+KCAT	Homo sapiens	0.115	palmitic acid	*pH 7.4, 37&deg;C, recombinant mutant S353G with cytochrome B5
+KCAT	Homo sapiens	0.117	lauric acid	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.157	myristic acid	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.17	palmitic acid	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.188	palmitic acid	*pH 7.4, 37&deg;C, recombinant mutant K276T with cytochrome B5
+KCAT	Homo sapiens	0.193	myristic acid	*pH 7.4, 37&deg;C, recombinant wild-type enzyme with cytochrome B5
+KCAT	Homo sapiens	0.258	lauric acid	*pH 7.4, 37&deg;C, recombinant mutant K276T; pH 7.4, 37&deg;C, recombinant wild-type enzyme, with cytochrome B5
+KCAT	Homo sapiens	0.278	myristic acid	*pH 7.4, 37&deg;C, recombinant mutant K276T
+KCAT	Homo sapiens	0.423	myristic acid	*pH 7.4, 37&deg;C, recombinant mutant S353G
+KCAT	Homo sapiens	0.5	myristic acid	*pH 7.4, 37&deg;C, recombinant mutant K276T with cytochrome B5
+KCAT	Homo sapiens	0.502	lauric acid	*pH 7.4, 37&deg;C, recombinant mutant S353G
+KCAT	Rattus norvegicus	0.58	lauric acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	0.67	myristic acid	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.7	lauric acid	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.822	myristic acid	*pH 7.4, 37&deg;C, recombinant mutant S353G with cytochrome B5
+KCAT	Homo sapiens	0.83	myristic acid	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.842	lauric acid	*pH 7.4, 37&deg;C, recombinant mutant K276T with cytochrome B5
+KCAT	Homo sapiens	0.998	lauric acid	*pH 7.4, 37&deg;C, recombinant mutant S353G with cytochrome B5
+KCAT	Rattus norvegicus	1	palmitic acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	1.17	myristic acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	1.22	lauric acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3.8	lauric acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	3.8	myristic acid	*pH 7.4, 37&deg;C
+KCAT	Rattus norvegicus	10.8	lauric acid	*pH 7.4, 37&deg;C

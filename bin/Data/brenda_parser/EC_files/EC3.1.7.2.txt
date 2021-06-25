@@ -1,0 +1,2 @@
+KCAT	Mycobacterium tuberculosis	2.97	ppGpp	*pH 8.0, 30&deg;C, kcat is reduced 2fold in the presence of the complex containing tRNA, ribosomes, and mRNA
+KCAT	Mycobacterium tuberculosis	3	ppGpp	*pH 8.0, 30&deg;C, kcat is reduced 2fold in the presence of the complex containing tRNA, ribosomes, and mRNA

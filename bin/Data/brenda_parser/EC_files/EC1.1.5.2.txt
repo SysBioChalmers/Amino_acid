@@ -1,0 +1,130 @@
+KCAT	Acinetobacter calcoaceticus	-999	more	*
+KCAT	Acinetobacter calcoaceticus	0.8	D-glucose	*recombinant mutant H168Q, pH 7.0
+KCAT	Pyrobaculum aerophilum	2.3	maltose	*in 50 mM Bis-Tris propane (pH 8.0), at 50&deg;C
+KCAT	Acinetobacter calcoaceticus	2.5	D-glucose	*recombinant mutant H168C, pH 7.0
+KCAT	Pyrobaculum aerophilum	3.1	D-mannose	*in 50 mM Bis-Tris propane (pH 8.0), at 50&deg;C
+KCAT	Pyrobaculum aerophilum	3.2	D-xylose	*in 50 mM Bis-Tris propane (pH 8.0), at 50&deg;C
+KCAT	Pyrobaculum aerophilum	4.1	D-glucose	*in 50 mM Bis-Tris propane (pH 8.0), at 50&deg;C
+KCAT	Pyrobaculum aerophilum	4.3	D-galactose	*in 50 mM Bis-Tris propane (pH 8.0), at 50&deg;C
+KCAT	Thermus thermophilus	15	xylitol	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Thermus thermophilus	38	mannitol	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	65	maltose	*recombinant mutant D167E/N452T, pH 7.0
+KCAT	Thermus thermophilus	69	2-deoxy-D-glucose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Escherichia coli	69	D-galactose	*N462H mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	72	D-galactose	*N452T mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	72	D-galactose	*recombinant mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	73	allose	*recombinant mutant D167E/N452T, pH 7.0
+KCAT	Thermus thermophilus	76	methanol	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	89	D-galactose	*recombinant mutant D167E/N452T, pH 7.0
+KCAT	Thermus thermophilus	104	D-glucosamine	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Thermus thermophilus	117	D-glucosamine	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Acinetobacter calcoaceticus	121	D-galactose	*pH 7.0, wild-type enzyme
+KCAT	Sorangium cellulosum	121.5	D-glucose	*mutant enzyme Q219K/F220C, in 42 mM sodium phosphate buffer pH 7.5 at 37&deg;C
+KCAT	Thermus thermophilus	123	ethanol	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Thermus thermophilus	128	2-deoxy-D-glucose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Thermus thermophilus	142	L-arabinose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Thermus thermophilus	154	L-arabinose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Thermus thermophilus	160	D-cellobiose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Thermus thermophilus	160	D-galactose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Gluconacetobacter diazotrophicus	160.5	D-galactose	*at pH 7.0 and 25&deg;C
+KCAT	Acinetobacter calcoaceticus	167	lactose	*recombinant mutant D167E/N452T, pH 7.0
+KCAT	Thermus thermophilus	170	maltose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Gluconacetobacter diazotrophicus	180.6	2-deoxy-D-glucose	*at pH 7.0 and 25&deg;C
+KCAT	Thermus thermophilus	181	D-ribose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Thermus thermophilus	186	D-cellobiose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Thermus thermophilus	186	maltose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Gluconacetobacter diazotrophicus	186.3	D-glucose	*at pH 7.0 and 25&deg;C
+KCAT	Thermus thermophilus	192	D-glucose 6-phosphate	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Thermus thermophilus	193	D-galactose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Thermus thermophilus	197	D-glucosamine	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Sorangium cellulosum	197.1	D-glucose	*mutant enzyme Q126E, in 42 mM sodium phosphate buffer pH 7.5 at 37&deg;C
+KCAT	Acinetobacter calcoaceticus	201	D-xylose	*pH 7.0, wild-type enzyme
+KCAT	Thermus thermophilus	204	D-xylose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Acinetobacter calcoaceticus	215	3-O-methyl-D-glucose	*recombinant mutant D167E/N452T, pH 7.0
+KCAT	Thermus thermophilus	225	alpha-D-lactose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Acinetobacter calcoaceticus	226	cellobiose	*recombinant mutant D167E/N452T, pH 7.0
+KCAT	Sorangium cellulosum	227.2	D-glucose	*mutant enzyme Q219N/F220K, in 42 mM sodium phosphate buffer pH 7.5 at 37&deg;C
+KCAT	Escherichia coli	232	D-galactose	*wild-type isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	232	D-galactose	*recombinant wild-type isozyme PQQGDH-B, pH 7.0
+KCAT	Thermus thermophilus	260	D-ribose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Thermus thermophilus	261	D-mannose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Thermus thermophilus	265	D-mannose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Acinetobacter calcoaceticus	267	D-mannose	*pH 7.0, wild-type enzyme
+KCAT	Thermus thermophilus	282	alpha-D-lactose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Thermus thermophilus	305	D-xylose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Sorangium cellulosum	305.9	D-glucose	*mutant enzyme Q219E/F220E, in 42 mM sodium phosphate buffer pH 7.5 at 37&deg;C
+KCAT	Thermus thermophilus	316	D-glucose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Acinetobacter calcoaceticus	331	2-deoxy-D-glucose	*pH 7.0, wild-type enzyme
+KCAT	Thermus thermophilus	339	D-glucose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Sorangium cellulosum	341.6	D-glucose	*mutant enzyme Q126R, in 42 mM sodium phosphate buffer pH 7.5 at 37&deg;C
+KCAT	Thermus thermophilus	363	maltotriose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Acinetobacter calcoaceticus	436	maltose	*recombinant mutant D167E, pH 7.0
+KCAT	Sorangium cellulosum	445.1	D-glucose	*mutant enzyme Q126S, in 42 mM sodium phosphate buffer pH 7.5 at 37&deg;C
+KCAT	Acinetobacter calcoaceticus	478	lactose	*recombinant mutant D167E, pH 7.0
+KCAT	Acinetobacter calcoaceticus	541	3-O-methyl-D-glucose	*recombinant mutant D167E, pH 7.0
+KCAT	Acinetobacter calcoaceticus	558	allose	*recombinant mutant D167E, pH 7.0
+KCAT	Escherichia coli	574	lactose	*N462H mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	588	maltose	*N462H mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	630	D-galactose	*pH 7.0, mutant enzyme E277K
+KCAT	Acinetobacter calcoaceticus	669	lactose	*pH 7.0, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	678	D-xylose	*pH 7.0, mutant enzyme E277K
+KCAT	Thermus thermophilus	715	D-ribose	*pH 7.5, 70&deg;C, mutant enzyme Y156K
+KCAT	Thermus thermophilus	772	maltotriose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	785	maltose	*pH 7.0, wild-type enzyme
+KCAT	Thermus thermophilus	822	maltotriose	*pH 7.5, 70&deg;C, mutant enzyme Y156A
+KCAT	Thermus thermophilus	823	D-galactose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	861	D-mannose	*pH 7.0, mutant enzyme E277K
+KCAT	Escherichia coli	949	allose	*N452T mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	949	allose	*recombinant mutant N452T, pH 7.0
+KCAT	Escherichia coli	1002	maltose	*N452T mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1002	maltose	*recombinant mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1020	maltose	*pH 7.0, mutant enzyme E277K
+KCAT	Thermus thermophilus	1022	maltose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Escherichia coli	1035	allose	*N462H mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	1038	lactose	*N452T mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1038	lactose	*recombinant mutant N452T, pH 7.0
+KCAT	Thermus thermophilus	1042	D-cellobiose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Thermus thermophilus	1054	D-glucose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	1060	2-deoxy-D-glucose	*pH 7.0, mutant enzyme E277K
+KCAT	Acinetobacter calcoaceticus	1060	cellobiose	*recombinant mutant D167E, pH 7.0
+KCAT	Escherichia coli	1064	3-O-methyl-D-glucose	*N462H mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1073	cellobiose	*recombinant mutant N452T, pH 7.0
+KCAT	Sorangium cellulosum	1114	D-glucose	*mutant enzyme Q219K/F220K, in 42 mM sodium phosphate buffer pH 7.5 at 37&deg;C
+KCAT	Thermus thermophilus	1141	2-deoxy-D-glucose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	1193	D-glucose	*recombinant mutant D167E/N452T, pH 7.0
+KCAT	Escherichia coli	1253	3-O-methyl-D-glucose	*N452T mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1253	3-O-methyl-D-glucose	*recombinant mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1355	cellobiose	*recombinant wild-type isozyme PQQGDH-B, pH 7.0
+KCAT	Escherichia coli	1399	D-glucose	*N462H mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1440	D-allose	*pH 7.0, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	1450	3-O-methyl-D-glucose	*pH 7.0, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	1550	D-glucose	*pH 7.0, temperature not specified in the publication, wild-type enzyme
+KCAT	Thermus thermophilus	1627	D-mannose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Escherichia coli	1659	lactose	*wild-type isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1659	lactose	*recombinant wild-type isozyme PQQGDH-B, pH 7.0
+KCAT	Thermus thermophilus	1681	D-xylose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	1724	D-glucose	*recombinant mutant D167E, pH 7.0
+KCAT	Thermus thermophilus	1755	L-arabinose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Sorangium cellulosum	1779	D-glucose	*wild type enzyme, in 42 mM sodium phosphate buffer pH 7.5 at 37&deg;C
+KCAT	Escherichia coli	1791	D-glucose	*N452T mutant isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1791	D-glucose	*recombinant mutant N452T, pH 7.0
+KCAT	Acinetobacter calcoaceticus	1800	lactose	*pH 7.0, mutant enzyme E277K
+KCAT	Escherichia coli	1930	maltose	*wild-type isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1930	maltose	*recombinant wild-type isozyme PQQGDH-B, pH 7.0
+KCAT	Thermus thermophilus	1953	alpha-D-lactose	*pH 7.5, 70&deg;C, wild-type enzyme
+KCAT	Escherichia coli	2270	maltotriose	*
+KCAT	Escherichia coli	2509	allose	*wild-type isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	2509	allose	*recombinant wild-type isozyme PQQGDH-B, pH 7.0
+KCAT	Escherichia coli	2870	maltose	*
+KCAT	Escherichia coli	3011	3-O-methyl-D-glucose	*wild-type isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	3011	3-O-methyl-D-glucose	*recombinant wild-type isozyme PQQGDH-B, pH 7.0
+KCAT	Acinetobacter calcoaceticus	3070	D-glucose	*pH 7.0, mutant enzyme E277K
+KCAT	Acinetobacter calcoaceticus	3178	D-glucose	*recombinant cytochrome c-fusion protein, pH 7.0
+KCAT	Acinetobacter calcoaceticus	3200	3-O-methyl-D-glucose	*pH 7.0, mutant enzyme E277K
+KCAT	Escherichia coli	3360	D-glucose	*
+KCAT	Acinetobacter calcoaceticus	3440	D-glucose	*pH 7.0, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	3778	D-glucose	*recombinant Arg-tagged enzyme, pH 7.0
+KCAT	Escherichia coli	3860	D-glucose	*wild-type isozyme PQQGDH-B, pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	3860	D-glucose	*recombinant wild-type isozyme PQQGDH-B, pH 7.0
+KCAT	Acinetobacter calcoaceticus	4424	D-glucose	*recombinant chimeric mutant enzyme, pH 7.0
+KCAT	Acinetobacter calcoaceticus	4560	D-allose	*pH 7.0, mutant enzyme E277K

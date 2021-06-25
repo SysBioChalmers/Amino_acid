@@ -1,0 +1,1 @@
+KCAT	Helianthus annuus	0.054	plastoquinol	*at 21% O2, pH not specified in the publication, temperature not specified in the publication

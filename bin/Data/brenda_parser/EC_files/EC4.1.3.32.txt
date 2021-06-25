@@ -1,0 +1,36 @@
+KCAT	Aspergillus niger	0.00001	(2R,3S)-dimethylmalate	*mutant enzyme Y44F, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C); mutant Y44F, smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	(2R,3S)-isocitrate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	(2S)-methylmalate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	3,3-difluorooxaloacetate	*kcat less than 0.00001 sec-1, pH and temperature not specified in the publication
+KCAT	Aspergillus niger	0.00001	3,3-difluoroxaloacetate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	3-butylmalate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	(3S)-isopropylmalate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	carboxyphosphoenolpyruvate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	oxaloacetate	*mutant Y44F, smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	Phosphonopyruvate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	(R)-malate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	(S)-malate	*smaller than 0.00001 s-1
+KCAT	Aspergillus niger	0.00001	(S)-malate	*kcat less than 0.00001 sec-1, pH and temperature not specified in the publication
+KCAT	Aspergillus niger	0.000121	(2R,3S)-dimethylmalate	*mutant C124S; mutant enzyme C124S, at pH 7.5 and 25&deg;C; mutant enzyme C124S, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	0.00014	(2R,3S)-dimethylmalate	*mutant D59S; mutant enzyme D59S, at pH 7.5 and 25&deg;C; mutant enzyme D59S, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	0.000178	(2R,3S)-dimethylmalate	*mutant C124A; mutant enzyme C124A, at pH 7.5 and 25&deg;C; mutant enzyme C124A, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	0.000427	(2R,3S)-dimethylmalate	*mutant D59A; mutant enzyme D59A, at pH 7.5 and 25&deg;C; mutant enzyme D59A, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	0.081	oxaloacetate	*mutant C124S; mutant enzyme C124S, at pH 7.5 and 25&deg;C
+KCAT	Aspergillus niger	0.082	oxaloacetate	*mutant enzyme P240T, at pH 7.5 and 25&deg;C; mutant P240T
+KCAT	Aspergillus niger	0.125	oxaloacetate	*mutant C124A; mutant enzyme C124A, at pH 7.5 and 25&deg;C
+KCAT	Aspergillus niger	0.13	(2R,3S)-2-methylisocitrate	*wild type enzyme, at pH 7.5 and 25&deg;C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	0.13	(2R,3S)-methylisocitrate	*
+KCAT	Aspergillus niger	0.13	(2S,3R)-2-methylisocitrate	*; wild type enzyme, at pH 7.5 and 25&deg;C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	0.357	oxaloacetate	*mutant enzyme P240S, at pH 7.5 and 25&deg;C; mutant P240S
+KCAT	Aspergillus niger	0.48	oxaloacetate	*direct optical method, K+-Hepes as buffer; wild type; wild type enzyme, at pH 7.5 and 25&deg;C
+KCAT	Aspergillus niger	0.48	oxaloacetate	*pH and temperature not specified in the publication
+KCAT	Aspergillus niger	0.505	oxaloacetate	*direct optical method, imidazole as buffer
+KCAT	Aspergillus niger	0.79	(2R)-propyl-(3S)-methylmalate	*; wild type enzyme, at pH 7.5 and 25&deg;C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	2.6	(2R)-methylmalate	*pH and temperature not specified in the publication
+KCAT	Aspergillus niger	2.64	(2R)-methylmalate	*; wild type enzyme, at pH 7.5 and 25&deg;C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	2.8	(2R,3S)-dimethylmalate	*mutant enzyme P240T, at pH 7.5 and 25&deg;C; mutant enzyme P240T, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C); mutant P240T
+KCAT	Aspergillus niger	4.4	(2R)-ethylmalate	*; wild type enzyme, at pH 7.5 and 25&deg;C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	11.7	(2R,3S)-dimethylmalate	*mutant enzyme P240S, at pH 7.5 and 25&deg;C; mutant enzyme P240S, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C); mutant P240S
+KCAT	Aspergillus niger	19.2	(2R,3S)-2,3-dimethylmalate	*pH and temperature not specified in the publication
+KCAT	Aspergillus niger	19.2	(2R,3S)-dimethylmalate	*; wild type; wild type enzyme, at pH 7.5 and 25&deg;C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)
+KCAT	Aspergillus niger	63	(2R)-ethyl-(3S)-methylmalate	*; wild type enzyme, at pH 7.5 and 25&deg;C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25&deg;C)

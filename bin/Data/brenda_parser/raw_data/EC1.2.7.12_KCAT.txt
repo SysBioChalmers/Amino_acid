@@ -1,0 +1,1 @@
+ecNumber*1.2.7.12#turnoverNumber*640#turnoverNumberMaximum*#substrate*formylmethanofuran#commentary*#organism*Methanosarcina barkeri#ligandStructureId*2405#literature*11923#

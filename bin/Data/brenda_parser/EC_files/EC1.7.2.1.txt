@@ -1,0 +1,73 @@
+KCAT	Paracoccus pantotrophus	0.11	O2	*25&Acirc;&deg;C, pH 7.0, electron donor horse heart cytochrome c; initially oxidized enzyme, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	0.17	O2	*25&Acirc;&deg;C, pH 7.0, electron donor cytochrome c550; initially oxidized enzyme, electron donor cytochrome c550
+KCAT	Pseudomonas denitrificans (nomen rejiciendum)	1.48	O2	*
+KCAT	Paracoccus pantotrophus	2.8	O2	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor horse heart cytochrome c; pre-reduced enzyme, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	3	O2	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor cytochrome c550; pre-reduced enzyme, electron donor cytochrome c550
+KCAT	Paracoccus pantotrophus	3.2	O2	*25&Acirc;&deg;C, pH 7.0, wild-type, pre-reduction with dithionite
+KCAT	Paracoccus pantotrophus	6.2	O2	*25&Acirc;&deg;C, pH 7.0, Y25S mutant enzyme
+KCAT	Paracoccus pantotrophus	6.4	O2	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor pseudoazurin; pre-reduced enzyme, electron donor pseudoazurin
+KCAT	Pseudomonas aeruginosa	1.33	cytochrome c	*succinylated monomeric enzyme
+KCAT	Paracoccus pantotrophus	0.08	hydroxylamine	*25&Acirc;&deg;C, pH 7.0, electron donor cytochrome c550
+KCAT	Paracoccus pantotrophus	0.2	hydroxylamine	*25&Acirc;&deg;C, pH 7.0, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	3	hydroxylamine	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	3.2	hydroxylamine	*25&Acirc;&deg;C, pH 7.0, wild-type, pre-reduction with dithionite
+KCAT	Paracoccus pantotrophus	3.5	hydroxylamine	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor cytochrome c550
+KCAT	Paracoccus pantotrophus	6.4	hydroxylamine	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor pseudoazurin
+KCAT	Paracoccus pantotrophus	7.7	hydroxylamine	*25&Acirc;&deg;C, pH 7.0, Y25S mutant enzyme
+KCAT	Pseudomonas aeruginosa	0.08	nitrite	*pH 6.2, 25&Acirc;&deg;C, mutant enzyme H327A; pH 6.2, 25&Acirc;&deg;C, mutant enzyme H369A
+KCAT	Homo sapiens	0.1	nitrite	*pH 7.4, temperature not specified in the publication
+KCAT	Pseudomonas chlororaphis	0.62	nitrite	*pH 7.0, electron donor azurin
+KCAT	Paracoccus pantotrophus	2.1	nitrite	*25&Acirc;&deg;C, pH 7.0, electron donor cytochrome c550
+KCAT	Paracoccus pantotrophus	2.4	nitrite	*25&Acirc;&deg;C, pH 7.0, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	2.7	nitrite	*25&Acirc;&deg;C, pH 7.0, wild-type, without pre-reduction with dithionite
+KCAT	Paracoccus pantotrophus	5.3	nitrite	*25&Acirc;&deg;C, pH 7.0, electron donor pseudoazurin
+KCAT	Pseudomonas aeruginosa	8	nitrite	*pH 6.2, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Paracoccus pantotrophus	41	nitrite	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	67	nitrite	*25&Acirc;&deg;C, pH 7.0, Y25S mutant enzyme
+KCAT	Paracoccus pantotrophus	68	nitrite	*25&Acirc;&deg;C, pH 7.0, wild-type, pre-reduction with dithionite
+KCAT	Alcaligenes faecalis	71	nitrite	*25&Acirc;&deg;C, pH 8.0
+KCAT	Paracoccus pantotrophus	74	nitrite	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor cytochrome c550
+KCAT	Paracoccus pantotrophus	144	nitrite	*25&Acirc;&deg;C, pH 7.0, pre-reduced cytochrome cd1, electron donor pseudoazurin
+KCAT	Achromobacter xylosoxidans	172	nitrite	*25&Acirc;&deg;C
+KCAT	Alcaligenes faecalis	219	nitrite	*25&Acirc;&deg;C, pH 7.5
+KCAT	Pseudomonas chlororaphis	243	nitrite	*pH 7.0, electron donor benzyl viologen
+KCAT	Hyphomicrobium denitrificans	320	nitrite	*25&Acirc;&deg;C, pH 5.5
+KCAT	Alcaligenes faecalis	392	nitrite	*25&Acirc;&deg;C, pH 7.0
+KCAT	Alcaligenes faecalis	1046	nitrite	*25&Acirc;&deg;C, pH 6.5
+KCAT	Alcaligenes faecalis	1478	nitrite	*25&Acirc;&deg;C, pH 6.0
+KCAT	Alcaligenes faecalis	38	NO	*25&Acirc;&deg;C, pH 6.5
+KCAT	Alcaligenes faecalis	64	NO	*25&Acirc;&deg;C, pH 7.0
+KCAT	Alcaligenes faecalis	109	NO	*25&Acirc;&deg;C, pH 7.5
+KCAT	Alcaligenes faecalis	125	NO	*25&Acirc;&deg;C, pH 8.0
+KCAT	Pseudomonas aeruginosa	0.08	NO2-	*recombinant H327A and H369a mutant enzymes
+KCAT	Paracoccus pantotrophus	2.1	NO2-	*initially oxidized enzyme, electron donor cytochrome c550
+KCAT	Paracoccus pantotrophus	2.4	NO2-	*initially oxidized enzyme, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	5.3	NO2-	*initially oxidized enzyme, electron donor pseudoazurin
+KCAT	Pseudomonas aeruginosa	8	NO2-	*recombinant wild-type enzyme
+KCAT	Pseudomonas denitrificans (nomen rejiciendum)	9.68	NO2-	*
+KCAT	Paracoccus pantotrophus	41	NO2-	*pre-reduced enzyme, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	74	NO2-	*pre-reduced enzyme, electron donor cytochrome c550
+KCAT	Magnetospirillum magnetotacticum	80	NO2-	*electron donor: reduced tetramethyl-4-phenylenediamine
+KCAT	Pseudomonas aeruginosa	80	NO2-	*
+KCAT	Paracoccus pantotrophus	106	NO2-	*all-ferric nitrite-bound complex, electron donor pseudoazurin
+KCAT	Paracoccus pantotrophus	144	NO2-	*pre-reduced enzyme, electron donor pseudoazurin
+KCAT	Paracoccus pantotrophus	0.08	NH2OH	*initially oxidized enzyme, electron donor cytochrome c550
+KCAT	Paracoccus pantotrophus	0.2	NH2OH	*initially oxidized enzyme, electron donor horse heart cytochrome c
+KCAT	Pseudomonas denitrificans (nomen rejiciendum)	2.58	NH2OH	*
+KCAT	Paracoccus pantotrophus	3	NH2OH	*pre-reduced enzyme, electron donor horse heart cytochrome c
+KCAT	Paracoccus pantotrophus	3.5	NH2OH	*pre-reduced enzyme, electron donor cytochrome c550
+KCAT	Paracoccus pantotrophus	6.4	NH2OH	*pre-reduced enzyme, electron donor pseudoazurin
+KCAT	Pseudomonas aeruginosa	1	azurin	*recombinant Y10F mutant enzyme, at pH 6.2 and 27&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	1.12	azurin	*recombinant wild-type enzyme, at pH 6.2 and 27&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	3.2	azurin	*
+KCAT	Rhodobacter sphaeroides	5	ferrocytochrome c2	*
+KCAT	Pseudomonas aeruginosa	7	Abz-VAA	*25&Acirc;&deg;C, pH 6.9, recombinant enzyme
+KCAT	Achromobacter cycloclastes	-999	more	*
+KCAT	Pseudomonas aeruginosa	0.025	Ferrocytochrome c-551	*pH 6.2, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	0.032	Ferrocytochrome c-551	*pH 6.2, 25&Acirc;&deg;C, mutant enzyme H369A
+KCAT	Pseudomonas aeruginosa	0.043	Ferrocytochrome c-551	*pH 6.2, 25&Acirc;&deg;C, mutant enzyme H327A
+KCAT	Rhodobacter sphaeroides	0.1	ferrocytochrome V(gamma)	*
+KCAT	Pseudomonas aeruginosa	0.583	cytochrome c551	*recombinant wild-type enzyme, at pH 6.2 and 27&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	0.6	cytochrome c551	*recombinant Y10F mutant enzyme, at pH 6.2 and 27&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	2.8	cytochrome c551	*at pH 7.0
+KCAT	Geobacillus kaustophilus	796	ferricytochrome c551	*pH 8.0, 25&Acirc;&deg;C

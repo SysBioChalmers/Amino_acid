@@ -1,0 +1,19 @@
+KCAT	Arabidopsis thaliana	0.005	adenosine	*
+KCAT	Plasmodium vivax	0.13	5'-methylthioadenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium cynomolgi	0.31	5'-methylthioadenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium berghei	0.35	5'-methylthioadenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium knowlesi	0.51	5'-methylthioadenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium vivax	1.8	adenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium gallinaceum	1.9	adenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium berghei	4.7	adenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium cynomolgi	5.3	adenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium falciparum	5.6	adenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium falciparum	5.8	5'-methylthioadenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium knowlesi	6.8	adenosine	*wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Streptomyces coelicolor	11.5	adenosine	*37&deg;C, pH not specified in the publication
+KCAT	Plasmodium vivax	12.9	adenosine	*mutant enzyme D172E, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Plasmodium vivax	14	adenosine	*mutant enzyme D172A, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+KCAT	Camelus dromedarius	18.5	adenosine	*pH 7.5, 25&deg;C
+KCAT	Methanocaldococcus jannaschii	110	adenosine	*pH and temperature not specified in the publication, mutant enzyme E150R; pH and temperature not specified in the publication, wild-type enzyme
+KCAT	Methanocaldococcus jannaschii	140	adenosine	*pH and temperature not specified in the publication, mutant enzyme Y136R
+KCAT	Homo sapiens	180	adenosine	*25&deg;C, 50 mM Tris-HCl buffer, pH 7.4, enzyme concentration 1.5 nM

@@ -1,0 +1,1 @@
+ecNumber*4.2.3.98#turnoverNumber*0.00163#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*30&deg;C, pH not specified in the publication; 30&deg;C, pH not specified in the publication, presence of Mg2+#organism*Streptomyces clavuligerus#ligandStructureId*81#literature*714713#

@@ -1,0 +1,3 @@
+KCAT	Saccharomyces cerevisiae	1.4	Tyr-Ala-Ala	*pH 7.5, 40&deg;C
+KCAT	Saccharomyces cerevisiae	14	Tyr-Pro-Ala	*pH 7.5, 40&deg;C
+KCAT	Saccharomyces cerevisiae	25.7	Met-Pro-Ala	*pH 7.5, 40&deg;C

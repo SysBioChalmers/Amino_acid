@@ -1,0 +1,1 @@
+ecNumber*3.1.3.46#turnoverNumber*0.1#turnoverNumberMaximum*#substrate*fructose 2,6-bisphosphate#commentary*#organism*Rattus norvegicus#ligandStructureId*2556#literature*94933#!ecNumber*3.1.3.46#turnoverNumber*0.1#turnoverNumberMaximum*#substrate*fructose 2,6-bisphosphate#commentary*#organism*Rattus norvegicus#ligandStructureId*2556#literature*94945#

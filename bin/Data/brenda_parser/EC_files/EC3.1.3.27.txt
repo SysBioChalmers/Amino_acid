@@ -1,0 +1,1 @@
+KCAT	Escherichia coli	24	1,2-dioleoyl-sn-glycero-3-phosphate	*pH and temperature not specified in the publication

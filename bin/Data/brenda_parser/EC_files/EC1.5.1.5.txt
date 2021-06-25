@@ -1,0 +1,9 @@
+KCAT	Homo sapiens	3.2	methylenetetrahydrofolate	*deuterated, NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme
+KCAT	Homo sapiens	3.8	NADP+	*substrate constant: methylenetetrahydrofolate, deuterated, NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme
+KCAT	Homo sapiens	9.4	methylenetetrahydrofolate	*NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme
+KCAT	Homo sapiens	10	NADP+	*NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme
+KCAT	Leishmania major	10	NADP+	*25 mM MOPS pH 7.3, 2.5 mM formaldehyde, 30 mM 2-mercaptoethanol, 27&deg;C; recombinant DHCH1, 1 mM NADP+
+KCAT	Leishmania major	14	5,10-methylene-tetrahydrofolate	*25 mM MOPS pH 7.3, 2.5 mM formaldehyde, 1 mM NADP+, 30 mM 2-mercaptoethanol, 27&deg;C
+KCAT	Leishmania major	14	5,10-methylene tetrahydrofolate	*recombinant DHCH1, 0.25 mM substrate
+KCAT	Photobacterium phosphoreum	113	NADP+	*
+KCAT	Photobacterium phosphoreum	136	NAD+	*

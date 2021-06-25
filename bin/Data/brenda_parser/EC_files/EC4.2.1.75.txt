@@ -1,0 +1,8 @@
+KCAT	Bacillus subtilis	4.6	Hydroxymethylbilane	*
+KCAT	Homo sapiens	5.83	Hydroxymethylbilane	*
+KCAT	Homo sapiens	10	Hydroxymethylbilane	*Km above 10 mM, mutant enzyme C73R, pH and temperature not specified in the publication
+KCAT	Homo sapiens	30	Hydroxymethylbilane	*
+KCAT	Homo sapiens	170	Hydroxymethylbilane	*mutant enzyme C73R/A69E, pH and temperature not specified in the publication
+KCAT	Escherichia coli	500	Hydroxymethylbilane	*
+KCAT	Homo sapiens	890	Hydroxymethylbilane	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Homo sapiens	1200	Hydroxymethylbilane	*mutant enzyme C73R/L43D, pH and temperature not specified in the publication

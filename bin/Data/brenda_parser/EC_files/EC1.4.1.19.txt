@@ -1,0 +1,18 @@
+KCAT	Nostoc punctiforme	0.39	L-tryptophan	*mutant enzyme L288M, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	1.1	L-tryptophan	*mutant enzyme M65A, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	1.2	L-tryptophan	*mutant enzyme A69L, at pH 11.0 and 25&deg;C; mutant enzyme A69M, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	2.6	L-tryptophan	*mutant enzyme V133A, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	2.9	L-tryptophan	*mutant enzyme V291A, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	3.5	L-tryptophan	*mutant enzyme Y292H, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	4.2	L-tryptophan	*at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	4.3	NAD+	*at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	4.6	L-tryptophan	*mutant enzyme V132A, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	8	L-tryptophan	*mutant enzyme M295A, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	8.5	L-tryptophan	*mutant enzyme Y292W, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	10	L-tryptophan	*mutant enzyme I296A, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	12	L-tryptophan	*mutant enzyme M40L, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	16	(indol-3-yl)pyruvate	*at pH 7.5 and 25&deg;C
+KCAT	Nostoc punctiforme	17	NH3	*at pH 7.5 and 25&deg;C
+KCAT	Nostoc punctiforme	20	L-tryptophan	*wild type enzyme, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	21	L-tryptophan	*mutant enzyme Y292F, at pH 11.0 and 25&deg;C
+KCAT	Nostoc punctiforme	21	NADH	*at pH 7.5 and 25&deg;C

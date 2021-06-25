@@ -1,0 +1,23 @@
+KCAT	Aspergillus fumigatus	4.05	brevianamide F	*pH 7.5, 37&Acirc;&deg;C, prenylation at C2
+KCAT	Aspergillus fumigatus	5.57	brevianamide F	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	2.55	cyclo-(L-Trp-Gly)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C3
+KCAT	Aspergillus fumigatus	3.14	cyclo-(L-Trp-Gly)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C2
+KCAT	Aspergillus fumigatus	0.09	cyclo-(L-Trp-L-Tyr)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C3
+KCAT	Aspergillus fumigatus	1.73	cyclo-(L-Trp-L-Tyr)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C2
+KCAT	Aspergillus fumigatus	0.13	cyclo-(L-Trp-L-Ala)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C3
+KCAT	Aspergillus fumigatus	1.47	cyclo-(L-Trp-L-Ala)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C2
+KCAT	Aspergillus fumigatus	0.06	cyclo-(D-Trp-L-Ala)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C3
+KCAT	Aspergillus fumigatus	0.24	cyclo-(D-Trp-L-Ala)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C2
+KCAT	Aspergillus fumigatus	0.25	cyclo-(D-Trp-D-Pro)	*mutant Y205N, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.31	cyclo-(D-Trp-D-Pro)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C2
+KCAT	Aspergillus fumigatus	1.39	cyclo-(D-Trp-D-Pro)	*mutant Y205L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.71	cyclo-(L-Trp-D-Ala)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C2
+KCAT	Aspergillus fumigatus	21.14	cyclo-(L-Trp-L-His)	*pH 7.5, 37&Acirc;&deg;C, prenylation at C2
+KCAT	Aspergillus fumigatus	0.4	(E)-4-(1H-indol-3-yl)but-3-en-2-one	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Aspergillus fumigatus	0.21	cyclo-(D-Trp-L-Pro)	*mutant Y205N, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.41	cyclo-(D-Trp-L-Pro)	*mutant Y205L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.18	cyclo-(L-Trp-D-Pro)	*mutant Y205L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.32	cyclo-(L-Trp-D-Pro)	*mutant Y205N, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	1.36	cyclo-(L-Trp-L-Pro)	*mutant Y205N, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	4.26	cyclo-(L-Trp-L-Pro)	*mutant Y205L, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	8.9	cyclo-(L-Trp-L-Pro)	*wild-type, pH 7.5, 37&Acirc;&deg;C

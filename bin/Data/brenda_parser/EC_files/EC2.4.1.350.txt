@@ -1,0 +1,3 @@
+KCAT	Siraitia grosvenorii	0.000411	mogrol	*at pH 7.2 and 30&deg;C
+KCAT	Siraitia grosvenorii	0.41	quercetin	*at pH 7.2 and 30&deg;C
+KCAT	Siraitia grosvenorii	0.45	naringenin	*at pH 7.2 and 30&deg;C

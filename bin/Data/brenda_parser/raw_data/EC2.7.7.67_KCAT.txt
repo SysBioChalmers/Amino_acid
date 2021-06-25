@@ -1,0 +1,1 @@
+ecNumber*2.7.7.67#turnoverNumber*0.55#turnoverNumberMaximum*#substrate*2,3-bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate#commentary*pH 7.5, 65&deg;C#organism*Archaeoglobus fulgidus#ligandStructureId*28797#literature*738041#

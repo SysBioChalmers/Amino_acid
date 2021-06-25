@@ -1,0 +1,62 @@
+KCAT	Escherichia coli	0.004	NAD+	*mutant K71A, in the presence of L-quinate, 20&deg;C, pH 9.0
+KCAT	Pseudomonas putida	0.0055	NAD+	*pH 8.8, 25&deg;C, with quinate
+KCAT	Pseudomonas putida	0.0063	L-quinate	*pH 8.8, 25&deg;C, with NAD+
+KCAT	Escherichia coli	0.011	shikimate	*mutant K71A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.012	L-quinate	*mutant K71A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.012	NAD+	*mutant K71A, in the presence of shikimate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.022	NAD+	*mutant D107A, in the presence of shikimate, 20&deg;C, pH 9.0; mutant Q262A, in the presence of shikimate, 20&deg;C, pH 9.0
+KCAT	Pseudomonas putida	0.022	NADP+	*pH 8.8, 25&deg;C, with shikimate
+KCAT	Escherichia coli	0.023	NAD+	*mutant S67A, in the presence of L-quinate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.024	L-quinate	*mutant S67A, 20&deg;C, pH 9.0
+KCAT	Pseudomonas putida	0.027	shikimate	*pH 8.8, 25&deg;C, with NADP+
+KCAT	Corynebacterium glutamicum	0.036	L-quinate	*with NADPH, pH 7.0, 30&deg;C
+KCAT	Escherichia coli	0.043	NAD+	*mutant Q262A, in the presence of L-quinate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.05	L-quinate	*pH 9, 20&deg;C, cosubstrate NAD+ or NADP+
+KCAT	Escherichia coli	0.05	L-quinate	*mutant Q262A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.05	NAD+	*pH 9, 20&deg;C, cosubstrate shikimate or L-quinate
+KCAT	Escherichia coli	0.05	NADP+	*pH 9, 20&deg;C, cosubstrate L-quinate
+KCAT	Escherichia coli	0.05	shikimate	*pH 9, 20&deg;C, cosubstrate NAD+
+KCAT	Escherichia coli	0.05	shikimate	*mutant Q262A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.054	shikimate	*mutant T106A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.06	L-quinate	*mutant Y39F, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.068	L-quinate	*mutant S22A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.082	NAD+	*mutant S22A, in the presence of L-quinate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.09	NAD+	*mutant Y39F, in the presence of L-quinate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.091	shikimate	*wild type enzyme, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.105	NAD+	*wild type enzyme, in the presence of shikimate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.108	NAD+	*mutant T106A, in the presence of shihikimat, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.109	shikimate	*mutant S22A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.113	L-quinate	*wild type enzyme, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.117	NADP+	*pH 9, 20&deg;C, cosubstrate shikimate
+KCAT	Escherichia coli	0.117	shikimate	*pH 9, 20&deg;C, cosubstrate NADP+
+KCAT	Escherichia coli	0.122	NAD+	*mutant T106A, in the presence of L-quinate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.132	shikimate	*mutant D107A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.142	NAD+	*wild type enzyme, in the presence of L-quinate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.148	shikimate	*mutant S67A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.153	NAD+	*mutant S22A, in the presence of shikimate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.178	NAD+	*mutant S67A, in the presence of shikimate, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.187	shikimate	*mutant Y39F, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.233	L-quinate	*mutant T106A, 20&deg;C, pH 9.0
+KCAT	Escherichia coli	0.24	NAD+	*mutant Y39F, in the presence of shikimate, 20&deg;C, pH 9.0
+KCAT	Corynebacterium glutamicum	1.75	shikimate	*pH 7.0, temperature not specified in the publication, recombinant enzyme, with NAD+
+KCAT	Pseudomonas putida	2.8	NAD+	*pH 8.8, 25&deg;C, with shikimate
+KCAT	Pseudomonas putida	3.9	shikimate	*pH 8.8, 25&deg;C, with NAD+
+KCAT	Corynebacterium glutamicum	5.67	3-dehydroshikimate	*pH 7.0, temperature not specified in the publication, recombinant enzyme, with NADH
+KCAT	Corynebacterium glutamicum	9.31	3-dehydroquinate	*pH 7.0, temperature not specified in the publication, recombinant enzyme, with NADPH
+KCAT	Corynebacterium glutamicum	9.6	shikimate	*with NAD+, pH 8.6, 30&deg;C
+KCAT	Corynebacterium glutamicum	14.6	L-quinate	*pH 7.0, temperature not specified in the publication, recombinant enzyme, with NAD+
+KCAT	Corynebacterium glutamicum	30.13	shikimate	*pH 7.5, 30&deg;C, with NAD+
+KCAT	Corynebacterium glutamicum	31.1	shikimate	*with NADP+, pH 7.0, 30&deg;C
+KCAT	Pseudomonas putida KT2440	37.7	quinate	*in the presence of 2 mM NAD+
+KCAT	Corynebacterium glutamicum	43.67	NAD+	*pH 7.5, 30&deg;C, with quinate
+KCAT	Corynebacterium glutamicum	50.82	L-quinate	*pH 7.5, 30&deg;C, with NAD+
+KCAT	Pseudomonas putida KT2440	55.7	NAD+	*in the presence of quinate
+KCAT	Pseudomonas putida KT2440	55.7	shikimate	*in the presence of 2 mM NAD+
+KCAT	Pseudomonas putida KT2440	61.1	NAD+	*in the presence of shikimate
+KCAT	Corynebacterium glutamicum	61.12	NAD+	*pH 7.5, 30&deg;C, with shikimate
+KCAT	Corynebacterium glutamicum	104.9	L-quinate	*pH 9.0-9.5, 30&deg;C, with NAD+
+KCAT	Corynebacterium glutamicum	105.8	NAD+	*pH 10.0-10.5, 30&deg;C, with shikimate
+KCAT	Corynebacterium glutamicum	114	3-dehydroquinate	*pH 7.0, temperature not specified in the publication, recombinant enzyme, with NADH
+KCAT	Corynebacterium glutamicum	214.1	shikimate	*pH 10.0-10.5, 30&deg;C, with NAD+
+KCAT	Corynebacterium glutamicum	223.1	NAD+	*pH 9.0-9.5, 30&deg;C, with quinate
+KCAT	Corynebacterium glutamicum	329	3-dehydroshikimate	*with NADPH, pH 7.0, 30&deg;C

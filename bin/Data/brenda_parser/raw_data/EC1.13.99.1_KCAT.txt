@@ -1,0 +1,1 @@
+ecNumber*1.13.99.1#turnoverNumber*0.183#turnoverNumberMaximum*#substrate*myo-inositol#commentary*with Fe(2+) and L-cysteine as activators#organism*Sus scrofa#ligandStructureId*454#literature*172313#!ecNumber*1.13.99.1#turnoverNumber*7.22#turnoverNumberMaximum*#substrate*Inositol#commentary*#organism*Rattus norvegicus#ligandStructureId*1872#literature*6866#

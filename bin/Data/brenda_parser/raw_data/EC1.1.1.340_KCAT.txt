@@ -1,0 +1,1 @@
+ecNumber*1.1.1.340#turnoverNumber*0.65#turnoverNumberMaximum*#substrate*1-deoxy-11beta-hydroxypentalenic acid#commentary*pH 8.0, 22&deg;C#organism*Streptomyces avermitilis#ligandStructureId*42143#literature*718689#

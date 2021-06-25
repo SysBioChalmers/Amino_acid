@@ -1,0 +1,25 @@
+KCAT	Pseudomonas sp.	0.039	ATP	*mutant G163I
+KCAT	Pseudomonas sp.	0.8	ATP	*mutant E306Q
+KCAT	Pseudomonas sp.	0.9	ATP	*mutant E306Q
+KCAT	Alcaligenes sp. AL3007	1	ATP	*mutant D402A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Alcaligenes sp. AL3007	2.8	ATP	*mutant D402P, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas sp.	3.3	ATP	*mutant G166I
+KCAT	Pseudomonas sp.	9.4	ATP	*mutant K169M
+KCAT	Alcaligenes sp. AL3007	11.5	ATP	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas sp.	16	ATP	*mutant K169M
+KCAT	Pseudomonas sp.	54	ATP	*wild-type
+KCAT	Pseudomonas sp.	0.04	CoA	*mutant G163I
+KCAT	Alcaligenes sp. AL3007	1.8	CoA	*mutant D402A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas sp.	2.7	CoA	*mutant G166I
+KCAT	Alcaligenes sp. AL3007	3.7	CoA	*mutant D402P, pH 7.5, 25&Acirc;&deg;C
+KCAT	Alcaligenes sp. AL3007	9.3	CoA	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas sp.	39	CoA	*wild-type
+KCAT	Pseudomonas sp.	0.036	4-Chlorobenzoate	*mutant G163I
+KCAT	Pseudomonas sp.	0.7	4-Chlorobenzoate	*mutant E306Q
+KCAT	Alcaligenes sp. AL3007	0.9	4-Chlorobenzoate	*mutant D402A, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas sp.	2.3	4-Chlorobenzoate	*mutant G166I
+KCAT	Alcaligenes sp. AL3007	3.4	4-Chlorobenzoate	*mutant D402P, pH 7.5, 25&Acirc;&deg;C
+KCAT	Alcaligenes sp. AL3007	9.2	4-Chlorobenzoate	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas sp.	9.8	4-Chlorobenzoate	*mutant K169M
+KCAT	Pseudomonas sp.	34	4-Chlorobenzoate	*wild-type
+KCAT	Pseudomonas sp.	-999	more	*

@@ -1,0 +1,8 @@
+KCAT	Mesorhizobium loti	11.8	3-Hydroxy-2-methylpyridine-5-carboxylate	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Mesorhizobium loti	0.05	5-hydroxynicotinic acid	*mutant enzyme Y270A, at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Mesorhizobium loti	10.7	5-hydroxynicotinic acid	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Mesorhizobium loti	19	5-hydroxynicotinic acid	*mutant enzyme Y270F, at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Mesorhizobium loti	1300	5-hydroxynicotinic acid	*wild type enzyme, at pH 8.0 and 25&Acirc;&deg;C
+KCAT	Pseudomonas sp.	-999	more	*
+KCAT	Pseudomonas sp.	-999	more	*
+KCAT	Pseudomonas sp.	-999	more	*

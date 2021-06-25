@@ -1,0 +1,7 @@
+KCAT	Methanococcus maripaludis	13	2-oxobutyrate	*pH 8.6, 37&deg;C
+KCAT	Methanococcus maripaludis	18	oxaloacetate	*pH 8.6, 37&deg;C
+KCAT	Methanococcus maripaludis	27	pyruvate	*pH 8.6, 37&deg;C
+KCAT	Citrobacter sp.	35	pyruvate	*enzyme immobilized in alginate hydrogel, at pH 7.0 and 30&deg;C
+KCAT	Citrobacter sp.	39	CoA	*enzyme immobilized in alginate hydrogel, at pH 7.0 and 30&deg;C
+KCAT	Citrobacter sp.	94	pyruvate	*free enzyme, at pH 7.0 and 30&deg;C
+KCAT	Citrobacter sp.	109	CoA	*free enzyme, at pH 7.0 and 30&deg;C

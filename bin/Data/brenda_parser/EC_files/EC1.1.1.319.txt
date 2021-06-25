@@ -1,0 +1,4 @@
+KCAT	Pimpinella anisum	0.07	4-coumaryl acetate	*pH 7.5, 25&deg;C
+KCAT	Clarkia breweri	0.99	coniferyl acetate	*CbIGS1, pH 6.5, 28&deg;C
+KCAT	Pimpinella anisum	1.02	coniferyl acetate	*pH 7.5, 25&deg;C
+KCAT	Petunia x hybrida	1.3	coniferyl acetate	*PhIGS1, pH 6.5, 28&deg;C

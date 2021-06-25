@@ -1,0 +1,8 @@
+KCAT	Bacillus subtilis	0.0015	UMP	*reverse reaction
+KCAT	Saccharolobus solfataricus	0.36	5-phospho-alpha-D-ribose 1-diphosphate	*unactivated enzyme
+KCAT	Saccharolobus solfataricus	6.1	5-phospho-alpha-D-ribose 1-diphosphate	*activated by 1 mM GTP
+KCAT	Saccharolobus solfataricus	0.36	Uracil	*unactivated enzyme
+KCAT	Mycobacterium tuberculosis	0.65	Uracil	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	5.1	Uracil	*forward reaction
+KCAT	Saccharolobus solfataricus	6.1	Uracil	*activated by 1 mM GTP
+KCAT	Toxoplasma gondii	-999	more	*recombinant wild-type and mutant enzymes

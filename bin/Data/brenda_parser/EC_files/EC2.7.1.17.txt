@@ -1,0 +1,15 @@
+KCAT	Escherichia coli	0.0038	ATP	*mutant D6A
+KCAT	Escherichia coli	0.13	ATP	*mutant D233A
+KCAT	Saccharomyces cerevisiae	0.5	ATP	*pH 6.5, 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.64	D-xylulose	*pH 6.5, 30&deg;C
+KCAT	Thermotoga maritima	8.77	(Polyphosphate)n	*37&deg;C, pH 7.5
+KCAT	Thermotoga maritima	24	ATP	*37&deg;C, pH 7.5
+KCAT	Thermotoga maritima	26	D-xylulose	*37&deg;C, pH 7.5
+KCAT	Homo sapiens	35	D-xylulose	*in 50 mM NH4HCO3, pH 8.0, 10% (v/v) D2O, 10 mM MgCl2 at 25&deg;C
+KCAT	Thermotoga maritima	78	D-xylulose	*60&deg;C, pH 7.5
+KCAT	Thermotoga maritima	83	ATP	*60&deg;C, pH 7.5
+KCAT	Escherichia coli	105	D-arabitol	*wild type enzyme
+KCAT	Escherichia coli	235	D-ribulose	*wild type enzyme
+KCAT	Escherichia coli	237	xylitol	*wild type enzyme
+KCAT	Escherichia coli	255	D-xylulose	*wild type enzyme
+KCAT	Escherichia coli	6600	D-xylulose	*37&deg;C, pH 8.0

@@ -1,0 +1,1 @@
+ecNumber*1.14.99.20#turnoverNumber*0.00667#turnoverNumberMaximum*#substrate*Phe-Leu-Glu-Glu-Leu#commentary*#organism*Bos taurus#ligandStructureId*44674#literature*438307#

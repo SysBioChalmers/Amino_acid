@@ -1,0 +1,4 @@
+KCAT	Streptomyces sp.	0.00013	1,3-dihydroxynaphthalene	*pH 7.5, 30&deg;C, cosubstrate geranyl diphosphate
+KCAT	Streptomyces sp.	0.00066	2-O-methyl-3-methylflaviolin	*pH 7.5, 30&deg;C, cosubstrate geranyl diphosphate
+KCAT	Streptomyces sp.	0.00087	flaviolin	*pH 7.5, 30&deg;C, cosubstrate dimethylallyl diphosphate
+KCAT	Streptomyces sp.	0.028	flaviolin	*pH 7.5, 30&deg;C, cosubstrate geranyl diphosphate

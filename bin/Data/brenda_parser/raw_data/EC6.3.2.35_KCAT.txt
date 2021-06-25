@@ -1,0 +1,1 @@
+ecNumber*6.3.2.35#turnoverNumber*8.17#turnoverNumberMaximum*#substrate*D-serine#commentary*pH 7.5#organism*Enterococcus casseliflavus#ligandStructureId*481#literature*710442#!ecNumber*6.3.2.35#turnoverNumber*8.87#turnoverNumberMaximum*#substrate*D-asparagine#commentary*pH 7.5#organism*Enterococcus casseliflavus#ligandStructureId*2194#literature*710442#

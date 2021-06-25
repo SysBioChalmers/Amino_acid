@@ -1,0 +1,9 @@
+KCAT	Homo sapiens	12.8	angiotensin II	*37&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	1110	angiotensin II	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2	angiotensin I	*pH 6.5, room temperature
+KCAT	Homo sapiens	2	angiotensin I	*pH 6.5, room temperature
+KCAT	Homo sapiens	2.9	angiotensin I	*37&Acirc;&deg;C, pH 7.4
+KCAT	Homo sapiens	84	angiotensin 4-8	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	162	angiotensin 3-8	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1518	angiotensin 5-8	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Homo sapiens	6840	(7-methoxycoumarin-4-yl)acetyl-APK(2,4-dinitrophenyl)-OH	*pH 6.5, room temperature

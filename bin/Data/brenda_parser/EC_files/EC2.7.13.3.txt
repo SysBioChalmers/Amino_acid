@@ -1,0 +1,2 @@
+KCAT	Myxococcus xanthus	0.000167	ATP	*mutant D657N/D782N/D909N
+KCAT	Anaeromyxobacter sp. Fw109-5	-999	more	*kcat values in autophosphorylation of the heme Fe(III)-OH(-), Fe(III)-cyanide, Fe(III)-imidazole, and Fe(II)-O2 bound active AfGcHK forms are 0.0183-0.02/s

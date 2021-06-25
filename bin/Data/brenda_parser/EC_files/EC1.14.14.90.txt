@@ -1,0 +1,2 @@
+KCAT	Medicago truncatula	0.015	formononetin	*pH 8.0
+KCAT	Medicago truncatula	0.033	Biochanin A	*pH 8.0

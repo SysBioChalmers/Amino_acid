@@ -1,0 +1,3 @@
+KCAT	Aspergillus fumigatus	0.00077	L-cysteine	*pH 7.0, 35&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.00097	L-methionine	*pH 7.0, 35&Acirc;&deg;C
+KCAT	Aspergillus fumigatus	0.00139	L-homocysteine	*pH 7.0, 35&Acirc;&deg;C

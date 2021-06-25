@@ -1,0 +1,3 @@
+KCAT	Papaver somniferum	0.011	2-oxoglutarate	*pH 7.4, 30&Acirc;&deg;C
+KCAT	Papaver somniferum	0.0161	codeine	*pH 7.4, 30&Acirc;&deg;C
+KCAT	Papaver somniferum	0.0099	thebaine	*pH 7.4, 30&Acirc;&deg;C

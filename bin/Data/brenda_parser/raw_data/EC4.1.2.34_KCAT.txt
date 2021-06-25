@@ -1,0 +1,1 @@
+ecNumber*4.1.2.34#turnoverNumber*13#turnoverNumberMaximum*#substrate*(E)-2'-carboxybenzylidenepyruvate#commentary*pH 7.0, 25&deg;C#organism*Nocardioides sp.#ligandStructureId*26800#literature*648384#

@@ -1,0 +1,15 @@
+KCAT	Bacillus cereus	0.009	dihexanoylphosphatidic acid	*monomeric substrate, wild-type PLC
+KCAT	Bacillus cereus	0.0198	dihexanoylphosphatidic acid	*monomeric substrate, recombinant PLC
+KCAT	Bacillus cereus	3.9	4-nitrophenylphosphorylcholine	*wild type enzyme, at pH 7.0 and 50&deg;C
+KCAT	Bacillus cereus	4.8	4-nitrophenylphosphorylcholine	*mutant enzyme F66Y, at pH 7.0 and 50&deg;C
+KCAT	Bacillus cereus	4.93	dihexanoylphosphatidylcholine	*monomeric substrate, recombinant PLC
+KCAT	Bacillus cereus	5.4	4-nitrophenylphosphorylcholine	*mutant enzyme F66W, at pH 7.0 and 50&deg;C
+KCAT	Bacillus cereus	6.78	dihexanoylphosphatidylcholine	*monomeric substrate, wild-type PLC
+KCAT	Bacillus cereus	6.85	diheptanoylphosphatidylcholine	*micellar substrate, recombinant PLC
+KCAT	Listeria monocytogenes	8	1,2-dibutyryl-sn-glycero-3-phosphocholine	*at pH 6.0 and 37&deg;C
+KCAT	Listeria monocytogenes	8.5	1,2-diheptanoyl-sn-glycero-3-phosphocholine	*at pH 6.0 and 37&deg;C
+KCAT	Listeria monocytogenes	12.8	1,2-dihexanoyl-sn-glycero-3-phosphocholine	*at pH 6.0 and 37&deg;C
+KCAT	Bacillus cereus	13.8	diheptanoylphosphatidylcholine	*micellar substrate, wild-type PLC
+KCAT	Streptomyces sp. NA684	243	L-alpha-lysophosphatidylcholine	*pH 5.0, 37&deg;C
+KCAT	Pseudomonas aeruginosa	979	p-Nitrophenylphosphorylcholine	*37&deg;C, PH 7.2
+KCAT	Streptomyces sp. NA684	4000	1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine	*pH 5.0, 37&deg;C

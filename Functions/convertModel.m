@@ -12,7 +12,7 @@ for i = 1:length(enzymedata.rxn)
     rxnid = enzymedata.rxn(i);
     rxn_idx = ismember(model.rxns,rxnid);
     if enzymedata.kcat_conf(i) >= cutoff
-        coeff = -enzymedata.minMW(i)/enzymedata.kcat(i);
+        coeff = -enzymedata.minPC(i);
         model.S(met_idx,rxn_idx) = coeff;
     end
 end

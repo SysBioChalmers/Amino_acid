@@ -1,0 +1,3 @@
+KCAT	Thermococcus kodakarensis	222	ATP	*pH and temperature not specified in the publication
+KCAT	Thermococcus kodakarensis	226	3'-deoxycytidine	*pH and temperature not specified in the publication
+KCAT	Thermococcus kodakarensis	280	cytidine	*pH and temperature not specified in the publication

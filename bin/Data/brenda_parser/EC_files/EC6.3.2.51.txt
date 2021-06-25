@@ -1,0 +1,5 @@
+KCAT	Enterococcus faecalis	2.9	CTP	*at pH 7.6 and 37&Acirc;&deg;C
+KCAT	Enterococcus faecalis	2.9	L-cysteine	*at pH 7.6 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.53	(R)-4'-phosphopantothenate	*with CTP as cosubstrate, at pH 7.6 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.56	(R)-4'-phosphopantothenate	*with ATP as cosubstrate, at pH 7.6 and 37&Acirc;&deg;C
+KCAT	Enterococcus faecalis	2.9	(R)-4'-phosphopantothenate	*at pH 7.6 and 37&Acirc;&deg;C

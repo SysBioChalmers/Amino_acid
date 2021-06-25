@@ -1,0 +1,1 @@
+ecNumber*1.1.1.309#turnoverNumber*0.41#turnoverNumberMaximum*#substrate*phosphonoacetaldehyde#commentary*in 50 mM HEPES, 200 mM NaCl, pH 7.5, temperature not specified in the publication#organism*Streptomyces viridochromogenes#ligandStructureId*1309#literature*712363#

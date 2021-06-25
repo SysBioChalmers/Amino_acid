@@ -1,0 +1,13 @@
+KCAT	Homo sapiens	0.00031	17alpha-hydroxyprogesterone	*lyase reaction, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.0019	17alpha-hydroxyprogesterone	*lyase reaction, pH 7.4, 37&deg;C, presence of cytochrome b5
+KCAT	Homo sapiens	0.0037	pregnenolone	*17alpha-hydroxylation, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.0059	17alpha-hydroxypregnenolone	*lyase reaction, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.0064	progesterone	*16alpha-hydroxylation, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.0071	17alpha-hydroxypregnenolone	*lyase reaction, pH 7.4, 37&deg;C, presence of cytochrome b5
+KCAT	Homo sapiens	0.025	progesterone	*16alpha-hydroxylation, pH 7.4, 37&deg;C, presence of cytochrome b5
+KCAT	Homo sapiens	0.045	pregnenolone	*lyase reaction, pH 7.4, 37&deg;C, presence of cytochrome b5
+KCAT	Homo sapiens	0.086	progesterone	*17alpha-hydroxylation, pH 7.4, 37&deg;C
+KCAT	Homo sapiens	0.11	pregnenolone	*17alpha-hydroxylation, pH 7.4, 37&deg;C, presence of cytochrome b5
+KCAT	Homo sapiens	0.17	progesterone	*17alpha-hydroxylation, pH 7.4, 37&deg;C, presence of cytochrome b5
+KCAT	Homo sapiens	10	17alpha-hydroxypregnenolone	*mutant I332T
+KCAT	Homo sapiens	128	17alpha-hydroxypregnenolone	*wild-type

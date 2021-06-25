@@ -1,0 +1,2 @@
+KCAT	Arenicola marina	176.4	glycine	*pH and temperature not specified in the publication
+KCAT	Arenicola marina	1084.6	L-alanine	*pH and temperature not specified in the publication

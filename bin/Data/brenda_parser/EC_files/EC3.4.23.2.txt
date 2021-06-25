@@ -1,0 +1,14 @@
+KCAT	Canis lupus familiaris	1.2	KPAAFFRL	*mutant enzyme F2119S
+KCAT	Canis lupus familiaris	1.2	KPAEFFRL	*mutant enzyme F2119S
+KCAT	Canis lupus familiaris	2.5	KPAEFFRL	*mutant enzyme Y13A
+KCAT	Canis lupus familiaris	3.4	KPAEFARL	*wild-type enzyme
+KCAT	Boreogadus saida	9.27	haemoglobin	*
+KCAT	Canis lupus familiaris	11	KPAAFFRL	*mutant enzyme Y13A/F219S
+KCAT	Canis lupus familiaris	18	KPAEFFRL	*mutant enzyme Y13A/F219S
+KCAT	Albatrossia pectoralis	32	hemoglobin	*pH 3.0, 37&deg;C
+KCAT	Canis lupus familiaris	91	KPAEFARL	*mutant enzyme Y13A/F219S
+KCAT	Canis lupus familiaris	113	KPAEFLRL	*mutant enzyme Y13A/F219S
+KCAT	Canis lupus familiaris	116	KPGGFARL	*mutant enzyme F2119S
+KCAT	Canis lupus familiaris	130	KPAGFARL	*mutant enzyme F2119S
+KCAT	Canis lupus familiaris	134	KPGGFARL	*wild-type enzyme
+KCAT	Canis lupus familiaris	169	KPAGFARL	*wild-type enzyme

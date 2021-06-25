@@ -1,0 +1,21 @@
+KCAT	Bacillus anthracis	0.3	CoA-disulfide	*25&deg;C, mutant enzyme Y25F. Cosubstrate: NADH
+KCAT	Bacillus anthracis	0.3	NADPH	*mutant enzyme Y425F, at 25&deg;C
+KCAT	Bacillus anthracis	0.9	NADH	*25&deg;C, mutant enzyme Y25F; mutant enzyme Y425F, at 25&deg;C
+KCAT	Staphylococcus aureus	0.95	CoA-sec-butyl disulfide	*25&deg;C, pH 7.8
+KCAT	Pyrococcus horikoshii	1.11	CoA-disulfide	*pH 8.1, 50&deg;C, cofactor: NADH
+KCAT	Staphylococcus aureus	1.2	methyl methanethiolsulfonate	*mutant enzyme Y419F, at 23&deg;C, pH not specified in the publication
+KCAT	Pyrococcus horikoshii	1.5	CoA-disulfide	*pH 8.1, 50&deg;C, cofactor: NADPH
+KCAT	Bacillus anthracis	2	NADPH	*25&deg;C, wild-type enzyme; wild type enzyme, at 25&deg;C
+KCAT	Staphylococcus aureus	2.7	CoA-ethyl disulfide	*25&deg;C, pH 7.8
+KCAT	Staphylococcus aureus	3.17	CoA-disulfide	*25&deg;C, pH 7.8
+KCAT	Staphylococcus aureus	4.3	CoA-methyl disulfide	*25&deg;C, pH 7.8
+KCAT	Bacillus anthracis	5	CoA-disulfide	*25&deg;C, mutant enzyme Y367F. Cosubstrate: NADH
+KCAT	Bacillus anthracis	5	NADPH	*mutant enzyme Y367F, at 25&deg;C
+KCAT	Staphylococcus aureus	6.4	methyl methanethiolsulfonate	*wild type enzyme, at 23&deg;C, pH not specified in the publication
+KCAT	Bacillus anthracis	7	NADH	*25&deg;C, mutant enzyme Y367F; mutant enzyme Y367F, at 25&deg;C
+KCAT	Pyrococcus horikoshii	7.2	NADPH	*75&deg;C
+KCAT	Pyrococcus horikoshii	7.2	NADPH	*at 50&deg;C and pH 8.1 in 1 M Tris buffer
+KCAT	Pyrococcus horikoshii	8.1	NADPH	*at 50&deg;C and pH 8.1 in 1 M Tris buffer
+KCAT	Staphylococcus aureus	10.4	methyl methanethiolsulfonate	*mutant enzyme Y361F, at 23&deg;C, pH not specified in the publication
+KCAT	Staphylococcus aureus	27	CoA-disulfide	*wild type enzyme, at 23&deg;C, pH not specified in the publication
+KCAT	Bacillus anthracis	27	NADH	*25&deg;C, wild-type enzyme; wild type enzyme, at 25&deg;C

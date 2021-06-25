@@ -1,0 +1,4 @@
+KCAT	Sorghum bicolor	0.82	L-tyrosine	*in reconstitution experiments using Sorghum bicolor; purified recombinant enzyme, in 50 mM Tricine, pH 7.9, a 30&Acirc;&deg;C
+KCAT	Sorghum bicolor	3.33	L-tyrosine	*presence of 0.15 mM NaCl, pH 7.9, 25&Acirc;&deg;C
+KCAT	Sorghum bicolor	3.83	L-tyrosine	*pH 7.9, 25&Acirc;&deg;C
+KCAT	Sorghum bicolor	5.83	L-tyrosine	*in E. coli membranes; unpurified recombinant enzyme in Escherichia coli membranes, in 50 mM Tricine, pH 7.9, a 30&Acirc;&deg;C

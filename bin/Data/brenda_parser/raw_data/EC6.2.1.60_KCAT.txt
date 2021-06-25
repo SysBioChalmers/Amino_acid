@@ -1,0 +1,1 @@
+ecNumber*6.2.1.60#turnoverNumber*3.2#turnoverNumberMaximum*#substrate*pseudomonic acid C#commentary*pH not specified in the publication, temperature not specified in the publication#organism*Pseudoalteromonas sp. SANK 73390#ligandStructureId*237392#literature*752487#

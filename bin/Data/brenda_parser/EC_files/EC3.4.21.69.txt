@@ -1,0 +1,24 @@
+KCAT	Homo sapiens	-999	more	*
+KCAT	Bos taurus	0.32	Nalpha-benzoyl-L-arginine 4-nitroanilide	*with Na+ or Cs+ as activating cation
+KCAT	Homo sapiens	0.37	cleavage of Arg306 in factor VaR506Q	*
+KCAT	Homo sapiens	0.38	Benzyloxycarbonyl-Val-Gly-Arg	*
+KCAT	Homo sapiens	0.395	Factor Va	*pH 7.4, 22&deg;C
+KCAT	Homo sapiens	0.81	Toluene-p-sulfonyl-Gly-Pro-Lys	*
+KCAT	Homo sapiens	0.96	cleavage of Arg506 in membrane-bound factor Va	*
+KCAT	Homo sapiens	1.9	D-Val-cyclohexyl-Ala-Arg	*
+KCAT	Homo sapiens	31	D-Pro-Phe-Arg	*
+KCAT	Homo sapiens	33.1	SpPCa	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	34	SpPCa	*pH 7.4, 37&deg;C, recombinant mutant E167A
+KCAT	Homo sapiens	35	D-Val-Leu-Arg	*
+KCAT	Homo sapiens	35	SpPCa	*pH 7.4, 37&deg;C, recombinant mutant E170A
+KCAT	Homo sapiens	44	spectrozyme PCa	*pH 7.4, 37&deg;C, wildtype plasma enzyme
+KCAT	Homo sapiens	47	spectrozyme PCa	*pH 7.4, 37&deg;C, wildtype enzyme, recombinant expressed and mutant R74A
+KCAT	Homo sapiens	48	spectrozyme PCa	*pH 7.4, 37&deg;C, mutant K78A and mutant R75A
+KCAT	Homo sapiens	53	D-Phe-pipecolyl-Arg	*
+KCAT	Homo sapiens	70	S-2366	*pH 7.4, 37&deg;C, wild type
+KCAT	Homo sapiens	71	S-2366	*pH 7.4, 37&deg;C, mutant K37S/K38Q/K39Q/K62N/K63D
+KCAT	Homo sapiens	75	S-2366	*pH 7.4, 37&deg;C, mutant K37S/K38Q/K39Q
+KCAT	Homo sapiens	76	S-2366	*pH 7.4, 37&deg;C, mutant R74Q
+KCAT	Homo sapiens	78	S-2366	*pH 7.4, 37&deg;C, mutant K62N/K63D
+KCAT	Homo sapiens	87	Toluene-p-sulfonyl-Gly-Pro-Arg	*
+KCAT	Homo sapiens	200	D-Ile-Pro-Arg	*

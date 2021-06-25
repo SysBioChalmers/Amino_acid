@@ -1,0 +1,1 @@
+ecNumber*2.7.3.1#turnoverNumber*24#turnoverNumberMaximum*#substrate*glycocyamine#commentary*recombinant GK beta#organism*Namalycastis sp.#ligandStructureId*10661#literature*661520#!ecNumber*2.7.3.1#turnoverNumber*25.3#turnoverNumberMaximum*#substrate*glycocyamine#commentary*native GK#organism*Namalycastis sp.#ligandStructureId*10661#literature*661520#

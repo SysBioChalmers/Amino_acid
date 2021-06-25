@@ -1,0 +1,2 @@
+KCAT	Catharanthus roseus	0.13	UDP-alpha-D-glucose	*pH 8.0, 30&deg;C
+KCAT	Catharanthus roseus	0.325	7-deoxyloganetate	*pH 8.0, 30&deg;C

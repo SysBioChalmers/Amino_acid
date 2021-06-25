@@ -1,0 +1,29 @@
+KCAT	Plasmodium falciparum	0.014	orotidine 5'-phosphate	*in the presence of 20 mM phosphonoacetic acid, at 25&deg;C, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2
+KCAT	Homo sapiens	0.017	orotidine 5'-phosphate	*in the presence of 20 mM phosphonoacetic acid, at 25&deg;C, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2
+KCAT	Homo sapiens	0.017	Phosphonoacetic acid	*
+KCAT	Plasmodium falciparum	0.023	Phosphonoacetic acid	*
+KCAT	Homo sapiens	0.024	Orotidine	*
+KCAT	Homo sapiens	0.024	Orotidine	*pH 8.0, 25&deg;C
+KCAT	Plasmodium falciparum	0.042	Orotidine	*
+KCAT	Plasmodium falciparum	0.042	Orotidine	*pH 8.0, 25&deg;C
+KCAT	Homo sapiens	0.1	orotidine 5'-phosphate	*in the presence of 1 mM diphosphate, at 25&deg;C, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2
+KCAT	Mycobacterium tuberculosis	0.28	diphosphate	*ping-pong mechanism, pH 8.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.28	orotidine 5'-phosphate	*ping-pong mechanism, pH 8.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.6	Orotate	*ordered mechanism, pH 8.0, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.61	Orotate	*ping-pong mechanism, pH 8.0, 25&deg;C
+KCAT	Plasmodium falciparum	1.3	diphosphate	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	1.96	orotidine 5'-phosphate	*in the presence of 1 mM diphosphate, at 25&deg;C, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2
+KCAT	Plasmodium falciparum	2.6	orotidine 5'-phosphate	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	3	Orotate	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	3.2	5-phospho-alpha-D-ribose 1-diphosphate	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	3.2	5-phospho-alpha-D-ribose 1-diphosphate	*pH and temperature not specified in the publication, recombinant monofunctional enzyme, OPRT activity
+KCAT	Plasmodium falciparum	4	5-Fluoroorotate	*pH 8.0, 37&deg;C
+KCAT	Plasmodium falciparum	4.2	Orotate	*37 &deg;C, pH 8.0, recombinant monofunctional enzyme
+KCAT	Plasmodium falciparum	4.2	Orotate	*pH and temperature not specified in the publication, recombinant monofunctional enzyme, OPRT activity
+KCAT	Plasmodium falciparum	5.4	Orotate	*37 &deg;C, pH 8.0
+KCAT	Plasmodium falciparum	6	Orotate	*37 &deg;C, pH 8.0, mixture of recombinant enzyme subunits
+KCAT	Plasmodium falciparum	7.3	Orotate	*pH and temperature not specified in the publication, recombinant multienzyme complex, OPRT activity
+KCAT	Plasmodium falciparum	7.8	5-phospho-alpha-D-ribose 1-diphosphate	*pH and temperature not specified in the publication, recombinant multienzyme complex, OPRT activity
+KCAT	Plasmodium falciparum	10.8	Orotate	*37 &deg;C, pH 8.0, native enzyme complex
+KCAT	Plasmodium falciparum	2972	Orotate	*pH and temperature not specified in the publication, recombinant bifunctional enzyme, OPRT activity
+KCAT	Plasmodium falciparum	3534	5-phospho-alpha-D-ribose 1-diphosphate	*pH and temperature not specified in the publication, recombinant bifunctional enzyme, OPRT activity

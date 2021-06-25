@@ -1,0 +1,1 @@
+ecNumber*2.5.1.61#turnoverNumber*0.25#turnoverNumberMaximum*#substrate*porphobilinogen#commentary*#organism*Homo sapiens#ligandStructureId*1763#literature*489926#

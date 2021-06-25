@@ -1,0 +1,1 @@
+ecNumber*2.8.2.15#turnoverNumber*0.1#turnoverNumberMaximum*#substrate*dehydroepiandrosterone#commentary*pH 7.5, 37&deg;C#organism*Homo sapiens#ligandStructureId*275#literature*662232#!ecNumber*2.8.2.15#turnoverNumber*0.13#turnoverNumberMaximum*#substrate*androsterone#commentary*pH 7.5, 37&deg;C#organism*Homo sapiens#ligandStructureId*477#literature*662232#

@@ -1,0 +1,55 @@
+KCAT	Corynebacterium glutamicum	-999	more	*mutants
+KCAT	Corynebacterium glutamicum	0.0035	phosphoenolpyruvate	*recombinant wild-type, 30&deg;C, pH 6.5
+KCAT	Actinosynnema pretiosum subsp. auranticum	0.03	D-erythrose 4-phosphate	*pH 7.5, 30&deg;C
+KCAT	Actinosynnema pretiosum subsp. auranticum	0.032	phosphoenolpyruvate	*pH 7.5, 30&deg;C
+KCAT	Escherichia coli	0.233	(3S)-2-deoxyerythrose 4-phosphate	*pH 6.8
+KCAT	Corynebacterium glutamicum	0.3	D-erythrose 4-phosphate	*isozyme NCgl0950 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30&deg;C
+KCAT	Corynebacterium glutamicum	0.35	phosphoenolpyruvate	*isozyme NCgl0950 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30&deg;C
+KCAT	Aeropyrum pernix	1	phosphoenolpyruvate	*pH 7.0, 60&deg;C
+KCAT	Pyrococcus furiosus	1.12	phosphoenolpyruvate	*pH 6.8, 60&deg;C, cosubstrate D-arabinose 5-phosphate
+KCAT	Corynebacterium glutamicum	1.14	D-erythrose 4-phosphate	*isozyme NCgl2098 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30&deg;C
+KCAT	Escherichia coli	1.183	D-erythrose 4-phosphate	*pH 6.8
+KCAT	Pyrococcus furiosus	1.4	phosphoenolpyruvate	*pH 6.8, 60&deg;C, cosubstrate D-erythrose 4-phosphate
+KCAT	Pyrococcus furiosus	1.5	phosphoenolpyruvate	*60&deg;C, pH 6.8
+KCAT	Corynebacterium glutamicum	1.65	phosphoenolpyruvate	*isozyme NCgl2098 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30&deg;C
+KCAT	Pyrococcus furiosus	1.7	phosphoenolpyruvate	*pH 6.8, 60&deg;C, cosubstrate 2-deoxy-D-ribose 5-phosphate
+KCAT	Thermotoga maritima	2.3	phosphoenolpyruvate	*pH 7.5, 50&deg;C
+KCAT	Pyrococcus furiosus	2.5	phosphoenolpyruvate	*pH 6.8, 60&deg;C, cosubstrate D-ribose 5-phosphate
+KCAT	Pyrococcus furiosus	3	phosphoenolpyruvate	*pH 6.8, 60&deg;C, cosubstrate 2-deoxy-D-erythrose 4-phosphate
+KCAT	Helicobacter pylori	3.3	phosphoenolpyruvate	*pH 7.5, 30&deg;C
+KCAT	Escherichia coli	4.2	phosphoenolpyruvate	*N-terminal deletion mutant, 25&deg;C, pH 6.4
+KCAT	Bacillus subtilis	4.6	phosphoenolpyruvate	*pH 7.5, 37&deg;C
+KCAT	Thermotoga maritima	5	phosphoenolpyruvate	*pH 7.5, 60&deg;C
+KCAT	Pyrococcus furiosus	5.5	D-erythrose 4-phosphate	*pH 7.5, 60&deg;C, wild-type enzyme
+KCAT	Pyrococcus furiosus	5.5	phosphoenolpyruvate	*pH 7.5, 60&deg;C, wild-type enzyme
+KCAT	Escherichia coli	6.08	D-erythrose 4-phosphate	*pH 6.8
+KCAT	Thermotoga maritima	7.6	phosphoenolpyruvate	*pH 7.5, 70&deg;C
+KCAT	Thermotoga maritima	11.7	D-erythrose 4-phosphate	*pH 7.3, temperature not specified in the publication, wild-type enzyme
+KCAT	Thermotoga maritima	11.7	phosphoenolpyruvate	*pH 7.3, temperature not specified in the publication, wild-type enzyme
+KCAT	Neisseria meningitidis	12.6	D-erythrose 4-phosphate	*pH 6.8, 25&deg;C, mutant R126S
+KCAT	Neisseria meningitidis	12.6	phosphoenolpyruvate	*pH 6.8, 25&deg;C, mutant R126S
+KCAT	Thermotoga maritima	14.1	D-erythrose 4-phosphate	*pH 7.3, temperature not specified in the publication, mutant H29S/S31H
+KCAT	Thermotoga maritima	14.1	phosphoenolpyruvate	*pH 7.3, temperature not specified in the publication, mutant H29S/S31H
+KCAT	Thermotoga maritima	14.3	D-erythrose 4-phosphate	*pH 7.3, temperature not specified in the publication, mutant S31G
+KCAT	Thermotoga maritima	14.3	phosphoenolpyruvate	*pH 7.3, temperature not specified in the publication, mutant H29A
+KCAT	Neisseria meningitidis	14.8	D-erythrose 4-phosphate	*pH 6.8, 30&deg;C, mutant R126S; pH 6.8, 30&deg;C, wild-type enzyme
+KCAT	Pyrococcus furiosus	14.9	D-erythrose 4-phosphate	*pH 7.5, 60&deg;C, mutant enzyme I181D
+KCAT	Pyrococcus furiosus	14.9	phosphoenolpyruvate	*pH 7.5, 60&deg;C, mutant enzyme I181D
+KCAT	Thermotoga maritima	17.5	D-erythrose 4-phosphate	*pH 7.3, temperature not specified in the publication, mutant H29A
+KCAT	Thermotoga maritima	17.5	phosphoenolpyruvate	*pH 7.3, temperature not specified in the publication, mutant S31G
+KCAT	Escherichia coli	21	D-erythrose 4-phosphate	*Trp-sensitive isozyme, pH 7.0, 25&deg;C
+KCAT	Escherichia coli	21	phosphoenolpyruvate	*Trp-sensitive isozyme, pH 7.0, 25&deg;C
+KCAT	Neisseria meningitidis	25	phosphoenolpyruvate	*pH 6.8, 30&deg;C, mutant S213G; pH 6.8, 30&deg;C, wild-type enzyme
+KCAT	Neisseria meningitidis	27.1	D-erythrose 4-phosphate	*pH 6.8, 25&deg;C, wild-type enzyme
+KCAT	Neisseria meningitidis	27.1	phosphoenolpyruvate	*pH 6.8, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	29.5	phosphoenolpyruvate	*
+KCAT	Escherichia coli	32	D-erythrose 4-phosphate	*Phe-sensitive isozyme, pH 6.8, 25&deg;C
+KCAT	Escherichia coli	32	phosphoenolpyruvate	*Phe-sensitive isozyme, pH 6.8, 25&deg;C
+KCAT	Escherichia coli	32	phosphoenolpyruvate	*pH 7.5
+KCAT	Escherichia coli	56.7	phosphoenolpyruvate	*mutant N5K, 25&deg;C, pH 6.4
+KCAT	Escherichia coli	58.2	phosphoenolpyruvate	*mutant I10A, 25&deg;C, pH 6.4
+KCAT	Escherichia coli	62.3	phosphoenolpyruvate	*wild-type, 25&deg;C, pH 6.4
+KCAT	Escherichia coli	71	D-erythrose 4-phosphate	*Phe-sensitive isozyme, pH 6.8, 25&deg;C
+KCAT	Escherichia coli	71	phosphoenolpyruvate	*Phe-sensitive isozyme, pH 6.8, 25&deg;C
+KCAT	Escherichia coli	122	D-erythrose 4-phosphate	*pH 7.0, 37&deg;C, MW 79000 assumed
+KCAT	Escherichia coli	122	phosphoenolpyruvate	*pH 7.0, 37&deg;C, MW 79000 assumed

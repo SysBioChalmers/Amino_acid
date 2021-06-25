@@ -1,0 +1,1 @@
+ecNumber*1.4.3.15#turnoverNumber*0.0833#turnoverNumberMaximum*#substrate*D-glutamate#commentary*#organism*Aspergillus ustus#ligandStructureId*344#literature*391754#

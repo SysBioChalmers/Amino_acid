@@ -1,0 +1,9 @@
+KCAT	Rhodobacter sphaeroides	0.6	L-phenylalanine	*
+KCAT	Rhodobacter capsulatus	15.1	L-phenylalanine	*35&Acirc;&deg;C, pH 9.4
+KCAT	Rhodobacter sphaeroides	0.9	L-tyrosine	*
+KCAT	Rhodobacter capsulatus	27.7	L-tyrosine	*35&Acirc;&deg;C, pH 8.5
+KCAT	Rhodotorula glutinis	107	L-tyrosine	*mutant enzyme A11T/S106C/N170D/M227T/E518V, pH 8.5, 40&Acirc;&deg;C
+KCAT	Rhodotorula glutinis	114	L-tyrosine	*wild-type enzyme, pH 8.5, 40&Acirc;&deg;C
+KCAT	Rhodotorula glutinis	115	L-tyrosine	*mutant enzyme S9N/A125V, pH 8.5, 40&Acirc;&deg;C
+KCAT	Rhodotorula glutinis	139	L-tyrosine	*mutant enzyme A11T/S106C/N170D/M227T/D542G, pH 8.5, 40&Acirc;&deg;C
+KCAT	Rhodobacter sphaeroides	0.12	L-tyrosinol	*

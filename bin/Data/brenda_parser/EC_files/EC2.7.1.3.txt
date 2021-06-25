@@ -1,0 +1,12 @@
+KCAT	Homo sapiens	1.55	D-ribose	*25&deg;C, pH 7, ketohexokinase-A
+KCAT	Homo sapiens	1.7	D-fructose	*25&deg;C, pH 7, C-A43T
+KCAT	Homo sapiens	4.8	D-ribulose	*25&deg;C, pH 7, ketohexokinase-C
+KCAT	Homo sapiens	5.2	L-sorbose	*25&deg;C, pH 7, ketohexokinase-C
+KCAT	Homo sapiens	5.9	D-fructose	*25&deg;C, pH 7, A-A43T
+KCAT	Homo sapiens	6.5	L-sorbose	*25&deg;C, pH 7, ketohexokinase-C
+KCAT	Homo sapiens	6.9	D-fructose	*25&deg;C, pH 7, ketohexokinase-A
+KCAT	Homo sapiens	7.6	D-fructose	*25&deg;C, pH 7, ketohexokinase-C
+KCAT	Homo sapiens	7.6	D-ribulose	*25&deg;C, pH 7, ketohexokinase-A
+KCAT	Homo sapiens	7.6	D-xylulose	*25&deg;C, pH 7, ketohexokinase-C
+KCAT	Homo sapiens	8.2	D-ribose	*25&deg;C, pH 7, ketohexokinase-C
+KCAT	Homo sapiens	11.1	D-xylulose	*25&deg;C, pH 7, ketohexokinase-A

@@ -1,0 +1,35 @@
+KCAT	Saccharomyces cerevisiae	3	azetidine-2-carboxylate	*wild type enzyme, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	4.31	L-azetidine-2-carboxylic acid	*mutant enzyme Y157A, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	5.19	cis-4-hydroxy-L-proline	*at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	7.09	L-azetidine-2-carboxylic acid	*mutant enzyme R145D, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	7.2	L-azetidine-2-carboxylic acid	*mutant enzyme N178A, at pH 7.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	9.1	acetyl-CoA	*mutant enzyme K63R/F65L/L117V, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	11	azetidine-2-carboxylate	*mutant enzyme K63R/F65L/L117V, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	12.8	L-azetidine-2-carboxylic acid	*mutant enzyme Y121A, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	13.57	L-azetidine-2-carboxylate	*at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	13.7	L-azetidine-2-carboxylic acid	*mutant enzyme Y166F, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	15	acetyl-CoA	*mutant enzyme K63P, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	16	azetidine-2-carboxylate	*mutant enzyme F65G, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	17	acetyl-CoA	*mutant enzyme F65G, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	17.9	L-azetidine-2-carboxylic acid	*at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	19	azetidine-2-carboxylate	*mutant enzyme K63P, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	19.3	L-azetidine-2-carboxylic acid	*mutant enzyme Y168A, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	24.8	L-azetidine-2-carboxylic acid	*mutant enzyme Y89A, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	27	acetyl-CoA	*mutant enzyme K63R, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	31	acetyl-CoA	*mutant enzyme F65L, at pH 8.5 and 30&deg;C; mutant enzyme F65L/L117V, at pH 8.5 and 30&deg;C; wild type enzyme, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	31	azetidine-2-carboxylate	*mutant enzyme F65L, at pH 8.5 and 30&deg;C; mutant enzyme K63R, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	33.5	L-azetidine-2-carboxylic acid	*wild type enzyme, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	38	acetyl-CoA	*mutant enzyme L117V, at pH 8.5 and 30&deg;C; mutant enzyme LK63R/L117V, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	38	azetidine-2-carboxylate	*mutant enzyme F65L/L117V, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	38.6	L-azetidine-2-carboxylic acid	*mutant enzyme N135A, at pH 7.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	42	acetyl-CoA	*mutant enzyme K63R/F65L, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	46	azetidine-2-carboxylate	*mutant enzyme LK63R/L117V, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	48	azetidine-2-carboxylate	*mutant enzyme L117V, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	51	azetidine-2-carboxylate	*mutant enzyme K63R/F65L, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	63.1	L-azetidine-2-carboxylic acid	*mutant enzyme R145E, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	73.6	L-azetidine-2-carboxylic acid	*mutant enzyme Y75A, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	121	DELTA1-Pyrroline-5-carboxylate	*at pH 7.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	225	L-azetidine-2-carboxylic acid	*mutant enzyme R145W, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	287.2	L-azetidine-2-carboxylic acid	*wild type enzyme, at pH 7.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	304	L-azetidine-2-carboxylic acid	*mutant enzyme R145G, at pH 8.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	609	L-azetidine-2-carboxylic acid	*mutant enzyme R145A, at pH 8.5 and 30&deg;C

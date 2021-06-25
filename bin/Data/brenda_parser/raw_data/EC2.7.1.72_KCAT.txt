@@ -1,0 +1,1 @@
+ecNumber*2.7.1.72#turnoverNumber*1.7#turnoverNumberMaximum*#substrate*ATP#commentary*at pH 7.5 and 25&deg;C#organism*Escherichia coli#ligandStructureId*4#literature*739051#!ecNumber*2.7.1.72#turnoverNumber*1.7#turnoverNumberMaximum*#substrate*streptomycin#commentary*at pH 7.5 and 25&deg;C#organism*Escherichia coli#ligandStructureId*2358#literature*739051#

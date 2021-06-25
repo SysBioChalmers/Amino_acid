@@ -1,0 +1,8 @@
+KCAT	Gallus gallus	-999	more	*
+KCAT	Gallus gallus	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Gallus gallus	-999	more	*
+KCAT	Gallus gallus	2.3	5'-phosphoribosylglycinamide	*
+KCAT	Gallus gallus	3.6	sarcosine	*
+KCAT	Gallus gallus	4.8	beta-Ala	*
+KCAT	Gallus gallus	7	Gly	*

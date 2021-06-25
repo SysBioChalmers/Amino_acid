@@ -1,0 +1,4 @@
+KCAT	Escherichia coli	1.3	pyruvate	*in 50 mM Tris-HCl (pH 8.0) with 50 mM NaCl, 1 mM dithiothreitol, at 22&Acirc;&deg;C
+KCAT	Escherichia coli	1	2-oxoglutarate	*in 50 mM Tris-HCl (pH 8.0) with 50 mM NaCl, 1 mM dithiothreitol, at 22&Acirc;&deg;C
+KCAT	Escherichia coli	1.4	4-phospho-D-erythronate	*in 50 mM Tris-HCl (pH 8.0) with 50 mM NaCl, 1 mM dithiothreitol, at 22&Acirc;&deg;C; pH 8.0, 22&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	1.1	oxaloacetic acid	*in 50 mM Tris-HCl (pH 8.0) with 50 mM NaCl, 1 mM dithiothreitol, at 22&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.384#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*kinetic data are determined for mutant enzymes and wild-type enzyme#organism*Actinomadura kijaniata#ligandStructureId*#literature*729208#

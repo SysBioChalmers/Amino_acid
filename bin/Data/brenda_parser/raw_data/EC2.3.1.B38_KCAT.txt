@@ -1,0 +1,1 @@
+ecNumber*2.3.1.B38#turnoverNumber*6.8#turnoverNumberMaximum*#substrate*octanoyl-CoA#commentary*pH 8.2, temperature not specified in the publication#organism*Pseudomonas aeruginosa#ligandStructureId*385#literature*736509#

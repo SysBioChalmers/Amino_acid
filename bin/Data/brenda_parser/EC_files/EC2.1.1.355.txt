@@ -1,0 +1,11 @@
+KCAT	Neurospora crassa	0.038	biotinyl-MARTKQTARKSTGGKAPRKQ	*
+KCAT	Mus musculus	0.001806	histone H3 (S10phos)	*wild-type substrate
+KCAT	Mus musculus	0.005	histone H3 (T11phos)	*wild-type substrate
+KCAT	Mus musculus	0.0089	histone K4-acetylK9	*
+KCAT	Mus musculus	0.0089	histone K4-trimethylK9	*
+KCAT	Mus musculus	0.01194	histone K4AK9	*
+KCAT	Mus musculus	0.0161	histone H3(K27A)	*recombinant substrate
+KCAT	Mus musculus	0.0161	histone H3(K4A)	*recombinant substrate
+KCAT	Mus musculus	0.02056	histone H3 (1-13)	*wild-type substrate
+KCAT	Mus musculus	0.02167	histone H3	*recombinant substrate
+KCAT	Mus musculus	0.024	histone H3	*wild-type substrate

@@ -1,0 +1,3 @@
+KCAT	Burkholderia cepacia	2300	5-chloro-2-hydroxymuconic-6-semialdehyde	*pH 8.5, 25&deg;C
+KCAT	Burkholderia cepacia	21900	2-hydroxymuconate-6-semialdehyde	*pH 8.5, 25&deg;C
+KCAT	Burkholderia cepacia	99300	2-hydroxy-5-methyl-muconic-6-semialdehyde	*pH 8.5, 25&deg;C

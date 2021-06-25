@@ -1,0 +1,19 @@
+KCAT	Corynebacterium sp.	2.17	NADPH	*F22Y/S233T/R235S/R238H/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	3.33	NADPH	*K232G/R238H isoenzyme A mutant
+KCAT	Corynebacterium sp.	7	NADPH	*F22Y/K232G/R235T/R238H/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	7.33	NADPH	*F22Y/K232G/R238H/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	18.3	NADPH	*F22Y/A272G isoenzyme A mutant; F22Y/K232G/R235G/R238H/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	1.23	NADH	*F22Y/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	2.83	NADH	*isoenzyme A, wild-type
+KCAT	Corynebacterium sp.	8.5	NADH	*F22Y/S233T/R235S/R238H/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	10	NADH	*F22Y/K232G/R235G/R238E/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	16.5	NADH	*F22Y/K232G/R238H/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	18.3	NADH	*F22Y/K232G/R235G/R238H/A272G isoenzyme A mutant
+KCAT	Corynebacterium sp.	20	NADH	*K232G/R238H isoenzyme A mutant
+KCAT	Corynebacterium sp.	68.3	NADH	*F22Y/K232G/R235T/R238E/A272G isoenzyme A mutant
+KCAT	Escherichia coli	27.62	methylglyoxal	*YqhE
+KCAT	Escherichia coli	29.15	methylglyoxal	*YafB
+KCAT	Escherichia coli	81	methylglyoxal	*YafB
+KCAT	Corynebacterium sp.	8.33	2,5-didehydro-D-gluconate	*
+KCAT	Escherichia coli	2.6	ethyl 2-methylacetoacetate	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	2.6	ethyl-2-methylacetoacetate	*

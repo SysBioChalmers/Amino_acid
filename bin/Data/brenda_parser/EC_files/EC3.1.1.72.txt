@@ -1,0 +1,31 @@
+KCAT	Aspergillus nidulans	51	4-nitrophenyl acetate	*fusion protein with CBM3, pH 7.5, 50&Acirc;&deg;C
+KCAT	Aspergillus nidulans	59	4-nitrophenyl acetate	*wild-type, pH 7.5, 50&Acirc;&deg;C
+KCAT	Flavobacterium johnsoniae	120.8	4-nitrophenyl acetate	*pH 7.0, 30&Acirc;&deg;C
+KCAT	uncultured microorganism	206	4-nitrophenyl acetate	*mutant N96S/F210L, pH 8.0, 25&Acirc;&deg;C
+KCAT	uncultured microorganism	293.3	4-nitrophenyl acetate	*wild-type, pH 8.0, 25&Acirc;&deg;C
+KCAT	Thermobifida fusca	47.6	p-nitrophenyl acetate	*30&Acirc;&deg;C, pH 8.0
+KCAT	Thermoanaerobacterium saccharolyticum	187	4-yethylumbelliferyl acetate	*isoenzyme4 II
+KCAT	Thermoanaerobacterium saccharolyticum	245	4-yethylumbelliferyl acetate	*isoenzyme I
+KCAT	uncultured microorganism	46.7	2-naphthyl acetate	*mutant N96S/F210L, pH 8.0, 25&Acirc;&deg;C
+KCAT	uncultured microorganism	133.3	2-naphthyl acetate	*wild-type, pH 8.0, 25&Acirc;&deg;C
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	1.8	tetraacetyl-xylopyranoside	*mutant D270A, at 37&Acirc;&deg;C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	2	tetraacetyl-xylopyranoside	*mutant D270N, at 37&Acirc;&deg;C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	2.8	tetraacetyl-xylopyranoside	*mutant E194N, at 37&Acirc;&deg;C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	2.9	tetraacetyl-xylopyranoside	*mutant E194A, at 37&Acirc;&deg;C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	13	tetraacetyl-xylopyranoside	*mutant TM2, at 37&Acirc;&deg;C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+KCAT	Fibrobacter succinogenes subsp. succinogenes S85	15	tetraacetyl-xylopyranoside	*wild-type and mutant TM1, at 37&Acirc;&deg;C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+KCAT	Streptomyces lividans	118	2-O-acetyl-4-nitrophenyl beta-D-xylopyranoside	*
+KCAT	Aspergillus awamori	0.53	(25R)-3beta-hydroxycholest-5-en-27-oate	*substrate: alpha-naphthylacetate, wild-type enzyme
+KCAT	Aspergillus awamori	60.5	(25R)-3beta-hydroxycholest-5-en-27-oate	*substrate: alpha-naphthylacetate, mutant enzyme S146A
+KCAT	Aspergillus awamori	411	(25R)-3beta-hydroxycholest-5-en-27-oate	*substrate: alpha-naphthylacetate, mutant enzyme D168A
+KCAT	Flavobacterium johnsoniae	95.1	4-methylumbelliferyl acetate	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Aspergillus nidulans	96	4-methylumbelliferyl acetate	*wild-type, pH 7.5, 50&Acirc;&deg;C
+KCAT	uncultured microorganism	126	4-methylumbelliferyl acetate	*mutant N96S/F210L, pH 8.0, 25&Acirc;&deg;C
+KCAT	Aspergillus nidulans	163	4-methylumbelliferyl acetate	*fusion protein with CBM3, pH 7.5, 50&Acirc;&deg;C
+KCAT	uncultured microorganism	166.7	4-methylumbelliferyl acetate	*wild-type, pH 8.0, 25&Acirc;&deg;C
+KCAT	Volvariella volvacea	456	4-methylumbelliferyl acetate	*wild-type, 50&Acirc;&deg;C, pH 8.0
+KCAT	Volvariella volvacea	485	4-methylumbelliferyl acetate	*mutant carrying a replacement of CBM1 with CBM6, pH 8.0, 50&Acirc;&deg;C; wild-type lacking CBM1, 50&Acirc;&deg;C, pH 8.0
+KCAT	Volvariella volvacea	562	4-methylumbelliferyl acetate	*mutant carrying a replacement of CBM1 with CBM22-2, pH 8.0, 50&Acirc;&deg;C
+KCAT	Volvariella volvacea	897	4-methylumbelliferyl acetate	*mutant carrying a replacement of CBM1 with CBM4-2, pH 8.0, 50&Acirc;&deg;C
+KCAT	Aspergillus awamori	81.9	more	*substrate: alpha-naphthylacetate, wild-type enzyme
+KCAT	Aspergillus awamori	131.3	more	*substrate: alpha-naphthylacetate, mutant enzyme D168A

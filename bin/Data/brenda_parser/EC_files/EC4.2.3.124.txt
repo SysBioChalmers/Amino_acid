@@ -1,0 +1,9 @@
+KCAT	Bacillus circulans	0.007	D-glucose 6-phosphate	*below, pH 7.7, 37&deg;C, recombinant mutant K141Q
+KCAT	Bacillus circulans	0.017	D-glucose 6-phosphate	*pH 7.7, 37&deg;C, recombinant mutant E243Q
+KCAT	Bacillus circulans	0.073	D-glucose 6-phosphate	*pH 7.7, 35&deg;C, native enzyme
+KCAT	Bacillus circulans	0.073	D-glucose 6-phosphate	*pH 7.7, 46&deg;C
+KCAT	Streptoalloteichus hindustanus	0.075	D-glucose 6-phosphate	*pH not specified in the publication, 46&deg;C
+KCAT	Bacillus circulans	0.41	D-glucose 6-phosphate	*pH 7.7, 37&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus circulans	0.44	D-glucose 6-phosphate	*pH 7.7, 35&deg;C, recombinant wild-type enzyme, BtrC + BtrC2
+KCAT	Bacillus circulans	1	D-glucose 6-phosphate	*pH 7.7, 35&deg;C, recombinant wild-type enzyme, BtrC
+KCAT	Bacillus circulans	1	D-glucose 6-phosphate	*pH 7.7, 46&deg;C, recombinant enzyme

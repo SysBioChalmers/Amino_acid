@@ -1,0 +1,1 @@
+ecNumber*1.1.1.48#turnoverNumber*358#turnoverNumberMaximum*#substrate*D-galactose#commentary*#organism*Pelomonas saccharophila#ligandStructureId*71#literature*286973#!ecNumber*1.1.1.48#turnoverNumber*1180#turnoverNumberMaximum*#substrate*D-galactose#commentary*#organism*Pseudomonas fluorescens#ligandStructureId*71#literature*286971#

@@ -1,0 +1,56 @@
+KCAT	Saccharomyces cerevisiae	0.000042	(E,E)-farnesyl diphosphate	*mutant DELTA1-9, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.000066	(E,E)-farnesyl diphosphate	*mutant DELTA1-8, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.000072	(E,E)-farnesyl diphosphate	*mutant L8G/I9G, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.00013	(2E,6E)-farnesyl diphosphate	*mutant N101A/Y105A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.00013	isopentenyl diphosphate	*mutant N101A/Y105A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.00015	(E,E)-farnesyl diphosphate	*mutant E7G/L8G, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.0002	(2E,6E)-farnesyl diphosphate	*mutant N101A/N104A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.0002	isopentenyl diphosphate	*mutant N101A/N104A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.00062	(E,E)-farnesyl diphosphate	*mutant I9G, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.0051	(E,E)-farnesyl diphosphate	*mutant L8G, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.0073	(E,E)-farnesyl diphosphate	*mutant DELTA1-7, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.017	(2E,6E)-farnesyl diphosphate	*mutant N104A/Y105A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.017	isopentenyl diphosphate	*mutant N104A/Y105A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.018	(E,E)-farnesyl diphosphate	*mutant DELTA1-6, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.02	(2E,6E)-farnesyl diphosphate	*mutant M111E, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.02	isopentenyl diphosphate	*mutant M111E, pH 7.5, 25&deg;C
+KCAT	Corynebacterium glutamicum	0.02	isopentenyl diphosphate	*pH 7.5, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Saccharomyces cerevisiae	0.021	(E,E)-farnesyl diphosphate	*mutant E7G, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.025	(E,E)-farnesyl diphosphate	*wild-type, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.036	(2E,6E)-farnesyl diphosphate	*mutant M111F, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.036	isopentenyl diphosphate	*mutant M111F, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.037	(2E,6E)-farnesyl diphosphate	*wild-type enzyme, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.037	isopentenyl diphosphate	*wild-type enzyme, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.038	(2E,6E)-farnesyl diphosphate	*mutant R140A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.038	isopentenyl diphosphate	*mutant R140A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.04	(2E,6E)-farnesyl diphosphate	*mutant M111A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.04	isopentenyl diphosphate	*mutant M111A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.042	(2E,6E)-farnesyl diphosphate	*mutant H139A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.042	isopentenyl diphosphate	*mutant H139A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.06	(2E,6E)-farnesyl diphosphate	*mutant Y105A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.06	isopentenyl diphosphate	*mutant Y105A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.067	(2E,6E)-farnesyl diphosphate	*mutant N101A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.067	isopentenyl diphosphate	*mutant N101A, pH 7.5, 25&deg;C
+KCAT	Corynebacterium glutamicum	0.1	(2E,6E)-farnesyl diphosphate	*pH 7.5, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Saccharomyces cerevisiae	0.11	(2E,6E)-farnesyl diphosphate	*mutant N104A, pH 7.5, 25&deg;C
+KCAT	Saccharomyces cerevisiae	0.11	isopentenyl diphosphate	*mutant N104A, pH 7.5, 25&deg;C
+KCAT	Homo sapiens	0.204	trans,trans-farnesyl diphosphate	*pH 7.7, 37&deg;C, recombinant enzyme
+KCAT	Corynebacterium glutamicum	0.4	(2E,6E)-farnesyl diphosphate	*pH 7.5, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Plasmodium vivax	0.5	dimethylallyl diphosphate	*pH 7.7, 37&deg;C, recombinant PvGGPPS
+KCAT	Plasmodium vivax	0.5	geranyl diphosphate	*pH 7.7, 37&deg;C, recombinant PvGGPPS
+KCAT	Plasmodium vivax	0.8	(2E,6E)-farnesyl diphosphate	*pH 7.7, 37&deg;C, recombinant PvGGPPS
+KCAT	Plasmodium vivax	0.8	isopentenyl diphosphate	*pH 7.7, 37&deg;C, recombinant PvGGPPS
+KCAT	Taxus canadensis	1	dimethylallyl diphosphate	*
+KCAT	Corynebacterium glutamicum	1.1	isopentenyl diphosphate	*pH 7.5, 30&deg;C, recombinant His-tagged enzyme
+KCAT	Picea abies	1.4	dimethylallyl diphosphate	*
+KCAT	Saccharomyces cerevisiae	1.6	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant F108A/H139A
+KCAT	Taxus canadensis	2.1	geranyl diphosphate	*
+KCAT	Saccharomyces cerevisiae	2.5	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant Y107A/F108A/H139A; pH 7.5, 25&deg;C, recombinant wild-type enzyme
+KCAT	Taxus canadensis	3.3	farnesyl diphosphate	*
+KCAT	Saccharomyces cerevisiae	3.9	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant Y107A/H139A
+KCAT	Saccharomyces cerevisiae	4.2	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant H139A
+KCAT	Saccharomyces cerevisiae	4.7	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant F108A
+KCAT	Saccharomyces cerevisiae	4.9	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant Y107A/F108A
+KCAT	Saccharomyces cerevisiae	5.6	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant Y107A
+KCAT	Saccharomyces cerevisiae	6.4	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant L135A/H139A
+KCAT	Saccharomyces cerevisiae	8.4	trans,trans-farnesyl diphosphate	*pH 7.5, 25&deg;C, recombinant mutant Y107A/F108A/L135A/H139A

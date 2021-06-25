@@ -1,0 +1,1 @@
+ecNumber*2.7.1.186#turnoverNumber*9#turnoverNumberMaximum*#substrate*(R)-3-phosphomevalonate#commentary*pH 8.0, 60&deg;C#organism*Thermoplasma acidophilum#ligandStructureId*194835#literature*727046#

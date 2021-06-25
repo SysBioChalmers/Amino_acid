@@ -1,0 +1,2 @@
+KCAT	Staphylococcus aureus	0.44	protoporphyrinogen IX	*at pH 8.0 and 37&deg;C
+KCAT	Staphylococcus aureus	0.46	Coproporphyrinogen III	*at pH 8.0 and 37&deg;C

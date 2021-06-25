@@ -1,0 +1,7 @@
+KCAT	Kitasatospora sp. MK-1785	14.7	maltotetraose	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Kitasatospora sp. MK-1785	58.1	maltopentaose	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Kitasatospora sp. MK-1785	53.8	amylose	*pH 6.0, 37&Acirc;&deg;C
+KCAT	Microbacterium imperiale	19.4	amylopectin	*pH 6.5, 50&Acirc;&deg;C
+KCAT	Microbacterium imperiale	26.5	beta-dextrin-1	*pH 6.5, 50&Acirc;&deg;C
+KCAT	Microbacterium imperiale	33	beta-dextrin-2	*pH 6.5, 50&Acirc;&deg;C
+KCAT	Microbacterium imperiale	37.2	beta-dextrin-3	*pH 6.5, 50&Acirc;&deg;C

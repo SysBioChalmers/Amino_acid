@@ -1,0 +1,1 @@
+ecNumber*1.2.5.2#turnoverNumber*22000#turnoverNumberMaximum*#substrate*acetic acid#commentary*cosubstrate ferricyandie, pH 3.5, 30&Acirc;&deg;C#organism*Gluconacetobacter diazotrophicus#ligandStructureId*751#literature*731999#

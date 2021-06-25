@@ -1,0 +1,34 @@
+KCAT	Escherichia coli	11	H2O2	*presence of 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid), pH 6.0
+KCAT	Escherichia coli	20	H2O2	*presence of 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid), pH 5.5
+KCAT	Escherichia coli	24	H2O2	*presence of o-dianisidine, pH 4.0
+KCAT	Escherichia coli	27	H2O2	*presence of pyrogallol, pH 4.0
+KCAT	Escherichia coli	37	H2O2	*presence of o-dianisidine, pH 4.5
+KCAT	Escherichia coli	44	H2O2	*presence of pyrogallol, pH 4.5
+KCAT	Escherichia coli	55	H2O2	*presence of 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid), pH 5.0
+KCAT	Escherichia coli	56	H2O2	*presence of pyrogallol, pH 5.0
+KCAT	Escherichia coli	58	H2O2	*presence of o-dianisidine, pH 5.0
+KCAT	Escherichia coli	64	H2O2	*presence of pyrogallol, pH 5.5
+KCAT	Escherichia coli	69	H2O2	*presence of o-dianisidine, pH 5.5; presence of pyrogallol, pH 6.0
+KCAT	Escherichia coli	71	H2O2	*presence of o-dianisidine, pH 6.0
+KCAT	Escherichia coli	92	H2O2	*presence of 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid), pH 4.5
+KCAT	Escherichia coli	151	H2O2	*presence of 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid), pH 4.0
+KCAT	Escherichia coli	200	H2O2	*pH 7.5, 30&deg;C
+KCAT	Escherichia coli	2140	H2O2	*mutant Y111A, pH 7.0, 23&deg;C
+KCAT	Haloarcula marismortui	3000	H2O2	*pH 6.0, 25&deg;C
+KCAT	Escherichia coli	11000	H2O2	*wild-type, pH 7.0, 23&deg;C
+KCAT	Escherichia coli	16300	H2O2	*
+KCAT	Escherichia coli	18000	H2O2	*catalase activity, pH 7.0, 22&deg;C
+KCAT	Zavarzinia compransoris	23300	H2O2	*
+KCAT	Escherichia coli	26000	H2O2	*peroxidase activity, pH 7.0, 22&deg;C
+KCAT	Pyrobaculum calidifontis	29000	H2O2	*pH 7.0, 25&deg;C, per subunit
+KCAT	Gluconobacter oxydans	62800	H2O2	*pH and temperature not specified in the publication
+KCAT	Oryza sativa	80000	H2O2	*pH 7.0, 25&deg;C
+KCAT	Thermoascus aurantiacus	107000	H2O2	*pH 7.0, 30&deg;C
+KCAT	Neurospora crassa	125000	H2O2	*isoform Cat-2
+KCAT	Bacillus sp. (in: Bacteria)	149000	H2O2	*in 50 mM potassium phosphate buffer (pH 7.0), at 4&deg;C
+KCAT	Bacillus sp. (in: Bacteria)	175000	H2O2	*in 50 mM potassium phosphate buffer (pH 7.0), at 25&deg;C
+KCAT	Capra capra	217000	H2O2	*
+KCAT	Xanthomonas campestris	255000	H2O2	*pH 7.0, 37&deg;C
+KCAT	Thermus brockianus	360000	H2O2	*pH 8.0, 70&deg;C
+KCAT	Komagataella pastoris	850000	H2O2	*
+KCAT	Talaromyces piceae	2830000	H2O2	*catalase from Penicillium piceum strain F-648 at the minimum degree of association (0.3 nM)

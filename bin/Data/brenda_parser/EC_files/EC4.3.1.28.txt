@@ -1,0 +1,1 @@
+KCAT	Streptomyces hygroscopicus	0.61	L-lysine	*0.1 mM NAD+, in 100 mM HEPES (pH 8.0), at 30&deg;C

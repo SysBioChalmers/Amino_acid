@@ -1,0 +1,2 @@
+KCAT	Herbaspirillum seropedicae	308	6-sulfo-alpha-D-quinovose	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Herbaspirillum seropedicae	337	6-sulfo-beta-D-quinovose	*pH not specified in the publication, temperature not specified in the publication

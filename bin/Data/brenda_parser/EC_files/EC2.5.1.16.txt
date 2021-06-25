@@ -1,0 +1,22 @@
+KCAT	Thermotoga maritima	-999	more	*
+KCAT	Thermotoga maritima	0.012	putrescine	*pH 7.5, 80&deg;C, recombinant mutant D101I
+KCAT	Thermotoga maritima	0.012	S-adenosylmethioninamine	*pH 7.5, 80&deg;C, recombinant mutant D101I
+KCAT	Thermotoga maritima	0.014	putrescine	*pH 7.5, 80&deg;C, recombinant mutant D170A
+KCAT	Thermotoga maritima	0.014	S-adenosylmethioninamine	*pH 7.5, 80&deg;C, recombinant mutant D170A
+KCAT	Escherichia coli	0.128	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant SPS mutant C159A
+KCAT	Escherichia coli	0.135	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant SPS mutant T160A
+KCAT	Escherichia coli	0.138	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant SPS mutant I163A
+KCAT	Escherichia coli	0.14	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.145	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant SPS mutant C159S
+KCAT	Escherichia coli	0.15	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant SPS mutant P165A
+KCAT	Escherichia coli	0.156	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant SPS mutant P162A
+KCAT	Thermotoga maritima	0.77	putrescine	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Thermotoga maritima	0.77	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KCAT	Thermotoga maritima	1.5	putrescine	*pH 7.5, 80&deg;C, recombinant mutant D173A
+KCAT	Thermotoga maritima	1.5	S-adenosylmethioninamine	*pH 7.5, 80&deg;C, recombinant mutant D173A
+KCAT	Homo sapiens	1.9	putrescine	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	1.9	S-adenosylmethioninamine	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Thermotoga maritima	8.1	putrescine	*pH 7.5, 80&deg;C, recombinant mutant Y76F
+KCAT	Thermotoga maritima	8.1	S-adenosylmethioninamine	*pH 7.5, 80&deg;C, recombinant mutant Y76F
+KCAT	Thermotoga maritima	22.7	putrescine	*pH 7.5, 80&deg;C, recombinant wild-type enzyme
+KCAT	Thermotoga maritima	22.7	S-adenosylmethioninamine	*pH 7.5, 80&deg;C, recombinant wild-type enzyme

@@ -1,0 +1,1 @@
+ecNumber*1.14.99.B1#turnoverNumber*0.00082#turnoverNumberMaximum*#substrate*campestanol#commentary*pH 7.25, 30&deg;C#organism*Arabidopsis thaliana#ligandStructureId*37879#literature*689528#!ecNumber*1.14.99.B1#turnoverNumber*0.03#turnoverNumberMaximum*#substrate*campesterol#commentary*pH 7.25, 30&deg;C#organism*Arabidopsis thaliana#ligandStructureId*6494#literature*689528#

@@ -1,0 +1,2 @@
+KCAT	Saccharomyces cerevisiae	4	D-2-hydroxyglutarate	*pH 9.5, 30&deg;C
+KCAT	Saccharomyces cerevisiae	4.9	pyruvate	*pH 9.5, 30&deg;C

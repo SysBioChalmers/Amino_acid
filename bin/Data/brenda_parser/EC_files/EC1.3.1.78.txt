@@ -1,0 +1,3 @@
+KCAT	Arabidopsis thaliana	3.4	prephenate	*
+KCAT	Arabidopsis thaliana	37.3	L-arogenate	*pH 7.5, 25&Acirc;&deg;C, TyrAAT2
+KCAT	Arabidopsis thaliana	84.2	arogenate	*pH 7.5, 25&Acirc;&deg;C, TyrAAT1

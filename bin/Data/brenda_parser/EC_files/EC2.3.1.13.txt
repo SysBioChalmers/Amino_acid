@@ -1,0 +1,7 @@
+KCAT	Mus musculus	0.57	glycine ethyl ester	*apparent value, at pH 8.0, temperature not specified in the publication
+KCAT	Mus musculus	0.8	acetyl-CoA	*apparent value, at pH 8.0, temperature not specified in the publication; pH 8.0, temperature not specified in the publication
+KCAT	Mus musculus	1	Glycine methyl ester	*apparent value, at pH 8.0, temperature not specified in the publication
+KCAT	Mus musculus	3.2	glycine	*apparent value, at pH 8.0, temperature not specified in the publication
+KCAT	Mus musculus	4.2	benzoyl-CoA	*apparent value, at pH 8.0, temperature not specified in the publication; pH 8.0, temperature not specified in the publication
+KCAT	Mus musculus	4.6	hexanoyl-CoA	*apparent value, at pH 8.0, temperature not specified in the publication; pH 8.0, temperature not specified in the publication
+KCAT	Mus musculus	15	butyryl-CoA	*apparent value, at pH 8.0, temperature not specified in the publication; pH 8.0, temperature not specified in the publication

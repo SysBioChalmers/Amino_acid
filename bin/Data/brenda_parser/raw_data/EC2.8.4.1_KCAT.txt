@@ -1,0 +1,1 @@
+ecNumber*2.8.4.1#turnoverNumber*18#turnoverNumberMaximum*#substrate*CoB#commentary*at pH 7.6 and 25&deg;C#organism*Methanothermobacter marburgensis#ligandStructureId*41423#literature*738676#

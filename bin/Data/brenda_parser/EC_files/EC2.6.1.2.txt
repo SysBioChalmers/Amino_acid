@@ -1,0 +1,41 @@
+KCAT	Pseudomonas putida	0.08	2-oxoglutarate	*cofactor: L-alanine, 25&deg;C, pH 8.0
+KCAT	Pseudomonas putida	0.08	L-alanine	*cofactor: 2-oxoglutarate, 25&deg;C, pH 8.0
+KCAT	Pseudomonas putida	0.17	L-glutamate	*cofactor: pyruvate, 25&deg;C, pH 8.0
+KCAT	Pseudomonas putida	0.17	pyruvate	*cofactor: L-glutamate, 25&deg;C, pH 8.0
+KCAT	Zea mays	0.33	2-oxoglutarate	*cofactor: L-alanine, 25&deg;C, pH 8.0
+KCAT	Zea mays	0.33	L-alanine	*cofactor: 2-oxoglutarate, 25&deg;C, pH 8.0
+KCAT	Rhodopseudomonas palustris	0.38	2-oxoglutarate	*cofactor: L-alanine, 25&deg;C, pH 8.0
+KCAT	Rhodopseudomonas palustris	0.38	L-alanine	*cofactor: 2-oxoglutarate, 25&deg;C, pH 8.0
+KCAT	Zea mays	0.67	L-glutamate	*cofactor: pyruvate, 25&deg;C, pH 8.0
+KCAT	Zea mays	0.67	pyruvate	*cofactor: L-glutamate, 25&deg;C, pH 8.0
+KCAT	Bacillus halodurans	1.25	2-oxoglutarate	*cofactor: L-alanine, 25&deg;C, pH 8.0
+KCAT	Bacillus halodurans	1.25	L-alanine	*cofactor: 2-oxoglutarate, 25&deg;C, pH 8.0
+KCAT	Bacillus halodurans	2.8	L-glutamate	*cofactor: pyruvate, 25&deg;C, pH 8.0
+KCAT	Bacillus halodurans	2.8	pyruvate	*cofactor: L-glutamate, 25&deg;C, pH 8.0
+KCAT	Rhodopseudomonas palustris	3.06	L-glutamate	*cofactor: pyruvate, 25&deg;C, pH 8.0
+KCAT	Rhodopseudomonas palustris	3.06	pyruvate	*cofactor: L-glutamate, 25&deg;C, pH 8.0
+KCAT	Oryza sativa	4.98	2-oxoglutarate	*cofactor: L-alanine, 25&deg;C, pH 8.0
+KCAT	Oryza sativa	4.98	L-alanine	*cofactor: 2-oxoglutarate, 25&deg;C, pH 8.0
+KCAT	Zea mays	5.49	2-oxoglutarate	*cofactor: L-alanine, 25&deg;C, pH 8.0
+KCAT	Zea mays	5.49	L-alanine	*cofactor: 2-oxoglutarate, 25&deg;C, pH 8.0
+KCAT	Saccharomyces cerevisiae	6.09	2-oxoglutarate	*cofactor: L-alanine, 25&deg;C, pH 8.0
+KCAT	Saccharomyces cerevisiae	6.09	L-alanine	*cofactor: 2-oxoglutarate, 25&deg;C, pH 8.0
+KCAT	Zea mays	6.56	L-glutamate	*cofactor: pyruvate, 25&deg;C, pH 8.0
+KCAT	Zea mays	6.56	pyruvate	*cofactor: L-glutamate, 25&deg;C, pH 8.0
+KCAT	Oryza sativa	6.86	L-glutamate	*cofactor: pyruvate, 25&deg;C, pH 8.0
+KCAT	Oryza sativa	6.86	pyruvate	*cofactor: L-glutamate, 25&deg;C, pH 8.0
+KCAT	Saccharomyces cerevisiae	8.64	L-glutamate	*cofactor: pyruvate, 25&deg;C, pH 8.0
+KCAT	Saccharomyces cerevisiae	8.64	pyruvate	*cofactor: L-glutamate, 25&deg;C, pH 8.0
+KCAT	Hordeum vulgare	12.11	2-oxoglutarate	*cofactor: L-alanine, 25&deg;C, pH 8.0
+KCAT	Hordeum vulgare	12.11	L-alanine	*cofactor: 2-oxoglutarate, 25&deg;C, pH 8.0
+KCAT	Rattus norvegicus	17.1	L-alanine	*200 mM L-alanine and 2 mM 2-oxoglutarate in 0.1 M phosphate buffer, pH 7.4, at 37&deg;C
+KCAT	Hordeum vulgare	25.62	L-glutamate	*cofactor: pyruvate, 25&deg;C, pH 8.0
+KCAT	Hordeum vulgare	25.62	pyruvate	*cofactor: L-glutamate, 25&deg;C, pH 8.0
+KCAT	Triticum aestivum	127.7	L-glutamate	*AlaAT1, cosubstrate: pyruvate, pH 7.3, 25&deg;C
+KCAT	Triticum aestivum	127.7	pyruvate	*AlaAT1, cosubstrate: L-glutamate, pH 7.3, 25&deg;C
+KCAT	Triticum aestivum	134.9	2-oxoglutarate	*AlaAT1, cosubstrate: L-alanine, pH 7.3, 25&deg;C
+KCAT	Triticum aestivum	134.9	L-alanine	*AlaAT1, cosubstrate: 2-oxoglutarate, pH 7.3, 25&deg;C
+KCAT	Triticum aestivum	136	L-glutamate	*AlaAT2, cosubstrate: pyruvate, pH 7.3, 25&deg;C
+KCAT	Triticum aestivum	136	pyruvate	*AlaAT2, cosubstrate: L-glutamate, pH 7.3, 25&deg;C
+KCAT	Triticum aestivum	170	2-oxoglutarate	*AlaAT2, cosubstrate: L-alanine, pH 7.3, 25&deg;C
+KCAT	Triticum aestivum	170	L-alanine	*AlaAT2, cosubstrate: 2-oxoglutarate, pH 7.3, 25&deg;C

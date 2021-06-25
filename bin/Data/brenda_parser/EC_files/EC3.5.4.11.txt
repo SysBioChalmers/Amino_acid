@@ -1,0 +1,2 @@
+KCAT	unidentified prokaryotic organism	1.01	2-amino-4-oxo-3,4-dihydropteridine-6-carboxylic acid	*pH 8.5, 30&deg;C
+KCAT	unidentified prokaryotic organism	1.05	2-aminopteridine-4,7(1H,8H)-dione	*pH 8.5, 30&deg;C

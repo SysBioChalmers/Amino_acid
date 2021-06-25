@@ -1,0 +1,1 @@
+ecNumber*1.1.1.369#turnoverNumber*1#turnoverNumberMaximum*#substrate*1D-chiro-inositol#commentary*pH 8.8, 60&deg;C#organism*Thermotoga maritima#ligandStructureId*26040#literature*727372#

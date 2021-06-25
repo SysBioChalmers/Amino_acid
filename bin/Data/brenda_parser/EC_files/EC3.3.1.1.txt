@@ -1,0 +1,32 @@
+KCAT	Pyrococcus furiosus	0.053	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, mutant enzyme C59S
+KCAT	Pyrococcus furiosus	0.054	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, mutant enzyme C59T
+KCAT	Pyrococcus furiosus	0.057	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, mutant enzyme A84Q
+KCAT	Pyrococcus furiosus	0.058	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, wild-type enzyme
+KCAT	Lupinus luteus	0.11	cysteine	*
+KCAT	Homo sapiens	0.4	S-adenosyl-L-homocysteine	*mutant enzyme N27K, at pH 7.2 and 37&deg;C
+KCAT	Homo sapiens	0.56	S-adenosyl-L-homocysteine	*mutant enzyme D293A, at pH 7.2 and 37&deg;C
+KCAT	Cryptosporidium parvum	0.69	S-adenosyl-DL-homocysteine	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	0.79	S-adenosyl-L-homocysteine	*recombinant wild type enzyme, at pH 7.2 and 37&deg;C
+KCAT	Trypanosoma cruzi	1	S-adenosyl-DL-homocysteine	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	1	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, mutant enzyme Q85A
+KCAT	Rattus norvegicus	1.4	S-adenosyl-DL-homocysteine	*pH 7.2, 22&deg;C
+KCAT	Homo sapiens	1.87	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, mutant enzyme T60C
+KCAT	Homo sapiens	2.55	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, mutant enzyme T60A
+KCAT	Homo sapiens	2.8	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, mutant enzyme T60S
+KCAT	Trypanosoma cruzi	3	adenosine	*pH 7.2, 37&deg;C
+KCAT	Trypanosoma cruzi	3	DL-homocysteine	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	3.45	S-adenosyl-DL-homocysteine	*30&deg;C, pH 7.6, wild-type enzyme
+KCAT	Lupinus luteus	4.3	adenosine	*
+KCAT	Pseudomonas aeruginosa	17.5	S-adenosyl-L-homocysteine	*pH 7.5, 20&deg;C, recombinant wild-type enzyme, in presence of Rb+
+KCAT	Pseudomonas aeruginosa	46.6	S-adenosyl-L-homocysteine	*pH 7.5, 20&deg;C, recombinant wild-type enzyme, in presence of Li+
+KCAT	Pseudomonas aeruginosa	52.9	S-adenosyl-L-homocysteine	*pH 7.5, 20&deg;C, recombinant wild-type enzyme
+KCAT	Plasmodium falciparum	84	S-adenosyl-DL-homocysteine	*pH 7.2, 30&deg;C
+KCAT	Pseudomonas aeruginosa	140	S-adenosyl-L-homocysteine	*pH 7.5, 20&deg;C, recombinant mutant Q65A, in presence of K+
+KCAT	Pseudomonas aeruginosa	213.1	S-adenosyl-L-homocysteine	*pH 7.5, 20&deg;C, recombinant wild-type enzyme, in presence of Cs+
+KCAT	Pseudomonas aeruginosa	237.3	S-adenosyl-L-homocysteine	*pH 7.5, 20&deg;C, recombinant wild-type enzyme, in presence of Na+
+KCAT	Plasmodium falciparum	312	adenosine	*pH 7.2, 30&deg;C
+KCAT	Plasmodium falciparum	312	DL-homocysteine	*pH 7.2, 30&deg;C
+KCAT	Pseudomonas aeruginosa	575	S-adenosyl-L-homocysteine	*pH 7.5, 20&deg;C, recombinant wild-type enzyme, in presence of K+
+KCAT	Homo sapiens	1908	S-adenosyl-DL-homocysteine	*pH 7.2, 30&deg;C
+KCAT	Homo sapiens	6666	adenosine	*pH 7.2, 30&deg;C
+KCAT	Homo sapiens	6666	DL-homocysteine	*pH 7.2, 30&deg;C

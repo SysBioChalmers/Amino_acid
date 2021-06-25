@@ -1,0 +1,2 @@
+KCAT	Saccharomyces cerevisiae	0.0067	tRNAVal uridine27	*pH and temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	0.0083	tRNAIle uridine27	*pH and temperature not specified in the publication

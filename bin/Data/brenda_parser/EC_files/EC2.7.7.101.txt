@@ -1,0 +1,1 @@
+KCAT	Saccharolobus solfataricus	0.00055	NTP	*pH 8.5, 70&deg;C

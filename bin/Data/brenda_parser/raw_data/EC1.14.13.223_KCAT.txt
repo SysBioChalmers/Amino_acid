@@ -1,0 +1,1 @@
+ecNumber*1.14.13.223#turnoverNumber*1.48#turnoverNumberMaximum*#substrate*3-hydroxy-4-methylanthranilyl-[aryl-carrier protein]#commentary*pH 7.0, 30&deg;C#organism*Streptosporangium sibiricum#ligandStructureId*212308#literature*737673#

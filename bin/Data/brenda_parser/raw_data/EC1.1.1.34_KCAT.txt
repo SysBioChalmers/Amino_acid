@@ -1,0 +1,1 @@
+ecNumber*1.1.1.34#turnoverNumber*0.023#turnoverNumberMaximum*#substrate*hydroxymethylglutaryl-CoA#commentary*#organism*Rattus norvegicus#ligandStructureId*3820#literature*688473#

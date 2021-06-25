@@ -1,0 +1,69 @@
+KCAT	Pseudomonas fluorescens	0.1	NADPH	*above, pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, R339A mutant
+KCAT	Pseudomonas fluorescens	0.19	NADH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, R339A mutant
+KCAT	Pseudomonas fluorescens	0.2	NADPH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, K439P mutant
+KCAT	Pseudomonas putida	0.4	3-methoxyacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	0.5	4-acetylpyridine	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	0.6	4-fluoroacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	0.6	4-fluoroacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	0.7	NADH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, K439P mutant
+KCAT	Pseudomonas putida	1	3-aminoacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	1	NADPH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, K439F mutant
+KCAT	Pseudomonas putida	1.2	3-nitroacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	1.2	4-methoxyacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	1.2	butyrophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	1.3	4-fluoroacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	1.6	4-chloroacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	1.6	NADPH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, K439A mutant
+KCAT	Pseudomonas fluorescens	1.7	4-methoxyacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	1.7	4-methoxyacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	1.7	NADH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, wild-type HAPMO
+KCAT	Pseudomonas fluorescens	2.1	2,4-Pentanedione	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	2.2	benzaldehyde	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	2.2	benzaldehyde	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	2.4	NADH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, K439A mutant; pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, K439F mutant
+KCAT	Pseudomonas fluorescens	2.5	isobutyrophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	2.6	4-Nitroacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	2.6	propiophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	3.5	2,4-Pentanedione	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	3.5	NADPH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, K439N mutant
+KCAT	Pseudomonas fluorescens	3.9	acetylcyclohexane	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	4.1	Hydroxyacetone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	4.2	2-decanone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	4.4	4-methylacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	4.5	acetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	4.7	methylphenyl sulfide	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	4.8	3-hydroxyacetophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	4.9	butyrophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	5	cyclohexane carboxaldehyde	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	5.1	NADH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, K439N mutant
+KCAT	Pseudomonas fluorescens	5.4	4-hydroxy-3-methylacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	6.3	4-methylacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	6.3	4-methylacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	6.7	2-hydroxyacetophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	6.7	bicyclohept-2-en-6-one	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	7.3	methyl 4-tolyl sulfide	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	7.4	3-chloro-2-butanone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	7.6	4-hydroxybenzaldehyde	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	7.6	4-hydroxybenzaldehyde	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	7.8	2-acetylpyridine	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	8.1	3'-hydroxyacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	8.2	4-aminoacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	8.6	2-pyrrole carboxaldehyde	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	8.7	2-phenylpropionaldehyde	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	9.3	NADPH	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	9.4	2-acetylpyrrole	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	9.8	4-hydroxyacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	10.1	4-hydroxyacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	10.1	NADPH	*pH 7.5, 25&deg;C, cosubstrate 4-hydroxyacetophenone, wild-type HAPMO
+KCAT	Pseudomonas fluorescens	10.6	4-hydroxypropiophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	11	propiophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	11.3	2-acetylpyrrole	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas fluorescens	11.9	4-hydroxypropiophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	12.3	4-aminoacetophenone	*pH 8, 30&deg;C
+KCAT	Pseudomonas fluorescens	12.6	4-hydroxyacetophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	12.7	4-aminoacetophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas fluorescens	13.2	acetophenone	*pH 7.5, 30&deg;C
+KCAT	Pseudomonas putida	15.4	trifluoroacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	16.3	acetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	20	methyl-4-tolyl sulfide	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C
+KCAT	Pseudomonas putida	21.2	2'-hydroxyacetophenone	*312 microM NADPH, 50 mM Tris-HCl, pH 8.0, 30&deg;C

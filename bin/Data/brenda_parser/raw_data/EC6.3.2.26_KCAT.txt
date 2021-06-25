@@ -1,0 +1,1 @@
+ecNumber*6.3.2.26#turnoverNumber*0.0833#turnoverNumberMaximum*#substrate*ATP#commentary*#organism*Acremonium chrysogenum#ligandStructureId*4#literature*440074#!ecNumber*6.3.2.26#turnoverNumber*0.133#turnoverNumberMaximum*#substrate*cysteine#commentary*under saturating conditions#organism*Acremonium chrysogenum#ligandStructureId*153#literature*440074#

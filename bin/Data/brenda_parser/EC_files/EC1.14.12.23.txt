@@ -1,0 +1,19 @@
+KCAT	Acidovorax sp.	0.12	2-nitrotoluene	*mutant I204A, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.13	3-nitrotoluene	*mutant A405G, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.15	3-nitrotoluene	*wild-type, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.16	2-nitrotoluene	*pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.19	2-nitrotoluene	*mutant A405G, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.19	nitrobenzene	*mutant I204A, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.21	2-nitrotoluene	*mutant I204T, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.21	3-nitrotoluene	*mutant I204T, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.22	nitrobenzene	*mutant I204T, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.23	nitrobenzene	*mutant A405G, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.25	2-nitrotoluene	*mutant I204V, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.25	nitrobenzene	*mutant I204V, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.26	3-nitrotoluene	*mutant I204V, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.27	3-nitrotoluene	*mutant I204A, pH 6.8, 30&deg;C; pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.27	nitrobenzene	*wild-type, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.3	nitrobenzene	*pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	0.34	2-nitrotoluene	*wild-type, pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	2.3	2-nitrotoluene	*pH 6.8, 30&deg;C
+KCAT	Acidovorax sp.	2.4	Naphthalene	*pH 6.8, 30&deg;C

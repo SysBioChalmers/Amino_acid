@@ -1,0 +1,1 @@
+ecNumber*7.4.2.7#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*fusion of ubiquitin to mutant enzyme Ste6p-deltaA dramatically increased its rate of turnover#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*670969#

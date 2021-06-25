@@ -1,0 +1,14 @@
+KCAT	Paenarthrobacter nitroguajacolicus	0.0006	1H-3-Hydroxy-4-oxoquinaldine	*mutant H251A, pH 6.5, 5&Acirc;&deg;C
+KCAT	Paenarthrobacter nitroguajacolicus	0.0034	1H-3-Hydroxy-4-oxoquinaldine	*HOD mutant H251A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Paenarthrobacter nitroguajacolicus	0.027	1H-3-Hydroxy-4-oxoquinaldine	*HOD mutant H102L, pH not specified in the publication, temperature not specified in the publication
+KCAT	Paenarthrobacter nitroguajacolicus	0.097	1H-3-Hydroxy-4-oxoquinaldine	*mutant H251A, pH 10.5, 5&Acirc;&deg;C
+KCAT	Paenarthrobacter nitroguajacolicus	0.19	1H-3-Hydroxy-4-oxoquinaldine	*mutant D126A, pH 6.5, 5&Acirc;&deg;C
+KCAT	Paenarthrobacter nitroguajacolicus	1.05	1H-3-Hydroxy-4-oxoquinaldine	*HOD mutant D126A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Paenarthrobacter nitroguajacolicus	3	1H-3-Hydroxy-4-oxoquinaldine	*HOD mutant H38A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Paenarthrobacter nitroguajacolicus	16.3	1H-3-Hydroxy-4-oxoquinaldine	*wild-type, pH 6.5, 5&Acirc;&deg;C
+KCAT	Paenarthrobacter nitroguajacolicus	20.5	1H-3-Hydroxy-4-oxoquinaldine	*mutant D126A, pH 10.5, 5&Acirc;&deg;C
+KCAT	Paenarthrobacter nitroguajacolicus	29.5	1H-3-Hydroxy-4-oxoquinaldine	*wild-type, pH 10.5, 5&Acirc;&deg;C
+KCAT	Paenarthrobacter nitroguajacolicus	38.4	1H-3-Hydroxy-4-oxoquinaldine	*wild-type HOD, pH not specified in the publication, temperature not specified in the publication
+KCAT	Paenarthrobacter nitroguajacolicus	46.4	1H-3-Hydroxy-4-oxoquinaldine	*HOD mutant S101A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Pseudomonas putida	2.55	1H-3-Hydroxy-4-oxoquinoline	*QDO mutant D120A, pH not specified in the publication, temperature not specified in the publication
+KCAT	Pseudomonas putida	20.6	1H-3-Hydroxy-4-oxoquinoline	*wild-type QDO, pH not specified in the publication, temperature not specified in the publication

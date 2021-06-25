@@ -1,0 +1,1 @@
+KCAT	Streptomyces wedmorensis	1.3	phosphonoacetaldehyde	*in 50 mM HEPES, 200 mM NaCl, pH 7.5, temperature not specified in the publication

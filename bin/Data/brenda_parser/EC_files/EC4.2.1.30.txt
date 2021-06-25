@@ -1,0 +1,12 @@
+KCAT	Klebsiella pneumoniae	400	glycerol	*pH 7.0, 22&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	430	glycerol	*wild type enzyme, at pH 6.0 and 37&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	460	glycerol	*mutant enzyme KpG60, at pH 6.0 and 37&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	860	glycerol	*37&Acirc;&deg;C, recombinant enzyme, purification method 2
+KCAT	Klebsiella pneumoniae	890	glycerol	*mutant enzyme KpG525, at pH 6.0 and 37&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	392	Propane-1,2-diol	*37&Acirc;&deg;C, recombinant enzyme, purification method 2
+KCAT	Klebsiella pneumoniae	3.4	meso-2,3-butanediol	*37&Acirc;&deg;C, pH 7.0, linked complex of the fusion protein of alpha- and beta-subunits and the gamma subunit
+KCAT	Klebsiella pneumoniae	3.6	meso-2,3-butanediol	*37&Acirc;&deg;C, pH 7.0, mutant enzyme T200S
+KCAT	Klebsiella pneumoniae	200	(R)-1,2-Propanediol	*37&Acirc;&deg;C, pH 7.0, linked complex of the fusion protein of alpha- and beta-subunits and the gamma subunit
+KCAT	Klebsiella pneumoniae	200	pentane-1,2-diol	*wild type enzyme, at pH 6.0 and 37&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	250	pentane-1,2-diol	*mutant enzyme KpG60, at pH 6.0 and 37&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	310	pentane-1,2-diol	*mutant enzyme KpG525, at pH 6.0 and 37&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.19.6.1#turnoverNumber*400#turnoverNumberMaximum*#substrate*flavodoxin hydroquinone#commentary*before and after reduction of the nitrogenase complex relative slow reactions take place, which limits the rate of the Fe protein cycle#organism*Azotobacter vinelandii#ligandStructureId*#literature*440138#

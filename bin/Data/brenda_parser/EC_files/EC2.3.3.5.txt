@@ -1,0 +1,8 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	1.87	acetyl-CoA	*in 50 mM HEPES pH 8.0, at 30&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	8.25	propanoyl-CoA	*in 50 mM HEPES pH 8.0, at 30&deg;C
+KCAT	Fusarium verticillioides	12.5	propionyl-CoA	*
+KCAT	Fusarium solani	15.5	acetyl-CoA	*
+KCAT	Fusarium solani	15.9	propionyl-CoA	*
+KCAT	Aspergillus nidulans	23	oxaloacetate	*pH 8.0, 25&deg;C, purified native enzyme
+KCAT	Aspergillus nidulans	23	propanoyl-CoA	*pH 8.0, 25&deg;C, purified native enzyme
+KCAT	Fusarium verticillioides	29.9	acetyl-CoA	*

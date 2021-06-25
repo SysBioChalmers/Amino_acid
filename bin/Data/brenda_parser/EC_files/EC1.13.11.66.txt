@@ -1,0 +1,12 @@
+KCAT	Sphingobium chlorophenolicum	1.4	O2	*cosubstrate 2,6-dimethylhydroquinone, pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	1.6	O2	*cosubstrate 2-chloro-6-methylhydroquinone, 1,2-cleavage, pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	1.8	O2	*cosubstrate 2-chloro-6-methylhydroquinone, 1,6-cleavage, pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	2.2	O2	*cosubstrate 2,6-dibromohydroquinone, pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	4.8	O2	*cosubstrate 2,6-dichlorohydroquinone, pH 7.0, 23&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	2.1	hydroquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Sphingomonas sp.	13.5	hydroquinone	*pH 7.0, 25&Acirc;&deg;C; pH 7.0, 25&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	3.05	2,6-dichlorohydroquinone	*pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	2.1	2,6-dichloro-p-hydroquinone	*pH 6.7, 22&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	1.61	2,6-dibromohydroquinone	*pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	1.25	2,6-dimethylhydroquinone	*pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	2.41	2-chloro-6-methylhydroquinone	*pH 7.0, 23&Acirc;&deg;C

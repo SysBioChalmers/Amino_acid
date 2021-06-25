@@ -1,0 +1,6 @@
+KCAT	Bitis gabonica	0.065	H-D-Hexahydrotyrosyl-Ala-Arg 4-nitroanilide	*
+KCAT	Bitis gabonica	0.248	H-D-Pro-hexahydrotyrosyl-Arg 4-nitroanilide	*
+KCAT	Bitis gabonica	0.014	Tosyl-Gly-Pro-Arg 4-nitroanilide	*
+KCAT	Bitis gabonica	0.204	tosyl-Gly-Pro-Lys 4-nitroanilide	*
+KCAT	Bitis gabonica	12.2	tosyl-L-Arg methyl ester	*
+KCAT	Bitis gabonica	0.952	H-D-Phenylglycine-Phe-Arg 4-nitroanilide	*

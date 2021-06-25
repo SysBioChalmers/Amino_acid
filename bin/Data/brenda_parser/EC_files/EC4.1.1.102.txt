@@ -1,0 +1,9 @@
+KCAT	Enterobacter sp.	0.02	ferulate	*mutant W25A, pH 4.0, 28&deg;C
+KCAT	Streptomyces cattleya	0.19	4-hydroxycinnamic acid	*pH 5, 30&deg;C
+KCAT	Streptomyces sviceus	0.96	4-hydroxycinnamic acid	*pH 5, 30&deg;C
+KCAT	Enterobacter sp.	0.99	ferulate	*mutant E134A, pH 4.0, 28&deg;C
+KCAT	Saccharomyces cerevisiae	1.5	ferulate	*pH 7.0, 25&deg;C
+KCAT	Enterobacter sp.	2.15	ferulate	*wild-type, pH 4.0, 28&deg;C
+KCAT	Saccharomyces cerevisiae	3.8	trans-cinnamate	*pH 7.0, 25&deg;C
+KCAT	Saccharomyces cerevisiae	4.6	4-coumarate	*pH 7.0, 25&deg;C
+KCAT	Streptomyces hygroscopicus	14.1	4-hydroxycinnamic acid	*pH 5, 30&deg;C

@@ -1,0 +1,1 @@
+ecNumber*4.4.1.32#turnoverNumber*0.025#turnoverNumberMaximum*#substrate*(2R,3E)-phycocyanobilin#commentary*pH 8.0, 37&Acirc;&deg;C#organism*Synechococcus elongatus#ligandStructureId*196126#literature*732023#

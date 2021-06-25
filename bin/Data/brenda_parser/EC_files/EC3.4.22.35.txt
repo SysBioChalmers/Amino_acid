@@ -1,0 +1,2 @@
+KCAT	Entamoeba histolytica	0.4	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	*
+KCAT	Entamoeba histolytica	130	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*

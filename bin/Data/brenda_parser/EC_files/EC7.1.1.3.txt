@@ -1,0 +1,2 @@
+KCAT	Escherichia coli	300	ubiquinol-1	*in 60 mM Tris-HCl (pH 7.5), at 25&Acirc;&deg;C
+KCAT	Escherichia coli	341	ubiquinol-1	*in 60 mM Tris-HCl (pH 7.5), at 25&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*3.1.31.1#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Staphylococcus aureus#ligandStructureId*#literature*135028#

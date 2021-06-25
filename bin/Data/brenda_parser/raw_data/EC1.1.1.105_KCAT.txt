@@ -1,0 +1,1 @@
+ecNumber*1.1.1.105#turnoverNumber*0.02#turnoverNumberMaximum*#substrate*all-trans-retinol#commentary*37&deg;C#organism*Homo sapiens#ligandStructureId*847#literature*667537#!ecNumber*1.1.1.105#turnoverNumber*0.028#turnoverNumberMaximum*#substrate*all-trans-retinal#commentary*at pH 6.5 and 60&deg;C#organism*Kangiella koreensis#ligandStructureId*778#literature*737923#

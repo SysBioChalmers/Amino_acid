@@ -1,0 +1,1 @@
+ecNumber*2.1.1.323#turnoverNumber*0.72#turnoverNumberMaximum*#substrate*(-)-pluviatolide#commentary*pH and temperature not specified in the publication#organism*Sinopodophyllum hexandrum#ligandStructureId*208944#literature*737265#

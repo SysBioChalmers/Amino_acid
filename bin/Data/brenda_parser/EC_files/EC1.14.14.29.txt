@@ -1,0 +1,2 @@
+KCAT	Sus scrofa	0.0166	5alpha-Androstane-3beta,17beta-diol	*
+KCAT	Sus scrofa	0.033	dehydroepiandrosterone	*

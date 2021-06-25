@@ -1,0 +1,6 @@
+KCAT	Clostridium perfringens	0.69	4-nitrophenyl-N-acetyl-alpha-D-glucosaminide	*wild-type, pH 7.4, 37&Acirc;&deg;C
+KCAT	Clostridium perfringens	0.74	4-nitrophenyl-N-acetyl-alpha-D-glucosaminide	*C-terminal deletion mutant, pH 7.4, 37&Acirc;&deg;C
+KCAT	Clostridium perfringens	1.24	N-acetyl-alpha-D-Gluc-1,4-(1-methoxyphenyl)Gal	*wild-type, pH 7.4, 37&Acirc;&deg;C
+KCAT	Clostridium perfringens	6.19	N-acetyl-alpha-D-Gluc-1,4-(1-methoxyphenyl)Gal	*C-terminal deletion mutant, pH 7.4, 37&Acirc;&deg;C
+KCAT	Clostridium perfringens	8.5	2,4-dinitrophenyl-alpha-N-acetyl-D-glucosaminide	*pH 7.3
+KCAT	Clostridium perfringens	0.26	4-nitrophenyl N-acetyl-alpha-D-glucosaminopyranoside	*pH 7.3

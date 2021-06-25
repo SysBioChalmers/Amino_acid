@@ -1,0 +1,5 @@
+KCAT	Aspergillus niger	0.19	RGFFHTPRA	*pH 1.8, 37&deg;C
+KCAT	Aspergillus niger	0.26	RGFMTPRA	*pH 1.8, 37&deg;C
+KCAT	Aspergillus niger	0.48	RGFFTPRA	*pH 1.8, 37&deg;C
+KCAT	Aspergillus niger	0.54	RGFFYTPRA	*pH 1.8, 37&deg;C
+KCAT	Aspergillus niger	6.08	RGFFYTPRA	*pH 1.8, 37&deg;C

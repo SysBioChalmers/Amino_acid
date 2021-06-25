@@ -1,0 +1,29 @@
+KCAT	Rhizopus sp.	0.77	KPIDF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	5	KPIDF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	6.08	KPIDF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	6	KPIEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	41	KPIEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	3	KPISF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	4	KPISF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	9	KPALF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	13	KPALF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	3	KPIAF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	17	KPIAF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	0.23	KPILF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	3	KPILF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	5	KAIEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	46	KAIEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	6	KPSEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	7	KPSEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	5	KLIEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	38	KLIEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	21	KPAEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	22	KPAEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	1.8	KSIEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	13	KSIEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	3	KPDEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, chimeric enzyme
+KCAT	Rhizopus sp.	8	KPDEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	7	KPLEF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C, wild-type and chimeric enzyme
+KCAT	Rhizopus sp.	55	KPVSY(NO2)FRL	*pH 7.4, 37&Acirc;&deg;C
+KCAT	Rhizopus sp.	18	KPREF p-nitrophenylalanine-RL	*pH 3.0, 37&Acirc;&deg;C
+KCAT	Rhizopus microsporus var. chinensis	55	KPVSY(4-NO2-F)RL	*

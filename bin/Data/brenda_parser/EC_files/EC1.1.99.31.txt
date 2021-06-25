@@ -1,0 +1,121 @@
+KCAT	Pseudomonas putida	0.03	2-Hydroxyisovalerate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	0.03	O2	*pH 7.5, 20&deg;C, mutant enzyme MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with 205 residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	0.03	(R,S)-p-chloromandelate	*mutant enzyme H274G, in presence of 20 mM imidazole
+KCAT	Pseudomonas putida	0.04	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R165G/R277K
+KCAT	Pseudomonas putida	0.05	O2	*pH 7.5, 20&deg;C, mutant enzyme G81D
+KCAT	Pseudomonas putida	0.05	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme G81V
+KCAT	Pseudomonas putida	0.07	O2	*pH 7.5, 20&deg;C, mutant enzyme G81V
+KCAT	Pseudomonas putida	0.09	(S)-Mandelate	*mutant enzyme H274G, in presence of 20 mM imidazole
+KCAT	Pseudomonas putida	0.1	2-Hydroxybutyrate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	0.1	2-Hydroxybutyrate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	0.11	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme G81D
+KCAT	Pseudomonas putida	0.15	3-Phenyllactate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	0.19	2-hydroxyhexanoate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	0.22	O2	*pH 7.5, 20&deg;C, mutant enzyme, G81A/MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach and a G81A mutation in MDH
+KCAT	Pseudomonas putida	0.23	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R277G
+KCAT	Pseudomonas putida	0.23	(S)-Mandelate	*mutant enzyme R277G, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Pseudomonas putida	0.26	2-Hydroxyoctanoate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	0.27	2-hydroxyvalerate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	0.27	3-indolelactate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	0.27	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R277L
+KCAT	Pseudomonas putida	0.3	2-Hydroxyoctanoate	*mutant G81A
+KCAT	Pseudomonas putida	0.3	3-indolelactate	*mutant G81A
+KCAT	Pseudomonas putida	0.3	ethyl-(S)-mandelate	*mutant enzyme R277G, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Pseudomonas putida	0.34	2-hydroxyhexanoate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	0.36	2-hydroxyvalerate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	0.37	2-Hydroxybutyrate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	0.42	2-Hydroxyoctanoate	*mutant G81A of chimera MDH-GOX2
+KCAT	Pseudomonas putida	0.48	2-hydroxyhexanoate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	0.48	2-hydroxyisocaproate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	0.5	2-Hydroxy-3-butenoate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	0.5	2-Hydroxyoctanoate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	0.5	2-Hydroxyoctanoate	*wild-type enzyme
+KCAT	Pseudomonas putida	0.5	2-hydroxyvalerate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	0.52	3-Phenyllactate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	0.61	O2	*pH 7.5, 20&deg;C, mutant enzyme G81S
+KCAT	Pseudomonas putida	0.64	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R277G
+KCAT	Pseudomonas putida	0.8	2-hydroxyisocaproate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	0.87	3-Phenyllactate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	0.96	2-Hydroxyoctanoate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	1	2-Hydroxyoctanoate	*chimera MDH-GOX2
+KCAT	Pseudomonas putida	1	3-indolelactate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	1	3-indolelactate	*wild-type enzyme
+KCAT	Pseudomonas putida	1.1	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R165K/R277K
+KCAT	Pseudomonas putida	1.2	indoleglycolate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	1.2	O2	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	1.28	2-hydroxyisocaproate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	1.4	3-indolelactate	*mutant G81A of chimera MDH-GOX2
+KCAT	Pseudomonas putida	1.52	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R277H
+KCAT	Pseudomonas putida	1.6	(S)-Mandelate	*pH 7.5, chimeric mutant of (S)-mandelate dehydrogenase with membrane anchoring loop replaced by a portion of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	2.3	Mandelate	*mutant G81A of chimera MDH-GOX2
+KCAT	Pseudomonas putida	2.3	methyl-(S)-mandelate	*mutant enzyme R277K, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Pseudomonas putida	2.3	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme, G81A/MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach and a G81A mutation in MDH
+KCAT	Pseudomonas putida	2.5	methyl-(S)-mandelate	*mutant enzyme R277G, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Pseudomonas putida	2.6	ethyl-(S)-mandelate	*mutant enzyme R277K, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Pseudomonas putida	2.8	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme G81S
+KCAT	Rhodotorula graminis	3	(S)-Mandelate	*pH 7.5, 25&deg;C, electron acceptor: 2,6-dichloroindophenol
+KCAT	Pseudomonas putida	3.13	3-indolelactate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	3.4	O2	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	3.85	3-indolelactate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	3.9	2-Hydroxy-3-butynoate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	3.9	3-indolelactate	*chimera MDH-GOX2
+KCAT	Pseudomonas putida	4.4	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R165E
+KCAT	Pseudomonas putida	6.6	2-Hydroxy-3-butynoate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	9	(S)-Mandelate	*pH 7.5, (S)-mandelate dehydrogenase with residues 2-4 deleted
+KCAT	Pseudomonas putida	9.3	4-chloromandelate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	13.2	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R165G
+KCAT	Pseudomonas putida	14.8	2-Hydroxy-3-butynoate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	15.2	Mandelate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	15.2	Mandelate	*mutant G81A
+KCAT	Pseudomonas putida	18.4	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R165M
+KCAT	Pseudomonas putida	19.2	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme G81A
+KCAT	Pseudomonas putida	24	(S)-Mandelate	*pH 7.5, (S)-mandelate dehydrogenase with 17 residues deleted at the carboxy terminus
+KCAT	Pseudomonas putida	38.5	indoleglycolate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Rhodotorula graminis	49	(S)-Mandelate	*pH 7.5, 25&deg;C, electron acceptor: cytochrome c
+KCAT	Pseudomonas putida	66	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R277K
+KCAT	Pseudomonas putida	66	(S)-Mandelate	*mutant enzyme R277K, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Rhodotorula graminis	68	3-methoxy-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Rhodotorula graminis	68	4-chloro-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Pseudomonas putida	73	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R277K
+KCAT	Rhodotorula graminis	80	4-methyl-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Rhodotorula graminis	88	DL-[2-2H]-mandelate	*pH 7.5, 25&deg;C, cosubstrate ferricyanide, LMDH holoenzyme
+KCAT	Rhodotorula graminis	92	DL-[2-2H]-mandelate	*pH 7.5, 25&deg;C, cosubstrate cytochrome, LMDH holoenzyme
+KCAT	Rhodotorula graminis	93	DL-[2-2H]-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Rhodotorula graminis	94	D,L-Mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanid
+KCAT	Rhodotorula graminis	98	4-fluoro-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Rhodotorula graminis	99	DL-[2-2H]-mandelate	*pH 7.5, 25&deg;C, cosubstrate ferricyanide, L-MDH flavin domain
+KCAT	Rhodotorula graminis	106	4-methoxy-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Rhodotorula graminis	108	3-hydroxy-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Rhodotorula graminis	108	4-bromo-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Rhodotorula graminis	109	(S)-Mandelate	*pH 7.5, 25&deg;C, electron acceptor: ferricyanide
+KCAT	Rhodotorula graminis	114	L-Mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Rhodotorula graminis	116	4-chloro-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Pseudomonas putida	120	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme R165K
+KCAT	Pseudomonas putida	122	indoleglycolate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	134	(S)-Mandelate	*pH 7.5, 4&deg;C
+KCAT	Rhodotorula graminis	146	4-hydroxy-DL-mandelate	*pH 7.5, 25&deg;C, cosubstrate: ferricyanide
+KCAT	Pseudomonas putida	151	methyl-(S)-mandelate	*wild type enzyme, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Rhodotorula graminis	155	DL-[2-1H]-mandelate	*pH 7.5, 25&deg;C, cosubstrate cytochrome c, LMDH holoenzyme
+KCAT	Pseudomonas putida	174	(S)-Mandelate	*pH 7.5, wild-type enzyme
+KCAT	Pseudomonas putida	195	Mandelate	*pH 7.5, 20&deg;C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	201	(S)-3-phenyllactate	*pH 7.5, 20&deg;C, mutant enzyme R277G
+KCAT	Pseudomonas putida	204	ethyl-(S)-mandelate	*wild type enzyme, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Pseudomonas putida	205	Mandelate	*chimera MDH-GOX2
+KCAT	Pseudomonas putida	205	(S)-Mandelate	*pH 7.5, 20&deg;C, cosubstrate: 2,6-dichloroindophenol, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Pseudomonas putida	205	(S)-Mandelate	*pH 7.5, 20&deg;C, mutant enzyme MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with 205 residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+KCAT	Rhodotorula graminis	225	cytochrome c	*pH 7.5, 25&deg;C
+KCAT	Pseudomonas putida	270	(S)-3-phenyllactate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	270	(S)-Mandelate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	290	(S)-Mandelate	*pH 7.5, 20&deg;C, cosubstrate: 2,6-dichloroindophenol, wild-type enzyme
+KCAT	Rhodotorula graminis	300	DL-[2-1H]-mandelate	*pH 7.5, 25&deg;C, cosubstrate ferricyanide, LMDH holoenzyme
+KCAT	Pseudomonas putida	313	2-oxo-2-phenylacetate	*
+KCAT	Rhodotorula graminis	316	DL-[2-1H]-mandelate	*pH 7.5, 25&deg;C, cosubstrate ferricyanide, L-MDH flavin domain
+KCAT	Pseudomonas putida	334	4-chloromandelate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	350	Mandelate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	350	Mandelate	*wild-type enzyme
+KCAT	Pseudomonas putida	360	(S)-Mandelate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	360	(S)-Mandelate	*pH 7.5, 20&deg;C
+KCAT	Pseudomonas putida	360	(S)-Mandelate	*pH 7.5, 20&deg;C, wild-type enzyme
+KCAT	Pseudomonas putida	360	(S)-Mandelate	*wild type enzyme, at 20&deg;C, in 0.1 M potassium phosphate, pH 7.5
+KCAT	Pseudomonas putida	402	(S)-Mandelate	*
+KCAT	Rhodotorula graminis	550	ferricyanide	*pH 7.5, 25&deg;C

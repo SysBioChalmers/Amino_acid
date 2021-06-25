@@ -1,0 +1,1 @@
+ecNumber*1.1.99.B6#turnoverNumber*1.3#turnoverNumberMaximum*#substrate*phosphonoacetaldehyde#commentary*in 50 mM HEPES, 200 mM NaCl, pH 7.5, temperature not specified in the publication#organism*Streptomyces wedmorensis#ligandStructureId*1309#literature*712363#

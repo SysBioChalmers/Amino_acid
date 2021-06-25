@@ -1,0 +1,28 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Escherichia coli	0.007	methylenetetrahydrofolate	*recombinant mutant D120N, pH 7.2, 4&deg;C
+KCAT	Escherichia coli	0.011	methylenetetrahydrofolate	*recombinant mutant D120K, pH 7.2, 4&deg;C
+KCAT	Escherichia coli	0.017	methylenetetrahydrofolate	*recombinant mutant D120V, pH 7.2, 4&deg;C
+KCAT	Escherichia coli	0.02	methylenetetrahydrofolate	*recombinant mutant D120S, pH 7.2, 4&deg;C
+KCAT	Escherichia coli	0.022	methylenetetrahydrofolate	*recombinant mutant D120A, pH 7.2, 4&deg;C
+KCAT	Mus musculus	1.1	NADP+	*pH 8.0, 30&deg;C
+KCAT	Mus musculus	1.3	5,10-methylenetetrahydropteroylpoly-L-glutamate	*pH 8.0, 30&deg;C, monoglutamylated substrate, with NADP+
+KCAT	Escherichia coli	2.2	methylenetetrahydrofolate	*recombinant wild-type enzyme, pH 7.2, 4&deg;C
+KCAT	Mus musculus	2.7	5,10-methylenetetrahydropteroylpoly-L-glutamate	*pH 8.0, 30&deg;C, monoglutamylated substrate, with NAD+
+KCAT	Mus musculus	3.6	NAD+	*pH 8.0, 30&deg;C
+KCAT	Mus musculus	7.2	5,10-methylenetetrahydropteroylpoly-L-glutamate	*pH 8.0, 30&deg;C, polyglutamylated substrate, with NADP+
+KCAT	Mus musculus	8.8	5,10-methylenetetrahydropteroylpoly-L-glutamate	*pH 8.0, 30&deg;C, polyglutamylated substrate, with NAD+
+KCAT	Escherichia coli	10.4	NADH	*cosubstrate 5,10-methylenetetrahydrofolate, wild-type, pH 7.2, 25&deg;C
+KCAT	Escherichia coli	14	NADH	*cosubstrate 5,10-methylenetetrahydrofolate, mutant F223L, pH 7.2, 25&deg;C
+KCAT	Escherichia coli	21.9	NADH	*cosubstrate 5,10-methylenetetrahydrofolate, mutant F223A, pH 7.2, 25&deg;C
+KCAT	Escherichia coli	22	NADH	*cosubstrate menadione, mutant F223A, pH 7.2, 25&deg;C
+KCAT	Escherichia coli	23.5	NADH	*
+KCAT	Sus scrofa	26.7	NADPH	*
+KCAT	Escherichia coli	31	NADH	*cosubstrate menadione, mutant F223L, pH 7.2, 25&deg;C
+KCAT	Sus scrofa	50	methylenetetrahydrofolate	*
+KCAT	Leishmania major	52	NADH	*phosphate buffer
+KCAT	Escherichia coli	55	NADH	*cosubstrate menadione, wild-type, pH 7.2, 25&deg;C
+KCAT	Leishmania major	74	NADPH	*phosphate buffer
+KCAT	Leishmania major	87	NADH	*Tris buffer
+KCAT	Leishmania major	140	NADPH	*Tris buffer
+KCAT	Sus scrofa	160	NADH	*
+KCAT	Sus scrofa	160	NADPH	*

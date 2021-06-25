@@ -1,0 +1,2 @@
+KCAT	Bacillus subtilis	164.6	sucrose	*at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	9.3	low molecular weight levan	*at pH 6.0 and 25&Acirc;&deg;C

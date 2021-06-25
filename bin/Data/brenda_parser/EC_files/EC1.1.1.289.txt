@@ -1,0 +1,2 @@
+KCAT	Candida albicans	154	D-fructose	*pH 7.5, 25&Acirc;&deg;C, positive cooperativity
+KCAT	Candida albicans	782	L-sorbose	*pH 7.5, 25&Acirc;&deg;C, Michaelis-Menten kinetics

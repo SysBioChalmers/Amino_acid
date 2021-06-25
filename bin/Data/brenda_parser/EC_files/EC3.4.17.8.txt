@@ -1,0 +1,4 @@
+KCAT	Pseudomonas aeruginosa	0.31	methyl N-acetylmuramate-L-Ala-gamma-D-Glu-meso-diaminopimelate-D-Ala-D-Ala	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Pseudomonas aeruginosa	0.59	Nalpha,Nepsilon-Diacetyl-L-Lys-D-Ala-D-Ala	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Enterococcus gallinarum	6.2	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-L-lysyl-D-alanyl-D-alanine	*wild-type, pH 7.5, 37&deg;C
+KCAT	Enterococcus gallinarum	23	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-L-lysyl-D-alanyl-D-alanine	*mutant D59S, pH 7.5, 37&deg;C

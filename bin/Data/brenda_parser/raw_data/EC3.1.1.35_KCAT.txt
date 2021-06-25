@@ -1,0 +1,1 @@
+ecNumber*3.1.1.35#turnoverNumber*1670#turnoverNumberMaximum*#substrate*dihydrocoumarin#commentary*#organism*Melilotus albus#ligandStructureId*3630#literature*94343#

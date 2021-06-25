@@ -1,0 +1,6 @@
+KCAT	Bacillus megaterium	0.7	plasminogen	*pH 7.4, 25&deg;C
+KCAT	Bacillus subtilis	64	3-(2-furylacryloyl)-L-alanyl-L-phenylalanine amide	*pH 7.5, 37&deg;C, wild-type
+KCAT	Bacillus subtilis	80	3-(2-furylacryloyl)-glycyl-L-leucine amide	*pH 7.5, 37&deg;C, mutant I157D
+KCAT	Bacillus subtilis	99	3-(2-furylacryloyl)-L-alanyl-L-phenylalanine amide	*pH 7.5, 37&deg;C, mutant I157D
+KCAT	Bacillus subtilis	256	3-(2-furylacryloyl)-glycyl-L-leucine amide	*pH 7.5, 37&deg;C, wild-type
+KCAT	Bacillus intermedius	1210	azocasein	*recombinant wild-type enzyme, pH 8.0, 37&deg;C

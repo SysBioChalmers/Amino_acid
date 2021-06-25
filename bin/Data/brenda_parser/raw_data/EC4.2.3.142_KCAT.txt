@@ -1,0 +1,1 @@
+ecNumber*4.2.3.142#turnoverNumber*0.29#turnoverNumberMaximum*#substrate*(2Z,6Z)-farnesyl diphosphate#commentary*pH not specified in the publication, temperature not specified in the publication#organism*Solanum habrochaites#ligandStructureId*4402#literature*720937#

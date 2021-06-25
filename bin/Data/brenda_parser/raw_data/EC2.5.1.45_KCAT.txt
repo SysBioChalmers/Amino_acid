@@ -1,0 +1,1 @@
+ecNumber*2.5.1.45#turnoverNumber*0.0032#turnoverNumberMaximum*#substrate*putrescine#commentary*+ spermidine#organism*Senecio vernalis#ligandStructureId*155#literature*638080#

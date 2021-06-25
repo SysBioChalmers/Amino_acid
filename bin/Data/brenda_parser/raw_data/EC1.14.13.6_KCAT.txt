@@ -1,0 +1,1 @@
+ecNumber*1.14.13.6#turnoverNumber*26#turnoverNumberMaximum*#substrate*orcinol#commentary*crystalline enzyme#organism*Pseudomonas putida#ligandStructureId*5196#literature*438809#

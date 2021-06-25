@@ -1,0 +1,3 @@
+KCAT	Escherichia coli	0.08	L-2-hydroxyglutarate	*
+KCAT	Escherichia coli	0.08	L-2-hydroxyglutarate	*at pH 7.0 and 25&deg;C
+KCAT	Arabidopsis thaliana	613	L-2-hydroxyglutarate	*at pH 7.4 and 30&deg;C

@@ -1,0 +1,9 @@
+KCAT	Helianthus tuberosus	-999	more	*
+KCAT	Helianthus tuberosus	0.000233	chlorotoluron	*
+KCAT	Helianthus tuberosus	0.0567	7-ethoxycoumarin	*
+KCAT	Helianthus tuberosus	0.19	7-methoxycoumarin	*
+KCAT	Arabidopsis thaliana	1.72	trans-cinnamate	*30&deg;C
+KCAT	Helianthus tuberosus	2.37	p-chloro-N-methylaniline	*
+KCAT	Helianthus tuberosus	4.95	trans-cinnamate	*
+KCAT	Helianthus tuberosus	129.1	trans-cinnamate	*pH 7.4
+KCAT	Ruta graveolens	161.8	trans-cinnamate	*pH 7.4

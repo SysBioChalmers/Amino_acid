@@ -1,0 +1,2 @@
+KCAT	Mycobacterium sp.	4.5	cytochrome c	*pH 8.5, 30&deg;C
+KCAT	Mycobacterium sp.	60.2	ferricyanide	*pH 8.5, 30&deg;C

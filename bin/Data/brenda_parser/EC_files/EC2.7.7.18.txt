@@ -1,0 +1,11 @@
+KCAT	Mycobacterium tuberculosis	0.002	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant W117A
+KCAT	Mycobacterium tuberculosis	0.015	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant L164Q
+KCAT	Mycobacterium tuberculosis	0.02	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant K47A
+KCAT	Mycobacterium tuberculosis	0.03	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant W117F
+KCAT	Mycobacterium tuberculosis	0.13	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant L164A
+KCAT	Mycobacterium tuberculosis	0.2	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant T86A
+KCAT	Mycobacterium tuberculosis	0.22	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant T12A
+KCAT	Mycobacterium tuberculosis	0.36	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant P44A
+KCAT	Mycobacterium tuberculosis	0.37	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant W45A
+KCAT	Mycobacterium tuberculosis	4.7	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant Q46A
+KCAT	Mycobacterium tuberculosis	5.5	nicotinate beta-D-ribonucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme

@@ -1,0 +1,5 @@
+KCAT	Mycobacterium tuberculosis	0.13	cytidine	*mutant E47D, pH 7.5, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.26	cytidine	*mutant E47Q, pH 7.5, 25&deg;C
+KCAT	Mycobacterium tuberculosis	3.5	2'-deoxycytidine	*in 50 mM Tris-HCl buffer pH 7.5 at 25&deg;C
+KCAT	Mycobacterium tuberculosis	4.8	cytidine	*in 50 mM Tris-HCl buffer pH 7.5 at 25&deg;C
+KCAT	Mycobacterium tuberculosis	4.85	cytidine	*wild-type, pH 7.5, 25&deg;C

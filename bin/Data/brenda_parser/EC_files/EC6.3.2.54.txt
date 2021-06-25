@@ -1,0 +1,1 @@
+KCAT	Staphylococcus aureus	0.268	citrate	*pH 7.4, temperature not specified in the publication

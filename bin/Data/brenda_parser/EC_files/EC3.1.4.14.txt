@@ -1,0 +1,2 @@
+KCAT	Pseudomonas aeruginosa	0.004	2',3'-cAMP	*
+KCAT	Pseudomonas aeruginosa	0.21	bis-4-nitrophenyl phosphate	*

@@ -1,0 +1,5 @@
+KCAT	Mycobacterium tuberculosis	0.012	UDP-glucose	*mutant T187A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.38	UDP-glucose	*mutant R261A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.75	UDP-glucose	*mutant H258A, pH 7.8, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.82	UDP-glucose	*wild-type, pH 7.8, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.83	UDP-glucose	*mutant E232A, pH 7.8, 25&Acirc;&deg;C

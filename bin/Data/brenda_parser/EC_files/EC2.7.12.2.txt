@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	0.085	ATP	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.074	K52R-[ERK2]	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.152	K53M-[p38alpha]	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.243	p38alpha	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.503	ERK2	*pH 7.0, 25&Acirc;&deg;C

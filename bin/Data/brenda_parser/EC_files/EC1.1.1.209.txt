@@ -1,0 +1,58 @@
+KCAT	Homo sapiens	0.000367	androsterone	*
+KCAT	Homo sapiens	0.0009	testosterone	*
+KCAT	Mus musculus	0.00167	5alpha-androstan-3beta,17beta-diol	*mutant Y224D, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.00217	5alpha-androstan-3beta,17beta-diol	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.0025	5alpha-androstan-17beta-ol-3-one	*mutant Y224D, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.0027	5alpha-androstan-17beta-ol-3-one	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Homo sapiens	0.003	5alpha-dihydrotestosterone	*
+KCAT	Mus musculus	0.00367	5beta-pregnane-3alpha,20alpha-diol	*mutant Y224D, pH 7.0, 25&deg;C
+KCAT	Homo sapiens	0.00617	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	*
+KCAT	Mus musculus	0.0073	lithocholic acid	*mutant Y224D, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.0217	4-androstene-3,17-dione	*mutant Y224D, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.0217	5alpha-Androstan-3alpha-ol-17-one	*mutant Y224D, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.0367	5alpha-androstan-17beta-ol-3-one	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.04	testosterone	*mutant G225P/G226P
+KCAT	Mus musculus	0.047	lithocholic acid	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.055	5beta-androstan-17alpha-ol-3-one	*mutant G225P/G226P
+KCAT	Mus musculus	0.065	5alpha-androstan-3beta,17beta-diol	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.073	5alpha-Androstan-3alpha-ol-17-one	*wild-type
+KCAT	Mus musculus	0.073	5alpha-Androstan-3alpha-ol-17-one	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.081	lithocholic acid	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.105	5alpha-pregnane-3alpha,20alpha-diol	*wild-type
+KCAT	Mus musculus	0.105	lithocholic acid	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.127	5alpha-Androstan-3alpha-ol-17-one	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.1367	4-androstene-3,17-dione	*mutant G225P/G226P
+KCAT	Mus musculus	0.14	5beta-androstan-17alpha-ol-3-one	*wild-type
+KCAT	Mus musculus	0.145	5alpha-Androstan-17alpha-ol-3-one	*mutant G225P/G226P
+KCAT	Mus musculus	0.15	5alpha-pregnane-3alpha,20alpha-diol	*mutant G225P/G226P
+KCAT	Mus musculus	0.167	4-androstene-3,17-dione	*wild-type
+KCAT	Mus musculus	0.167	4-androstene-3,17-dione	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.167	5alpha-Androstan-17alpha-ol-3-one	*wild-type
+KCAT	Mus musculus	0.167	5alpha-Androstan-17alpha-ol-3-one	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.167	5alpha-androstan-17beta-ol-3-one	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.167	5alpha-androstan-3beta,17beta-diol	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.183	5beta-pregnane-3alpha,20alpha-diol	*mutant G225P/G226P
+KCAT	Mus musculus	0.2167	5alpha-Androstan-3alpha-ol-17-one	*mutant G225P/G226P
+KCAT	Mus musculus	0.2167	5beta-pregnane-3alpha,20alpha-diol	*wild-type
+KCAT	Mus musculus	0.217	5beta-pregnane-3alpha,20alpha-diol	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.23	Epitestosterone	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.233	5alpha-Androstan-3alpha-ol-17-one	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.25	5beta-pregnane-3alpha,20alpha-diol	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.25	Epitestosterone	*mutant G225P/G226P
+KCAT	Mus musculus	0.283	5alpha-Androstan-17alpha-ol-3-one	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.3	Epitestosterone	*wild-type
+KCAT	Mus musculus	0.3	Epitestosterone	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.317	4-androstene-3,17-dione	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.35	5beta-pregnane-3,20-dione	*mutant Y224D, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.383	5alpha-androstan-17beta-ol-3-one	*mutant G225P/G226P
+KCAT	Mus musculus	0.383	5beta-pregnane-20alpha-ol-3-one	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.4	5beta-pregnane-3,20-dione	*wild-type, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.4	5beta-pregnane-3alpha,20alpha-diol	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.57	Epitestosterone	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.617	4-androstene-3,17-dione	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	0.867	5alpha-Androstan-17alpha-ol-3-one	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	1.25	5beta-pregnane-20alpha-ol-3-one	*mutant Y224D, pH 7.0, 25&deg;C
+KCAT	Mus musculus	2.83	5beta-pregnane-20alpha-ol-3-one	*mutant Q222N, pH 7.0, 25&deg;C
+KCAT	Mus musculus	4	5beta-pregnane-3,20-dione	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	4.83	5beta-pregnane-20alpha-ol-3-one	*mutant Y224F, pH 7.0, 25&deg;C
+KCAT	Mus musculus	4.83	5beta-pregnane-3,20-dione	*mutant Q222N, pH 7.0, 25&deg;C

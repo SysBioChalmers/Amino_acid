@@ -1,0 +1,23 @@
+KCAT	Paenarthrobacter nicotinovorans	1.5	NAD+	*28&Acirc;&deg;C, pH 7.8
+KCAT	Paenarthrobacter nicotinovorans	10.5	NADP+	*28&Acirc;&deg;C, pH 7.8
+KCAT	Trichoderma reesei	5.7	D-glucose	*pH 8.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Sus scrofa	16	D-glucose	*
+KCAT	Haloarcula marismortui	273	D-glucose	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Sus scrofa	12	D-galactose	*
+KCAT	Macaca fascicularis	0.4	D-xylose	*oxidation reaction of mutant R37D, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+KCAT	Macaca fascicularis	0.45	D-xylose	*oxidation reaction of mutant A36D, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+KCAT	Macaca fascicularis	0.5	D-xylose	*oxidation reaction of mutant H76Q, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+KCAT	Macaca fascicularis	0.9	D-xylose	*oxidation reaction of mutant H79Q, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+KCAT	Macaca fascicularis	1	D-xylose	*oxidation reaction of mutant R41D, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+KCAT	Macaca fascicularis	1.2	D-xylose	*oxidation reaction of mutant R37A, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+KCAT	Macaca fascicularis	1.7	D-xylose	*oxidation reaction of mutant R41A, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+KCAT	Macaca fascicularis	2.6	D-xylose	*oxidation reaction of wild type enzyme, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+KCAT	Paenarthrobacter nicotinovorans	14.9	D-xylose	*28&Acirc;&deg;C, pH 7.8, with NADP+ as cofactor
+KCAT	Trichoderma reesei	21.8	D-xylose	*pH 8.1, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Sus scrofa	58	D-xylose	*
+KCAT	Haloarcula marismortui	356	D-xylose	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Sus scrofa	45	L-arabinose	*
+KCAT	Sus scrofa	40	D-ribose	*
+KCAT	Haloarcula marismortui	360	D-ribose	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Sus scrofa	22	2-deoxy-D-glucose	*
+KCAT	Sus scrofa	9	D-arabinose	*

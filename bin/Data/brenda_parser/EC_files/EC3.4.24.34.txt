@@ -1,0 +1,21 @@
+KCAT	Homo sapiens	0.000233	human collagen type III	*37&deg;C
+KCAT	Homo sapiens	0.00065	human collagen type II	*37&deg;C
+KCAT	Homo sapiens	0.00161	guinea pig collagen type I	*37&deg;C
+KCAT	Homo sapiens	0.00178	human collagen type I	*37&deg;C
+KCAT	Homo sapiens	0.0109	bovine collagen I	*pH 7.0, 37&deg;C, 4-protonated and 5-protonated substrate
+KCAT	Homo sapiens	0.47	bovine collagen I	*pH 7.0, 37&deg;C, unprotonated and 1-protonated substrate
+KCAT	Homo sapiens	4.75	bovine collagen I	*pH 7.4, 37&deg;C
+KCAT	Homo sapiens	15	bovine collagen I	*pH 7.0, 37&deg;C, 2-protonated substrate
+KCAT	Homo sapiens	145	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-diaminopropionyl-Ala-Arg-NH2	*pH 5.0-8.0, 37&deg;C, 4-protonated substrate
+KCAT	Homo sapiens	148	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-DIAMIONOPROPIONYL-Ala-Arg-NH2	*pH 7.0, 37&deg;C, 5-protonated substrate
+KCAT	Homo sapiens	164	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-diaminopropionyl-Ala-Arg-NH2	*pH 5.0-8.0, 37&deg;C, unprotonated substrate
+KCAT	Homo sapiens	164	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-DIAMIONOPROPIONYL-Ala-Arg-NH2	*pH 7.0, 37&deg;C, unprotonated, 1-protonated and 2-protonated substrate
+KCAT	Homo sapiens	180	(7-methoxycoumarin-4-yl)acetyl-Pro-cyclohexylalanine-Gly-norvaline-His-Ala-Arg-NH2	*pH 7.0, 37&deg;C, 5-protonated substrate
+KCAT	Homo sapiens	246	(7-methoxycoumarin-4-yl)acetyl-Pro-cyclohexylalanine-Gly-norvaline-His-Ala-Arg-NH2	*pH 7.0, 37&deg;C, unprotonated, 1-protonated and 2-protonated substrate
+KCAT	Homo sapiens	250	(7-methoxycoumarin-4-yl)acetyl-Pro-cyclohexylalanine-Gly-norvaline-His-Ala-Arg-NH2	*pH 7.0, 37&deg;C, 3-protonated substrate
+KCAT	Homo sapiens	324	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-DIAMIONOPROPIONYL-Ala-Arg-NH2	*pH 7.0, 37&deg;C, 3-protonated substrate
+KCAT	Homo sapiens	342	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-diaminopropionyl-Ala-Arg-NH2	*pH 5.0-8.0, 37&deg;C, 2-protonated substrate
+KCAT	Homo sapiens	522	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-diaminopropionyl-Ala-Arg-NH2	*pH 5.0-8.0, 37&deg;C, 3-protonated substrate
+KCAT	Homo sapiens	562	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-DIAMIONOPROPIONYL-Ala-Arg-NH2	*pH 7.0, 37&deg;C, 4-protonated substrate
+KCAT	Homo sapiens	570	(7-methoxycoumarin-4-yl)acetyl-Pro-cyclohexylalanine-Gly-norvaline-His-Ala-Arg-NH2	*pH 7.0, 37&deg;C, 4-protonated substrate
+KCAT	Homo sapiens	1120	bovine collagen I	*pH 7.0, 37&deg;C, 3-protonated substrate

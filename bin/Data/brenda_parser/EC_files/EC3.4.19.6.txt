@@ -1,0 +1,2 @@
+KCAT	Sus scrofa	0.6	5-oxoprolyl 2-naphthylamide	*
+KCAT	Sus scrofa	38.3	thyrotropin-releasing hormone	*

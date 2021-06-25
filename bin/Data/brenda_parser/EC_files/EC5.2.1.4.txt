@@ -1,0 +1,9 @@
+KCAT	Ralstonia sp.	0.54	maleylpyruvate	*mutant enzyme R109A, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Ralstonia sp.	1.06	maleylpyruvate	*mutant enzyme R8A/R176A, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Ralstonia sp.	11.11	maleylpyruvate	*mutant enzyme H104A, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Ralstonia sp.	13.45	maleylpyruvate	*mutant enzyme Q49A, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Ralstonia sp.	22.59	maleylpyruvate	*mutant enzyme R8A, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Ralstonia sp.	31.47	maleylpyruvate	*mutant enzyme N108A, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Ralstonia sp.	51.45	maleylpyruvate	*mutant enzyme R176A, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Ralstonia sp.	101.3	maleylpyruvate	*wild type enzyme, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C
+KCAT	Ralstonia sp.	120.9	maleylpyruvate	*mutant enzyme T11A, in 50 mM phosphate buffer, pH 8.0, at 22&Acirc;&deg;C

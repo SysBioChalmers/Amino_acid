@@ -1,0 +1,1 @@
+ecNumber*2.1.1.236#turnoverNumber*0.61#turnoverNumberMaximum*#substrate*dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose#commentary*pH and temperature not specified in the publication#organism*Streptomyces fradiae#ligandStructureId*10341#literature*735676#

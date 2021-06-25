@@ -1,0 +1,77 @@
+KCAT	Homo sapiens	0.003	7-methoxycoumarin-4-acetic acid-DRGETGP-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.003	7-methoxycoumarin-4-acetic acid-DSGETGP-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.01	Lys-Ala-7-amido-4-trifluoromethylcoumarin	*at 23&deg;C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+KCAT	Homo sapiens	0.015	7-methoxycoumarin-4-acetic acid-APGSKGDA-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.03	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657D, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.05	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E203A/E204A, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.059	7-methoxycoumarin-4-acetic acid-DSGETGPA-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.067	7-methoxycoumarin-4-acetic acid-DKGESGPA-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.079	7-methoxycoumarin-4-acetic acid-ERGETGPAGG-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.081	7-methoxycoumarin-4-acetic acid-DRGETGPA-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.09	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657Q, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA; mutant enzyme A657V, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.095	7-methoxycoumarin-4-acetic acid-VGPAGK-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.115	7-methoxycoumarin-4-acetic acid-EPGPPGPA-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.12	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme N704A, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.121	7-methoxycoumarin-4-acetic acid-ERGETGPAG-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.13	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E204D, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.141	7-methoxycoumarin-4-acetic acid-ERGETGPA-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.15	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme Y656F, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.19	Arg-Lys-(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-D-Ala-Pro-Asn-Gln-Glu-Gln-Glu(5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid)-Arg	*23&deg;C
+KCAT	Homo sapiens	0.19	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E203D, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA; mutant enzyme E204Q, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.196	7-methoxycoumarin-4-acetic acid-ASGPAGPA-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.2	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657F, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.22	Arg-Lys-(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-D-Ser-Pro-Asn-Gln-Glu-Gln-Glu(5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid)-Arg	*23&deg;C
+KCAT	Homo sapiens	0.26	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E203A, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.268	7-methoxycoumarin-4-acetic acid-ERGETGPSG-dinitrophenyl	*in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37&deg;C
+KCAT	Homo sapiens	0.28	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E204A, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.29	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657T, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.3	acetyl-D-Ala-Pro-7-amido-4-trifluoromethylcoumarin	*23&deg;C
+KCAT	Homo sapiens	0.33	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E204D, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.36	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E203D, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.37	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E203A, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA; mutant enzyme Y656F, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.4	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme R123K, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.45	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E204A, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.46	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657S, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.47	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme R123A, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.48	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme R123M, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.51	benzyloxycarbonyl-Gly-Pro-7-amido-4-methylcoumarin	*pH 7.5, 22&deg;C, recombinant FAP
+KCAT	Homo sapiens	0.54	benzyloxycarbonyl-Gly-Pro-7-amido-4-methylcoumarin	*pH 7.5, 22&deg;C, APCE
+KCAT	Homo sapiens	0.6	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E204Q, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.71	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E203D/E204D, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.94	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657V, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	0.995	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*APCE
+KCAT	Homo sapiens	1.06	Arg-Lys(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-Gly-Pro-Asn-Gln-Glu-Gln-Glu(5-[(2-aminoethyl)amino]-naphthalene-1-sulfonic acid)-Arg	*pH 7.5, 22&deg;C, APCE
+KCAT	Homo sapiens	1.08	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.5, 22&deg;C, recombinant FAP
+KCAT	Homo sapiens	1.08	L-Ala-Pro-7-amido-4-trifluoromethylcoumarin	*recombinant enzyme
+KCAT	Homo sapiens	1.1	Phe-Pro-7-amido-4-trifluoromethylcoumarin	*at 23&deg;C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+KCAT	Homo sapiens	1.19	Tic-Pro-7-amido-4-trifluoromethylcoumarin	*in 25 mM sodium phosphate buffer, pH 7.5, containing 1.0 mM EDTA and 2% (v/v) methanol, at 22&deg;C
+KCAT	Homo sapiens	1.2	Arg-Lys(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-Gly-Pro-Asn-Gln-Glu-Gln-Glu(5-[(2-aminoethyl)amino]-naphthalene-1-sulfonic acid)-Arg	*pH 7.5, 22&deg;C, recombinant FAP
+KCAT	Homo sapiens	1.2	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme R123K, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	1.2	L-Arg-Lys-(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-Gly-Pro-Asn-Gln-Gln-Gln-Glu(5-[(2-aminoethyl)amino]-naphthalene-1-sulfonic acid)-Arg	*recombinant enzyme
+KCAT	Homo sapiens	1.4	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme E203D/E204D, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	1.5	D-Ala-Pro-7-amido-4-trifluoromethylcoumarin	*23&deg;C
+KCAT	Homo sapiens	1.5	Thr-Ala-Gly-Pro-Asn-Gln	*23&deg;C
+KCAT	Homo sapiens	1.6	Thr-Ser-Gly-Pro-Asn-Gln	*23&deg;C
+KCAT	Homo sapiens	1.7	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme R123A, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	1.8	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657G, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	2	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657Q, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	2	Ala-Pro-4-trifluoromethylcoumarin-7-amide	*pH 8.5
+KCAT	Homo sapiens	2	Thr-Ser-Gly-Pro-Ser-Gln	*23&deg;C
+KCAT	Homo sapiens	2.1	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme R123M, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	2.7	Ala-Ser-Gly-Pro-Asn-Gln	*23&deg;C
+KCAT	Homo sapiens	3.1	Thr-Ser-Gly-Pro-Asn-Ser	*23&deg;C
+KCAT	Homo sapiens	4.5	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657T, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	4.7	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657S, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	5.5	Ala-Ser-Gly-Pro-Ser-Ser	*23&deg;C
+KCAT	Homo sapiens	5.6	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*wild type enzyme, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	5.6	Gly-Pro-7-amido-4-trifluoromethylcoumarin	*at 23&deg;C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+KCAT	Homo sapiens	6.08	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*pH 7.5, 22&deg;C, APCE
+KCAT	Homo sapiens	6.9	Ile-Pro-7-amido-4-trifluoromethylcoumarin	*at 23&deg;C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+KCAT	Homo sapiens	7.7	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*wild type enzyme, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	8.9	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657N, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	14	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	*mutant enzyme A657D, at 23&deg;C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+KCAT	Homo sapiens	14.2	Ala-Pro-7-amido-4-trifluoromethylcoumarin	*at 23&deg;C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+KCAT	Homo sapiens	29.1	Gly-Pro-7-amido-4-methylcoumarin	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	36.4	benzyloxycarbonyl-Gly-Pro-7-amido-4-methylcoumarin	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	55.3	MEPLGWQLTSGP-7-amido-4-methylcoumarin	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	70.2	MEPLGRQLTSGP-7-amido-4-methylcoumarin	*pH 7.5, 22&deg;C

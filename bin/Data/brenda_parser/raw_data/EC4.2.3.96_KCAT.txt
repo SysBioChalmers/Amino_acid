@@ -1,0 +1,1 @@
+ecNumber*4.2.3.96#turnoverNumber*0.04#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH and temperature not specified in the publication#organism*Streptomyces avermitilis#ligandStructureId*81#literature*717704#

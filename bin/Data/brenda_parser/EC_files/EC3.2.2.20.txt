@@ -1,0 +1,1 @@
+KCAT	Homo sapiens	-999	more	*single-turnover excision kinetics of wild-type and mutant enzymes, overview

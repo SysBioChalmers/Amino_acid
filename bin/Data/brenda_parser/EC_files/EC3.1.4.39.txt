@@ -1,0 +1,2 @@
+KCAT	Mus musculus	0.032	lysophosphatidylcholine	*pH 7.4, temperature not specified in the publication
+KCAT	Mus musculus	0.077	1-O-alkyl-sn-glycero-3-phosphocholine	*pH 7.4, temperature not specified in the publication

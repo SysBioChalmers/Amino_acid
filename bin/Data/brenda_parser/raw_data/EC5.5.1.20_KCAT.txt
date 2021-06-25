@@ -1,0 +1,1 @@
+ecNumber*5.5.1.20#turnoverNumber*0.23#turnoverNumberMaximum*#substrate*(3E,5E,7E,10R,12E,14E,17R,18S,22S)-22-ethyl-10,18-dihydroxy-17-methyloxacyclodocosa-3,5,7,12,14-pentaene-2,16-dione#commentary*pH and temperature not specified in the publication#organism*Saccharopolyspora spinosa#ligandStructureId*193843#literature*728372#

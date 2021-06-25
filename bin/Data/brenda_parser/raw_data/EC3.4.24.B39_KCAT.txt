@@ -1,0 +1,1 @@
+ecNumber*3.4.24.B39#turnoverNumber*0.419#turnoverNumberMaximum*#substrate*N-(4-tosyl)-Gly-Pro-Lys-4-nitroanilide#commentary*at pH 8.0 and 37&deg;C#organism*Deinagkistrodon acutus#ligandStructureId*202485#literature*731371#

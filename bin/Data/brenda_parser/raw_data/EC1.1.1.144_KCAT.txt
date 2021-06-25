@@ -1,0 +1,1 @@
+ecNumber*1.1.1.144#turnoverNumber*84#turnoverNumberMaximum*#substrate*perillyl alcohol#commentary*mutant benzyl alcohol dehydrogenase#organism*Acinetobacter calcoaceticus#ligandStructureId*6011#literature*285944#

@@ -1,0 +1,25 @@
+KCAT	Alcaligenes faecalis	438	N-Acetyl-D-Met	*wild-type enzyme
+KCAT	Achromobacter xylosoxidans	463	N-Acetyl-D-Met	*mutant enzyme L298A, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Achromobacter xylosoxidans	829	N-Acetyl-D-Met	*mutant enzyme F191W, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Achromobacter denitrificans	1040	N-Acetyl-D-Met	*
+KCAT	Achromobacter xylosoxidans	1826	N-Acetyl-D-Met	*wild type enzyme, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Achromobacter xylosoxidans	0.0147	N-acetyl-D-leucine	*mutant enzyme H67N
+KCAT	Achromobacter xylosoxidans	0.297	N-acetyl-D-leucine	*mutant enzyme H250N
+KCAT	Achromobacter xylosoxidans	593.3	N-acetyl-D-leucine	*mutant enzyme H251N
+KCAT	Achromobacter xylosoxidans	1225	N-acetyl-D-leucine	*wild-type enzyme
+KCAT	Achromobacter xylosoxidans	5.97	N-Acetyl-D-Ala	*mutant enzyme L298A, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Achromobacter xylosoxidans	229	N-Acetyl-D-Ala	*wild type enzyme, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Achromobacter xylosoxidans	330	N-Acetyl-D-Ala	*mutant enzyme F191W, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Achromobacter xylosoxidans	89.5	N-Acetyl-D-Trp	*wild type enzyme, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Achromobacter xylosoxidans	404	N-Acetyl-D-Trp	*mutant enzyme L298A, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Achromobacter xylosoxidans	669	N-Acetyl-D-Trp	*mutant enzyme F191W, in 100 mM HEPES (pH 7.0), at 30&Acirc;&deg;C
+KCAT	Variovorax paradoxus	25.2	N-acetyl-D-methionine	*recombinant mutant M56L, pH and temperature not specified in the publication
+KCAT	Variovorax paradoxus	34.56	N-acetyl-D-methionine	*recombinant mutant M352L, pH and temperature not specified in the publication
+KCAT	Variovorax paradoxus	54.06	N-acetyl-D-methionine	*recombinant mutant M254L, pH and temperature not specified in the publication
+KCAT	Variovorax paradoxus	57.53	N-acetyl-D-methionine	*recombinant wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Variovorax paradoxus	61.31	N-acetyl-D-methionine	*recombinant mutant M39L, pH and temperature not specified in the publication
+KCAT	Variovorax paradoxus	76.08	N-acetyl-D-methionine	*recombinant mutant M221L, pH and temperature not specified in the publication
+KCAT	Achromobacter denitrificans	877	N-Acetyl-D-Phe	*
+KCAT	Microbacterium natoriense	41	N-acetyl-D-phenylalanine	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Achromobacter denitrificans	468	N-Acetyl-D-Leu	*
+KCAT	Achromobacter denitrificans	382	N-Chloroacetyl-D-Val	*

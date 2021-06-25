@@ -1,0 +1,19 @@
+KCAT	Artemisia annua	0.00034	geranyl diphosphate	*presence of Mn2+, pH 7.5, 30&deg;C
+KCAT	Artemisia annua	0.0007	geranyl diphosphate	*presence of Mn2+, pH 6.5, 30&deg;C
+KCAT	Artemisia annua	0.00078	(2E,6E)-farnesyl diphosphate	*presence of Co2+, pH 7.5, 30&deg;C
+KCAT	Artemisia annua	0.0013	(2E,6E)-farnesyl diphosphate	*presence of Co2+, pH 6.5, 30&deg;C
+KCAT	Artemisia annua	0.0013	(2E,6E)-farnesyl diphosphate	*mutant enzyme T296I, at pH 7.2 and 30&deg;C
+KCAT	Artemisia annua	0.0015	(2E,6E)-farnesyl diphosphate	*mutant enzyme T296V, at pH 7.2 and 30&deg;C
+KCAT	Artemisia annua	0.0043	(2E,6E)-farnesyl diphosphate	*presence of Mg2+, pH 7.5, 30&deg;C
+KCAT	Artemisia annua	0.0059	(2E,6E)-farnesyl diphosphate	*mutant enzyme T296A, at pH 7.2 and 30&deg;C
+KCAT	Artemisia annua	0.0068	(2E,6E)-farnesyl diphosphate	*presence of Mg2+, pH 6.5, 30&deg;C
+KCAT	Artemisia annua	0.0075	(2E,6E)-farnesyl diphosphate	*mutant enzyme T296S, at pH 7.2 and 30&deg;C
+KCAT	Artemisia annua	0.0108	(2E,6E)-farnesyl diphosphate	*presence of Mn2+, pH 7.5, 30&deg;C
+KCAT	Artemisia annua	0.015	(2E,6E)-farnesyl diphosphate	*presence of Mn2+, pH 6.5, 30&deg;C
+KCAT	Artemisia annua	0.0154	(2E,6E)-farnesyl diphosphate	*presence of Mg2+, pH 9.5, 30&deg;C
+KCAT	Artemisia annua	0.0162	(2E,6E)-farnesyl diphosphate	*mutant enzyme T296V, at pH 7.0 and 30&deg;C
+KCAT	Artemisia annua	0.0163	(2E,6E)-farnesyl diphosphate	*wild type enzyme, at pH 7.2 and 30&deg;C
+KCAT	Artemisia annua	0.186	(2E,6E)-farnesyl diphosphate	*wild type enzyme, at pH 7.0 and 30&deg;C
+KCAT	Artemisia annua	0.321	(2E,6E)-farnesyl diphosphate	*mutant enzyme T399S, at pH 7.0 and 30&deg;C
+KCAT	Artemisia annua	0.334	(2E,6E)-farnesyl diphosphate	*mutant enzyme T447S, at pH 7.0 and 30&deg;C
+KCAT	Artemisia annua	0.518	(2E,6E)-farnesyl diphosphate	*mutant enzyme T399S/T447S, at pH 7.0 and 30&deg;C

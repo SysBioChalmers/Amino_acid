@@ -1,0 +1,1 @@
+ecNumber*2.7.7.101#turnoverNumber*0.00055#turnoverNumberMaximum*#substrate*NTP#commentary*pH 8.5, 70&deg;C#organism*Saccharolobus solfataricus#ligandStructureId*1383#literature*751322#

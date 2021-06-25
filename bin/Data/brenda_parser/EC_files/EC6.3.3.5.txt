@@ -1,0 +1,2 @@
+KCAT	Streptomyces lavendulae	2200	O-ureido-D-serine	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	860	D-homocysteine	*pH 8.0, 30&Acirc;&deg;C

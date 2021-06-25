@@ -1,0 +1,1 @@
+KCAT	Acinetobacter calcoaceticus	84	perillyl alcohol	*mutant benzyl alcohol dehydrogenase

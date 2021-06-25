@@ -1,0 +1,3 @@
+KCAT	Acinetobacter johnsonii	35	GMP	*recombinant PAP, pH 8.0, 37&deg;C
+KCAT	Acinetobacter johnsonii	151.7	AMP	*recombinant PAP, pH 8.0, 37&deg;C, in presence of 50 mM (NH4)2SO4
+KCAT	Acinetobacter johnsonii	166.7	AMP	*recombinant PAP, pH 8.0, 37&deg;C

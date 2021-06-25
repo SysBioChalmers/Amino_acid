@@ -1,0 +1,4 @@
+KCAT	Picrophilus torridus	24.2	2-dehydro-3-deoxy-D-gluconate	*pH 6.2, 60&Acirc;&deg;C, recombinant enzyme
+KCAT	Picrophilus torridus	26.7	2-dehydro-3-deoxy-D-gluconate	*pH 6.2, 60&Acirc;&deg;C, enzyme purified from Picrophilus torridus
+KCAT	Picrophilus torridus	0.34	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*pH 6.2, 60&Acirc;&deg;C, enzyme purified from Picrophilus torridus
+KCAT	Picrophilus torridus	0.36	2-dehydro-3-deoxy-D-gluconate 6-phosphate	*pH 6.2, 60&Acirc;&deg;C, recombinant enzyme

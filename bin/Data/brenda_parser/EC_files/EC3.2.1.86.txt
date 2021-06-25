@@ -1,0 +1,24 @@
+KCAT	Streptococcus pyogenes	0.24	4-nitrophenyl 6-phospho-beta-glucoside	*at pH 6.0 and 37&deg;C
+KCAT	Streptococcus pyogenes	0.243	4-nitrophenyl-beta-D-glucopyranoside 6-phosphate	*pH 6.0, 37&deg;C
+KCAT	Thermotoga maritima	0.79	4-cyanophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	0.99	4-nitrophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	1.01	4-cyanophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	1.15	3,4-dinitrophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	1.21	2-nitrophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	1.21	4-tert-butylphenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	1.6	p-nitrophenyl 6-phospho-beta-D-thioglucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	1.69	4-chloro-2-nitrophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	1.9	p-nitrophenyl-beta-D-glucopyranoside 6-phosphate	*pH 7.5
+KCAT	Thermotoga maritima	1.9	p-nitrophenyl-beta-D-glucopyranoside 6-phosphate	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	1.95	2,5-dinitrophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Lactobacillus gasseri	2	2-nitrophenyl-beta-D-glucopyranoside 6-phosphate	*pH 7.0, 40&deg;C
+KCAT	Thermotoga maritima	2.29	2,4-dinitrophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	2.33	3,5-dichlorophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Thermotoga maritima	4.69	3-nitrophenyl 6-phospho-beta-D-glucoside	*pH 7.5, 50&deg;C
+KCAT	Lactobacillus gasseri	41	2-nitrophenyl-beta-D-glucopyranoside 6-phosphate	*pH 6.0, 50&deg;C
+KCAT	Streptococcus pneumoniae	138	cellobiose 6-phosphate	*pH 7.5, 37&deg;C, recombinant His-tagged mutant Y126F
+KCAT	Streptococcus pneumoniae	145	cellobiose 6-phosphate	*pH 7.5, 37&deg;C, recombinant His-tagged mutant M423A
+KCAT	Streptococcus pneumoniae	146	4-nitrophenyl-beta-D-glucopyranoside 6-phosphate	*pH 7.5, 37&deg;C, recombinant His-tagged mutant Y126F
+KCAT	Streptococcus pneumoniae	168	4-nitrophenyl-beta-D-glucopyranoside 6-phosphate	*pH 7.5, 37&deg;C, recombinant His-tagged mutant M423A
+KCAT	Streptococcus pneumoniae	170	cellobiose 6-phosphate	*pH 7.5, 37&deg;C, recombinant His-tagged wild-type enzyme
+KCAT	Streptococcus pneumoniae	195	4-nitrophenyl-beta-D-glucopyranoside 6-phosphate	*pH 7.5, 37&deg;C, recombinant His-tagged wild-type enzyme

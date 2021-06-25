@@ -1,0 +1,1 @@
+ecNumber*4.1.1.63#turnoverNumber*90#turnoverNumberMaximum*#substrate*3,4-dihydroxybenzoate#commentary*#organism*Sedimentibacter hydroxybenzoicus#ligandStructureId*736#literature*4747#

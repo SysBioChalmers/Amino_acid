@@ -1,0 +1,1 @@
+ecNumber*2.1.1.50#turnoverNumber*0.327#turnoverNumberMaximum*#substrate*loganic acid#commentary*pH 7.5, 37&deg;C#organism*Catharanthus roseus#ligandStructureId*12807#literature*700737#

@@ -1,0 +1,7 @@
+KCAT	Pseudomonas sp.	0.6	D-vinylglycine	*37&deg;C, pH 8.5
+KCAT	Methylobacterium radiotolerans	1.1	1-aminocyclopropane-1-carboxylate	*at pH 8.0 and 30&deg;C
+KCAT	Methylobacterium nodulans	1.86	1-aminocyclopropane-1-carboxylate	*at pH 8.0 and 30&deg;C
+KCAT	Pseudomonas sp.	4.83	1-aminocyclopropane-1-carboxylate	*37&deg;C, pH 8.5
+KCAT	Pseudomonas sp.	5.17	2-vinyl-1-aminocyclopropane-1-carboxylate	*37&deg;C, pH 8.5
+KCAT	Pseudomonas putida	146	1-aminocyclopropane-1-carboxylate	*pH 8.0, 22&deg;C
+KCAT	Pseudomonas putida	654	D-cysteine	*double mutant Pseudomonas putida E295S+L322T

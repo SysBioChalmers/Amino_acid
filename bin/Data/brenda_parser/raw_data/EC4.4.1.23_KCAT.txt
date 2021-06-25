@@ -1,0 +1,1 @@
+ecNumber*4.4.1.23#turnoverNumber*6.5#turnoverNumberMaximum*#substrate*epoxypropane#commentary*#organism*Xanthobacter autotrophicus#ligandStructureId*11126#literature*393831#

@@ -1,0 +1,9 @@
+KCAT	Ascaris suum	0.06	pyruvate	*in the presence of NAD+, 20 mM Mn2+
+KCAT	Ascaris suum	0.09	pyruvate	*in the absence of NAD+, 20 mM Mn2+
+KCAT	Homo sapiens	5	(S)-malate	*pH 7.4, 30&deg;C, recombinant mutant K57S/E59N/K73E/D102S with or without 5 mM fumarate
+KCAT	Ascaris suum	28	oxaloacetate	*in the absence of NAD+, 20 mM Mn2+
+KCAT	Ascaris suum	30	oxaloacetate	*in the presence of NAD+, 20 mM Mn2+
+KCAT	Homo sapiens	43	(S)-malate	*pH 7.4, 30&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	55	(S)-malate	*pH 7.4, 30&deg;C, recombinant wild-type enzyme with 5 mM fumarate
+KCAT	Ascaris suum	130	L-malate	*native and recombinant enzyme
+KCAT	Escherichia coli K-12	134.4	(S)-malate	*pH 7.2, 25&deg;C, recombinant enzyme

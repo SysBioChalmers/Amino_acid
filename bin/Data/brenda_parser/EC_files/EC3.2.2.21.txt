@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	0.0033	hypoxanthine	*at 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.000833	1,N6-ethenoadenine residues in alkylated DNA	*pH 7.5, 37&Acirc;&deg;C, excision of1, N6-ethenoadenine
+KCAT	Escherichia coli	0.00125	duplex oligonucleotide substrate containing ethenoadenine and hypoxanthine	*at 37&Acirc;&deg;C, in 50 mM Na-MES buffer (pH 6.1)
+KCAT	Mus musculus	0.01	1,N6-ethenoadenine residues in alkylated DNA	*pH 8.3, 37&Acirc;&deg;C, release of 1,N6-ethenoadenine, truncated mutant N-DELTA100C-DELTA18
+KCAT	Mus musculus	0.0167	1,N6-ethenoadenine residues in alkylated DNA	*pH 8.3, 37&Acirc;&deg;C, release of 1,N6-ethenoadenine, wild-type

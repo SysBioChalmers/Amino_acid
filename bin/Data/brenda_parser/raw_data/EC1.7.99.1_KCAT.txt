@@ -1,0 +1,1 @@
+ecNumber*1.7.99.1#turnoverNumber*3.8#turnoverNumberMaximum*#substrate*hydroxylamine#commentary*purified enzyme, at 70&deg;C and pH 9.0#organism*Pyrococcus furiosus#ligandStructureId*85#literature*712507#

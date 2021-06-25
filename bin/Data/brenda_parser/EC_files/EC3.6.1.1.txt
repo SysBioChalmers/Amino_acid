@@ -1,0 +1,77 @@
+KCAT	Trypanosoma cruzi	0.000165	polyphosphate 75	*with 3 mM Zn2+, at pH 6.5 and 30&deg;C
+KCAT	Trypanosoma cruzi	0.0022	guanosine 5'-tetraphosphate	*with 3 mM Zn2+, at pH 6.5 and 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.005	ATP	*less than 0.005/sec, pH 7.2, 25&deg;C, in the presence of Mg2+
+KCAT	Bacillus subtilis	0.014	imidodiphosphoric acid	*pH 7.2, 25&deg;C, wild-type enzyme
+KCAT	Saccharomyces cerevisiae	0.05	tripolyphosphate	*pH 7.2, 25&deg;C, in the presence of Mg2+
+KCAT	Trypanosoma cruzi	0.13	Triphosphate	*with 3 mM Co2+, at pH 6.5 and 30&deg;C
+KCAT	Thermococcus onnurineus	0.16	diphosphate	*wild type enzyme, in 50 mM MOPS (pH 6.5), in the presence of Mg2+, at 80&deg;C
+KCAT	Thermococcus onnurineus	0.21	diphosphate	*wild type enzyme, in 50 mM MOPS (pH 6.5), in the presence of Ni2+, at 80&deg;C
+KCAT	Thermococcus onnurineus	0.22	diphosphate	*wild type enzyme, in 50 mM MOPS (pH 6.5), in the presence of Co2+, at 80&deg;C
+KCAT	Trypanosoma cruzi	0.22	diphosphate	*with 3 mM Mg2+, at pH 8.5 and 30&deg;C
+KCAT	Escherichia coli	0.34	diphosphate	*pH 7.2, D97E, resynthesis of diphosphate
+KCAT	Escherichia coli	0.67	diphosphate	*pH 8, D97E, resynthesis of diphosphate
+KCAT	Moorella thermoacetica	1.64	diphosphate	*pH 7.2, 25&deg;C
+KCAT	Thermococcus onnurineus	2.1	diphosphate	*pH and temperature not specified in the publication
+KCAT	Bacteroides thetaiotaomicron	3.6	diphosphate	*pH 7.5, 25&deg;C, recombinant wild-type BT2127
+KCAT	Escherichia coli	7.7	diphosphate	*E145Q mutant dimer, pH 7.5
+KCAT	Streptococcus gordonii	11	diphosphate	*recombinant mutant I259D, pH 9.0, 25&deg;C
+KCAT	Arabidopsis thaliana	11.9	diphosphate	*pH 7.5, 25&deg;C, isozyme PPa4
+KCAT	Escherichia coli	12	diphosphate	*pH 7.2, D97E, hydrolysis of diphosphate
+KCAT	Arabidopsis thaliana	12.1	diphosphate	*pH 7.5, 25&deg;C, isozyme PPa1
+KCAT	Escherichia coli	16.7	Triphosphate	*at pH 9.1 and 25&deg;C
+KCAT	Pyrococcus furiosus	19.7	ADP	*at pH 9.5 and 95&deg;C
+KCAT	Pyrococcus furiosus	27.5	UDP	*at pH 9.5 and 95&deg;C
+KCAT	Pyrococcus furiosus	29.7	UDP-glucose	*at pH 9.5 and 95&deg;C
+KCAT	Vibrio cholerae serotype O1	38	diphosphate	*in the presence of 10 mM Mg2+, in 50 mM Mes-NaOH, at pH 6.5 and 25&deg;C
+KCAT	Pyrococcus furiosus	39.9	GDP	*at pH 9.5 and 95&deg;C
+KCAT	Escherichia coli	42	diphosphate	*at pH 9.1 and 25&deg;C
+KCAT	Streptococcus gordonii	48	diphosphate	*recombinant mutant I259E, pH 9.0, 25&deg;C
+KCAT	Vibrio cholerae serotype O1	51	diphosphate	*in the presence of 0.005 mM Mn2+, in 50 mM HEPES-NaOH, at pH 7.5 and 25&deg;C
+KCAT	Pyrococcus furiosus	51.3	CDP	*at pH 9.5 and 95&deg;C
+KCAT	Escherichia coli	55	diphosphate	*pH 8, D97E, hydrolysis of diphosphate
+KCAT	Pyrococcus furiosus	57.3	IDP	*at pH 9.5 and 95&deg;C
+KCAT	Escherichia coli	76	diphosphate	*wild type dimer, pH 7.5
+KCAT	Helicobacter pylori	78.4	diphosphate	*pH 8.0, 37&deg;C, recombinant mutant Y140F
+KCAT	Escherichia coli	83	diphosphate	*E145Q mutant hexamer, pH 7.5
+KCAT	Escherichia coli	83	diphosphate	*pH 7.5, 25&deg;C, hexameric mutant E145Q, 5 mM Mg2+
+KCAT	Escherichia coli	86	diphosphate	*pH 6.5, wild type, hydrolysis of diphosphate
+KCAT	Pyrococcus furiosus	91.7	ATP	*at pH 9.5 and 95&deg;C
+KCAT	Pyrococcus furiosus	91.7	GTP	*at pH 9.5 and 95&deg;C
+KCAT	Vibrio cholerae serotype O1	93	diphosphate	*in the presence of 2 mM Mg2+, in 50 mM HEPES-NaOH, at pH 7.5 and 25&deg;C
+KCAT	Pyrococcus furiosus	94.2	CTP	*at pH 9.5 and 95&deg;C
+KCAT	Pyrococcus furiosus	99.1	UTP	*at pH 9.5 and 95&deg;C
+KCAT	Escherichia coli	104	diphosphate	*pH 6.5, wild type, resynthesis of diphosphate
+KCAT	Vibrio cholerae serotype O1	109	diphosphate	*pH 7.5, 25&deg;C, recombinant PPase1, in presence of Mg2+
+KCAT	Escherichia coli	114	diphosphate	*pH 8, wild type, resynthesis of diphosphate
+KCAT	Escherichia coli	116	diphosphate	*pH 7.2, wild type, resynthesis of diphosphate
+KCAT	Pyrococcus furiosus	116	ITP	*at pH 9.5 and 95&deg;C
+KCAT	Escherichia coli	155	diphosphate	*pH 7.2, wild type, hydrolysis of diphosphate
+KCAT	Helicobacter pylori	173.1	diphosphate	*pH 8.0, 37&deg;C, recombinant mutant C16S
+KCAT	Vibrio cholerae serotype O1	177	diphosphate	*in the presence of 5 mM Mg2+, in 50 mM Tris-HCl, at pH 9.0 and 25&deg;C
+KCAT	Escherichia coli	187	diphosphate	*pH 8, wild type, hydrolysis of diphosphate
+KCAT	Pyrococcus furiosus	226	Triphosphate	*at pH 9.5 and 95&deg;C
+KCAT	Saccharomyces cerevisiae	260	diphosphate	*pH 7.2, 25&deg;C, in the presence of Mg2+
+KCAT	Helicobacter pylori	343.9	diphosphate	*pH 8.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Leishmania major	369	diphosphate	*pH 7.5, in the presence of Mg2+
+KCAT	Escherichia coli	390	diphosphate	*wild type hexamer, pH 7.5
+KCAT	Escherichia coli	390	diphosphate	*pH 7.5, 25&deg;C, wild-type enzyme, 5 mM Mg2+
+KCAT	Streptococcus gordonii	560	diphosphate	*recombinant mutant I260D, pH 9.0, 25&deg;C
+KCAT	Streptococcus gordonii	570	diphosphate	*recombinant mutant I260E, pH 9.0, 25&deg;C
+KCAT	Pyrococcus horikoshii	744	diphosphate	*pH 7.5, 60&deg;C, recombinat enzyme
+KCAT	Synechocystis sp.	800	diphosphate	*recombinant enzyme
+KCAT	Anabaena sp.	850	diphosphate	*
+KCAT	Pseudanabaena sp.	850	diphosphate	*
+KCAT	Synechocystis sp.	916	diphosphate	*native enzyme
+KCAT	Pyrococcus furiosus	1230	diphosphate	*at pH 9.5 and 95&deg;C
+KCAT	Vibrio cholerae serotype O1	1600	diphosphate	*pH 7.5, 25&deg;C, recombinant PPase2, in presence of Mn2+
+KCAT	Sulfolobus acidocaldarius	1700	diphosphate	*pH 7.0, 75&deg;C
+KCAT	Streptococcus gordonii	2130	diphosphate	*pH 9.0, 25&deg;C, 5 mM Mg2+, mutant T191G
+KCAT	Thermoplasma acidophilum	2200	diphosphate	*pH 6.2, 56&deg;C
+KCAT	Streptococcus gordonii	3270	diphosphate	*pH 9.0, 25&deg;C, 5 mM Mg2+, mutant G190A
+KCAT	Pyrococcus horikoshii	3436	diphosphate	*pH 8.0, 90&deg;C
+KCAT	Streptococcus gordonii	3460	diphosphate	*pH 9.0, 25&deg;C, 5 mM Mg2+, mutant G190W
+KCAT	Leishmania major	3693	diphosphate	*pH 7.5, in the presence of Ca2+
+KCAT	Streptococcus gordonii	4420	diphosphate	*recombinant mutant I259V, pH 9.0, 25&deg;C
+KCAT	Streptococcus gordonii	6290	diphosphate	*pH 9.0, 25&deg;C, 5 mM Mg2+, wild-type enzyme
+KCAT	Streptococcus gordonii	6290	diphosphate	*recombinant wild-type enzyme, pH 9.0, 25&deg;C
+KCAT	Streptococcus gordonii	6480	diphosphate	*recombinant mutant I260V, pH 9.0, 25&deg;C

@@ -1,0 +1,2 @@
+KCAT	Mycobacterium tuberculosis	0.11	(4E)-dec-4-enoyl-CoA	*mutant enzyme F149A, at 25&deg;C in 30 mM PIPES and 150 mM NaCl (pH 6.8)
+KCAT	Mycobacterium tuberculosis	3.17	(4E)-dec-4-enoyl-CoA	*wild type enzyme, at 25&deg;C in 30 mM PIPES and 150 mM NaCl (pH 6.8)

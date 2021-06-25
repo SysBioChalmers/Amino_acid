@@ -1,0 +1,28 @@
+KCAT	Aromatoleum evansii	0.0065	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme D75A
+KCAT	Aromatoleum evansii	0.012	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme N60A
+KCAT	Escherichia coli	0.065	3-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme D16A
+KCAT	Escherichia coli	0.076	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme N46A
+KCAT	Escherichia coli	0.11	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme D16A
+KCAT	Escherichia coli	0.17	4-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme D16A
+KCAT	Aromatoleum evansii	0.18	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme N60D
+KCAT	Escherichia coli	0.26	4-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme H52A
+KCAT	Escherichia coli	0.31	4-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme N46A
+KCAT	Escherichia coli	0.41	phenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.81	3-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme N46A
+KCAT	Escherichia coli	0.89	3-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme H52A
+KCAT	Aromatoleum evansii	2.3	3,5-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	2.7	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme H52A
+KCAT	Escherichia coli	3.2	4-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme N15A
+KCAT	Aromatoleum evansii	3.7	phenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Aromatoleum evansii	8.2	3-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	9	3,5-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Aromatoleum evansii	11	4-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	15	3-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme E14A
+KCAT	Aromatoleum evansii	18	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	19	4-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme E14A
+KCAT	Escherichia coli	20	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme E14A
+KCAT	Escherichia coli	26	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme N15A
+KCAT	Escherichia coli	30	3-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, mutant enzyme N15A
+KCAT	Escherichia coli	79	4-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	86	3-hydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	100	3,4-dihydroxyphenylacetyl-CoA	*pH 8.1, 25&deg;C, wild-type enzyme

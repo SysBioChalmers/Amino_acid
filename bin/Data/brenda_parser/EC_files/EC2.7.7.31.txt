@@ -1,0 +1,2 @@
+KCAT	Bos taurus	0.833	dATP	*
+KCAT	Bos taurus	0.833	dATP	*

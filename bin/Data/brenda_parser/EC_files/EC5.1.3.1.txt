@@ -1,0 +1,13 @@
+KCAT	Spinacia oleracea	0.00033	D-ribulose 5-phosphate	*mutant enzyme D186A
+KCAT	Spinacia oleracea	0.13	D-ribulose 5-phosphate	*mutant enzyme D186N
+KCAT	Spinacia oleracea	0.138	D-ribulose 5-phosphate	*
+KCAT	Spinacia oleracea	1.1	D-ribulose 5-phosphate	*mutant enzyme D186E
+KCAT	Streptococcus pyogenes	100	D-ribulose 5-phosphate	*RPE metal-free, stoichiometry of Zn2+: 0.1 ion per polypeptide, substrate 10 mM D-ribulose 5-phosphate
+KCAT	Streptococcus pyogenes	200	D-ribulose 5-phosphate	*mutant H34A, + 10 micromol/l ZnCl2
+KCAT	Streptococcus pyogenes	270	D-ribulose 5-phosphate	*mutant H67A, + 10 micromol/l ZnCl2
+KCAT	Streptococcus pyogenes	480	D-ribulose 5-phosphate	*RPE as isolated, stoichiometry of Zn2+: 0.3 ion per polypeptide, substrate 10 mM D-ribulose 5-phosphate
+KCAT	Streptococcus pyogenes	840	D-ribulose 5-phosphate	*RPE as isolated + 0.5 mM ZnCl2 present in assay, stoichiometry of Zn2+: 0.9 ion per polypeptide, substrate 10 mM D-ribulose 5-phosphate
+KCAT	Streptococcus pyogenes	870	D-ribulose 5-phosphate	*RPE metal-free + 0.5 mM ZnCl2 present in assay, stoichiometry of Zn2+: 0.9 ion per polypeptide, substrate 10 mM D-ribulose 5-phosphate
+KCAT	Saccharomyces cerevisiae	1300	D-ribulose 5-phosphate	*
+KCAT	Saccharomyces cerevisiae	1300	D-xylulose 5-phosphate	*
+KCAT	Spinacia oleracea	7100	D-ribulose 5-phosphate	*wild-type enzyme

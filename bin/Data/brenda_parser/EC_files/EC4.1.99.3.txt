@@ -1,0 +1,10 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*
+KCAT	Escherichia coli	-999	more	*
+KCAT	Methanothermobacter thermautotrophicus	-999	more	*
+KCAT	Saccharomyces cerevisiae	-999	more	*
+KCAT	Streptomyces griseus	-999	more	*
+KCAT	Escherichia coli	0.04	pyrimidine dimer in DNA	*
+KCAT	Escherichia coli	0.073	cyclobutadipyrimidine in DNA	*for dsDNA
+KCAT	Vibrio cholerae serotype O1	0.13	cyclobutadipyrimidine in DNA	*for dsDNA
+KCAT	Escherichia coli	0.2167	cyclobutadipyrimidine in DNA	*for ssDNA
+KCAT	Vibrio cholerae serotype O1	0.23	cyclobutadipyrimidine in DNA	*for ssDNA

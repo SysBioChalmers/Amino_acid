@@ -1,0 +1,9 @@
+KCAT	Trypanosoma brucei	0.05	dihydrobiopterin	*in 50 mM HEPES buffer, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Leishmania major	0.57	dihydrobiopterin	*in 50 mM HEPES buffer, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Trypanosoma brucei	4.7	dihydrobiopterin	*pH 3.7
+KCAT	Trypanosoma brucei	0.54	quinonoid dihydrobiopterin	*in 50 mM HEPES buffer, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Leishmania major	1.84	quinonoid dihydrobiopterin	*in 50 mM HEPES buffer, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Leishmania tarentolae	0.22	biopterin	*mutant enzyme Y175F
+KCAT	Leishmania tarentolae	0.23	biopterin	*wild type enzyme
+KCAT	Trypanosoma brucei	0.43	quinonoid 6,7-dimethyl-7,8-dihydropterin	*in 50 mM HEPES buffer, pH 7.4, at 25&Acirc;&deg;C
+KCAT	Leishmania major	0.44	quinonoid 6,7-dimethyl-7,8-dihydropterin	*in 50 mM HEPES buffer, pH 7.4, at 25&Acirc;&deg;C

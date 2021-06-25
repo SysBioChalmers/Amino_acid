@@ -1,0 +1,58 @@
+KCAT	Saccharolobus solfataricus	0.025	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.028	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*N-terminal deletion mutant lacking 26 amino acids, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.03	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*pH 7.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.033	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.041	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*truncated mutant
+KCAT	Thermotoga maritima	0.06	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*N-terminal deletion mutant lacking 25 amino acids, pH 7.5, 25&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.095	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.12	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*mutant enzyme Lys55Ser
+KCAT	Saccharolobus solfataricus	0.15	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.16	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme P2S
+KCAT	Saccharolobus solfataricus	0.27	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*pH 7.5, 25&Acirc;&deg;C, mutant enzyme P2S/F246S
+KCAT	Saccharolobus solfataricus	0.35	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme F246S
+KCAT	Saccharolobus solfataricus	0.36	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme G212E
+KCAT	Saccharolobus solfataricus	0.57	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*pH 7.5, 25&Acirc;&deg;C, mutant enzyme P2S/G212E
+KCAT	Saccharolobus solfataricus	0.98	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*pH 7.5, 60&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*mutant Leu5Val
+KCAT	Escherichia coli	2.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*wild-type enzyme
+KCAT	Saccharolobus solfataricus	3.15	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*at 60&Acirc;&deg;C
+KCAT	Escherichia coli	3.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*genetically engineered monofunctional enzyme form IGPS[1-259]
+KCAT	Escherichia coli	3.6	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*bifunctional enzyme
+KCAT	Escherichia coli	4.3	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*genetically engineered monofunctional enzyme form IGPS[1-252FAG]
+KCAT	Escherichia coli	7.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	*wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.001	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 75&Acirc;&deg;C, mutant enzyme K53Q
+KCAT	Saccharolobus solfataricus	0.007	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 75&Acirc;&deg;C, mutant enzyme E51Q
+KCAT	Saccharolobus solfataricus	0.033	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.038	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 25&Acirc;&deg;C, mutant enzyme D61C labeled with the fluorescent dye PyMPO
+KCAT	Saccharolobus solfataricus	0.04	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 25&Acirc;&deg;C, mutant enzyme R18C labeled with the fluorescent dye Alexa Fluor 555
+KCAT	Saccharolobus solfataricus	0.04	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme N90A
+KCAT	Saccharolobus solfataricus	0.042	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 25&Acirc;&deg;C, mutant enzyme R18C labeled with the fluorescent dye PyMPO
+KCAT	Saccharolobus solfataricus	0.06	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 75&Acirc;&deg;C, mutant enzyme K53R
+KCAT	Saccharolobus solfataricus	0.06	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 75&Acirc;&deg;C, mutant enzyme F89A
+KCAT	Saccharolobus solfataricus	0.062	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.065	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 25&Acirc;&deg;C, mutant enzyme D61C labeled with the fluorescent dye Alexa Fluor 555
+KCAT	Saccharolobus solfataricus	0.11	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.16	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*25&Acirc;&deg;C, pH 7.5
+KCAT	Saccharolobus solfataricus	0.16	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 25&Acirc;&deg;C, mutant enzyme R54A; pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.16	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*mutant G212E, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.17	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 37&Acirc;&deg;C, mutant enzyme N90A
+KCAT	Saccharolobus solfataricus	0.19	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 37&Acirc;&deg;C, mutant enzyme R54A/N90Q
+KCAT	Saccharolobus solfataricus	0.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*mutant L236Q, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.23	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*mutant M237T, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.3	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 37&Acirc;&deg;C, mutant enzyme N90Q
+KCAT	Saccharolobus solfataricus	0.32	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*mutant F246S, pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.35	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 37&Acirc;&deg;C, mutant enzyme R54A
+KCAT	Saccharolobus solfataricus	0.41	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 75&Acirc;&deg;C, mutant enzyme R182A
+KCAT	Saccharolobus solfataricus	0.42	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.51	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 75&Acirc;&deg;C, mutant enzyme R54A/N90Q
+KCAT	Saccharolobus solfataricus	0.55	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 75&Acirc;&deg;C, mutant enzyme N90A
+KCAT	Saccharolobus solfataricus	0.67	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 75&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.67	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 75&Acirc;&deg;C, wild-type enzyme
+KCAT	Saccharolobus solfataricus	0.89	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 75&Acirc;&deg;C, mutant enzyme N90Q
+KCAT	Saccharolobus solfataricus	0.97	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 75&Acirc;&deg;C, mutant enzyme E210Q
+KCAT	Escherichia coli	1.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*pH 7.0, 75&Acirc;&deg;C, mutant enzyme R54A
+KCAT	Saccharolobus solfataricus	2.1	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*wild-type, pH 7.5, 60&Acirc;&deg;C
+KCAT	Escherichia coli	4.1	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*at pH 7.5 and 25&Acirc;&deg;C
+KCAT	Escherichia coli	9.3	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*at pH 7.5 and 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	11.1	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	*at 37&Acirc;&deg;C and pH 8.0

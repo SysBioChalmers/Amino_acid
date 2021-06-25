@@ -1,0 +1,30 @@
+KCAT	Antirrhinum majus	2.08	acetaldehyde	*
+KCAT	Antirrhinum majus	0.31	benzaldehyde	*
+KCAT	Pseudomonas putida	14	benzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Acinetobacter calcoaceticus	72	benzaldehyde	*
+KCAT	Acinetobacter calcoaceticus	20	4-hydroxybenzaldehyde	*
+KCAT	Antirrhinum majus	0.23	phenylacetaldehyde	*
+KCAT	Acinetobacter calcoaceticus	49	4-methoxybenzaldehyde	*
+KCAT	Pseudomonas putida	101	4-methoxybenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Acinetobacter calcoaceticus	26	cinnamaldehyde	*
+KCAT	Acinetobacter calcoaceticus	33	3-Methoxybenzaldehyde	*
+KCAT	Pseudomonas putida	885	3-Methoxybenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Pseudomonas putida	120	4-methylbenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Pseudomonas putida	67	4-Chlorobenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Pseudomonas putida	24	3-Hydroxybenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Acinetobacter calcoaceticus	29	3-Hydroxybenzaldehyde	*
+KCAT	Pseudomonas putida	56	2-naphthaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Pseudomonas putida	16	3-Chlorobenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Pseudomonas putida	23	3-methylbenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Acinetobacter calcoaceticus	64	4-Fluorobenzaldehyde	*
+KCAT	Pseudomonas putida	33	2-Hydroxybenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Acinetobacter calcoaceticus	41	2-Hydroxybenzaldehyde	*
+KCAT	Pseudomonas putida	39	2-Methylbenzaldehyde	*apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+KCAT	Acinetobacter calcoaceticus	41	3-Fluorobenzaldehyde	*
+KCAT	Acinetobacter calcoaceticus	66	pyridine-4-carboxaldehyde	*
+KCAT	Acinetobacter calcoaceticus	68	Pyridine-3-carboxaldehyde	*
+KCAT	Acinetobacter calcoaceticus	17	perillaldehyde	*
+KCAT	Acinetobacter calcoaceticus	46	furan-2-carboxaldehyde	*
+KCAT	Acinetobacter calcoaceticus	29	hexan-1-al	*
+KCAT	Acinetobacter calcoaceticus	26	octan-1-al	*
+KCAT	Acinetobacter calcoaceticus	52	thiophen-2-carboxyaldehyde	*

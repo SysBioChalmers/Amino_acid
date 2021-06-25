@@ -1,0 +1,1 @@
+ecNumber*4.2.3.26#turnoverNumber*0.24#turnoverNumberMaximum*#substrate*geranyl diphosphate#commentary*pH 6.5#organism*Mentha aquatica var. citrata#ligandStructureId*175#literature*663755#

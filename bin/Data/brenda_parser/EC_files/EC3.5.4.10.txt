@@ -1,0 +1,19 @@
+KCAT	Homo sapiens	0.014	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant D125A
+KCAT	Homo sapiens	0.014	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, mutantD125A
+KCAT	Homo sapiens	0.036	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant Y104F
+KCAT	Homo sapiens	0.036	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, mutantY104F
+KCAT	Homo sapiens	0.062	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant K66A
+KCAT	Homo sapiens	0.062	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, mutantK66A
+KCAT	Homo sapiens	0.136	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant Y104A
+KCAT	Homo sapiens	0.136	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, mutantY104A
+KCAT	Homo sapiens	0.147	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant D125E
+KCAT	Homo sapiens	0.147	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, mutant D125E
+KCAT	Homo sapiens	0.276	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant K137A
+KCAT	Homo sapiens	0.276	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, mutantK137A
+KCAT	Homo sapiens	0.507	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant K137R
+KCAT	Homo sapiens	0.507	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, mutant K137R
+KCAT	Homo sapiens	0.603	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant D125N
+KCAT	Homo sapiens	0.603	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, mutant D125N
+KCAT	Homo sapiens	6.08	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, mutant D125N; pH 7.5, mutant K137R
+KCAT	Homo sapiens	8.6	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, wild type
+KCAT	Homo sapiens	8.6	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	*pH 7.5, 22&deg;C, wild-type

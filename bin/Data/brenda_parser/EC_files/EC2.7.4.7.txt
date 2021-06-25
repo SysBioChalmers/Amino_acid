@@ -1,0 +1,3 @@
+KCAT	Escherichia coli	0.07	ATP	*pH 8.0, 25&Acirc;&deg;C, recombinant ThiD
+KCAT	Escherichia coli	0.0867	2-methyl-4-amino-5-hydroxymethylpyrimidine	*pH 8.0, 25&Acirc;&deg;C, recombinant ThiD
+KCAT	Escherichia coli	0.07	2-methyl-4-amino-5-hydroxymethylpyrimidine phosphate	*pH 8.0, 25&Acirc;&deg;C, recombinant ThiD

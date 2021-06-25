@@ -1,0 +1,2 @@
+KCAT	Streptomyces lavendulae	0.0018	S-adenosyl-L-methionine	*pH 7.4, 30&Acirc;&deg;C
+KCAT	Streptomyces lavendulae	0.0017	7-demethylmitomycin A	*pH 7.4, 30&Acirc;&deg;C

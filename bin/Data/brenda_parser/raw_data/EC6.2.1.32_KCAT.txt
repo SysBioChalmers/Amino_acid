@@ -1,0 +1,1 @@
+ecNumber*6.2.1.32#turnoverNumber*21.7#turnoverNumberMaximum*#substrate*2-Aminobenzoate#commentary*28&deg;C, isoenzyme E3#organism*Pseudomonas sp.#ligandStructureId*4198#literature*713#!ecNumber*6.2.1.32#turnoverNumber*267#turnoverNumberMaximum*#substrate*2-Aminobenzoate#commentary*28&deg;C, isoenzyme E2#organism*Pseudomonas sp.#ligandStructureId*4198#literature*713#

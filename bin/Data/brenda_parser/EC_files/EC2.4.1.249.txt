@@ -1,0 +1,4 @@
+KCAT	Clitoria ternatea	4.9	UDP-D-glucose	*delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside-3'-O-beta-glucoside as substrate
+KCAT	Clitoria ternatea	5.1	UDP-D-glucose	*delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside as substrate
+KCAT	Clitoria ternatea	4.4	delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside	*UDP-glucose as sugar donor
+KCAT	Clitoria ternatea	5.4	delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside-3'-O-beta-glucoside	*UDP-glucose as sugar donor

@@ -1,0 +1,1 @@
+ecNumber*1.14.19.65#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*kcat (S)-coreximine: 1% compared to kcat (S)-cheilanthifoline: 100%; kcat (S)-scoulerine: 100%, pH8, 30&deg;C; kcat (S)-scoulerine: 29%, kcat (S)-cheilanthifoline: 100%#organism*Argemone mexicana#ligandStructureId*#literature*711025#

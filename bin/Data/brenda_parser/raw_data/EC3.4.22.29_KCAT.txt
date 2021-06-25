@@ -1,0 +1,1 @@
+ecNumber*3.4.22.29#turnoverNumber*0.00158#turnoverNumberMaximum*#substrate*TRPIITTA-p-nitroanilide#commentary*#organism*Human rhinovirus sp.#ligandStructureId*52952#literature*648055#

@@ -1,0 +1,24 @@
+KCAT	Vitis labrusca	0.045	benzoyl-CoA	*pH 7.5, 20-22&deg;C, cosubstrate: benzyl alcohol, native enzyme; pH 7.5, 20-22&deg;C, cosubstrate: benzyl alcohol, recombinant enzyme
+KCAT	Populus trichocarpa	0.32	acetyl-CoA	*cosubstrate benzyl alcohol, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	0.35	salicyl alcohol	*cosubstrate acetyl-CoA, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	0.4	benzyl alcohol	*cosubstrate acetyl-CoA, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	0.43	acetyl-CoA	*cosubstrate salicyl alcohol, pH 7.0, 30&deg;C
+KCAT	Clarkia breweri	0.9	cinnamoyl-CoA	*pH 7.7, 22&deg;C, cosustrate: benzyl alcohol
+KCAT	Populus trichocarpa	1.42	3-Hydroxybenzyl alcohol	*cosubstrate benzoyl-CoA, pH 7.0, 30&deg;C
+KCAT	Petunia x hybrida	1.61	benzyl alcohol	*pH 7.7, 22&deg;C, cosubstrate: acetyl-CoA
+KCAT	Populus trichocarpa	1.72	benzoyl-CoA	*cosubstrate benzyl alcohol, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	1.79	benzyl alcohol	*cosubstrate benzoyl-CoA, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	1.97	3-Hydroxybenzyl alcohol	*cosubstrate benzoyl-CoA, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	2.01	benzoyl-CoA	*cosubstrate 3-hydroxybenzyl alcohol, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	2.06	benzoyl-CoA	*cosubstrate salicyl alcohol, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	2.06	salicyl alcohol	*cosubstrate benzoyl-CoA, pH 7.0, 30&deg;C
+KCAT	Populus trichocarpa	2.25	benzoyl-CoA	*cosubstrate 3-hydroxybenzyl alcohol, pH 7.0, 30&deg;C
+KCAT	Petunia x hybrida	4.4	acetyl-CoA	*pH 7.7, 22&deg;C, cosubstrate: benzyl alcohol
+KCAT	Clarkia breweri	21.5	acetyl-CoA	*pH 7.7, 22&deg;C, cosustrate: benzyl alcohol
+KCAT	Petunia x hybrida	35.8	2-phenylethanol	*pH 7.7, 22&deg;C, cosubstrate: 2-phenylethanol
+KCAT	Petunia x hybrida	36.9	benzyl alcohol	*pH 7.7, 22&deg;C, cosubstrate: benzyl alcohol
+KCAT	Clarkia breweri	47.2	cinnamyl alcohol	*pH 7.7, 22&deg;C, cosustrate: benzoyl-CoA
+KCAT	Petunia x hybrida	57.1	benzoyl-CoA	*pH 7.7, 22&deg;C, cosubstrate: benzyl alcohol
+KCAT	Petunia x hybrida	81.3	benzoyl-CoA	*pH 7.7, 22&deg;C, cosubstrate: 2-phenylethanol
+KCAT	Clarkia breweri	85.2	benzyl alcohol	*pH 7.7, 22&deg;C, cosustrate: benzoyl-CoA
+KCAT	Clarkia breweri	124	benzoyl-CoA	*pH 7.7, 22&deg;C, cosustrate: benzyl alcohol

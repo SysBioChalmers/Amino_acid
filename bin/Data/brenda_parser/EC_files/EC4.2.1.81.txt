@@ -1,0 +1,6 @@
+KCAT	Bradyrhizobium japonicum	0.0019	(S,S)-Tartrate	*25&deg;C, pH 7.5, mutant enzyme H322Q
+KCAT	Bradyrhizobium japonicum	0.0027	(S,S)-Tartrate	*25&deg;C, pH 7.5, mutant enzyme H322A
+KCAT	Bradyrhizobium japonicum	0.0058	(S,S)-Tartrate	*25&deg;C, pH 7.5, mutant enzyme K184R
+KCAT	Bradyrhizobium japonicum	0.0069	(S,S)-Tartrate	*25&deg;C, pH 7.5, mutant enzyme H322N
+KCAT	Bradyrhizobium japonicum	7.3	(S,S)-Tartrate	*25&deg;C, pH 7.5, wild-type enzyme
+KCAT	Rhodobacter sphaeroides	19.8	D-Tartrate	*

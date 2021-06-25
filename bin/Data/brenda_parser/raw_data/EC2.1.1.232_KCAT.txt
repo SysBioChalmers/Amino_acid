@@ -1,0 +1,1 @@
+ecNumber*2.1.1.232#turnoverNumber*25#turnoverNumberMaximum*#substrate*(2S)-naringenin#commentary*pH 8.5, 30&deg;C, purified recombinant GST-tagged NOMT#organism*Oryza sativa#ligandStructureId*2699#literature*720020#

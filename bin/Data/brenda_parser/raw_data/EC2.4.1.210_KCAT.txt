@@ -1,0 +1,1 @@
+ecNumber*2.4.1.210#turnoverNumber*91.7#turnoverNumberMaximum*#substrate*limonin#commentary*pH 7.0-8.4, 25&Acirc;&deg;C#organism*Citrus maxima x Citrus paradisi#ligandStructureId*4616#literature*722071#

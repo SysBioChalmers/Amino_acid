@@ -1,0 +1,1 @@
+ecNumber*3.1.3.B4#turnoverNumber*-999#turnoverNumberMaximum*#substrate*?#commentary*Sac1 shows a sigmoidal kinetic behavior. Sac1 undergoes an allosteric activation#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*731293#

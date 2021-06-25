@@ -1,0 +1,2 @@
+KCAT	Paenarthrobacter nicotinovorans	4	sarcosine	*pH 10, temperature not specified in the publication
+KCAT	Paenarthrobacter nicotinovorans	800	4-methylaminobutanoate	*pH 10, temperature not specified in the publication

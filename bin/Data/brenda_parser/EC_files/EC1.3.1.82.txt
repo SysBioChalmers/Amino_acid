@@ -1,0 +1,2 @@
+KCAT	Mentha x piperita	1.3	NADPH	*pH 5.5, recombinant enzyme
+KCAT	Mentha x piperita	1.3	(-)-isopiperitenone	*pH 5.5, recombinant enzyme

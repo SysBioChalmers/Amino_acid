@@ -1,0 +1,1 @@
+ecNumber*4.1.1.71#turnoverNumber*1.2#turnoverNumberMaximum*#substrate*2-oxoglutarate#commentary*pH 7.0, 25&Acirc;&deg;C#organism*Synechococcus sp. PCC 7002#ligandStructureId*34#literature*747943#

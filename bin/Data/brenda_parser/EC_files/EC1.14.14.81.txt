@@ -1,0 +1,4 @@
+KCAT	Billardiera heterophylla	17	kaempferol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Billardiera heterophylla	13.4	apigenin	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Billardiera heterophylla	10.6	naringenin	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Billardiera heterophylla	81.4	dihydrokaempferol	*pH 7.0, 25&Acirc;&deg;C

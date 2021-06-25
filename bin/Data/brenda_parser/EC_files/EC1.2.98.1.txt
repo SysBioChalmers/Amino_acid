@@ -1,0 +1,3 @@
+KCAT	Homo sapiens	1	Butanal	*class II enzyme
+KCAT	Homo sapiens	1.25	Butanal	*isoenzyme beta1,beta1
+KCAT	Homo sapiens	21.7	Butanal	*isoenzyme gamma2,gamma2

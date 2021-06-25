@@ -1,0 +1,3 @@
+KCAT	Candidatus Cloacimonas acidaminovorans	0.4	pyruvate	*pH 8.1, 28&deg;C
+KCAT	Candidatus Cloacimonas acidaminovorans	1.8	2-oxoglutarate	*pH 8.1, 28&deg;C
+KCAT	Candidatus Cloacimonas acidaminovorans	1.8	(3S)-3-aminobutanoyl-CoA	*pH 8.1, 28&deg;C

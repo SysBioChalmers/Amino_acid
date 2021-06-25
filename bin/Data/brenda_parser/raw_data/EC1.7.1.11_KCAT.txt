@@ -1,0 +1,1 @@
+ecNumber*1.7.1.11#turnoverNumber*2.5#turnoverNumberMaximum*#substrate*NADPH#commentary*#organism*Rattus norvegicus#ligandStructureId*5#literature*394432#

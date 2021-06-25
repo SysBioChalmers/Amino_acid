@@ -1,0 +1,2 @@
+KCAT	Acremonium sp. (in: Ascomycota)	32.4	hesperidin	*pH 5.0, 60&Acirc;&deg;C
+KCAT	Acremonium sp. (in: Ascomycota)	68.2	hesperidin methylchalcone	*pH 5.0, 60&Acirc;&deg;C

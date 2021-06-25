@@ -1,0 +1,1 @@
+ecNumber*4.2.3.91#turnoverNumber*0.012#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH 8.0, 30&Acirc;&deg;C; pH not specified in the publication, at 37&Acirc;&deg;C#organism*Coprinopsis cinerea#ligandStructureId*81#literature*714733#

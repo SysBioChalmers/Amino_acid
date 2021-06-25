@@ -1,0 +1,6 @@
+KCAT	Arabidopsis thaliana	70	S-adenosyl-L-methionine	*pH 7.5, 20&Acirc;&deg;C
+KCAT	Populus trichocarpa	0.003	benzoate	*wild type enzyme, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Populus trichocarpa	0.028	benzoate	*mutant enzyme N361S, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Populus trichocarpa	0.013	jasmonate	*wild type enzyme, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Populus trichocarpa	0.015	jasmonate	*mutant enzyme N361S, at pH 6.5 and 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	25	jasmonate	*pH 7.5, 20&Acirc;&deg;C

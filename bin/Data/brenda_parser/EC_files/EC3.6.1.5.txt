@@ -1,0 +1,47 @@
+KCAT	Toxoplasma gondii	280	ATP	*wild type enzyme, at pH 7.4, temperature not specified in the publication
+KCAT	Sus scrofa	860	ATP	*pH 7.6, 37&Acirc;&deg;C
+KCAT	Toxoplasma gondii	1230	ATP	*mutant enzyme R492G, at pH 7.4, temperature not specified in the publication
+KCAT	Toxoplasma gondii	1410	ATP	*mutant enzyme E493G, at pH 7.4, temperature not specified in the publication
+KCAT	Toxoplasma gondii	2200	ATP	*mutant enzyme R492G/E493G, at pH 7.4, temperature not specified in the publication
+KCAT	Rattus norvegicus	31.1	ADP	*recombinant mutant EDC Y409F, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	50.4	ADP	*recombinant mutant EDC K257M, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	77.3	ADP	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	86.1	ADP	*recombinant mutant EDC Y314F, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	86.9	ADP	*recombinant mutant EDC DELTA MIL, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	80.9	UDP	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	93	UDP	*recombinant mutant EDC DELTA MIL, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	80.9	GTP	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	82.6	GDP	*in presence of 0.1 mM AMP, recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	83.2	GDP	*in presence of 0.1 mM UMP, recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C; recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	103.7	GDP	*in presence of 0.1 mM AHM, recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	103.4	UTP	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	121.2	UTP	*recombinant mutant EDC DELTA MIL, pH 7.4, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	1.5	dATP	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Solanum tuberosum	636	dATP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	2222	dATP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	455	dTTP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	2841	dTTP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	490	dCTP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	2174	dCTP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Bacillus subtilis	0.74	dGTP	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Solanum tuberosum	573	dGTP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	3019	dGTP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Rattus norvegicus	105.3	ITP	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	79.9	IDP	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Rattus norvegicus	80.2	TDP	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.96	8-oxo-dGTP	*pH 8.5, 37&Acirc;&deg;C
+KCAT	Solanum tuberosum	682	1,N6-Etheno-ATP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	1642	1,N6-Etheno-ATP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	86	1,N6-etheno-ADP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	1384	1,N6-etheno-ADP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	191	2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-triphosphate	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	982	2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-triphosphate	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	70	2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-diphosphate	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	328	2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-diphosphate	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	800	3'(2')-O-(methylanthranoyl)adenosine 5'-triphosphate	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	965	3'(2')-O-(methylanthranoyl)adenosine 5'-triphosphate	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	23	3'(2')-O-(methylanthranoyl)adenosine 5'-diphosphate	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	828	3'(2')-O-(methylanthranoyl)adenosine 5'-diphosphate	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	595	thio-dATP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Solanum tuberosum	1101	thio-dATP	*30&Acirc;&deg;C, pH 6.0, presence of Ca2+
+KCAT	Rattus norvegicus	40.5	AMPCPP	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C

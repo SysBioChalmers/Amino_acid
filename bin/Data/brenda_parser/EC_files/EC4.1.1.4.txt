@@ -1,0 +1,7 @@
+KCAT	Clostridium acetobutylicum	-999	more	*
+KCAT	Clostridium acetobutylicum	30	acetoacetate	*mutant enzyme K116N
+KCAT	Clostridium acetobutylicum	38	acetoacetate	*mutant enzyme K116C
+KCAT	Clostridium acetobutylicum	165	acetoacetate	*at 25&deg;C, in 50 mM phosphate buffer, pH 5.95
+KCAT	Clostridium acetobutylicum	302	acetoacetate	*mutant enzyme K116R
+KCAT	Chromobacterium violaceum	349	acetoacetate	*at 25&deg;C, in 50 mM phosphate buffer, pH 5.95
+KCAT	Clostridium acetobutylicum	1560	acetoacetate	*wild-type enzyme

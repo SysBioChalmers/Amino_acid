@@ -1,0 +1,10 @@
+KCAT	Streptococcus pyogenes	0.0022	L-glutamate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Thermoplasma acidophilum	0.0045	L-glutamate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Candidatus Koribacter versatilis	0.0092	L-glutamate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Picrophilus torridus	0.0193	L-glutamate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Streptococcus pyogenes	0.0022	5-formimidoyltetrahydrofolate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Thermoplasma acidophilum	0.0045	5-formimidoyltetrahydrofolate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Candidatus Koribacter versatilis	0.0092	5-formimidoyltetrahydrofolate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Picrophilus torridus	0.0193	5-formimidoyltetrahydrofolate	*pH 7.3, 30&Acirc;&deg;C
+KCAT	Sus scrofa	-999	more	*26000 per min per mol or 3250 per min per chain
+KCAT	Sus scrofa	-999	more	*3480-4620 per min: bifunctional formiminotransferase cyclodeaminase, 1920 per min: recombinant His-tagged formiminotransferase domain

@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	0.0056	Procollagen type I	*
+KCAT	Homo sapiens	0.013	Procollagen type I	*pH and temperature not specified in the publication, recombinant enzyme, in presence of PCPE-1 NTR domain
+KCAT	Homo sapiens	0.016	Procollagen type I	*pH and temperature not specified in the publication, recombinant enzyme
+KCAT	Homo sapiens	0.053	Procollagen type I	*pH and temperature not specified in the publication, recombinant enzyme, in presence of PCPE-1 CUB1/CUB2 domains
+KCAT	Homo sapiens	0.059	Procollagen type I	*pH and temperature not specified in the publication, recombinant enzyme, in presence of PCPE-1

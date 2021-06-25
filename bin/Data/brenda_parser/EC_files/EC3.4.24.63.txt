@@ -1,0 +1,22 @@
+KCAT	Rattus norvegicus	0.625	actin	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	4	KKGYVADAP-7-amido-4-methylcoumarin	*pH 7.4, 30&deg;C, recombinant enzyme; pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Mus musculus	10.5	gastrin 17	*pH 7.5, 37&deg;C, 500 mM NaCl, mutant K185Y
+KCAT	Rattus norvegicus	11	bradykinin	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	11	gastrin 17	*pH 7.5, 37&deg;C, 150 mM NaCl
+KCAT	Mus musculus	11.1	gastrin 17	*pH 7.5, 37&deg;C, 500 mM NaCl
+KCAT	Mus musculus	12.4	gastrin	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	12.6	gastri-releasing peptide-(14-27)	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	13.5	Abz-VKMDAE-EDDnp	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	13.9	cholecystokinin 8 sulfate	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	13.9	sCCK8NH2	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	15	alpha-MSH	*pH 7.5, 37&deg;C, mutant K185Y
+KCAT	Mus musculus	15	cholecystokinin 8 sulfate	*pH 7.5, 37&deg;C, mutant K185Y
+KCAT	Mus musculus	15.9	glucagon	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	17.8	gastrin 17	*pH 7.5, 37&deg;C, 150 mM NaCl, mutant K185Y
+KCAT	Homo sapiens	20	KKGYVADAP-4-nitroanilide	*pH 7.4, 30&deg;C, recombinant enzyme; pH 7.5, 30&deg;C, recombinant enzyme
+KCAT	Homo sapiens	20.9	Abz-VNLDAE-EDDnp	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	23.4	orcokinin	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	26.8	glucagon	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	35	Abz-YVAEAPK(Dnp)G-OH	*pH 8.0, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	71.7	Abz-MGWMDEIDK(Dnp)SG-OH	*pH 8.0, 37&deg;C, recombinant enzyme
+KCAT	Rattus norvegicus	150	villin	*pH 7.5, 37&deg;C

@@ -1,0 +1,19 @@
+KCAT	Ricinus communis	0.0065	tetradecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.00717	tetradecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.02	9-(octyloxy)-nonanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.0273	tetradecanoyl-[acyl-carrier protein]	*T117R/G188L mutant enzyme
+KCAT	Ricinus communis	0.0317	pentadecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.04	8-(nonyloxy)-octanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.0467	hexadecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.0817	octadecanoyl-[acyl-carrier protein]	*T117R/G188L mutant enzyme
+KCAT	Ricinus communis	0.095	hexadecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.2	7-(decyloxy)-heptanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.2	nonadecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.233	heptadecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.333	stearoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.422	hexadecanoyl-[acyl-carrier protein]	*T117R/G188L mutant enzyme
+KCAT	Ricinus communis	0.5	10-(heptyloxy)-decanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.55	octadecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.705	octadecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.817	octadecanoyl-[acyl-carrier protein]	*
+KCAT	Ricinus communis	0.817	tetradecanoyl-[acyl-carrier protein]	*spinach acyl-carrier protein

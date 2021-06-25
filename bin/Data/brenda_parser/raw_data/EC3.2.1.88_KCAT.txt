@@ -1,0 +1,1 @@
+ecNumber*3.2.1.88#turnoverNumber*11.8#turnoverNumberMaximum*#substrate*4-nitrophenyl beta-L-arabinopyranoside#commentary*at pH 5.5 and 60&deg;C#organism*Caldanaerobius polysaccharolyticus#ligandStructureId*25130#literature*749663#

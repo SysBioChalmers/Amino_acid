@@ -1,0 +1,19 @@
+KCAT	Fasciola hepatica	0.0053	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	*mutant enzyme W67L, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25&deg;C
+KCAT	Fasciola hepatica	0.0072	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	*mutant enzyme H61N/W67L, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25&deg;C
+KCAT	Fasciola hepatica	0.01	Boc-VLK-7-amido-4-methylcoumarin	*in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37&deg;C
+KCAT	Fasciola hepatica	0.02	Z-Phe-Arg-NHMe	*in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37&deg;C
+KCAT	Fasciola hepatica	0.03	Z-Val-Leu-Lys-7-amido-4-methylcoumarin	*mutant enzyme H61N/W67L, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25&deg;C; mutant enzyme W67L, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25&deg;C
+KCAT	Fasciola hepatica	0.033	Boc-VPR-7-amido-4-methylcoumarin	*in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37&deg;C
+KCAT	Fasciola hepatica	0.043	Z-VVR-7-amido-4-methylcoumarin	*in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37&deg;C
+KCAT	Fasciola hepatica	0.15	tosyl-GPK-7-amido-4-methylcoumarin	*in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37&deg;C
+KCAT	Fasciola hepatica	0.33	benzyloxycarbonyl-L-Val-L-Leu-L-Lys-7-amido-4-methylcoumarin	*in 50 mM sodium phosphate, pH 6.5, 1 mM dithiothreitol, 1 mM EDTA, at 24&deg;C
+KCAT	Fasciola hepatica	0.33	benzyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	*
+KCAT	Fasciola hepatica	0.33	Z-Val-Leu-Lys-7-amido-4-methylcoumarin	*wild type enzyme, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25&deg;C
+KCAT	Fasciola hepatica	0.39	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin	*in 50 mM sodium phosphate, pH 6.5, 1 mM dithiothreitol, 1 mM EDTA, at 24&deg;C
+KCAT	Fasciola hepatica	0.39	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	*
+KCAT	Fasciola hepatica	0.58	Boc-AGPR-7-amido-4-methylcoumarin	*in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37&deg;C
+KCAT	Fasciola hepatica	1.015	tosyl-GPR-7-amido-4-methylcoumarin	*in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37&deg;C
+KCAT	Fasciola hepatica	1.2	Z-Leu-Arg-NHMe	*in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37&deg;C
+KCAT	Fasciola hepatica	6	tosyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin	*in 50 mM sodium phosphate, pH 6.5, 1 mM dithiothreitol, 1 mM EDTA, at 24&deg;C
+KCAT	Fasciola hepatica	6	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	*
+KCAT	Fasciola hepatica	6	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	*wild type enzyme, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25&deg;C

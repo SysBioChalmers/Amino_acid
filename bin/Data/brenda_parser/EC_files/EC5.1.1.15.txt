@@ -1,0 +1,6 @@
+KCAT	Ensifer sp. 23-3	0.7	L-2-aminobutyric acid amide	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Ensifer sp. 23-3	1.1	D-2-Aminobutyric acid amide	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Ensifer sp. 23-3	3.3	L-alanine amide	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Ensifer sp. 23-3	10.2	D-alanine amide	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Ensifer sp. 23-3	371	L-2-aminohexano-6-lactam	*recombinant enzyme, pH 7.0, 30&deg;C
+KCAT	Citreicella sp. SE45	465	L-2-aminohexano-6-lactam	*recombinant enzyme, pH 7.5, 30&deg;C

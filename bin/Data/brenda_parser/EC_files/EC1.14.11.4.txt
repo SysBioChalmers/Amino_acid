@@ -1,0 +1,5 @@
+KCAT	Gallus gallus	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	0.183	2-oxoglutarate	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	0.2	peptide (IKG)3	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Gallus gallus	2.6	lysine	*in synthetic peptides

@@ -1,0 +1,2 @@
+KCAT	Rhizobium leguminosarum bv. trifolii	38.12	D-galactose	*with NAD+ as cosubstrate, at pH 9.0 and 23&deg;C
+KCAT	Rhizobium leguminosarum bv. trifolii	69.9	D-galactose	*with NADP+ as cosubstrate, at pH 9.0 and 23&deg;C

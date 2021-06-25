@@ -1,0 +1,4 @@
+KCAT	Saccharomyces cerevisiae	1500	benzoyl-Pro-Phe-Arg 4-nitroanilide	*
+KCAT	Saccharomyces cerevisiae	6000	Acetyl-Ala-Ala-Pro-Ala 4-nitroanilide	*
+KCAT	Saccharomyces cerevisiae	38000	Acetyl-Ala-Ala-Pro-Phe 4-nitroanilide	*
+KCAT	Saccharomyces cerevisiae	38000	Methoxysuccinyl-Ala-Ala-Pro-Met 4-nitroanilide	*

@@ -1,0 +1,8 @@
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	0.35	succinyl-YVAD-7-amido-4-methylcoumarin	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.41	4-[[4'-(dimethylamino)phenyl]azo]-benzoic acid-YVADAPV-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	*pH 7.5
+KCAT	Homo sapiens	1	acetyl-YVAD-7-amido-4-methylcoumarin	*pH 7.5
+KCAT	Homo sapiens	1	succinyl-YVAD-4-nitroanilide	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	1.2	pro-interleukin-1beta	*pH 7.5
+KCAT	Homo sapiens	1.6	succinyl-YVAD-4-nitroanilide	*pH 7.5
+KCAT	Homo sapiens	13	acetyl-WEHD-7-amido-4-methylcoumarin	*pH 7.5

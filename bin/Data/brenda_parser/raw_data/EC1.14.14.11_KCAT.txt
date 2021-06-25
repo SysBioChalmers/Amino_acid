@@ -1,0 +1,1 @@
+ecNumber*1.14.14.11#turnoverNumber*1.6#turnoverNumberMaximum*#substrate*Styrene#commentary*pH 7.5, 37&deg;C#organism*Pseudomonas sp.#ligandStructureId*1987#literature*715353#

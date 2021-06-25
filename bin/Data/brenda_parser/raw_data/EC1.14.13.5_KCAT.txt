@@ -1,0 +1,1 @@
+ecNumber*1.14.13.5#turnoverNumber*37.7#turnoverNumberMaximum*#substrate*imidazoleacetate#commentary*#organism*Pseudomonas sp.#ligandStructureId*7351#literature*390104#

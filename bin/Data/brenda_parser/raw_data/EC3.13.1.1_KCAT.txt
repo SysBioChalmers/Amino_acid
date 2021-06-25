@@ -1,0 +1,1 @@
+ecNumber*3.13.1.1#turnoverNumber*0.00167#turnoverNumberMaximum*#substrate*UDP-glucose#commentary*#organism*Arabidopsis thaliana#ligandStructureId*64#literature*393361#!ecNumber*3.13.1.1#turnoverNumber*0.1#turnoverNumberMaximum*#substrate*UDP-glucose#commentary*#organism*Arabidopsis sp.#ligandStructureId*64#literature*393361#

@@ -1,0 +1,2 @@
+KCAT	Actinosynnema mirum	0.033	D-sedoheptulose 7-phosphate	*pH 7.0, 28&deg;C
+KCAT	Stigmatella aurantiaca	0.062	D-sedoheptulose 7-phosphate	*pH 7.0, 28&deg;C

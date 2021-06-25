@@ -1,0 +1,1 @@
+ecNumber*1.14.19.66#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Berberis stolonifera#ligandStructureId*#literature*393212#!ecNumber*1.14.19.66#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Berberis stolonifera#ligandStructureId*#literature*393213#

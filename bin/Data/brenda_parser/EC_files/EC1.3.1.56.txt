@@ -1,0 +1,3 @@
+KCAT	Comamonas testosteroni	0.123	3,4-dihydro-3,4-dihydroxy-2,2',5,5'-tetrachlorobiphenyl	*with 2.5 mM NAD+
+KCAT	Comamonas testosteroni	0.38	cis-2,3-dihydro-2,3-dihydroxybiphenyl	*with 2.5 mM NAD+
+KCAT	Comamonas testosteroni	0.9	cis-1,2-dihydro-1,2-dihydroxynaphthalene	*with 2.5 mM NAD+

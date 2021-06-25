@@ -1,0 +1,2 @@
+KCAT	Mus musculus	7.67	5-oxo-D-proline	*pH 8.0, 37&deg;C
+KCAT	Mus musculus	35.6	D-glutamate	*pH 8.0, 37&deg;C

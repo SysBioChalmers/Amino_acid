@@ -1,0 +1,1 @@
+ecNumber*1.6.3.1#turnoverNumber*2.8#turnoverNumberMaximum*#substrate*NADPH#commentary*at 25&deg;C, pH not specified in the publication#organism*Helicobacter pylori#ligandStructureId*5#literature*711969#!ecNumber*1.6.3.1#turnoverNumber*4.4#turnoverNumberMaximum*#substrate*NADH#commentary*pH 5.5, 65&deg;C#organism*Saccharolobus solfataricus#ligandStructureId*8#literature*719803#

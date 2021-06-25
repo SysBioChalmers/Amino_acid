@@ -1,0 +1,12 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.082	L-serine	*recombinant mutant L166V, pH 7.8, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.18	L-serine	*recombinant mutant L166A, pH 7.8, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.35	L-serine	*recombinant wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.44	L-serine	*at 80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.00068	L-threonine	*recombinant wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.0035	L-threonine	*recombinant mutant L166A, pH 7.8, 37&Acirc;&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.007	L-threonine	*recombinant mutant L166V, pH 7.8, 37&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	0.39	indole	*pH 7.5, 85&Acirc;&deg;C, recombinant TrpB2, with or without TrpA
+KCAT	Thermococcus kodakarensis	0.39	indole	*pH 7.5, 85&Acirc;&deg;C
+KCAT	Thermotoga maritima	0.46	indole	*at 80&Acirc;&deg;C, pH not specified in the publication
+KCAT	Thermococcus kodakarensis	1.04	indole	*pH 7.5, 85&Acirc;&deg;C, recombinant TrpB1
+KCAT	Thermococcus kodakarensis	3.46	indole	*pH 7.5, 85&Acirc;&deg;C, recombinant TrpB1 with TrpA

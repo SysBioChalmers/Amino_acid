@@ -1,0 +1,6 @@
+KCAT	Mastigocladus laminosus	0.000007	phycocyanobilin	*mutant C161L, pH 7.2, 37&deg;C
+KCAT	Mastigocladus laminosus	0.00001	apo-[phycoerythrocyanin alpha-subunit]	*depending on apo phycoerythrocyanin alpha-subunit (0.0048-0.019 mM), pH and temperature not specified in the publication
+KCAT	Mastigocladus laminosus	0.000018	phycocyanobilin	*mutant C48Q, pH 7.2, 37&deg;C
+KCAT	Mastigocladus laminosus	0.000021	phycocyanobilin	*wild-type, pH 7.2, 37&deg;C
+KCAT	Mastigocladus laminosus	0.000074	(2R,3E)-phycocyanobilin	*at 0.014 mM apo phycoerythrocyanin alpha-subunit, pH and temperature not specified in the publication
+KCAT	Mastigocladus laminosus	0.00015	phycocyanobilin	*mutant C91L, pH 7.2, 37&deg;C

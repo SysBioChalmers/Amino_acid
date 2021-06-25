@@ -1,0 +1,8 @@
+KCAT	Homo sapiens	0.1	Abz-KLKSSKQ-EDDnp	*in the presence of 1.4 M sodium citrate, in 50 mM Tris, 1 mM EDTA, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	0.5	Abz-KLKSSKQ-EDDnp	*in the presence of 0.0005 mM heparin, in 50 mM Tris, 1 mM EDTA, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	3.2	Abz-KLRSSKQ-EDDnp	*in the presence of 0.0005 mM heparin, in 50 mM Tris, 1 mM EDTA, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	3.4	Abz-KLRSSKQ-EDDnp	*in the presence of 1.4 M sodium citrate, in 50 mM Tris, 1 mM EDTA, pH 7.5, at 37&deg;C
+KCAT	Homo sapiens	94.36	ABZ-Val-Arg-Phe-Arg-5-amino-2-nitrobenzoic acid	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	96.4	ABZ-VRFRSTQ-Tyr(3-NO2)-NH2	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	113.1	ABZ-VRFRSTS-Tyr(3-NO2)-NH2	*pH 7.5, 37&deg;C
+KCAT	Homo sapiens	169.4	ABZ-VRFRSTG-Tyr(3-NO2)-NH2	*pH 7.5, 37&deg;C

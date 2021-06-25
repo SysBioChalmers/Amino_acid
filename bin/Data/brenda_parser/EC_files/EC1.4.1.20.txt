@@ -1,0 +1,74 @@
+KCAT	Lysinibacillus sphaericus	1.2	L-methionine	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	0.608	L-phenylalanine	*mutations V135I/I308N/Q363H
+KCAT	Lysinibacillus sphaericus	0.91	L-phenylalanine	*mutations Q18H/I336F/E313G
+KCAT	Lysinibacillus sphaericus	1.09	L-phenylalanine	*mutations K224Q/L283F/E313G
+KCAT	Lysinibacillus sphaericus	1.12	L-phenylalanine	*mutations F110Y/G124C/G293A
+KCAT	Lysinibacillus sphaericus	2.6	L-phenylalanine	*mutation G124A
+KCAT	Lysinibacillus sphaericus	3.07	L-phenylalanine	*mutations G124A/E313N
+KCAT	Lysinibacillus sphaericus	3.16	L-phenylalanine	*mutations K224Q/L283F
+KCAT	Lysinibacillus sphaericus	4.08	L-phenylalanine	*mutations D209G/Q18H/I336F
+KCAT	Lysinibacillus sphaericus	4.66	L-phenylalanine	*mutations G124A/E313G
+KCAT	Sporosarcina ureae	5.37	L-phenylalanine	*pH 10.4, 25&Acirc;&deg;C, native enzyme
+KCAT	Lysinibacillus sphaericus	5.8	L-phenylalanine	*mutations V33A/A206D/L283F
+KCAT	Lysinibacillus sphaericus	6.56	L-phenylalanine	*mutations Q18H/I336F
+KCAT	Sporosarcina ureae	8.55	L-phenylalanine	*pH 10.4, 30&Acirc;&deg;C, native enzyme
+KCAT	Sporosarcina ureae	28.71	L-phenylalanine	*pH 10.4, 25&Acirc;&deg;C, immobilized enzyme
+KCAT	Lysinibacillus sphaericus	32.1	L-phenylalanine	*mutation E313G
+KCAT	Bacillus badius	39	L-phenylalanine	*
+KCAT	Sporosarcina ureae	49.56	L-phenylalanine	*pH 10.4, 30&Acirc;&deg;C, immobilized enzyme
+KCAT	Lysinibacillus sphaericus	56.1	L-phenylalanine	*mutation D209G
+KCAT	Lysinibacillus sphaericus	57.1	L-phenylalanine	*wild type enzyme of Bacillus sphaericus
+KCAT	Lysinibacillus sphaericus	68.01	L-phenylalanine	*25&Acirc;&deg;C, pH 10.4
+KCAT	Bacillus badius	34	L-tyrosine	*
+KCAT	Lysinibacillus sphaericus	68	L-tyrosine	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	0.7	L-leucine	*25&Acirc;&deg;C, pH 10.4
+KCAT	Thermoactinomyces intermedius	91	phenylpyruvate	*wild-type enzyme
+KCAT	Lysinibacillus sphaericus	113	phenylpyruvate	*25&Acirc;&deg;C, pH 10.4
+KCAT	Thermoactinomyces intermedius	0.75	L-Phe	*mutant enzyme F124M/V125S/H126I/A127I/A128Y/R129Q
+KCAT	Thermoactinomyces intermedius	45	L-Phe	*wild-type enzyme
+KCAT	Bacillus badius	714	L-Phe	*25&Acirc;&deg;C, pH 10.4, dextran-modified enzyme
+KCAT	Bacillus badius	816	L-Phe	*25&Acirc;&deg;C, pH 10.4, native enzyme
+KCAT	Lysinibacillus sphaericus	0.91	L-valine	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	0.14	L-isoleucine	*25&Acirc;&deg;C, pH 10.4
+KCAT	Thermoactinomyces intermedius	0.21	L-Leu	*mutant enzyme F124M/V125S/H126I/A127I/A128Y/R129Q
+KCAT	Thermoactinomyces intermedius	3.6	L-Leu	*wild-type enzyme
+KCAT	Thermoactinomyces intermedius	0.16	L-Met	*mutant enzyme F124M/V125S/H126I/A127I/A128Y/R129Q
+KCAT	Thermoactinomyces intermedius	0.84	L-Met	*wild-type enzyme
+KCAT	Thermoactinomyces intermedius	0.15	L-norvaline	*mutant enzyme F124M/V125S/H126I/A127I/A128Y/R129Q
+KCAT	Thermoactinomyces intermedius	0.59	L-norvaline	*wild-type enzyme
+KCAT	Lysinibacillus sphaericus	1.4	L-norvaline	*25&Acirc;&deg;C, pH 10.4
+KCAT	Thermoactinomyces intermedius	0.17	L-norleucine	*mutant enzyme F124M/V125S/H126I/A127I/A128Y/R129Q
+KCAT	Thermoactinomyces intermedius	1.9	L-norleucine	*wild-type enzyme
+KCAT	Lysinibacillus sphaericus	3.2	L-norleucine	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	0.5	DL-propargylglycine	*mutations K224Q/L283F/E313G
+KCAT	Lysinibacillus sphaericus	0.57	DL-propargylglycine	*mutations G124A/E313N
+KCAT	Lysinibacillus sphaericus	0.59	DL-propargylglycine	*mutations Q18H/I336F/E313G
+KCAT	Lysinibacillus sphaericus	0.69	DL-propargylglycine	*mutation G124A
+KCAT	Lysinibacillus sphaericus	0.722	DL-propargylglycine	*wild type enzyme of Bacillus sphaericus
+KCAT	Lysinibacillus sphaericus	0.759	DL-propargylglycine	*mutations F110Y/G124C/G293A
+KCAT	Lysinibacillus sphaericus	0.92	DL-propargylglycine	*mutations G124A/E313G
+KCAT	Lysinibacillus sphaericus	1.02	DL-propargylglycine	*mutations Q18H/I336F
+KCAT	Lysinibacillus sphaericus	1.07	DL-propargylglycine	*mutation E313G
+KCAT	Lysinibacillus sphaericus	1.15	DL-propargylglycine	*mutations K224Q/L283F
+KCAT	Lysinibacillus sphaericus	1.3	DL-propargylglycine	*mutations D209G/Q18H/I336F
+KCAT	Lysinibacillus sphaericus	1.42	DL-propargylglycine	*mutations V33A/A206D/L283F
+KCAT	Lysinibacillus sphaericus	1.49	DL-propargylglycine	*mutations V135I/I308N/Q363H
+KCAT	Lysinibacillus sphaericus	1.82	DL-propargylglycine	*mutation D209G
+KCAT	Thermoactinomyces intermedius	82	2-Oxopentanoate	*wild-type enzyme
+KCAT	Thermoactinomyces intermedius	57	2-Oxoisohexanoate	*wild-type enzyme
+KCAT	Thermoactinomyces intermedius	0.24	L-Ile	*wild-type enzyme
+KCAT	Thermoactinomyces intermedius	0.28	L-Ile	*mutant enzyme F124M/V125S/H126I/A127I/A128Y/R129Q
+KCAT	Thermoactinomyces intermedius	79	2-Oxohexanoate	*wild-type enzyme
+KCAT	Thermoactinomyces intermedius	0.1	L-ethionine	*mutant enzyme F124M/V125S/H126I/A127I/A128Y/R129Q
+KCAT	Thermoactinomyces intermedius	1.1	L-ethionine	*wild-type enzyme
+KCAT	Thermoactinomyces intermedius	37	2-oxo-4-methylthiobutanoate	*wild-type enzyme
+KCAT	Rhodococcus sp.	0.7	phenylacetone	*mutant enzyme K66Q/S149G/N262C, at pH 9.6 and 30&Acirc;&deg;C
+KCAT	Thermoactinomyces intermedius	26	2-oxo-4-methylpentanoate	*wild-type enzyme
+KCAT	Lysinibacillus sphaericus	27	alpha-Ketoisocaproate	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	33	alpha-ketovalerate	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	51	alpha-Ketocaproate	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	27	alpha-keto-gamma-methiobutyrate	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	90	p-hydroxy-phenylpyruvate	*25&Acirc;&deg;C, pH 10.4
+KCAT	Lysinibacillus sphaericus	7.2	DL-alpha-keto-beta-methyl-n-valerate	*25&Acirc;&deg;C, pH 10.4
+KCAT	Rhodococcus sp.	0.72	4-phenyl-2-butanone	*mutant enzyme K66Q/S149G/N262C, at pH 9.6 and 30&Acirc;&deg;C
+KCAT	Thermoactinomyces intermedius	-999	more	*turnover numbers of wild-type and mutant enzymes

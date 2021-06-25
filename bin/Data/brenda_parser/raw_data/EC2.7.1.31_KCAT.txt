@@ -1,0 +1,1 @@
+ecNumber*2.7.1.31#turnoverNumber*200#turnoverNumberMaximum*#substrate*D-glycerate#commentary*#organism*Spinacia oleracea#ligandStructureId*521#literature*641341#!ecNumber*2.7.1.31#turnoverNumber*350#turnoverNumberMaximum*#substrate*D-glycerate#commentary*#organism*Escherichia coli#ligandStructureId*521#literature*641287#

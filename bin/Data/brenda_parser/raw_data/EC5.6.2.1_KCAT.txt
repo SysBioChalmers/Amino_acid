@@ -1,0 +1,1 @@
+ecNumber*5.6.2.1#turnoverNumber*0.02#turnoverNumberMaximum*#substrate*negatively supercoiled plasmid pXXZ06 DNA#commentary*pH 7.9, 37&deg;C#organism*Escherichia coli#ligandStructureId*#literature*716834#

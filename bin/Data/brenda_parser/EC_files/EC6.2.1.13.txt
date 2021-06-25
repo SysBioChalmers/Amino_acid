@@ -1,0 +1,98 @@
+KCAT	Entamoeba histolytica	0.12	acetyl-CoA	*mutant enzyme H533E, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	0.18	acetate	*mutant enzyme H533D, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	0.22	phosphate	*mutant enzyme H533E, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	0.25	ATP	*mutant enzyme H533D, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	0.25	CoA	*mutant enzyme H533D, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	0.26	acetate	*mutant enzyme H533E, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	0.27	ADP	*mutant enzyme H533E, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	0.27	CoA	*mutant enzyme H533E, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	0.28	ATP	*mutant enzyme H533E, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.2	acetate	*mutant enzyme H533Q, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.3	CoA	*mutant enzyme H533Q, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.4	acetyl-CoA	*mutant enzyme H533N, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.4	ADP	*mutant enzyme H533N, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.4	ATP	*mutant enzyme H533Q, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.5	acetate	*mutant enzyme H533N, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.5	phosphate	*mutant enzyme H533N, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.6	acetyl-CoA	*mutant enzyme H533D, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.7	acetyl-CoA	*mutant enzyme H533Q, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.7	ADP	*mutant enzyme H533D, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.7	phosphate	*mutant enzyme H533D, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	1.8	phosphate	*mutant enzyme H533Q, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	2	ATP	*mutant enzyme H533N, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	2	CoA	*mutant enzyme H533N, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	2.3	phosphate	*mutant enzyme H533A, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	2.4	acetyl-CoA	*mutant enzyme H533K, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	2.5	ADP	*mutant enzyme H533Q, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	2.7	acetyl-CoA	*mutant enzyme H533A, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	2.8	ADP	*mutant enzyme H533A, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	3.1	phosphate	*mutant enzyme H533K, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	3.3	acetate	*mutant enzyme H533A, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	3.3	ADP	*mutant enzyme H533K, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	3.3	ATP	*mutant enzyme H533A, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	3.4	acetate	*mutant enzyme H533K, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	3.7	ATP	*mutant enzyme H533K, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	4.1	CoA	*mutant enzyme H533K, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	4.2	CoA	*mutant enzyme H533A, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	5.6	acetate	*mutant enzyme H533R, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	6.6	ATP	*mutant enzyme H533R, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	7	CoA	*mutant enzyme H533R, pH and temperature not specified in the publication
+KCAT	Pyrococcus furiosus	8	isobutyryl-CoA	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	14	phosphate	*mutant enzyme H533R, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	18	acetyl-CoA	*mutant enzyme H533R, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	18	phosphate	*with propionyl-CoA as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Entamoeba histolytica	20	ADP	*mutant enzyme H533R, pH and temperature not specified in the publication
+KCAT	Pyrococcus furiosus	21	GDP	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	21	propionyl-CoA	*at pH 7.3 and 37&deg;C
+KCAT	Pyrococcus furiosus	22	Isobutyrate	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	24	ADP	*with propionyl-CoA as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Thermococcus kodakarensis	26.1	thioglycolate	*at pH 6.5 and 55&deg;C
+KCAT	Pyrococcus furiosus	27	GTP	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	34	acetyl-CoA	*at pH 6.0 and 37&deg;C; pH 7.0, 37&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	34	ADP	*pH 7.0, 37&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	34	phosphate	*pH 7.0, 37&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	35	acetate	*at pH 6.0 and 37&deg;C
+KCAT	Thermococcus kodakarensis	40.6	phenylacetate	*at pH 6.5 and 55&deg;C
+KCAT	Pyrococcus furiosus	42	acetyl-CoA	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	46	acetate	*at pH 7.0 and 37&deg;C; pH 6.0, 37&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	46	ATP	*pH 6.0, 37&deg;C, recombinant enzyme
+KCAT	Entamoeba histolytica	46	CoA	*pH 6.0, 37&deg;C, recombinant enzyme
+KCAT	Thermococcus kodakarensis	49.3	acetate	*at pH 6.5 and 55&deg;C
+KCAT	Thermococcus kodakarensis	50.9	Isobutyrate	*at pH 6.5 and 55&deg;C
+KCAT	Thermococcus kodakarensis	53.1	CoA	*at pH 6.5 and 55&deg;C
+KCAT	Thermococcus kodakarensis	53.7	ATP	*at pH 6.5 and 55&deg;C
+KCAT	Entamoeba histolytica	55	acetyl-CoA	*at pH 7.0 and 37&deg;C
+KCAT	Pyrococcus furiosus	55	Isobutyrate	*isoenzyme ACS I
+KCAT	Pyrococcus furiosus	65	CoA	*isoenzyme ACS I
+KCAT	Pyrococcus furiosus	66	indoleacetate	*isoenzyme ACS II
+KCAT	Pyrococcus furiosus	67	acetate	*isoenzyme ACS II
+KCAT	Pyrococcus furiosus	68	ATP	*isoenzyme ACS II
+KCAT	Pyrococcus furiosus	70	CoA	*isoenzyme ACS II
+KCAT	Pyrococcus furiosus	73	CoA	*isoenzyme ACS I
+KCAT	Pyrococcus furiosus	82	ATP	*isoenzyme ACS I
+KCAT	Pyrococcus furiosus	89	phenylacetate	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	110	acetyl-CoA	*at pH 7.3 and 37&deg;C
+KCAT	Entamoeba histolytica	111	acetyl-CoA	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Pyrococcus furiosus	115	ADP	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	115	phosphate	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Pyrococcus furiosus	117	phosphate	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	120	phosphate	*with acetyl-CoA as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Pyrococcus furiosus	121	isobutyryl-CoA	*GTP, isoenzyme ACS I
+KCAT	Entamoeba histolytica	138	ADP	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Pyrococcus furiosus	138	phenylacetyl-CoA	*isoenzyme ACS II
+KCAT	Entamoeba histolytica	140	ADP	*with acetyl-CoA as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Pyrococcus furiosus	157	acetyl-CoA	*isoenzyme ACS I
+KCAT	Entamoeba histolytica	170	GDP	*with acetyl-CoA as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Entamoeba histolytica	180	GTP	*with acetate as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Pyrococcus furiosus	182	phosphate	*isoenzyme ACS I
+KCAT	Entamoeba histolytica	190	propionate	*at pH 7.3 and 37&deg;C
+KCAT	Pyrococcus furiosus	203	ADP	*isoenzyme ACS I
+KCAT	Entamoeba histolytica	220	CoA	*with acetate as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Entamoeba histolytica	233	acetate	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	240	acetate	*at pH 7.3 and 37&deg;C
+KCAT	Entamoeba histolytica	240	ATP	*with propionate as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Entamoeba histolytica	260	CoA	*with propionate as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Entamoeba histolytica	320	ATP	*with acetate as cosubstrate, at pH 7.3 and 37&deg;C
+KCAT	Entamoeba histolytica	320	ATP	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Entamoeba histolytica	328	CoA	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Pyrococcus furiosus	411	GDP	*isoenzyme ACS I

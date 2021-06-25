@@ -1,0 +1,1 @@
+ecNumber*1.14.14.59#turnoverNumber*0.2#turnoverNumberMaximum*#substrate*(3S,6E)-nerolidol#commentary*pH not specified in the publication, temperature not specified in the publication#organism*Arabidopsis thaliana#ligandStructureId*19192#literature*746284#

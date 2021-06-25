@@ -1,0 +1,1 @@
+ecNumber*4.3.1.28#turnoverNumber*0.61#turnoverNumberMaximum*#substrate*L-lysine#commentary*0.1 mM NAD+, in 100 mM HEPES (pH 8.0), at 30&deg;C#organism*Streptomyces hygroscopicus#ligandStructureId*134#literature*719643#

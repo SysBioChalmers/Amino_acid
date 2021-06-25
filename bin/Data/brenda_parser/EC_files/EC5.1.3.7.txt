@@ -1,0 +1,22 @@
+KCAT	Pseudomonas aeruginosa	0.52	UDP-D-glucose	*pH 8.0, 37&deg;C
+KCAT	Marinithermus hydrothermalis	0.58	UDP-N-acetyl-alpha-D-glucosamine	*pH 7.5, 45&deg;C, wild-type enzyme
+KCAT	Marinithermus hydrothermalis	0.83	UDP-N-acetyl-alpha-D-glucosamine	*pH 7.5, 45&deg;C, mutant T117S
+KCAT	Marinithermus hydrothermalis	1	UDP-N-acetyl-alpha-D-glucosamine	*pH 7.5, 45&deg;C, mutant S116A
+KCAT	Escherichia coli	3.335	UDP-glucose	*pH 7.0, 37&deg;C
+KCAT	Pseudomonas aeruginosa	3.4	UDP-D-galactose	*pH 8.0, 37&deg;C
+KCAT	Pseudomonas aeruginosa	36.9	UDP-D-galactose	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	43.5	UDP-N-acetyl-alpha-D-glucosamine	*pH 7.0, 37&deg;C
+KCAT	Campylobacter jejuni	73.95	UDP-D-glucose	*MalE-Gne fusion protein
+KCAT	Campylobacter jejuni	82.3	UDP-N-acetyl-D-glucosamine	*MalE-Gne fusion protein
+KCAT	Campylobacter jejuni	247.9	UDP-N-acetyl-D-galactosamine	*MalE-Gne fusion protein
+KCAT	Campylobacter jejuni	290.1	UDP-D-galactose	*MalE-Gne fusion protein
+KCAT	Thermotoga maritima	7757	UDP-alpha-D-galactose	*pH 7.0, 80&deg;C
+KCAT	Thermotoga maritima	14677	UDP-alpha-D-glucose	*pH 7.0, 80&deg;C
+KCAT	Pseudomonas aeruginosa	27660	UDP-N-acetyl-D-glucosamine	*pH 8.0, 37&deg;C
+KCAT	Thermotoga maritima	27671	UDP-N-acetyl-alpha-D-galactosamine	*recombinant enzyme, pH 7.0, 80&deg;C
+KCAT	Thermotoga maritima	27671	UDP-N-acetyl-alpha-D-glucosamine	*pH 7.0, 80&deg;C
+KCAT	Pseudomonas aeruginosa	27700	UDP-N-acetyl-D-glucosamine	*pH 8.0, 37&deg;C
+KCAT	Thermotoga maritima	38295	UDP-N-acetyl-alpha-D-galactosamine	*pH 7.0, 80&deg;C
+KCAT	Thermotoga maritima	38295	UDP-N-acetyl-alpha-D-glucosamine	*recombinant enzyme, pH 7.0, 80&deg;C
+KCAT	Pseudomonas aeruginosa	62280	UDP-N-acetyl-D-glucosamine	*pH 8.0, 37&deg;C
+KCAT	Pseudomonas aeruginosa	62300	UDP-N-acetyl-D-glucosamine	*pH 8.0, 37&deg;C

@@ -1,0 +1,4 @@
+KCAT	Helianthus annuus	0.00674	stearoyl-[acyl-carrier protein]	*at pH 7.4 and 25&deg;C
+KCAT	Helianthus annuus	0.00944	palmitoyl-[acyl-carrier protein]	*at pH 7.4 and 25&deg;C
+KCAT	Helianthus annuus	0.011	sn-glycerol 3-phosphate	*at pH 7.4 and 25&deg;C
+KCAT	Helianthus annuus	0.0918	oleoyl-[acyl-carrier protein]	*at pH 7.4 and 25&deg;C

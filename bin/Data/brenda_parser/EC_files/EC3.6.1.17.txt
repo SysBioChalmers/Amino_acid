@@ -1,0 +1,48 @@
+KCAT	Caenorhabditis elegans	0.37	dATP	*in 50 mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	0.53	dGTP	*in 50 mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	0.00024	Ap4A	*mutant enzyme E56Q
+KCAT	Lupinus angustifolius	0.00031	Ap4A	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme E59Q, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+KCAT	Lupinus angustifolius	0.005	Ap4A	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme E55Q fusion protein containing and N-terminal extension of Gly-Pro-Leu-Gly-Ser
+KCAT	Caenorhabditis elegans	0.0052	Ap4A	*mutant enzyme E52Q
+KCAT	Lupinus angustifolius	0.011	Ap4A	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme E59D, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+KCAT	Caenorhabditis elegans	0.16	Ap4A	*mutant enzyme K79M
+KCAT	Lupinus angustifolius	0.29	Ap4A	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme E125Q, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser
+KCAT	Caenorhabditis elegans	0.6	Ap4A	*mutant enzyme K83M
+KCAT	Caenorhabditis elegans	0.75	Ap4A	*mutant enzyme E103Q
+KCAT	Caenorhabditis elegans	1.1	Ap4A	*mutant enzyme Y76A/Y121A
+KCAT	Caenorhabditis elegans	2	Ap4A	*mutant enzyme Y76A
+KCAT	Caenorhabditis elegans	2.1	Ap4A	*mutant enzyme K36M
+KCAT	Lupinus angustifolius	3.7	Ap4A	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme E58D fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+KCAT	Lupinus angustifolius	4.2	Ap4A	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme R54Q fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+KCAT	Caenorhabditis elegans	12	Ap4A	*mutant enzyme H31A
+KCAT	Caenorhabditis elegans	14	Ap4A	*mutant enzyme H31V; mutant enzyme Y121A
+KCAT	Lupinus angustifolius	17.9	Ap4A	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme E58Q, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+KCAT	Lupinus angustifolius	20.4	Ap4A	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme E122Q, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+KCAT	Caenorhabditis elegans	23	Ap4A	*wild-type enzyme
+KCAT	Caenorhabditis elegans	26	Ap4A	*mutant enzyme Y27A
+KCAT	Caenorhabditis elegans	27	Ap4A	*pH 7.8, 25&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	29	Ap4A	*mutant enzyme Y27D
+KCAT	Caenorhabditis elegans	30	Ap4A	*mutant enzyme K81M
+KCAT	Caenorhabditis elegans	31	Ap4A	*mutant enzyme H38G; mutant enzyme H38K
+KCAT	Lupinus angustifolius	40.8	Ap4A	*pH 8.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Aquifex aeolicus	2.5	P1,P4-bis(5'-adenosyl) tetraphosphate	*in 50 mM Tris-HCl, 100 mM KCl, 5 mM MgCl2, pH 7.6, at 25&Acirc;&deg;C
+KCAT	Photinus pyralis	3.6	P1,P4-bis(5'-adenosyl) tetraphosphate	*
+KCAT	Caenorhabditis elegans	0.58	8-oxo-dGTP	*in 50 mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37&Acirc;&deg;C
+KCAT	Myxococcus xanthus	0.035	P1,P5-bis(5'-adenosyl)pentaphosphate	*pH 8.0, 50&Acirc;&deg;C, presence of 1 mM Mn2+
+KCAT	Myxococcus xanthus	0.055	P1,P4-bis(5'-adenosyl)tetraphosphate	*pH 8.0, 50&Acirc;&deg;C, presence of 1 mM Mn2+
+KCAT	Drosophila melanogaster	13	5',5'-diadenosine tetraphosphate	*pH 7.5, 20 mM Mg2+
+KCAT	Drosophila melanogaster	43	5',5'-diadenosine tetraphosphate	*pH 6.5, 1 mM Zn2+
+KCAT	Aquifex aeolicus	1.4	P1,P5-bis(5'-adenosyl) pentaphosphate	*in 50 mM Tris-HCl, 100 mM KCl, 5 mM MgCl2, pH 7.6, at 25&Acirc;&deg;C
+KCAT	Aquifex aeolicus	0.2	P1,P6-bis(5'-adenosyl) hexaphosphate	*in 50 mM Tris-HCl, 100 mM KCl, 5 mM MgCl2, pH 7.6, at 25&Acirc;&deg;C
+KCAT	Chlamydia trachomatis	0.68	diadenosine 5',5''-P1,P4-tetraphosphate	*presence of 5.0 mM MnCl2, pH 7.5, 22&Acirc;&deg;C
+KCAT	Chlamydia trachomatis	1.51	diadenosine 5',5''-P1,P4-tetraphosphate	*presence of 3.0 mM MnCl2, pH 7.5, 22&Acirc;&deg;C
+KCAT	Chlamydia trachomatis	1.6	diadenosine 5',5''-P1,P4-tetraphosphate	*presence of 1.5 mM MnCl2, pH 7.5, 22&Acirc;&deg;C
+KCAT	Chlamydia trachomatis	1.78	diadenosine 5',5''-P1,P4-tetraphosphate	*presence of 1.5 mM MgCl2, pH 7.5, 22&Acirc;&deg;C
+KCAT	Chlamydia trachomatis	2.24	diadenosine 5',5''-P1,P4-tetraphosphate	*presence of 3.0 mM MgCl2, pH 7.5, 22&Acirc;&deg;C
+KCAT	Chlamydia trachomatis	3.25	diadenosine 5',5''-P1,P4-tetraphosphate	*presence of 5.0 mM MgCl2, pH 7.5, 22&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	27	diadenosine 5',5''''-P1,P4-tetraphosphate	*in 50 mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	0.51	2-oxo-dATP	*in 5 0mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37&Acirc;&deg;C
+KCAT	Drosophila melanogaster	4	5',5'-diadenosine hexaphosphate	*pH 7.5, 20 mM Mg2+
+KCAT	Plasmodium falciparum	0.013	5',5''-diadenosine tetraphosphate	*mutant P133F, pH 7.5, 22&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.042	5',5''-diadenosine tetraphosphate	*wild-type, pH 7.5, 22&Acirc;&deg;C
+KCAT	Plasmodium falciparum	0.08	5',5''-diadenosine tetraphosphate	*mutant P133A, pH 7.5, 22&Acirc;&deg;C

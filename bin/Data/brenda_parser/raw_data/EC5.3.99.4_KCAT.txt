@@ -1,0 +1,1 @@
+ecNumber*5.3.99.4#turnoverNumber*2.45#turnoverNumberMaximum*#substrate*prostaglandin H2#commentary*#organism*Bos taurus#ligandStructureId*612#literature*37472#!ecNumber*5.3.99.4#turnoverNumber*26.5#turnoverNumberMaximum*#substrate*Prostaglandin H1#commentary*#organism*Bos taurus#ligandStructureId*6585#literature*37472#

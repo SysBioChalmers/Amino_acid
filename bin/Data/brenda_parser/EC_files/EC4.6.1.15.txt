@@ -1,0 +1,2 @@
+KCAT	Rattus norvegicus	4.82	FAD	*Mn2+, pH: 7.5
+KCAT	Rattus norvegicus	19.3	FAD	*Mn2+, pH: 8.3

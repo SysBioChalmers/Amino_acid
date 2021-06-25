@@ -1,0 +1,1 @@
+ecNumber*2.4.1.66#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*0.7 mol of glucosylgalactosylhydroxylysine residues formed per s per mol of enzyme#organism*Gallus gallus#ligandStructureId*#literature*636780#

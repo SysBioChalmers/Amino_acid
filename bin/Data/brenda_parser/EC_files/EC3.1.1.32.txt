@@ -1,0 +1,5 @@
+KCAT	Serratia sp.	0.057	phosphatidylcholine	*37&Acirc;&deg;C, pH 8.0
+KCAT	Thermomyces lanuginosus	5158	phosphatidylcholine	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Streptomyces albidoflavus	630	phosphatidic acid	*pH 7.2, 50&Acirc;&deg;C, recombinant enzyme
+KCAT	Thermomyces lanuginosus	2270	triacylglycerol	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.1	high-density lipoprotein	*

@@ -1,0 +1,106 @@
+KCAT	Homo sapiens	2.9	O2	*
+KCAT	Xanthomonas campestris	35.4	O2	*25&Acirc;&deg;C, pH 7.5, wild-type enzyme
+KCAT	Homo sapiens	0.04	L-tryptophan	*H76A mutant enzyme, pH 8.0, normal atmospheric conditions
+KCAT	Micromonospora sp.	0.045	L-tryptophan	*
+KCAT	Homo sapiens	0.101	L-tryptophan	*pH 7.0, 25&Acirc;&deg;C, mutant T342A
+KCAT	Homo sapiens	0.103	L-tryptophan	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme IDO2
+KCAT	Homo sapiens	0.6	L-tryptophan	*pH 7.0, normal atmospheric conditions
+KCAT	Homo sapiens	0.87	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the absence of methylene blue and cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.87	L-tryptophan	*recombinant mutant T379A, pH 7.4, 25&Acirc;&deg;C
+KCAT	Monodelphis domestica	0.9	L-tryptophan	*
+KCAT	Homo sapiens	1	L-tryptophan	*pH 7.0, 22&Acirc;&deg;C, IDO2
+KCAT	Homo sapiens	1.3	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.0001 mM methylene blue and in the absence of cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.4	L-tryptophan	*
+KCAT	Homo sapiens	1.4	L-tryptophan	*
+KCAT	Homo sapiens	1.7	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the absence of methylene blue and in the presence of 250 nM cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Mus musculus	1.8	L-tryptophan	*
+KCAT	Anopheles gambiae	2.03	L-tryptophan	*
+KCAT	Homo sapiens	2.1	L-tryptophan	*pH 7.0
+KCAT	Xenopus laevis	2.2	L-tryptophan	*
+KCAT	Homo sapiens	2.2	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.0001 mM methylene blue and 250 nM cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.24	L-tryptophan	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	2.5	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.0005 mM methylene blue and in the absence of cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Xanthomonas campestris	2.6	L-tryptophan	*H55S mutant enzyme, O2 not present at a saturating level
+KCAT	Danio rerio	2.6	L-tryptophan	*
+KCAT	Xanthomonas campestris	2.86	L-tryptophan	*H55A mutant enzyme, O2 not present at a saturating level
+KCAT	Ornithorhynchus anatinus	2.9	L-tryptophan	*
+KCAT	Homo sapiens	2.97	L-tryptophan	*pH 6.5, 25&Acirc;&deg;C, recombinant enzyme IDO1
+KCAT	Homo sapiens	3	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.001 mM methylene blue and in the absence of cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.04	L-tryptophan	*Y42F mutant enzyme, pH 8.0, normal atmospheric conditions
+KCAT	Homo sapiens	3.1	L-tryptophan	*
+KCAT	Homo sapiens	3.2	L-tryptophan	*in the presence of 2.5 mM 3-indole ethanol
+KCAT	Homo sapiens	3.4	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.0005 mM methylene blue and 250 nM cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	3.5	L-tryptophan	*in the presence of 5.1 mM 3-indole ethanol
+KCAT	Xanthomonas campestris	3.86	L-tryptophan	*H55A mutant enzyme
+KCAT	Homo sapiens	4.2	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.001 mM methylene blue and 250 nM cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Ornithorhynchus anatinus	4.3	L-tryptophan	*
+KCAT	Homo sapiens	4.3	L-tryptophan	*recombinant wild-type enzyme, pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	6.12	L-tryptophan	*pH 8.0, normal atmospheric conditions
+KCAT	Homo sapiens	6.4	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.01 mM methylene blue and in the absence of cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Xanthomonas campestris	7.88	L-tryptophan	*H55S mutant enzyme
+KCAT	Homo sapiens	8.1	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.03 mM methylene blue and in the absence of cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	10	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.01 mM methylene blue and 250 nM cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Homo sapiens	12	L-tryptophan	*NADPH-cytochrome P450 reductase-supported oxidation, in the presence of 0.03 mM methylene blue and 250 nM cytochrome b5, in PBS buffer (pH 7.4), at 37&Acirc;&deg;C
+KCAT	Mus musculus	16.8	L-tryptophan	*
+KCAT	Monodelphis domestica	19	L-tryptophan	*
+KCAT	Xanthomonas campestris	19.5	L-tryptophan	*O2 not present at a saturating level
+KCAT	Xanthomonas campestris	35.4	L-tryptophan	*
+KCAT	Oryctolagus cuniculus	0.00483	tryptamine	*24&Acirc;&deg;C
+KCAT	Homo sapiens	1.55	L-Trp	*
+KCAT	Oryctolagus cuniculus	1.65	L-Trp	*24&Acirc;&deg;C
+KCAT	Oryctolagus cuniculus	1.65	L-Trp	*
+KCAT	Xanthomonas campestris	2.86	L-Trp	*25&Acirc;&deg;C, pH 7.5, mutant enzyme H55A
+KCAT	Xanthomonas campestris	3	L-Trp	*25&Acirc;&deg;C, pH 7.5, mutant enzyme H55A
+KCAT	Xanthomonas campestris	19.5	L-Trp	*25&Acirc;&deg;C, pH 7.5, wild-type enzyme
+KCAT	Oryctolagus cuniculus	0.00283	serotonin	*24&Acirc;&deg;C
+KCAT	Micromonospora sp.	0.028	serotonin	*
+KCAT	Micromonospora sp.	0.248	indole	*
+KCAT	Micromonospora sp.	0.0068	D-tryptophan	*
+KCAT	Homo sapiens	0.0103	D-tryptophan	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme IDO2
+KCAT	Homo sapiens	0.082	D-tryptophan	*pH 7.0, 25&Acirc;&deg;C, mutant T342A
+KCAT	Homo sapiens	0.2	D-tryptophan	*pH 7.0
+KCAT	Homo sapiens	0.2	D-tryptophan	*pH 7.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	2.7	D-tryptophan	*pH 6.5, 25&Acirc;&deg;C, recombinant enzyme IDO1
+KCAT	Homo sapiens	3.93	D-tryptophan	*
+KCAT	Homo sapiens	5.9	D-tryptophan	*
+KCAT	Homo sapiens	0.025	5-hydroxy-L-tryptophan	*pH 6.5, 25&Acirc;&deg;C, recombinant enzyme IDO1
+KCAT	Oryctolagus cuniculus	0.0433	5-hydroxy-L-tryptophan	*24&Acirc;&deg;C
+KCAT	Homo sapiens	0.065	5-hydroxy-L-tryptophan	*
+KCAT	Oryctolagus cuniculus	1.18	D-Trp	*24&Acirc;&deg;C
+KCAT	Homo sapiens	2.07	D-Trp	*
+KCAT	Mus musculus	0.0015	kynurenine	*LPS-treated mice
+KCAT	Mus musculus	0.002	kynurenine	*
+KCAT	Homo sapiens	0.011	1-methyl-L-tryptophan	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme IDO2
+KCAT	Homo sapiens	0.062	1-methyl-L-tryptophan	*pH 6.5, 25&Acirc;&deg;C, recombinant enzyme IDO1
+KCAT	Homo sapiens	0.064	1-methyl-L-tryptophan	*
+KCAT	Homo sapiens	0.108	6-methyl-DL-tryptophan	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme IDO2
+KCAT	Xanthomonas campestris	1.65	6-methyl-DL-tryptophan	*H55A mutant enzyme, O2 not present at a saturating level
+KCAT	Xanthomonas campestris	4.66	6-methyl-DL-tryptophan	*H55S mutant enzyme, O2 not present at a saturating level
+KCAT	Xanthomonas campestris	41	6-methyl-DL-tryptophan	*O2 not present at a saturating level
+KCAT	Homo sapiens	0.36	5-methyl-DL-tryptophan	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme IDO2
+KCAT	Xanthomonas campestris	0.4	5-methyl-DL-tryptophan	*H55A mutant enzyme, O2 not present at a saturating level
+KCAT	Xanthomonas campestris	1.45	5-methyl-DL-tryptophan	*H55S mutant enzyme, O2 not present at a saturating level
+KCAT	Xanthomonas campestris	3.59	5-methyl-DL-tryptophan	*O2 not present at a saturating level
+KCAT	Homo sapiens	3.78	5-methyl-DL-tryptophan	*pH 6.5, 25&Acirc;&deg;C, recombinant enzyme IDO1
+KCAT	Xanthomonas campestris	3.78	6-fluoro-DL-tryptophan	*H55A mutant enzyme, O2 not present at a saturating level
+KCAT	Xanthomonas campestris	3.8	6-fluoro-DL-tryptophan	*H55S mutant enzyme, O2 not present at a saturating level
+KCAT	Xanthomonas campestris	37.3	6-fluoro-DL-tryptophan	*25&Acirc;&deg;C, pH 7.5, wild-type enzyme
+KCAT	Xanthomonas campestris	37.3	6-fluoro-DL-tryptophan	*O2 not present at a saturating level
+KCAT	Homo sapiens	0.0052	1-methyl-D-tryptophan	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme IDO2
+KCAT	Homo sapiens	0.095	1-methyl-D-tryptophan	*pH 6.5, 25&Acirc;&deg;C, recombinant enzyme IDO1
+KCAT	Homo sapiens	0.049	5-fluoro-DL-tryptophan	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme IDO2
+KCAT	Xanthomonas campestris	0.68	5-fluoro-DL-tryptophan	*H55A mutant enzyme, O2 not present at a saturating level
+KCAT	Homo sapiens	0.76	5-fluoro-DL-tryptophan	*pH 6.5, 25&Acirc;&deg;C, recombinant enzyme IDO1
+KCAT	Xanthomonas campestris	0.8	5-fluoro-DL-tryptophan	*H55S mutant enzyme, O2 not present at a saturating level
+KCAT	Xanthomonas campestris	2.4	5-fluoro-DL-tryptophan	*25&Acirc;&deg;C, pH 7.5, wild-type enzyme
+KCAT	Xanthomonas campestris	2.4	5-fluoro-DL-tryptophan	*O2 not present at a saturating level
+KCAT	Homo sapiens	0.161	5-methoxy-DL-tryptophan	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme IDO2
+KCAT	Homo sapiens	0.18	5-fluoro-tryptophan	*
+KCAT	Homo sapiens	0.76	5-fluoro-tryptophan	*
+KCAT	Oryctolagus cuniculus	0.00967	5-hydroxy-D-tryptophan	*24&Acirc;&deg;C
+KCAT	Homo sapiens	3.78	5-methyl-tryptophan	*
+KCAT	Homo sapiens	0.025	5-hydroxy-tryptophan	*
+KCAT	Delftia acidovorans	-999	more	*2070 per min, formylkynurenine formed
+KCAT	Rattus norvegicus	-999	more	*420 per min, formylkynurenine formed
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Rattus norvegicus	-999	more	*

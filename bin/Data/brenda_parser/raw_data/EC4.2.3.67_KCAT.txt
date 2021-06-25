@@ -1,0 +1,1 @@
+ecNumber*4.2.3.67#turnoverNumber*0.18#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH 7.2, 27&deg;C#organism*Mentha x piperita#ligandStructureId*81#literature*713228#

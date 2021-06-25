@@ -1,0 +1,1 @@
+ecNumber*3.4.21.48#turnoverNumber*2.1#turnoverNumberMaximum*#substrate*benzoyl-Tyr ethyl ester#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*6084#literature*95500#!ecNumber*3.4.21.48#turnoverNumber*9.6#turnoverNumberMaximum*#substrate*Acetyl-Tyr ethyl ester#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*4218#literature*95500#

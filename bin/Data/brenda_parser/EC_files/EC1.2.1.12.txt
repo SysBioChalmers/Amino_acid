@@ -1,0 +1,69 @@
+KCAT	Oryza sativa Japonica Group	0.09	NAD+	*mutant F36L, pH 8.8, 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	0.1	NAD+	*pH 8.0, 25&Acirc;&deg;C, tetrameric enzyme form, mutant D282G; pH 8.0, 25&Acirc;&deg;C, tetrameric enzyme form, mutant T34Q/T39S/L43Q
+KCAT	Oryza sativa Japonica Group	0.13	NAD+	*mutant F36T, pH 8.8, 25&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	0.24	NAD+	*mutant F36G, pH 8.8, 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	1	NAD+	*pH 8.0, 25&Acirc;&deg;C, tetrameric enzyme form, mutant N313T
+KCAT	Corynebacterium glutamicum	1.45	NAD+	*mutant L36T, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	1.45	NAD+	*pH 8.0, 25&Acirc;&deg;C, recombinant mutant L36T
+KCAT	Bacillus subtilis	2.5	NAD+	*mutant enzyme D32A/L187N
+KCAT	Corynebacterium glutamicum	2.73	NAD+	*mutant D35G/L36T/T37K/P192S, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	2.73	NAD+	*pH 8.0, 25&Acirc;&deg;C, recombinant mutant D35G/L36T/T37K/P192S
+KCAT	Corynebacterium glutamicum	2.87	NAD+	*mutant D35G/L36T/P192S, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	2.87	NAD+	*pH 8.0, 25&Acirc;&deg;C, recombinant mutant D35G/L36T/P192S
+KCAT	Corynebacterium glutamicum	4.2	NAD+	*mutant D35G/L36T/T37K, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	4.2	NAD+	*pH 8.0, 25&Acirc;&deg;C, recombinant mutant D35G/L36T/T37K
+KCAT	Corynebacterium glutamicum	6.37	NAD+	*mutant D35G, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	6.37	NAD+	*pH 8.0, 25&Acirc;&deg;C, recombinant mutant D35G
+KCAT	Corynebacterium glutamicum	6.45	NAD+	*wild-type, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	6.45	NAD+	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Saccharolobus solfataricus	20	NAD+	*pH 8.5, 65&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	51	NAD+	*pH 8.0, 25&Acirc;&deg;C, tetrameric enzyme form, mutant W310F
+KCAT	Geobacillus stearothermophilus	65	NAD+	*pH 8.0, 25&Acirc;&deg;C, tetrameric enzyme form, wild-type
+KCAT	Bacillus subtilis	70	NAD+	*wild-type enzyme and mutant enzyme L187N
+KCAT	Lactococcus lactis	70	NAD+	*30&Acirc;&deg;C, pH 7.2
+KCAT	Geobacillus stearothermophilus	73	NAD+	*pH 8.0, 25&Acirc;&deg;C, tetrameric enzyme form, mutant Y283V
+KCAT	Bacillus subtilis	112	NAD+	*mutant enzyme L187N
+KCAT	Oryza sativa Japonica Group	122	NAD+	*wild-type, pH 8.8, 25&Acirc;&deg;C
+KCAT	Homo sapiens	199	NAD+	*wild-type, pH 8.5, 25&Acirc;&deg;C
+KCAT	Homo sapiens	234	NAD+	*N-terminally truncated mutant, pH 8.5, 25&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	0.06	NADH	*mutant F36L, pH 8.8, 25&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	0.08	NADH	*mutant F36T, pH 8.8, 25&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	0.14	NADH	*mutant F36G, pH 8.8, 25&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	73.6	NADH	*wild-type, pH 8.8, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	1.58	NADP+	*mutant L36T, pH 8.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	2	NADP+	*mutant enzyme D32A
+KCAT	Corynebacterium glutamicum	2.97	NADP+	*mutant D35G, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	6.48	NADP+	*mutant D35G/L36T/P192S, pH 8.5, 25&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	7.13	NADP+	*mutant D35G/L36T/T37K/P192S, pH 8.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	8	NADP+	*mutant enzyme L187N
+KCAT	Corynebacterium glutamicum	8	NADP+	*mutant D35G/L36T/T37K, pH 8.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	17.7	NADP+	*mutant enzyme D32A/L187N
+KCAT	Neisseria meningitidis	4.03	acetaldehyde	*recombinant enzyme, in 50 mM Tricine buffer (pH 8.5), at 25&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.002	D-glyceraldehyde 3-phosphate	*mutant enzyme C151S/H178N, pH 8.7, 25&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.05	D-glyceraldehyde 3-phosphate	*mutant enzyme H178N, pH 8.7, 25&Acirc;&deg;C
+KCAT	Staphylococcus aureus	0.09	D-glyceraldehyde 3-phosphate	*mutant enzyme C151S, pH 8.7, 25&Acirc;&deg;C
+KCAT	Oryza sativa	0.09	D-glyceraldehyde 3-phosphate	*mutant enzyme F37L, in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25&Acirc;&deg;C
+KCAT	Oryza sativa	0.13	D-glyceraldehyde 3-phosphate	*mutant enzyme F37T, in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25&Acirc;&deg;C
+KCAT	Oryza sativa	0.24	D-glyceraldehyde 3-phosphate	*mutant enzyme F37G, in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	9.1	D-glyceraldehyde 3-phosphate	*isoform TDH3, pH 8.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	16	D-glyceraldehyde 3-phosphate	*isoform TDH2, pH 8.5, 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	16.7	D-glyceraldehyde 3-phosphate	*
+KCAT	Neisseria meningitidis	24.51	D-glyceraldehyde 3-phosphate	*recombinant enzyme, in 50 mM Tricine buffer (pH 8.5), at 25&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	29	D-glyceraldehyde 3-phosphate	*isoform TDH1, pH 8.5, 25&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	46	D-glyceraldehyde 3-phosphate	*mutant enzyme W84F
+KCAT	Spinacia oleracea	50	D-glyceraldehyde 3-phosphate	*
+KCAT	Geobacillus stearothermophilus	70	D-glyceraldehyde 3-phosphate	*
+KCAT	Staphylococcus aureus	70	D-glyceraldehyde 3-phosphate	*wild type enzyme, pH 8.7, 25&Acirc;&deg;C
+KCAT	Oryza sativa	122.2	D-glyceraldehyde 3-phosphate	*wild type enzyme, in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25&Acirc;&deg;C
+KCAT	Homo sapiens	199	D-glyceraldehyde 3-phosphate	*glyceraldehyde-3-phosphate dehydrogenase, in 10 mM sodium diphosphate, 20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate, at 25&Acirc;&deg;C
+KCAT	Homo sapiens	234	D-glyceraldehyde 3-phosphate	*recombinant, highly soluble form of sperm-specific glyceraldehyde-3-phosphate dehydrogenase truncated at the N-terminus, in 10 mM sodium diphosphate, 20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	0.06	3-phospho-D-glyceroyl phosphate	*mutant enzyme F37L, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	0.08	3-phospho-D-glyceroyl phosphate	*mutant enzyme F37T, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	0.14	3-phospho-D-glyceroyl phosphate	*mutant enzyme F37G, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	73.56	3-phospho-D-glyceroyl phosphate	*wild type enzyme, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	71.4	D-glyceraldehyde	*in the absence of DMSO and methanol, in TEA-HCl buffer (pH 7.5) at 25&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	118	D-glyceraldehyde	*in the presence of 5% (v/v) DMSO, in TEA-HCl buffer (pH 7.5) at 25&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	442	D-glyceraldehyde	*in the presence of 5% (v/v) methanol, in TEA-HCl buffer (pH 7.5) at 25&Acirc;&deg;C
+KCAT	Neisseria meningitidis	4.35	glyceraldehyde	*recombinant enzyme, in 50 mM Tricine buffer (pH 8.5), at 25&Acirc;&deg;C
+KCAT	Escherichia coli	-999	more	*
+KCAT	Geobacillus stearothermophilus	-999	more	*

@@ -1,0 +1,1 @@
+ecNumber*2.1.1.284#turnoverNumber*0.5#turnoverNumberMaximum*#substrate*8-demethylnovobiocic acid#commentary*pH 8.5, temperature not specified in the publication#organism*Streptomyces niveus#ligandStructureId*15350#literature*721597#

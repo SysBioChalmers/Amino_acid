@@ -1,0 +1,17 @@
+KCAT	Archaeoglobus fulgidus	0.008	tRNACys	*pH 7.6, 50&Acirc;&deg;C, mutant D418N/D420N/T423V
+KCAT	Archaeoglobus fulgidus	0.0471	tRNACys	*50&Acirc;&deg;C, pH 7.6, tRNACys containing the (pyrrole-2-carbaldehyde)UA anticodon, mutant enzyme D418N D420N T423V
+KCAT	Archaeoglobus fulgidus	0.048	tRNACys	*50&Acirc;&deg;C, pH 7.6, tRNACys containing the C(pyrrole-2-carbaldehyde)A anticodon, mutant enzyme D418N D420N T423V
+KCAT	Methanocaldococcus jannaschii	0.07	tRNACys	*60&Acirc;&deg;C, pH 6.0, steady-state kinetics
+KCAT	Methanococcus maripaludis	0.07	tRNACys	*at pH 7.5 and 60&Acirc;&deg;C
+KCAT	Archaeoglobus fulgidus	0.115	tRNACys	*50&Acirc;&deg;C, pH 7.6, tRNACys with the GCA anticodon, wild-type enzyme; pH 7.6, 50&Acirc;&deg;C, wild-type enzyme
+KCAT	Methanosarcina mazei	0.12	tRNACys	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanocaldococcus jannaschii	0.24	tRNACys	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme, m1G37 tRNACys
+KCAT	Methanocaldococcus jannaschii	1	tRNACys	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme, native tRNACys
+KCAT	Methanosarcina mazei	0.45	O-phospho-L-serine	*wild-type enzyme
+KCAT	Methanosarcina mazei	10.6	O-phospho-L-serine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina mazei	11.2	O-phospho-L-serine	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant T307S
+KCAT	Methanosarcina mazei	0.0054	O-phospho-L-threonine	*wild-type enzyme
+KCAT	Methanosarcina mazei	0.014	O-phospho-L-threonine	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Methanosarcina mazei	0.021	O-phospho-L-threonine	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant T307S
+KCAT	Methanosarcina mazei	-999	more	*turnover number for tRNACys isoacceptor
+KCAT	Methanocaldococcus jannaschii	0.24	m1G37-tRNACys	*60&Acirc;&deg;C, pH 6.0, steady-state kinetics

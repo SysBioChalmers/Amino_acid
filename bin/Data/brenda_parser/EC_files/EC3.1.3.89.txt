@@ -1,0 +1,16 @@
+KCAT	Escherichia coli	0.56	4-nitrophenyl phosphate	*presence of Co2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	3.48	4-nitrophenyl phosphate	*wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.06	5'-dAMP	*mutant E122A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.08	5'-dAMP	*mutant V30A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.13	5'-dAMP	*mutant V37A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.14	5'-dAMP	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.3	5'-dAMP	*presence of Co2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1	5'-dAMP	*wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.2	5'-dGMP	*presence of Co2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1.2	5'-dGMP	*wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.16	5'-dTMP	*presence of Co2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	1.1	5'-dTMP	*wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.23	5'-dCMP	*presence of Co2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.28	5'-dCMP	*wild type enzyme, at pH 8.0 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.23	5'-dUMP	*presence of Co2+, pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.24	5'-dIMP	*presence of Co2+, pH 8.0, 37&Acirc;&deg;C

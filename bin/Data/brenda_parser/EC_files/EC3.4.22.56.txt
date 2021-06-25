@@ -1,0 +1,34 @@
+KCAT	Homo sapiens	-999	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*wild-type, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	-999	more	*
+KCAT	Homo sapiens	0.0083	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Gly-Val-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.00917	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Gly-Pro-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.013	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Asn-Val-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.015	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Glu-Val-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.015	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Leu-Val-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.017	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Asn-Pro-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.0183	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Ala-Val-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.0217	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Ala-Pro-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.023	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Leu-Pro-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.023	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Val-Val-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.028	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Val-Pro-Asp-6-aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2	*pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.03	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*wild-type, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	0.06	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant DELTA176-181, pH 4.75, 37&deg;C
+KCAT	Homo sapiens	0.08	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant DELTA176-181, pH 4.75, 37&deg;C
+KCAT	Homo sapiens	0.16	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*wild-type, pH 4.75, 37&deg;C
+KCAT	Homo sapiens	0.33	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*wild-type, pH 4.75, 37&deg;C
+KCAT	Homo sapiens	0.8	acetyl-L-Val-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	0.84	acetyl-L-Leu-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	0.88	acetyl-L-Asp-L-Glu-L-Val-L-Asp-4-nitroanilide	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	0.9	acetyl-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	1.1	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant D179A, pH 4.75, 37&deg;C; mutant D179A, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	1.37	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant D179A, pH 4.75, 37&deg;C
+KCAT	Homo sapiens	1.43	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant DELTA176-181, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	1.54	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant DELTA176-181, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	3.5	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant D179A, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	3.5	acetyl-L-Asp-L-Met-L-Gln-L-Asp-4-nitroanilide	*pH 7.5, 22&deg;C
+KCAT	Homo sapiens	6.01	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*wild-type, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	7.08	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*wild-type, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	9.1	acetyl-DEVD-7-amido-4-methylcoumarin	*pH 7.0
+KCAT	Homo sapiens	14	acetyl-DEVD-7-amido-4-methylcoumarin	*pH 7.5
+KCAT	Homo sapiens	19.04	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant D179A, pH 7.2, 37&deg;C
+KCAT	Homo sapiens	19.56	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	*mutant D179A, pH 7.2, 37&deg;C

@@ -1,0 +1,53 @@
+KCAT	Bos taurus	0.002	ATP	*mutant V247R
+KCAT	Bos taurus	0.006	ATP	*mutant D167N/N202A
+KCAT	Bos taurus	0.007	ATP	*mutant D167N/T317G
+KCAT	Bos taurus	0.009	ATP	*mutant D167N
+KCAT	Bos taurus	0.015	ATP	*mutant F100D
+KCAT	Bos taurus	0.018	ATP	*mutant V156A
+KCAT	Bos taurus	0.022	ATP	*mutant N202A
+KCAT	Homo sapiens	0.027	ATP	*C-terminal deletion mutant, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.028	ATP	*mutant K560E, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.097	ATP	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Bos taurus	0.098	ATP	*mutant R199A
+KCAT	Bos taurus	0.308	ATP	*mutant F153A
+KCAT	Bos taurus	0.82	ATP	*mutant K158A
+KCAT	Bos taurus	1.055	ATP	*mutant N239A
+KCAT	Bos taurus	1.073	ATP	*mutant Y237A
+KCAT	Bos taurus	1.15	ATP	*mutant K228A
+KCAT	Bos taurus	1.24	ATP	*mutant V154A
+KCAT	Bos taurus	1.25	ATP	*mutant T317G
+KCAT	Bos taurus	1.411	ATP	*mutant V247A
+KCAT	Bos taurus	1.476	ATP	*mutant K232A
+KCAT	Bos taurus	3.19	ATP	*mutant V206A
+KCAT	Bos taurus	4.203	ATP	*wild-type, reactions are started with the addition of PAP and incubated at 37 &Acirc;&deg;C for 15 minutes. Reactions are stopped by the addition of 8 microL of stop buffer (formamide with trace amount of bromophenol blue dye)
+KCAT	Bos taurus	4.88	ATP	*mutant Q323A
+KCAT	Bos taurus	6.092	ATP	*mutant A319R
+KCAT	Bos taurus	30	ATP	*cosubstrates rA(pA)5, pH 9.0, 35&Acirc;&deg;C
+KCAT	Escherichia coli	0.43	CTP	*incubation 30 min at 30 &Acirc;&deg;C
+KCAT	Zea mays	3.33	Nucleotide	*
+KCAT	Homo sapiens	0.142	(A)15	*mutant K560E, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.147	(A)15	*C-terminal deletion mutant, pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	(A)15	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Bos taurus	0.0025	RNA(A)15	*mutant D167N/V247R
+KCAT	Bos taurus	0.006	RNA(A)15	*mutant G203H
+KCAT	Bos taurus	0.08	RNA(A)15	*mutant N202A
+KCAT	Bos taurus	0.1	RNA(A)15	*mutant D167N/N202A
+KCAT	Bos taurus	0.18	RNA(A)15	*mutant V247R
+KCAT	Bos taurus	0.26	RNA(A)15	*mutant D167N/T317G
+KCAT	Bos taurus	0.39	RNA(A)15	*mutant V156A
+KCAT	Bos taurus	0.67	RNA(A)15	*mutant F100D
+KCAT	Bos taurus	0.82	RNA(A)15	*mutant R199A
+KCAT	Bos taurus	1.43	RNA(A)15	*mutant D167N
+KCAT	Bos taurus	6.76	RNA(A)15	*mutant K228A
+KCAT	Bos taurus	6.86	RNA(A)15	*mutant T317G
+KCAT	Bos taurus	8.18	RNA(A)15	*mutant K158A
+KCAT	Bos taurus	10.52	RNA(A)15	*mutant F153A
+KCAT	Bos taurus	11.37	RNA(A)15	*mutant N239A
+KCAT	Bos taurus	12.58	RNA(A)15	*mutant V206A
+KCAT	Bos taurus	19.25	RNA(A)15	*mutant Y237A
+KCAT	Bos taurus	19.71	RNA(A)15	*mutant Q323A
+KCAT	Bos taurus	20.34	RNA(A)15	*mutant K232A
+KCAT	Bos taurus	22.75	RNA(A)15	*mutant A319R
+KCAT	Bos taurus	22.78	RNA(A)15	*wild-type
+KCAT	Bos taurus	28.96	RNA(A)15	*mutant V154A
+KCAT	Bos taurus	34.5	RNA(A)15	*mutant V247A

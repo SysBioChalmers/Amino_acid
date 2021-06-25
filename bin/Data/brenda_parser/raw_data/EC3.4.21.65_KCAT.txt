@@ -1,0 +1,1 @@
+ecNumber*3.4.21.65#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Malbranchea pulchella#ligandStructureId*#literature*29526#!ecNumber*3.4.21.65#turnoverNumber*2050#turnoverNumberMaximum*#substrate*Acetyl-Ala-Ala-Ala methyl ester#commentary*#organism*Malbranchea pulchella#ligandStructureId*15604#literature*29530#

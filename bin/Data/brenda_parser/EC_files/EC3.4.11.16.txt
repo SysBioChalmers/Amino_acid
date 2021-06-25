@@ -1,0 +1,8 @@
+KCAT	Sus scrofa	29.6	Pro-Trp	*
+KCAT	Sus scrofa	38.5	Ala-Trp	*
+KCAT	Sus scrofa	92.6	Leu-Trp	*
+KCAT	Sus scrofa	113	Glu-Trp	*
+KCAT	Sus scrofa	117	alpha-Asp-Phe	*
+KCAT	Sus scrofa	127	Gly-Trp	*
+KCAT	Sus scrofa	230	alpha-Asp-Phe-NH2	*
+KCAT	Sus scrofa	238	Aspartame	*

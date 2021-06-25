@@ -1,0 +1,5 @@
+KCAT	Mycobacterium tuberculosis	0.066	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*wild type enzyme, in 100 mM potassium phosphate, pH 7.5, at 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.25	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	*in 100 mM of phosphate buffer (pH 7.4) with 20 mM NaCl, temperature not specified in the publication
+KCAT	Mycobacterium tuberculosis	0.33	8-(2-chlorophenyl)-2-hydroxy-5-methyl-6-oxoocta-2,4-dienoic acid	*wild type enzyme, in 100 mM potassium phosphate, pH 7.5, at 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.000085	4,5-9,10-diseco-3-hydroxy-5,9,17-tri-oxoandrosta-1(10),2-diene-4-oic acid	*mutant enzyme S114A, in 100 mM potassium phosphate, pH 7.5, at 25&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.55	4,5-9,10-diseco-3-hydroxy-5,9,17-tri-oxoandrosta-1(10),2-diene-4-oic acid	*wild type enzyme, in 100 mM potassium phosphate, pH 7.5, at 25&Acirc;&deg;C

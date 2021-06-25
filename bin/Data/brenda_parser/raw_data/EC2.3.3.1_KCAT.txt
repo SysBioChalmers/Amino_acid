@@ -1,0 +1,1 @@
+ecNumber*2.3.3.1#turnoverNumber*0.275#turnoverNumberMaximum*#substrate*oxaloacetate#commentary*mutant H320G#organism*Sus scrofa#ligandStructureId*57#literature*488032#!ecNumber*2.3.3.1#turnoverNumber*167#turnoverNumberMaximum*#substrate*oxaloacetate#commentary*wild-type#organism*Sus scrofa#ligandStructureId*57#literature*488032#

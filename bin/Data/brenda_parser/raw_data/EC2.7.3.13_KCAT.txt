@@ -1,0 +1,1 @@
+ecNumber*2.7.3.13#turnoverNumber*2.5#turnoverNumberMaximum*#substrate*ATP#commentary*at pH 8.0 and 30&deg;C#organism*Campylobacter jejuni#ligandStructureId*4#literature*745179#

@@ -1,0 +1,71 @@
+KCAT	Mus musculus	-999	more	*further kinetic parameters of phthalazine-DCPIP reaction in the absence or presence of the inhibitors benzamidine, menadione, norharmane, and raloxifene available in the publication
+KCAT	Mus musculus	0.022	retinaldehyde	*mutant M884R, 30&deg;C, pH 7.4
+KCAT	Homo sapiens	0.04	methotrexate	*pH 7.5, 37&deg;C
+KCAT	Mus musculus	0.052	N1-methylnicotinamide	*K889H mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.17	benzaldehyde	*E1266Q mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.18	phenanthridine	*mutant F1014I, pH 8.0,37&deg;C
+KCAT	Mus musculus	0.187	N1-methylnicotinamide	*A807V mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.19	Phthalazine	*wild-type, 30&deg;C, pH 7.4
+KCAT	Mus musculus	0.197	Phthalazine	*K889H mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.23	retinaldehyde	*mutant V806E, 30&deg;C, pH 7.4
+KCAT	Mus musculus	0.245	N1-methylnicotinamide	*mAOX3 wild type, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.27	allopurinol	*mutant F1014V, pH 8.0,37&deg;C
+KCAT	Mus musculus	0.31	benzaldehyde	*mutant F1014I, pH 8.0,37&deg;C
+KCAT	Mus musculus	0.32	benzaldehyde	*K889H mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.38	N1-methyl-nicotineamide	*mutant F1014V, pH 8.0,37&deg;C
+KCAT	Mus musculus	0.39	N1-methylnicotinamide	*Y885M mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.4	N1-methyl-nicotineamide	*wild-type, pH 8.0,37&deg;C
+KCAT	Oryctolagus cuniculus	0.447	N-methylnicotinamide	*electron acceptor: cytochrome c
+KCAT	Mus musculus	0.45	N1-methylnicotinamide	*A807V/Y885M double mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.62	allopurinol	*mutant P1015G, pH 8.0,37&deg;C
+KCAT	Mus musculus	0.683	benzaldehyde	*A807V mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.685	Phthalazine	*A807V mutant, pH 8.0, 37&deg;C; mAOX3 wild type, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.69	Phthalazine	*A807V/Y885M double mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.698	benzaldehyde	*mAOX3 wild type, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.727	benzaldehyde	*A807V/Y885M double mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.733	benzaldehyde	*apparent Kcat-value of recombinant mAOX3, pH 7.4, 25&deg;C
+KCAT	Mus musculus	0.77	allopurinol	*mutant P1015A, pH 8.0,37&deg;C
+KCAT	Mus musculus	0.815	Phthalazine	*Y885M mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.83	retinaldehyde	*wild-type, 30&deg;C, pH 7.4
+KCAT	Mus musculus	0.862	phenanthridine	*mAOX3 wild type, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.957	benzaldehyde	*Y885M mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	0.97	Phthalazine	*mutant F1014I, pH 8.0,37&deg;C
+KCAT	Mus musculus	1.08	N1-methyl-nicotineamide	*mutant P1015A, pH 8.0,37&deg;C
+KCAT	Mus musculus	1.1	Phthalazine	*wild-type, pH 8.0,37&deg;C
+KCAT	Mus musculus	1.13	benzaldehyde	*wild-type, pH 8.0,37&deg;C
+KCAT	Oryctolagus cuniculus	1.14	N-methylnicotinamide	*electron acceptor: nitro blue tetrazolium
+KCAT	Mus musculus	1.22	allopurinol	*mutant F776K/A807E/D878L/L881S/Y885R/K889H/P1015T/Y1019L, pH 8.0,37&deg;C; wild-type, pH 8.0,37&deg;C
+KCAT	Mus musculus	1.27	benzaldehyde	*mutant M884R, 30&deg;C, pH 7.4
+KCAT	Mus musculus	1.27	benzaldehyde	*mutant P1015A, pH 8.0,37&deg;C
+KCAT	Mus musculus	1.33	phenanthridine	*K889H mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	1.42	phenanthridine	*mutant F1014V, pH 8.0,37&deg;C; wild-type, pH 8.0,37&deg;C
+KCAT	Mus musculus	1.55	benzaldehyde	*mutant P1015G, pH 8.0,37&deg;C
+KCAT	Mus musculus	1.58	allopurinol	*mutant F776K/A807E/D878L/L881S/Y885R/K889H/P1015T/Y1019L, pH 8.0,37&deg;C
+KCAT	Mus musculus	1.72	Phthalazine	*mutant V806E, 30&deg;C, pH 7.4
+KCAT	Oryctolagus cuniculus	1.81	N-methylnicotinamide	*electron acceptor: dichlorophenolinodphenol
+KCAT	Mus musculus	1.92	N1-methyl-nicotineamide	*mutant P1015G, pH 8.0,37&deg;C
+KCAT	Oryctolagus cuniculus	1.97	N-methylnicotinamide	*electron acceptor: ferricyanide
+KCAT	Mus musculus	2.13	benzaldehyde	*mutant F1014V, pH 8.0,37&deg;C
+KCAT	Mus musculus	2.167	benzaldehyde	*apparent Kcat-value of native mAOX3, pH 7.4, 25&deg;C
+KCAT	Mus musculus	2.333	Butanal	*apparent Kcat-value of recombinant mAOX3, pH 7.4, 25&deg;C
+KCAT	Mus musculus	2.52	benzaldehyde	*mutant V806E, 30&deg;C, pH 7.4
+KCAT	Mus musculus	2.7	acetaldehyde	*mutant V806E, 30&deg;C, pH 7.4
+KCAT	Mus musculus	2.98	Phthalazine	*mutant P1015A, pH 8.0,37&deg;C
+KCAT	Mus musculus	3.63	phenanthridine	*A807V/Y885M double mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	3.9	benzaldehyde	*mutant F776K/A807E/D878L/L881S/Y885R/P1015T/Y1019L, pH 8.0,37&deg;C
+KCAT	Mus musculus	4.45	phenanthridine	*Y885M mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	4.63	Phthalazine	*mutant F1014V, pH 8.0,37&deg;C
+KCAT	Mus musculus	5.25	phenanthridine	*A807V mutant, pH 8.0, 37&deg;C
+KCAT	Mus musculus	5.29	benzaldehyde	*wild-type, 30&deg;C, pH 7.4
+KCAT	Mus musculus	5.78	Phthalazine	*mutant P1015G, pH 8.0,37&deg;C
+KCAT	Mus musculus	6.4	Butanal	*apparent Kcat-value of native mAOX3, pH 7.4, 25&deg;C
+KCAT	Mus musculus	6.88	2-hydroxypyrimidine	*apparent Kcat-value of recombinant mAOX3, pH 7.4, 25&deg;C
+KCAT	Mus musculus	8.66	acetaldehyde	*wild-type, 30&deg;C, pH 7.4
+KCAT	Mus musculus	8.73	Phthalazine	*mutant F776K/A807E/D878L/L881S/Y885R/K889H/P1015T/Y1019L, pH 8.0,37&deg;C
+KCAT	Mus musculus	8.83	phenanthridine	*mutant P1015G, pH 8.0,37&deg;C
+KCAT	Mus musculus	9.68	phenanthridine	*mutant P1015A, pH 8.0,37&deg;C
+KCAT	Mus musculus	21.32	2-hydroxypyrimidine	*apparent Kcat-value of native mAOX3, pH 7.4, 25&deg;C
+KCAT	Oryctolagus cuniculus	84	methotrexate	*pH 7.5, 37&deg;C
+KCAT	Arabidopsis thaliana	95.2	benzaldehyde	*partially purified protein, pH 7.0, 30&deg;C
+KCAT	Arabidopsis thaliana	436.5	cinnamylaldehyde	*partially purified protein, pH 7.0, 30&deg;C
+KCAT	Arabidopsis thaliana	1904	Indole-3-acetaldehyde	*partially purified protein, pH 7.0, 30&deg;C

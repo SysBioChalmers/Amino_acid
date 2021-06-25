@@ -1,0 +1,2 @@
+KCAT	Papaver somniferum	4.4	salutaridinol	*
+KCAT	Papaver somniferum	3.3	nudaurine	*

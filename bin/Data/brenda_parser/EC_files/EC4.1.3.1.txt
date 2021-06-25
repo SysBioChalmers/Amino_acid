@@ -1,0 +1,31 @@
+KCAT	Pseudomonas aeruginosa	0.56	isocitrate	*recombinant His-tagged mutant N214D, pH 7.8, 30&deg;C
+KCAT	Mycobacterium tuberculosis	1.25	(2R,3S:2S,3R)-2-methyl-isocitrate	*ICL1, in 50 mM MOPS pH 6.8, 5 mM MgCl2
+KCAT	Mycobacterium tuberculosis	1.38	isocitrate	*ICL2, in Tricine-HCl pH 7.5, 5 mM MgCl2
+KCAT	Pseudomonas aeruginosa	3.25	isocitrate	*recombinant His-tagged mutant Q221K, pH 7.8, 30&deg;C
+KCAT	Pseudomonas aeruginosa	3.46	isocitrate	*recombinant His-tagged mutant Q211H, pH 7.8, 30&deg;C
+KCAT	Mycobacterium tuberculosis	3.6	glyoxylate	*pH 7.5, 25&deg;C, recombinant enzyme
+KCAT	Mycobacterium tuberculosis	3.6	succinate	*pH 7.5, 25&deg;C, recombinant enzyme
+KCAT	Pyricularia oryzae	4.4	isocitrate	*mutant enzyme T534A, at pH 7.0 and 37&deg;C
+KCAT	Pseudomonas aeruginosa	4.63	isocitrate	*recombinant His-tagged mutant E219A, pH 7.8, 30&deg;C
+KCAT	Mycobacterium tuberculosis	5.2	isocitrate	*pH 7.5, 25&deg;C, recombinant enzyme
+KCAT	Mycobacterium tuberculosis	5.24	isocitrate	*ICL1, in 50 mM MOPS pH 6.8, 5 mM MgCl2
+KCAT	Mycobacterium tuberculosis	7.53	threo-DL-Isocitrate	*mutant enzyme E423D/E424D, at pH 7.5 and 30&deg;C
+KCAT	Mycobacterium tuberculosis	8.34	threo-DL-Isocitrate	*mutant enzyme E423D, at pH 7.5 and 30&deg;C
+KCAT	Aspergillus fumigatus	8.43	isocitrate	*in 50 mM MOPS buffer, pH 7.5, with 1 mM MgCl2, 10 mM 2-mercaptoethanol, and 2.7 mM O-nitrophenyl-beta-D-galactopyranoside
+KCAT	Mycobacterium tuberculosis	8.46	threo-DL-Isocitrate	*mutant enzyme E424D, at pH 7.5 and 30&deg;C
+KCAT	Mycobacterium tuberculosis	8.5	succinate	*recombinant detagged enzyme, pH 7.0, 37&deg;C
+KCAT	Mycobacterium tuberculosis	9.78	threo-DL-Isocitrate	*wild type enzyme, at pH 7.5 and 30&deg;C
+KCAT	Pseudomonas aeruginosa	9.81	isocitrate	*recombinant His-tagged wild-type enzyme, pH 7.8, 30&deg;C
+KCAT	Mycobacterium tuberculosis	12.2	isocitrate	*recombinant detagged enzyme, pH 7.0, 37&deg;C
+KCAT	Colwellia psychrerythraea	13.3	isocitrate	*mutant enzyme A341N, at 25&deg;C
+KCAT	Pyricularia oryzae	15.9	isocitrate	*mutant enzyme T534V, at pH 7.0 and 37&deg;C
+KCAT	Pyricularia oryzae	17.6	isocitrate	*wild type enzyme, at pH 7.0 and 37&deg;C
+KCAT	Colwellia maris	18.1	DL-isocitrate	*20&deg;C, pH 6.8
+KCAT	Geobacillus stearothermophilus	24	isocitrate	*
+KCAT	Bacillus sp. (in: Bacteria)	24	threo-Ds-isocitrate	*
+KCAT	Colwellia psychrerythraea	26.6	isocitrate	*mutant enzyme Q47K, at 25&deg;C
+KCAT	Colwellia psychrerythraea	28.5	isocitrate	*wild type enzyme, at 25&deg;C
+KCAT	Fomitopsis palustris	32	DL-isocitrate	*pH 7
+KCAT	Pinus pinea	44.5	isocitrate	*
+KCAT	Vogesella indigofera	122	isocitrate	*
+KCAT	Turbatrix aceti	800	isocitrate	*

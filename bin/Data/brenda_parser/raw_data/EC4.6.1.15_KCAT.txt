@@ -1,0 +1,1 @@
+ecNumber*4.6.1.15#turnoverNumber*4.82#turnoverNumberMaximum*#substrate*FAD#commentary*Mn2+, pH: 7.5#organism*Rattus norvegicus#ligandStructureId*20#literature*441636#!ecNumber*4.6.1.15#turnoverNumber*19.3#turnoverNumberMaximum*24.1#substrate*FAD#commentary*Mn2+, pH: 8.3#organism*Rattus norvegicus#ligandStructureId*20#literature*441636#

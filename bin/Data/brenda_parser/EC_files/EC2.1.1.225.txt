@@ -1,0 +1,1 @@
+KCAT	Saccharomyces cerevisiae	0.004	adenosine4 in tRNAHis	*pH 8.0, 30&deg;C

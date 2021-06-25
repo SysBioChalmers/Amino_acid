@@ -1,0 +1,1 @@
+ecNumber*5.3.3.14#turnoverNumber*15#turnoverNumberMaximum*#substrate*cis-3-decenoyl-N-acetylcysteamine#commentary*pH 9.0, 30&deg;C#organism*Escherichia coli#ligandStructureId*35644#literature*5803#

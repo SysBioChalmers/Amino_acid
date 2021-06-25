@@ -1,0 +1,1 @@
+KCAT	Xanthobacter autotrophicus	1.33	acetone	*

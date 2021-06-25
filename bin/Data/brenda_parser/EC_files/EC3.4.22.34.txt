@@ -1,0 +1,5 @@
+KCAT	Homo sapiens	-999	more	*
+KCAT	Bos taurus	0.1	benzyloxycarbonyl-Ile-Ser-Asn-4-methylcoumarin-7-amide	*pH 5.0, 37&deg;C
+KCAT	Dictyocaulus viviparus	0.33	benzyloxycarbonyl-Ala-Ala-Asn-7-amido-4-methylcoumarin	*pH 5.5, 39&deg;C
+KCAT	Bos taurus	17.9	benzyloxycarbonyl-Ala-Ala-Asn-4-methylcoumarin-7-amide	*pH 5.0, 37&deg;C
+KCAT	Sus scrofa	46	benzyloxycarbonyl-Ala-Ala-Asn-4-methylcoumarin-7-amide	*pH 5.8, 30&deg;C

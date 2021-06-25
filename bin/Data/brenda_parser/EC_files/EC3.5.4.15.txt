@@ -1,0 +1,2 @@
+KCAT	Arabidopsis thaliana	1.753	guanosine	*at pH 8.0 and 40&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.611	2'-deoxyguanosine	*at pH 8.0 and 40&Acirc;&deg;C

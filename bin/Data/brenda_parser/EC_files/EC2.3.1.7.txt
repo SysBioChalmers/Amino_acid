@@ -1,0 +1,24 @@
+KCAT	Mus musculus	0.24	acetyl-CoA	*21&Acirc;&deg;C, pH 7.8, wild-type enzyme
+KCAT	Homo sapiens	0.78	acetyl-CoA	*Y431F mutant enzyme, pH 8.0
+KCAT	Mus musculus	1.4	acetyl-CoA	*21&Acirc;&deg;C, pH 7.8, mutant enzyme S554A/M564G
+KCAT	Mus musculus	4	acetyl-CoA	*21&Acirc;&deg;C, pH 7.8, mutant enzyme S554A
+KCAT	Homo sapiens	5.76	acetyl-CoA	*T444A mutant enzyme, pH 8.0
+KCAT	Homo sapiens	8.57	acetyl-CoA	*F545A mutant enzyme, pH 8.0
+KCAT	Mus musculus	15.4	acetyl-CoA	*21&Acirc;&deg;C, pH 7.8, mutant enzyme H343E
+KCAT	Mus musculus	28.4	acetyl-CoA	*21&Acirc;&deg;C, pH 7.8, mutant enzyme M564G
+KCAT	Homo sapiens	30.5	acetyl-CoA	*F545Y mutant enzyme, pH 8.0
+KCAT	Homo sapiens	38.5	acetyl-CoA	*wild type enzyme, pH 8.0
+KCAT	Homo sapiens	44.2	acetyl-CoA	*Y431A mutant enzyme, pH 8.0
+KCAT	Homo sapiens	94.8	acetyl-CoA	*R497Q mutant enzyme, pH 8.0
+KCAT	Mus musculus	97.6	acetyl-CoA	*21&Acirc;&deg;C, pH 7.8, wild-type enzyme
+KCAT	Rattus norvegicus	1.58	choline	*wild-type enzyme
+KCAT	Rattus norvegicus	2.43	choline	*mutant enzyme T465V/T467N/R518N
+KCAT	Rattus norvegicus	3.11	choline	*mutant enzyme A106M/T465V/T467N/R518N
+KCAT	Mus musculus	1.42	hexanoyl-CoA	*21&Acirc;&deg;C, pH 7.8, mutant enzyme S554A
+KCAT	Mus musculus	8.2	hexanoyl-CoA	*21&Acirc;&deg;C, pH 7.8, mutant enzyme S554A/M564G
+KCAT	Mus musculus	30.4	hexanoyl-CoA	*21&Acirc;&deg;C, pH 7.8, wild-type enzyme
+KCAT	Mus musculus	89	hexanoyl-CoA	*21&Acirc;&deg;C, pH 7.8, mutant enzyme M564G
+KCAT	Mus musculus	104.7	hexanoyl-CoA	*21&Acirc;&deg;C, pH 7.8, mutant enzyme M564G
+KCAT	Rattus norvegicus	0.98	carnitine	*above, mutant enzyme A106M/T465V/T467N/R518N
+KCAT	Rattus norvegicus	2.97	carnitine	*mutant enzyme T465V/T467N/R518N
+KCAT	Rattus norvegicus	86.9	carnitine	*wild-type enzyme

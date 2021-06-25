@@ -1,0 +1,8 @@
+KCAT	Campylobacter jejuni	0.8	N-pentanoyl-D-mannosamine	*pH 8.0, 37&deg;C
+KCAT	Neisseria meningitidis	0.83	N-acetyl-D-mannosamine	*the reaction mixture contains 1 mM MgCl2 in 50 mM Tris-acetate buffer, pH 7.5, at 37&deg;C
+KCAT	Campylobacter jejuni	3.5	N-butanoyl-D-mannosamine	*pH 8.0, 37&deg;C
+KCAT	Moritella viscosa	3.72	N-acetyl-D-mannosamine	*pH 7.3, 30&deg;C, recombinant enzyme
+KCAT	Moritella viscosa	3.75	phosphoenolpyruvate	*pH 7.3, 30&deg;C, recombinant enzyme
+KCAT	Campylobacter jejuni	11.8	N-propanoyl-D-mannosamine	*pH 8.0, 37&deg;C
+KCAT	Campylobacter jejuni	19	phosphoenolpyruvate	*pH 8.0, 37&deg;C
+KCAT	Campylobacter jejuni	19.9	N-acetyl-D-mannosamine	*pH 8.0, 37&deg;C

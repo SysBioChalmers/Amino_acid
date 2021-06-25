@@ -1,0 +1,1 @@
+ecNumber*1.1.99.9#turnoverNumber*22#turnoverNumberMaximum*#substrate*pyridoxine#commentary*acceptor O2#organism*Arthrobacter sp.#ligandStructureId*1051#literature*287852#

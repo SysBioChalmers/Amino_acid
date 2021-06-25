@@ -1,0 +1,1 @@
+ecNumber*3.1.1.10#turnoverNumber*1930#turnoverNumberMaximum*#substrate*Butyrylcholine#commentary*#organism*Oryctolagus cuniculus#ligandStructureId*4230#literature*133813#!ecNumber*3.1.1.10#turnoverNumber*68#turnoverNumberMaximum*#substrate*atropine#commentary*#organism*Oryctolagus cuniculus#ligandStructureId*4789#literature*133813#

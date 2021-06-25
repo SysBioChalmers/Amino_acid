@@ -1,0 +1,1 @@
+KCAT	Saccharomyces cerevisiae	-999	?	*Sac1 shows a sigmoidal kinetic behavior. Sac1 undergoes an allosteric activation

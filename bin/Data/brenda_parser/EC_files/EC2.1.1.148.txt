@@ -1,0 +1,7 @@
+KCAT	Helicobacter pylori	0.0038	dUMP	*mutant enzyme Y87F
+KCAT	Helicobacter pylori	0.0072	dUMP	*wild-type enzyme
+KCAT	Helicobacter pylori	0.0078	dUMP	*mutant enzyme R74K
+KCAT	Helicobacter pylori	0.0097	dUMP	*mutant enzyme S84Y
+KCAT	Helicobacter pylori	0.037	dUMP	*mutant enzyme R74A
+KCAT	Helicobacter pylori	0.0384	dUMP	*mutant enzyme S84A
+KCAT	Helicobacter pylori	0.14	dUMP	*mutant enzyme S84C

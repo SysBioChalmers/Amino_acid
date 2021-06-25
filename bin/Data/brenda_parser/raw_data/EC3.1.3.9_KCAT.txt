@@ -1,0 +1,1 @@
+ecNumber*3.1.3.9#turnoverNumber*700#turnoverNumberMaximum*#substrate*glucose 6-phosphate#commentary*enzyme in disrupted microsomes#organism*Rattus norvegicus#ligandStructureId*340#literature*134924#

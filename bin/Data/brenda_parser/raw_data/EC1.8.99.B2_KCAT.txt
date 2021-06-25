@@ -1,0 +1,1 @@
+ecNumber*1.8.99.B2#turnoverNumber*426#turnoverNumberMaximum*#substrate*tetrathionate#commentary*pH 5.0, 42&Acirc;&deg;C#organism*Campylobacter jejuni#ligandStructureId*2223#literature*726008#

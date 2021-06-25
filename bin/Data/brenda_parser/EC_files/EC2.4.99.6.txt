@@ -1,0 +1,17 @@
+KCAT	Pasteurella multocida	0.025	CMP-N-acetyl-beta-neuraminate	*mutant enzyme D141A, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	0.55	CMP-N-acetyl-beta-neuraminate	*wild type enzyme, using 4-methylumbelliferyl beta-Lewis x as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	0.59	CMP-N-acetyl-beta-neuraminate	*mutant enzyme M144D, using 4-methylumbelliferyl beta-Lewis x as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	0.93	CMP-N-acetyl-beta-neuraminate	*mutant enzyme M144H, using 4-methylumbelliferyl beta-Lewis x as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	1.9	CMP-N-acetyl-beta-neuraminate	*mutant enzyme M144D, using 4-methylumbelliferyl beta-lactoside as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	2.1	CMP-N-acetyl-beta-neuraminate	*mutant enzyme H311A, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	4	4-methylumbelliferyl beta-Lewis x	*mutant enzyme M144D, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	6.5	CMP-N-acetyl-beta-neuraminate	*mutant enzyme M144D, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	6.7	4-methylumbelliferyl beta-Lewis x	*wild type enzyme, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	8.4	4-methylumbelliferyl beta-Lewis x	*mutant enzyme M144H, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	21	4-methylumbelliferyl beta-lactoside	*mutant enzyme M144H, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	21	CMP-N-acetyl-beta-neuraminate	*mutant enzyme M144H, using 4-methylumbelliferyl beta-lactoside as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	22	4-methylumbelliferyl beta-lactoside	*mutant enzyme M144D, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	27	CMP-N-acetyl-beta-neuraminate	*wild type enzyme, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	32	CMP-N-acetyl-beta-neuraminate	*wild type enzyme, using 4-methylumbelliferyl beta-lactoside as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	47	4-methylumbelliferyl beta-lactoside	*wild type enzyme, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C
+KCAT	Pasteurella multocida	71	CMP-N-acetyl-beta-neuraminate	*mutant enzyme M144H, in Tris-HCl buffer (200 mM, pH 8.5), at 37&deg;C

@@ -1,0 +1,12 @@
+KCAT	Paenarthrobacter nicotinovorans	0.33	formaldehyde	*pH 8.4, 28&deg;C, cosubstrate NADP+
+KCAT	Paenarthrobacter nicotinovorans	0.65	Butyraldehyde	*pH 8.4, 28&deg;C, cosubstrate NADP+
+KCAT	Paenarthrobacter nicotinovorans	0.75	acetaldehyde	*pH 8.4, 28&deg;C, cosubstrate NADP+
+KCAT	Paenarthrobacter nicotinovorans	1.02	NADP+	*pH 8.4, 28&deg;C, cosubstrate butyraldehyde
+KCAT	Pyrobaculum ferrireducens	1.2	glyceraldehyde	*at pH 8.8 and 60&deg;C
+KCAT	Paenarthrobacter nicotinovorans	1.2	propionaldehyde	*pH 8.4, 28&deg;C, cosubstrate NADP+
+KCAT	Paenarthrobacter nicotinovorans	1.35	glyceraldehyde	*pH 8.4, 28&deg;C, cosubstrate NADP+
+KCAT	Pyrobaculum ferrireducens	2.9	propionaldehyde	*at pH 8.8 and 60&deg;C
+KCAT	Paenarthrobacter nicotinovorans	3.1	NAD+	*pH 8.4, 28&deg;C, cosubstrate butyraldehyde
+KCAT	Paenarthrobacter nicotinovorans	3.92	Glutaraldehyde	*pH 8.4, 28&deg;C, cosubstrate NADP+
+KCAT	Pyrobaculum ferrireducens	4.1	Isobutyraldehyde	*at pH 8.8 and 60&deg;C
+KCAT	Paenarthrobacter nicotinovorans	4.52	benzaldehyde	*pH 8.4, 28&deg;C, cosubstrate NADP+

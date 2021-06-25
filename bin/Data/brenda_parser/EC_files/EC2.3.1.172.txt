@@ -1,0 +1,18 @@
+KCAT	Arabidopsis thaliana	0.00012	cyanidin 3-O-[[2-O-(2-O-sinapoyl)-beta-D-xylosyl]-6-O-(6-O-(4-coumaroyl)-beta-D-glucoside)] 5-O-beta-D-glucoside	*pH 7.1, 25&deg;C
+KCAT	Salvia splendens	0.001	shisonin	*below, pH 7, 30&deg;C, malonyl-CoA as cosubstrate, D390A mutant Ss5MaT1
+KCAT	Arabidopsis thaliana	0.0013	malonyl-CoA	*cyanidin 3-O-[[2-O-(2-O-sinapoyl)-beta-D-xylosyl]-6-O-(6-O-(4-coumaroyl)-beta-D-glucoside)] 5-O-beta-D-glucoside as co-substrate, pH 7.1, 25&deg;C
+KCAT	Salvia splendens	0.002	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, H167A mutant Ss5MaT1
+KCAT	Arabidopsis thaliana	0.02	cyanin	*pH 7.1, 25&deg;C
+KCAT	Salvia splendens	0.072	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, D171A mutant Ss5MaT1
+KCAT	Salvia splendens	0.1	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, N315A mutant Ss5MaT1
+KCAT	Arabidopsis thaliana	0.12	cyanidin 3-O-[[2-O-beta-D-xylosyl]-6-O-(6-O-(4-coumaroyl)-beta-D-glucoside)] 5-O-beta-D-glucoside	*pH 7.1, 25&deg;C
+KCAT	Arabidopsis thaliana	0.2	malonyl-CoA	*cyanidin 3-O-[[2-O-beta-D-xylosyl]-6-O-(6-O-(4-coumaroyl)-beta-D-glucoside)] 5-O-beta-D-glucoside as co-substrate, pH 7.1, 25&deg;C
+KCAT	Salvia splendens	1	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, Y45A mutant Ss5MaT1
+KCAT	Salvia splendens	1.4	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, R301A mutant Ss5MaT1
+KCAT	Arabidopsis thaliana	1.79	malvin	*pH 7.1, 25&deg;C
+KCAT	Salvia splendens	4.3	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, native Ss5MaT1
+KCAT	Salvia splendens	5.3	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, K258A mutant Ss5MaT1
+KCAT	Salvia splendens	5.8	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, Q150A mutant Ss5MaT1
+KCAT	Salvia splendens	7.8	pelargonidin 3-O-(6-caffeoyl-beta-D-glucoside) 5-O-beta-D-glucoside	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate
+KCAT	Salvia splendens	8.7	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, wild-type Ss5MaT1
+KCAT	Salvia splendens	8.7	shisonin	*pH 7, 30&deg;C, malonyl-CoA as cosubstrate, recombinant Ss5MaT1

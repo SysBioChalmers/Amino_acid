@@ -1,0 +1,53 @@
+KCAT	Acinetobacter sp.	-999	more	*
+KCAT	Acinetobacter sp.	-999	more	*
+KCAT	Thermocrispum municipale	0.1	acetophenone	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	0.16	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme L435N
+KCAT	Acinetobacter calcoaceticus	0.19	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme I491A
+KCAT	Acinetobacter calcoaceticus	0.2	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme F281H
+KCAT	Acinetobacter sp.	0.227	epsilon-thiocaprolactone	*substrate inactivates enzyme after a few turnovers
+KCAT	Acinetobacter calcoaceticus	0.24	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme T56S/L244R/I491
+KCAT	Acinetobacter sp.	0.24	delta-thiovalerolactone	*substrate inactivates enzyme after a few turnovers
+KCAT	Acinetobacter calcoaceticus	0.26	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme T56S/I491A
+KCAT	Acinetobacter calcoaceticus	0.28	2-butanone	*pH 7.0, 25&deg;C, wild-type enzyme
+KCAT	Acinetobacter calcoaceticus	0.3	2-butanone	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	0.31	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme L244R
+KCAT	Acinetobacter calcoaceticus	0.33	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme T56S/L435N/I491
+KCAT	Thermocrispum municipale	0.4	2-butanone	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	0.4	acetophenone	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	0.41	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme T56S/L244R
+KCAT	Acinetobacter calcoaceticus	0.47	2-butanone	*pH 7.0, 25&deg;C, mutant enzyme T56S
+KCAT	Ilyonectria destructans	0.68	Cyclooctanone	*pH 8.0, 25&deg;C
+KCAT	Acinetobacter sp.	0.683	cis-hex-2-enyl phenyl selenide	*
+KCAT	Acinetobacter sp.	0.683	gamma-thiobutyrolactone	*substrate inactivates enzyme after a few turnovers
+KCAT	Ilyonectria destructans	0.73	2-phenylcyclohexanone	*pH 8.0, 25&deg;C
+KCAT	Acinetobacter sp.	0.917	trans-hex-2-enyl phenyl selenide	*
+KCAT	Acinetobacter calcoaceticus	1	Cyclopentanone	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	1	phenylacetone	*pH 7.0, 25&deg;C
+KCAT	Thermocrispum municipale	1	phenylacetone	*pH 7.0, 25&deg;C
+KCAT	Thermocrispum municipale	2	bicyclo[3.2.0]hept-2-en-6-one	*pH 7.0, 25&deg;C
+KCAT	Thermocrispum municipale	2	Cyclobutanone	*pH 7.0, 25&deg;C
+KCAT	Thermocrispum municipale	2	cyclohexanone	*pH 7.0, 25&deg;C
+KCAT	Thermocrispum municipale	2	Cyclopentanone	*pH 7.0, 25&deg;C
+KCAT	Thermocrispum municipale	2	thioanisole	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter sp.	2.38	ethylene monothiocarbonate	*substrate inactivates enzyme after a few turnovers
+KCAT	Acinetobacter calcoaceticus	3	thioanisole	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	4	bicyclo[3.2.0]hept-2-en-6-one	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	4	Cyclobutanone	*pH 7.0, 25&deg;C
+KCAT	Ilyonectria destructans	4.3	Cycloheptanone	*pH 8.0, 25&deg;C
+KCAT	Ilyonectria destructans	4.5	2-hydroxycyclobutanone	*pH 8.0, 25&deg;C
+KCAT	Acinetobacter sp. NCIMB9871	4.9	bicyclo[3.2.0]hept-2-en-6-one	*pH 8.5, 20&deg;C, mutant enzyme L323C/A325C
+KCAT	Ilyonectria destructans	5.9	Cyclopentanone	*pH 8.0, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	6	cyclohexanone	*pH 7.0, 25&deg;C
+KCAT	Acinetobacter sp. NCIMB9871	6.1	cyclohexanone	*pH 8.5, 20&deg;C, mutant enzyme L323C/A325C
+KCAT	Acinetobacter sp. NCIMB9871	6.1	cyclohexanone	*25&deg;C, pH 8.0, mutant enzyme P254C/D290C
+KCAT	Acinetobacter sp. NCIMB9871	6.15	cyclohexanone	*25&deg;C, pH 8.0, mutant enzyme Y411C/A463C
+KCAT	Ilyonectria destructans	6.8	Cyclobutanone	*pH 8.0, 25&deg;C
+KCAT	Acinetobacter sp.	8.4	2-methylcyclohexyl boronic acid	*
+KCAT	Acinetobacter sp.	9.75	phenyl propargyl selenide	*
+KCAT	Ilyonectria destructans	9.8	cyclohexanone	*pH 8.0, 25&deg;C
+KCAT	Acinetobacter sp. NCIMB9871	13.4	bicyclo[3.2.0]hept-2-en-6-one	*pH 8.5, 20&deg;C, wild-type enzyme
+KCAT	Acinetobacter sp. NCIMB9871	14.2	cyclohexanone	*pH 8.5, 20&deg;C, wild-type enzyme
+KCAT	Acinetobacter sp.	30.3	cyclohexanone	*
+KCAT	Acinetobacter sp. NCIMB9871	38.5	cyclohexanone	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Acinetobacter sp. NCIMB9871	44.9	cyclohexanone	*25&deg;C, pH 8.0, mutant enzyme T415C/A463C
+KCAT	Acinetobacter sp. NCIMB9871	57.4	cyclohexanone	*25&deg;C, pH 8.0, mutant enzyme T415C

@@ -1,0 +1,2 @@
+KCAT	Sus scrofa	0.183	myo-inositol	*with Fe(2+) and L-cysteine as activators
+KCAT	Rattus norvegicus	7.22	Inositol	*

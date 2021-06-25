@@ -1,0 +1,24 @@
+KCAT	Pyrococcus horikoshii	0.0048	D-fructose 6-phosphate	*D433A mutant; mutant enzyme D433A, at 50&deg;C
+KCAT	Pyrococcus horikoshii	0.31	D-fructose 6-phosphate	*R185A mutant
+KCAT	Pyrococcus horikoshii	0.351	D-fructose 6-phosphate	*mutant enzyme R185A, at 50&deg;C
+KCAT	Methanococcus maripaludis	0.45	D-fructose 1,6-bisphosphate	*pH 6.5, 30&deg;C; pH 7.0, 30&deg;C
+KCAT	Methanococcus maripaludis	0.45	D-glucose 6-phosphate	*pH 6.5, 30&deg;C
+KCAT	Pyrococcus horikoshii	1.98	D-fructose 6-phosphate	*D17A mutant; mutant enzyme D17A, at 50&deg;C
+KCAT	Pyrococcus horikoshii	13	D-fructose 6-phosphate	*mutant enzyme Q97A, at 50&deg;C; Q97A mutant
+KCAT	Methanococcus maripaludis	16.5	D-fructose 6-phosphate	*pH 6.5, 30&deg;C; pH 7.0, 30&deg;C
+KCAT	Methanococcus maripaludis	23	D-glucose	*pH 6.5, 30&deg;C
+KCAT	Pyrococcus horikoshii	25.5	D-fructose 6-phosphate	*mutant enzyme S189A, at 50&deg;C; S189A mutant
+KCAT	Pyrococcus horikoshii	27.4	D-fructose 6-phosphate	*mutant enzyme R191A, at 50&deg;C; R191A mutant
+KCAT	Methanococcus maripaludis	30	ADP	*pH 6.5, 30&deg;C; pH 7.0, 30&deg;C
+KCAT	Pyrococcus horikoshii	39.3	D-fructose 6-phosphate	*A71E mutant; mutant enzyme A71E, at 50&deg;C
+KCAT	Pyrococcus horikoshii	41	D-fructose 6-phosphate	*K158A mutant; mutant enzyme K158A, at 50&deg;C
+KCAT	Pyrococcus horikoshii	42.5	D-fructose 6-phosphate	*mutant enzyme R191E, at 50&deg;C; R191E mutant
+KCAT	Pyrococcus horikoshii	45.5	D-fructose 6-phosphate	*wild type enzyme, at 50&deg;C; wild type enzyme, at 50&deg;C
+KCAT	Pyrococcus horikoshii	52	ADP	*presence of Mg2+, pH 6.5, 50&deg;C
+KCAT	Pyrococcus horikoshii	64.1	D-fructose 6-phosphate	*mutant enzyme S263A, at 50&deg;C; S263A mutant
+KCAT	Pyrococcus horikoshii	65.3	D-fructose 6-phosphate	*mutant enzyme Q224A, at 50&deg;C; Q224A mutant
+KCAT	Pyrococcus horikoshii	67	ADP	*presence of Mn2+, pH 6.5, 50&deg;C
+KCAT	Pyrococcus horikoshii	91.1	D-fructose 6-phosphate	*mutant enzyme N15A, at 50&deg;C; N15A mutant
+KCAT	Pyrococcus horikoshii	91.7	D-fructose 6-phosphate	*mutant enzyme S183E, at 50&deg;C; S183E mutant
+KCAT	Pyrococcus horikoshii	98	ADP	*presence of Co2+, pH 6.5, 50&deg;C
+KCAT	Pyrococcus horikoshii	151	D-fructose 6-phosphate	*mutant enzyme N160A, at 50&deg;C; N160A mutant

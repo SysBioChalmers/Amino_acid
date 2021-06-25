@@ -1,0 +1,23 @@
+KCAT	Mycobacterium tuberculosis	232	ATP	*mutant enzyme D93N, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	264	ATP	*wild type enzyme, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Pisum sativum	2085	ATP	*recombinant His-tagged NDPK
+KCAT	Oryza sativa	17.9	GTP	*isozyme NDPK3, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	27.7	GTP	*isozyme NDPK2, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	49.4	GTP	*isozyme NDPK1, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Thermus thermophilus	38	GDP	*pH 7.5, 25 &Acirc;&deg;C
+KCAT	Oryza sativa	85.2	CTP	*isozyme NDPK2, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	89	CTP	*isozyme NDPK3, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	229	CTP	*isozyme NDPK1, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	14.2	TTP	*isozyme NDPK2, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	33.5	TTP	*isozyme NDPK3, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	Oryza sativa	55	TTP	*isozyme NDPK1, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&Acirc;&deg;C
+KCAT	white spot syndrome virus	0.89	dTDP	*pH 7.5, temperature not specified in the publication
+KCAT	Saccharomyces cerevisiae	13.3	dTDP	*
+KCAT	Pisum sativum	17	dTDP	*S69A mutant enzyme, 22&Acirc;&deg;C
+KCAT	Pisum sativum	120	dTDP	*S119A mutant enzyme, 22&Acirc;&deg;C
+KCAT	Pisum sativum	147	dTDP	*wild type enzyme, 22&Acirc;&deg;C
+KCAT	Pisum sativum	9	dCDP	*S69A mutant enzyme, 22&Acirc;&deg;C
+KCAT	Pisum sativum	105	dCDP	*S119A mutant enzyme, 22&Acirc;&deg;C
+KCAT	Pisum sativum	106	dCDP	*wild type enzyme, 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.159	8-bromoinosine 5'-diphosphate	*wild type enzyme, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.23	8-bromoinosine 5'-diphosphate	*mutant enzyme D93N, at pH 7.5 and 22&Acirc;&deg;C

@@ -1,0 +1,2 @@
+KCAT	Bacteroides thetaiotaomicron	13	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C
+KCAT	Bacteroides thetaiotaomicron	29	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	*pH 7.5, 25&deg;C

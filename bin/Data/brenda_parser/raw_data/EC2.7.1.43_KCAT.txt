@@ -1,0 +1,1 @@
+ecNumber*2.7.1.43#turnoverNumber*8.3#turnoverNumberMaximum*#substrate*D-glucuronic acid#commentary*#organism*Arabidopsis thaliana#ligandStructureId*1498#literature*704685#!ecNumber*2.7.1.43#turnoverNumber*8.5#turnoverNumberMaximum*#substrate*ATP#commentary*#organism*Arabidopsis thaliana#ligandStructureId*4#literature*704685#

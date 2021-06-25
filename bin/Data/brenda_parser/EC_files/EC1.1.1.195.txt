@@ -1,0 +1,102 @@
+KCAT	Eucalyptus gunnii	0.49	NADPH	*
+KCAT	Leucaena leucocephala	15.31	NADPH	*pH 6.5, 40&Acirc;&deg;C
+KCAT	Helicobacter pylori	25.2	NADPH	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme, with acetaldehyde
+KCAT	Leucaena leucocephala	28.8	NADPH	*pH 6.5, 40&Acirc;&deg;C
+KCAT	Eucalyptus gunnii	0.0242	NAD+	*
+KCAT	Streptomyces sp.	19.9	NAD+	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	33	NAD+	*pH 8.8, 50&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	43	NADH	*pH 7.5, 50&Acirc;&deg;C
+KCAT	Eucalyptus gunnii	0.0555	NADP+	*
+KCAT	Leucaena leucocephala	9.22	NADP+	*pH 8.8, 40&Acirc;&deg;C
+KCAT	Helicobacter pylori	15.5	NADP+	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme, with benzyla alcohol
+KCAT	Leucaena leucocephala	23.3	NADP+	*pH 8.8, 40&Acirc;&deg;C
+KCAT	Helicobacter pylori	7.1	ethanol	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Helicobacter pylori	16.7	acetaldehyde	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Helicobacter pylori	2.3	benzaldehyde	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Helicobacter pylori	2.5	benzaldehyde	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme, dismutase reaction with NADP+
+KCAT	Helicobacter pylori	8.4	benzyl alcohol	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Helicobacter pylori	5.7	butanol	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Leucaena leucocephala	6.41	cinnamyl alcohol	*pH 8.8, 40&Acirc;&deg;C
+KCAT	Helicobacter pylori	13.3	cinnamyl alcohol	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Leucaena leucocephala	16.2	cinnamyl alcohol	*pH 8.8, 40&Acirc;&deg;C
+KCAT	Streptomyces sp.	18.1	cinnamyl alcohol	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	43	cinnamyl alcohol	*pH 8.8, 50&Acirc;&deg;C
+KCAT	Synechocystis sp.	60.78	cinnamyl alcohol	*in 30 mM Tris-HCl (pH 8.0)
+KCAT	Helicobacter pylori	12.8	Propanol	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Leucaena leucocephala	5.63	cinnamaldehyde	*pH 6.5, 40&Acirc;&deg;C
+KCAT	Streptomyces sp.	14.4	cinnamaldehyde	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Leucaena leucocephala	18	cinnamaldehyde	*pH 6.5, 40&Acirc;&deg;C
+KCAT	Geobacillus stearothermophilus	55	cinnamaldehyde	*pH 7.5, 50&Acirc;&deg;C
+KCAT	Synechocystis sp.	107.9	cinnamaldehyde	*in 30 mM Tris-HCl (pH 8.0)
+KCAT	Hibiscus cannabinus	1437	cinnamaldehyde	*pH 6.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Nicotiana tabacum	0.43	coniferyl alcohol	*pH 6.25, 30&Acirc;&deg;C, recombinant CAD1-1
+KCAT	Nicotiana tabacum	0.99	coniferyl alcohol	*pH 6.25, 30&Acirc;&deg;C, recombinant CAD1-7
+KCAT	Helicobacter pylori	3.5	coniferyl alcohol	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Leucaena leucocephala	8.75	coniferyl alcohol	*pH 8.8, 40&Acirc;&deg;C
+KCAT	Panicum virgatum	13.2	coniferyl alcohol	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Leucaena leucocephala	16.3	coniferyl alcohol	*pH 8.8, 40&Acirc;&deg;C
+KCAT	Carthamus tinctorius	0.00098	coniferyl aldehyde	*pH 6.5-7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Carthamus tinctorius	0.0121	coniferyl aldehyde	*pH 6.5-7.5, 26&Acirc;&deg;C, recombinant enzyme
+KCAT	Carthamus tinctorius	0.032	coniferyl aldehyde	*pH 6.5-7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Medicago truncatula	0.1	coniferyl aldehyde	*Mt-CAD2, pH and temperature not specified in the publication
+KCAT	Nicotiana tabacum	0.17	coniferyl aldehyde	*pH 10.5, 30&Acirc;&deg;C, recombinant CAD1-1
+KCAT	Nicotiana tabacum	0.24	coniferyl aldehyde	*pH 8.8, 30&Acirc;&deg;C, recombinant CAD1-7
+KCAT	Oryza sativa	1.3	coniferyl aldehyde	*pH 8.8, 30&Acirc;&deg;C, recombinant enzyme encoded by GH2
+KCAT	Leucaena leucocephala	2	coniferyl aldehyde	*pH 6.5, 40&Acirc;&deg;C
+KCAT	Populus tomentosa	7.78	coniferyl aldehyde	*pH 6.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Populus tomentosa	8.68	coniferyl aldehyde	*pH 6.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Medicago truncatula	9.1	coniferyl aldehyde	*Mt-CAD1, pH and temperature not specified in the publication
+KCAT	Leucaena leucocephala	16.56	coniferyl aldehyde	*pH 6.5, 40&Acirc;&deg;C
+KCAT	Helicobacter pylori	27.4	coniferyl aldehyde	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Populus tomentosa	45.42	coniferyl aldehyde	*pH 5.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme; pH 5.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Panicum virgatum	99.6	coniferyl aldehyde	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Panicum virgatum	138	coniferyl aldehyde	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Hibiscus cannabinus	7564	coniferyl aldehyde	*pH 6.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Streptomyces sp.	32.9	allyl alcohol	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Leucaena leucocephala	14.38	sinapyl alcohol	*pH 8.8, 40&Acirc;&deg;C
+KCAT	Leucaena leucocephala	16	sinapyl alcohol	*pH 8.8, 40&Acirc;&deg;C
+KCAT	Panicum virgatum	46.4	sinapyl alcohol	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Plagiochasma appendiculatum	0.072	coniferaldehyde	*isoform CAD2, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.085	coniferaldehyde	*isoform CAD1, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Sinopodophyllum hexandrum	7.9	coniferaldehyde	*isoform CAD1, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Sinopodophyllum hexandrum	9	coniferaldehyde	*isoform CAD2, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Sinopodophyllum hexandrum	10.8	coniferaldehyde	*isoform CAD4, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Sinopodophyllum hexandrum	12	coniferaldehyde	*isoform CAD3, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Streptomyces sp.	11.2	3-Phenyl-1-propanol	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.005	sinapaldehyde	*isoform CAD2, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.006	sinapaldehyde	*isoform CAD1, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Sinopodophyllum hexandrum	2.4	sinapaldehyde	*isoform CAD3, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Sinopodophyllum hexandrum	2.76	sinapaldehyde	*isoform CAD4, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Sinopodophyllum hexandrum	3.4	sinapaldehyde	*isoform CAD2, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Sinopodophyllum hexandrum	8.3	sinapaldehyde	*isoform CAD1, at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Carthamus tinctorius	0.00135	sinapyl aldehyde	*pH 6.5-7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Carthamus tinctorius	0.0053	sinapyl aldehyde	*pH 6.5-7.5, 26&Acirc;&deg;C, recombinant enzyme
+KCAT	Medicago truncatula	0.024	sinapyl aldehyde	*Mt-CAD2, pH and temperature not specified in the publication
+KCAT	Medicago truncatula	0.039	sinapyl aldehyde	*Mt-CAD2 mutant Y136F, pH and temperature not specified in the publication
+KCAT	Carthamus tinctorius	0.041	sinapyl aldehyde	*pH 6.5-7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Medicago truncatula	0.044	sinapyl aldehyde	*Mt-CAD2 mutant F226A, pH and temperature not specified in the publication
+KCAT	Medicago truncatula	0.083	sinapyl aldehyde	*Mt-CAD2 mutant Y136F/F226A, pH and temperature not specified in the publication
+KCAT	Oryza sativa	3.4	sinapyl aldehyde	*pH 8.8, 30&Acirc;&deg;C, recombinant enzyme encoded by GH2
+KCAT	Populus tomentosa	3.63	sinapyl aldehyde	*pH 6.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Populus tomentosa	10.09	sinapyl aldehyde	*pH 6.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Medicago truncatula	10.2	sinapyl aldehyde	*Mt-CAD1, pH and temperature not specified in the publication
+KCAT	Populus tomentosa	16.59	sinapyl aldehyde	*pH 5.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme; pH 5.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Leucaena leucocephala	32.2	sinapyl aldehyde	*pH 6.5, 40&Acirc;&deg;C
+KCAT	Panicum virgatum	195	sinapyl aldehyde	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Panicum virgatum	196	sinapyl aldehyde	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Hibiscus cannabinus	9368	sinapyl aldehyde	*pH 6.0, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Arabidopsis thaliana	0.026	4-coumaraldehyde	*mutant T49A, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Arabidopsis thaliana	6.8	4-coumaraldehyde	*wild-type, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Arabidopsis thaliana	40.2	4-coumaraldehyde	*mutant H52A, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Arabidopsis thaliana	74.2	4-coumaraldehyde	*mutant D57A, 30&Acirc;&deg;C, pH not specified in the publication
+KCAT	Helicobacter pylori	7.7	cinnamyl aldehyde	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Panicum virgatum	24.7	coumaryl alcohol	*pH not specified in the publication, temperature not specified in the publication
+KCAT	Medicago truncatula	0.46	p-coumaryl aldehyde	*Mt-CAD2, pH and temperature not specified in the publication
+KCAT	Medicago truncatula	15.6	p-coumaryl aldehyde	*Mt-CAD1, pH and temperature not specified in the publication
+KCAT	Leucaena leucocephala	22.5	p-coumaryl aldehyde	*pH 6.5, 40&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.062	caffeylaldehyde	*isoform CAD2, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.072	caffeylaldehyde	*isoform CAD1, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.005	5-hydroxyconiferylaldehyde	*isoform CAD1, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.007	5-hydroxyconiferylaldehyde	*isoform CAD2, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.273	4-coumarylaldehyde	*isoform CAD2, at pH 6.0 and 25&Acirc;&deg;C
+KCAT	Plagiochasma appendiculatum	0.367	4-coumarylaldehyde	*isoform CAD1, at pH 6.0 and 25&Acirc;&deg;C

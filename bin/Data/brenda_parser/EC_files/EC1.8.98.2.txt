@@ -1,0 +1,5 @@
+KCAT	Arabidopsis thaliana	0.00042	peroxiredoxin-(S-hydroxy-S-oxocysteine)	*pH 7.5, 30&deg;C, saturating ATP, 0.03 mM Srx, 0.04 mM substrate
+KCAT	Homo sapiens	0.003	peroxiredoxin-(S-hydroxy-S-oxocysteine)	*at 30&deg;C
+KCAT	Arabidopsis thaliana	0.011	peroxiredoxin-(S-hydroxy-S-oxocysteine)	*pH 7.5, 30&deg;C, 1 mM ATP, 0.03 mM Srx, saturating substrate concentration
+KCAT	Saccharomyces cerevisiae	0.016	gamma-S-ATP	*wild-type, pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.03	ATP	*wild-type, pH 7.0, 30&deg;C

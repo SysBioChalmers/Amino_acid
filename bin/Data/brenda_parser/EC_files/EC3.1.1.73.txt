@@ -1,0 +1,315 @@
+KCAT	Fusarium oxysporum	-999	methyl caffeate	*45&deg;C, pH 6.0, isoenzyme FAE-I
+KCAT	Neurospora crassa	-999	O-[2-O-(transferuloyl)-alpha-L-arabinofuranosyl]-(1,5)-L-arabinose	*37&deg;C, pH 6.0
+KCAT	Streptomyces sp. TH-2	0.0008	methyl sinapinate	*wild-type, pH not specified in the publication, 50&deg;C
+KCAT	Streptomyces cinnamoneus	0.0017	methyl sinapinate	*pH not specified in the publication, 50&deg;C
+KCAT	Streptomyces sp. TH-2	0.0027	ethyl ferulate	*wild-type, pH not specified in the publication, 50&deg;C
+KCAT	Streptomyces sp. TH-2	0.0045	methyl ferulate	*wild-type, pH not specified in the publication, 50&deg;C
+KCAT	Aspergillus niger	0.01	methyl caffeate	*pH 6.0, 37&deg;C, Y80S mutant enzyme
+KCAT	rumen microorganism	0.01	methyl ferulate	*transesterification, immobilized enzyme, pH not specified in the publication, 40&deg;C
+KCAT	Streptomyces sp. TH-2	0.0145	methyl ferulate	*mutant 18PG, pH not specified in the publication, 50&deg;C
+KCAT	Aspergillus niger	0.02	methyl caffeate	*pH 6.0, 37&deg;C, Y80V mutant enzyme
+KCAT	Streptomyces cinnamoneus	0.0283	methyl ferulate	*pH not specified in the publication, 50&deg;C
+KCAT	Fusarium oxysporum	0.03	4-nitrophenyl 2-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Aspergillus niger	0.031	methyl sinapinate	*pH 6.0, 37&deg;C, Y80V mutant enzyme
+KCAT	Talaromyces stipitatus	0.04	methyl sinapinate	*pH 6.0, 37&deg;C
+KCAT	Streptomyces cinnamoneus	0.0422	ethyl ferulate	*pH not specified in the publication, 50&deg;C
+KCAT	Thermothelomyces heterothallicus	0.05	methyl 3-hydroxy-4-methoxy cinnamate	*
+KCAT	Thermothelomyces heterothallicus	0.05	methyl cinnamate	*
+KCAT	Thermothelomyces heterothallicus	0.067	methyl 3,4-dimethoxy cinnamate	*
+KCAT	Streptomyces sp. TH-2	0.073	ethyl ferulate	*mutant 18PG, pH not specified in the publication, 50&deg;C
+KCAT	Streptomyces sp. TH-2	0.0732	methyl sinapinate	*mutant 18PG, pH not specified in the publication, 50&deg;C
+KCAT	Talaromyces stipitatus	0.1	methyl 3,5-dimethoxy cinnamate	*
+KCAT	Thermothelomyces heterothallicus	0.1	methyl caffeate	*
+KCAT	Aspergillus niger	0.1	methyl p-coumarate	*pH 6.0, 37&deg;C, Y80S mutant enzyme
+KCAT	Pseudoalteromonas haloplanktis	0.1	methylumbelliferyl acetate	*20&deg;C, pH 7.4
+KCAT	Thermothelomyces heterothallicus	0.117	methyl 3-hydroxy cinnamate	*
+KCAT	Fusarium oxysporum	0.12	methyl ferulate	*
+KCAT	Thermothelomyces heterothallicus	0.133	methyl 3,4-dihydroxy cinnamate	*
+KCAT	rumen microorganism	0.14	methyl ferulate	*transesterification, free enzyme, pH not specified in the publication, 40&deg;C
+KCAT	Aspergillus oryzae	0.15	4-nitrophenyl 2-O-acetyl-alpha-L-arabinofuranoside	*
+KCAT	Fusarium oxysporum	0.16	methyl caffeate	*
+KCAT	Aspergillus oryzae	0.18	methyl caffeate	*mutant W144Y, pH 7.0, 37&deg;C
+KCAT	Fusarium oxysporum	0.18	n-propyl ferulate	*
+KCAT	Thermothelomyces heterothallicus	0.183	methyl 3,4-dihydroxy-phenyl propionate	*
+KCAT	Butyrivibrio proteoclasticus	0.19	p-nitrophenyl acetate	*in 100 mM phosphate buffer, pH 7.2, at 37&deg;C
+KCAT	Hungateiclostridium thermocellum	0.2	n-hexyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Fusarium oxysporum	0.21	methyl p-coumarate	*
+KCAT	Thermothelomyces heterothallicus	0.22	methyl 3-methoxy cinnamate	*
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	0.22	methyl p-coumarate	*at 65&deg;C, in 50 mM sodium phosphate buffer, pH 8.0
+KCAT	Aspergillus oryzae	0.23	methyl ferulate	*mutant W144Y, pH 7.0, 37&deg;C
+KCAT	Aspergillus niger	0.24	4-nitrophenyl 4-O-(E)-feruloyl-alpha-D-xylopyranoside	*
+KCAT	Butyrivibrio proteoclasticus	0.24	p-nitrophenyl butyrate	*in 100 mM phosphate buffer, pH 7.2, at 37&deg;C
+KCAT	Talaromyces stipitatus	0.25	methyl 3,4-dimethoxy cinnamate	*
+KCAT	Fusarium oxysporum	0.26	iso-propyl ferulate	*
+KCAT	Aspergillus niger	0.26	methyl caffeate	*pH 6.0, 37&deg;C, W260V mutant enzyme
+KCAT	Aspergillus niger	0.26	methyl p-coumarate	*pH 6.0, 37&deg;C, Y80V mutant enzyme
+KCAT	Aspergillus flavus	0.27	methyl 4-coumarate	*pH 5.5, 40&deg;C, recombinant enzyme
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	0.28	methyl ferulate	*at 65&deg;C, in 50 mM sodium phosphate buffer, pH 8.0
+KCAT	Caldanaerobacter subterraneus subsp. tengcongensis	0.28	methyl sinapate	*at 65&deg;C, in 50 mM sodium phosphate buffer, pH 8.0
+KCAT	Aspergillus niger	0.29	methyl p-coumarate	*pH 6.0, 37&deg;C, W260V mutant enzyme
+KCAT	Aspergillus oryzae	0.31	methyl caffeate	*mutant W142F, pH 7.0, 37&deg;C
+KCAT	Aspergillus terreus	0.31	p-coumaric acid methyl ester	*pH 5.0, 40&deg;C
+KCAT	Aspergillus awamori	0.32	alpha-naphthylcaprylate	*pH 5.0, 37&deg;C, T72R mutant enzyme
+KCAT	Aspergillus niger	0.32	methyl caffeate	*pH 6.0, 37&deg;C, W260S mutant enzyme
+KCAT	Bacillus amyloliquefaciens	0.34	methyl ferulate	*pH 8.0, 40&deg;C
+KCAT	Aspergillus oryzae	0.35	methyl p-coumarate	*mutant W144Y, pH 7.0, 37&deg;C
+KCAT	Thermothelomyces heterothallicus	0.4	methyl 4-hydroxy-3,5-dimethoxy cinnamate	*
+KCAT	Thermothelomyces heterothallicus	0.4	methyl sinapinate	*
+KCAT	Hungateiclostridium thermocellum	0.4	n-decyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Neurospora crassa	0.41	methyl coumarate	*37&deg;C, pH 6.0
+KCAT	Neurospora crassa	0.41	methyl ferulate	*37&deg;C, pH 6.0
+KCAT	Neurospora crassa	0.41	methyl p-coumarate	*pH 6.0, 37&deg;C
+KCAT	Fusarium oxysporum	0.46	ethyl ferulate	*
+KCAT	Fusarium oxysporum	0.47	methyl sinapate	*45&deg;C, pH 6.0, isoenzyme FAE-I
+KCAT	Aspergillus niger	0.49	methyl p-coumarate	*pH 6.0, 37&deg;C, W260S mutant enzyme
+KCAT	Thermothelomyces heterothallicus	0.5	methyl p-coumarate	*
+KCAT	Fusarium oxysporum	0.5	methyl sinapate	*
+KCAT	Fusarium oxysporum	0.5	methyl sinapinate	*pH 6.0, 45&deg;C
+KCAT	Aspergillus oryzae	0.51	methyl ferulate	*mutant W142F, pH 7.0, 37&deg;C
+KCAT	Thermothelomyces heterothallicus	0.533	methyl 4-hydroxy cinnamate	*
+KCAT	Aspergillus oryzae	0.57	methyl p-coumarate	*mutant W142F, pH 7.0, 37&deg;C
+KCAT	Aspergillus awamori	0.64	alpha-naphthylcaprylate	*pH 5.0, 37&deg;C, D71I mutant enzyme
+KCAT	Aspergillus oryzae	0.68	methyl sinapinate	*mutant W144Y, pH 7.0, 37&deg;C
+KCAT	Aspergillus niger	0.7	4-nitrophenyl 3-O-(E)-feruloyl-alpha-D-xylopyranoside	*
+KCAT	Talaromyces stipitatus	0.7	methyl 3-hydroxy-4-methoxy cinnamate	*
+KCAT	Aspergillus niger	0.73	methyl p-coumarate	*pH 6.0, 37&deg;C, native enzyme
+KCAT	Aspergillus niger	0.79	methyl ferulate	*mutant L14F/T35I/K37I/T57I/T63I/A140T/Q121H/S163T/Q177H/V178A/Q185R/C235S, pH 6.4, 40&deg;C
+KCAT	Fusarium oxysporum	0.81	4-nitrophenyl 3-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Aspergillus awamori	0.85	alpha-naphthylcaprylate	*pH 5.0, 37&deg;C, wild type enzyme
+KCAT	Pleurotus eryngii	0.85	methyl ferulate	*pH 5.0, 37&deg;C
+KCAT	Fusarium oxysporum	0.86	4-nitrophenyl 3-O-(E)-feruloyl-alpha-D-xylopyranoside	*
+KCAT	Thermothelomyces heterothallicus	0.87	methyl 4-hydroxy-3-methoxy phenyl propionate	*
+KCAT	Fusarium oxysporum	0.89	4-nitrophenyl 3-O-acetyl-beta-D-xylopyranoside	*
+KCAT	Aspergillus niger	0.89	methyl ferulate	*mutant C235S, pH 6.4, 40&deg;C
+KCAT	Escherichia coli	0.9	ferulic acid ethyl ester	*pH 8.8, 40&deg;C
+KCAT	Aspergillus flavus	0.9	methyl sinapinate	*pH 5.5, 40&deg;C, recombinant enzyme
+KCAT	Aspergillus oryzae	0.91	4-nitrophenyl 3-O-acetyl-beta-D-xylopyranoside	*
+KCAT	Aspergillus terreus	0.94	sinapic acid methyl ester	*pH 5.0, 40&deg;C
+KCAT	Fusarium oxysporum	0.95	iso-butyl ferulate	*
+KCAT	Aspergillus niger	0.99	methyl ferulate	*pH 6.0, 37&deg;C, W260V mutant enzyme
+KCAT	Alternaria tenuissima	1	methyl sinapate	*pH 6.0, 37&deg;C
+KCAT	Bacillus amyloliquefaciens	1.05	ethyl ferulate	*pH 8.0, 40&deg;C
+KCAT	Aspergillus niger	1.05	methyl ferulate	*mutant D93G/S187F, pH 6.4, 40&deg;C
+KCAT	Aspergillus awamori	1.09	alpha-naphthylcaprylate	*pH 5.0, 37&deg;C, Y80F mutant enzyme
+KCAT	Aspergillus niger	1.17	4-nitrophenyl 2-O-(E)-feruloyl-alpha-D-xylopyranoside	*
+KCAT	Pleurotus sapidus	1.2	ferulic acid methyl ester	*pH 5.0, 37&deg;C
+KCAT	Pleurotus sapidus	1.2	methyl ferulate	*pH 5.0, 37&deg;C
+KCAT	Aspergillus niger	1.21	methyl ferulate	*mutant L14F/T35I/K37I/T57I/T63I/A140T/Q121H/S163T/Q177H/V178A/Q185R, pH 6.4, 40&deg;C
+KCAT	Fusarium oxysporum	1.24	2-butyl ferulate	*
+KCAT	Escherichia coli	1.5	ferulic acid methyl ester	*pH 8.8, 40&deg;C
+KCAT	Fusarium oxysporum	1.55	4-nitrophenyl 5-O-trans-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Aspergillus niger	1.56	methyl ferulate	*pH 6.0, 37&deg;C, Y80S mutant enzyme
+KCAT	Aspergillus niger	1.6	methyl ferulate	*pH 6.0, 37&deg;C, native enzyme
+KCAT	Fusarium oxysporum	1.76	4-nitrophenyl 2-O-trans-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Aspergillus oryzae	1.77	4-nitrophenyl 5-O-acetyl-alpha-L-arabinofuranoside	*
+KCAT	Aspergillus oryzae	1.78	methyl sinapinate	*mutant W142F, pH 7.0, 37&deg;C
+KCAT	Pseudoalteromonas haloplanktis	1.8	beta-naphthyl acetate	*20&deg;C, pH 7.4
+KCAT	Aspergillus oryzae	1.9	4-nitrophenyl 3-O-acetyl-beta-D-xylopyranoside	*
+KCAT	Pleurotus sapidus	1.96	beta-D-xylopyranosyl-(1-&gt;2)-5-O-trans-feruloyl-L-arabinofuranose	*pH 5.0, 37&deg;C
+KCAT	Pleurotus sapidus	1.96	beta-D-xylopyranosyl-(1-&gt;2)-5-O-trans-feruloyl-L-arabinofuranose	*pH 5.0, 37&deg;C
+KCAT	Aureobasidium pullulans	2	methyl sinapinate	*30&deg;C
+KCAT	Aspergillus niger	2	methyl sinapinate	*pH 6.0, 37&deg;C, native enzyme
+KCAT	Aspergillus niger	2	O-[5-O-(trans-feruloyl)-alpha-L-Araf]	*isoenzyme FAEB
+KCAT	Pseudoalteromonas haloplanktis	2	p-nitrophenyl acetate	*20&deg;C, pH 7.4
+KCAT	Talaromyces stipitatus	2.2	methyl 2-hydroxy cinnamate	*
+KCAT	Bacillus amyloliquefaciens	2.2	methyl p-coumarate	*pH 8.0, 35&deg;C
+KCAT	Aspergillus flavus	2.21	methyl ferulate	*pH 5.5, 40&deg;C, recombinant enzyme
+KCAT	Aspergillus niger	2.33	4-nitrophenyl 5-O-acetyl-alpha-L-arabinofuranoside	*
+KCAT	Aspergillus awamori	2.33	alpha-naphthylbutyrate	*pH 5.0, 37&deg;C, wild type enzyme
+KCAT	Aspergillus niger	2.56	methyl ferulate	*pH 6.0, 37&deg;C, Y80V mutant enzyme
+KCAT	Aspergillus terreus	2.6	ferulic acid methyl ester	*pH 5.0, 40&deg;C
+KCAT	Thermothelomyces heterothallicus	2.6	methyl 4-hydroxy-3-methoxy cinnamate	*
+KCAT	Thermothelomyces heterothallicus	2.6	methyl ferulate	*
+KCAT	rumen bacterium	2.6	n-decyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Aspergillus awamori	2.7	alpha-naphthylbutyrate	*pH 5.0, 37&deg;C, D71I mutant enzyme
+KCAT	Fusarium oxysporum	2.73	4-nitrophenyl 5-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Pseudoalteromonas haloplanktis	2.75	Alpha-naphthyl acetate	*20&deg;C, pH 7.4
+KCAT	Chaetomium thermophilum var. dissitum	3.1	methyl caffeate	*pH 6.0, 55&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	3.1	methyl caffeate	*pH 6.0, 55&deg;C
+KCAT	Bacillus amyloliquefaciens	3.18	ethyl ferulate	*pH 8.0, 35&deg;C
+KCAT	Hungateiclostridium thermocellum	3.2	n-propyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Aspergillus oryzae	3.23	4-nitrophenyl 2-O-acetyl-beta-D-xylopyranoside	*
+KCAT	Aspergillus awamori	3.38	alpha-naphthylbutyrate	*pH 5.0, 37&deg;C, Y80F mutant enzyme
+KCAT	Aspergillus niger	3.48	methyl sinapinate	*pH 6.0, 37&deg;C, Y80S mutant enzyme
+KCAT	Talaromyces stipitatus	3.5	methyl cinnamate	*
+KCAT	Fusarium oxysporum	3.5	methyl coumarate	*45&deg;C, pH 6.0, isoenzyme FAE-I
+KCAT	Aspergillus niger	3.5	methyl ferulate	*pH 6.0, 37&deg;C, W260S mutant enzyme
+KCAT	Fusarium oxysporum	3.66	4-nitrophenyl 5-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Thermothelomyces heterothallicus	3.7	4-nitrophenyl 2-O-trans-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Aspergillus awamori	3.72	alpha-naphthylbutyrate	*pH 5.0, 37&deg;C, D77I mutant enzyme
+KCAT	Aspergillus awamori	3.77	alpha-naphthylbutyrate	*pH 5.0, 37&deg;C, T72R mutant enzyme
+KCAT	Aspergillus oryzae	3.79	alpha-naphthyl propionate	*mutant W144Y, pH 7.0, 37&deg;C
+KCAT	Aspergillus niger	4	methyl ferulate	*isoenzyme FAEB
+KCAT	Chaetomium thermophilum var. dissitum	4.1	ethyl ferulate	*pH 6.0, 55&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	4.1	ethyl ferulate	*pH 6.0, 55&deg;C
+KCAT	Aspergillus niger	4.6	n-decyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Neurospora crassa	4.8	methyl caffeate	*pH 6.0, 37&deg;C
+KCAT	Neurospora crassa	4.8	methyl caffeate	*37&deg;C, pH 6.0
+KCAT	Fusarium oxysporum	5.2	4-nitrophenyl 2-O-(E)-feruloyl-alpha-D-xylopyranoside	*
+KCAT	Neurospora crassa	5.24	methyl ferulate	*pH 6.0, 37&deg;C
+KCAT	Hungateiclostridium thermocellum	5.7	ethyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Aspergillus oryzae	5.74	alpha-naphthyl propionate	*mutant W142F, pH 7.0, 37&deg;C
+KCAT	Aspergillus oryzae	5.8	alpha-naphthyl propionate	*wild-type, pH 7.0, 37&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	5.8	methyl p-coumarate	*pH 6.0, 55&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	5.8	methyl p-coumarate	*pH 6.0, 55&deg;C
+KCAT	Fusarium oxysporum	5.9	methyl caffeate	*pH 6.0, 45&deg;C
+KCAT	Fusarium oxysporum	5.92	methyl caffeate	*45&deg;C, pH 6.0, isoenzyme FAE-I
+KCAT	Neurospora crassa	6.04	O-[2-O-(transferuloyl)-alpha-L-arabinofuranosyl]-(1,5)-L-arabinose	*37&deg;C, pH 6.0
+KCAT	uncultured microorganism	6.1	methyl p-coumarate	*pH 5.0, 30&deg;C
+KCAT	rumen bacterium	6.1	n-hexyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Fusarium oxysporum	6.37	4-nitrophenyl 5-O-acetyl-alpha-L-arabinofuranoside	*
+KCAT	rumen microorganism	6.47	methyl ferulate	*hydrolysis, immobilized enzyme, pH not specified in the publication, 40&deg;C
+KCAT	Bacillus amyloliquefaciens	6.52	chlorogenate	*pH 8.0, 35&deg;C
+KCAT	Schizophyllum commune	6.6	chlorogenic acid	*pH 7.5, 37&deg;C
+KCAT	Fusarium oxysporum	6.85	methyl ferulate	*45&deg;C, pH 6.0, isoenzyme FAE-I
+KCAT	Fusarium oxysporum	6.9	methyl ferulate	*pH 6.0, 45&deg;C
+KCAT	Fusarium oxysporum	7.05	4-nitrophenyl 2-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Schizophyllum commune	7.5	chlorogenic acid	*pH 7.5, 37&deg;C
+KCAT	uncultured bacterium	7.5	methyl 4-coumarate	*pH 6.8, 40&deg;C
+KCAT	Alternaria tenuissima	7.5	methyl p-coumarate	*pH 6.0, 37&deg;C
+KCAT	Aspergillus niger	7.85	methyl sinapinate	*pH 6.0, 37&deg;C, Y80V mutant enzyme
+KCAT	Fusarium oxysporum	7.9	methyl caffeate	*45&deg;C, pH 6.0, isoenzyme FAE-II
+KCAT	Hungateiclostridium thermocellum	8	methyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Aspergillus niger	8	O-[5-O-(trans-feruloyl)-alpha-L-Araf]-(1,3)D-Xylp	*isoenzyme FAEB
+KCAT	Escherichia coli	8.1	p-coumaric acid methyl ester	*pH 8.8, 40&deg;C
+KCAT	Bacillus amyloliquefaciens	8.6	methyl ferulate	*pH 8.0, 35&deg;C
+KCAT	Thermothelomyces thermophilus	8.8	methyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Bacillus amyloliquefaciens	8.9	methyl p-coumarate	*pH 8.0, 30&deg;C
+KCAT	Thermothelomyces thermophilus	8.9	n-hexyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Talaromyces stipitatus	9.26	methyl sinapinate	*pH 6.0, 37&deg;C
+KCAT	Talaromyces stipitatus	9.3	methyl 4-hydroxy-3,5-dimethoxy cinnamate	*
+KCAT	Aspergillus nidulans	9.5	feruloyl arabino-xylo-oligosaccharides	*recombinant His-tagged enzyme, pH 7.0, 37&deg;C
+KCAT	Talaromyces stipitatus	9.55	methyl 4-hydroxy cinnamate	*
+KCAT	Talaromyces stipitatus	9.55	methyl p-coumarate	*pH 6.0, 37&deg;C
+KCAT	Talaromyces stipitatus	9.65	methyl 4-hydroxy-3-methoxy cinnamate	*
+KCAT	Talaromyces stipitatus	9.65	methyl ferulate	*
+KCAT	Talaromyces stipitatus	9.65	methyl ferulate	*pH 6.0, 37&deg;C
+KCAT	Aspergillus niger	9.8	n-hexyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Talaromyces stipitatus	10	methyl ferulate	*hydrolysis
+KCAT	Aspergillus nidulans	10.1	methyl ferulate	*recombinant His-tagged enzyme, pH 7.0, 37&deg;C
+KCAT	Thermothelomyces heterothallicus	10.3	4-nitrophenyl 5-O-trans-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Actinomyces sp. oral taxon 448	10.53	ethyl ferulate	*pH 9.0, 30&deg;C
+KCAT	Thermothelomyces thermophilus	11.2	ethyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Schizophyllum commune	11.2	methyl 4-hydroxybenzoate	*pH 7.5, 37&deg;C
+KCAT	Pseudoalteromonas haloplanktis	11.9	4-methylumbelliferyl p-trimethylammonio cinnamate	*20&deg;C, pH 7.4
+KCAT	Bacillus amyloliquefaciens	12	methyl ferulate	*pH 8.0, 30&deg;C
+KCAT	Bacillus amyloliquefaciens	12.06	chlorogenate	*pH 8.0, 40&deg;C
+KCAT	Thermothelomyces thermophilus	12.1	n-propyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Neurospora crassa	12.19	methyl coumarate	*37&deg;C, pH 6.0
+KCAT	Neurospora crassa	12.19	methyl ferulate	*37&deg;C, pH 6.0
+KCAT	Neurospora crassa	12.19	methyl p-coumarate	*pH 6.0, 37&deg;C
+KCAT	Schizophyllum commune	12.5	methyl 4-hydroxybenzoate	*pH 7.5, 37&deg;C
+KCAT	Fusarium oxysporum	13	methyl coumarate	*45&deg;C, pH 6.0, isoenzyme FAE-II
+KCAT	Fusarium oxysporum	14.05	n-butyl ferulate	*
+KCAT	Talaromyces cellulolyticus	15.3	4-nitrophenyl acetate	*pH 6.0, 50&deg;C
+KCAT	Aureobasidium pullulans	15.3	methyl ferulate	*30&deg;C
+KCAT	Talaromyces stipitatus	15.9	methyl 3-methoxy cinnamate	*
+KCAT	Talaromyces funiculosus	16	methyl ferulate	*37&deg;C, pH 6.0
+KCAT	Aspergillus niger	16	methyl ferulate	*isoenzyme FAEA
+KCAT	uncultured bacterium	16.2	methyl sinapate	*pH 6.8, 40&deg;C
+KCAT	Fusarium oxysporum	17	methyl sinapate	*wild-type, pH 6.0, 37&deg;C
+KCAT	Talaromyces stipitatus	17.9	4-nitrophenyl 4-O-(E)-feruloyl-alpha-D-xylopyranoside	*
+KCAT	Aspergillus niger	18.33	methyl ferulate	*pH 6.0, 37&deg;C, W260V mutant enzyme
+KCAT	uncultured microorganism	18.8	methyl sinapate	*pH 5.0, 30&deg;C
+KCAT	uncultured bacterium	18.9	4-nitrophenyl ferulate	*mutant T27I/S84L/V161I/H195L/G243C/A259V, pH 7.0, 40&deg;C
+KCAT	uncultured bacterium	19.1	methyl ferulate	*pH 6.8, 40&deg;C
+KCAT	uncultured microorganism	19.6	methyl ferulate	*pH 5.0, 30&deg;C
+KCAT	uncultured bacterium	19.7	4-nitrophenyl ferulate	*pH 6.8, 40&deg;C
+KCAT	Fusarium oxysporum	19.88	methyl coumarate	*45&deg;C, pH 6.0, isoenzyme FAE-I
+KCAT	Alternaria tenuissima	19.9	methyl ferulate	*pH 6.0, 37&deg;C
+KCAT	Fusarium oxysporum	19.9	methyl p-coumarate	*pH 6.0, 45&deg;C
+KCAT	Aspergillus niger	20	coniferyl p-coumarate	*
+KCAT	Rhizoctonia solani	20	methyl caffeate	*pH 6.0, 37&deg;C
+KCAT	Aspergillus niger	20.06	methyl ferulate	*pH 6.0, 37&deg;C, W260S mutant enzyme
+KCAT	Talaromyces stipitatus	20.27	methyl cinnamate	*
+KCAT	Talaromyces cellulolyticus	20.9	methyl ferulate	*pH 6.0, 50&deg;C
+KCAT	Aspergillus awamori	21	alpha-naphthylbutyrate	*37&deg;C, pH 5.0, mutant enzyme N79Q
+KCAT	Talaromyces stipitatus	22.5	4-nitrophenyl 5-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Talaromyces cellulolyticus	23.1	4-nitrophenyl ferulate	*pH 6.0, 50&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	24	4-nitrophenyl butanoate	*pH 6.0, 55&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	24	4-nitrophenyl ferulate	*pH 6.0, 55&deg;C
+KCAT	Talaromyces stipitatus	24.1	methyl 3-hydroxy cinnamate	*
+KCAT	Talaromyces funiculosus	24.1	methyl caffeate	*37&deg;C, pH 6.0
+KCAT	Talaromyces funiculosus	24.2	methyl coumarate	*37&deg;C, pH 6.0
+KCAT	Bacillus amyloliquefaciens	25	ethyl ferulate	*pH 8.0, 30&deg;C
+KCAT	Alternaria tenuissima	25.9	ethyl ferulate	*pH 6.0, 37&deg;C
+KCAT	Talaromyces stipitatus	27.28	methyl 3-methoxy cinnamate	*
+KCAT	Aspergillus niger	27.76	methyl sinapinate	*pH 6.0, 37&deg;C, W260S mutant enzyme
+KCAT	Aspergillus niger	28.28	methyl sinapinate	*pH 6.0, 37&deg;C, W260V mutant enzyme
+KCAT	Rhizoctonia solani	29.1	beta-D-xylopyranosyl-(1-&gt;2)-5-O-trans-feruloyl-L-arabinofuranose	*pH 6.0, 37&deg;C
+KCAT	Rhizoctonia solani	29.3	chlorogenate	*pH 6.0, 37&deg;C
+KCAT	Aspergillus niger	29.4	ethyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Aureobasidium pullulans	30	methyl caffeate	*30&deg;C
+KCAT	rumen bacterium	30.7	ethyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Aureobasidium pullulans	31.1	methyl p-coumarate	*30&deg;C
+KCAT	rumen microorganism	31.4	methyl ferulate	*hydrolysis, free enzyme, pH not specified in the publication, 40&deg;C
+KCAT	rumen bacterium	31.7	n-propyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	32	1-naphthyl acetate	*pH 6.0, 55&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	32	1-naphthyl acetate	*pH 6.0, 55&deg;C
+KCAT	Aspergillus awamori	32.1	alpha-naphthylbutyrate	*pH 5.0, 37&deg;C, D77N mutant enzyme
+KCAT	uncultured bacterium	32.2	4-nitrophenyl ferulate	*mutant T27I/S84L/V161I/H195L/G243C/A259V, pH 7.0, 65&deg;C
+KCAT	Aspergillus niger	32.9	methyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Rhizoctonia solani	33.1	methyl p-coumarate	*pH 6.0, 37&deg;C
+KCAT	rumen bacterium	33.5	methyl ferulate	*pH 7.0, 40&deg;C
+KCAT	Schizophyllum commune	34.1	methyl caffeate	*pH 7.5, 37&deg;C
+KCAT	Talaromyces stipitatus	34.2	4-nitrophenyl 3-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Schizophyllum commune	38.4	methyl caffeate	*pH 7.5, 37&deg;C
+KCAT	Talaromyces stipitatus	38.9	4-nitrophenyl 2-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	Fusarium oxysporum	39.4	methyl ferulate	*45&deg;C, pH 6.0, isoenzyme FAE-II
+KCAT	Talaromyces stipitatus	39.7	4-nitrophenyl 2-O-(E)-feruloyl-alpha-D-xylopyranoside	*
+KCAT	Bacillus amyloliquefaciens	43.88	methyl p-coumarate	*pH 8.0, 35&deg;C
+KCAT	Aspergillus niger	44.6	n-propyl ferulate	*pH 6.0, 40&deg;C
+KCAT	Aspergillus niger	48	5-O-p-coumaroylquinic acid	*isoenzyme FAEB
+KCAT	Schizophyllum commune	51	methyl ferulate	*pH 7.5, 37&deg;C
+KCAT	Schizophyllum commune	54.7	methyl ferulate	*pH 7.5, 37&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	59	4-nitrophenyl butanoate	*pH 6.0, 55&deg;C
+KCAT	Chaetomium thermophilum var. dissitum	60	4-nitrophenyl acetate	*pH 6.0, 55&deg;C
+KCAT	Aspergillus niger	61	methyl sinapinate	*
+KCAT	Aspergillus niger	62	ferulate	*pH 6.4, 40&deg;C, wild-type enzyme
+KCAT	Aspergillus niger	63	chlorogenic acid	*isoenzyme FAEB
+KCAT	uncultured bacterium	63.2	4-nitrophenyl acetate	*pH 6.8, 40&deg;C
+KCAT	Talaromyces stipitatus	64.45	methyl 3,4-dihydroxy-phenyl propionate	*
+KCAT	Aureobasidium pullulans	65.5	4-nitrophenyl 5-O-trans-feruloyl-alpha-L-arabinofuranoside	*30&deg;C
+KCAT	Fusarium oxysporum	66	methyl sinapate	*45&deg;C, pH 6.0, isoenzyme FAE-II
+KCAT	Aspergillus niger	69	methyl p-coumarate	*isoenzyme FAEB
+KCAT	Aureobasidium pullulans	70.2	4-nitrophenyl 2-O-trans-feruloyl-alpha-L-arabinofuranoside	*30&deg;C
+KCAT	Aspergillus niger	70.74	methyl ferulate	*pH 6.0, 37&deg;C, native enzyme
+KCAT	Aspergillus oryzae	71.6	ethyl ferulate	*mutant W142F, pH 7.0, 37&deg;C
+KCAT	Aspergillus niger	84	ferulate	*pH 6.4, 40&deg;C, mutant D93G
+KCAT	Aspergillus niger	84.95	methyl sinapinate	*pH 6.0, 37&deg;C, native enzyme
+KCAT	Schizophyllum commune	91.4	methyl p-coumarate	*pH 7.5, 37&deg;C
+KCAT	Aspergillus oryzae	92.1	ethyl ferulate	*mutant W144Y, pH 7.0, 37&deg;C
+KCAT	Aspergillus niger	95	O-[5-O-(trans-feruloyl)-alpha-L-Araf]-(1,3)D-Xylp	*
+KCAT	Aspergillus awamori	97	alpha-naphthylbutyrate	*37&deg;C, pH 5.0, mutant enzyme N79A
+KCAT	Schizophyllum commune	105.1	methyl p-coumarate	*pH 7.5, 37&deg;C
+KCAT	Fusarium oxysporum	116.6	methyl sinapate	*45&deg;C, pH 6.0, isoenzyme FAE-II
+KCAT	Aspergillus niger	121	O-[5-O-(trans-feruloyl)-alpha-L-Araf]	*
+KCAT	Talaromyces stipitatus	125.9	methyl 4-hydroxy-3-methoxy phenyl propionate	*
+KCAT	Aspergillus usamii	135	ferulic acid 4-nitrophenyl ester	*wild-type, pH 5.5, 40&deg;C
+KCAT	Aspergillus niger	140	coniferyl p-coumarate	*isoenzyme FAEB
+KCAT	Talaromyces stipitatus	142	methyl 3,4-dihydroxy-phenyl propionate	*
+KCAT	Aspergillus awamori	153	alpha-naphthylbutyrate	*37&deg;C, pH 5.0, wild-type enzyme
+KCAT	Fusarium oxysporum	166.7	4-nitrophenyl 5-O-trans-feruloyl-alpha-L-arabinofuranoside	*pH 6.0, 45&deg;C
+KCAT	Aspergillus niger	175	4-nitrophenyl 5-O-(E)-feruloyl-alpha-L-arabinofuranoside	*
+KCAT	uncultured bacterium	203.2	4-nitrophenyl butyrate	*pH 6.8, 40&deg;C
+KCAT	Aspergillus usamii	213	ferulic acid 4-nitrophenyl ester	*mutant A126C/N152C, pH 5.5, 40&deg;C
+KCAT	Fusarium oxysporum	232	methyl ferulate	*wild-type, pH 6.0, 37&deg;C
+KCAT	Aspergillus niger	234	methyl caffeate	*isoenzyme FAEB
+KCAT	Bacillus amyloliquefaciens	275	chlorogenate	*pH 8.0, 30&deg;C
+KCAT	Actinomyces sp. oral taxon 448	278	methyl caffeate	*pH 9.0, 30&deg;C
+KCAT	Fusarium oxysporum	438	methyl caffeate	*wild-type, pH 6.0, 37&deg;C
+KCAT	Fusarium oxysporum	546	methyl p-coumarate	*wild-type, pH 6.0, 37&deg;C
+KCAT	Fusarium oxysporum	600	4-nitrophenyl 2-O-trans-feruloyl-alpha-L-arabinofuranoside	*pH 6.0, 45&deg;C
+KCAT	Aspergillus niger	790	ferulate	*pH 6.4, 40&deg;C, mutant D93G/S187F
+KCAT	Aspergillus niger	823	ferulate	*pH 6.4, 40&deg;C, mutant S187F
+KCAT	Talaromyces stipitatus	1345	2-butyl ferulate	*; hydrolysis
+KCAT	Talaromyces stipitatus	1358	n-propyl ferulate	*; hydrolysis
+KCAT	Aspergillus ochraceus	2306	methyl caffeate	*pH 7.2, 30&deg;C
+KCAT	Aspergillus ochraceus	2306	methyl sinapinate	*pH 7.2, 30&deg;C
+KCAT	Talaromyces stipitatus	2644	iso-propyl ferulate	*
+KCAT	Talaromyces stipitatus	2645	iso-propyl ferulate	*hydrolysis
+KCAT	Aspergillus ochraceus	2710	methyl p-coumarate	*pH 7.2, 30&deg;C
+KCAT	Talaromyces stipitatus	2989	iso-butyl ferulate	*; hydrolysis
+KCAT	Aspergillus ochraceus	3344	methyl ferulate	*pH 7.2, 30&deg;C
+KCAT	Talaromyces stipitatus	3378	n-butyl ferulate	*; hydrolysis
+KCAT	Talaromyces stipitatus	9570	ethyl ferulate	*; hydrolysis

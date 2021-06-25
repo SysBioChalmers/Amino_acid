@@ -1,0 +1,2 @@
+KCAT	Porphyromonas gingivalis	0.08	acetyl-CoA	*recombinant enzyme, pH 7.15, 30&deg;C
+KCAT	Porphyromonas gingivalis	0.19	butanoyl-CoA	*recombinant enzyme, pH 7.15, 30&deg;C

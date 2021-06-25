@@ -1,0 +1,35 @@
+KCAT	Rattus norvegicus	0.000082	betaine	*37&deg;C, mutant enzyme E159K
+KCAT	Rattus norvegicus	0.000082	L-homocysteine	*37&deg;C, mutant enzyme E159K
+KCAT	Rattus norvegicus	0.00023	betaine	*37&deg;C, mutant enzyme E159G
+KCAT	Rattus norvegicus	0.00023	L-homocysteine	*37&deg;C, mutant enzyme E159G
+KCAT	Homo sapiens	0.0003	L-homocysteine	*wild-type, cosubstrate S-methylmethionine, presence of 150 mM KCl, pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.001	betaine	*37&deg;C, mutant enzyme Y77A
+KCAT	Rattus norvegicus	0.001	L-homocysteine	*37&deg;C, mutant enzyme Y77A
+KCAT	Rattus norvegicus	0.0021	betaine	*37&deg;C, mutant enzyme D26I
+KCAT	Rattus norvegicus	0.0021	L-homocysteine	*37&deg;C, mutant enzyme D26I
+KCAT	Homo sapiens	0.0044	S-methyl-L-methionine	*wild-type, presence of 150 mM KCl, pH 7.5, 37&deg;C
+KCAT	Rattus norvegicus	0.0045	betaine	*37&deg;C, mutant enzym T73G
+KCAT	Rattus norvegicus	0.0045	L-homocysteine	*37&deg;C, mutant enzyme T73G
+KCAT	Rattus norvegicus	0.0051	betaine	*37&deg;C, mutant enzyme D26A
+KCAT	Rattus norvegicus	0.0051	L-homocysteine	*37&deg;C, mutant enzyme D26A
+KCAT	Rattus norvegicus	0.0058	betaine	*37&deg;C, mutant enzyme T184G
+KCAT	Rattus norvegicus	0.0058	L-homocysteine	*37&deg;C, mutant enzyme T184G
+KCAT	Rattus norvegicus	0.006	betaine	*37&deg;C, mutant enzyme E21A; 37&deg;C, mutant enzyme T186S
+KCAT	Rattus norvegicus	0.006	L-homocysteine	*37&deg;C, mutant enzyme C186S; 37&deg;C, mutant enzyme E21A
+KCAT	Rattus norvegicus	0.0072	betaine	*37&deg;C, mutant enzyme F74A
+KCAT	Rattus norvegicus	0.0072	L-homocysteine	*37&deg;C, mutant enzyme F74A
+KCAT	Rattus norvegicus	0.0075	betaine	*37&deg;C, mutant enzyme A119G
+KCAT	Rattus norvegicus	0.0075	L-homocysteine	*37&deg;C, mutant enzyme A119G
+KCAT	Rattus norvegicus	0.0076	betaine	*37&deg;C, mutant enzyme C186A
+KCAT	Rattus norvegicus	0.0076	L-homocysteine	*37&deg;C, mutant enzyme C186A
+KCAT	Rattus norvegicus	0.009	betaine	*37&deg;C, mutant enzyme E21K
+KCAT	Rattus norvegicus	0.009	L-homocysteine	*37&deg;C, mutant enzyme E21K
+KCAT	Rattus norvegicus	0.014	betaine	*37&deg;C, wild-type enzyme
+KCAT	Rattus norvegicus	0.014	L-homocysteine	*37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.0298	betaine	*wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0367	L-homocysteine	*wild-type, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0378	L-homocysteine	*wild-type, presence of 150 mM KCl, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	0.0422	betaine	*wild-type, presence of 150 mM KCl, pH 7.5, 37&deg;C
+KCAT	Homo sapiens	24	S-methyl-L-methionine	*
+KCAT	Homo sapiens	38	S-methyl-L-methionine	*
+KCAT	Homo sapiens	88	betaine	*

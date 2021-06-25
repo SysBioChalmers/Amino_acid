@@ -1,0 +1,1 @@
+KCAT	Phyla dulcis	0.04	(2E,6E)-farnesyl diphosphate	*pH 7.4, 30&deg;C; pH 7.5, 30&deg;C

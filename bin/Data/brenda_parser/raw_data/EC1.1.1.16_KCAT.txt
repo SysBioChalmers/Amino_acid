@@ -1,0 +1,1 @@
+ecNumber*1.1.1.16#turnoverNumber*13.91#turnoverNumberMaximum*#substrate*galactitol#commentary*pH 9.5, 35&deg;C#organism*Rhizobium leguminosarum#ligandStructureId*3818#literature*740390#

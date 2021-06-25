@@ -1,0 +1,10 @@
+KCAT	Homo sapiens	0.03	5'-p-nitrophenyl-TMP	*in the presence of 3 mM Mn2+
+KCAT	Homo sapiens	0.04	5'-p-nitrophenyl-TMP	*in the presence of 1 mM Mn2+
+KCAT	Mycolicibacterium smegmatis	0.04	5'-p-nitrophenyl-TMP	*in the presence of 3 mM Mn2+
+KCAT	Mycolicibacterium smegmatis	0.057	5'-p-nitrophenyl-TMP	*in the presence of 1 mM Mn2+
+KCAT	Escherichia coli	2.15	5'-p-nitrophenyl-TMP	*in the presence of 1 mM Mn2+
+KCAT	Escherichia coli	2.3	5'-p-nitrophenyl-TMP	*in the presence of 3 mM Mn2+
+KCAT	Homo sapiens	7.417	5'-p-nitrophenyl-TMP	*in the presence of 3 mM Mn2+
+KCAT	Homo sapiens	8.767	5'-p-nitrophenyl-TMP	*in the presence of 1 mM Mn2+
+KCAT	Mycolicibacterium smegmatis	9.317	5'-p-nitrophenyl-TMP	*in the presence of 3 mM Mn2+
+KCAT	Mycolicibacterium smegmatis	10.88	5'-p-nitrophenyl-TMP	*in the presence of 1 mM Mn2+

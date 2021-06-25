@@ -1,0 +1,1 @@
+KCAT	Arabidopsis thaliana	0.0012	ATP	*10 mM MgCl2, pH 7.2, temperature not specified in the publication

@@ -1,0 +1,18 @@
+KCAT	Oryza sativa	0.0000021	L-tyrosine	*alpha-tyrosine, pH 8.0, 29&deg;C, recombinant mutant N446K
+KCAT	Oryza sativa	0.000035	L-phenylalanine	*alpha-phenylalanine, pH 8.0, 29&deg;C, recombinant mutant Y125C
+KCAT	Oryza sativa	0.000052	L-phenylalanine	*alpha-phenylalanine, pH 8.0, 29&deg;C, recombinant mutant Y125C/N446K
+KCAT	Oryza sativa	0.000053	L-tyrosine	*alpha-tyrosine, pH 8.0, 29&deg;C, recombinant mutant Y125C
+KCAT	Oryza sativa	0.00008	L-phenylalanine	*alpha-phenylalanine, pH 8.0, 29&deg;C, recombinant mutant N446K
+KCAT	Oryza sativa	0.00016	L-phenylalanine	*alpha-phenylalanine, pH 8.0, 29&deg;C, recombinant wild-type enzyme
+KCAT	Chondromyces crocatus	0.0004	L-tyrosine	*mutant CmdF_MIYMLV, product (R)-beta-tyrosine
+KCAT	Chondromyces crocatus	0.0005	L-tyrosine	*wild-type enzme, product para-hydroxycinnamic acid
+KCAT	Streptomyces globisporus	0.0012	L-tyrosine	*lyase activity
+KCAT	Chondromyces crocatus	0.0013	L-tyrosine	*mutant CmdF_MIYMLV, product para-hydroxycinnamic acid
+KCAT	Streptomyces globisporus	0.0048	L-3-chlorotyrosine	*
+KCAT	Oryza sativa	0.005	L-tyrosine	*alpha-tyrosine, pH 8.0, 29&deg;C, recombinant wild-type enzyme
+KCAT	Streptomyces globisporus	0.0067	L-3,4-dihydroxyphenylalanine	*
+KCAT	Chondromyces crocatus	0.0072	L-tyrosine	*wild-type enzme, product (R)-beta-tyrosine
+KCAT	Streptomyces globisporus	0.01	L-tyrosine	*
+KCAT	Chondromyces crocatus	7000	L-tyrosine	*pH and temperature not specified in the publication
+KCAT	Cupriavidus crocatus	7000	L-tyrosine	*pH and temperature not specified in the publication
+KCAT	Streptomyces globisporus	10000	L-tyrosine	*pH and temperature not specified in the publication

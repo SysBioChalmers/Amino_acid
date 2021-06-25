@@ -1,0 +1,1 @@
+ecNumber*1.8.99.2#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Desulfovibrio desulfuricans#ligandStructureId*#literature*393927#

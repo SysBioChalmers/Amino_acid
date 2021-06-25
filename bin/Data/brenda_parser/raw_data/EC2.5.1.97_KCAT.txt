@@ -1,0 +1,1 @@
+ecNumber*2.5.1.97#turnoverNumber*0.65#turnoverNumberMaximum*#substrate*2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose#commentary*pH 7.4, 25&deg;C#organism*Campylobacter jejuni#ligandStructureId*19515#literature*715481#

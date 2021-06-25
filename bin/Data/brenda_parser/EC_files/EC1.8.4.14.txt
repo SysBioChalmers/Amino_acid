@@ -1,0 +1,13 @@
+KCAT	Thermoplasma acidophilum	0.003	L-methionine (R)-S-oxide	*pH 7.5, 25&deg;C, mutant enzyme C60S
+KCAT	Thermoplasma acidophilum	0.0033	L-methionine (R)-S-oxide	*pH 7.5, 25&deg;C, mutant enzyme C60S
+KCAT	Thermoplasma acidophilum	0.268	L-methionine (R)-S-oxide	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Thermoplasma acidophilum	0.29	L-methionine (R)-S-oxide	*pH 7.5, 25&deg;C, mutant enzyme C15S
+KCAT	Thermoplasma acidophilum	0.29	L-methionine (R)-S-oxide	*pH 7.5, 25&deg;C, mutant enzyme C15S
+KCAT	Neisseria meningitidis	1	L-methionine (R)-S-oxide	*mutant C84A/C94A/C136A, 25&deg;C, pH 8.0; mutant C94A , 25&deg;C, pH 8.0
+KCAT	Neisseria meningitidis	2.6	L-methionine (R)-S-oxide	*mutant C84A/C136A, 25&deg;C, pH 8.0
+KCAT	Thermoplasma acidophilum	2.8	L-methionine (R)-S-oxide	*pH 7.5, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli	6.9	L-methionine (R)-S-oxide	*
+KCAT	Neisseria meningitidis	8.5	L-methionine (R)-S-oxide	*mutant C136A, 25&deg;C, pH 8.0
+KCAT	Neisseria meningitidis	13	L-methionine (R)-S-oxide	*mutant C94A/C136A, 25&deg;C, pH 8.0
+KCAT	Neisseria meningitidis	14	L-methionine (R)-S-oxide	*wild-type, 25&deg;C, pH 8.0
+KCAT	Neisseria meningitidis	18	L-methionine (R)-S-oxide	*mutant C84A, 25&deg;C, pH 8.0

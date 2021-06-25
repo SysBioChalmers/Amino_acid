@@ -1,3 +1,3 @@
-KCAT	Nicotiana tabacum	0.077	(2Z,6E)-farnesyl diphosphate	*pH 7.5, 22&deg;C, promiscuous mutant enzyme M4
-KCAT	Nicotiana tabacum	0.095	(2Z,6E)-farnesyl diphosphate	*pH 7.5, 22&deg;C, wild-type enzyme
-KCAT	Nicotiana tabacum	0.095	(2Z,6E)-farnesyl diphosphate	*pH 7.5, 22&deg;C
+KCAT	Nicotiana tabacum	0.077	(2Z,6E)-farnesyl diphosphate	*pH 7.5, 22&Acirc;&deg;C, promiscuous mutant enzyme M4
+KCAT	Nicotiana tabacum	0.095	(2Z,6E)-farnesyl diphosphate	*pH 7.5, 22&Acirc;&deg;C, wild-type enzyme
+KCAT	Nicotiana tabacum	0.095	(2Z,6E)-farnesyl diphosphate	*pH 7.5, 22&Acirc;&deg;C

@@ -1,0 +1,2 @@
+KCAT	Oryctolagus cuniculus	1930	Butyrylcholine	*
+KCAT	Oryctolagus cuniculus	68	atropine	*

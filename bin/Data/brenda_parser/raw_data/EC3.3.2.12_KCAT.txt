@@ -1,0 +1,1 @@
+ecNumber*3.3.2.12#turnoverNumber*39#turnoverNumberMaximum*#substrate*oxepin-CoA#commentary*pH and temperature not specified in the publication#organism*Escherichia coli#ligandStructureId*41629#literature*715582#

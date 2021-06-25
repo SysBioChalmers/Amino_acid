@@ -1,0 +1,10 @@
+KCAT	Strongylocentrotus purpuratus	0.005	ATP	*p60/p80 heterodimer
+KCAT	Homo sapiens	0.2	ATP	*microtubule-free KSP
+KCAT	Drosophila melanogaster	0.35	ATP	*mutant D655N
+KCAT	Homo sapiens	0.78	ATP	*DELTA1-226, basal turnover, pH 6.8, temperature not specified in the publication
+KCAT	Drosophila melanogaster	1.1	ATP	*mutant S462C
+KCAT	Homo sapiens	1.4	ATP	*microtubule-free KSP + 50 microM KSPA-1
+KCAT	Drosophila melanogaster	1.8	ATP	*wild type, deltaTM
+KCAT	Homo sapiens	3.83	ATP	*DELTA1-226, microtuble activated turnover, pH 6.8, temperature not specified in the publication
+KCAT	Homo sapiens	4.4	ATP	*KSP + microtubules + 30 microM KSPA-1
+KCAT	Homo sapiens	13	ATP	*KSP + microtubules

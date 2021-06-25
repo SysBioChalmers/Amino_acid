@@ -1,0 +1,3 @@
+KCAT	Neurospora crassa	1.1	cis,cis-muconate	*
+KCAT	Neurospora crassa	360	3-carboxy-cis,cis-muconate	*
+KCAT	Neurospora crassa	382	3-carboxy-cis,cis-muconate	*recombinant enzyme expressed in E. coli

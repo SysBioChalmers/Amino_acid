@@ -1,0 +1,3 @@
+KCAT	Lactobacillus reuteri	9.06	amylose V	*hydrolysis reaction, pH 5.0, 55&deg;C
+KCAT	Lactobacillus reuteri	36.22	amylose V	*transfer reaction, pH 5.0, 55&deg;C
+KCAT	Lactobacillus reuteri	37	maltose	*relaese of glucose, pH 4.7, 37&deg;C

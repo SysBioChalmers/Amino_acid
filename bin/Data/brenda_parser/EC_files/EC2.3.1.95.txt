@@ -1,0 +1,8 @@
+KCAT	Pinus strobus	0.0005	4-coumaroyl-CoA	*pH 4.0, 30&deg;C, recombinant STS
+KCAT	Arachis hypogaea	0.0017	4-coumaroyl-CoA	*pH 4.0, 30&deg;C, recombinant STS
+KCAT	Pinus massoniana	0.0023	4-coumaroyl-CoA	*pH 4.0, 30&deg;C, recombinant STS
+KCAT	Vitis vinifera	0.003	4-coumaroyl-CoA	*pH 4.0, 30&deg;C, recombinant STS
+KCAT	Arachis hypogaea	0.00533	trans-3-furanacryloyl-CoA	*
+KCAT	Arachis hypogaea	0.0108	trans-3-(3-thienyl)acryloyl-CoA	*
+KCAT	Arachis hypogaea	0.0113	4-fluorocinnamoyl-CoA	*
+KCAT	Arachis hypogaea	0.02	4-coumaroyl-CoA	*

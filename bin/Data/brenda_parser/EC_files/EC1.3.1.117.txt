@@ -1,0 +1,3 @@
+KCAT	Malus domestica	0.0019	trans-4-coumaroyl-CoA	*pH 50, 35&deg;C
+KCAT	Malus domestica	0.0023	NADPH	*pH 50, 35&deg;C
+KCAT	Malus domestica	0.0042	trans-feruloyl-CoA	*pH 50, 35&deg;C

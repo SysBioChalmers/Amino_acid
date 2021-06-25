@@ -1,0 +1,46 @@
+KCAT	Gallus gallus	4	2-oxoglutarate	*recombinant deletion mutant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	27	2-oxoglutarate	*pH 8.0, 45&Acirc;&deg;C
+KCAT	Gallus gallus	89	2-oxoglutarate	*recombinant C166S mutant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Gallus gallus	90	2-oxoglutarate	*recombinant premature isozyme pmAspAT, pH 7.5, 25&Acirc;&deg;C
+KCAT	Gallus gallus	96	2-oxoglutarate	*recombinant C166A mutant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Thermus thermophilus	120	2-oxoglutarate	*wild-type, pH 8.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	176	2-oxoglutarate	*isozyme AAT5, pH 8.0, 25&Acirc;&deg;C
+KCAT	Gallus gallus	187	2-oxoglutarate	*recombinant isozyme mAspAT, pH 7.5, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	205	2-oxoglutarate	*isozyme AAT1, pH 8.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	217	2-oxoglutarate	*isozyme AAT2, pH 8.0, 25&Acirc;&deg;C
+KCAT	Ovis aries	322	2-oxoglutarate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.03	L-glutamate	*pH 7.5, 25&Acirc;&deg;C, mutant I33Q/Y214Q/R280Y
+KCAT	Bacillus subtilis	14	L-glutamate	*pH 8.0, 45&Acirc;&deg;C
+KCAT	Phormidium lapideum	101	L-glutamate	*pH 8.0, 45&Acirc;&deg;C
+KCAT	Escherichia coli	670	L-glutamate	*pH 7.5, 25&Acirc;&deg;C, wild-type
+KCAT	Bacillus subtilis	22	oxaloacetate	*pH 8.0, 45&Acirc;&deg;C
+KCAT	Sinorhizobium meliloti	205	oxaloacetate	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	279	oxaloacetate	*isozyme AAT5, pH 8.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	319	oxaloacetate	*isozyme AAT1, pH 8.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	574	oxaloacetate	*isozyme AAT2, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.13	L-aspartate	*pH 7.5, 25&Acirc;&deg;C, mutant I33Q/Y214Q/R280Y
+KCAT	Gallus gallus	4	L-aspartate	*recombinant deletion mutant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Triticum aestivum	4.6	L-aspartate	*allozyme AAT-3c, pH 7.5, 25&Acirc;&deg;C
+KCAT	Triticum aestivum	4.9	L-aspartate	*allozyme AAT-3a, pH 7.5, 25&Acirc;&deg;C
+KCAT	Triticum aestivum	7	L-aspartate	*allozyme AAT-3b, pH 7.5, 25&Acirc;&deg;C
+KCAT	Bacillus subtilis	30	L-aspartate	*pH 8.0, 45&Acirc;&deg;C
+KCAT	Triticum aestivum	88.5	L-aspartate	*allozyme AAT-2c, pH 7.5, 25&Acirc;&deg;C
+KCAT	Gallus gallus	89	L-aspartate	*recombinant C166S mutant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Triticum aestivum	89.6	L-aspartate	*allozyme AAT-2a, pH 7.5, 25&Acirc;&deg;C
+KCAT	Gallus gallus	90	L-aspartate	*recombinant premature isozyme pmAspAT, pH 7.5, 25&Acirc;&deg;C
+KCAT	Gallus gallus	96	L-aspartate	*recombinant C166A mutant, pH 7.5, 25&Acirc;&deg;C
+KCAT	Triticum aestivum	103.8	L-aspartate	*allozyme AAT-2b, pH 7.5, 25&Acirc;&deg;C
+KCAT	Thermus thermophilus	120	L-aspartate	*wild-type, pH 8.0, 25&Acirc;&deg;C
+KCAT	Phormidium lapideum	187	L-aspartate	*pH 8.0, 45&Acirc;&deg;C
+KCAT	Gallus gallus	187	L-aspartate	*recombinant isozyme mAspAT, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	259	L-aspartate	*wild-type, pH 8.4, 25&Acirc;&deg;C
+KCAT	Ovis aries	322	L-aspartate	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Bubalus bubalis	352	L-aspartate	*pH 7.5, 35&Acirc;&deg;C
+KCAT	Escherichia coli	530	L-aspartate	*pH 7.5, 25&Acirc;&deg;C, wild-type
+KCAT	Escherichia coli	10	L-Phe	*pH 8, mutant enzyme A12T/P13T/N34D/T109S/G261A/S285G/A293D/N297S
+KCAT	Escherichia coli	43	L-Asp	*pH 8, mutant enzyme A12T/P13T/N34D/T109S/G261A/S285G/A293D/N297S
+KCAT	Escherichia coli	0.305	L-Lys	*wild-type enzyme
+KCAT	Escherichia coli	5.55	L-Lys	*mutant enzyme R292E/L18H
+KCAT	Escherichia coli	0.35	2-oxo-4-phenyl-butanoic acid	*wild-type enzyme
+KCAT	Escherichia coli	0.38	2-oxo-4-phenyl-butanoic acid	*mutant enzyme R292E/L18H
+KCAT	Escherichia coli	-999	more	*mutants

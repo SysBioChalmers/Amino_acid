@@ -1,0 +1,1 @@
+ecNumber*4.2.3.173#turnoverNumber*0.0014#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH 7.0, 30&deg;C#organism*Zea mays#ligandStructureId*81#literature*743558#

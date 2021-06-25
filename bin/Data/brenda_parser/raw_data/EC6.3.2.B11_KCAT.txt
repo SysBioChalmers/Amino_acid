@@ -1,0 +1,1 @@
+ecNumber*6.3.2.B11#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*from the Vmax, kcat values of 3 and 1.5/s are calculated for the beta-citrylglutamate synthase activity and and N-acetylaspartyl-glutamate synthase activity#organism*Mus musculus#ligandStructureId*#literature*725404#

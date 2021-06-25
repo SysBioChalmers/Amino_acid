@@ -1,0 +1,9 @@
+KCAT	Pseudomonas aeruginosa	0.26	spectinomycin	*C-terminal deletion mutant, pH 7.5, 23&deg;C
+KCAT	Pseudomonas aeruginosa	0.41	ATP	*C-terminal deletion mutant, pH 7.5, 23&deg;C
+KCAT	Pseudomonas aeruginosa	0.47	streptomycin	*C-terminal deletion mutant, pH 7.5, 23&deg;C
+KCAT	Serratia marcescens	0.5	ATP	*turnover number of ANT(3'')-Ii domain
+KCAT	Serratia marcescens	0.5	spectinomycin	*turnover number of ANT(3'')-Ii domain
+KCAT	Serratia marcescens	0.6	streptomycin	*turnover number of ANT(3'')-Ii domain
+KCAT	Pseudomonas aeruginosa	0.61	ATP	*wild-type, pH 7.5, 23&deg;C
+KCAT	Pseudomonas aeruginosa	0.63	spectinomycin	*wild-type, pH 7.5, 23&deg;C
+KCAT	Pseudomonas aeruginosa	0.66	streptomycin	*wild-type, pH 7.5, 23&deg;C

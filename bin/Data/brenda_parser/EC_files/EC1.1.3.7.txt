@@ -1,0 +1,105 @@
+KCAT	Pleurotus eryngii	0.012	4-anisaldehyde	*mutant enzyme Y92F, wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.05	4-anisaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.057	3-chloro-4-anisaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.069	4-methoxybenzyl alcohol	*pH 60, 25&deg;C, mutant H502S
+KCAT	Pleurotus eryngii	0.069	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, mutant H502S
+KCAT	Pleurotus eryngii	0.072	4-methoxybenzyl alcohol	*pH 60, 25&deg;C, mutant H502A
+KCAT	Pleurotus eryngii	0.072	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, mutant H502A
+KCAT	Pleurotus eryngii	0.13	veratraldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.33	2,4-hexadienal	*wild type enzyme, wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.367	4-Fluorobenzaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.5	benzaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.85	3-Chlorobenzaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.867	3,4-difluorobenzaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	0.883	3-Fluorobenzaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	1	2,4-hexadien-1-ol	*pH 6.0, 24&deg;C, mutant F501A
+KCAT	Pleurotus eryngii	1	3-anisyl alcohol	*pH 6.0, 24&deg;C, mutant F501A
+KCAT	Pleurotus eryngii	1	benzyl alcohol	*pH 6.0, 24&deg;C, mutant F501A
+KCAT	Pleurotus eryngii	1.05	4-Chlorobenzaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	1.21	4-nitrobenzaldehyde	*mutant enzyme Y92F, wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	1.633	4-nitrobenzaldehyde	*wild type enzyme, at 24&deg;C, 0.1 M sodium phosphate buffer, pH 6.0
+KCAT	Pleurotus eryngii	2	veratryl alcohol	*recombinant H91N FX7 mutant, pH 6.0, 24&deg;C
+KCAT	Aspergillus terreus	2.2	benzyl alcohol	*recombinant enzyme, at pH 6.0 and 30&deg;C
+KCAT	Pleurotus eryngii	3	4-anisyl alcohol	*pH 6.0, 24&deg;C, mutant F501A
+KCAT	Pleurotus eryngii	3	veratryl alcohol	*pH 6.0, 24&deg;C, mutant F501A
+KCAT	Pleurotus eryngii	3.5	4-methoxybenzyl alcohol	*pH 60, 25&deg;C, mutant H546A
+KCAT	Pleurotus eryngii	3.5	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, mutant H546A
+KCAT	Pleurotus eryngii	6	3-fluorobenzyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	8	3-anisyl alcohol	*pH 6.0, 24&deg;C, mutant Y78A
+KCAT	Pleurotus pulmonarius	8.27	m-anisyl alcohol	*
+KCAT	Pleurotus eryngii	11	4-methoxybenzyl alcohol	*pH 6.0, 12&deg;C, recombinant mutant Y92W
+KCAT	Pleurotus eryngii	12	3-anisyl alcohol	*pH 6.0, 24&deg;C, mutant L315A
+KCAT	Pleurotus eryngii	15	3-anisyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	15	3-anisyl alcohol	*pH 6.0, 24&deg;C, wild-type enzyme
+KCAT	Pleurotus eryngii	17	3-anisyl alcohol	*pH 6.0, 24&deg;C, mutant F501Y
+KCAT	Pleurotus eryngii	17	4-methoxybenzyl alcohol	*pH 60, 25&deg;C, mutant H546S
+KCAT	Pleurotus eryngii	17	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, mutant H546S
+KCAT	Pleurotus eryngii	19	benzyl alcohol	*pH 6.0, 24&deg;C, mutant L315A
+KCAT	Pleurotus eryngii	19	benzyl alcohol	*recombinant H91N FX7 mutant, pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	20.1	5-hydroxymethylfurfural	*pH 6.0, 25&deg;C
+KCAT	Pleurotus eryngii	22	3-Chlorobenzyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	22	benzyl alcohol	*recombinant wild-type enzyme, pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	25	4-methoxybenzyl alcohol	*substrate alpha-deuterated 4-methoxybenzyl alcohol, pH 6.0, 25&deg;C
+KCAT	Pleurotus eryngii	25	benzyl alcohol	*pH 6.0, 24&deg;C, mutant Y78A
+KCAT	Pleurotus eryngii	26	3-anisyl alcohol	*pH 6.0, 24&deg;C, mutant Y92F
+KCAT	Pleurotus eryngii	27	benzyl alcohol	*pH 6.0, 24&deg;C, mutant F501Y
+KCAT	Ustilago maydis	30	2,4-Dimethoxybenzyl alcohol	*pH 6.0, 30&deg;C
+KCAT	Pleurotus pulmonarius	30	3,4-dimethoxybenzyl alcohol	*
+KCAT	Pleurotus eryngii	30	benzyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	30	benzyl alcohol	*pH 6.0, 24&deg;C, wild-type enzyme
+KCAT	Pleurotus eryngii	31.4	2,5-diformylfuran	*pH 6.0, 25&deg;C
+KCAT	Pleurotus eryngii	32	4-fluorobenzyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	33	benzyl alcohol	*pH 6.0, 24&deg;C, mutant Y92F
+KCAT	Pleurotus sapidus	38	benzyl alcohol	*pH 6.0, 30&deg;C
+KCAT	Pleurotus eryngii	40	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, mutant F501A, overall reaction
+KCAT	Ustilago maydis	45	anisyl alcohol	*pH 6.0, 30&deg;C
+KCAT	Pleurotus eryngii	46	3-chloro-4-anisyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus pulmonarius	48.5	p-anisyl alcohol	*
+KCAT	Pleurotus eryngii	51	4-Chlorobenzyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	52	2,4-hexadien-1-ol	*recombinant H91N FX7 mutant, pH 6.0, 24&deg;C
+KCAT	Ustilago maydis	53	veratryl alcohol	*pH 6.0, 30&deg;C
+KCAT	Pleurotus eryngii	54	4-methoxybenzyl alcohol	*recombinant H91N FX7 mutant, pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	56	2,4-hexadien-1-ol	*pH 6.0, 24&deg;C, mutant L315A
+KCAT	Pleurotus eryngii	60	4-anisyl alcohol	*pH 6.0, 24&deg;C, mutant L315A
+KCAT	Ustilago maydis	64	2,4-hexadien-1-ol	*pH 6.0, 30&deg;C
+KCAT	Pleurotus eryngii	64	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, mutant F501W, overall reaction
+KCAT	Lentinus sajor-caju	64.3	3,4-dimethoxybenzyl alcohol	*enzyme form VAO II
+KCAT	Pleurotus eryngii	65	cinnamyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	66	veratryl alcohol	*recombinant wild-type enzyme, pH 6.0, 24&deg;C
+KCAT	Pleurotus sapidus	70	veratryl alcohol	*pH 6.0, 30&deg;C
+KCAT	Ustilago maydis	75	4-Hydroxybenzyl alcohol	*pH 6.0, 30&deg;C
+KCAT	Pleurotus eryngii	76	veratryl alcohol	*pH 6.0, 24&deg;C, mutant L315A
+KCAT	Lentinus sajor-caju	82.2	3,4-dimethoxybenzyl alcohol	*enzyme form VAO I
+KCAT	Pleurotus eryngii	83	veratryl alcohol	*pH 6.0, 24&deg;C, mutant Y78A
+KCAT	Pleurotus eryngii	86	veratryl alcohol	*pH 6.0, 24&deg;C, mutant F501Y
+KCAT	Pleurotus eryngii	87	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, mutant F501Y, overall reaction
+KCAT	Ustilago maydis	88	cinnamyl alcohol	*pH 6.0, 30&deg;C
+KCAT	Pleurotus eryngii	90	4-anisyl alcohol	*pH 6.0, 24&deg;C, mutant Y78A
+KCAT	Pleurotus eryngii	100	4-methoxybenzyl alcohol	*pH 6.0, 12&deg;C, recombinant mutant Y92L
+KCAT	Pleurotus eryngii	105	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, wild-type enzyme, overall reaction
+KCAT	Pleurotus eryngii	105	4-methoxybenzyl alcohol	*recombinant wild-type enzyme, pH 6.0, 24&deg;C
+KCAT	Aspergillus terreus	105.7	3,4-dimethoxybenzyl alcohol	*recombinant enzyme, at pH 6.0 and 30&deg;C
+KCAT	Pleurotus eryngii	110	2,4-hexadien-1-ol	*pH 6.0, 24&deg;C, mutant F501Y
+KCAT	Pleurotus eryngii	111	4-anisyl alcohol	*pH 6.0, 24&deg;C, mutant F501Y
+KCAT	Pleurotus eryngii	114	veratryl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	114	veratryl alcohol	*pH 6.0, 24&deg;C, wild-type enzyme
+KCAT	Aspergillus terreus	115.4	3-Methoxybenzyl alcohol	*recombinant enzyme, at pH 6.0 and 30&deg;C
+KCAT	Pleurotus eryngii	116	veratryl alcohol	*pH 6.0, 24&deg;C, mutant Y92F
+KCAT	Pleurotus eryngii	119	2,4-hexadien-1-ol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	119	2,4-hexadien-1-ol	*pH 6.0, 24&deg;C, wild-type enzyme
+KCAT	Pleurotus eryngii	120	4-methoxybenzyl alcohol	*pH 6.0, 12&deg;C, recombinant mutant Y92F
+KCAT	Pleurotus eryngii	127	isovanillyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	129	4-anisyl alcohol	*25&deg;C, pH 6.0, recombinant enzyme
+KCAT	Pleurotus eryngii	129	4-methoxybenzyl alcohol	*pH 6.0, 12&deg;C, recombinant wild-type enzyme
+KCAT	Pleurotus eryngii	136	2,4-hexadien-1-ol	*recombinant wild-type enzyme, pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	139	4-anisyl alcohol	*pH 6.0, 24&deg;C, mutant Y92F
+KCAT	Aspergillus terreus	140.9	4-methoxybenzyl alcohol	*recombinant enzyme, at pH 6.0 and 30&deg;C
+KCAT	Pleurotus eryngii	142	4-anisyl alcohol	*pH 6.0, 24&deg;C
+KCAT	Pleurotus eryngii	142	4-anisyl alcohol	*pH 6.0, 24&deg;C, wild-type enzyme
+KCAT	Pleurotus eryngii	161	2,4-hexadien-1-ol	*25&deg;C, pH 6.0, recombinant enzyme
+KCAT	Pleurotus eryngii	177	2,4-hexadien-1-ol	*pH 6.0, 24&deg;C, mutant Y78A
+KCAT	Pleurotus eryngii	196	4-methoxybenzyl alcohol	*substrate 4-methoxybenzyl alcohol, pH 6.0, 25&deg;C
+KCAT	Pleurotus eryngii	197	4-methoxybenzyl alcohol	*pH 6.0, 25&deg;C, wild-type enzyme
+KCAT	Pleurotus sapidus	203	anisyl alcohol	*pH 6.0, 30&deg;C
+KCAT	Pleurotus eryngii	206	2,4-hexadien-1-ol	*pH 6.0, 24&deg;C, mutant Y92F
+KCAT	Pleurotus eryngii	208	4-methoxybenzyl alcohol	*pH 60, 25&deg;C, wild-type enzyme

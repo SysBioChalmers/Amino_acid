@@ -1,0 +1,7 @@
+KCAT	Mycobacterium tuberculosis	0.012	isopentenyl diphosphate	*in 50 mM sodium phosphate (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	1.1	isopentenyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.085	dimethylallyl diphosphate	*in 50 mM sodium phosphate (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	1.1	dimethylallyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Picea abies	1.4	dimethylallyl diphosphate	*
+KCAT	Corynebacterium glutamicum	0.4	farnesyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	0.1	geranyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C

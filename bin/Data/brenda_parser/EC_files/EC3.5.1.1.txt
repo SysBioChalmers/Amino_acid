@@ -1,0 +1,118 @@
+KCAT	Escherichia coli	-999	more	*turnover numbers for L-aspartyl-beta-hydroxamate with mutant enzyme G11L and G88I are below 0.01 per sec
+KCAT	Escherichia coli	0.001	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme Q59A
+KCAT	Escherichia coli	0.0024	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme Q59E
+KCAT	Escherichia coli	0.0027	L-asparagine	*37&deg;C, pH 8.0, wild-type enzyme and mutant enzyme D178P
+KCAT	Escherichia coli	0.0029	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme N248A
+KCAT	Escherichia coli	0.004	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme G88A
+KCAT	Dickeya chrysanthemi	0.0043	L-Gln	*pH 8.2, 37&deg;C
+KCAT	Escherichia coli	0.0046	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme N248G
+KCAT	Escherichia coli	0.006	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme G57V
+KCAT	Escherichia coli	0.0068	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme N248D
+KCAT	Escherichia coli	0.01	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme G57A; pH 7.0, 25&deg;C, mutant enzyme Q59G
+KCAT	Dickeya chrysanthemi	0.0108	Nalpha-acetyl-Asn	*pH 8, 37&deg;C
+KCAT	Dickeya chrysanthemi	0.0128	L-asparagine	*pH 8, 37&deg;C
+KCAT	Escherichia coli	0.019	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme N248E
+KCAT	Dickeya chrysanthemi	0.0239	succinamic acid	*pH 8, 37&deg;C
+KCAT	Rhizomucor miehei	0.025	L-asparagine	*pH 7.0, 45&deg;C
+KCAT	Escherichia coli	0.032	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme N248Q; pH 7.0, 25&deg;C, mutant enzyme V27M
+KCAT	Escherichia coli	0.091	L-Gln	*pH 7.0, 25&deg;C, mutant enzyme V27L
+KCAT	Escherichia coli	0.11	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme G11V
+KCAT	Escherichia coli	0.143	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme Q59G
+KCAT	Escherichia coli	0.2	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme G57L
+KCAT	Yersinia pseudotuberculosis	0.22	L-asparagine	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	0.33	L-Gln	*pH 7.0, 25&deg;C, wild-type enzyme
+KCAT	Pectobacterium carotovorum	0.42	L-glutamine	*pH 8.0, 25&deg;C
+KCAT	Escherichia coli	0.46	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme N248D
+KCAT	Escherichia coli	0.51	L-glutamine	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	0.53	L-glutamine	*mutant N24S, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.8	beta-L-Asp-L-Phe	*wild type enzyme, at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	0.86	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme G57V
+KCAT	Wolinella succinogenes	1.58	L-glutamine	*wild-type, 37&deg;C, pH not specified in the publication
+KCAT	Bacillus megaterium	1.62	L-asparagine	*wild-type, pH 8.0, 40&deg;C
+KCAT	Cavia porcellus	1.98	beta-L-Asp-L-Phe	*at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	2	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme Q59E
+KCAT	Helicobacter pylori	2.1	L-glutamine	*wild-type, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	2.2	L-glutamine	*pH 8.0, 37&deg;C
+KCAT	Homo sapiens	3.19	L-asparagine	*wild type enzyme, at pH 7.5 and 37&deg;C
+KCAT	Cavia porcellus	3.95	L-asparagine	*at pH 7.5 and 37&deg;C
+KCAT	Pectobacterium carotovorum	4.1	Nalpha-acetyl-L-asparagine	*pH 8.0, 25&deg;C
+KCAT	Pectobacterium carotovorum	4.1	succinamic acid	*pH 8.0, 25&deg;C
+KCAT	Staphylococcus sp.	4.65	L-asparagine	*at pH 8.6 and 37&deg;C
+KCAT	Helicobacter pylori	4.83	L-asparagine	*mutant enzyme M121C, at pH 7.5 and 37&deg;C
+KCAT	Helicobacter pylori	4.83	L-asparagine	*mutant M121C, pH 7.5, 37&deg;C
+KCAT	Pectobacterium carotovorum	6	L-glutamine	*pH 8.0, 37&deg;C, recombinant AspSP, L-asparaginase II with signal peptide
+KCAT	Helicobacter pylori	6.53	L-asparagine	*mutant enzyme Q63E, at pH 7.5 and 37&deg;C
+KCAT	Helicobacter pylori	6.53	L-asparagine	*mutant Q63E, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	7	Asn	*pH 7.0, 25&deg;C, mutant enzyme N248A
+KCAT	Pectobacterium carotovorum	7.1	L-glutamine	*pH 8.0, 37&deg;C, recombinant AspMP, L-asparaginase II without signal peptide
+KCAT	Helicobacter pylori	7.4	L-asparagine	*mutant enzyme T169M, at pH 7.5 and 37&deg;C
+KCAT	Helicobacter pylori	7.4	L-asparagine	*mutant T169M, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	9.7	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme Q59A
+KCAT	Escherichia coli	10.3	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme V27L
+KCAT	Escherichia coli	10.8	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme V27M
+KCAT	Wolinella succinogenes	11.33	L-glutamine	*mutant S121P, 37&deg;C, pH not specified in the publication
+KCAT	Helicobacter pylori	13.95	L-asparagine	*mutant enzyme M121C/T169M, at pH 7.5 and 37&deg;C
+KCAT	Helicobacter pylori	13.95	L-asparagine	*mutant M121C/T169M, pH 7.5, 37&deg;C
+KCAT	Helicobacter pylori	14.5	L-glutamine	*mutant enzyme Q63E, at pH 7.5 and 37&deg;C
+KCAT	Helicobacter pylori	14.5	L-glutamine	*mutant Q63E, pH 7.5, 37&deg;C
+KCAT	Escherichia coli	15.4	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme G57A
+KCAT	Pyrococcus furiosus	17.98	L-asparagine	*pH 7.4, 37&deg;C, wild-type enzyme
+KCAT	Helicobacter pylori	19.2	L-asparagine	*wild-type, pH 7.5, 37&deg;C
+KCAT	Helicobacter pylori	19.26	L-asparagine	*
+KCAT	Helicobacter pylori	19.26	L-asparagine	*wild type enzyme, at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	21	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme N248Q
+KCAT	Helicobacter pylori	22.1	L-glutamine	*
+KCAT	Helicobacter pylori	22.1	L-glutamine	*wild type enzyme, at pH 7.5 and 37&deg;C
+KCAT	Escherichia coli	23	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme N248G
+KCAT	Pyrococcus furiosus	23.8	L-asparagine	*pH 7.4, 37&deg;C, mutant T53Q/K274E
+KCAT	Escherichia coli	24	Asn	*pH 7.0, 25&deg;C, wild-type enzyme
+KCAT	Bacillus subtilis	24.5	L-asparagine	*mutant S180N/D289T/E260F/E292S, pH not specified in the publication, 37&deg;C
+KCAT	Pyrococcus furiosus	24.9	L-asparagine	*pH 7.4, 37&deg;C, mutant K274E
+KCAT	Escherichia coli	26	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme N248W
+KCAT	Escherichia coli	27	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, mutant enzyme N248A
+KCAT	Escherichia coli	29	L-aspartyl-beta-hydroxamate	*pH 7.0, 25&deg;C, wild-type enzyme
+KCAT	Bacillus subtilis	32.2	L-asparagine	*mutant E260F, pH not specified in the publication, 37&deg;C
+KCAT	Bacillus subtilis	34.5	L-asparagine	*mutant E292S, pH not specified in the publication, 37&deg;C
+KCAT	Pyrococcus furiosus	35.2	L-asparagine	*pH 7.4, 37&deg;C, mutant T53Q
+KCAT	Bacillus licheniformis	36.8	L-asparagine	*at 37&deg;C and pH 8.0
+KCAT	Cavia porcellus	38.6	L-asparagine	*at pH 7.5 and 37&deg;C
+KCAT	Pectobacterium carotovorum	42	L-Gln	*37&deg;C
+KCAT	Bacillus subtilis	43.2	L-asparagine	*mutant D289T, pH not specified in the publication, 37&deg;C
+KCAT	Bacillus subtilis	47.9	L-asparagine	*mutant S180N, pH not specified in the publication, 37&deg;C
+KCAT	Escherichia coli	48	L-asparagine	*presence of 8 mM Gln, pH 8.0, 37&deg;C
+KCAT	Bacillus subtilis	48.5	L-asparagine	*wild-type, pH not specified in the publication, 37&deg;C
+KCAT	Bacillus megaterium	52.8	L-asparagine	*mutant V26A/E30G/D181G/V245G/G276D, pH 8.0, 40&deg;C
+KCAT	Pectobacterium carotovorum	55.2	L-asparagine	*pH 8.0, 25&deg;C
+KCAT	Bacillus megaterium	57.7	L-asparagine	*mutant V26A/E30G/K122N/G276D, pH 8.0, 40&deg;C
+KCAT	Escherichia coli	58.8	L-asparagine	*mutant N24S, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	59.8	L-asparagine	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	60	L-asparagine	*pH 8.0, 37&deg;C
+KCAT	Escherichia coli	67	L-asparagine	*presence of 0.9 mM Gln, pH 8.0, 37&deg;C
+KCAT	Pectobacterium carotovorum	68	D-Asn	*37&deg;C
+KCAT	Escherichia coli	72	L-asparagine	*presence of 0.3 mM Gln, pH 8.0, 37&deg;C
+KCAT	Wolinella succinogenes	86.7	L-asparagine	*mutant S121P, 37&deg;C, pH not specified in the publication
+KCAT	Wolinella succinogenes	97.8	L-asparagine	*wild-type, 37&deg;C, pH not specified in the publication
+KCAT	Rhizobium etli	106	L-asparagine	*pH 7.5, 37&deg;C, recombinant enzyme
+KCAT	Pectobacterium carotovorum	160	L-asparagine	*pH 8.0, 37&deg;C, recombinant AspMP, L-asparaginase II without signal peptide; pH 8.0, 37&deg;C, recombinant AspSP, L-asparaginase II with signal peptide
+KCAT	Withania somnifera	178.6	L-asparagine	*
+KCAT	Pyrococcus furiosus	199.2	L-asparagine	*pH 8.2, 80&deg;C, mutant K274E
+KCAT	Saccharomyces cerevisiae	217	L-asparagine	*K0.5 value, pH 8.8, 37&deg;C
+KCAT	Pyrococcus furiosus	246.7	L-asparagine	*pH 8.2, 80&deg;C, mutant T53Q
+KCAT	Pyrococcus furiosus	277.9	L-asparagine	*pH 8.2, 80&deg;C, mutant T53Q/K274E
+KCAT	Talaromyces pinophilus	286.3	L-asparagine	*pH 8.0, 37&deg;C
+KCAT	Pectobacterium carotovorum	450	L-aspartyl-beta-hydroxamate	*37&deg;C
+KCAT	Saccharomyces cerevisiae	523	L-asparagine	*presence of L-glutamine, K0.5 value, pH 8.8, 37&deg;C
+KCAT	Dickeya chrysanthemi	565	L-asparagine	*pH 8.6, 37&deg;C, wild-type enzyme
+KCAT	Dickeya chrysanthemi	573	L-asparagine	*pH 8.6, 37&deg;C, mutant enzyme N281D
+KCAT	Dickeya chrysanthemi	657	L-asparagine	*pH 8.6, 37&deg;C, mutant enzyme N41D
+KCAT	Rhizomucor miehei	676	L-asparagine	*at pH 7.0 and 45&deg;C
+KCAT	Thermococcus kodakarensis	694	L-asparagine	*at pH 8.0 and 90&deg;C
+KCAT	Dickeya chrysanthemi	798	L-asparagine	*pH 8.6, 37&deg;C, mutant enzyme N41D/N281D
+KCAT	Pyrococcus furiosus	888.6	L-asparagine	*pH 8.2, 80&deg;C, wild-type enzyme
+KCAT	Thermococcus gammatolerans	1362	D-glutamine	*at pH 8.5 and 85&deg;C
+KCAT	Pectobacterium carotovorum	1600	L-Asn	*37&deg;C
+KCAT	Thermococcus gammatolerans	2048	L-glutamine	*at pH 8.5 and 85&deg;C
+KCAT	Bacillus licheniformis	2680	L-asparagine	*in 50 mM Tris-HCl buffer (pH 8.6), at 37&deg;C
+KCAT	Thermococcus gammatolerans	3378	D-asparagine	*at pH 8.5 and 85&deg;C
+KCAT	Vibrio cholerae	4424	L-asparagine	*pH 7.0, 37&deg;C
+KCAT	Thermococcus gammatolerans	5721	L-asparagine	*at pH 8.5 and 85&deg;C

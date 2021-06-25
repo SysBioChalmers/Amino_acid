@@ -1,0 +1,98 @@
+KCAT	Streptomyces sp.	0.0014	cholesterol	*mutant enzyme H447E/E361Q
+KCAT	Streptomyces sp.	0.017	cholesterol	*mutant enzyme H447E
+KCAT	Streptomyces sp.	0.035	cholesterol	*mutant enzyme N485D, determined by H2O2 detection
+KCAT	Streptomyces sp.	0.035	cholesterol	*apparent value, mutant enzyme N485L, pH 5.1, temperature not specified in the publication
+KCAT	Streptomyces sp.	0.044	cholesterol	*apparent value, mutant enzyme N485L, pH 7.0, temperature not specified in the publication
+KCAT	Streptomyces sp.	0.073	cholesterol	*mutant enzyme N485D, determined by cholest-4-en-3-one detection
+KCAT	Streptomyces sp.	0.073	cholesterol	*apparent value, mutant enzyme N485D, pH 7.0, temperature not specified in the publication
+KCAT	Streptomyces sp.	0.093	cholesterol	*mutant enzyme H447Q/E361Q
+KCAT	Streptomyces sp.	0.32	cholesterol	*mutant enzyme H447Q
+KCAT	Brevibacterium sterolicum	0.55	cholesterol	*H69A mutant enzyme, steady state, 50 mM phosphate buffer, 1% thesit, 1% 2-propanol
+KCAT	Streptomyces sp.	0.69	dehydroepiandrosterone	*
+KCAT	Brevibacterium sterolicum	0.8	3beta-hydroxy-5-androsten-17-one	*assay relies on detection of H2O2 formation
+KCAT	Brevibacterium sterolicum	0.8	3beta-hydroxy-5-androsten-17-one	*H2O2 production assayed, 100 mM phosphate buffer
+KCAT	Brevibacterium sterolicum	0.8	3beta-hydroxy-androst-5-en-17-one	*product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+KCAT	Brevibacterium sterolicum	0.8	cholesterol	*assay relies on spectroscopic detection of 4-cholesten-3-one formation, decreasing length of C17 chain affects turnover negatively
+KCAT	Brevibacterium sterolicum	0.8	trans-androsterone	*substrate trans-androsterone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Brevibacterium sterolicum	0.8	trans-dehydroandrosterone	*substrate trans-dehydroandrosterone, detection of product formation at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	0.85	cholesterol	*mutant enzyme G347N, determined by H2O2 detection
+KCAT	Streptomyces sp.	0.86	cholesterol	*mutant enzyme F359W, determined by cholest-4-en-3-one detection
+KCAT	Streptomyces sp.	1	cholesterol	*mutant enzyme G347N, determined by cholest-4-en-3-one detection
+KCAT	Brevibacterium sterolicum	1	trans-dehydroandrosterone	*substrate trans-dehydroandrosterone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	1.3	cholesterol	*mutant enzyme F359W, determined by H2O2 detection
+KCAT	Streptomyces sp.	1.4	cholesterol	*mutant enzyme E361
+KCAT	Streptomyces sp.	1.4	cholesterol	*apparent value, mutant enzyme N485D, pH 5.1, temperature not specified in the publication
+KCAT	Brevibacterium sterolicum	1.6	cholesterol	*H69A mutant enzyme, cholesterol oxidation, 50 mM phosphate buffer, 1% thesit, 1% 2-propanol
+KCAT	Streptomyces sp.	2.21	cholesterol	*recombinant mutant V191A, pH 7.0, 22&deg;C
+KCAT	Streptomyces hygroscopicus	3	cholesterol	*substrate cholesterol, polarographic determination of the rate of oxygen consumption. 1% thesit (polyoxyethylene(9)-lauryl-ether), 10% propan-2-ol and 50 mM phosphate, 25&deg;C and pH 7.5
+KCAT	Streptomyces hygroscopicus	6	cholesterol	*substrate cholesterol, polarographic determination of the rate of oxygen consumption. 1% thesit (polyoxyethylene(9)-lauryl-ether), 10% propan-2-ol and 50 mM phosphate, 25&deg;C and pH 7.5
+KCAT	Streptomyces hygroscopicus	6	trans-dehydroandrosterone	*substrate trans-dehydroandrosterone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces hygroscopicus	7	3beta-hydroxy-androst-5-en-17-one	*assay relies on detection of H2O2 formation
+KCAT	Streptomyces hygroscopicus	7	epiandrosterone	*H2O2 production assayed, 100 mM phosphate buffer
+KCAT	Streptomyces hygroscopicus	7	trans-androsterone	*substrate trans-androsterone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces hygroscopicus	8.2	3beta-hydroxy-androst-5-en-17-one	*assay relies on spectroscopic detection of 4-cholesten-3-one formation
+KCAT	Streptomyces hygroscopicus	8.2	3beta-hydroxy-androst-5-en-17-one	*product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+KCAT	Streptomyces hygroscopicus	8.2	trans-dehydroandrosterone	*substrate trans-dehydroandrosterone, detection of product formation at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	9	cholesterol	*pH 7.0, 37&deg;C, mutant enzyme P357N
+KCAT	Streptomyces hygroscopicus	9	cholesterol	*substrate cholesterol, polarographic determination of the rate of oxygen consumption. 0.5 M potassium phosphate, 1% thesit (polyoxyethylene(9)-lauryl-ether), 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	9	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme P357N; pH 7.0, 37&deg;C, mutant enzyme V145D
+KCAT	Streptomyces hygroscopicus	11	cholesterol	*assay relies on spectroscopic detection of 4-cholesten-3-one formation
+KCAT	Streptomyces sp.	11	cholesterol	*pH 7.0, 37&deg;C, mutant enzyme V145D; pH 7.0, 37&deg;C, mutant enzyme V145Q
+KCAT	Streptomyces hygroscopicus	11	cholesterol	*substrate cholesterol, detection of product formation (cholest-4-en-3-one) at 240 nm. 0.5 M potassium phosphate, 1% thesit (polyoxyethylene(9)-lauryl-ether), 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	11	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme V145E
+KCAT	Streptomyces sp.	12	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme V145Q
+KCAT	Streptomyces sp.	13	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme L119A
+KCAT	Streptomyces sp.	15	cholesterol	*pH 7.0, 37&deg;C, mutant enzyme L119A
+KCAT	Streptomyces sp.	19	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme Q286R
+KCAT	Brevibacterium sterolicum	21	pregnenolone	*assay relies on spectroscopic detection of 4-cholesten-3-one formation
+KCAT	Brevibacterium sterolicum	21	pregnenolone	*product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+KCAT	Streptomyces sp.	21	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme L119F
+KCAT	Brevibacterium sterolicum	21	pregnenolone	*substrate pregnenolone, detection of product formation at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces hygroscopicus	21	pregnenolone	*substrate pregnenolone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	23	cholesterol	*pH 7.0, 37&deg;C, mutant enzyme Q286R; pH 7.0, 37&deg;C, mutant enzyme V145E
+KCAT	Streptomyces hygroscopicus	24	pregnenolone	*assay relies on spectroscopic detection of 4-cholesten-3-one formation
+KCAT	Streptomyces hygroscopicus	24	pregnenolone	*product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+KCAT	Streptomyces hygroscopicus	24	pregnenolone	*substrate pregnenolone, detection of product formation at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	27	cholesterol	*pH 7.0, 37&deg;C, mutant enzyme L119F
+KCAT	Brevibacterium sterolicum	28	5-Cholesten-3-one	*H69A mutant enzyme, 5-cholesten-3-one isomerization, 50 mM phosphate buffer, 1% thesit, 1% 2-propanol
+KCAT	Streptomyces hygroscopicus	28	cholesterol	*50 mM phosphate buffer, pH 7.5
+KCAT	Streptomyces sp.	29	cholesterol	*pH 7.0, 37&deg;C, mutant enzyme S379T
+KCAT	Streptomyces sp.	30	pregnenolone	*pH 7.0, 37&deg;C, wild-type enzyme
+KCAT	Streptomyces hygroscopicus	32	cholesterol	*substrate cholesterol, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	35	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme S379A
+KCAT	Brevibacterium sterolicum	35	pregnenolone	*substrate pregnenolone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces hygroscopicus	37	cholestanol	*assay relies on detection of H2O2 formation
+KCAT	Streptomyces hygroscopicus	37	cholestanol	*H2O2 production assayed, 100 mM phosphate buffer
+KCAT	Streptomyces hygroscopicus	37	cholestanol	*substrate cholestanol, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	39	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme S379V
+KCAT	Brevibacterium sterolicum	40	cholestanol	*assay relies on detection of H2O2 formation
+KCAT	Brevibacterium sterolicum	40	cholestanol	*H2O2 production assayed, 100 mM phosphate buffer
+KCAT	Brevibacterium sterolicum	40	cholestanol	*substrate cholestanol, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	40	cholesterol	*pH 7.0, 37&deg;C, wild-type enzyme
+KCAT	Streptomyces sp.	42	cholesterol	*wild-type enzyme, determined by cholest-4-en-3-one detection
+KCAT	Brevibacterium sterolicum	43	cholesterol	*substrate cholesterol, polarographic determination of the rate of oxygen consumption. 1% thesit (polyoxyethylene(9)-lauryl-ether), 10% propan-2-ol and 50 mM phosphate, 25&deg;C and pH 7.5
+KCAT	Streptomyces sp.	44	cholesterol	*
+KCAT	Streptomyces sp.	44	cholesterol	*wild-type enzyme
+KCAT	Streptomyces sp.	45	pregnenolone	*pH 7.0, 37&deg;C, mutant enzyme S379T
+KCAT	Streptomyces sp.	46	cholesterol	*apparent value, wild type enzyme, pH 5.1, temperature not specified in the publication
+KCAT	Streptomyces sp.	47	cholesterol	*wild-type enzyme, determined by H2O2 detection
+KCAT	Streptomyces sp.	47	cholesterol	*apparent value, wild type enzyme, pH 7.0, temperature not specified in the publication
+KCAT	Streptomyces sp.	47.3	cholesterol	*recombinant wild-type enzyme, pH 7.0, 22&deg;C
+KCAT	Brevibacterium sterolicum	48	cholesterol	*50 mM phosphate buffer, pH 7.5
+KCAT	Brevibacterium sterolicum	48	cholesterol	*substrate cholesterol, detection of product formation (cholest-4-en-3-one) at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5; substrate cholesterol, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Brevibacterium sterolicum	48.1	cholesterol	*product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+KCAT	Streptomyces sp.	49	cholesterol	*pH 7.0, 37&deg;C, mutant enzyme S379A
+KCAT	Streptomyces sp.	51	cholesterol	*pH 7.0, 37&deg;C, mutant enzyme S379V
+KCAT	Brevibacterium sterolicum	56	cholesterol	*substrate cholesterol, polarographic determination of the rate of oxygen consumption. 0.5 M potassium phosphate, 1% thesit (polyoxyethylene(9)-lauryl-ether), 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Brevibacterium sterolicum	57	cholesterol	*substrate cholesterol, polarographic determination of the rate of oxygen consumption. 1% thesit (polyoxyethylene(9)-lauryl-ether), 10% propan-2-ol and 50 mM phosphate, 25&deg;C and pH 7.5
+KCAT	Streptomyces hygroscopicus	63	cholesterol	*product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+KCAT	Streptomyces hygroscopicus	63	cholesterol	*substrate cholesterol, detection of product formation (cholest-4-en-3-one) at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Brevibacterium sterolicum	67	cholesterol	*assay relies on spectroscopic detection of 4-cholesten-3-one formation
+KCAT	Brevibacterium sterolicum	67	cholesterol	*substrate cholesterol, detection of product formation (cholest-4-en-3-one) at 240 nm. 0.5 M potassium phosphate, 1% thesit (polyoxyethylene(9)-lauryl-ether), 1.25% propan-2-ol, 25&deg;C and pH 7.5
+KCAT	Brevibacterium sterolicum	105	cholesterol	*50 mM phosphate buffer, pH 7.5, 1% thesit, 10% 2-propanol
+KCAT	Brevibacterium sterolicum	250	5-Cholesten-3-one	*isomerization to 4-cholesten-3-one, rapid reaction, stopped-flow measurement, 500 mM phosphate buffer, pH 7.5, in the presence of 1% thesit and 1.25% 2-propanol
+KCAT	Brevibacterium sterolicum	278	5-Cholesten-3-one	*assay relies on spectroscopic detection of 4-cholesten-3-one formation
+KCAT	Streptomyces hygroscopicus	330	5-Cholesten-3-one	*isomerization to 4-cholesten-3-one, rapid reaction, stopped-flow measurement, 500 mM phosphate buffer, pH 7.5, in the presence of 1% thesit and 1.25% 2-propanol
+KCAT	Streptomyces hygroscopicus	332	5-Cholesten-3-one	*assay relies on spectroscopic detection of 4-cholesten-3-one formation
+KCAT	Streptomyces hygroscopicus	345	cholesterol	*50 mM phosphate buffer, pH 7.5, 1% thesit, 10% 2-propanol
+KCAT	Streptomyces hygroscopicus	670	5-Cholesten-3-one	*isomerization to 4-cholesten-3-one, rapid reaction, stopped-flow measurement, 50 mM phosphate buffer, pH 7.5, in the presence of 1% thesit and 1.25% 2-propanol

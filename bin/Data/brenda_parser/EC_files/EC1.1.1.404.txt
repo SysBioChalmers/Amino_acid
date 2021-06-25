@@ -1,0 +1,4 @@
+KCAT	Sphingobium chlorophenolicum	3.7	NADPH	*pH 7.6, 22&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	20.1	NADH	*pH 7.6, 22&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	9.1	cytochrome c	*pH 7.6, 22&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	14.1	2,6-dichloroindophenol	*pH 7.6, 22&Acirc;&deg;C

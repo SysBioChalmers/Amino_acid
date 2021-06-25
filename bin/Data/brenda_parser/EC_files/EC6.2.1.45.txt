@@ -1,0 +1,32 @@
+KCAT	Homo sapiens	0.000075	ATP	*chimeric Ub1, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.00013	ATP	*mutant DELTA946, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	0.005	ATP	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576E
+KCAT	Homo sapiens	0.011	ATP	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576N; intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme K528A
+KCAT	Homo sapiens	0.015	ATP	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme K528A
+KCAT	Homo sapiens	0.022	ATP	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576N
+KCAT	Homo sapiens	0.024	ATP	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576A
+KCAT	Homo sapiens	0.1	ATP	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576E
+KCAT	Homo sapiens	0.12	ATP	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576A
+KCAT	Homo sapiens	3.1	ATP	*mutant DELTA348, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	3.4	ATP	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, wild-type enzyme
+KCAT	Homo sapiens	3.4	ATP	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	3.5	ATP	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Homo sapiens	6	ATP	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, wild-type enzyme
+KCAT	Homo sapiens	0.005	ubiquitin	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576E
+KCAT	Homo sapiens	0.011	ubiquitin	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576N; intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme K528A
+KCAT	Homo sapiens	0.015	ubiquitin	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme K528A
+KCAT	Homo sapiens	0.022	ubiquitin	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576N
+KCAT	Homo sapiens	0.024	ubiquitin	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576A
+KCAT	Homo sapiens	0.1	ubiquitin	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576E
+KCAT	Homo sapiens	0.12	ubiquitin	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576A
+KCAT	Homo sapiens	3.4	ubiquitin	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, wild-type enzyme
+KCAT	Homo sapiens	6	ubiquitin	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, wild-type enzyme
+KCAT	Homo sapiens	0.005	ubiquitin carrier protein E2	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576E
+KCAT	Homo sapiens	0.011	ubiquitin carrier protein E2	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576N; intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme K528A
+KCAT	Homo sapiens	0.015	ubiquitin carrier protein E2	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme K528A
+KCAT	Homo sapiens	0.022	ubiquitin carrier protein E2	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576N
+KCAT	Homo sapiens	0.024	ubiquitin carrier protein E2	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576A
+KCAT	Homo sapiens	0.1	ubiquitin carrier protein E2	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576E
+KCAT	Homo sapiens	0.12	ubiquitin carrier protein E2	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576A
+KCAT	Homo sapiens	3.4	ubiquitin carrier protein E2	*intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, wild-type enzyme
+KCAT	Homo sapiens	6	ubiquitin carrier protein E2	*above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, wild-type enzyme

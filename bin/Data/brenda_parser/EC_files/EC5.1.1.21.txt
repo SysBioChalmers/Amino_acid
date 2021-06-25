@@ -1,0 +1,11 @@
+KCAT	Lactobacillus buchneri	0.0238	L-isoleucine	*recombinant mutant D222N, pH and temperature not specified in the publication
+KCAT	Lactobacillus buchneri	0.0461	D-allo-isoleucine	*recombinant mutant D222N, pH and temperature not specified in the publication
+KCAT	Lactobacillus buchneri	1.65	L-isoleucine	*recombinant mutant D222A, pH and temperature not specified in the publication
+KCAT	Lactobacillus buchneri	3.56	D-allo-isoleucine	*recombinant mutant D222A, pH and temperature not specified in the publication
+KCAT	Arabidopsis thaliana	11.03	L-isoleucine	*recombinant His-tagged enzyme, pH 8.0, 22&deg;C
+KCAT	Lactobacillus buchneri	279	L-isoleucine	*recombinant mutant Y142F, pH and temperature not specified in the publication
+KCAT	Lactobacillus buchneri	434	D-allo-isoleucine	*recombinant mutant Y142F, pH and temperature not specified in the publication
+KCAT	Lactobacillus buchneri	502	L-isoleucine	*pH 5.5, 37&deg;C
+KCAT	Lactobacillus buchneri	502	L-isoleucine	*recombinant wild-type enzyme, pH and temperature not specified in the publication
+KCAT	Lactobacillus buchneri	939	D-allo-isoleucine	*pH 5.5, 37&deg;C
+KCAT	Lactobacillus buchneri	939	D-allo-isoleucine	*recombinant wild-type enzyme, pH and temperature not specified in the publication

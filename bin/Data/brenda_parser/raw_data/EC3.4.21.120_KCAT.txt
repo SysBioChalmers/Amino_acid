@@ -1,0 +1,1 @@
+ecNumber*3.4.21.120#turnoverNumber*3.8#turnoverNumberMaximum*#substrate*Nalpha-tert-butoxycarbonylphenylalanylserylarginyl-4-methylcoumarin-7-amide#commentary*#organism*Xenopus laevis#ligandStructureId*24162#literature*667563#

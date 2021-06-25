@@ -1,0 +1,60 @@
+KCAT	Escherichia coli	0.0003	dUTP	*D90N mutant enzyme, pH 7.8, room temperature
+KCAT	Homo sapiens	0.007	dUTP	*mutant enzyme D49N/F158W, in 1 mM HEPES pH 7.5 containing 100 mM KCl and 5 mM MgCl2, at 20&deg;C
+KCAT	Mycobacterium tuberculosis	0.024	dUTP	*mutant enzyme D28N/H145W, in 1 mM HEPES pH 7.5 containing 100 mM KCl and 5 mM MgCl2, at 20&deg;C
+KCAT	Human gammaherpesvirus 4	0.04	dUTP	*mutant enzyme D131N, with 1 mM MgCl2, in 0.5 mM bicine-NaOH, pH 7.8, at 25&deg;C; mutant enzyme D131S, with 1 mM MgCl2, in 0.5 mM bicine-NaOH, pH 7.8, at 25&deg;C
+KCAT	Human gammaherpesvirus 4	0.06	dUTP	*mutant enzyme R268A, with 1 mM MgCl2, in 0.5 mM bicine-NaOH, pH 7.8, at 25&deg;C
+KCAT	Drosophila melanogaster	0.1	dTTP	*pH 7.5, 25&deg;C
+KCAT	Human gammaherpesvirus 4	0.18	dUTP	*mutant enzyme D131S/G78D, with 1 mM MgCl2, in 0.5 mM bicine-NaOH, pH 7.8, at 25&deg;C
+KCAT	Homo sapiens	0.32	dUTP	*mutant enzyme F158A, in 1 mM HEPES pH 7.5 containing 100 mM KCl and 5 mM MgCl2, at 20&deg;C
+KCAT	Drosophila melanogaster	0.7	dCTP	*pH 7.5, 25&deg;C
+KCAT	Mycobacterium tuberculosis	0.88	dUTP	*DELTA-loop mutant enzyme, in 1 mM HEPES pH 7.5, 100 mM KCl, and 5 mM MgCl2, at 20&deg;C
+KCAT	Mycobacterium tuberculosis	1.2	dUTP	*mutant enzyme H145W, in 1 mM HEPES pH 7.5 containing 100 mM KCl and 5 mM MgCl2, at 20&deg;C
+KCAT	Human gammaherpesvirus 4	1.2	dUTP	*wild type enzyme, without MgCl2, in 0.5 mM bicine-NaOH, pH 7.8, at 25&deg;C
+KCAT	Mycobacterium tuberculosis	1.22	dUTP	*wild type enzyme, in 1 mM HEPES pH 7.5, 100 mM KCl, and 5 mM MgCl2, at 20&deg;C
+KCAT	Saccharomyces cerevisiae	1.3	dITP	*wild type enzyme, in 50 mM HEPES (pH 7.5), 5 mM MgCl2, 1 mM MnCl2, 0.5 mM NiCl2, at 30&deg;C
+KCAT	Saccharomyces cerevisiae	1.3	dUTP	*mutant enzyme Q114A, in 50 mM HEPES (pH 7.5), 5 mM MgCl2, 1 mM MnCl2, 0.5 mM NiCl2, at 30&deg;C
+KCAT	Human gammaherpesvirus 4	1.4	dUTP	*wild type enzyme, with 1 mM MgCl2, in 0.5 mM bicine-NaOH, pH 7.8, at 25&deg;C
+KCAT	Human gammaherpesvirus 4	1.6	dUTP	*wild type enzyme, without MgCl2, with dithiothreitol, in 0.5 mM bicine-NaOH, pH 7.8, at 25&deg;C
+KCAT	Human gammaherpesvirus 4	1.7	dUTP	*mutant enzyme C4S, with 1 mM MgCl2, in 0.5 mM bicine-NaOH, pH 7.8, at 25&deg;C
+KCAT	Trypanosoma cruzi	2.8	dUTP	*25&deg;C
+KCAT	Human gammaherpesvirus 4	3.3	dUTP	*pH 7.6, 25&deg;C, recombinant enzyme, in presence of 1 mM MgCl2
+KCAT	Saccharomyces cerevisiae	3.3	dUTP	*mutant enzyme R111A, in 50 mM HEPES (pH 7.5), 5 mM MgCl2, 1 mM MnCl2, 0.5 mM NiCl2, at 30&deg;C
+KCAT	Plasmodium falciparum	3.4	dUTP	*pH 7.0, 25&deg;C, recombinant enzyme
+KCAT	Mycobacterium tuberculosis	3.7	dUTP	*pH 7.5, 25&deg;C, recombinant wild-type and mutant enzymes
+KCAT	Plasmodium falciparum	4.1	dUTP-Co2+	*pH 7.0, 25&deg;C, recombinant enzyme
+KCAT	Escherichia coli	4.5	dUTP	*pH 7.5, 25&deg;C, in the absence of added metal ions
+KCAT	Human alphaherpesvirus 1	5	dUTP	*
+KCAT	Plasmodium falciparum	5.3	dUTP-Mn2+	*pH 7.0, 25&deg;C, recombinant enzyme
+KCAT	Saccharomyces cerevisiae	5.3	UTP	*mutant enzyme Y88A, in 50 mM HEPES (pH 7.5), 5 mM MgCl2, 1 mM MnCl2, 0.5 mM NiCl2, at 30&deg;C
+KCAT	Leishmania major	5.4	dATP	*pH 8, 25&deg;C
+KCAT	Escherichia coli	5.8	dUTP	*
+KCAT	Homo sapiens	5.8	dUTP	*wild type enzyme, in 1 mM HEPES pH 7.5 containing 100 mM KCl and 5 mM MgCl2, at 20&deg;C
+KCAT	Escherichia coli	6	dUTP	*
+KCAT	Homo sapiens	6.3	dUTP	*mutant enzyme F158W, in 1 mM HEPES pH 7.5 containing 100 mM KCl and 5 mM MgCl2, at 20&deg;C
+KCAT	Leishmania major	6.4	dGTP	*pH 8, 25&deg;C
+KCAT	Homo sapiens	6.58	dUTP	*pH 7.4, 20&deg;C, recombinant wild-type enzyme
+KCAT	Paramecium bursaria Chlorella virus 1	6.8	dUTP	*pH 8.5, 50&deg;C, recombinant enzyme
+KCAT	Homo sapiens	6.8	dUTP	*mutant enzyme F158W, in 1 mM HEPES pH 7.5 containing 100 mM KCl and 5 mM MgCl2, at 20&deg;C
+KCAT	Saccharomyces cerevisiae	7.4	dUTP	*mutant enzyme Y88A, in 50 mM HEPES (pH 7.5), 5 mM MgCl2, 1 mM MnCl2, 0.5 mM NiCl2, at 30&deg;C
+KCAT	Homo sapiens	8	dUTP	*recombinant wild-type and mutant enzymes
+KCAT	Leishmania major	8.6	dTTP	*pH 8, 25&deg;C
+KCAT	Homo sapiens	9.17	dUTP	*
+KCAT	Saccharomyces cerevisiae	9.6	dUTP	*wild type enzyme, in 50 mM HEPES (pH 7.5), 5 mM MgCl2, 1 mM MnCl2, 0.5 mM NiCl2, at 30&deg;C
+KCAT	Trypanosoma brucei	9.7	dUTP	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Escherichia coli	11	dUTP	*wild-type enzyme, pH 7.8, room temperature
+KCAT	Plasmodium falciparum	11.33	dUTP	*mutant enzyme F46A, at pH 8.0 and 25&deg;C
+KCAT	Plasmodium falciparum	11.67	dUTP	*mutant enzyme K96A, at pH 8.0 and 25&deg;C; wild type enzyme, at pH 8.0 and 25&deg;C
+KCAT	Drosophila melanogaster	12	dUTP	*pH 7.5, 25&deg;C
+KCAT	Plasmodium falciparum	12	dUTP	*mutant enzyme I117A, at pH 8.0 and 25&deg;C
+KCAT	Campylobacter jejuni	12.3	dUTP	*pH 8.0, 25&deg;C, recombinant enzyme
+KCAT	Leishmania major	13	dCTP	*pH 8, 25&deg;C
+KCAT	Plasmodium falciparum	13.3	dUTP-Mg2+	*pH 7.0, 25&deg;C, recombinant enzyme
+KCAT	Escherichia coli	14.7	dUTP	*pH 7.5, 25&deg;C, in the presence of Mg2+ or Mn2+
+KCAT	Bacillus virus SPbeta	18	dUTP	*pH 7.5, 25&deg;C, recombinant enzyme
+KCAT	Escherichia coli	24.2	dUTP	*pH 7.5, 25&deg;C, in the presence of bis(acetylacetonato)oxovanadium(IV)
+KCAT	equine infectious anemia virus	25	dUTP	*
+KCAT	Escherichia coli	27.3	dUTP	*pH 7.5, 25&deg;C, in the presence of VO2+ or bis(acetylacetonato)oxovanadium(IV)
+KCAT	Escherichia coli	38.3	dUTP	*at 30&deg;C
+KCAT	Leishmania major	49	dUTP	*pH 8, 25&deg;C
+KCAT	Escherichia coli	58.3	dUTP	*at 35&deg;C
+KCAT	Leishmania major	65	dUDP	*pH 8, 25&deg;C

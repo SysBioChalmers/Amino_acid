@@ -1,0 +1,16 @@
+KCAT	Crotalus adamanteus	0.35	benzoyl-Pro-Phe-Arg 4-nitroanilide	*
+KCAT	Crotalus adamanteus	0.95	H-D-Hexahydrotyrosyl-Ala-Arg 4-nitroanilide	*
+KCAT	Crotalus adamanteus	4.9	H-D-Pro-hexahydrotyrosyl-Arg 4-nitroanilide	*
+KCAT	Crotalus adamanteus	11.5	Tosyl-Gly-Pro-Arg 4-nitroanilide	*
+KCAT	Crotalus adamanteus	0.7	tosyl-Gly-Pro-Lys 4-nitroanilide	*
+KCAT	Crotalus adamanteus	61	H-D-Nle-cyclohexylalanyl-Arg 4-nitroanilide	*
+KCAT	Crotalus adamanteus	1.4	H-D-Aminobutyric acid-cyclohexylalanyl-Lys 4-nitroanilide	*
+KCAT	Crotalus adamanteus	6.9	H-D-Nle-hexahydrotyrosyl-Lys 4-nitroanilide	*
+KCAT	Crotalus adamanteus	0.68	H-D-Cyclohexylglycyl-L-2-aminobutyryl-Arg 4-nitroanilide	*
+KCAT	Crotalus adamanteus	1.3	Methylsulfonyl-Leu-Gly-Arg 4-nitroanilide	*
+KCAT	Crotalus adamanteus	3.5	D-phenylglycyl-Phe-Arg 4-nitroanilide	*
+KCAT	Crotalus adamanteus	0.16	carbobenzoyl-Glu-(alpha-tert-butoxy)-Gly-Arg 4-nitroanilide	*
+KCAT	Daboia russelii russelii	0.31	human plasma fibrinogen	*pH 7.4, 37&Acirc;&deg;C, isozyme RV-FVPdelta
+KCAT	Daboia russelii russelii	0.33	human plasma fibrinogen	*pH 7.4, 37&Acirc;&deg;C, isozyme RV-FVPbeta
+KCAT	Daboia russelii russelii	0.34	human plasma fibrinogen	*pH 7.4, 37&Acirc;&deg;C, isozyme RV-FVPgamma
+KCAT	Daboia russelii russelii	1.042	human plasma fibrinogen	*pH 7.4, 37&Acirc;&deg;C, isozyme RV-FVPalpha

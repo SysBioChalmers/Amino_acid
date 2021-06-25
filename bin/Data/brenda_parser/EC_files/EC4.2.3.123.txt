@@ -1,0 +1,1 @@
+KCAT	Persicaria minor	0.078	(2E,6E)-farnesyl diphosphate	*pH 8.0, 30&deg;C, recombinant enzyme mutant PmSTS_DELTA124

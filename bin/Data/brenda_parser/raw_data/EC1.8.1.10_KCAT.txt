@@ -1,0 +1,1 @@
+ecNumber*1.8.1.10#turnoverNumber*1100#turnoverNumberMaximum*#substrate*CoA disulfide#commentary*#organism*Staphylococcus aureus#ligandStructureId*16565#literature*395111#

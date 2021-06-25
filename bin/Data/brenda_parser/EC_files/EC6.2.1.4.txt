@@ -1,0 +1,5 @@
+KCAT	Blastocystis hominis	0.0078	GTP	*mutant enzyme K46E/K114D/V113L/L227F, at pH 7.4 and 21&deg;C
+KCAT	Blastocystis hominis	0.0139	ATP	*wild type enzyme, at pH 7.4 and 21&deg;C
+KCAT	Blastocystis hominis	0.0176	ATP	*mutant enzyme K46E/K114D, at pH 7.4 and 21&deg;C
+KCAT	Blastocystis hominis	0.0177	ATP	*mutant enzyme V113L/L227F, at pH 7.4 and 21&deg;C
+KCAT	Blastocystis hominis	0.0195	GTP	*mutant enzyme K46E/K114D, at pH 7.4 and 21&deg;C

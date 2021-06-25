@@ -1,0 +1,111 @@
+KCAT	Homo sapiens	-999	more	*overview: kinetic constant for the hydrolysis of synthetic thioester substrates and 4-nitroanilide substrates by the lung and by the skin enzyme
+KCAT	Homo sapiens	-999	more	*effect of NaCl on turnover number
+KCAT	Rattus norvegicus	-999	more	*of peptide 4-nitroanilide substrates
+KCAT	Rattus norvegicus	-999	more	*of peptide 4-nitroanilide substrates
+KCAT	Homo sapiens	0.03	Bz-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Bos taurus	0.05	benzyloxycarbonyl-Arg 4-methylcoumarin 7-amide	*
+KCAT	Bos taurus	0.5	Tert-Butyloxycarbonyl-Gly-Lys-Arg 4-methylcoumarin 7-amide	*
+KCAT	Mus musculus	0.74	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C, 1200 ng polybrene
+KCAT	Bos taurus	0.8	Benzyloxycarbonyl-Ala-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	0.833	D-Val-Leu-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Homo sapiens	0.97	Ac-PRNK-AAC	*pH 7.5, 30&deg;C, betaII tryptase
+KCAT	Homo sapiens	0.99	Ac-PRNK-AAC	*pH 7.5, 30&deg;C, betaI tryptase
+KCAT	Homo sapiens	0.99	Ac-PRTK-AAC	*pH 7.5, 30&deg;C, betaI tryptase
+KCAT	Homo sapiens	1.1	Ac-PANK-AAC	*pH 7.5, 30&deg;C, betaI tryptase
+KCAT	Homo sapiens	1.1	Ac-PRTK-AAC	*pH 7.5, 30&deg;C, betaII tryptase
+KCAT	Bos taurus	1.4	tert-butyloxycarbonyl-L-Val-L-Pro-L-Arg-4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	1.5	Glu-Pro-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Mus musculus	1.5	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C, 1000 ng polybrene
+KCAT	Homo sapiens	1.66	Bz-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Homo sapiens	1.7	Glu-Pro-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Homo sapiens	1.9	N-p-tosyl-Gly-Pro-Arg-p-nitroanilide	*pH 7.4, 37&deg;C, D215G mutant
+KCAT	Homo sapiens	1.9	Z-D-Arg-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Bos taurus	2.2	tert-butyloxycarbonyl-Phe-Ser-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	2.51	Bz-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	2.6	Glu-Pro-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Mus musculus	2.6	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C, 800 ng polybrene
+KCAT	Homo sapiens	2.8	D-Pro-Phe-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	2.94	Bz-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Homo sapiens	3	Bz-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	3	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C, 200 ng protamine
+KCAT	Homo sapiens	3	Z-D-Arg-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	3.5	Ac-PANK-AAC	*pH 7.5, 30&deg;C, betaII tryptase
+KCAT	Mus musculus	3.6	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C, 600 ng polybrene
+KCAT	Homo sapiens	3.8	Ac-PRNR-AAC	*pH 7.5, 30&deg;C, betaI tryptase
+KCAT	Mus musculus	3.9	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C, 0.002 mg protamine
+KCAT	Mus musculus	4.3	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C
+KCAT	Homo sapiens	5	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C, 150 ng polybrene
+KCAT	Homo sapiens	5	D-Pro-Phe-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Mus musculus	5.1	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C, 0.0015 mg protamine
+KCAT	Homo sapiens	5.2	D-Pro-Phe-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Homo sapiens	5.3	D-Pro-Phe-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Homo sapiens	5.35	benzyloxycarbonyl-Arg 4-nitroanilide	*skin enzyme
+KCAT	Homo sapiens	5.4	Z-D-Arg-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Homo sapiens	5.52	benzyloxycarbonyl-Arg 4-nitroanilide	*lung enzyme
+KCAT	Mus musculus	5.8	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C, 0.001 mg protamine
+KCAT	Homo sapiens	5.8	S-2288	*mutant enzyme I99C/Y75A/Y37bA, at pH 6.8 and 25&deg;C
+KCAT	Mus musculus	6.08	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 6.0, 25&deg;C, 1200 ng polybrene
+KCAT	Homo sapiens	6.51	Bz-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Homo sapiens	6.7	S-2288	*mutant enzyme I99C*/Y75A/Y37bA, at pH 6.8 and 25&deg;C
+KCAT	Bos taurus	7	t-butyloxycarbonyl-Phe-Ser-Arg-4-methyl-coumarin 7-amide	*pH 8.0, 30&deg;C
+KCAT	Homo sapiens	7.1	D-Val-Leu-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	8	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C, 100 ng polybrene
+KCAT	Homo sapiens	8.9	Bz-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Homo sapiens	9	Glu-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Homo sapiens	9.9	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C, 80 ng polybrene
+KCAT	Homo sapiens	10.3	Z-D-Arg-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Equus caballus	12	N-(p-tosyl)-Gly-Pro-Lys-p-nitroanilide	*pH 8.0, 22&deg;C
+KCAT	Homo sapiens	14	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C
+KCAT	Homo sapiens	15.2	MeOCO-Nle-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	16	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C, 100 ng protamine
+KCAT	Homo sapiens	16.3	D-Val-Leu-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Homo sapiens	17	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C, 60 ng polybrene
+KCAT	Homo sapiens	21	N-p-tosyl-Gly-Pro-Arg-p-nitroanilide	*pH 7.4, 37&deg;C, tryptase beta/II
+KCAT	Homo sapiens	21.1	D-Val-Leu-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Homo sapiens	21.75	Ac-PRNR-AAC	*pH 7.5, 30&deg;C, betaII tryptase
+KCAT	Homo sapiens	21.8	Ac-PRNR-AAC	*pH 7.5, 30&deg;C, betaII tryptase
+KCAT	Homo sapiens	22.9	MeOCO-Nle-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Equus caballus	23.5	N-(p-tosyl)-Gly-Pro-Arg-4-nitroanilide	*pH 8.0, 22&deg;C
+KCAT	Homo sapiens	24.1	D-Phe-Pip-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	26	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C, 800 ng protamine
+KCAT	Homo sapiens	27.1	D-Phe-Pip-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Homo sapiens	27.9	tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	30.5	MeOCO-Nle-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Homo sapiens	31	D-Val-Leu-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Homo sapiens	37	S-2288	*mutant enzyme Y75C, at pH 6.8 and 25&deg;C
+KCAT	Homo sapiens	40	D-Ile-Pro-Arg-p-nitroanilide	*pH 6.0, 25&deg;C, 400 ng protamine
+KCAT	Homo sapiens	40	tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Homo sapiens	45.7	Benzyloxycarbonyl-Lys-Arg 4-trifluoromethylcoumarin 7-amide	*skin and lung enzyme
+KCAT	Homo sapiens	45.9	tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S2
+KCAT	Rattus norvegicus	46.3	bovine prothrombin	*
+KCAT	Homo sapiens	50	S-2288	*mutant enzyme I99C, at pH 6.8 and 25&deg;C
+KCAT	Homo sapiens	51	D-Phe-Pip-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Homo sapiens	56.4	Glu-Pro-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Homo sapiens	56.9	Glu-Pro-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L2
+KCAT	Homo sapiens	59.5	D-Phe-Pip-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Homo sapiens	60.6	Glu-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform L1
+KCAT	Homo sapiens	75.5	tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Homo sapiens	87	S-2288	*wild type enzyme, at pH 6.8 and 25&deg;C
+KCAT	Homo sapiens	97	D-Ile-Pro-Arg-4-nitroanilide	*pH 6.8, 25&deg;C, active enzyme tetramer, in presence of heparin and Na+
+KCAT	Homo sapiens	104	Benzyloxycarbonyl-Gly-Arg 4-trifluoromethylcoumarin 7-amide	*skin enzyme
+KCAT	Homo sapiens	107	Benzyloxycarbonyl-Gly-Arg 4-trifluoromethylcoumarin 7-amide	*lung enzyme
+KCAT	Homo sapiens	141	Ac-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	*
+KCAT	Homo sapiens	159	Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	*
+KCAT	Homo sapiens	170	D-Ile-Pro-Arg-4-nitroanilide	*pH 8.0, 25&deg;C, active enzyme tetramer, in presence of heparin and Na+
+KCAT	Homo sapiens	183	Glu-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Homo sapiens	187	Ala-Ala-Pro-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	*
+KCAT	Homo sapiens	199	Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	*
+KCAT	Homo sapiens	233	Ala-Pro-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	*
+KCAT	Homo sapiens	367	Ac-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	*
+KCAT	Homo sapiens	378	Ac-Pro-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	*
+KCAT	Homo sapiens	435	Pro-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	*
+KCAT	Homo sapiens	490	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 8.2, 22&deg;C, recombinant tryptase
+KCAT	Homo sapiens	540	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	*pH 8.2, 22&deg;C, HMC-1 tryptase
+KCAT	Homo sapiens	551	Benzyloxycarbonyl-Gly-Pro-Arg 4-nitroanilide	*skin enzyme
+KCAT	Homo sapiens	553	Benzyloxycarbonyl-Gly-Pro-Arg 4-nitroanilide	*lung enzyme
+KCAT	Homo sapiens	1520	Benzyloxycarbonyl-L-Ala-L-Lys-L-Lys 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	1870	benzyloxycarbonyl-L-Ala-L-Leu-L-Lys 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	2040	Benzyloxycarbonyl-L-Ala-L-Arg-L-Arg 4-methylcoumarin 7-amide	*
+KCAT	Homo sapiens	2628	MeOCO-Nle-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Homo sapiens	2630	MeOCO-Nle-Gly-Arg-p-nitroanilide	*pH 7.6, 20&deg;C, isoform S1
+KCAT	Homo sapiens	3290	Benzyloxycarbonyl-L-Ala-L-Lys-L-Arg 4-methylcoumarin 7-amide	*

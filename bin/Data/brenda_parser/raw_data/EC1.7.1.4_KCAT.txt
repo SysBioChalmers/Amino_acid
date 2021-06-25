@@ -1,0 +1,1 @@
+ecNumber*1.7.1.4#turnoverNumber*130#turnoverNumberMaximum*#substrate*NO2-#commentary*#organism*Neurospora crassa#ligandStructureId*852#literature*392931#

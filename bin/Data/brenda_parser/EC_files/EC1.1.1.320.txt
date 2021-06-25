@@ -1,0 +1,3 @@
+KCAT	Ogataea glucozyma	0.14	benzil	*pH 8.0, 30&deg;C
+KCAT	Bacillus cereus	1.07	benzil	*recombinant enzyme, pH 6.5, 37&deg;C
+KCAT	Bacillus cereus	2.75	1-phenyl-1,2-propanedione	*recombinant enzyme, pH 6.5, 37&deg;C

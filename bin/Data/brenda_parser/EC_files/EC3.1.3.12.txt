@@ -1,0 +1,27 @@
+KCAT	Oryza sativa	0.03	trehalose 6-phosphate	*in 50mM Tris /HCl buffer with 2mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Brugia malayi	0.06	trehalose 6-phosphate	*mutant enzyme K334A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	0.094	trehalose 6-phosphate	*mutant enzyme D336A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	0.22	trehalose 6-phosphate	*mutant enzyme Q332A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	0.28	trehalose 6-phosphate	*mutant enzyme R337A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	1	trehalose 6-phosphate	*mutant enzyme Y221A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Arthrobacter sp.	1.49	trehalose 6-phosphate	*at pH 7.4 and 4&Acirc;&deg;C
+KCAT	Brugia malayi	2	trehalose 6-phosphate	*mutant enzyme DELTA59, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	2	trehalose 6-phosphate	*mutant enzyme E386A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	3	trehalose 6-phosphate	*mutant enzyme E384A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Arthrobacter sp.	3.9	trehalose 6-phosphate	*at pH 7.4 and 20&Acirc;&deg;C
+KCAT	Arthrobacter sp.	3.94	trehalose 6-phosphate	*at pH 7.4 and 10&Acirc;&deg;C
+KCAT	Brugia malayi	4	trehalose 6-phosphate	*mutant enzyme S329A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	6	trehalose 6-phosphate	*mutant enzyme Y225A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Oryza sativa	6.52	trehalose 6-phosphate	*in 50mM Tris /HCl buffer with 2mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Caenorhabditis elegans	8	trehalose 6-phosphate	*pH 7.0, 22&Acirc;&deg;C, recombinant enzyme
+KCAT	Thermoplasma acidophilum	10	trehalose 6-phosphate	*in 50 mM Tris-HCl (pH 8.0), 5 mM dithiothreitol, and 20 mM MgCl2, at 50&Acirc;&deg;C
+KCAT	Brugia malayi	11	trehalose 6-phosphate	*mutant enzyme D378A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Arthrobacter sp.	12.65	trehalose 6-phosphate	*at pH 7.4 and 37&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	13.4	trehalose 6-phosphate	*in 50 mM Tris/HCl buffer with 2 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	14.3	trehalose 6-phosphate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	14.6	trehalose 6-phosphate	*pH 7.5, 30&Acirc;&deg;C, chimeric enzyme
+KCAT	Arthrobacter sp.	14.79	trehalose 6-phosphate	*at pH 7.4 and 30&Acirc;&deg;C
+KCAT	Brugia malayi	15	trehalose 6-phosphate	*mutant enzyme T339A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	18	trehalose 6-phosphate	*mutant enzyme N228A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	19	trehalose 6-phosphate	*mutant enzyme W280A, at pH 7.5 and 22&Acirc;&deg;C
+KCAT	Brugia malayi	24	trehalose 6-phosphate	*wild type enzyme, at pH 7.5 and 22&Acirc;&deg;C

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.306#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Mycolicibacterium smegmatis#ligandStructureId*#literature*654527#

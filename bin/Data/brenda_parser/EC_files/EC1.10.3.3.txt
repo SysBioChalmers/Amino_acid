@@ -1,0 +1,21 @@
+KCAT	Pleurotus ostreatus	0.24	5-methyl-5-O-(alpha-D-xylopyranosyl)-D-erythroascorbic acid	*
+KCAT	Pleurotus ostreatus	0.55	5-methyl-5-O-(alpha-D-glucopyranosyl)-D-erythroascorbic acid	*
+KCAT	Pleurotus ostreatus	0.6	5-O-(alpha-D-glucopyranosyl)-D-erythroascorbic acid	*
+KCAT	Pleurotus ostreatus	0.66	L-ascorbic acid	*
+KCAT	Pleurotus ostreatus	1.12	D-erythroascorbic acid	*
+KCAT	Pleurotus ostreatus	1.29	5-O-(alpha-D-xylopyranosyl)-D-erythroascorbic acid	*
+KCAT	Homo sapiens	4.54	L-ascorbate	*pH and temperature not specified in the publication
+KCAT	Cucurbita pepo medullosa	7.6	L-ascorbate	*
+KCAT	Cucurbita pepo medullosa	473	6-O-phenyl-L-ascorbate	*commercial enzyme preparation from Sigma
+KCAT	Cucurbita pepo medullosa	526	6-S-phenyl-L-ascorbate	*commercial enzyme preparation from Sigma
+KCAT	Cucurbita pepo medullosa	546	6-amino-L-ascorbate	*commercial enzyme preparation from Sigma
+KCAT	Cucurbita pepo medullosa	623	5,6-isopropylidene-L-ascorbate	*commercial enzyme preparation from Sigma
+KCAT	Cucurbita pepo medullosa	639	5,6-ene-L-ascorbate	*commercial enzyme preparation from Sigma
+KCAT	Cucurbita pepo medullosa	682	L-ascorbate	*commercial enzyme preparation from Sigma
+KCAT	Cucurbita pepo medullosa	702	6-bromo-L-ascorbate	*commercial enzyme preparation from Sigma
+KCAT	Cucurbita pepo medullosa	804	D-isoascorbate	*commercial enzyme preparation from Sigma
+KCAT	Cucurbita pepo medullosa	969	6-deoxy-L-ascorbate	*commercial enzyme preparation from Sigma
+KCAT	Acremonium	1130	O2	*
+KCAT	Acremonium	3110	L-ascorbate	*
+KCAT	Cucurbita pepo condensa	4170	L-ascorbate	*manometric assay
+KCAT	Cucurbita pepo condensa	10800	L-ascorbate	*spectrometric assay

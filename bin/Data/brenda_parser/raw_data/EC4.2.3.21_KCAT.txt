@@ -1,0 +1,1 @@
+ecNumber*4.2.3.21#turnoverNumber*0.04#turnoverNumberMaximum*#substrate*trans,trans-farnesyl diphosphate#commentary*recombinant enzyme#organism*Hyoscyamus muticus#ligandStructureId*872#literature*648590#

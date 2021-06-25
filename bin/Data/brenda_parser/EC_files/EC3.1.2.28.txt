@@ -1,0 +1,6 @@
+KCAT	Escherichia coli	0.13	1,4-dihydroxy-2-naphthoyl-CoA	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	6.2	1,4-dihydroxy-2-naphthoyl-CoA	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	12.6	3,5-dihydroxybenzoyl-CoA	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	14.8	1-hydroxy-2-naphthoyl-CoA	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	23.2	3,4-dihydroxybenzoyl-CoA	*pH 7.0, 25&deg;C
+KCAT	Escherichia coli	93	salicylyl-CoA	*pH 7.0, 25&deg;C

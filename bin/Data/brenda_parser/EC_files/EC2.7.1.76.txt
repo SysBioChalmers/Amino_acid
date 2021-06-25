@@ -1,0 +1,19 @@
+KCAT	Mycoplasma mycoides	0.84	ATP	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Mycoplasma mycoides	0.62	CTP	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Mycoplasma mycoides	0.36	UTP	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Dictyostelium discoideum	0.0081	thymidine	*
+KCAT	Dictyostelium discoideum	8.1	thymidine	*
+KCAT	Staphylococcus aureus	1.82	2'-deoxyadenosine	*pH 8.0
+KCAT	Dictyostelium discoideum	3.7	2'-deoxyadenosine	*
+KCAT	Bacillus cereus	0.55	deoxycytidine	*in 50 mM Tris/HCl, pH 8.0, 10 mM dithiothreitol, 2.5 mM ATP, 2.5 mM MgCl2, 3 mg/ml of bovine serum albumin and 0.5 mM CHAPS
+KCAT	Mycoplasma mycoides	1.23	deoxycytidine	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Staphylococcus aureus	0.56	2'-deoxycytidine	*pH 8.0
+KCAT	Mycoplasma mycoides	1.64	TTP	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Bacillus cereus	1.22	deoxyadenosine	*in 50 mM Tris/HCl, pH 8.0, 10 mM dithiothreitol, 2.5 mM ATP, 2.5 mM MgCl2, 3 mg/ml of bovine serum albumin and 0.5 mM CHAPS
+KCAT	Mycoplasma mycoides	1.48	deoxyadenosine	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Dictyostelium discoideum	3.7	deoxyadenosine	*
+KCAT	Mycoplasma mycoides	0.61	deoxyguanosine	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Bacillus cereus	0.17	gemcitabine	*in 50 mM Tris/HCl, pH 8.0, 10 mM dithiothreitol, 2.5 mM ATP, 2.5 mM MgCl2, 3 mg/ml of bovine serum albumin and 0.5 mM CHAPS
+KCAT	Staphylococcus aureus	0.19	2',2'-difluorodeoxycytidine	*pH 8.0
+KCAT	Dictyostelium discoideum	3.3	fludarabine	*
+KCAT	Dictyostelium discoideum	3.3	2'-fluoro-arabinosyl adenine	*

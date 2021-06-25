@@ -1,0 +1,1 @@
+ecNumber*1.5.8.3#turnoverNumber*0.065#turnoverNumberMaximum*#substrate*sarcosine#commentary*#organism*Rattus norvegicus#ligandStructureId*594#literature*392496#

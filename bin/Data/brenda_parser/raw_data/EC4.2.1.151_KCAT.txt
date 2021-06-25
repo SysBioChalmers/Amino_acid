@@ -1,0 +1,1 @@
+ecNumber*4.2.1.151#turnoverNumber*1.27#turnoverNumberMaximum*#substrate*chorismate#commentary*pH and temperature not specified in the publication#organism*Thermus thermophilus#ligandStructureId*204#literature*725210#

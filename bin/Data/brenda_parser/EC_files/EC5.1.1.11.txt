@@ -1,0 +1,2 @@
+KCAT	Brevibacillus brevis	0.25	L-Phe	*mutant A-PCP(delta-4Cys)
+KCAT	Brevibacillus brevis	0.38	L-Phe	*

@@ -1,0 +1,1 @@
+KCAT	Gluconacetobacter diazotrophicus	22000	acetic acid	*cosubstrate ferricyandie, pH 3.5, 30&Acirc;&deg;C

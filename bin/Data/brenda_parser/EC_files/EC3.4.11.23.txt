@@ -1,0 +1,4 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*substrate specificity, overview
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	866	Glu-Leu	*37&deg;C, pH 8.5
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	918	Leu-Leu	*37&deg;C, pH 8.5
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	950	Asp-Leu-Gly	*37&deg;C, pH 8.5

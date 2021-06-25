@@ -1,0 +1,19 @@
+KCAT	Aspergillus terreus	0.067	dimethylallyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus sp.	0.42	dimethylallyl diphosphate	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.489	dimethylallyl diphosphate	*37&Acirc;&deg;C, pH 7.5
+KCAT	Aspergillus versicolor	0.49	dimethylallyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.276	brevianamide F	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus sp.	0.32	brevianamide F	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.032	cyclo-L-Trp-Gly	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.15	cyclo-L-Trp-D-Pro	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.095	cyclo-D-Trp-D-Pro	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.027	cyclo-D-Trp-L-Pro	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.035	cyclo-L-Trp-L-Ala	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.013	cyclo-L-Trp-D-Ala	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.011	cyclo-D-Trp-D-Ala	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.003	cyclo-D-Trp-L-Ala	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.014	cyclo-L-Trp-L-Leu	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.004	cyclo-L-Trp-L-Phe	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus versicolor	0.006	cyclo-L-Trp-L-Tyr	*37&Acirc;&deg;C, pH 7.5; pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus terreus	0.125	(S)-benzodiazepinedione	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Aspergillus terreus	0.012	cyclo-L-Tyr-L-Tyr	*pH 7.5, 37&Acirc;&deg;C

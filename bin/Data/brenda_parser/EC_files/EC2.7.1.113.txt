@@ -1,0 +1,18 @@
+KCAT	Dictyostelium discoideum	0.0047	deoxyadenosine	*
+KCAT	Homo sapiens	0.007	1-(2-deoxy-beta-D-ribofuranosyl)-7-iodoisocarbostyril	*pH 7.6, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	0.025	dioxolane guanosine	*recombinant enzyme, pH 7.6, 37&deg;C
+KCAT	Homo sapiens	0.03	2'-deoxyguanosine	*recombinant enzyme, pH 7.6, 37&deg;C
+KCAT	Homo sapiens	0.07	2'-deoxyguanosine	*pH 7.6, 37&deg;C, recombinant enzyme
+KCAT	Bacillus subtilis	1.41	2'deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with UTP as donor substrate
+KCAT	Bacillus subtilis	1.41	deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate UTP
+KCAT	Bacillus subtilis	1.41	UTP	*pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KCAT	Bacillus subtilis	1.53	2'deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with ATP as donor substrate
+KCAT	Bacillus subtilis	1.53	ATP	*pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KCAT	Bacillus subtilis	1.53	deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate ATP
+KCAT	Bacillus subtilis	1.69	2'deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with GTP as donor substrate
+KCAT	Bacillus subtilis	1.69	deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate GTP
+KCAT	Bacillus subtilis	1.69	GTP	*pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KCAT	Bacillus subtilis	2.25	2'deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with CTP as donor substrate
+KCAT	Bacillus subtilis	2.25	CTP	*pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KCAT	Bacillus subtilis	2.25	deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate CTP
+KCAT	Dictyostelium discoideum	3	deoxyguanosine	*

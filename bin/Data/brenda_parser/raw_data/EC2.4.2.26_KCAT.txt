@@ -1,0 +1,1 @@
+ecNumber*2.4.2.26#turnoverNumber*0.0363#turnoverNumberMaximum*#substrate*biotin-NH-QEEEGSGGGQKK(5-fluorescein)-CONH2#commentary*XylT-I or XylT-II#organism*Homo sapiens#ligandStructureId*14214#literature*702029#

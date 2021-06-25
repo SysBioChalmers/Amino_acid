@@ -1,0 +1,1 @@
+ecNumber*1.5.99.5#turnoverNumber*0.7#turnoverNumberMaximum*#substrate*N-Methyl-L-glutamate#commentary*#organism*Aminobacter aminovorans#ligandStructureId*3829#literature*437746#

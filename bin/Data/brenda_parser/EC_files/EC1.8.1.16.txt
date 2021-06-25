@@ -1,0 +1,4 @@
+KCAT	Marichromatium gracile	0.14	NADPH	*pH 7.1, 25&deg;C
+KCAT	Marichromatium gracile	146	glutathione disulfide	*pH 7.1, 25&deg;C
+KCAT	Marichromatium gracile	186.8	NADH	*pH 7.1, 25&deg;C
+KCAT	Marichromatium gracile	249.7	glutathione amide disulfide	*pH 7.1, 25&deg;C

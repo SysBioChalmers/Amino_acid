@@ -1,0 +1,1 @@
+ecNumber*3.5.1.36#turnoverNumber*0.0178#turnoverNumberMaximum*#substrate*alpha-ketoglutarate#commentary*turnover number based on the molecular weight of 90000#organism*Pseudomonas sp.#ligandStructureId*820#literature*209087#

@@ -1,0 +1,1 @@
+ecNumber*4.2.3.138#turnoverNumber*0.04#turnoverNumberMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH 7.4, 30&deg;C; pH 7.5, 30&deg;C#organism*Phyla dulcis#ligandStructureId*81#literature*718701#

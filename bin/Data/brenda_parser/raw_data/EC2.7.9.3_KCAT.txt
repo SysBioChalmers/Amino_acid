@@ -1,0 +1,1 @@
+ecNumber*2.7.9.3#turnoverNumber*0.0058#turnoverNumberMaximum*#substrate*ATP#commentary*pH 7.0, temperature not specified in the publication, recombinant His6-tagged enzyme mutant Sephs2-U60C#organism*Homo sapiens#ligandStructureId*4#literature*737876#

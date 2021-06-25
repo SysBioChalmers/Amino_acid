@@ -1,0 +1,1 @@
+ecNumber*3.7.1.7#turnoverNumber*0.16#turnoverNumberMaximum*#substrate*bicyclo[2.2.2]octane-2,6-dione#commentary*#organism*Nostoc sp. PCC 7120 = FACHB-418#ligandStructureId*25579#literature*685112#

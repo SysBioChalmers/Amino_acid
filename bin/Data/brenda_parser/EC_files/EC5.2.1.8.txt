@@ -1,0 +1,30 @@
+KCAT	Homo sapiens	1480	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	*
+KCAT	Legionella pneumophila	1820	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	*
+KCAT	Homo sapiens	14600	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	*
+KCAT	Homo sapiens	3.7	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	*mutant C113S, 0&Acirc;&deg;C, pH 7.5
+KCAT	Homo sapiens	11	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	*mutant K63A, 0&Acirc;&deg;C, pH 7.5
+KCAT	Homo sapiens	18	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	*mutant R68A/R69A, 0&Acirc;&deg;C, pH 7.5
+KCAT	Homo sapiens	29	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	*mutant C113D, 0&Acirc;&deg;C, pH 7.5
+KCAT	Homo sapiens	140	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	*wild-type, 0&Acirc;&deg;C, pH 7.5
+KCAT	Oryctolagus cuniculus	0.006	succinyl-Ala-Ala-(cis)-Pro-Lys-4-methylcoumarin-7-amide	*20&Acirc;&deg;C, pH 7.4, mutant DELTA208-213
+KCAT	Oryctolagus cuniculus	0.008	succinyl-Ala-Ala-(cis)-Pro-Lys-4-methylcoumarin-7-amide	*20&Acirc;&deg;C, pH 7.4, mutant DELTA208-213, presence of 1 mM MgATP
+KCAT	Saccharomyces cerevisiae	0.011	succinyl-Ala-Ala-(cis)-Pro-Lys-4-methylcoumarin-7-amide	*20&Acirc;&deg;C, pH 7.4, mutant D205G of Ypa1
+KCAT	Saccharomyces cerevisiae	0.016	succinyl-Ala-Ala-(cis)-Pro-Lys-4-methylcoumarin-7-amide	*20&Acirc;&deg;C, pH 7.4, mutant D205G of Ypa1, presence of 1 mM MgATP
+KCAT	Oryctolagus cuniculus	0.03	succinyl-Ala-Ala-(cis)-Pro-Lys-4-methylcoumarin-7-amide	*20&Acirc;&deg;C, pH 7.4, wild-type
+KCAT	Saccharomyces cerevisiae	0.03	succinyl-Ala-Ala-(cis)-Pro-Lys-4-methylcoumarin-7-amide	*20&Acirc;&deg;C, pH 7.4, wild-type Ypa2
+KCAT	Saccharomyces cerevisiae	0.05	succinyl-Ala-Ala-(cis)-Pro-Lys-4-methylcoumarin-7-amide	*20&Acirc;&deg;C, pH 7.4, wild-type Ypa2, presence of 1 mM MgATP
+KCAT	Oryctolagus cuniculus	0.1	succinyl-Ala-Ala-(cis)-Pro-Lys-4-methylcoumarin-7-amide	*20&Acirc;&deg;C, pH 7.4, wild-type, presence of 1 mM MgATP
+KCAT	Legionella pneumophila	1060	succinyl-Ala-Lys-Pro-Phe 4-nitroanilide	*
+KCAT	Saccharomyces cerevisiae	0.02	succinyl-Ala-Ala-(cis)-Pro-Phe 4-methylcoumarin 7-amide	*20&Acirc;&deg;C, pH 7.4, wild-type Ypa1
+KCAT	Oryctolagus cuniculus	0.03	succinyl-Ala-Ala-(cis)-Pro-Phe 4-methylcoumarin 7-amide	*20&Acirc;&deg;C, pH 7.4, wild-type
+KCAT	Saccharomyces cerevisiae	0.07	succinyl-Ala-Ala-(cis)-Pro-Phe 4-methylcoumarin 7-amide	*20&Acirc;&deg;C, pH 7.4, wild-type Ypa1, presence of 1 mM MgATP
+KCAT	Oryctolagus cuniculus	0.19	succinyl-Ala-Ala-(cis)-Pro-Phe 4-methylcoumarin 7-amide	*20&Acirc;&deg;C, pH 7.4, wild-type, presence of 1 mM MgATP
+KCAT	Corynebacterium glutamicum	58	N-succinyl-Ala-Leu-(cis)-Pro-Phe-4-nitroanilide	*pH 7.5, temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.036	N-succinyl-Ala-Ala-(cis)-Pro-Phe-4-nitroanilide	*pH 8.0, 15&Acirc;&deg;C
+KCAT	Homo sapiens	34.2	N-succinyl-Ala-Ala-(cis)-Pro-Phe-4-nitroanilide	*pH 8.0, 8.5&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	172	N-succinyl-Ala-Ala-(cis)-Pro-Phe-4-nitroanilide	*pH 7.5, temperature not specified in the publication
+KCAT	Thermus thermophilus	70000	TRYWNAKMK-(cis)-PFIFGA	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Gallus gallus	-999	more	*
+KCAT	Mycobacterium tuberculosis	-999	more	*ratio of kcat/Km-value is 2,000,000 per M and s
+KCAT	Neisseria gonorrhoeae	-999	more	*ratio of kcat/Km-value is 410000 per M and s
+KCAT	Mycoplasma genitalium	0.45	RNase T1	*disulfide-reduced and S-carboxymethylated form of a variant of Rnase T1 with Ser54Gly and Pro55Asn

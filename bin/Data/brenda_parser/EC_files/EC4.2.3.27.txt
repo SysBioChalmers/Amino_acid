@@ -1,0 +1,6 @@
+KCAT	Populus tremula x Populus alba	-999	more	*turnover values ranging from 3.7 to 5.1 mmol isoprene mol-1 ISPS under darkness, long-day conditions, i.e. 16 h light, 8 h dark, and continuous light conditions
+KCAT	Populus alba	0.011	dimethylallyl diphosphate	*at pH 7.8 and 37&deg;C
+KCAT	Metrosideros polymorpha	0.35	dimethylallyl diphosphate	*at pH 6.0 and 50&deg;C
+KCAT	Ipomoea batatas	0.37	dimethylallyl diphosphate	*at pH 7.8 and 37&deg;C
+KCAT	Populus tremuloides	1.7	dimethylallyl diphosphate	*
+KCAT	Populus trichocarpa	1.9	dimethylallyl diphosphate	*

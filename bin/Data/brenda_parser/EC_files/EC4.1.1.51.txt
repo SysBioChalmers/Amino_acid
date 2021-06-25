@@ -1,0 +1,1 @@
+KCAT	Mesorhizobium loti	0.6	3-hydroxy-2-methylpyridine-4,5-dicarboxylate	*in 100 mM Tris-HCl at pH 8.0 containing 100 mM NaCl and 2 mM dithiothreitol

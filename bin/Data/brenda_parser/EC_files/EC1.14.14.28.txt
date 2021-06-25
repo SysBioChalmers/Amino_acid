@@ -1,0 +1,9 @@
+KCAT	Geobacillus thermodenitrificans	0.02	hexadecane	*pH 7.5, 60&deg;C, wild-type enzyme
+KCAT	Geobacillus thermodenitrificans	0.043	hexadecane	*pH 7.5, 60&deg;C, mutant enzyme F146E/N376I
+KCAT	Geobacillus thermodenitrificans	0.045	hexadecane	*pH 7.5, 60&deg;C, mutant enzyme A102D
+KCAT	Geobacillus thermodenitrificans	0.047	hexadecane	*pH 7.5, 60&deg;C, mutant enzyme A102E; pH 7.5, 60&deg;C, mutant enzyme L320A
+KCAT	Geobacillus thermodenitrificans	0.05	hexadecane	*pH 7.5, 60&deg;C, mutant enzyme F146Q/N376I
+KCAT	Geobacillus thermodenitrificans	0.053	hexadecane	*pH 7.5, 60&deg;C, mutant enzyme L320V
+KCAT	Geobacillus thermodenitrificans	0.055	hexadecane	*pH 7.5, 60&deg;C, mutant enzyme F146R/N376I
+KCAT	Geobacillus thermodenitrificans	0.063	hexadecane	*pH 7.5, 60&deg;C, mutant enzyme F146C/N376I
+KCAT	Geobacillus thermodenitrificans	0.073	hexadecane	*pH 7.5, 60&deg;C, mutant enzyme F146N/N376I

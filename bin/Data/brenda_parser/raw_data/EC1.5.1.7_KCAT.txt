@@ -1,0 +1,1 @@
+ecNumber*1.5.1.7#turnoverNumber*18.8#turnoverNumberMaximum*#substrate*NADH#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*8#literature*396553#

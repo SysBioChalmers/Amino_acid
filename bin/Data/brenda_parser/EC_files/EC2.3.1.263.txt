@@ -1,0 +1,2 @@
+KCAT	Acetoanaerobium sticklandii	3.4	2-Amino-4-oxopentanoate	*pH 8.0, in presence of 0.04 mM pyridoxal 5'-phosphate
+KCAT	Acetoanaerobium sticklandii	3.5	CoA	*pH 8.0, in presence of 0.04 mM pyridoxal 5'-phosphate

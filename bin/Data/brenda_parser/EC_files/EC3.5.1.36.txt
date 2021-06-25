@@ -1,0 +1,1 @@
+KCAT	Pseudomonas sp.	0.0178	alpha-ketoglutarate	*turnover number based on the molecular weight of 90000

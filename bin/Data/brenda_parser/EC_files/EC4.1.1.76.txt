@@ -1,0 +1,94 @@
+KCAT	Bordetella bronchiseptica	0.02	2-phenylmalonate	*mutant enzyme G74C/C188S, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	0.022	2-aryl-2-methylmalonate	*mutant enzyme G74C/V43A, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	0.05	2-phenylmalonate	*mutant enzyme G74C/C188G, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	0.05	alpha-methyl-alpha-(beta-naphthyl)malonate	*mutant enzyme S71C/C188S, in 1 M Tris-HCl buffer pH 8.5, at 37&deg;C
+KCAT	Bordetella bronchiseptica	0.063	2-aryl-2-methylmalonate	*mutant enzyme G74C/M159L, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	0.08	alpha-methyl-alpha-(alpha-thienyl)malonate	*mutant enzyme S71C/C188S, in 1 M Tris-HCl buffer pH 8.5, at 37&deg;C
+KCAT	Pyrococcus horikoshii	0.09	Phenylmalonate	*
+KCAT	Bordetella bronchiseptica	0.12	alpha-methyl-alpha-(beta-naphthyl)malonate	*mutant enzyme G74C/C188S, in 1 M Tris-HCl buffer (pH 8.5), at 35&deg;C
+KCAT	Bordetella bronchiseptica	0.12	alpha-methyl-alpha-(beta-naphthyl)malonate	*mutant enzyme G74C/S188S, in 1 M Tris-HCl buffer pH 8.5, at 37&deg;C
+KCAT	Bordetella bronchiseptica	0.12	methyl(2-naphthyl)malonic acid	*mutant enzyme G74C/C188S
+KCAT	Alkaliphilus metalliredigens QYMF	0.26	Phenylmalonate	*
+KCAT	Bordetella bronchiseptica	0.27	2-aryl-2-methylmalonate	*mutant enzyme G74C, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	0.34	alpha-methyl-alpha-(alpha-thienyl)malonate	*mutant enzyme G74C/C188S, in 1 M Tris-HCl buffer (pH 8.5), at 35&deg;C
+KCAT	Bordetella bronchiseptica	0.34	alpha-methyl-alpha-(alpha-thienyl)malonate	*mutant enzyme G74C/C188S, in 1 M Tris-HCl buffer pH 8.5, at 37&deg;C
+KCAT	Bordetella bronchiseptica	0.34	methyl(2-thienyl)malonic acid	*mutant enzyme G74C/C188S
+KCAT	Bordetella bronchiseptica	0.44	2-phenylmalonate	*mutant enzyme Y48F/G74C/C188G, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	0.5	methyl(2-naphthyl)malonic acid	*mutant enzyme G74C
+KCAT	Bordetella bronchiseptica	0.62	alpha-phenylmalonate	*mutant enzyme Cys188Ser
+KCAT	Bordetella bronchiseptica	0.79	methyl(2-thienyl)malonic acid	*mutant enzyme G74C
+KCAT	Bordetella bronchiseptica	1.14	alpha-methyl-alpha-(beta-naphthyl)malonate	*mutant enzyme S36N/G74C/C188S, in 1 M Tris-HCl buffer (pH 8.5), at 35&deg;C
+KCAT	Bordetella bronchiseptica	1.63	methyl(2-thienyl)malonic acid	*mutant enzyme C188S
+KCAT	Bordetella bronchiseptica	2.54	methyl(2-naphthyl)malonic acid	*mutant enzyme C188S
+KCAT	Bordetella bronchiseptica	3.09	alpha-methyl-alpha-(alpha-thienyl)malonate	*mutant enzyme S36N/G74C/C188S, in 1 M Tris-HCl buffer (pH 8.5), at 35&deg;C
+KCAT	Bordetella bronchiseptica	3.3	2-phenylmalonate	*mutant enzyme G74C/M159L/C188G, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	3.7	alpha-methyl-alpha-(beta-naphthyl)malonate	*mutant enzyme S36N, in 1 M Tris-HCl buffer (pH 8.5), at 35&deg;C
+KCAT	Bordetella bronchiseptica	5.2	methyl(2-methylprop-1-en-1-yl)propanedioic acid	*wild type enzyme
+KCAT	Bordetella bronchiseptica	11	2-phenylmalonate	*mutant enzyme Y48F/G74C/M159L/C188G, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	12.4	(4,5-dimethylfuran-2-yl)(hydroxy)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	12.4	Phenylmalonate	*
+KCAT	Bordetella bronchiseptica	18.9	alpha-methyl-alpha-(alpha-thienyl)malonate	*mutant enzyme S36N, in 1 M Tris-HCl buffer (pH 8.5), at 35&deg;C
+KCAT	Bordetella bronchiseptica	20.7	hydroxy(2-methylprop-1-en-1-yl)propanedioic acid	*wild type enzyme
+KCAT	Bordetella bronchiseptica	20.8	2-vinyl-2-methylmalonic acid	*mutant enzyme G190A
+KCAT	Bordetella bronchiseptica	23.4	2-hydroxy-2-phenylmalonic acid	*mutant enzyme M159C
+KCAT	Bordetella bronchiseptica	23.9	(1E)-but-1-en-1-yl(methyl)propanedioic acid	*wild type enzyme
+KCAT	Bordetella bronchiseptica	29.8	alpha-methyl-alpha-phenylmalonate	*
+KCAT	Bordetella bronchiseptica	30.5	hydroxy(5-methoxyfuran-2-yl)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	30.9	alpha-methyl-alpha-(beta-naphthyl)malonate	*wild type enzyme, in 1 M Tris-HCl buffer (pH 8.5), at 35&deg;C
+KCAT	Bordetella bronchiseptica	30.9	alpha-methyl-alpha-(beta-naphthyl)malonate	*wild type enzyme, in 1 M Tris-HCl buffer pH 8.5, at 37&deg;C
+KCAT	Bordetella bronchiseptica	31	methyl(2-naphthyl)malonic acid	*wild-type enzyme
+KCAT	Bordetella bronchiseptica	34	hydroxy(thiophen-2-yl)propanedioic acid	*mutant P14V/P15G, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	37.1	hydroxy(5-methylfuran-2-yl)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	42.2	hydroxy(pyridin-3-yl)propanedioic acid	*mutant P14V/P15G, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	42.4	hydroxy(4-methylfuran-2-yl)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	42.8	2-vinyl-2-methylmalonic acid	*wild type enzyme
+KCAT	Bordetella bronchiseptica	46.2	methyl[(1E)-prop-1-en-1-yl]propanedioic acid	*wild type enzyme
+KCAT	Bordetella bronchiseptica	47.6	hydroxy[(1E)-prop-1-en-1-yl]propanedioic acid	*wild type enzyme
+KCAT	Bordetella bronchiseptica	54.8	(1-benzothiophen-5-yl)(hydroxy)propanedioic acid	*mutant M159V, pH not specified in the publication, temperature not specified in the publication
+KCAT	Chelativorans sp. BNC1	55.8	2-methyl-2-phenylmalonate	*
+KCAT	Bordetella bronchiseptica	61.9	(furan-2-yl)(hydroxy)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	62.3	alpha-phenylmalonate	*mutant enzyme Cys171Ser
+KCAT	Bordetella bronchiseptica	68.5	(1-benzothiophen-5-yl)(hydroxy)propanedioic acid	*mutant P14V/P15G, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	79.3	hydroxy(thiophen-2-yl)propanedioic acid	*mutant M159V, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	86.4	hydroxy(pyridin-3-yl)propanedioic acid	*mutant M159V, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	92	p-Methoxyphenylmalonate	*
+KCAT	Bordetella bronchiseptica	94.4	2-hydroxy-2-phenylmalonic acid	*mutant enzyme G190S/P14V/P15G
+KCAT	Bordetella bronchiseptica	99.8	2-hydroxy-2-phenylmalonic acid	*mutant enzyme P14V/P15G
+KCAT	Bordetella bronchiseptica	100	alpha-phenylmalonate	*mutant enzyme Cys148Ser
+KCAT	Bordetella bronchiseptica	101	2-hydroxy-2-phenylmalonic acid	*wild type enzyme
+KCAT	Bordetella bronchiseptica	101	hydroxy(phenyl)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Chelativorans sp. BNC1	118	Phenylmalonate	*
+KCAT	Bordetella bronchiseptica	125	p-methylphenylmalonate	*
+KCAT	Bordetella bronchiseptica	147.7	(1-benzothiophen-5-yl)(hydroxy)propanedioic acid	*wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	147.7	(1-benzothiophen-6-yl)(hydroxy)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	165.9	hydroxy(thiophen-2-yl)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication; wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	195	p-Fluorophenylmalonate	*
+KCAT	Bordetella bronchiseptica	200	alpha-Methyl-alpha(2-thienyl)malonate	*
+KCAT	Bordetella bronchiseptica	200	alpha-methyl-alpha-(alpha-thienyl)malonate	*wild type enzyme, in 1 M Tris-HCl buffer (pH 8.5), at 35&deg;C
+KCAT	Bordetella bronchiseptica	200	alpha-methyl-alpha-(alpha-thienyl)malonate	*wild type enzyme, in 1 M Tris-HCl buffer pH 8.5, at 37&deg;C
+KCAT	Bordetella bronchiseptica	200	methyl(2-thienyl)malonic acid	*wild-type enzyme
+KCAT	Bordetella bronchiseptica	224.8	hydroxy(pyridin-3-yl)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication; wild-type, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	246	Phenylmalonate	*mutant enzyme M159G
+KCAT	Bordetella bronchiseptica	248	alpha-phenylmalonate	*mutant enzyme Cys101Ser
+KCAT	Bordetella bronchiseptica	260	2-phenylmalonate	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	277.9	(1-benzofuran-2-yl)(hydroxy)propanedioic acid	*wild type enzyme, pH and temperature not specified in the publication
+KCAT	Bordetella bronchiseptica	279	2-methyl-2-phenylmalonate	*
+KCAT	Bordetella bronchiseptica	279	methyl(phenyl)propanedioic acid	*wild type enzyme
+KCAT	Bordetella bronchiseptica	316	2-phenyl-2-methylmalonate	*wild type enzyme, in MOPS buffer (5-10 mM, pH 7.2)
+KCAT	Bordetella bronchiseptica	316	Phenylmalonate	*
+KCAT	Bordetella bronchiseptica	316	Phenylmalonate	*wild type enzyme
+KCAT	Bordetella bronchiseptica	353	Phenylmalonate	*
+KCAT	Bordetella bronchiseptica	358	2-phenyl-2-methylmalonate	*ybbR-tagged AMDase, in Tris buffer (0.1 M, pH 8)
+KCAT	Bordetella bronchiseptica	366	alpha-phenylmalonate	*wild-type enzyme
+KCAT	Bordetella bronchiseptica	386	Phenylmalonate	*mutant enzyme M159S
+KCAT	Bordetella bronchiseptica	450	Phenylmalonate	*mutant enzyme M159V
+KCAT	Bordetella bronchiseptica	489	Phenylmalonate	*mutant enzyme M159C
+KCAT	Bordetella bronchiseptica	576	1-Naphthylmalonate	*
+KCAT	Bordetella bronchiseptica	666	o-Fluorophenylmalonate	*
+KCAT	Bordetella bronchiseptica	782	p-Chlorophenylmalonate	*
+KCAT	Bordetella bronchiseptica	1090	o-Chlorophenylmalonate	*
+KCAT	Bordetella bronchiseptica	1143	Phenylmalonate	*mutant enzyme P14V/P15G
+KCAT	Bordetella bronchiseptica	1420	m-Chlorophenylmalonate	*
+KCAT	Bordetella bronchiseptica	1730	2-Naphthylmalonate	*
+KCAT	Bordetella bronchiseptica	2180	m-Fluorophenylmalonate	*
+KCAT	Bordetella bronchiseptica	5320	2-Thienylmalonate	*

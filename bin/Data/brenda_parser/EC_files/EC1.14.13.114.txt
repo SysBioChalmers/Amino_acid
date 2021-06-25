@@ -1,0 +1,4 @@
+KCAT	Pseudomonas putida	2.2	6-Hydroxynicotinate	*pH 7.5, 25&deg;C
+KCAT	Pseudomonas putida	2.2	NADH	*pH 7.5, 25&deg;C
+KCAT	Bordetella bronchiseptica	4.2	6-Hydroxynicotinate	*pH 7.5, 25&deg;C
+KCAT	Bordetella bronchiseptica	4.2	NADH	*pH 7.5, 25&deg;C

@@ -1,0 +1,1 @@
+KCAT	Rhizobium leguminosarum	13.91	galactitol	*pH 9.5, 35&deg;C

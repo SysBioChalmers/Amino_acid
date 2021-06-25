@@ -1,0 +1,3 @@
+KCAT	Pseudomonas aeruginosa	-999	more	*catalytic efficiency kcat/KM 24.1 mM/s for pyruvate and 2.8 mM/s for arginine
+KCAT	Pseudomonas aeruginosa	38.6	L-arginine	*calculated, pH 9.0, 37&deg;C, coupled reaction with NAD+ and L-alanine dehydrogenase; pH 9.0, 37&deg;C
+KCAT	Pseudomonas aeruginosa	38.6	pyruvate	*calculated, pH 9.0, 37&deg;C, coupled reaction with NAD+ and L-alanine dehydrogenase

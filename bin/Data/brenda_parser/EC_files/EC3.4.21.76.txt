@@ -1,0 +1,51 @@
+KCAT	Homo sapiens	13.8	Suc-Ala-Ala-Pro-Ala-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	0.59	MeOSuc-AAPV-4-nitroanilide	*52 mM NaCl, 0.5% Triton X-100 (w/v), 10% dimethylformamide (v/v), pH 8.0
+KCAT	Mus musculus	6.2	MeOSuc-AAPV-4-nitroanilide	*52 mM NaCl, 0.5% Triton X-100 (w/v), 10% dimethylformamide (v/v), pH 8.0
+KCAT	Homo sapiens	0.37	Suc-AAPV-4-nitroanilide	*52 mM NaCl, 0.5% Triton X-100 (w/v), 10% dimethylformamide (v/v), pH 8.0
+KCAT	Mus musculus	11.2	Suc-AAPV-4-nitroanilide	*52 mM NaCl, 0.5% Triton X-100 (w/v), 10% dimethylformamide (v/v), pH 8.0
+KCAT	Homo sapiens	0.26	MeOSuc-AIPM-4-nitroanilide	*52 mM NaCl, 0.5% Triton X-100 (w/v), 10% dimethylformamide (v/v), pH 8.0
+KCAT	Mus musculus	7.2	MeOSuc-AIPM-4-nitroanilide	*52 mM NaCl, 0.5% Triton X-100 (w/v), 10% dimethylformamide (v/v), pH 8.0
+KCAT	Homo sapiens	2	Suc-Leu-Val-Glu-Ala-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	22.2	Suc-Leu-Val-Glu-Ala-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	660	MeOSuc-Lys(2-picolinoyl)-Tyr-Asp-Val-p-nitroanilide	*H 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	192	MeOSuc-Lys(2-picolinoyl)-Tyr-Asp-Ala-p-nitroanilide	*H 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	138	MeOSuc-Lys(2-picolinoyl)-Ala-Pro-Val-p-nitroanilide	*H 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	3	Suc-Ala-Tyr-Leu-Val-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	30	Suc-Ala-Ala-Pro-2-aminobutyric acid-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	30	MeOSuc-Ala-Ala-Pro-Val-p-nitroanilide	*pH 7.4,25&Acirc;&deg;C
+KCAT	Homo sapiens	5.4	Suc-Ala-Ala-Pro-Nva-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	12	Suc-Ala-Ala-Pro-Val-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	84	Suc-Ala-Ala-Asp-Val-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	16.2	Suc-Ala-Ala-Pro-Ile-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	60	Suc-Ala-Ala-Glu-Val-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	18	Boc-Ala-Ala-Pro-Ala-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	13.2	Ac-Ala-Ala-Pro-Ala-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Homo sapiens	60	Ac-Ala-Ala-Pro-Val-p-nitroanilide	*pH 7.4, 25&Acirc;&deg;C
+KCAT	Mus musculus	0.031	Suc-AAA-4-nitroanilide	*52 mM NaCl, 0.5% Triton X-100 (w/v), 10% dimethylformamide (v/v), pH 8.0
+KCAT	Mus musculus	0.16	Suc-AAPL-4-nitroanilide	*52 mM NaCl, 0.5% Triton X-100 (w/v), 10% dimethylformamide (v/v), pH 8.0
+KCAT	Homo sapiens	5.9	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzamide)	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.2	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Gly-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.1	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Ala-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	4.7	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Val-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.8	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Ile-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	2	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Leu-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Phe-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.6	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Tyr-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.3	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Trp-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.1	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-His-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.5	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Lys-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.6	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Arg-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	3.3	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Glu-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	6.4	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Gln-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	4.8	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Asp-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	5.3	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Asn-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	5.1	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Ser-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	2.8	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Thr-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	1.1	Abz-Tyr-Tyr-Abu-(5-amino-2-nitrobenzoyl)-Pro-NH2	*in 0.1 M Tris-HCl buffer, pH 7.5, with 500 mM NaCl at 25&Acirc;&deg;C
+KCAT	Homo sapiens	19	Succinyl-Ala-Ala-norvaline thiobenzyl ester	*
+KCAT	Homo sapiens	10.1	tert-butyloxycarbonyl-Ala-Ala-Ala thiobenzyl ester	*
+KCAT	Homo sapiens	1.9	tert-butyloxycarbonyl-Ala-Ala-Ile thiobenzyl ester	*
+KCAT	Homo sapiens	12.2	tert-butyloxycarbonyl-Ala-Ala-Met thiobenzyl ester	*
+KCAT	Homo sapiens	63.3	tert-butyloxycarbonyl-Ala-Ala-norvaline thiobenzyl ester	*
+KCAT	Homo sapiens	10.4	tert-butyloxycarbonyl-Ala-Ala-Val thiobenzyl ester	*
+KCAT	Homo sapiens	-999	more	*turnover numbers of peptidyl thiobenzyl esters

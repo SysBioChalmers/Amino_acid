@@ -1,0 +1,17 @@
+KCAT	Escherichia coli	0.001	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme S110G
+KCAT	Escherichia coli	0.0029	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme H263A
+KCAT	Escherichia coli	0.0054	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme S110A
+KCAT	Escherichia coli	0.016	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme D235A, approximate value from activity of the cell extract
+KCAT	Escherichia coli	0.08	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme N109H
+KCAT	Escherichia coli	0.1	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme R188Q
+KCAT	Escherichia coli	0.13	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme N109A
+KCAT	Escherichia coli	0.26	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme F173D
+KCAT	Escherichia coli	0.74	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme R188K
+KCAT	Escherichia coli	2	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;, wild-type enzyme
+KCAT	Escherichia coli	2	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	2.7	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme W264G
+KCAT	Escherichia coli	2.9	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme S40A
+KCAT	Escherichia coli	4.5	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme H114A
+KCAT	Escherichia coli	7.5	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme F173G
+KCAT	Escherichia coli	12	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	*pH 8.0, 25&Acirc;&deg;C, mutant enzyme C261A
+KCAT	Escherichia coli	0.036	2-hydroxy-6-keto-6-phenylhexa-2,4-dienoic acid	*pH 8.0, 25&Acirc;&deg;C

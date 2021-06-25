@@ -1,0 +1,1 @@
+ecNumber*4.2.1.39#turnoverNumber*760#turnoverNumberMaximum*#substrate*D-gluconate#commentary*#organism*Saccharolobus solfataricus#ligandStructureId*698#literature*663955#
