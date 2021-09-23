@@ -23,7 +23,7 @@ tmp3 = linspace(minclr(3),maxclr(3),129)';
 clrmap = [tmp1 tmp2 tmp3];
 h = heatmap(xlbl,ylbl,rhodata,'Colormap',clrmap,...
     'ColorMethod','count','CellLabelColor','k');
-title('Correlations between amino acid relative abundances');
+title('Correlation of AA relative abundances between conditions');
 set(h,'FontSize',6,'FontName','Helvetica');
 h.FontColor = 'k';
 set(gcf,'position',[820 320 360 360]);
