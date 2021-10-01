@@ -30,7 +30,7 @@ set(gcf,'position',[820 320 360 360]);
 set(gca,'position',[0.25 0.2 0.5 0.5]);
 
 figure();
-box on;
+% box on;
 [RHO,~] = corr(YeastAA.AAcontent(:,end)*100,YeastAA.AAcontent(:,1)*100,'Type','Pearson');
 text(YeastAA.AAcontent(:,end)*100,YeastAA.AAcontent(:,1)*100,YeastAA.AAlist,'VerticalAlignment','middle','HorizontalAlignment','center','FontSize',6,'FontName','Helvetica');
 xlim([0 10]);
@@ -67,7 +67,7 @@ clr_prot = [178,24,43]/255;
 
 figure();
 subplot(1,3,2);
-box on;
+% box on;
 [RHO1,PVAL1] = corr(cost_gluc,log(YeastAA.AAcontent_avg*100),'Type','Pearson');
 text(cost_gluc,log(YeastAA.AAcontent_avg*100),AA,'VerticalAlignment','middle','HorizontalAlignment','center','FontSize',6,'FontName','Helvetica','Color',clr_gluc);
 xlim([0 2.5]);ylim([-0.5 2.5]);
@@ -79,7 +79,7 @@ ylabel('ln(% abundance)','FontSize',7,'FontName','Helvetica');
 xlabel('Glucose cost','FontSize',7,'FontName','Helvetica');
 
 subplot(1,3,3);
-box on;
+% box on;
 [RHO2,PVAL2] = corr(cost_prot,log(YeastAA.AAcontent_avg*100),'Type','Pearson');
 text(cost_prot,log(YeastAA.AAcontent_avg*100),AA,'VerticalAlignment','middle','HorizontalAlignment','center','FontSize',6,'FontName','Helvetica','Color',clr_prot);
 xlim([0 0.25]);ylim([-0.5 2.5]);
@@ -91,7 +91,7 @@ ylabel('ln(% abundance)','FontSize',7,'FontName','Helvetica');
 xlabel('Protein cost (kmax)','FontSize',7,'FontName','Helvetica');
 
 subplot(1,3,1);
-box on;
+% box on;
 [RHO3,PVAL3] = corr(E_cost,log(YeastAA.AAcontent_avg*100),'Type','Pearson');
 text(E_cost,log(YeastAA.AAcontent_avg*100),AA,'VerticalAlignment','middle','HorizontalAlignment','center','FontSize',6,'FontName','Helvetica','Color','k');
 xlim([0 90]);ylim([-0.5 2.5]);
@@ -117,8 +117,8 @@ for i = 1:length(file)
     condID = strrep(filename,'cost_kapp_','');
     condID = strrep(condID,'.mat','');
     AA_tmp = YeastAA.AAcontent(:,ismember(YeastAA.condition,condID));
-    [RHO1,PVAL1] = corr(log(AA_tmp),cost_kapp.cost_gluc,'Type','Pearson');
-    [RHO2,PVAL2] = corr(log(AA_tmp),cost_kapp.cost_prot,'Type','Pearson');
+    [RHO1,PVAL1] = corr(log(AA_tmp*100),cost_kapp.cost_gluc,'Type','Pearson');
+    [RHO2,PVAL2] = corr(log(AA_tmp*100),cost_kapp.cost_prot,'Type','Pearson');
     condition = [condition;{condID}];
     rho = [rho;[RHO1 RHO2]];
     pval = [pval;[PVAL1 PVAL2]];

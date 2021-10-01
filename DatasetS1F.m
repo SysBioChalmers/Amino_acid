@@ -1,28 +1,30 @@
 load('YeastAA.mat');
-AA = YeastAA.AAlist;
-
-[~,txt,~] = xlsread(strcat('UniProt_Yeast.xlsx')); 
-seq_data.gene = txt(2:end,1);
-seq_data.seq = txt(2:end,2);
-data = zeros(length(AA),length(seq_data.gene));
-rhodata = zeros(1,length(seq_data.gene));
-pdata = zeros(1,length(seq_data.gene));
-for i = 1:length(seq_data.gene)
-    display([num2str(i) '/' num2str(length(seq_data.gene))]);
-    seq = seq_data.seq{i};
-    AAcount = zeros(length(AA),1);
-    for j = 1:length(AA)
-        AAcount(j,1) = length(strfind(seq,AA{j}));
+n = size(YeastAA.AAcontent,2);
+rhodata = zeros(n,n);
+pdata = zeros(n,n);
+for i = 1:n
+    idata = YeastAA.AAcontent(:,i);
+    for j = 1:n
+        jdata = YeastAA.AAcontent(:,j);
+        [RHOtmp,PVALtmp] = corr(idata,jdata,'Type','Pearson');
+        rhodata(i,j) = RHOtmp;
+        pdata(i,j) = PVALtmp;
     end
-    data(:,i) = AAcount/sum(AAcount);
-    [RHOtmp,PVALtmp] = corr(YeastAA.AAcontent_avg,AAcount/sum(AAcount),'Type','Pearson');
-    rhodata(i) = RHOtmp;
-    pdata(i) = PVALtmp;
 end
 
-proteinlist = seq_data.gene;
-rholist = rhodata';
-plist = pdata';
-
-
-adjplist = mafdr(plist,'BHFDR', true);
+figure();
+xlbl = num2cell(1:1:n);
+ylbl = num2cell(1:1:n);
+minclr = [255,237,160]/255;
+maxclr = [240,59,32]/255;
+tmp1 = linspace(minclr(1),maxclr(1),129)';
+tmp2 = linspace(minclr(2),maxclr(2),129)';
+tmp3 = linspace(minclr(3),maxclr(3),129)';
+clrmap = [tmp1 tmp2 tmp3];
+h = heatmap(xlbl,ylbl,rhodata,'Colormap',clrmap,...
+    'ColorMethod','count','CellLabelColor','k');
+title('Correlation of AA relative abundances between conditions');
+set(h,'FontSize',6,'FontName','Helvetica');
+h.FontColor = 'k';
+set(gcf,'position',[820 320 360 360]);
+set(gca,'position',[0.25 0.2 0.5 0.5]);
