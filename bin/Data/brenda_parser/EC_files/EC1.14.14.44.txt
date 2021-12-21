@@ -1,6 +1,0 @@
-KCAT	Prunus mume	0.028	indole-3-acetaldoxime	*pH 7.6, 30&deg;C
-KCAT	Prunus mume	0.1	indole-3-acetonitrile	*pH 7.6, 30&deg;C
-KCAT	Prunus mume	0.4	phenylacetonitrile	*pH 7.6, 30&deg;C
-KCAT	Prunus mume	0.57	4-Hydroxyphenylacetonitrile	*pH 7.6, 30&deg;C
-KCAT	Prunus mume	0.62	4-hydroxyphenylacetaldoxime	*pH 7.6, 30&deg;C
-KCAT	Prunus mume	0.77	(E)-phenylacetaldehyde oxime	*pH 7.6, 30&deg;C

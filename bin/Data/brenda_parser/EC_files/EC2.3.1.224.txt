@@ -1,4 +1,0 @@
-KCAT	Salvia splendens	0.55	malonyl-CoA	*native enzyme, at pH 7.0 and 30&Acirc;&deg;C
-KCAT	Salvia splendens	0.76	malonyl-CoA	*recombinant enzyme, at pH 7.0 and 30&Acirc;&deg;C
-KCAT	Salvia splendens	0.55	monodemalonylsalvianin	*native enzyme, at pH 7.0 and 30&Acirc;&deg;C
-KCAT	Salvia splendens	0.76	monodemalonylsalvianin	*recombinant enzyme, at pH 7.0 and 30&Acirc;&deg;C

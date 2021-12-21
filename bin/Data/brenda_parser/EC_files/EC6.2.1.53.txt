@@ -1,2 +1,0 @@
-KCAT	Streptomyces coelicolor	2.8	L-proline	*pH 7.5, 25&deg;C
-KCAT	Pseudomonas fluorescens	5.5	L-proline	*pH 7.5, 25&deg;C

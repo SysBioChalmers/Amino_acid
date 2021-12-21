@@ -1,3 +1,0 @@
-KCAT	Bacillus sp. (in: Bacteria)	10.8	cyclo[(-&gt;6)-alpha-D-Glc-(1-&gt;3)-alpha-D-Glc-(1-&gt;6)-alpha-D-Glc-(-&gt;3)-alpha-D-Glc-(1-&gt;)]	*pH 7.0, 37&deg;C
-KCAT	Bacillus sp. (in: Bacteria)	14.4	panose	*pH 7.0, 37&deg;C
-KCAT	Kribbella flavida	22.3	cyclobis-(-&gt;6)-alpha-nigerosyl	*pH 8.0, 35&deg;C

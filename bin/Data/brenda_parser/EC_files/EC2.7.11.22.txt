@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	0.28	ATP	*in 20 mM MOPS (pH 7.5), at 30&deg;C
-KCAT	Saccharomyces cerevisiae	1.7	Fin1	*pH 7.4, Cdk1-as1/cyclin 5B
-KCAT	Saccharomyces cerevisiae	1.9	ADAQHATPPKKKRKVEDPKDF	*pH 7.4, Cdk1-as1/cyclin 5B
-KCAT	Saccharomyces cerevisiae	3.15	ADAQHATPPKKKRKVEDPKDF	*pH 7.4, Cdk1-as1/cyclin 2B

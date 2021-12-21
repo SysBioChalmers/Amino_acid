@@ -1,3 +1,0 @@
-KCAT	Bos taurus	-999	more	*ATP: 2.2 mol of phosphate bound/min, GTP: 0.12 mol of phosphate bound/min
-KCAT	Homo sapiens	1	rhodopsin	*recombinant wild-type GRK7, pH 7.0, 30&deg;C
-KCAT	Homo sapiens	1.2	rhodopsin	*recombinant wild-type GRK1, pH 7.0, 30&deg;C

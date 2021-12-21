@@ -1,7 +1,0 @@
-KCAT	Clostridioides difficile	19	Dabcyl-Lys-EVNPPPPD-EdansGlu	*pH 7.4, 3&Acirc;&deg;C
-KCAT	Clostridioides difficile	0.87	Abz-DVVNPAVPPSKDD-CONH2	*wild type enzyme, at pH 7.5 and 20&Acirc;&deg;C
-KCAT	Clostridioides difficile	1.17	Abz-DVVNPPVPPSKDD-CONH2	*mutant enzyme E184A, at pH 7.5 and 20&Acirc;&deg;C
-KCAT	Clostridioides difficile	1.26	Abz-DVVNAPVPPSKDD-CONH2	*wild type enzyme, at pH 7.5 and 20&Acirc;&deg;C
-KCAT	Paenibacillus alvei	2	YPSSKPLPPVPPVQPLPPVPKLETS	*recombinant enzyme PPEP-2GGST, where residues 112-115 of the wild type enzyme (SERV) are replaced by residues 91-94 of Pro-Pro endopeptidase-1 (GGST), at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Clostridioides difficile	4.3	Abz-DVVNPPVPPSKDD-CONH2	*wild type enzyme, at pH 7.5 and 20&Acirc;&deg;C
-KCAT	Paenibacillus alvei	8	YPSSKPLPPVPPVQPLPPVPKLETS	*wild type enzyme PPEP-2, at pH 7.0 and 37&Acirc;&deg;C

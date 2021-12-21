@@ -1,2 +1,0 @@
-KCAT	Halobacterium salinarum	28.3	FAD	*
-KCAT	Halobacterium salinarum	54	bis-gamma-glutamylcystine	*pH 6.7, temperature not specified in the publication

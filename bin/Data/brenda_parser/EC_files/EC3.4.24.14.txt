@@ -1,2 +1,0 @@
-KCAT	Bos taurus	0.08	procollagen I	*
-KCAT	Gallus gallus	0.0967	procollagen I	*

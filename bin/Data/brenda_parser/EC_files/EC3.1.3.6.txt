@@ -1,8 +1,0 @@
-KCAT	Escherichia coli	0.05	Polyphosphate	*+/- 0.005
-KCAT	Escherichia coli	3.55	p-nitrophenyl phosphate	*+/- 0.16
-KCAT	Escherichia coli	4.9	5'-AMP	*+/- 0.3
-KCAT	Escherichia coli	5.93	3'-CMP	*+/- 0.44
-KCAT	Escherichia coli	8.04	5'-dGMP	*+/- 0.39
-KCAT	Escherichia coli	9.84	3'-AMP	*+/- 0.37
-KCAT	Escherichia coli	11	5'-GMP	*+/- 0.87
-KCAT	Escherichia coli	176	3'-AMP	*at pH 7.5 and 37&deg;C

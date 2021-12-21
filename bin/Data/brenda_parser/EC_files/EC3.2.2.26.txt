@@ -1,7 +1,0 @@
-KCAT	Campylobacter jejuni subsp. jejuni	0.3	adenosine	*at pH 7.4 and 25&Acirc;&deg;C
-KCAT	Campylobacter jejuni subsp. jejuni	0.8	5'-methylthioadenosine	*at pH 7.4 and 25&Acirc;&deg;C
-KCAT	Campylobacter jejuni subsp. jejuni	0.92	5'-deoxyadenosine	*at pH 7.4 and 25&Acirc;&deg;C
-KCAT	Campylobacter jejuni subsp. jejuni	0.27	6-amino-6-deoxyfutalosine	*at pH 7.4 and 25&Acirc;&deg;C
-KCAT	Campylobacter jejuni	0.53	6-amino-6-deoxyfutalosine	*at pH 7.0 and 25&Acirc;&deg;C
-KCAT	Thermus thermophilus	1.02	futalosine	*pH 4.5, 80&Acirc;&deg;C
-KCAT	Campylobacter jejuni subsp. jejuni	0.55	S-5'-adenosyl-L-homocysteine	*at pH 7.4 and 25&Acirc;&deg;C

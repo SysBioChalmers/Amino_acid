@@ -1,6 +1,0 @@
-KCAT	Salmonella enterica	0.016	dTDP-6-deoxy-D-xylo-4-hexulose	*RmlC Y133F
-KCAT	Salmonella enterica	0.095	dTDP-6-deoxy-D-xylo-4-hexulose	*RmlC K73A
-KCAT	Salmonella enterica	39	dTDP-6-deoxy-D-xylo-4-hexulose	*pH 7.0, 25&Acirc;&deg;C
-KCAT	Salmonella enterica	39	dTDP-6-deoxy-D-xylo-4-hexulose	*native
-KCAT	Streptococcus suis	-999	more	*
-KCAT	Salmonella enterica	-999	more	*no activity with dTDP-6-deoxy-D-xylo-4-hexulose (RmlC H63A)

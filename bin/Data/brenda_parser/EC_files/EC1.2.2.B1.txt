@@ -1,2 +1,0 @@
-KCAT	Methylococcus capsulatus	266	cytochrome b559/569	*20&deg;C, pH 7.4
-KCAT	Methylococcus capsulatus	290	dichloroindophenol	*20&deg;C, pH 7.4

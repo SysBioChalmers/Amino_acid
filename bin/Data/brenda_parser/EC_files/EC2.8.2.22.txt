@@ -1,3 +1,0 @@
-KCAT	Streptomyces sp.	0.14	4-nitrophenyl sulfate	*at pH 6.7, temperature not specified in the publication
-KCAT	Streptomyces sp.	0.15	methylumbelliferone sulfate	*at pH 6.7, temperature not specified in the publication
-KCAT	Escherichia coli	48.6	phenol	*at pH 8.0, at 25&deg;C

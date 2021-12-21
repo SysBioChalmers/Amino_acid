@@ -1,4 +1,0 @@
-KCAT	Pseudomonas aeruginosa	2	4-Guanidinobutyrate	*pH 7.9, 30&deg;C, mutant Y157M unmethylated GpuA
-KCAT	Pseudomonas aeruginosa	48.8	3-guanidinopropionate	*pH 7.9, 30&deg;C, mutant Y157M unmethylated GpuA
-KCAT	Pseudomonas aeruginosa	57.6	4-Guanidinobutyrate	*pH 7.9, 30&deg;C, wild-type unmethylated GpuA
-KCAT	Pseudomonas aeruginosa	106	3-guanidinopropionate	*pH 7.9, 30&deg;C, wild-type unmethylated GpuA

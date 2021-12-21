@@ -1,3 +1,0 @@
-KCAT	Methanocaldococcus jannaschii	0.2	deamido-NAD+	*pH 7.5, 37&deg;C
-KCAT	Francisella tularensis	0.25	deamido-NAD+	*
-KCAT	Francisella tularensis	0.5	deamido-NMN	*

@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	5.17	myosin light chain	*23-25&Acirc;&deg;C, pH 7.5
-KCAT	Oryctolagus cuniculus	16	myosin light chain	*25&Acirc;&deg;C, pH 7.6, isolated
-KCAT	Oryctolagus cuniculus	19	myosin light chain	*25&Acirc;&deg;C, pH 7.6, bound to myosin
-KCAT	Oryctolagus cuniculus	88	myosin light chain	*25&Acirc;&deg;C, pH 7.6, isolated, freshly prepared
-KCAT	Gallus gallus	-999	more	*steady-state kinetics: comparison of smooth muscle myosin II and non-muscle myosin IIB as substrates, overview. MLCK has an about 2fold higher kcat for both smooth muscle myosin II substrates compared with non-muscle myosin IIB substrates, whereas Km values are very similar
-KCAT	Gallus gallus	8	[non-muscle heavy meromyosin IIB]	*pH 7.6, 25&Acirc;&deg;C
-KCAT	Gallus gallus	12.6	[non-muscle regulatory light chain]	*pH 7.6, 25&Acirc;&deg;C
-KCAT	Gallus gallus	12.8	[smooth muscle heavy meromyosin]	*pH 7.6, 25&Acirc;&deg;C
-KCAT	Gallus gallus	28.6	[smooth muscle regulatory light chain]	*pH 7.6, 25&Acirc;&deg;C

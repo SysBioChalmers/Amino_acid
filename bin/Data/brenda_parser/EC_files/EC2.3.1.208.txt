@@ -1,3 +1,0 @@
-KCAT	Sorbus aucuparia	0.0045	2-hydroxybenzoyl-CoA	*pH 6.5-7.0, 35&deg;C, BIS1
-KCAT	Sorbus aucuparia	0.029	2-hydroxybenzoyl-CoA	*pH 6.5-7.0, 35&deg;C, BIS2
-KCAT	Sorbus aucuparia	0.037	2-hydroxybenzoyl-CoA	*pH 6.5-7.0, 35&deg;C, BIS3

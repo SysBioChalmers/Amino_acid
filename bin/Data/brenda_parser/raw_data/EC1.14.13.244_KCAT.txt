@@ -1,1 +1,0 @@
-ecNumber*1.14.13.244#turnoverNumber*0.286#turnoverNumberMaximum*#substrate*phenol#commentary*25&deg;C, pH not specified in the publication#organism*Pseudomonas stutzeri#ligandStructureId*249#literature*749646#

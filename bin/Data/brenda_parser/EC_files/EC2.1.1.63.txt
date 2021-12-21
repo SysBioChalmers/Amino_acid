@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	-999	more	*second order repair rate constants of 6-O-methyl and 6-O-ethylguanine containing substrates
-KCAT	Homo sapiens	-999	more	*second order repair rate constants of 6-O-methyl and 6-O-ethylguanine containing substrates
-KCAT	Rattus norvegicus	-999	more	*second order repair rate constants of 6-O-methyl and 6-O-ethylguanine containing substrates
-KCAT	Saccharolobus solfataricus	8.4	SNAP-Vista Green	*pH 6.5, 50&deg;C

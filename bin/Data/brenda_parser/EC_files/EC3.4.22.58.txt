@@ -1,1 +1,0 @@
-KCAT	Homo sapiens	2.3	acetyl-WEHD-7-amido-4-methylcoumarin	*pH 7-5-8.0

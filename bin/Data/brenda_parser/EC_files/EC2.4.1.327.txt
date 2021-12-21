@@ -1,3 +1,0 @@
-KCAT	Streptomyces galilaeus	0.035	rhodosaminyl aklavinone	*with TDP-L-daunosamine as cosubstrate, in 75 mM Tris (pH 7.5), 12 mM MgCl2, at 25&deg;C
-KCAT	Streptomyces galilaeus	0.09	idarubicin	*in 75 mM Tris (pH 7.5), 12 mM MgCl2, at 25&deg;C
-KCAT	Streptomyces galilaeus	1.09	rhodosaminyl aklavinone	*with TDP-L-2-deoxyfucose as cosubstrate, in 75 mM Tris (pH 7.5), 12 mM MgCl2, at 25&deg;C

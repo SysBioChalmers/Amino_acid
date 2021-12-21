@@ -1,9 +1,0 @@
-KCAT	Escherichia coli	0.003	ATP	*pH 7.5, 37&deg;C, mutant enzyme T214A
-KCAT	Escherichia coli	0.008	ATP	*pH 7.5, 37&deg;C, mutant enzyme G216A; pH 7.5, 37&deg;C, mutant enzyme K222A; pH 7.5, 37&deg;C, mutant enzyme T217A
-KCAT	Escherichia coli	0.017	ATP	*pH 7.5, 37&deg;C, mutant enzyme G219A
-KCAT	Escherichia coli	0.029	ATP	*pH 7.5, 37&deg;C, wild-type enzyme
-KCAT	Photinus pyralis	0.278	lauric acid	*
-KCAT	Trypanosoma brucei	0.5	tetradecanoate	*enzyme TbACS1
-KCAT	Luciola cruciata	0.651	lauric acid	*
-KCAT	Trypanosoma brucei	1.1	tetradecanoate	*enzyme TbACS3
-KCAT	Trypanosoma brucei	1.2	tetradecanoate	*enzyme TbACS4

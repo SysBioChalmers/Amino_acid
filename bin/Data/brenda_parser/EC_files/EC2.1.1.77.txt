@@ -1,2 +1,0 @@
-KCAT	Cyberlindnera jadinii	203.9	S-adenosyl-L-methionine	*at pH 7.0 and 30&deg;C
-KCAT	Cyberlindnera jadinii	233.3	delta sleep inducing peptide L-isoaspartate	*at pH 7.0 and 30&deg;C

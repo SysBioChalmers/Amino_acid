@@ -1,2 +1,0 @@
-KCAT	Amycolatopsis mediterranei	0.0029	malonyl-CoA	*pH 7.5, 24&Acirc;&deg;C, mutant enzyme C160S
-KCAT	Amycolatopsis mediterranei	0.0135	malonyl-CoA	*pH 7.5, 24&Acirc;&deg;C, wild-type enzyme

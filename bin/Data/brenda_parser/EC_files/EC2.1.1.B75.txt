@@ -1,4 +1,0 @@
-KCAT	Populus sp.	0.064	kaempferol	*pH 7.5, 37&deg;C, recombinant mutant POMT7-M1
-KCAT	Populus sp.	0.064	quercetin	*pH 7.5, 37&deg;C, recombinant wild-type POMT7
-KCAT	Populus sp.	0.07	quercetin	*pH 7.5, 37&deg;C, recombinant mutant POMT7-M1
-KCAT	Populus sp.	0.071	kaempferol	*pH 7.5, 37&deg;C, recombinant wild-type POMT7

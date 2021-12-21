@@ -1,7 +1,0 @@
-KCAT	Salinispora tropica CNB-440	0.015	S-adenosyl-L-methionine	*in 50 mM phosphate buffer (pH 7.9) at 37&Acirc;&deg;C
-KCAT	Salinispora tropica CNB-440	0.2	L-methionine	*in 50 mM phosphate buffer (pH 7.9) at 37&Acirc;&deg;C
-KCAT	Salinispora tropica CNB-440	0.015	chloride	*in 50 mM phosphate buffer (pH 7.9) at 37&Acirc;&deg;C
-KCAT	Salinispora tropica CNB-440	0.005	Iodide	*in 50 mM phosphate buffer (pH 7.9) at 37&Acirc;&deg;C
-KCAT	Salinispora tropica CNB-440	0.013	bromide	*in 50 mM phosphate buffer (pH 7.9) at 37&Acirc;&deg;C
-KCAT	Salinispora tropica CNB-440	0.2	5'-chloro-5'-deoxyadenosine	*in 50 mM phosphate buffer (pH 7.9) at 37&Acirc;&deg;C
-KCAT	Salinispora tropica CNB-440	0.83	5'-deoxy-5'-iodoadenosine	*in 50 mM phosphate buffer (pH 7.9) at 37&Acirc;&deg;C

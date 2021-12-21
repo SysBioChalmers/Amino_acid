@@ -1,2 +1,0 @@
-KCAT	Acremonium chrysogenum	0.0833	ATP	*
-KCAT	Acremonium chrysogenum	0.133	cysteine	*under saturating conditions

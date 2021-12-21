@@ -1,5 +1,0 @@
-KCAT	Streptomyces toxytricini	0.0085	kynurenine	*wild-type enzyme, pH and temperature not specified in the publication
-KCAT	Streptomyces toxytricini	0.0108	L-tryptophan	*wild-type enzyme, pH and temperature not specified in the publication
-KCAT	Streptomyces toxytricini	0.02	anthranilamide	*wild-type enzyme, pH and temperature not specified in the publication
-KCAT	Streptomyces toxytricini	0.0255	L-tryptophan	*pH 6.0, 28&deg;C
-KCAT	Streptomyces albogriseolus	0.047	L-tryptophan	*pH 7.2, 30&deg;C

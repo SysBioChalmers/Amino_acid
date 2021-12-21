@@ -1,2 +1,0 @@
-KCAT	Saccharopolyspora erythraea	0.049	acetyl-CoA	*pH 7.7, 37&Acirc;&deg;C
-KCAT	Saccharopolyspora erythraea	0.019	[AcsA]-L-Lys	*pH 7.7, 37&Acirc;&deg;C

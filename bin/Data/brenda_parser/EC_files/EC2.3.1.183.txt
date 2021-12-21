@@ -1,4 +1,0 @@
-KCAT	Rhodococcus sp.	0.5	L-methionine sulfoximine	*pH 8.0, 35&deg;C
-KCAT	Rhodococcus sp.	2.18	L-phosphinothricin	*pH 8.0, 35&deg;C
-KCAT	Pseudomonas aeruginosa	505	L-methionine sulfoximine	*apparent Kcat
-KCAT	Pseudomonas aeruginosa	610	L-methionine sulfone	*apparent Kcat

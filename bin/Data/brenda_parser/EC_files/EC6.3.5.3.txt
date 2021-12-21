@@ -1,2 +1,0 @@
-KCAT	Bacillus subtilis	-999	more	*
-KCAT	Escherichia coli	0.05	NH4+	*

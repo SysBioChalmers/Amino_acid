@@ -1,2 +1,0 @@
-KCAT	Bos taurus	3.3	histone	*
-KCAT	Oryctolagus cuniculus	5.2	phosphorylase a	*

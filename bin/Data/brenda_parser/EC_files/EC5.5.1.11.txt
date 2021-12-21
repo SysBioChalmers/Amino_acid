@@ -1,7 +1,0 @@
-KCAT	Cupriavidus necator	51.5	cis,cis-muconate	*
-KCAT	Cupriavidus necator	119	3-chloro-cis,cis-muconate	*
-KCAT	Cupriavidus necator	15.8	2-chloro-cis,cis-muconate	*
-KCAT	Cupriavidus necator	54.8	3-methyl-cis,cis-muconate	*
-KCAT	Cupriavidus necator	63.7	2,4-dichloro-cis,cis-muconate	*
-KCAT	Cupriavidus necator	10.2	2-methyl-cis,cis-muconate	*
-KCAT	Cupriavidus necator	-999	more	*kcat of 2-chloro-4-methyl-cis,cis-musconate is about 55% of that found for 2,4-dichloro-cis,cis-musconate

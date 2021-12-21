@@ -1,1 +1,0 @@
-KCAT	Phaseolus vulgaris	0.018	ureidoglycolate	*50 mM Tes, pH 7.8, 0.5 mM MnSO4, 3 mM phenylhydrazine

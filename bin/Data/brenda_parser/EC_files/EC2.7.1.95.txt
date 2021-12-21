@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	0.11	ATP	*pH 7.5, 37&deg;C, isoenzyme APH3'-IIIa
-KCAT	Enterococcus casseliflavus	1.59	ATP	*pH 7.5, 37&deg;C
-KCAT	Escherichia coli	1.76	ATP	*pH 7.5, 37&deg;C, isoenzyme APH3'-IIIa
-KCAT	Escherichia coli	1.79	kanamycin A	*pH 7.5, 37&deg;C, isoenzyme APH3'-IIIa

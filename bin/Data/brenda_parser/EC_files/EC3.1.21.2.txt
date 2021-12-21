@@ -1,6 +1,0 @@
-KCAT	Escherichia virus T4	-999	more	*effects of dC-flanking sequences of the substrate on kinetic parameters of Endo IV
-KCAT	Mycobacterium tuberculosis	-999	more	*comparison of kinetic parameters of AP endonucleases from Escherichia coli and Mycobacterium tuberculosis; comparison of kinetic parameters of AP endonucleases from Escherichia coli and Mycobacterium tuberculosis
-KCAT	Escherichia coli	0.0003	21-mer C Grec	*mutant H69A, pH 7.6, 37&deg;C, in presence of Zn2+
-KCAT	Escherichia coli	0.0088	21-mer C Grec	*mutant G149D, pH 7.6, 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.0193	5'-end-labeled 29 nucleotide double-stranded DNA	*at pH 8.0 and 37&deg;C
-KCAT	Escherichia coli	0.28	21-mer C Grec	*wild-type enzyme, pH 7.6, 37&deg;C

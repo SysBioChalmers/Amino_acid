@@ -1,6 +1,0 @@
-KCAT	Helicobacter pylori	0.028	UDP-N-acetylglucosamine	*pH 7.0, 37&deg;C, mutant Y141M
-KCAT	Helicobacter pylori	0.065	UDP-N-acetylglucosamine	*pH 10.0, 37&deg;C, mutant Y141M
-KCAT	Helicobacter pylori	0.077	UDP-N-acetylglucosamine	*pH 7.0, 37&deg;C, mutant H86A
-KCAT	Helicobacter pylori	0.095	UDP-N-acetylglucosamine	*pH 7.0, 37&deg;C, wild-type enzyme
-KCAT	Helicobacter pylori	0.16	UDP-N-acetylglucosamine	*pH 7.0, 37&deg;C, mutant V266E
-KCAT	Pseudomonas aeruginosa	2.8	UDP-N-acetylglucosamine	*pH 10.0, 30&deg;C, recombinant soluble truncated WbpM mutant His-S262

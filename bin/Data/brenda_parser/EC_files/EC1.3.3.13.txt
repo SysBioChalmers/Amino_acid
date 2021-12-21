@@ -1,2 +1,0 @@
-KCAT	Streptomyces noursei	0.453	cyclo(L-Phe-L-His)	*in 100 mM Tris/HCl buffer, pH 8.0, at 30&deg;C
-KCAT	Streptomyces noursei	0.69	cyclo(L-Leu-L-Phe)	*in 100 mM Tris/HCl buffer, pH 8.0, at 30&deg;C

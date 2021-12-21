@@ -1,9 +1,0 @@
-KCAT	Clostridioides difficile	0.12	UDP-N-acetyl-alpha-D-glucosamine	*mutant I383S, pH 7.5, 37&deg;C
-KCAT	Clostridioides difficile	0.14	UDP-N-acetyl-alpha-D-glucosamine	*mutant Q385A, pH 7.5, 37&deg;C
-KCAT	Clostridium novyi	0.39	UDP-alpha-D-glucose	*mutant S385/A387Q, pH 7.5, 37&deg;C
-KCAT	Paeniclostridium sordellii	0.39	UDP-alpha-D-glucose	*mutant S385/A387Q, pH 7.5, 37&deg;C
-KCAT	Clostridioides difficile	0.42	UDP-alpha-D-glucose	*mutant I383S/Q385A, pH 7.5, 37&deg;C
-KCAT	Clostridioides difficile	0.45	UDP-alpha-D-glucose	*mutant Q385A, pH 7.5, 37&deg;C
-KCAT	Clostridioides difficile	0.5	UDP-alpha-D-glucose	*mutant I383S, pH 7.5, 37&deg;C
-KCAT	Clostridioides difficile	0.59	UDP-alpha-D-glucose	*wild-type, pH 7.5, 37&deg;C
-KCAT	Clostridioides difficile	0.66	UDP-N-acetyl-alpha-D-glucosamine	*mutant I383S/Q385A, pH 7.5, 37&deg;C

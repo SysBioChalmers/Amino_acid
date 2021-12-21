@@ -1,6 +1,0 @@
-KCAT	Drosophila melanogaster	0.045	P-selectin glycoprotein ligand-1	*using glutathione S-transferase-tagged P-selectin glycoprotein ligand-1 as cosubstrate, in 50 mM MES buffer (pH 6.5), 5 mM 2-mercaptoethanol, at 37&deg;C
-KCAT	Homo sapiens	0.054	[Y+3 peptide]-L-tyrosine	*isoform TPST1, at pH 7.5 and 25&deg;C
-KCAT	Drosophila melanogaster	0.058	3'-phosphoadenylyl sulfate	*using glutathione S-transferase-tagged P-selectin glycoprotein ligand-1 as cosubstrate, in 50 mM MES buffer (pH 6.5), 5 mM 2-mercaptoethanol, at 37&deg;C
-KCAT	Homo sapiens	0.065	[Y+3 peptide]-L-tyrosine	*isoform TPST2, at pH 7.5 and 25&deg;C
-KCAT	Drosophila melanogaster	0.1	P-selectin glycoprotein ligand-1	*using P-selectin glycoprotein ligand-1 as cosubstrate, in 50 mM MES buffer (pH 6.5), 5 mM 2-mercaptoethanol, at 37&deg;C
-KCAT	Drosophila melanogaster	0.11	3'-phosphoadenylyl sulfate	*using P-selectin glycoprotein ligand-1 as cosubstrate, in 50 mM MES buffer (pH 6.5), 5 mM 2-mercaptoethanol, at 37&deg;C

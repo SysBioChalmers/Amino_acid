@@ -1,6 +1,0 @@
-KCAT	Fervidobacterium nodosum	0.0006	(2R,5S)-2,5-diaminopentanoate	*at pH 8.5 and 55&deg;C
-KCAT	Acetoanaerobium sticklandii	5	NADP+	*
-KCAT	Acetoanaerobium sticklandii	34	NAD+	*
-KCAT	Fervidobacterium nodosum	57	NADP+	*at pH 8.5 and 55&deg;C
-KCAT	Fervidobacterium nodosum	65	(2R,4S)-2,4-diaminopentanoate	*at pH 8.5 and 55&deg;C
-KCAT	Fervidobacterium nodosum	65	NAD+	*at pH 8.5 and 55&deg;C

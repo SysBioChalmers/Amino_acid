@@ -1,1 +1,0 @@
-KCAT	Thermotoga maritima	1	1D-chiro-inositol	*pH 8.8, 60&deg;C

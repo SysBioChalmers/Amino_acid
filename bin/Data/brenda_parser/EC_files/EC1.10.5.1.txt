@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	2.6	NADH	*
-KCAT	Homo sapiens	46.67	2,6-dichlorophenolindophenol	*
-KCAT	Homo sapiens	91.8	2,6-dichlorophenolindophenol	*chimeric enzyme of the human NQO2 with 43 amino acids from the carboxyl terminus of human DT-diaphorase
-KCAT	Homo sapiens	3.83	Methyl red	*
-KCAT	Homo sapiens	43.33	dihydronicotinamide riboside	*
-KCAT	Homo sapiens	6	5-(aziridin-1-yl)-2,4-dinitrobenzamide	*at 25&Acirc;&deg;C in pH 8.5 buffer (50 mM Tris, 140 mM NaCl, and 0.1% Tween 20) with 0.1 mM menadione as co-substrate
-KCAT	Homo sapiens	38.33	menadione/3-(4,5-dimethylthiazaol-2-yl)-2,5-diphenyltetrazolium	*
-KCAT	Homo sapiens	6	CB 1954	*
-KCAT	Homo sapiens	11	3-(4,5-dimethylthiazaol-2-yl)-2,5-diphenyltetrazolium	*

@@ -1,7 +1,0 @@
-KCAT	Agaricus bisporus	143	D-glucose	*
-KCAT	Agaricus bisporus	59	sucrose	*
-KCAT	Agaricus bisporus	145	D-galactose	*
-KCAT	Agaricus bisporus	200	D-xylose	*
-KCAT	Agaricus bisporus	239	L-arabinose	*
-KCAT	Agaricus bisporus	154	D-maltose	*
-KCAT	Agaricus bisporus	141	D-cellobiose	*

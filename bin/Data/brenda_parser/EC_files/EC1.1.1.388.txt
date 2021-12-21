@@ -1,2 +1,0 @@
-KCAT	Haloferax volcanii	0.18	NAD+	*pH 7.5, 42&Acirc;&deg;C
-KCAT	Haloferax volcanii	5.4	D-glucose 6-phosphate	*pH 7.5, 42&Acirc;&deg;C

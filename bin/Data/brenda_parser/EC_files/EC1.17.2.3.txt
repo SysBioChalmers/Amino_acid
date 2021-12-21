@@ -1,6 +1,0 @@
-KCAT	Desulfovibrio vulgaris	1.13	formate	*K62E,K63E mutant
-KCAT	Desulfovibrio vulgaris	1.85	formate	*
-KCAT	Desulfovibrio vulgaris	1.92	formate	*K62E mutant
-KCAT	Desulfovibrio desulfuricans	17.1	ferri-TpIc3	*pH 7.6, 37&deg;C
-KCAT	Desulfovibrio desulfuricans	27	ferri-Ssc	*pH 7.6, 37&deg;C
-KCAT	Desulfovibrio desulfuricans	239	Ferricytochrome c-553	*pH 7.6, 37&deg;C

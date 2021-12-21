@@ -1,2 +1,0 @@
-KCAT	Streptomyces kanamyceticus	0.053	UDP-alpha-D-glucose	*37&Acirc;&deg;C, pH not specified in the publication
-KCAT	Streptomyces kanamyceticus	0.056	UDP-alpha-D-kanosamine	*37&Acirc;&deg;C, pH not specified in the publication

@@ -1,5 +1,0 @@
-KCAT	Rhodopseudomonas palustris	46.8	L-glutamate	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Oryza sativa Japonica Group	144.9	L-glutamate	*cosubstrate glyoxylate, pH 7.6, 30&Acirc;&deg;C
-KCAT	Rhodopseudomonas palustris	48.2	glyoxylate	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Oryza sativa Japonica Group	132.9	L-alanine	*cosubstrate glyoxylate, pH 7.6, 30&Acirc;&deg;C
-KCAT	Oryza sativa Japonica Group	140.6	L-alanine	*cosubstrate 2-oxoglutarate, pH 7.6, 30&Acirc;&deg;C

@@ -1,2 +1,0 @@
-KCAT	Bacillus anthracis	0.152	ATP	*pH 7.5, temperature not specified in the publication
-KCAT	Bacillus anthracis	0.118	3,4-dihydroxybenzoate	*pH 7.5, temperature not specified in the publication

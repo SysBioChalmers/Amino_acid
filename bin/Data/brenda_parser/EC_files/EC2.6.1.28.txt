@@ -1,3 +1,0 @@
-KCAT	Aspergillus nidulans	0.0032	L-tryptophan	*pH 7.8
-KCAT	Aspergillus nidulans	9.1	phenylpyruvate	*pH 7.0, 48&deg;C
-KCAT	Aspergillus nidulans	19.3	L-tryptophan	*pH 7.0, 48&deg;C

@@ -1,9 +1,0 @@
-KCAT	Escherichia coli	1.6	dihydroxyacetone	*apparent value, mutant enzyme H56A, in 50 mM potassium phosphate pH 7.5, at 22&deg;C
-KCAT	Escherichia coli	2.8	dihydroxyacetone	*pH 7.5, 30&deg;C, DhaK-DhaL-DhaM complex; pH 7.5, 30&deg;C, DhaK-DhaL-DhaM complex; pH 7.5, 30&deg;C, DhaK-DhaL-DhaM complex
-KCAT	Escherichia coli	3.72	dihydroxyacetone	*apparent value, mutant enzyme H56N, in 50 mM potassium phosphate pH 7.5, at 22&deg;C
-KCAT	Escherichia coli	4.8	glycerone phosphate	*pH 7.5, 30&deg;C
-KCAT	Citrobacter freundii	5.17	D,L-glyceraldehyde	*pH 7.5, 30&deg;C
-KCAT	Escherichia coli	8.45	dihydroxyacetone	*apparent value, Km above 0.008 mM, wild type enzyme, in 50 mM potassium phosphate pH 7.5, at 22&deg;C
-KCAT	Citrobacter freundii	17.5	glycerone phosphate	*pH 7.5, 30&deg;C
-KCAT	Citrobacter freundii	24.02	ATP	*at pH 8.0 and 37&deg;C
-KCAT	Citrobacter freundii	24.13	dihydroxyacetone	*pH and temperature not specified in the publication

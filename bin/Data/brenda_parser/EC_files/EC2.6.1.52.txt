@@ -1,7 +1,0 @@
-KCAT	Synechocystis sp.	2.49	L-glutamate	*pH 9.0, 30&Acirc;&deg;C
-KCAT	Escherichia coli	1.33	3-phosphonooxypyruvate	*MalE/PdxC(SerC) fusion protein, pH 8.2, 37&Acirc;&deg;C
-KCAT	Escherichia coli	1.75	3-phosphonooxypyruvate	*PdxC(SerC) protein, pH 8.2, 37&Acirc;&deg;C
-KCAT	Escherichia coli	0.08	4-(phosphonooxy)-L-threonine	*MalE/PdxC(SerC) fusion protein, pH 8.2, 37&Acirc;&deg;C
-KCAT	Escherichia coli	0.15	4-(phosphonooxy)-L-threonine	*PdxC(SerC) protein, pH 8.2, 37&Acirc;&deg;C
-KCAT	Escherichia coli	0.39	3-O-phospho-L-serine	*PdxC(SerC) protein, pH 8.2, 37&Acirc;&deg;C
-KCAT	Escherichia coli	0.63	3-O-phospho-L-serine	*MalE/PdxC(SerC) fusion protein, pH 8.2, 37&Acirc;&deg;C

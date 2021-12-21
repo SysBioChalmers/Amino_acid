@@ -1,1 +1,0 @@
-ecNumber*2.8.3.8#turnoverNumber*290#turnoverNumberMaximum*#substrate*acetate#commentary*wild type enzyme, in 50 mM potassium phosphate (pH 8.0), 100 mM potassium chloride, at 30&Acirc;&deg;C#organism*Acetobacter aceti#ligandStructureId*47#literature*721675#

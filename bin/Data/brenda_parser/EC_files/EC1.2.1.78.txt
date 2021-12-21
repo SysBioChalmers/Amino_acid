@@ -1,3 +1,0 @@
-KCAT	Nocardioides sp.	32	NAD+	*pH 9.4, 25&deg;C
-KCAT	Nocardioides sp.	39	2-carboxybenzaldehyde	*pH 9.4, 25&deg;C
-KCAT	Nocardioides sp.	48	2-nitrobenzaldehyde	*pH 9.4, 25&deg;C

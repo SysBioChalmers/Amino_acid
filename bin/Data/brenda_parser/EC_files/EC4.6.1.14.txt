@@ -1,2 +1,0 @@
-KCAT	Trypanosoma brucei	0.65	Variant-surface-glycoprotein	*37&deg;C, deacylated enzyme
-KCAT	Trypanosoma brucei	19.8	Variant-surface-glycoprotein	*37&deg;C, acylated enzyme

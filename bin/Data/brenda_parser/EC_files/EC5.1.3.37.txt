@@ -1,2 +1,0 @@
-KCAT	Azotobacter vinelandii	14	[alginate]-beta-D-mannuronate	*pH 6.8, 37&Acirc;&deg;C
-KCAT	Pseudomonas aeruginosa	-999	more	*the maximum velocity of the reaction increases from 0.0018 per s to 0.0218 per s as the substrate size increases from 10 to 20 residues, and no additional increase in kcat is observed for substrates up to 100 residues in length, pH 7.3, temperature not specified in the publication

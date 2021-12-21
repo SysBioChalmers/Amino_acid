@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	0.0007	S-adenosyl-L-methionine	*pH 7.0, 37&Acirc;&deg;C
-KCAT	Escherichia coli	0.0013	uracil1498 in 16S rRNA	*pH 7.0, 37&Acirc;&deg;C, the Km-value for 16S rRNA is measured as a Km for the physiological substrate, 30S ribosomal subunit

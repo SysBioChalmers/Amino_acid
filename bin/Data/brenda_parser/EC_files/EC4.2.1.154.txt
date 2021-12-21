@@ -1,8 +1,0 @@
-KCAT	Streptomyces glaucescens	0.0146	tetracenomycin F2	*mutant enzyme R40G, at 30&Acirc;&deg;C in 0.1 M Tris-HCl, pH 7.5
-KCAT	Streptomyces glaucescens	0.0192	tetracenomycin F2	*mutant enzyme H26A, at 30&Acirc;&deg;C in 0.1 M Tris-HCl, pH 7.5
-KCAT	Streptomyces glaucescens	0.0198	tetracenomycin F2	*mutant enzymeD27N, at 30&Acirc;&deg;C in 0.1 M Tris-HCl, pH 7.5
-KCAT	Streptomyces glaucescens	0.0219	tetracenomycin F2	*mutant enzyme H51A, at 30&Acirc;&deg;C in 0.1 M Tris-HCl, pH 7.5
-KCAT	Streptomyces glaucescens	0.025	tetracenomycin F2	*mutant enzyme R40K, at 30&Acirc;&deg;C in 0.1 M Tris-HCl, pH 7.5
-KCAT	Streptomyces glaucescens	0.131	tetracenomycin F2	*mutant enzyme H26Q, at 30&Acirc;&deg;C in 0.1 M Tris-HCl, pH 7.5
-KCAT	Streptomyces glaucescens	0.136	tetracenomycin F2	*mutant enzyme H51Q, at 30&Acirc;&deg;C in 0.1 M Tris-HCl, pH 7.5
-KCAT	Streptomyces glaucescens	0.142	tetracenomycin F2	*wild type enzyme, at 30&Acirc;&deg;C in 0.1 M Tris-HCl, pH 7.5

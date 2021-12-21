@@ -1,3 +1,0 @@
-KCAT	Giardia intestinalis	43	Carbamate	*pH 7.5, 25&deg;C
-KCAT	Giardia intestinalis	319	ADP	*pH 7.5, 25&deg;C
-KCAT	Giardia intestinalis	319	Carbamoyl phosphate	*pH 7.5, 25&deg;C

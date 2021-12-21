@@ -1,5 +1,0 @@
-KCAT	Pyricularia oryzae	3	Scytalone	*mutant enzyme V75M with His-tag
-KCAT	Pyricularia oryzae	19.6	Scytalone	*pH 8.0, 25&Acirc;&deg;C, inhibitor-resistant enzyme
-KCAT	Pyricularia oryzae	38.2	Scytalone	*pH 8.0, 25&Acirc;&deg;C, inhibitor-sensitive enzyme
-KCAT	Pyricularia oryzae	41	Scytalone	*mutant enzyme V75M without His-tag
-KCAT	Pyricularia oryzae	70	Scytalone	*wild-type enzyme

@@ -1,6 +1,0 @@
-KCAT	Staphylococcus aureus	0.0017	thiamine	*in 100 mM Tris-HCl, pH 7.5, at 37&Acirc;&deg;C
-KCAT	Staphylococcus aureus	0.00407	thiamine	*wild type enzyme, at pH 7.5 and 37&Acirc;&deg;C
-KCAT	Staphylococcus aureus	0.0068	thiamine	*mutant enzyme D111A/K115A, at pH 7.5 and 37&Acirc;&deg;C
-KCAT	Aneurinibacillus aneurinilyticus	4.83	thiamine	*
-KCAT	Helicobacter pylori	0.001	4-amino-5-aminomethyl-2-methylpyrimidine	*mutant enzyme F47Y, in 30 mM Tris, 50 mM NaCl (pH 8.0), at 20&Acirc;&deg;C
-KCAT	Helicobacter pylori	0.003	4-amino-5-aminomethyl-2-methylpyrimidine	*wild type enzyme, in 30 mM Tris, 50 mM NaCl (pH 8.0), at 20&Acirc;&deg;C

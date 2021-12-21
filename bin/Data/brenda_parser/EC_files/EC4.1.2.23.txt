@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	7.3	L-arabinose	*in 50 mM Tris-HCl, pH 7.8, at 37&Acirc;&deg;C
-KCAT	Escherichia coli	1.1	N-acetyl-D-mannosamine	*in 50 mM Tris-HCl, pH 7.8, at 37&Acirc;&deg;C

@@ -1,4 +1,0 @@
-KCAT	Penicillium janthinellum	0.3	myoglobin	*Michaelis-Menten kinetics in the bulk solution
-KCAT	Penicillium janthinellum	0.3	myoglobin	*Michaelis-Menten kinetics in the bulk solution
-KCAT	Penicillium janthinellum	1.1	myoglobin	*transient kinetics CPP on the QCM
-KCAT	Penicillium janthinellum	1.1	myoglobin	*transient kinetics CPP on the QCM

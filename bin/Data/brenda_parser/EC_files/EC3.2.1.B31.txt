@@ -1,4 +1,0 @@
-KCAT	Pyrococcus furiosus	0.026	rutin	*pH 5.0, 09&deg;C, recombinant enzyme
-KCAT	Pyrococcus furiosus	0.027	rutin	*pH 5.0, 95&deg;C
-KCAT	Pyrococcus furiosus	0.22	quercitrin	*pH 5.0, 09&deg;C, recombinant enzyme
-KCAT	Pyrococcus furiosus	53.3	isoquercitrin	*pH 5.0, 09&deg;C, recombinant enzyme

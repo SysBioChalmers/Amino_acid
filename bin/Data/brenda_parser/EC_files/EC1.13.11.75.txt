@@ -1,4 +1,0 @@
-KCAT	Mycobacterium tuberculosis	392	beta-apo-8'-carotenal	*pH 7.9, 28&Acirc;&deg;C
-KCAT	Mycobacterium tuberculosis	561	beta-apo-10'-carotenal	*pH 7.9, 28&Acirc;&deg;C
-KCAT	Mycobacterium tuberculosis	764	3-hydroxy-beta-apo-10'-carotenal	*pH 7.9, 28&Acirc;&deg;C
-KCAT	Mycobacterium tuberculosis	1307	3-hydroxy-beta-apo-8'-carotenal	*pH 7.9, 28&Acirc;&deg;C

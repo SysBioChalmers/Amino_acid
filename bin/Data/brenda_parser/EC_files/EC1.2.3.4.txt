@@ -1,3 +1,0 @@
-KCAT	Hordeum vulgare	9.7	oxalate	*oxalate oxidase activity is measured by oxygen uptake assay with a Clark oxygen electrode in a thermostated cell (25&deg;C)
-KCAT	Gelatoporia subvermispora	20	oxalate	*succinate buffer, at pH 4.0 and 25&deg;C
-KCAT	Ochrobactrum intermedium	85	oxalate	*at pH 3.8 and 80&deg;C

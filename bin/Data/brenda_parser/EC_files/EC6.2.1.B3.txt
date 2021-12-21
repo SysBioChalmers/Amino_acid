@@ -1,5 +1,0 @@
-KCAT	Arabidopsis thaliana	0.96	tetradecanoic acid	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Arabidopsis thaliana	1.56	12-oxo-phytodienoic acid	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Arabidopsis thaliana	1.78	dinor-12-oxo-phytodienoic acid	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Arabidopsis thaliana	1.27	3-oxo-2-(2'-[Z]-pentenyl)cyclopentane-1-octanoic acid	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Arabidopsis thaliana	1.49	3-oxo-2-(2'-[Z]-pentenyl)cyclopentane-1-hexanoic acid	*pH not specified in the publication, temperature not specified in the publication

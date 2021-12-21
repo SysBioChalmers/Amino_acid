@@ -1,1 +1,0 @@
-KCAT	Synechococcus sp. PCC 7002	1.2	2-oxoglutarate	*pH 7.0, 25&Acirc;&deg;C

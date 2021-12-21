@@ -1,3 +1,0 @@
-KCAT	Thermococcus kodakarensis	-999	2-(imidazol-4-yl)acetate	*pH 6.5, 55&deg;C, kinetic constant according to Adair-Pauling kinetic model: 37.8/s
-KCAT	Thermococcus kodakarensis	37.9	ATP	*pH 6.5, 55&deg;C
-KCAT	Thermococcus kodakarensis	39.6	CoA	*pH 6.5, 55&deg;C

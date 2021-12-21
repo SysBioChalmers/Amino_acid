@@ -1,6 +1,0 @@
-KCAT	Saccharolobus solfataricus	1	Suc-Ala-Ala-Pro-Phe 4-nitroanilide	*pH 7.0, 80&deg;C
-KCAT	Saccharolobus solfataricus	2.2	Suc-Ala-Ala-Phe-4-nitroanilide	*pH 7.0, 80&deg;C
-KCAT	Saccharolobus solfataricus	3.3	Suc-Gly-Gly-Phe-4-nitroanilide	*pH 7.0, 80&deg;C
-KCAT	Saccharolobus solfataricus	12.1	benzyloxycarbonyl-Leu-4-nitroanilide	*pH 7.0, 80&deg;C
-KCAT	Saccharolobus solfataricus	15.6	Suc-Phe-4-nitroanilide	*pH 7.0, 80&deg;C
-KCAT	Saccharolobus solfataricus	23	benzyloxycarbonyl-Tyr-4-nitroanilide	*pH 7.0, 80&deg;C

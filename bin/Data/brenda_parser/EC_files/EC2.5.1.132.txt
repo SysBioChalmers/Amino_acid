@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	0.0011	D-mannose 6-phosphate	*wild type enzyme, at pH 7.5 and 37&deg;C
-KCAT	Homo sapiens	0.0083	D-mannose 6-phosphate	*mutant enzyme M42L, at pH 7.5 and 37&deg;C
-KCAT	Bacteroides thetaiotaomicron	0.017	D-mannose 6-phosphate	*pH 7.5, 25&deg;C
-KCAT	Bacteroides thetaiotaomicron	0.017	phosphoenolpyruvate	*pH 7.5, 25&deg;C

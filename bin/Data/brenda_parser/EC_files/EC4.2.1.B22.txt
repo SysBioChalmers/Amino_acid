@@ -1,3 +1,0 @@
-KCAT	Oceanobacillus iheyensis	0.0013	galactarate	*pH 8.0, temperature not specified in the publication, mutant enzyme H45Q
-KCAT	Oceanobacillus iheyensis	0.0061	galactarate	*pH 8.0, temperature not specified in the publication, mutant enzyme Y90F
-KCAT	Oceanobacillus iheyensis	6.8	galactarate	*pH 8.0, temperature not specified in the publication, wild-type enzyme

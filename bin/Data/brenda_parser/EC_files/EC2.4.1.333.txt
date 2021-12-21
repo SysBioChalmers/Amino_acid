@@ -1,7 +1,0 @@
-KCAT	Listeria innocua	43	alpha-D-glucose 1-phosphate	*pH 7.5, 30&Acirc;&deg;C, cosubstrate sophorose
-KCAT	Listeria innocua	97	sophorose	*pH 7.5, 30&Acirc;&deg;C, cosubstrate alpha-D-glucopyranose 1-phosphate
-KCAT	Listeria innocua	19	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	*pH 7.5, 30&Acirc;&deg;C, cosubstrate phosphate, release of alpha-D-glucopyranose 1-phosphate
-KCAT	Listeria innocua	110	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	*pH 7.5, 30&Acirc;&deg;C, cosubstrate alpha-D-glucopyranose 1-phosphate
-KCAT	Listeria innocua	30	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	*pH 7.5, 30&Acirc;&deg;C, cosubstrate phosphate, release of alpha-D-glucopyranose 1-phosphate
-KCAT	Listeria innocua	90	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	*pH 7.5, 30&Acirc;&deg;C, cosubstrate alpha-D-glucopyranose 1-phosphate
-KCAT	Listeria innocua	31	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	*pH 7.5, 30&Acirc;&deg;C, cosubstrate phosphate, release of alpha-D-glucopyranose 1-phosphate

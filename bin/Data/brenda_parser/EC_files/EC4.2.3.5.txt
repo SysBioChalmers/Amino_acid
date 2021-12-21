@@ -1,5 +1,0 @@
-KCAT	Neurospora crassa	-999	more	*value of double-mutant S16A/S127A with 5-enolpyruvylshikimate 3-phosphate as substrate is below the detection limit
-KCAT	Mycobacterium tuberculosis	0.0083	NADH	*kinetics of reduction of the MtCS-bound FMNox is determined using fixed amount of holoenzyme and varying levels of NADH
-KCAT	Neurospora crassa	0.012	5-enolpyruvylshikimate 3-phosphate	*mutant S16A
-KCAT	Neurospora crassa	0.14	5-enolpyruvylshikimate 3-phosphate	*mutant S127A
-KCAT	Neurospora crassa	0.87	5-enolpyruvylshikimate 3-phosphate	*wild-type enzyme

@@ -1,5 +1,0 @@
-KCAT	Streptomyces avermitilis	24	prephenate	*cosubstrate N-succinyl-L-2,6-diaminoheptanedioate, pH 8.0, 30&deg;C
-KCAT	Sinorhizobium meliloti	43	prephenate	*pH 8.0, 30&deg;C
-KCAT	Streptomyces avermitilis	54	prephenate	*cosubstrate L-glutamate, pH 8.0, 30&deg;C
-KCAT	Synechocystis sp.	60	prephenate	*pH 8.0, 30&deg;C
-KCAT	Arabidopsis thaliana	200	L-glutamate	*pH 8.0, 30&deg;C

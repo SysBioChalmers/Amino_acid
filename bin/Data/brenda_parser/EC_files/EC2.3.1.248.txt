@@ -1,5 +1,0 @@
-KCAT	Arabidopsis thaliana	0.3	putrescine	*pH 7.3, 30&deg;C, recombinant His6-tagged enzyme
-KCAT	Arabidopsis thaliana	5.1	sinapoyl-CoA	*pH 7.3, 30&deg;C, recombinant His6-tagged enzyme
-KCAT	Arabidopsis thaliana	5.6	spermidine	*pH 7.3, 30&deg;C, recombinant His6-tagged enzyme
-KCAT	Arabidopsis thaliana	37.8	N1,N8-bis(sinapoyl)-spermidine	*pH 7.3, 30&deg;C, recombinant His6-tagged enzyme
-KCAT	Arabidopsis thaliana	39.6	CoA	*pH 7.3, 30&deg;C, recombinant His6-tagged enzyme

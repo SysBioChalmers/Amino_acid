@@ -1,1 +1,0 @@
-KCAT	Phanerochaete chrysosporium	5	dithiothreitol	*pH 8.0, 30&deg;C

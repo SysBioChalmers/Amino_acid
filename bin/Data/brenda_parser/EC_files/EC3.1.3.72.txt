@@ -1,2 +1,0 @@
-KCAT	Shigella sp. CD2	720	myo-inositol hexakisphosphate	*pH 5.5, 37&deg;C, recombinant glycosylated enzyme expressed from Pichia pastoris
-KCAT	Shigella sp. CD2	2230	myo-inositol hexakisphosphate	*pH 5.5, 37&deg;C, recombinant non-glycosylated enzyme expressed from Escherichia coli

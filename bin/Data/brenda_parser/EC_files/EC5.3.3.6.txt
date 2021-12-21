@@ -1,2 +1,0 @@
-KCAT	Eubacterium barkeri	2	Itaconate	*
-KCAT	Eubacterium barkeri	1720	methylitaconate	*(R,S)-3-methylitaconate

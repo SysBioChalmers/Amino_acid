@@ -1,6 +1,0 @@
-KCAT	Lactococcus lactis	0.0012	beta-D-glucose 1-phosphate	*mutant E169A/D170A, 25&deg;C, pH 7.0
-KCAT	Lactococcus lactis	0.00384	beta-D-glucose 1-phosphate	*mutant D170A, 25&deg;C, pH 7.0
-KCAT	Lactococcus lactis	17	beta-D-glucose 1-phosphate	*in the presence of beta-D-glucose 1,6-diphosphate and Mg2+
-KCAT	Lactococcus lactis	17.1	beta-D-glucose 1-phosphate	*wild-type, 25&deg;C, pH 7.0
-KCAT	Lactococcus lactis	64.7	beta-D-glucose 1-phosphate	*in 50 mM buffer (HEPES, pH 7.2), with 2 mM MgCl2
-KCAT	Lactococcus lactis	177	beta-D-glucose 1-phosphate	*pH 7.0, 25&deg;C

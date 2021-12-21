@@ -1,6 +1,0 @@
-KCAT	Lactococcus lactis	3.5	oxaloacetate	*
-KCAT	Enterococcus faecalis	11.2	oxaloacetate	*calculated value at pH 4.5, temperature not specified in the publication
-KCAT	Lactococcus lactis	20.26	oxaloacetate	*
-KCAT	Corynebacterium glutamicum	104	oxaloacetate	*in 100 mM Tris-HCl (pH 7.3), 10 mM MgCl2, 2.5 mM EDTA, at 30&deg;C
-KCAT	Pseudomonas aeruginosa	250	3-methyloxaloacetate	*in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&deg;C
-KCAT	Pseudomonas aeruginosa	7500	oxaloacetate	*in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&deg;C

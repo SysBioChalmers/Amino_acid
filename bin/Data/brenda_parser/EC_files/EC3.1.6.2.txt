@@ -1,1 +1,0 @@
-KCAT	Homo sapiens	6.48	dehydroepiandrosterone sulfate	*pH 8, 37&deg;C

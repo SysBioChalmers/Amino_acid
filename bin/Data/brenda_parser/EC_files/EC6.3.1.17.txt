@@ -1,1 +1,0 @@
-KCAT	Mus musculus	1.5	L-glutamate	*pH 8.0, 30&deg;C

@@ -1,3 +1,0 @@
-KCAT	Pyrococcus horikoshii	240	methylmalonyl-CoA	*
-KCAT	Rattus norvegicus	4170	DL-methylmalonyl-CoA	*
-KCAT	Rattus norvegicus	4170	DL-methylmalonyl-CoA	*

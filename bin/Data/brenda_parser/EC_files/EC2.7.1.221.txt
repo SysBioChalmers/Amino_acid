@@ -1,3 +1,0 @@
-KCAT	Pseudomonas putida	4.38	ATP	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	6.64	N-acetyl-D-glucosamine	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	5.15	N-acetyl-D-muramate	*pH not specified in the publication, temperature not specified in the publication

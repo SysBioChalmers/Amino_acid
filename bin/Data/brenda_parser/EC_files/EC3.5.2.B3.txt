@@ -1,2 +1,0 @@
-KCAT	Streptomyces viridochromogenes	107	2-azabicyclo[2.2.1]hept-5-en-3-one	*pH 7.0, 30&Acirc;&deg;C
-KCAT	Microbacterium hydrocarbonoxydans	200	2-azabicyclo[2.2.1]hept-5-en-3-one	*pH 7.5, 30&Acirc;&deg;C, wild-type enzyme

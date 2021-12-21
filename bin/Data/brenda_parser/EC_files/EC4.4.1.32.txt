@@ -1,1 +1,0 @@
-KCAT	Synechococcus elongatus	0.025	(2R,3E)-phycocyanobilin	*pH 8.0, 37&Acirc;&deg;C

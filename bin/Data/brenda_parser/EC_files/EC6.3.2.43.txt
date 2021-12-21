@@ -1,3 +1,0 @@
-KCAT	Thermus thermophilus	0.85	L-2-aminoadipate	*pH 8.0, 60&deg;C
-KCAT	Thermus thermophilus	2	[LysW]-C-terminal-L-glutamate54	*pH 8.0, 60&deg;C
-KCAT	Thermus thermophilus	5.2	ATP	*pH 8.0, 60&deg;C

@@ -1,1 +1,0 @@
-KCAT	Escherichia coli	0.056	dTDP-alpha-D-fucopyranose	*pH 7.4, 37&Acirc;&deg;C

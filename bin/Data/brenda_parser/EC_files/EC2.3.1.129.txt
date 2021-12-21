@@ -1,3 +1,0 @@
-KCAT	Escherichia coli	7.17	UDP-N-acetylglucosamine	*wild-type
-KCAT	Escherichia coli	9.83	UDP-N-acetylglucosamine	*K76R
-KCAT	Escherichia coli	10.5	UDP-N-acetylglucosamine	*K76A

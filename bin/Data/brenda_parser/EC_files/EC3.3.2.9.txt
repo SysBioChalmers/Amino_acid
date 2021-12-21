@@ -1,5 +1,0 @@
-KCAT	Heliothis virescens	0.002	juvenile hormone III	*in 100 mM sodium phosphate, pH 8.0, at 30&deg;C
-KCAT	Homalodisca vitripennis	0.03	juvenile hormone III	*at pH 8.0 and 30&deg;C
-KCAT	Manduca sexta	0.08	juvenile hormone III	*
-KCAT	Rattus norvegicus	0.5	phenanthrene 9,10-oxide	*
-KCAT	Rattus norvegicus	53	1,10-phenanthroline 5,6-oxide	*

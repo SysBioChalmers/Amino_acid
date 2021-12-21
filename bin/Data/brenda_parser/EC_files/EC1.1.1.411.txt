@@ -1,4 +1,0 @@
-KCAT	Cupriavidus necator	2.2	L-threonate	*cosubstrate NADP+, pH 8.0, 25&deg;C
-KCAT	Pectobacterium atrosepticum	4.7	L-threonate	*cosubstrate NADP+, pH 8.0, 25&deg;C
-KCAT	Cupriavidus necator	29	L-threonate	*cosubstrate NAD+, pH 8.0, 25&deg;C
-KCAT	Pectobacterium atrosepticum	54	L-threonate	*cosubstrate NAD+, pH 8.0, 25&deg;C

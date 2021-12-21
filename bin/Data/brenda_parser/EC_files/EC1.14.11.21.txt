@@ -1,3 +1,0 @@
-KCAT	Streptomyces clavuligerus	0.725	rac-proclavaminate	*pH 7.0, 40&deg;C
-KCAT	Streptomyces clavuligerus	0.765	(2S,3R)-proclavaminate	*pH 7.0, 40&deg;C
-KCAT	Streptomyces clavuligerus	6.4	N-alpha-acetyl-L-arginine	*pH 7.0, 22&deg;C

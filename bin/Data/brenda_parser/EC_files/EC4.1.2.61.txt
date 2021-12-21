@@ -1,5 +1,0 @@
-KCAT	Pseudomonas fluorescens	0.41	feruloyl-CoA	*mutant enzyme Y239F
-KCAT	Pseudomonas fluorescens	0.96	feruloyl-CoA	*mutant enzyme S123A
-KCAT	Pseudomonas fluorescens	3.72	feruloyl-CoA	*wild-type
-KCAT	Pseudomonas fluorescens	2.3	4-coumaroyl-CoA	*at 30&Acirc;&deg;C
-KCAT	Pseudomonas fluorescens	-999	more	*no activity for mutant enzymes E143A and S123A/E143A

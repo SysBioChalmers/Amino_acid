@@ -1,5 +1,0 @@
-KCAT	Escherichia coli K-12	0.25	glyoxylate	*mutant V51D
-KCAT	Escherichia coli K-12	2.9	glyoxylate	*mutant V51E
-KCAT	Escherichia coli K-12	18.5	glyoxylate	*mutant V51S
-KCAT	Escherichia coli K-12	18.9	glyoxylate	*wild-type enzyme
-KCAT	Escherichia coli K-12	19.7	glyoxylate	*mutant E52Q

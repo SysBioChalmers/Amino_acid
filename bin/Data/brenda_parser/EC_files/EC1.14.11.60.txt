@@ -1,1 +1,0 @@
-KCAT	Arabidopsis thaliana	1.73	scopoletin	*pH 8.0, 31.5&deg;C

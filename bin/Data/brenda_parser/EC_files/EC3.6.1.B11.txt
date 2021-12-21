@@ -1,6 +1,0 @@
-KCAT	Schizosaccharomyces pombe	0.46	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 8.0, 37&deg;C, His10-tagged truncated mutant enzyme DELTA2-31
-KCAT	Schizosaccharomyces pombe	0.67	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 8.0, 37&deg;C, wild-type enzyme
-KCAT	Schizosaccharomyces pombe	0.69	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 8.0, 37&deg;C, His10-tagged full length recombinant enzyme
-KCAT	Schizosaccharomyces pombe	0.89	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 8.0, 37&deg;C, His10-tagged truncated mutant enzyme DELTA2-19
-KCAT	Schizosaccharomyces pombe	1.7	P1,P5-bis(5'-adenosyl)pentaphosphate	*pH 7.6, 37&deg;C
-KCAT	Schizosaccharomyces pombe	2	P1,P6-bis(5'-adenosyl)hexaphosphate	*pH 7.6, 37&deg;C

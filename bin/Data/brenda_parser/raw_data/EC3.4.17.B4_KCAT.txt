@@ -1,1 +1,0 @@
-ecNumber*3.4.17.B4#turnoverNumber*11.6#turnoverNumberMaximum*#substrate*N-benzyloxycarbonyl-Ala-Arg#commentary*pH 6.5, 70-80&Acirc;&deg;C#organism*Thermococcus onnurineus#ligandStructureId*42211#literature*719113#

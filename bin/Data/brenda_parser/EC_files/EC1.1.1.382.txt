@@ -1,4 +1,0 @@
-KCAT	Archaeoglobus fulgidus	0.1	NADH	*pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
-KCAT	uncultured archaeon	0.22	NADH	*pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
-KCAT	Desulfococcus oleovorans	0.25	NADH	*pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
-KCAT	Thermacetogenium phaeum	0.46	NADH	*pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate

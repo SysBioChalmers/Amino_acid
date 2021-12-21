@@ -1,2 +1,0 @@
-KCAT	Streptomyces kanamyceticus	0.29	UDP-D-glucose	*in 100 mM Tris-HCl (pH 7.6), 10 mM MgCl2, 6 mM 2-mercaptoethanol, and 1 mM phenylmethylsulfonyl fluoride, at 30&deg;C
-KCAT	Streptomyces kanamyceticus	0.33	UDP-N-acetyl-alpha-D-glucosamine	*in 100 mM Tris-HCl (pH 7.6), 10 mM MgCl2, 6 mM 2-mercaptoethanol, and 1 mM phenylmethylsulfonyl fluoride, at 30&deg;C

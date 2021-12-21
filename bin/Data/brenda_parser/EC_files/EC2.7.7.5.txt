@@ -1,2 +1,0 @@
-KCAT	Caenorhabditis elegans	2.6	adenosine 5'-phosphosulfate	*in 0.1 M HEPES/KOH buffer (pH 6.8), 0.1 M potassium phosphate (pH 6.8), 0.1 M KH2PO4 (pH 4.2), at 30&deg;C
-KCAT	Arabidopsis thaliana	3	adenosine 5'-phosphosulfate	*in 0.1 M HEPES/KOH buffer (pH 6.8), 0.1 M potassium phosphate (pH 6.8), 0.1 M KH2PO4 (pH 4.2), at 30&deg;C

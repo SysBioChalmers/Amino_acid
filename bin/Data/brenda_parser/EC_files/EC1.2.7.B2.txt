@@ -1,9 +1,0 @@
-KCAT	Pyrococcus furiosus	44000	acetaldehyde	*80&Acirc;&deg;C, pH 8.4
-KCAT	Pyrococcus furiosus	14	formaldehyde	*pH 8.4, 20&Acirc;&deg;C
-KCAT	Pyrococcus furiosus	54	formaldehyde	*pH 8.4, 80&Acirc;&deg;C
-KCAT	Pyrococcus furiosus	71000	formaldehyde	*80&Acirc;&deg;C, pH 8.4
-KCAT	Pyrococcus furiosus	11000	propionaldehyde	*80&Acirc;&deg;C, pH 8.4
-KCAT	Pyrococcus furiosus	5700	Succinic semialdehyde	*80&Acirc;&deg;C, pH 8.4
-KCAT	Pyrococcus furiosus	2300	Indole-3-acetaldehyde	*80&Acirc;&deg;C, pH 8.4
-KCAT	Pyrococcus furiosus	25000	phenylpropionaldehyde	*80&Acirc;&deg;C, pH 8.4
-KCAT	Pyrococcus furiosus	42000	glutaric dialdehyde	*80&Acirc;&deg;C, pH 8.4

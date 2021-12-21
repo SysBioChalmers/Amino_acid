@@ -1,6 +1,0 @@
-KCAT	Escherichia coli	4.2	L-serine	*pH 9.0, 30&Acirc;&deg;C
-KCAT	Saccharomyces cerevisiae	11	L-serine	*pH 9.0, 30&Acirc;&deg;C
-KCAT	Escherichia coli	5.76	L-allo-threonine	*pH 9.0, 30&Acirc;&deg;C
-KCAT	Saccharomyces cerevisiae	43.8	L-allo-threonine	*pH 9.0, 30&Acirc;&deg;C
-KCAT	Escherichia coli	-999	more	*substrate specificity
-KCAT	Saccharomyces cerevisiae	-999	more	*substrate specificity

@@ -1,2 +1,0 @@
-KCAT	Sus scrofa	0.275	oxaloacetate	*mutant H320G
-KCAT	Sus scrofa	167	oxaloacetate	*wild-type

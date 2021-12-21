@@ -1,4 +1,0 @@
-KCAT	Campylobacter jejuni	0.58	carboxynorspermidine	*pH and temperature not specified in the publication
-KCAT	Vibrio vulnificus	20.1	carboxynorspermidine	*pH and temperature not specified in the publication
-KCAT	Campylobacter jejuni	0.24	carboxyspermidine	*pH and temperature not specified in the publication
-KCAT	Vibrio vulnificus	3.2	carboxyspermidine	*pH and temperature not specified in the publication

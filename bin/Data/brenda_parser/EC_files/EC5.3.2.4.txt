@@ -1,3 +1,0 @@
-KCAT	Streptomyces fradiae	0.1	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Streptomyces fradiae	0.00025	CDP-4-dehydro-6-deoxy-alpha-D-glucose	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Streptomyces fradiae	0.13	dTDP-4-dehydro-2,6-dideoxy-alpha-D-glucose	*pH 7.5, 25&Acirc;&deg;C

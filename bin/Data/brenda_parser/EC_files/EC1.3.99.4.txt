@@ -1,5 +1,0 @@
-KCAT	Rhodococcus erythropolis	0.036	4-androstene-3,17-dione	*mutant Y119F, pH 8.0, 22&deg;C
-KCAT	Mycolicibacterium neoaurum	0.04	4-androstene-3,17-dione	*pH 7.0, 30&deg;C
-KCAT	Mycolicibacterium neoaurum	0.096	4-androstene-3,17-dione	*pH 7.0, 30&deg;C
-KCAT	Rhodococcus erythropolis	1.7	4-androstene-3,17-dione	*mutant Y487F, pH 8.0, 22&deg;C
-KCAT	Rhodococcus erythropolis	68.1	4-androstene-3,17-dione	*wild-type, pH 8.0, 22&deg;C

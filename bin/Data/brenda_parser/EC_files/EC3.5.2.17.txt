@@ -1,9 +1,0 @@
-KCAT	Glycine max	0.015	5-hydroxyisourate	*pH 7.5, 30&deg;C
-KCAT	Glycine max	0.21	5,6-diaminouracil	*pH 7.5, 30&deg;C
-KCAT	Klebsiella pneumoniae	0.35	5-hydroxyisourate	*mutant H92N, pH 7.6, temperature not specified in the publication
-KCAT	Klebsiella pneumoniae	0.8	5-hydroxyisourate	*mutant H7N, pH 7.6, temperature not specified in the publication
-KCAT	Glycine max	11	5-hydroxyisourate	*pH 7.2, 25&deg;C
-KCAT	Glycine max	24	5-hydroxyisourate	*pH 7.5, 37&deg;C, recombinant enzyme lacking the signal peptide
-KCAT	Klebsiella pneumoniae	34.7	5-hydroxyisourate	*mutant R41K, pH 7.6, temperature not specified in the publication
-KCAT	Klebsiella pneumoniae	81	5-hydroxyisourate	*mutant S108A, pH 7.6, temperature not specified in the publication
-KCAT	Klebsiella pneumoniae	172	5-hydroxyisourate	*wild-type, pH 7.6, temperature not specified in the publication

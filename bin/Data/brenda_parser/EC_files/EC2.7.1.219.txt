@@ -1,4 +1,0 @@
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4	4-hydroxy-L-threonine	*pH 8.0, 25&deg;C
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	22	D-threonate	*pH 8.0, 25&deg;C
-KCAT	Cupriavidus necator	27	4-hydroxy-L-threonine	*pH 8.0, 25&deg;C
-KCAT	Cupriavidus necator	45	D-threonate	*pH 8.0, 25&deg;C

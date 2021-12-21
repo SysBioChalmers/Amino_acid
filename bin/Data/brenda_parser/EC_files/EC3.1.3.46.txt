@@ -1,2 +1,0 @@
-KCAT	Rattus norvegicus	0.1	fructose 2,6-bisphosphate	*
-KCAT	Rattus norvegicus	0.1	fructose 2,6-bisphosphate	*

@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	0.015	3beta-hydroxy-5beta-cholan-24-oic acid	*pH 7.5, 25&deg;C, recombinant enzyme
-KCAT	Homo sapiens	0.022	3beta,7alpha-dihydroxy-5beta-cholan-24-oic acid	*pH 7.5, 25&deg;C, recombinant enzyme
-KCAT	Homo sapiens	0.033	3beta,7beta-dihydroxy-5beta-cholan-24-oic acid	*pH 7.5, 25&deg;C, recombinant enzyme
-KCAT	Homo sapiens	0.047	3beta-hydroxy-5beta-cholan-24-oic acid	*pH 7.5, 25&deg;C, recombinant enzyme
-KCAT	Eggerthella lenta	9.73	12alpha-hydroxy-3-oxo-5-beta-cholan-24-oic acid	*pH 7.0, 37&deg;C
-KCAT	Eggerthella lenta	29.71	12alpha-hydroxy-3-oxo-5-beta-cholan-24-oic acid	*pH 7.0, 37&deg;C

@@ -1,6 +1,0 @@
-KCAT	Aquifex aeolicus	0.00006	GTP	*autophosphorylation
-KCAT	Aquifex aeolicus	0.00016	ATP	*autophosphorylation
-KCAT	Homo sapiens	0.057	ATP	*in vitro PDK1-activated mutant DELTA399-502/T389E (His6-S6K1aII(DELTA AID)-T389E)
-KCAT	Homo sapiens	0.057	RRRLSSLRA	*in vitro PDK1-activated mutant DELTA399-502/T389E (His6-S6K1aII(DELTA AID)-T389E)
-KCAT	Homo sapiens	0.19	ATP	*in vivo PDK1-activated mutant DELTA399-502/T389E (His6-S6K1aII(DELTA AID)-T389E)
-KCAT	Homo sapiens	0.19	RRRLSSLRA	*in vivo PDK1-activated mutant DELTA399-502/T389E (His6-S6K1aII(DELTA AID)-T389E)

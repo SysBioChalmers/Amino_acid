@@ -1,8 +1,0 @@
-KCAT	Streptomyces griseus	30	tert-butyloxycarbonyl-Ala-Ala-Gly-Glu 4-nitroanilide	*
-KCAT	Streptomyces griseus	179	tert-butyloxycarbonyl-Ala-Ala-Leu-Glu 4-nitroanilide	*
-KCAT	Streptomyces griseus	182	Tert-Butyloxycarbonyl-Ala-Pro-Glu 4-nitroanilide	*
-KCAT	Streptomyces griseus	365	Tert-Butyloxycarbonyl-Ala-Ala-Phe-Glu 4-nitroanilide	*
-KCAT	Streptomyces griseus	381	Tert-Butyloxycarbonyl-Ala-Phe-Pro-Glu 4-nitroanilide	*
-KCAT	Streptomyces griseus	473	tert-butyloxycarbonyl-Ala-Ala-Ala-Glu 4-nitroanilide	*
-KCAT	Streptomyces griseus	500	Tert-Butyloxycarbonyl-Ala-Leu-Pro-Glu 4-nitroanilide	*
-KCAT	Streptomyces griseus	5390	tert-butyloxycarbonyl-Ala-Ala-Pro-Glu 4-nitroanilide	*

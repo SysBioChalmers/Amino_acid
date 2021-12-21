@@ -1,7 +1,0 @@
-KCAT	Solanum habrochaites	0.066	isopentenyl diphosphate	*pH 7.6, 30&Acirc;&deg;C, mutant zFPS-M10
-KCAT	Solanum habrochaites	0.15	isopentenyl diphosphate	*pH 7.6, 30&Acirc;&deg;C, mutant zFPS-M2
-KCAT	Solanum habrochaites	0.19	isopentenyl diphosphate	*pH 7.6, 30&Acirc;&deg;C, wild-type enzyme
-KCAT	Solanum habrochaites	0.01	dimethylallyl diphosphate	*pH 7.6, 30&Acirc;&deg;C, mutant zFPS-M2
-KCAT	Solanum habrochaites	0.022	dimethylallyl diphosphate	*pH 7.6, 30&Acirc;&deg;C, mutant zFPS-M10
-KCAT	Solanum habrochaites	0.055	dimethylallyl diphosphate	*pH 7.6, 30&Acirc;&deg;C, wild-type enzyme
-KCAT	Solanum habrochaites	0.069	neryl diphosphate	*pH 7.6, 30&Acirc;&deg;C, wild-type enzyme

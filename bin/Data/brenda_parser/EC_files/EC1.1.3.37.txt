@@ -1,3 +1,0 @@
-KCAT	Leishmania donovani	10.8	D-arabinono-1,4-lactone	*pH 7.5, 22&deg;C
-KCAT	Candida albicans	18.3	L-galactono-1,4-lactone	*
-KCAT	Candida albicans	20.9	D-arabinono-1,4-lactone	*

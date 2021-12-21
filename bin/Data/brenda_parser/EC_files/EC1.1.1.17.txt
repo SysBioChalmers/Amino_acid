@@ -1,5 +1,0 @@
-KCAT	Aspergillus fumigatus	0.0019	D-mannitol 1-phosphate	*purified mutant K213A
-KCAT	Aspergillus fumigatus	8.5	D-mannitol 1-phosphate	*pH 7.1, 25&deg;C, recombinant enzyme
-KCAT	Aspergillus fumigatus	10.6	D-mannitol 1-phosphate	*pH 7.1, 25&deg;C, recombinant enzyme
-KCAT	Aspergillus fumigatus	125	D-fructose 6-phosphate	*pH 7.1, 25&deg;C, recombinant enzyme
-KCAT	Aspergillus fumigatus	132	D-fructose 6-phosphate	*pH 10.0, 25&deg;C, recombinant enzyme

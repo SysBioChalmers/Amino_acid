@@ -1,5 +1,0 @@
-KCAT	Thermosediminibacter oceani	17.2	D-fructose	*pH 6.5, 65&Acirc;&deg;C
-KCAT	Escherichia coli	27.7	D-fructose	*pH 7.0, 45&Acirc;&deg;C
-KCAT	Escherichia coli	40.9	D-mannose	*pH 7.0, 45&Acirc;&deg;C
-KCAT	Thermosediminibacter oceani	94.8	D-mannose	*pH 6.5, 65&Acirc;&deg;C
-KCAT	Thermosediminibacter oceani	51.8	D-Lyxose	*pH 6.5, 65&Acirc;&deg;C

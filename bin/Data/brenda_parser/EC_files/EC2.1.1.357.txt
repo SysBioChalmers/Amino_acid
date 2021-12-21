@@ -1,2 +1,0 @@
-KCAT	Homo sapiens	0.0001	recombinant nucleosome	*pH 9.0, 23&deg;C
-KCAT	Homo sapiens	0.0031	chicken nucleosome	*pH 9.0, 23&deg;C

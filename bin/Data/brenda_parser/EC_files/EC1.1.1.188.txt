@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	1.4	9,10-phenanthrenequinone	*pH 7.0, 37&Acirc;&deg;C
-KCAT	Mus musculus	0.2467	prostaglandin H2	*pH 7.0, 24&Acirc;&deg;C
-KCAT	Sus scrofa	0.2467	prostaglandin H2	*
-KCAT	Homo sapiens	0.0027	androst-4-ene-3,17-dione	*pH 7.0, 37&Acirc;&deg;C

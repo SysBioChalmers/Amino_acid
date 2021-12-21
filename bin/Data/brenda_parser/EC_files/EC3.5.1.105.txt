@@ -1,3 +1,0 @@
-KCAT	Shewanella baltica	17	N,N'-diacetylchitobiose	*pH 8.0, 37&Acirc;&deg;C
-KCAT	Vibrio parahaemolyticus	21.6	GlcNAc-beta-(1,4)-GlcNAc	*pH 7.0, 37&Acirc;&deg;C, recombinant mutant enzyme lacking the carbohydrate-binding domains
-KCAT	Vibrio parahaemolyticus	29.5	GlcNAc-beta-(1,4)-GlcNAc	*pH 7.0, 37&Acirc;&deg;C, recombinant enzyme

@@ -1,4 +1,0 @@
-KCAT	Saccharomyces cerevisiae	1950	alpha-D-glucose 6-phosphate	*
-KCAT	Saccharomyces cerevisiae	1950	alpha-D-glucose 6-phosphate	*
-KCAT	Saccharomyces cerevisiae	446	beta-D-glucose 6-phosphate	*
-KCAT	Saccharomyces cerevisiae	446	beta-D-glucose 6-phosphate	*

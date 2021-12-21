@@ -1,7 +1,0 @@
-KCAT	Homo sapiens	0.0025	4-nitrophenyl alpha-D-mannopyranoside	*pH 7.0, 37&deg;C, Bt3991
-KCAT	Drosophila melanogaster	0.0051	5-fluoro-beta-L-gulosyl fluoride	*pH 5.6, 37&deg;C, wild-type GMII
-KCAT	Streptococcus pyogenes M1 GAS	0.03	4-methylumbelliferyl alpha-D-mannopyranoside	*pH 6.8, 37&deg;C, recombinant enzyme
-KCAT	Drosophila melanogaster	0.048	2,4-dinitrophenyl alpha-D-mannoside	*pH 5.6, 37&deg;C, D341N mutant GMII
-KCAT	Homo sapiens	4.67	3-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose	*pH 7.0, 37&deg;C, Bt3991
-KCAT	Streptococcus pyogenes M1 GAS	6.4	3-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose	*pH 6.8, 37&deg;C, recombinant enzyme
-KCAT	Drosophila melanogaster	8.6	2,4-dinitrophenyl alpha-D-mannoside	*pH 5.6, 37&deg;C, wild-type GMII

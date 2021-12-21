@@ -1,1 +1,0 @@
-ecNumber*4.2.3.117#turnoverNumber*1.49#turnoverNumberMaximum*#substrate*geranyl diphosphate#commentary*pH 7.0, 30&deg;C, recombinant enzyme#organism*Artemisia annua#ligandStructureId*175#literature*747873#

@@ -1,1 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.92	palmitoyl-CoA	*pH 7.0, 37&deg;C

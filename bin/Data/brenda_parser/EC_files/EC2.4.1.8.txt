@@ -1,9 +1,0 @@
-KCAT	Paenibacillus sp.	12.9	phosphate	*50&Acirc;&deg;C, pH 7.0, wild-type enzyme
-KCAT	Paenibacillus sp.	3.8	D-glucose	*50&Acirc;&deg;C, pH 7.0, mutant enzyme E487Q
-KCAT	Paenibacillus sp.	49.4	D-glucose	*50&Acirc;&deg;C, pH 7.0, wild-type enzyme
-KCAT	Bacillus selenitireducens	12.3	maltose	*pH 6.5, 30&Acirc;&deg;C
-KCAT	Paenibacillus sp.	17.3	maltose	*50&Acirc;&deg;C, pH 7.0, wild-type enzyme
-KCAT	Paenibacillus sp.	3.5	beta-D-glucose 1-phosphate	*50&Acirc;&deg;C, pH 7.0, mutant enzyme E487Q
-KCAT	Paenibacillus sp.	43.5	beta-D-glucose 1-phosphate	*50&Acirc;&deg;C, pH 7.0, wild-type enzyme
-KCAT	Bacillus selenitireducens	40	kojibiose	*pH 6.5, 30&Acirc;&deg;C, reverse phosphorolysis
-KCAT	Bacillus selenitireducens	6.6	sophorose	*pH 6.5, 30&Acirc;&deg;C, reverse phosphorolysis

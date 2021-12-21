@@ -1,9 +1,0 @@
-KCAT	Escherichia coli	0.021	malonyl-CoA	*mutant enzyme R206G, at pH 8.5 and 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.042	malonyl-CoA	*wild type enzyme, at pH 8.5 and 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.022	malonyl-phosphopantetheine	*wild type enzyme, at pH 8.5 and 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.018	malonyl-phosphopantetheine 8-mer	*wild type enzyme, at pH 8.5 and 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.023	malonyl-phosphopantetheine 14-mer	*wild type enzyme, at pH 8.5 and 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.022	malonyl-phosphopantetheine 16-mer	*wild type enzyme, at pH 8.5 and 25&Acirc;&deg;C
-KCAT	Mycobacterium tuberculosis	0.01	C20:0-[acyl-carrier protein from Escherichia coli]	*at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Mycobacterium tuberculosis	0.023	malonyl-[acyl-carrier protein from Escherichia coli]	*at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Mycobacterium tuberculosis	0.027	palmitoyl-[acyl-carrier protein from Escherichia coli]	*at pH 7.0 and 37&Acirc;&deg;C

@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	-999	more	*
-KCAT	Escherichia coli	-999	more	*
-KCAT	Staphylococcus aureus	193	Chloramphenicol	*pH 7.0, 60&deg;C, recombinant mutant A138T
-KCAT	Staphylococcus aureus	209	Chloramphenicol	*pH 7.0, 60&deg;C, recombinant wild-type enzyme

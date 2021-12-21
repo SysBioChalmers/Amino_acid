@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	3.2	N-2,4,6-trinitrophenyl-D-Tyr-L-Val-(S)-alpha-hydroxy-Gly	*pH 6.0, 25&deg;C, metal-depleted enzyme
-KCAT	Homo sapiens	25.7	N-2,4,6-trinitrophenyl-D-Tyr-L-Val-(S)-alpha-hydroxy-Gly	*pH 6.0, 25&deg;C, wild-type enzyme
-KCAT	Rattus norvegicus	86	Nalpha-Acetyl-Tyr-Val-alpha-hydroxyglycine	*37&deg;C, pH 7.4, with endoprotease Arg-C digested PAM-3 protein
-KCAT	Rattus norvegicus	92	Nalpha-Acetyl-Tyr-Val-alpha-hydroxyglycine	*37&deg;C, pH 7.4, undigested PAM-3 protein
-KCAT	Bos taurus	220	Nalpha-Acetyl-Tyr-Val-alpha-hydroxyglycine	*37&deg;C, pH 7
-KCAT	Rattus norvegicus	380	Nalpha-Acetyl-Tyr-Val-alpha-hydroxyglycine	*37&deg;C, pH 5.5

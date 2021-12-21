@@ -1,6 +1,0 @@
-KCAT	Helicobacter pylori	0.0047	agmatine	*mutant D198A, pH 8.0, 37&deg;C
-KCAT	Campylobacter jejuni subsp. jejuni serotype O:2	0.00533	agmatine	*pH 7.0, 37&deg;C
-KCAT	Helicobacter pylori	0.082	agmatine	*wild-type, pH 8.0, 37&deg;C
-KCAT	Listeria monocytogenes serotype 1/2a	0.517	agmatine	*pH 7.5, 25&deg;C
-KCAT	Pseudomonas aeruginosa	8	agmatine	*
-KCAT	Listeria monocytogenes	34.28	agmatine	*at 25&deg;C and pH 7.5

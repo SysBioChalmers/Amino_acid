@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	26.7	prostaglandin H2	*
-KCAT	Homo sapiens	27.1	prostaglandin H2	*
-KCAT	Homo sapiens	0.017	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate	*recombinant TXAS
-KCAT	Homo sapiens	28.2	prostaglandin G2	*
-KCAT	Homo sapiens	20.4	prostaglandin H3	*
-KCAT	Homo sapiens	59.4	prostaglandin H3	*

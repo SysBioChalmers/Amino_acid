@@ -1,5 +1,0 @@
-KCAT	Acinetobacter baylyi	4	4-hydroxybenzaldehyde	*apparent Kcat
-KCAT	Acinetobacter baylyi	4.6	benzaldehyde	*apparent Kcat
-KCAT	Acinetobacter baylyi	14	NAD+	*apparent Kcat
-KCAT	Acinetobacter baylyi	18	4-hydroxy-3-methoxybenzaldehyde	*apparent Kcat
-KCAT	Acinetobacter baylyi	25	3,4-Dihydroxybenzaldehyde	*apparent Kcat

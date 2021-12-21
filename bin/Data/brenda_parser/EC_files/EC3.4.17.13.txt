@@ -1,2 +1,0 @@
-KCAT	Pseudomonas aeruginosa	-999	more	*total turnover of wild-type and mutant enzymes in comparison
-KCAT	Novosphingobium aromaticivorans	160	L-Ala-gamma-D-Glu-meso-diaminopimelyl-D-Ala	*pH 8.0, 37&deg;C

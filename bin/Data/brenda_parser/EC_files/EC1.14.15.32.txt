@@ -1,1 +1,0 @@
-KCAT	Streptomyces avermitilis	0.00838	(+/-)-pentalenene	*recombinant enzyme, in 50 mM phosphate buffer, 10% (v/v) glycerol, pH 7.4, at 22&Acirc;&deg;C

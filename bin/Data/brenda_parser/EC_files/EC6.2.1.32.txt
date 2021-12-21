@@ -1,2 +1,0 @@
-KCAT	Pseudomonas sp.	21.7	2-Aminobenzoate	*28&deg;C, isoenzyme E3
-KCAT	Pseudomonas sp.	267	2-Aminobenzoate	*28&deg;C, isoenzyme E2

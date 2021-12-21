@@ -1,9 +1,0 @@
-KCAT	Rhizobium leguminosarum bv. viciae	0.07	Biuret	*pH 8.5, 28&Acirc;&deg;C, mutant enzyme F41L; pH 8.5, 28&Acirc;&deg;C, mutant enzyme K142A
-KCAT	Rhizobium leguminosarum bv. viciae	0.14	Biuret	*pH 8.5, 28&Acirc;&deg;C, mutant enzyme F41A
-KCAT	Rhizobium leguminosarum bv. viciae	0.19	Biuret	*pH 8.5, 28&Acirc;&deg;C, mutant enzyme Q215N
-KCAT	Rhizobium leguminosarum bv. viciae	0.26	Biuret	*pH 8.5, 28&Acirc;&deg;C, mutant enzyme F41W
-KCAT	Rhizobium leguminosarum bv. viciae	0.29	Biuret	*pH 8.5, 28&Acirc;&deg;C, mutant enzyme Q215E
-KCAT	Rhizobium leguminosarum bv. viciae	0.74	Biuret	*pH 8.5, 28&Acirc;&deg;C, mutant enzyme Q215A
-KCAT	Rhizobium leguminosarum bv. viciae	0.81	Biuret	*pH 8.5, 28&Acirc;&deg;C, mutant enzyme F41Y
-KCAT	Rhizobium leguminosarum bv. viciae	4	Biuret	*in 0.1 M potassium phosphate buffer, pH 8.5, at 22&Acirc;&deg;C
-KCAT	Rhizobium leguminosarum bv. viciae	11.9	Biuret	*pH 8.5, 28&Acirc;&deg;C, wild-type enzyme

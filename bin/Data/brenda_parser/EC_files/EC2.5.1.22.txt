@@ -1,8 +1,0 @@
-KCAT	Homo sapiens	0.0015	spermidine	*mutant D201A, pH 7.5, 37&Acirc;&deg;C; mutant D201N, pH 7.5, 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.0015	spermidine	*mutant D201A; mutant D201N
-KCAT	Homo sapiens	0.0022	spermidine	*mutant D276N, pH 7.5, 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.0022	spermidine	*mutant D276N
-KCAT	Homo sapiens	0.64	spermidine	*mutant E353Q, pH 7.5, 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.64	spermidine	*mutant E353Q
-KCAT	Homo sapiens	32	spermidine	*wild-type, pH 7.5, 37&Acirc;&deg;C
-KCAT	Homo sapiens	32	spermidine	*wild-type enzyme

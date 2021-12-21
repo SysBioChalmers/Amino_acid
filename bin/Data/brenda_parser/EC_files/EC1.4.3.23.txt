@@ -1,4 +1,0 @@
-KCAT	Lentzea aerocolonigenes	0.0255	1-methyl-L-tryptophan	*pH 7.8, 30&deg;C
-KCAT	Lentzea aerocolonigenes	0.202	L-Trp	*pH 7.8, 30&deg;C
-KCAT	Lentzea aerocolonigenes	0.239	5-fluoro-L-tryptophan	*pH 7.8, 30&deg;C
-KCAT	Lentzea aerocolonigenes	0.664	7-chloro-L-tryptophan	*pH 7.8, 30&deg;C

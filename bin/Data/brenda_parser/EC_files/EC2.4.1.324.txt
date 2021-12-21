@@ -1,5 +1,0 @@
-KCAT	Catharanthus roseus	0.032	UDP-alpha-D-glucose	*pH 8.0, 30&Acirc;&deg;C
-KCAT	Gardenia jasminoides	0.16	UDP-alpha-D-glucose	*pH 8.0, 30&Acirc;&deg;C
-KCAT	Catharanthus roseus	0.0355	7-deoxyloganetin	*pH 8.0, 30&Acirc;&deg;C
-KCAT	Gardenia jasminoides	0.13	7-deoxyloganetin	*pH 8.0, 30&Acirc;&deg;C
-KCAT	Gardenia jasminoides	1.04	genipin	*pH 8.0, 30&Acirc;&deg;C

@@ -1,3 +1,0 @@
-KCAT	Antillogorgia elisabethae	1300	geranyl diphosphate	*pH 7.1, 29&deg;C
-KCAT	Antillogorgia elisabethae	3400	farnesyl diphosphate	*pH 7.1, 29&deg;C
-KCAT	Antillogorgia elisabethae	41000	geranylgeranyl diphosphate	*pH 7.1, 29&deg;C

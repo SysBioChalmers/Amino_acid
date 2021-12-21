@@ -1,4 +1,0 @@
-KCAT	Streptococcus pneumoniae	3.4	ATP	*pH 7.0, 25&Acirc;&deg;C
-KCAT	Streptococcus pneumoniae	3.9	ADP	*pH 7.0, 25&Acirc;&deg;C
-KCAT	Sus scrofa	10.2	phosphomevalonate	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Streptococcus pneumoniae	0.095	ADPbetaS	*pH 7.0, 25&Acirc;&deg;C

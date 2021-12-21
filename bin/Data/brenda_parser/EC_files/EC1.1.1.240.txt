@@ -1,2 +1,0 @@
-KCAT	Pseudomonas sp.	655	N-acetyl-D-glucosamine	*
-KCAT	Pseudomonas sp.	932	N-acetyl-D-galactosamine	*

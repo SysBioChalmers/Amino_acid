@@ -1,4 +1,0 @@
-KCAT	Narcissus aff. pseudonarcissus MK-2014	0.022	norbelladine	*at pH 8.8 and 37&deg;C
-KCAT	Narcissus aff. pseudonarcissus MK-2014	0.043	N-methylnorbelladine	*at pH 8.8 and 37&deg;C
-KCAT	Narcissus aff. pseudonarcissus MK-2014	0.06	dopamine	*at pH 8.8 and 37&deg;C
-KCAT	Narcissus aff. pseudonarcissus MK-2014	0.075	S-adenosyl-L-methionine	*at pH 8.8 and 37&deg;C

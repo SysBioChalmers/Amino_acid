@@ -1,1 +1,0 @@
-KCAT	Gluconobacter oxydans	48.2	2-oxo-D-gluconate	*pH 7.0, 25&deg;C

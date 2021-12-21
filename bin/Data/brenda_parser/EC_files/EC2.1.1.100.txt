@@ -1,3 +1,0 @@
-KCAT	Anopheles gambiae	0.5	S-adenosyl-L-methionine	*wild type enzyme, at pH 7.4 and 25&deg;C
-KCAT	Anopheles gambiae	0.93	biotin-S-farnesyl-L-cysteine	*wild type enzyme, at pH 7.4 and 25&deg;C
-KCAT	Homo sapiens	1.25	S-adenosyl-L-methionine	*wild type enzyme, at pH 7.4 and 25&deg;C

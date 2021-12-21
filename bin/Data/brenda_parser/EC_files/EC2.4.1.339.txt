@@ -1,6 +1,0 @@
-KCAT	Listeria innocua	3.9	D-fructose	*30&Acirc;&deg;C, pH 6
-KCAT	Listeria innocua	33	alpha-D-mannose 1-phosphate	*30&Acirc;&deg;C, pH 6
-KCAT	Listeria innocua	31	D-mannopyranose	*30&Acirc;&deg;C, pH 6
-KCAT	Listeria innocua	12	beta-D-mannopyranosyl-(1-&gt;2)-D-mannopyranose	*30&Acirc;&deg;C, pH 6
-KCAT	Listeria innocua	35	beta-D-mannopyranosyl-(1-&gt;2)-D-mannopyranose	*30&Acirc;&deg;C, pH 7
-KCAT	Listeria innocua	12	beta-D-mannopyranosyl-(1-&gt;2)-beta-D-mannopyranosyl-(1-&gt;2)-D-mannopyranose	*30&Acirc;&deg;C, pH 7

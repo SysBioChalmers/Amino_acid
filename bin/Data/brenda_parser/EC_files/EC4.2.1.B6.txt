@@ -1,2 +1,0 @@
-KCAT	Selaginella moellendorffii	185.3	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid	*pH 7.5, 25&deg;C, recombinant enzyme
-KCAT	Selaginella moellendorffii	261.1	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid	*pH 7.5, 25&deg;C, recombinant enzyme

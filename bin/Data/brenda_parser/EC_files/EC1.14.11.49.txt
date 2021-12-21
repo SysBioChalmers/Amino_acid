@@ -1,2 +1,0 @@
-KCAT	Streptomyces sp.	1.27	UMP	*at pH 7.5 and 30&deg;C
-KCAT	Streptomyces sp.	1.53	2-oxoglutarate	*at pH 7.5 and 30&deg;C

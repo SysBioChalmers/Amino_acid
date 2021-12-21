@@ -1,1 +1,0 @@
-ecNumber*1.14.14.127#turnoverNumber*0.003#turnoverNumberMaximum*0.005#substrate*methyl (2E,6E)-farnesoate#commentary*pH 7.7, 30&deg;C#organism*Diploptera punctata#ligandStructureId*199283#literature*732805#

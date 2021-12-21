@@ -1,1 +1,0 @@
-KCAT	Arabidopsis thaliana	0.8	(R)-2-hydroxyglutarate	*25&deg;C, pH 8.75, cofactor oxidized 2,6-dichlorophenolindophenol

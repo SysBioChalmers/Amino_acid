@@ -1,1 +1,0 @@
-KCAT	Arabidopsis thaliana	65	L-aspartate	*pH 8.0, 30&deg;C

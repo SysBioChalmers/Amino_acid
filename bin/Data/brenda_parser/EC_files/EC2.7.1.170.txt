@@ -1,1 +1,0 @@
-KCAT	Escherichia coli	7000	1,6-anhydro-N-acetyl-beta-muramate	*pH and temperature not specified in the publication

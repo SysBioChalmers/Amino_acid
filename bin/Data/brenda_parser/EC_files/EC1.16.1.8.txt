@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	3.6	NADPH	*pH 7.5, 25&Acirc;&deg;C, recombinant mutant A312H
-KCAT	Homo sapiens	3.92	NADPH	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Homo sapiens	7.2	NADPH	*pH 7.5, 25&Acirc;&deg;C, recombinant wild-type enzyme
-KCAT	Homo sapiens	7.8	NADPH	*pH 7.5, 25&Acirc;&deg;C, recombinant mutant A312Q
-KCAT	Homo sapiens	8.24	ferricyanide	*variant I22/S175
-KCAT	Homo sapiens	0.43	2,6-dichlorophenolindophenol	*variant I22/S175
-KCAT	Homo sapiens	1.61	menadione	*variant I22/S175
-KCAT	Homo sapiens	1.61	doxorubicin	*variant I22/S175
-KCAT	Homo sapiens	0.86	3-acetylpyridine adenine dinucleotide phosphate	*variant I22/S175

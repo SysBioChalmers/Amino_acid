@@ -1,9 +1,0 @@
-KCAT	Rhodococcus jostii	0.0178	3-hydroxybenzoate	*pH 8, 25&Acirc;&deg;C, enzyme immobilized onto surface-functionalized electrospun polycaprolactone (PCL) fibers
-KCAT	Rhodococcus jostii	3	3-hydroxybenzoate	*wild type enzyme, at pH 8.0 and 25&Acirc;&deg;C
-KCAT	Rhodococcus jostii	6.49	3-hydroxybenzoate	*in 100 mM Tris-H2SO4 (pH 8.0), at 4&Acirc;&deg;C
-KCAT	Rhodococcus jostii	21	3-hydroxybenzoate	*pH 8, 25&Acirc;&deg;C, native enzyme
-KCAT	Rhodococcus jostii	35	3-hydroxybenzoate	*in 50 mM Tris-SO4 (pH 8.0), at 25&Acirc;&deg;C
-KCAT	Rhodococcus jostii	41	3-hydroxybenzoate	*mutant enzyme Y105F, at pH 8.0 and 25&Acirc;&deg;C
-KCAT	Rhodococcus jostii	10	2,3-Dihydroxybenzoate	*in 50 mM Tris-SO4 (pH 8.0), at 25&Acirc;&deg;C
-KCAT	Rhodococcus jostii	7	2,5-Dihydroxybenzoate	*in 50 mM Tris-SO4 (pH 8.0), at 25&Acirc;&deg;C
-KCAT	Rhodococcus jostii	13	3,5-Dihydroxybenzoate	*in 50 mM Tris-SO4 (pH 8.0), at 25&Acirc;&deg;C

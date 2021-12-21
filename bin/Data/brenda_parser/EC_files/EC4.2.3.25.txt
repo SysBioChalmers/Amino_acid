@@ -1,2 +1,0 @@
-KCAT	Actinidia polygama	0.014	geranyl diphosphate	*
-KCAT	Actinidia arguta	0.044	geranyl diphosphate	*

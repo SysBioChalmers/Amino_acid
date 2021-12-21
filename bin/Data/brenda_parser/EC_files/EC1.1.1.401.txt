@@ -1,3 +1,0 @@
-KCAT	Sphingomonas sp.	0.012	2-dehydro-3-deoxy-L-mannonate	*at pH 8.0 and 25&deg;C
-KCAT	Sphingomonas sp.	0.18	2-dehydro-3-deoxy-L-lyxonate	*at pH 8.0 and 25&deg;C
-KCAT	Sphingomonas sp.	0.86	2-dehydro-3-deoxy-L-rhamnonate	*at pH 8.0 and 25&deg;C

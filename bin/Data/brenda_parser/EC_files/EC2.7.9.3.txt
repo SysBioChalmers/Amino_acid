@@ -1,1 +1,0 @@
-KCAT	Homo sapiens	0.0058	ATP	*pH 7.0, temperature not specified in the publication, recombinant His6-tagged enzyme mutant Sephs2-U60C

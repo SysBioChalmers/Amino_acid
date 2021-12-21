@@ -1,2 +1,0 @@
-KCAT	Homo sapiens	-999	more	*
-KCAT	Homo sapiens	0.6	Ac-VDVAD-7-amido-4-trifluoromethylcoumarin	*pH 6.5, 22&deg;C, wild-type enzyme

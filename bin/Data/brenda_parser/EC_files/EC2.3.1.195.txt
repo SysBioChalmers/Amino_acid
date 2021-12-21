@@ -1,3 +1,0 @@
-KCAT	Arabidopsis thaliana	0.125	1-Octanol	*pH 7.7, 25&deg;C, recombinant His6-tagged enzyme
-KCAT	Arabidopsis thaliana	11.3	(3Z)-hex-3-en-ol	*pH 7.7, 25&deg;C, recombinant His6-tagged enzyme
-KCAT	Arabidopsis thaliana	23	acetyl-CoA	*pH 7.7, 25&deg;C, recombinant His6-tagged enzyme

@@ -1,3 +1,0 @@
-KCAT	Candida nitratophila	-999	more	*above 6000
-KCAT	Glycine max	-999	more	*
-KCAT	Ankistrodesmus braunii	470	NADPH	*

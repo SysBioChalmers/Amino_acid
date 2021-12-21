@@ -1,2 +1,0 @@
-KCAT	Metallosphaera sedula	440	NADPH	*65&Acirc;&deg;C, pH 7.9
-KCAT	Metallosphaera sedula	440	succinate semialdehyde	*65&Acirc;&deg;C, pH 7.9

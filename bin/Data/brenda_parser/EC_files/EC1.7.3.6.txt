@@ -1,1 +1,0 @@
-KCAT	Paracoccus denitrificans	0.53	hydroxylamine	*pH 8, temperature not specified in the publication

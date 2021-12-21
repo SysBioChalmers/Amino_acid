@@ -1,3 +1,0 @@
-KCAT	Aeromonas veronii	0.2	D-threonine	*pH 8.0, temperature not specified in the publication
-KCAT	Aeromonas veronii	18.3	D-beta-phenylserine	*25&Acirc;&deg;C, pH 8.0
-KCAT	Aeromonas veronii	0.54	alpha-methyl-beta-phenylserine	*25&Acirc;&deg;C, pH 8.0

@@ -1,3 +1,0 @@
-KCAT	Bacillus subtilis	0.0078	coproporphyrin III	*pH 7.5, 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.03	coproporphyrin III	*pH 7.5, 37&deg;C
-KCAT	Bacillus subtilis	0.4	protoporphyrin IX	*pH 7.2, 30&deg;C. The Km-value for protoporphyrin IX is the same independent of whether Zn2+ or Fe2+ is used in the reaction

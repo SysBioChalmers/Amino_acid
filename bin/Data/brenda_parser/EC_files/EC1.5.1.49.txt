@@ -1,4 +1,0 @@
-KCAT	Colwellia psychrerythraea	0.0069	L-proline	*pH 10.5, 30&deg;C, cosubstrate: NAD+
-KCAT	Colwellia psychrerythraea	1.01	L-proline	*pH 10.5, 30&deg;C, cosubstrate: NADP+
-KCAT	Colwellia psychrerythraea	10.35	DELTA1-pyrroline-2-carboxylate	*pH 6.5, 30&deg;C, cosubstrate: NADH
-KCAT	Colwellia psychrerythraea	124.5	DELTA1-pyrroline-2-carboxylate	*pH 6.5, 30&deg;C, cosubstrate: NADPH

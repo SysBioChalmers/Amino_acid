@@ -1,2 +1,0 @@
-KCAT	Haloarcula hispanica	12.2	mesaconate	*37&deg;C, pH 7.8
-KCAT	Haloarcula hispanica	12.2	succinyl-CoA	*37&deg;C, pH 7.8

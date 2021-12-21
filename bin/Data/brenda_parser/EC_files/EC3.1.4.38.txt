@@ -1,5 +1,0 @@
-KCAT	Bos taurus	1	sn-glycero-3-phosphocholine	*soluble isozyme, pH 8.0, 37&deg;C
-KCAT	Bos taurus	2	4-nitrophenyl phosphocholine	*soluble isozyme, pH 8.0, 37&deg;C
-KCAT	Bos taurus	2.5	lysophosphatidylcholine	*soluble isozyme, pH 8.0, 37&deg;C
-KCAT	Streptomyces sanglieri	29	sn-glycerol-3-phosphocholine	*pH 7.2, 37&deg;C
-KCAT	Bos taurus	65	lysosphingomyelin	*soluble isozyme, pH 8.0, 37&deg;C

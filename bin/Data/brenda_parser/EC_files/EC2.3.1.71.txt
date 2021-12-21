@@ -1,4 +1,0 @@
-KCAT	Mus musculus	3.2	glycine	*pH 8.0, temperature not specified in the publication
-KCAT	Mus musculus	4.2	benzoyl-CoA	*pH 8.0, temperature not specified in the publication
-KCAT	Mus musculus	0.57	glycine ethyl ester	*pH 8.0, temperature not specified in the publication
-KCAT	Mus musculus	1	Glycine methyl ester	*pH 8.0, temperature not specified in the publication

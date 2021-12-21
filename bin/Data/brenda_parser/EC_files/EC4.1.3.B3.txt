@@ -1,2 +1,0 @@
-KCAT	Pseudomonas putida	7.5	4-carboxy-4-hydroxy-2-oxoadipate	*wild type protein, 1.0 mM Mn2+, pH 8.0, 25&deg;C
-KCAT	Pseudomonas putida	14.4	4-carboxy-4-hydroxy-2-oxoadipate	*wild type protein, 1.0 mM Mg2+, pH 8.0, 25&deg;C

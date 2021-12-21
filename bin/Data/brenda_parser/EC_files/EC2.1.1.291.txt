@@ -1,4 +1,0 @@
-KCAT	Papaver somniferum	0.1	guaiacol	*pH 8.0, 35&Acirc;&deg;C
-KCAT	Papaver somniferum	0.07	(S)-reticuline	*pH 8.0, 35&Acirc;&deg;C
-KCAT	Papaver somniferum	0.07	(R)-reticuline	*pH 8.0, 35&Acirc;&deg;C
-KCAT	Papaver somniferum	0.02	isovanillic acid	*pH 8.0, 35&Acirc;&deg;C

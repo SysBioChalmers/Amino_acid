@@ -1,4 +1,0 @@
-KCAT	Streptomyces sp.	0.00012	daunorubicin	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Streptomyces sp.	0.024	13-deoxydaunorubicin	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Streptomyces sp.	0.63	13-dihydrodaunorubicin	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Streptomyces sp.	0.00026	13-deoxycarminomycin	*pH 7.5, 30&Acirc;&deg;C

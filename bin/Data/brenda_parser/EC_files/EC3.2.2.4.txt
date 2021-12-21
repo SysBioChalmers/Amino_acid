@@ -1,5 +1,0 @@
-KCAT	Azotobacter vinelandii	0.6	AMP	*mutant enzyme
-KCAT	Azotobacter vinelandii	2	NMN	*
-KCAT	Azotobacter vinelandii	60	AMP	*
-KCAT	Azotobacter vinelandii	60	AMP	*
-KCAT	Azotobacter vinelandii	62	AMP	*

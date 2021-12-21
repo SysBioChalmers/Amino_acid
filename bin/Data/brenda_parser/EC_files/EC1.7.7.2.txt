@@ -1,2 +1,0 @@
-KCAT	Synechococcus sp.	80	nitrate	*25&Acirc;&deg;C, pH 8.0, electron donor methylviologen
-KCAT	Synechococcus elongatus PCC 7942 = FACHB-805	1090	nitrate	*dithionite-reduced methyl viologen as electron donor

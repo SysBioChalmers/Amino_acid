@@ -1,2 +1,0 @@
-KCAT	Arabidopsis thaliana	0.00082	campestanol	*pH 7.25, 30&deg;C
-KCAT	Arabidopsis thaliana	0.03	campesterol	*pH 7.25, 30&deg;C

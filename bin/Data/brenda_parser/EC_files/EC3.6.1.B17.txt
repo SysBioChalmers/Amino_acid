@@ -1,2 +1,0 @@
-KCAT	Dengue virus	2.2	ATP	*mutant NS3-FL, pH 7.0, 30&Acirc;&deg;C
-KCAT	Dengue virus	2.8	ATP	*mutant NS3-hel, pH 7.0, 30&Acirc;&deg;C

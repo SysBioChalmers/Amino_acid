@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	-999	more	*the 5'-flanking base pair to G/T mismatches influences the rate of removal of thymine from G/T mismatch: kcat values with C/G, T/A, G/C, and A/T as the 5'-base pair are 0.91, 0.023, 0.0046, and 0.0013 per min, respectively. kcat values for removal of thymine from S6-methylthioguanine/T with C/G, T/A, G/C, and A/T as the 5'-base pair are 0.026, 0.018, 0.0017, and 0.0010 min, respectively
-KCAT	Homo sapiens	-999	more	*effect of the 5'-flanking base pair on kcat
-KCAT	Homo sapiens	0.000015	thymine-mismatched double-stranded DNA	*excision of thymine from T/G mismatches
-KCAT	Homo sapiens	0.000153	3,N4-ethenocytosine-mismatched double-stranded DNA	*excision of 3,N4-ethenocytosine from 3,N4-ethenocytidine/G mismatches
-KCAT	Homo sapiens	0.00035	uracil-mismatched double-stranded DNA	*excision of uracil from U/G mismatches
-KCAT	Homo sapiens	0.0036	thymine-mismatched double-stranded DNA	*cleavage of thymine from G/T mismatch
-KCAT	Homo sapiens	0.043	uracil-mismatched double-stranded DNA	*cleavage of uracil from G/U mismatch
-KCAT	Homo sapiens	2.1	5-chlorouracil-mismatched double-stranded DNA	*cleavage of 5-chlorouracil from G/5-chlorouracil mismatch
-KCAT	Homo sapiens	3.7	5-fluorouracil-mismatched double-stranded DNA	*cleavage of 5-fluorouracil from G/5-fluorouracil mismatch

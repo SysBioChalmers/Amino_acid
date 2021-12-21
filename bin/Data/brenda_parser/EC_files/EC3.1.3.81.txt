@@ -1,2 +1,0 @@
-KCAT	Saccharomyces cerevisiae	40.9	diacylglycerol diphosphate	*pH 6.5, 30&deg;C
-KCAT	Saccharomyces cerevisiae	96.67	diacylglycerol diphosphate	*pH 6.5, 30&deg;C

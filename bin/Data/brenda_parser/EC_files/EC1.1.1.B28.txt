@@ -1,3 +1,0 @@
-KCAT	Escherichia coli	6.76	NADPH	*37&Acirc;&deg;C, pH 7.4
-KCAT	Escherichia coli	26.67	NADH	*37&Acirc;&deg;C, pH 7.4
-KCAT	Escherichia coli	2.78	dTDP-4-dehydro-6-deoxy-alpha-D-glucose	*37&Acirc;&deg;C, pH 7.4

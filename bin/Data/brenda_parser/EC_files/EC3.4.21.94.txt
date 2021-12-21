@@ -1,8 +1,0 @@
-KCAT	Mus musculus	0.6	Ac-Arg-Phe-Ala-Arg-4-methylcoumarin 7-amide	*pH 5.0, 37&deg;C
-KCAT	Mus musculus	1.2	Boc-Gly-Lys-Arg-4-methylcoumarin 7-amide	*pH 5.0, 37&deg;C
-KCAT	Mus musculus	1.8	Boc-Gly-Arg-Arg-4-methylcoumarin 7-amide	*pH 5.0, 37&deg;C
-KCAT	Mus musculus	34.2	CBZ-Arg-Ser-Lys-Arg-4-methylcoumarin 7-amide	*pH 5.0, 37&deg;C
-KCAT	Mus musculus	34.2	pGlu-Arg-Thr-Lys-Arg-4-methylcoumarin 7-amide	*pH 5.0, 37&deg;C
-KCAT	Mus musculus	39.6	Ac-Orn-Ser-Lys-Arg-4-methylcoumarin 7-amide	*pH 5.0, 37&deg;C
-KCAT	Mus musculus	43.8	Ac-Lys-Ser-Lys-Arg-4-methylcoumarin 7-amide	*pH 5.0, 37&deg;C
-KCAT	Mus musculus	99	Ac-Arg-Pro-Lys-Arg-4-methylcoumarin 7-amide	*pH 5.0, 37&deg;C

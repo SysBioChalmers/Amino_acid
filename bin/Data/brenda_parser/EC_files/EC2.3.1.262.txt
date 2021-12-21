@@ -1,1 +1,0 @@
-KCAT	Pseudomonas aeruginosa	0.3	anthraniloyl-CoA	*pH 7.5, 37&deg;C

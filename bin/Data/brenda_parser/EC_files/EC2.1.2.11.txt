@@ -1,3 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.78	3-methyl-2-oxobutanoate	*
-KCAT	Mycobacterium tuberculosis	0.78	5,10-methylenetetrahydrofolate	*
-KCAT	Mycobacterium tuberculosis	0.783	3-methyl-2-oxobutanoate	*

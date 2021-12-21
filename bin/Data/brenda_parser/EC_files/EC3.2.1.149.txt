@@ -1,6 +1,0 @@
-KCAT	Camellia sinensis	5.83	2-phenylethyl beta-vicianoside	*pH 6.0, 37&Acirc;&deg;C
-KCAT	Camellia sinensis	5.85	2-phenylethyl beta-vicianoside	*
-KCAT	Camellia sinensis	43.7	2-phenylethyl beta-vicianoside	*
-KCAT	Camellia sinensis	43.8	2-phenylethyl beta-primeveroside	*pH 6.0, 37&Acirc;&deg;C
-KCAT	Camellia sinensis	43.7	2-phenylethyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	*37&Acirc;&deg;C, pH 6.0
-KCAT	Camellia sinensis	5.85	2-phenylethyl-6-O-alpha-D-arabinosyl-beta-D-glucopyranoside	*37&Acirc;&deg;C, pH 6.0

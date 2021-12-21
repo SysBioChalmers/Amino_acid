@@ -1,3 +1,0 @@
-KCAT	Artemia sp.	1.2	GTP	*
-KCAT	Artemia sp.	1.2	GTP	*
-KCAT	Artemia sp.	1.6	GTP	*

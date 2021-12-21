@@ -1,4 +1,0 @@
-KCAT	Streptomyces coelicolor	0.0003	geranyl diphosphate	*pH 7.0, 30&deg;C
-KCAT	Streptomyces coelicolor	0.0046	2-methylneryl diphosphate	*pH 6.7, 30&deg;C
-KCAT	Streptomyces coelicolor	0.039	(E)-2-methylgeranyl diphosphate	*pH 7.0, 30&deg;C
-KCAT	Streptomyces coelicolor	0.105	(E)-2-methylgeranyl diphosphate	*pH 6.7, 30&deg;C

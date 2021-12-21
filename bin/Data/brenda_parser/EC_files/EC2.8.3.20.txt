@@ -1,2 +1,0 @@
-KCAT	Chloroflexus aurantiacus	13	succinyl-CoA	*55&Acirc;&deg;C, pH and temperature not specified in the publication
-KCAT	Chloroflexus aurantiacus	13	(R)-citramalate	*55&Acirc;&deg;C, pH and temperature not specified in the publication

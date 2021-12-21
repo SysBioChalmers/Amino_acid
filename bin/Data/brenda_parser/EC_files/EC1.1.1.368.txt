@@ -1,1 +1,0 @@
-KCAT	Thauera aromatica	7	6-hydroxycyclohex-1-ene-1-carbonyl-CoA	*pH 7.4, 37&deg;C, calculated as kcat number per subunit

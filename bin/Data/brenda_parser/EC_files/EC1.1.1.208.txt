@@ -1,6 +1,0 @@
-KCAT	Mentha x piperita	0.06	(-)-menthone	*pH 9.3, 31&deg;C, recombinant enzyme
-KCAT	Mentha x piperita	0.06	NADPH	*pH 9.3, 31&deg;C, recombinant enzyme
-KCAT	Mentha x piperita	0.2	(2R,5R)-isomenthone	*recombinant His6-tagged enzyme, pH 7.0, 30&deg;C
-KCAT	Artemisia annua	0.6	(-)-menthone	*pH 7.0, 30&deg;C
-KCAT	Artemisia annua	0.91	(+)-neomenthol	*pH 7.0, 30&deg;C
-KCAT	Mentha x piperita	0.96	(2S,5R)-menthone	*recombinant His6-tagged enzyme, pH 7.0, 30&deg;C

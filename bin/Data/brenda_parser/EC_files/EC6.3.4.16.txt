@@ -1,8 +1,0 @@
-KCAT	Methanobrevibacter smithii	0.043	ATP	*at pH 8.0 and 37&Acirc;&deg;C
-KCAT	Lithobates catesbeianus	2.4	ATP	*wild-type enzyme, comparison to native and mutant enzyme
-KCAT	Homo sapiens	5.54	NH3	*pH 7.6, 37&Acirc;&deg;C, mutant T1406D
-KCAT	Homo sapiens	5.73	NH3	*pH 7.6, 37&Acirc;&deg;C, wild-type enzyme
-KCAT	Methanobrevibacter smithii	0.052	NH4+	*at pH 8.0 and 37&Acirc;&deg;C
-KCAT	Methanobrevibacter smithii	0.044	HCO3-	*at pH 8.0 and 37&Acirc;&deg;C
-KCAT	Lithobates catesbeianus	1.8	ammonia	*wild-type enzyme, comparison to native and mutant enzyme
-KCAT	Homo sapiens	-999	more	*

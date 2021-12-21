@@ -1,3 +1,0 @@
-KCAT	Bellis perennis	-999	more	*relative kcat-values for wild-type enzyme and mutant enzymes
-KCAT	Bellis perennis	34	UDP-D-glucuronate	*pH 7.0, cosubstrate: cyanidin-3-O-(6'-O-malonyl-beta-D-glucoside), native enzyme
-KCAT	Bellis perennis	35	UDP-D-glucuronate	*pH 7.0, cosubstrate: cyanidin-3-O-(6'-O-malonyl-beta-D-glucoside), recombinant enzyme

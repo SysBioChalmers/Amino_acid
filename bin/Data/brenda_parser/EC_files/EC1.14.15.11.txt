@@ -1,2 +1,0 @@
-KCAT	Streptomyces avermitilis	0.018	Compactin	*pH 7.4, 30&deg;C
-KCAT	Streptomyces avermitilis	0.36	diclofenac	*pH 7.4, 30&deg;C

@@ -1,4 +1,0 @@
-KCAT	Carapichea ipecacuanha	0.00028	cephaeline	*pH 7.5, 30&deg;C
-KCAT	Carapichea ipecacuanha	0.0071	S-adenosyl-L-homocysteine	*pH 7.5, 30&deg;C, cosubstrate: N-deacetylisoipecoside
-KCAT	Carapichea ipecacuanha	0.0113	N-deacetylisoipecoside	*pH 7.5, 30&deg;C
-KCAT	Carapichea ipecacuanha	0.0204	7-O-methyl-N-deacetylisoipecoside	*pH 7.5, 30&deg;C

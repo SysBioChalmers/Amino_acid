@@ -1,7 +1,0 @@
-KCAT	Nocardia farcinica	0.00035	Maleate	*mutant enzyme C194S, at pH 7.5, temperature not specified in the publication
-KCAT	Nocardia farcinica	0.0019	Maleate	*mutant enzyme C76S, at pH 7.5, temperature not specified in the publication
-KCAT	Nocardia farcinica	0.32	Maleate	*mutant enzyme Y133F, at pH 7.5, temperature not specified in the publication
-KCAT	Nocardia farcinica	2.8	Maleate	*wild type enzyme, at pH 7.5, temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	30	Maleate	*
-KCAT	Alcaligenes faecalis	36.7	Maleate	*
-KCAT	Rhodococcus jostii	96.7	Maleate	*pH 8.0, 40&Acirc;&deg;C, recombinant enzyme mutant MaiR-D48/49-304AA

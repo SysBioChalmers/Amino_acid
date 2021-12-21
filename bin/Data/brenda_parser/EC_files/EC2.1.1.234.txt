@@ -1,2 +1,0 @@
-KCAT	Streptomyces venezuelae	0.07	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	*pH 7.5, 24&deg;C, cosubstrate: 3.0 mM S-adenosyl-L-methionine
-KCAT	Streptomyces venezuelae	1.533	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose	*pH 7.5, 24&deg;C, cosubstrate: 3.0 mM S-adenosyl-L-methionine

@@ -1,8 +1,0 @@
-KCAT	Pyrococcus sp.	6.35	maltotriose	*pH 5.0, 90&Acirc;&deg;C
-KCAT	Thermococcus sp.	11.45	maltotriose	*pH 5.0, 85&Acirc;&deg;C
-KCAT	Pyrococcus sp.	0.0033	maltotetraose	*pH 5.0, 90&Acirc;&deg;C
-KCAT	Thermococcus sp.	3.95	maltotetraose	*pH 5.0, 85&Acirc;&deg;C
-KCAT	Pyrococcus sp.	0.0017	maltopentaose	*pH 5.0, 90&Acirc;&deg;C
-KCAT	Thermococcus sp.	3.85	maltopentaose	*pH 5.0, 85&Acirc;&deg;C
-KCAT	Pyrococcus sp.	25.75	6-O-maltotetraosyl-beta-cyclodextrin	*pH 5.0, 90&Acirc;&deg;C
-KCAT	Thermococcus sp.	30.1	6-O-maltotetraosyl-beta-cyclodextrin	*pH 6.0, 98&Acirc;&deg;C

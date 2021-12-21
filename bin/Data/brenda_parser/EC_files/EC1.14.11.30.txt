@@ -1,7 +1,0 @@
-KCAT	Homo sapiens	0.0135	O2	*mutant enzyme D210E, at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.33	O2	*mutant enzyme D210G, at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.55	O2	*wild type enzyme, at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	-999	more	*the catalytic center activities obtained for the enzyme purified by two alternative procedures are 85-135 and 70-120 mol/mol/min, respectively
-KCAT	Homo sapiens	0.027	DESGLPQLTSYDAEVNAPIQGSRNLLQGEELLRALDQVN	*mutant enzyme D210E, at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.383	DESGLPQLTSYDAEVNAPIQGSRNLLQGEELLRALDQVN	*mutant enzyme D210G, at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.55	DESGLPQLTSYDAEVNAPIQGSRNLLQGEELLRALDQVN	*wild type enzyme, at pH 7.0 and 37&Acirc;&deg;C

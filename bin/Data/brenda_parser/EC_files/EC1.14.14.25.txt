@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	-999	more	*turnover-numbers of truncated enzyme forms
-KCAT	Homo sapiens	0.00117	(24S)-24-hydroxycholesterol	*full length enzyme
-KCAT	Homo sapiens	0.0018	cholesterol	*recombinant wild-type enzyme
-KCAT	Homo sapiens	0.0072	cholesterol	*recombinant truncation mutant enzyme
-KCAT	Homo sapiens	0.0076	cholesterol 3-sulfate	*recombinant wild-type enzyme
-KCAT	Homo sapiens	0.0142	(24S)-24-hydroxycholesterol	*recombinant truncation mutant enzyme
-KCAT	Homo sapiens	0.0153	(24S)-24-hydroxycholesterol	*recombinant wild-type enzyme
-KCAT	Homo sapiens	0.042	cholesterol 3-sulfate	*recombinant truncation mutant enzyme
-KCAT	Homo sapiens	0.11	cholesterol	*

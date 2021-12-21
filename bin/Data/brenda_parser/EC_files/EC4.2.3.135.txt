@@ -1,3 +1,0 @@
-KCAT	Stereum hirsutum	0.0037	(2E,6E)-farnesyl diphosphate	*isoform 64702, pH 8.0, 21&Acirc;&deg;C
-KCAT	Stereum hirsutum	0.0044	(2E,6E)-farnesyl diphosphate	*isoform 25180, pH 8.0, 21&Acirc;&deg;C
-KCAT	Stereum hirsutum	0.0063	(2E,6E)-farnesyl diphosphate	*isoform 73029, pH 8.0, 21&Acirc;&deg;C

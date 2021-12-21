@@ -1,9 +1,0 @@
-KCAT	Pseudomonas putida	0.02	4-oxalocrotonate	*mutant E111Q, in complex with vinylpuruvate hydratase
-KCAT	Pseudomonas putida	0.03	4-oxalocrotonate	*mutant E109Q, in complex with vinylpuruvate hydratase
-KCAT	Pseudomonas putida	21.8	(3E)-2-oxohex-3-enedioate	*25&deg;C, pH 8.0
-KCAT	Pseudomonas putida	22.5	(3E)-2-oxohex-3-enedioate	*25&deg;C, pH 6.0
-KCAT	Pseudomonas putida	68	2-oxo-3-hexenedioate	*
-KCAT	Pseudomonas putida	68	4-oxalocrotonate	*wild-type, in complex with vinylpuruvate hydratase
-KCAT	Pseudomonas putida	98.8	(3E)-2-oxohex-3-enedioate	*25&deg;C, pH 7.4
-KCAT	Pseudomonas putida	104.2	(3E)-2-oxohex-3-enedioate	*25&deg;C, pH 7.0
-KCAT	Pseudomonas putida	108.4	(3E)-2-oxohex-3-enedioate	*25&deg;C, pH 6.5

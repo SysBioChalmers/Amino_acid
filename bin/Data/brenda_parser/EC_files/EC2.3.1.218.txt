@@ -1,2 +1,0 @@
-KCAT	Curcuma longa	0.0112	malonyl-CoA	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
-KCAT	Curcuma longa	0.02	feruloyl-CoA	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme

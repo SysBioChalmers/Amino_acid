@@ -1,3 +1,0 @@
-KCAT	Plasmodium falciparum	1.2	Flap34endo	*C-terminal truncation mutant
-KCAT	Plasmodium yoelii	4.9	Flap34endo	*
-KCAT	Plasmodium falciparum	9.1	Flap34endo	*

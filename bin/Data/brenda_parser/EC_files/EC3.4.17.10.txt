@@ -1,3 +1,0 @@
-KCAT	Sus scrofa	8.5	hippuryl-Arg	*
-KCAT	Sus scrofa	13	dansyl-Phe-Ala-Arg	*
-KCAT	Sus scrofa	16	iodo-acetyl-Tyr-Ala-Arg	*

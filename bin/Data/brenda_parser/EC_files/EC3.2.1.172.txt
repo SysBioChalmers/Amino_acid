@@ -1,2 +1,0 @@
-KCAT	Bacillus subtilis	0.28	2-O-(4-deoxy-beta-L-threo-hex-4-enopyranuronosyl)-alpha-L-rhamnopyranose	*30&Acirc;&deg;C, pH 4.0
-KCAT	Bacillus subtilis	13.9	2-O-(4-deoxy-beta-L-threo-hex-4-enopyranuronosyl)-alpha-L-rhamnopyranose	*30&Acirc;&deg;C, pH 6.0

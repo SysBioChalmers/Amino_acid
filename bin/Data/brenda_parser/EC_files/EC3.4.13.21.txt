@@ -1,3 +1,0 @@
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.22	L-Asp-4-nitroanilide	*wild-type
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	5.83	L-Asp-4-nitroanilide	*mutant N89H/Q153E/L205R
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	39	L-Asp-4-nitroanilide	*

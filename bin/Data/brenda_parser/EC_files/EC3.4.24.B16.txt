@@ -1,3 +1,0 @@
-KCAT	Pseudomonas aeruginosa	15.2	4-(dimethylamino)azobenzene-4'-sulfonyl-Leu-Gly-Gly-Gly-Ala-5-(2-aminoethylamino)-1-naphthalenesulfonic acid	*in 5 mM Tris-HCl buffer, pH 8.5
-KCAT	Pseudomonas aeruginosa	11.8	succinyl-Gly-Gly-Phe-4-nitroanilide	*
-KCAT	Pseudomonas aeruginosa	3.55	succinyl-Gly-Gly-Leu-4-nitroanilide	*

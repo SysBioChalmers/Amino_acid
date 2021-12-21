@@ -1,4 +1,0 @@
-KCAT	Rhodococcus erythropolis	0.022	2-(2'-hydroxyphenyl)benzenesulfinate	*pH 7.4, 35&deg;C
-KCAT	Rhodococcus erythropolis	0.103	2-phenylbenzenesulfinate	*pH 7.0, 28&deg;C
-KCAT	Rhodococcus erythropolis	0.123	2'-hydroxybiphenyl-2-sulfinate	*pH 7.0, 28&deg;C
-KCAT	Paenibacillus sp.	0.32	2-(2-hydroxyphenyl)benzenesulfinate	*pH 7.0, 50&deg;C

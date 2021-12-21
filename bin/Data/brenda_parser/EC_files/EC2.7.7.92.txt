@@ -1,1 +1,0 @@
-KCAT	Bacteroides thetaiotaomicron	1.02	CTP	*pH 7.5, 25&Acirc;&deg;C

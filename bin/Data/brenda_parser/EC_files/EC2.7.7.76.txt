@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	0.003	CTP	*1 mM MnCl2 pH 7.2, temperature not specified in the publication
-KCAT	Escherichia coli	0.0062	CTP	*1 mM MgCl2 pH 7.2, temperature not specified in the publication

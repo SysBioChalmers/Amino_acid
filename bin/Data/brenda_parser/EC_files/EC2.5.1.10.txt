@@ -1,6 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.49	isopentenyl diphosphate	*pH 7.9, 37&Acirc;&deg;C
-KCAT	Rhizosolenia setigera	6	isopentenyl diphosphate	*with dimethylallyl diphosphate as cosubstrate, at pH 7.5% and 30&Acirc;&deg;C
-KCAT	Rhizosolenia setigera	33.5	isopentenyl diphosphate	*with geranyl diphosphate as cosubstrate, at pH 7.5% and 30&Acirc;&deg;C
-KCAT	Rhizosolenia setigera	5.73	dimethylallyl diphosphate	*at pH 7.5% and 30&Acirc;&deg;C
-KCAT	Mycobacterium tuberculosis	0.2	geranyl diphosphate	*pH 7.9, 37&Acirc;&deg;C
-KCAT	Rhizosolenia setigera	43.5	geranyl diphosphate	*at pH 7.5% and 30&Acirc;&deg;C

@@ -1,2 +1,0 @@
-KCAT	Citrobacter braakii	44	[reduced NADPH-hemoprotein reductase]	*pH 7.5, 22&deg;C, P450cin mutant R346A
-KCAT	Citrobacter braakii	82.4	[reduced NADPH-hemoprotein reductase]	*pH 7.5, 22&deg;C, P450cin mutant R102A

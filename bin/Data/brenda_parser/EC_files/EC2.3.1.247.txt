@@ -1,8 +1,0 @@
-KCAT	Candidatus Cloacimonas acidaminovorans	0.13	(5S)-5-amino-3-oxohexanoate	*mutant S82G, pH and temperature not specified in the publication
-KCAT	Candidatus Cloacimonas acidaminovorans	0.13	acetyl-CoA	*mutant S82G, pH and temperature not specified in the publication
-KCAT	Candidatus Cloacimonas acidaminovorans	0.32	(5S)-5-amino-3-oxohexanoate	*mutant E143Q, pH and temperature not specified in the publication
-KCAT	Candidatus Cloacimonas acidaminovorans	0.32	acetyl-CoA	*mutant E143Q, pH and temperature not specified in the publication
-KCAT	Candidatus Cloacimonas acidaminovorans	0.37	(5S)-5-amino-3-oxohexanoate	*mutant E143G, pH and temperature not specified in the publication
-KCAT	Candidatus Cloacimonas acidaminovorans	0.37	acetyl-CoA	*mutant E143G, pH and temperature not specified in the publication
-KCAT	Candidatus Cloacimonas acidaminovorans	2.69	(5S)-5-amino-3-oxohexanoate	*wild-type enzyme, pH and temperature not specified in the publication
-KCAT	Candidatus Cloacimonas acidaminovorans	2.69	acetyl-CoA	*wild-type enzyme, pH and temperature not specified in the publication

@@ -1,2 +1,0 @@
-KCAT	Arabidopsis thaliana	8.3	D-glucuronic acid	*
-KCAT	Arabidopsis thaliana	8.5	ATP	*

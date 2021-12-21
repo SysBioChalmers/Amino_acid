@@ -1,5 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.001	N1 duplex DNA	*pH 7.8, 37&deg;C, recombinant mutant E57A
-KCAT	Mycobacterium tuberculosis	0.002	N1 duplex DNA	*pH 7.8, 37&deg;C, recombinant mutant D251A
-KCAT	Mycobacterium tuberculosis	0.008	N1 duplex DNA	*pH 7.8, 37&deg;C, recombinant mutant Y137S
-KCAT	Mycobacterium tuberculosis	0.01	N1 duplex DNA	*pH 7.8, 37&deg;C, recombinant mutant Y234S/W235S
-KCAT	Mycobacterium tuberculosis	0.012	N1 duplex DNA	*pH 7.8, 37&deg;C, recombinant mutant F242S; pH 7.8, 37&deg;C, recombinant mutant W235S; pH 7.8, 37&deg;C, recombinant mutant Y234S; pH 7.8, 37&deg;C, recombinant wild-type enzyme

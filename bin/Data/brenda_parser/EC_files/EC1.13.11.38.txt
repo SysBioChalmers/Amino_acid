@@ -1,9 +1,0 @@
-KCAT	Pseudaminobacter salicylatoxidans	2.2	1-hydroxy-2-naphthoate	*pH 8.0, temperature not specified in the publication, mutant L38Q
-KCAT	Pseudaminobacter salicylatoxidans	3.31	1-hydroxy-2-naphthoate	*pH 8.0, temperature not specified in the publication, mutant A85H
-KCAT	Pseudaminobacter salicylatoxidans	4.6	1-hydroxy-2-naphthoate	*pH 8.0, temperature not specified in the publication, mutant W104Y
-KCAT	Pseudaminobacter salicylatoxidans	17	1-hydroxy-2-naphthoate	*pH 8.0, temperature not specified in the publication, mutant M46V
-KCAT	Pseudaminobacter salicylatoxidans	24	1-hydroxy-2-naphthoate	*pH 8.0, temperature not specified in the publication, wild-type enzyme
-KCAT	Pseudaminobacter salicylatoxidans	44	1-hydroxy-2-naphthoate	*
-KCAT	Pseudomonas sp.	70.4	2-Hydroxy-1-naphthoic acid	*
-KCAT	Nocardioides sp.	114	1-hydroxy-2-naphthoate	*
-KCAT	Nocardioides sp.	114	1-hydroxy-2-naphthoate	*pH 7.5, 25&deg;C

@@ -1,3 +1,0 @@
-KCAT	Heliobacterium modesticaldum	16	D-erythronate	*pH 8.0, 25&Acirc;&deg;C
-KCAT	Heliobacterium modesticaldum	41	4-hydroxy-L-threonine	*pH 8.0, 25&Acirc;&deg;C
-KCAT	Heliobacterium modesticaldum	12	D-threonate	*pH 8.0, 25&Acirc;&deg;C

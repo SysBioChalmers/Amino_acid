@@ -1,2 +1,0 @@
-KCAT	Salvia splendens	0.55	malonyl-CoA	*pH 8.5, temperature not specified in the publication
-KCAT	Salvia splendens	0.55	4'''-demalonylsalvianin	*pH 8.5, temperature not specified in the publication

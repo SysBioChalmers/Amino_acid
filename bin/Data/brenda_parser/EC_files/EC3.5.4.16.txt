@@ -1,4 +1,0 @@
-KCAT	Bacillus subtilis	0.0011	GTP	*isozyme GCYH-IB, in 100 mM HEPES (pH 8.0), 100 mM KCl, 0.5 mM MnCl2, 1 mM dithiothreitol, temperature not specified in the publication
-KCAT	Thermus thermophilus	0.0035	GTP	*pH 8.5, 25&Acirc;&deg;C, recombinant enzyme
-KCAT	Plasmodium falciparum	0.039	GTP	*at pH 7.8 and 37&Acirc;&deg;C
-KCAT	Thermus thermophilus	0.0017	GDP	*pH 8.5, 25&Acirc;&deg;C, recombinant enzyme

@@ -1,8 +1,0 @@
-KCAT	Ixeridium dentatum	0.00035	2-trans,6-trans-farnesyl diphosphate	*pH 7.0, 25&deg;C, recombinant mutant T433A
-KCAT	Ixeridium dentatum	0.00037	2-trans,6-trans-farnesyl diphosphate	*pH 7.0, 25&deg;C, recombinant mutant T433A/A435T
-KCAT	Ixeridium dentatum	0.016	2-trans,6-trans-farnesyl diphosphate	*pH 7.0, 25&deg;C, recombinant wild-type enzyme
-KCAT	Ixeridium dentatum	0.017	2-trans,6-trans-farnesyl diphosphate	*pH 7.0, 25&deg;C, recombinant mutant S434A
-KCAT	Ixeridium dentatum	0.044	2-trans,6-trans-farnesyl diphosphate	*pH 7.0, 25&deg;C, recombinant mutant A435T
-KCAT	Barnadesia spinosa	0.13	(2E,6E)-farnesyl diphosphate	*isoform GAS1, at pH 7.0 and 23&deg;C
-KCAT	Barnadesia spinosa	0.28	(2E,6E)-farnesyl diphosphate	*isoform GAS2, at pH 7.0 and 23&deg;C
-KCAT	Nostoc sp.	4.4	2-trans,6-trans-farnesyl diphosphate	*determined by incubating purified enzyme with various concentrations of 1 to 100 microM 2-trans,6-trans-farnesyl diphosphate

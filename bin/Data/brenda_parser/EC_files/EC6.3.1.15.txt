@@ -1,2 +1,0 @@
-KCAT	Streptomyces niveus	0.47	3-dimethylallyl-4-hydroxybenzoate	*pH 7.0, temperature not specified in the publication
-KCAT	Streptomyces niveus	0.36	4-hydroxy-3-methylbenzoate	*pH 7.0, temperature not specified in the publication

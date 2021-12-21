@@ -1,1 +1,0 @@
-ecNumber*1.13.12.2#turnoverNumber*34.7#turnoverNumberMaximum*#substrate*L-lysine#commentary*#organism*Pseudomonas fluorescens#ligandStructureId*134#literature*440276#

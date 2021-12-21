@@ -1,1 +1,0 @@
-KCAT	Pseudomonas sp.	0.167	Caffeine	*pH 7.5, 35&Acirc;&deg;C

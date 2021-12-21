@@ -1,4 +1,0 @@
-KCAT	Pseudomonas aeruginosa	0.026	butyryl-[acyl-carrier protein 3]	*pH 8.8, 25&deg;C, recombinant enzyme
-KCAT	Pseudomonas aeruginosa	0.05	butyryl-CoA	*pH 8.8, 25&deg;C, recombinant enzyme
-KCAT	Pseudomonas aeruginosa	0.35	butyryl-[acyl-carrier protein 1]	*pH 8.8, 25&deg;C, recombinant enzyme
-KCAT	Pseudomonas aeruginosa	0.46	butyryl-[acyl-carrier protein 2]	*pH 8.8, 25&deg;C, recombinant enzyme

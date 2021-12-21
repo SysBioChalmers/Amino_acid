@@ -1,4 +1,0 @@
-KCAT	Colletotrichum gloeosporioides	4.86	palmitoleate	*recombinant enzyme, whole enzyme activity, pH 6.5, 40&deg;C
-KCAT	Colletotrichum gloeosporioides	5.62	oleate	*recombinant enzyme, whole enzyme activity, pH 6.5, 40&deg;C
-KCAT	Colletotrichum gloeosporioides	6.58	alpha-linolenate	*recombinant enzyme, whole enzyme activity, pH 6.5, 40&deg;C
-KCAT	Colletotrichum gloeosporioides	10.5	(8R,9Z,12Z)-8-hydroperoxyoctadeca-9,12-dienoate	*recombinant enzyme, whole enzyme activity, pH 6.5, 40&deg;C

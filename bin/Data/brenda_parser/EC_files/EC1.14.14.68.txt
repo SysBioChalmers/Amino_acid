@@ -1,1 +1,0 @@
-KCAT	Oryza sativa	1.4	9beta-pimara-7,15-diene	*pH 7.5, 32&deg;C

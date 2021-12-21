@@ -1,4 +1,0 @@
-KCAT	Tulipa gesneriana	8.7	6-tuliposide A	*recombinant enzyme, pH 6.5, 22&deg;C
-KCAT	Tulipa gesneriana	35	1,6-tuliposide D	*recombinant enzyme, pH 6.5, 22&deg;C
-KCAT	Tulipa gesneriana	580	tuliposide F	*recombinant enzyme, pH 6.5, 22&deg;C
-KCAT	Tulipa gesneriana	2000	6-tuliposide B	*recombinant enzyme, pH 6.5, 22&deg;C

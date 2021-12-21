@@ -1,4 +1,0 @@
-KCAT	Synechococcus sp.	0.077	(S)-4-Amino-5-oxopentanoate	*gabaculine-resistant mutant enzyme
-KCAT	Hordeum vulgare	0.11	(S)-4-Amino-5-oxopentanoate	*
-KCAT	Synechococcus sp.	0.47	(S)-4-Amino-5-oxopentanoate	*wild-type enzyme
-KCAT	Synechococcus sp.	0.95	(S)-4-Amino-5-oxopentanoate	*

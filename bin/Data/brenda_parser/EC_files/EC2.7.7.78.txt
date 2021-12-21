@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	28.1	phosphate	*pH 7.5, 31&Acirc;&deg;C
-KCAT	Caenorhabditis elegans	380	phosphate	*pH 7.5, 26&Acirc;&deg;C
-KCAT	Homo sapiens	26	GDP-alpha-D-glucose	*pH 7.5, 31&Acirc;&deg;C
-KCAT	Caenorhabditis elegans	265	GDP-alpha-D-glucose	*pH 7.5, 26&Acirc;&deg;C

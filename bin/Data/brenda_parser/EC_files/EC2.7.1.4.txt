@@ -1,3 +1,0 @@
-KCAT	Entamoeba histolytica	14.3	D-fructose	*pH 7, 37&deg;C
-KCAT	Zea mays	494	D-fructose	*pH 8.5, 30&deg;C
-KCAT	Zea mays	8897	D-fructose	*pH 8.5, 30&deg;C

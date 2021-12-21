@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	1.2	ATP	*pH 7.6, 25&Acirc;&deg;C, isoenzyme CaMK IIalpha
-KCAT	Homo sapiens	8	ATP	*pH 7.6, 25&Acirc;&deg;C, isoenzyme CaMK IIbeta
-KCAT	Homo sapiens	9.8	ATP	*pH 7.6, 25&Acirc;&deg;C, isoenzyme CaMK IIgamma
-KCAT	Homo sapiens	9.9	ATP	*pH 7.6, 25&Acirc;&deg;C, isoenzyme CaMK IIdelta
-KCAT	Homo sapiens	1.2	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg-Gln	*pH 7.6, 25&Acirc;&deg;C, isoenzyme CaMK IIalpha
-KCAT	Homo sapiens	8	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg-Gln	*pH 7.6, 25&Acirc;&deg;C, isoenzyme CaMK IIbeta
-KCAT	Homo sapiens	9.8	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg-Gln	*pH 7.6, 25&Acirc;&deg;C, isoenzyme CaMK IIgamma
-KCAT	Homo sapiens	9.9	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg-Gln	*pH 7.6, 25&Acirc;&deg;C, isoenzyme CaMK IIdelta
-KCAT	Rattus norvegicus	2.17	myelin basic protein	*

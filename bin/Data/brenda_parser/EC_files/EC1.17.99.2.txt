@@ -1,7 +1,0 @@
-KCAT	Aromatoleum aromaticum	0.17	ethylbenzene	*with ferricyanide as cosubstrate, at pH 7.5 and 25&Acirc;&deg;C
-KCAT	Aromatoleum aromaticum	0.27	ethylbenzene	*with ferrocenium as cosubstrate, at pH 7.5 and 25&Acirc;&deg;C
-KCAT	Aromatoleum aromaticum	0.46	3-phenyl-1-propene	*with ferrocenium as cosubstrate, at pH 7.5 and 25&Acirc;&deg;C
-KCAT	Aromatoleum aromaticum	0.64	3-phenyl-1-propene	*with ferricyanide as cosubstrate, at pH 7.5 and 25&Acirc;&deg;C
-KCAT	Aromatoleum aromaticum	0.29	3-phenyl-1-propyne	*with ferrocenium as cosubstrate, at pH 7.5 and 25&Acirc;&deg;C
-KCAT	Aromatoleum aromaticum	0.33	3-phenyl-1-propyne	*with ferricyanide as cosubstrate, at pH 7.5 and 25&Acirc;&deg;C
-KCAT	Azoarcus sp.	-999	more	*relative kcat values

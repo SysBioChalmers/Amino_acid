@@ -1,7 +1,0 @@
-KCAT	Cutibacterium acnes	-999	more	*[11,11-2H2] linoleic acid, 0.83, wild-type PAI; (11S-2H) linoleic acid, 3.51, wild-type PAI
-KCAT	Cutibacterium acnes	0.16	linoleic acid	*mutant R88S/F193A
-KCAT	Cutibacterium acnes	0.33	linoleic acid	*mutant F193A
-KCAT	Cutibacterium acnes	2.93	linoleic acid	*mutant R88S
-KCAT	Cutibacterium acnes	4.37	linoleic acid	*wild-type PAI
-KCAT	Ptilota filicina	11.6	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate	*assuming one catalytic site per enzyme molecule
-KCAT	Ptilota filicina	41	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate	*pH 7.2, assuming one catalytic site per enzyme molecule

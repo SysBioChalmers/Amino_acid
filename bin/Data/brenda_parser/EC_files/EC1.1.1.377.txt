@@ -1,6 +1,0 @@
-KCAT	Thermoplasma acidophilum	14.88	L-Mannose	*pH 7.0, 60&deg;C
-KCAT	Thermoplasma acidophilum	16.5	NADP+	*pH 7.0, 60&deg;C, cosubstrate: L-lyxose
-KCAT	Thermoplasma acidophilum	17.1	NADP+	*pH 7.0, 60&deg;C, cosubstrate: L-rhamnose
-KCAT	Thermoplasma acidophilum	18.08	NADP+	*pH 7.0, 60&deg;C, cosubstrate: L-mannose
-KCAT	Thermoplasma acidophilum	22.36	L-rhamnose	*pH 7.0, 60&deg;C
-KCAT	Thermoplasma acidophilum	23.77	L-Lyxose	*pH 7.0, 60&deg;C

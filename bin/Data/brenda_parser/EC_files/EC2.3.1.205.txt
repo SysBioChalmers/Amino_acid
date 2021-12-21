@@ -1,2 +1,0 @@
-KCAT	Aspergillus fumigatus	0.6	acetyl-CoA	*pH not specified in the publication, 37&deg;C, recombinant His6-tagged enzyme
-KCAT	Aspergillus fumigatus	0.6	fumigaclavine B	*pH not specified in the publication, 37&deg;C, recombinant His6-tagged enzyme

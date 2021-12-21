@@ -1,5 +1,0 @@
-KCAT	Zymomonas mobilis	-999	more	*
-KCAT	Zymomonas mobilis	0.8	gluconolactone	*
-KCAT	Zymomonas mobilis	0.8	sorbitol	*
-KCAT	Zymomonas mobilis	200	D-fructose	*
-KCAT	Zymomonas mobilis	200	D-glucose	*

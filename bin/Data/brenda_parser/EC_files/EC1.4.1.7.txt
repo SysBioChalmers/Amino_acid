@@ -1,5 +1,0 @@
-KCAT	Pseudomonas aeruginosa	1.6	NAD+	*pH 11.0, 37&deg;C, recombinant His-tagged wild-type enzyme
-KCAT	Pseudomonas aeruginosa	5.8	DL-glycerate	*pH 11.0, 37&deg;C, recombinant His-tagged wild-type enzyme
-KCAT	Pseudomonas aeruginosa	9.6	3-methyl-DL-serine	*pH 11.0, 37&deg;C, recombinant His-tagged wild-type enzyme
-KCAT	Pseudomonas aeruginosa	10.4	L-serine	*pH 11.0, 37&deg;C, recombinant His-tagged wild-type enzyme
-KCAT	Pseudomonas aeruginosa	11.6	methyl 2,2-dimethyl-3-hydroxypropionic acid	*pH 11.0, 37&deg;C, recombinant His-tagged wild-type enzyme

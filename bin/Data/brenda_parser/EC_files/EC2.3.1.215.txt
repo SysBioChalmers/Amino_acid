@@ -1,9 +1,0 @@
-KCAT	Vitis vinifera	0.13	coumaroyl-CoA	*pH 6.5, 30&deg;C
-KCAT	Vitis vinifera	0.18	cyanidin 3-O,5-O-beta-D-diglucoside	*pH 6.5, 30&deg;C
-KCAT	Vitis vinifera	0.29	caffeoyl-CoA	*pH 6.5, 30&deg;C
-KCAT	Vitis vinifera	0.92	malonyl-CoA	*pH 6.5, 30&deg;C
-KCAT	Vitis vinifera	1.11	acetyl-CoA	*pH 6.5, 30&deg;C
-KCAT	Vitis vinifera	13.92	malvidin 3-O-beta-D-glucoside	*pH 6.5, 30&deg;C
-KCAT	Vitis vinifera	14.2	peonidin 3-O-beta-D-glucoside	*pH 6.5, 30&deg;C
-KCAT	Vitis vinifera	67.89	delphinidin 3-O-beta-D-glucoside	*pH 6.5, 30&deg;C
-KCAT	Vitis vinifera	77	cyanidin 3-O-beta-D-glucoside	*pH 6.5, 30&deg;C

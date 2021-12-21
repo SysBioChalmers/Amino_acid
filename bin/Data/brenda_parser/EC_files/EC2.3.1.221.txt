@@ -1,2 +1,0 @@
-KCAT	Aspergillus parasiticus	0.0407	acetyl-[acyl-carrier protein]	*pH 7.0, 22&deg;C
-KCAT	Aspergillus parasiticus	0.0472	hexanoyl-[acyl-carrier protein]	*pH 7.0, 22&deg;C

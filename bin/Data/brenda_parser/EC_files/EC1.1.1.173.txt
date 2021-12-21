@@ -1,2 +1,0 @@
-KCAT	Scheffersomyces stipitis	1510	L-rhamnose	*pH 9.0, 30&Acirc;&deg;C, recombinant enzyme
-KCAT	Debaryomyces hansenii	2860	L-rhamnose	*pH 9.0, 30&Acirc;&deg;C, recombinant enzyme

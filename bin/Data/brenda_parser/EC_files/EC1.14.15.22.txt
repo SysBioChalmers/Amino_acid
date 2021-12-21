@@ -1,4 +1,0 @@
-KCAT	Streptomyces griseolus	0.0009	1alpha,25-dihydroxyvitamin D3	*26-hydroxylation, mutant R73V/R84A, pH not specified in the publication, temperature not specified in the publication
-KCAT	Streptomyces griseolus	0.0023	vitamin D3	*25-hydroxylation, mutant R73V/R84A, pH not specified in the publication, temperature not specified in the publication
-KCAT	Streptomyces griseolus	0.035	1alpha-hydroxyvitamin D3	*25-hydroxylation, mutant R73V/R84A, pH not specified in the publication, temperature not specified in the publication
-KCAT	Streptomyces griseolus	0.0023	25-hydroxyvitamin D3	*1alpha-hydroxylation, mutant R73V/R84A, pH not specified in the publication, temperature not specified in the publication

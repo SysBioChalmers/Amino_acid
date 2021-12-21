@@ -1,5 +1,0 @@
-KCAT	Trichormus variabilis	8.4	N-acetyl-D-glucosamine	*pH 7.5, 30&deg;C, recombinant His6-tagged mutant K157L
-KCAT	Trichormus variabilis	9.4	N-acetyl-D-glucosamine	*pH 7.5, 30&deg;C, recombinant His6-tagged mutant K155A
-KCAT	Trichormus variabilis	16.1	N-acetyl-D-glucosamine	*pH 7.5, 30&deg;C, recombinant His6-tagged mutant K151V
-KCAT	Trichormus variabilis	22.4	N-acetyl-D-glucosamine	*pH 7.5, 30&deg;C, recombinant His6-tagged mutant K160P
-KCAT	Trichormus variabilis	44.4	N-acetyl-D-glucosamine	*pH 7.5, 30&deg;C, recombinant His6-tagged wild-type enzyme

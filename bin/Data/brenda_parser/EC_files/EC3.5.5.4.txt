@@ -1,2 +1,0 @@
-KCAT	Zea mays	0.001	3-Cyano-L-alanine	*
-KCAT	Brassica rapa	19.4	3-Cyano-L-alanine	*in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35&deg;C

@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	11	pyruvate	*
-KCAT	Escherichia coli	12.8	pyruvate	*forward direction
-KCAT	Escherichia coli	3.8	formate	*
-KCAT	Escherichia coli	4.33	formate	*backward direction

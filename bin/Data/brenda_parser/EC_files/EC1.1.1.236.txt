@@ -1,3 +1,0 @@
-KCAT	Datura stramonium	71.4	NADPH	*pH 7.5, 15&Acirc;&deg;C
-KCAT	Datura stramonium	2.73	tropinone	*at pH 7.0
-KCAT	Datura stramonium	71.4	tropinone	*pH 7.5, 15&Acirc;&deg;C

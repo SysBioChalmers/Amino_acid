@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	0.01	[ubiquitin-carrier-protein Ubc2b]-L-cysteine	*mutant K528A, pH 7.5, temperature not specified in the publication
-KCAT	Homo sapiens	0.022	[ubiquitin-carrier-protein Ubc2b]-L-cysteine	*mutant D576N, pH 7.5, temperature not specified in the publication
-KCAT	Homo sapiens	0.072	[ubiquitin carrier protein Ubc4]-L-cysteine	*pH 7.5, 25&deg;C
-KCAT	Homo sapiens	0.1	[ubiquitin-carrier-protein Ubc2b]-L-cysteine	*mutant D576E, pH 7.5, temperature not specified in the publication
-KCAT	Homo sapiens	0.12	[ubiquitin-carrier-protein Ubc2b]-L-cysteine	*mutant D576A, pH 7.5, temperature not specified in the publication
-KCAT	Homo sapiens	3.4	[ubiquitin-carrier-protein Ubc2b]-L-cysteine	*wild-type, pH 7.5, temperature not specified in the publication

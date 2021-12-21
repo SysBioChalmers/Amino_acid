@@ -1,1 +1,0 @@
-ecNumber*5.3.1.29#turnoverNumber*29.2#turnoverNumberMaximum*#substrate*alpha-D-ribose 1,5-bisphosphate#commentary*pH 8.3, 85&deg;C#organism*Thermococcus kodakarensis#ligandStructureId*6393#literature*725279#

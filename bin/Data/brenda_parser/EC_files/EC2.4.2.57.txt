@@ -1,6 +1,0 @@
-KCAT	Thermococcus kodakarensis	-999	AMP	*the kinetic parameters of the AMPpase reaction toward AMP are not determined, because kinetic equations that fit the data well can not be identified
-KCAT	Thermococcus kodakarensis	-999	more	*the kinetic parameters of the AMPpase reaction toward AMP are not determined, because kinetic equations that fit the data well can not be identified
-KCAT	Thermococcus kodakarensis	2.7	GMP	*pH 7.5, 85&deg;C
-KCAT	Thermococcus kodakarensis	10.5	UMP	*pH 7.5, 85&deg;C
-KCAT	Thermococcus kodakarensis	15	phosphate	*pH 7.5, 85&deg;C; pH 7.5, 85&deg;C, cosubstrate: AMP
-KCAT	Thermococcus kodakarensis	39.1	CMP	*pH 7.5, 85&deg;C

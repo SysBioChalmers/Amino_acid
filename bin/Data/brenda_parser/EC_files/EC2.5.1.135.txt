@@ -1,2 +1,0 @@
-KCAT	Streptomyces hygroscopicus subsp. limoneus	7	GDP-valienol	*at pH 7.5 and 30&deg;C
-KCAT	Streptomyces hygroscopicus subsp. limoneus	7	validamine 7-phosphate	*at pH 7.5 and 30&deg;C

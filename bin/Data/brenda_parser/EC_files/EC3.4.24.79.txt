@@ -1,5 +1,0 @@
-KCAT	Homo sapiens	0.31	IGFBP-5	*pH 7.5, 37&deg;C, in presence of IGF-I
-KCAT	Homo sapiens	0.47	IGFBP-5	*pH 7.5, 37&deg;C, in presence of IGF-II
-KCAT	Homo sapiens	0.64	IGFBP-4	*pH 7.5, 37&deg;C, in presence of IGF-II
-KCAT	Homo sapiens	0.75	IGFBP-5	*pH 7.5, 37&deg;C, in absence of IGF
-KCAT	Homo sapiens	0.89	IGFBP-4	*pH 7.5, 37&deg;C, in presence of IGF-I

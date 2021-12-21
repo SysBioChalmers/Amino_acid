@@ -1,4 +1,0 @@
-KCAT	Mycolicibacterium smegmatis	0.03	cyclic di-3',5'-guanylate	*pH 7.8, 37&Acirc;&deg;C
-KCAT	Bacillus subtilis	0.23	cyclic di-3',5'-guanylate	*pH 8.3, temperature not specified in the publication
-KCAT	Mycolicibacterium smegmatis	0.52	cyclic di-3',5'-adenylate	*pH 7.8, 37&Acirc;&deg;C
-KCAT	Bacillus subtilis	0.55	cyclic di-3',5'-adenylate	*pH 8.3, temperature not specified in the publication

@@ -1,7 +1,0 @@
-KCAT	Streptococcus pneumoniae	120	ATP	*in the presence of MnCl2
-KCAT	Streptococcus pneumoniae	175	ATP	*in the presence of MgCl2
-KCAT	Helicobacter pylori	189.6	ATP	*in the presence of 2 mM Mg2+, at pH 7.4 and 30&Acirc;&deg;C
-KCAT	Helicobacter pylori	436.2	ATP	*in the presence of 2 mM Mn2+, at pH 7.4 and 30&Acirc;&deg;C
-KCAT	Saccharolobus solfataricus	19	UMP	*radioactive assay, at 60&Acirc;&deg;C, the more commonly used photometric assay using auxiliary enzymes is incompatible with high temperature
-KCAT	Helicobacter pylori	117.9	UMP	*in the presence of 2 mM Mg2+, at pH 7.4 and 30&Acirc;&deg;C
-KCAT	Helicobacter pylori	545.2	UMP	*in the presence of 2 mM Mn2+, at pH 7.4 and 30&Acirc;&deg;C

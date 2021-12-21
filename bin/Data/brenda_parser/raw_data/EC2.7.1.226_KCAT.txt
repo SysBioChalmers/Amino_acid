@@ -1,1 +1,0 @@
-ecNumber*2.7.1.226#turnoverNumber*204#turnoverNumberMaximum*#substrate*ADP#commentary*pH 7.5, 85&Acirc;&deg;C#organism*Thermococcus kodakarensis#ligandStructureId*13#literature*751658#!ecNumber*2.7.1.226#turnoverNumber*218#turnoverNumberMaximum*#substrate*L-serine#commentary*pH 7.5, 85&Acirc;&deg;C#organism*Thermococcus kodakarensis#ligandStructureId*95#literature*751658#

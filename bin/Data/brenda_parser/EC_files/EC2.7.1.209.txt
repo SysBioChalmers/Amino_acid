@@ -1,3 +1,0 @@
-KCAT	Mycolicibacterium smegmatis	1.6	D-erythrulose	*pH and temperature not specified in the publication
-KCAT	Mycolicibacterium smegmatis	1.79	L-erythrulose	*pH and temperature not specified in the publication
-KCAT	Mycolicibacterium smegmatis	2.12	dihydroxyacetone	*pH and temperature not specified in the publication

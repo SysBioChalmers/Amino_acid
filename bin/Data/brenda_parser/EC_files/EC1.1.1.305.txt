@@ -1,2 +1,0 @@
-KCAT	Ralstonia solanacearum	0.32	NAD+	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme
-KCAT	Ralstonia solanacearum	0.285	UDP-glucuronic acid	*pH 7.6, 37&Acirc;&deg;C, recombinant enzyme

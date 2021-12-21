@@ -1,2 +1,0 @@
-KCAT	Streptomyces hygroscopicus subsp. limoneus	0.97	2-oxoglutarate	*pH 7.2, 30&deg;C, obtained from Hanes-Woolf plot
-KCAT	Streptomyces hygroscopicus subsp. limoneus	0.97	validamycin A	*pH 7.2, 30&deg;C, obtained from Hanes-Woolf plot

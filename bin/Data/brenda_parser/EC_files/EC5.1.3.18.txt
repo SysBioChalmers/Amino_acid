@@ -1,5 +1,0 @@
-KCAT	Arabidopsis thaliana	0.007	GDP-D-mannose	*recombinant enzyme with N-terminal His-tag
-KCAT	Arabidopsis thaliana	0.01	GDP-D-mannose	*recombinant enzyme with N-terminal glutathione-S-transferase tag
-KCAT	Oryza sativa	0.03	GDP-D-mannose	*without NAD+
-KCAT	Arabidopsis thaliana	0.041	GDP-D-mannose	*native enzyme
-KCAT	Oryza sativa	0.127	GDP-D-mannose	*in presence of 0.02 mM NAD+

@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	0.417	(+)-tartrate	*
-KCAT	Escherichia coli	13.3	D-malate	*

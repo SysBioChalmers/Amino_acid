@@ -1,3 +1,0 @@
-KCAT	Rhizomucor pusillus	2	NADP+	*recombinant mutant D205A/I206R, pH 9.0, 35&Acirc;&deg;C
-KCAT	Rhizomucor pusillus	11.1	NADP+	*recombinant wild-type enzyme, pH 9.0, 35&Acirc;&deg;C
-KCAT	Rhizomucor pusillus	19.7	NADP+	*recombinant mutant D205A, pH 9.0, 35&Acirc;&deg;C

@@ -1,7 +1,0 @@
-KCAT	Mycobacterium sp.	110	NADH	*pH 7.0, 30&deg;C
-KCAT	Mycobacterium sp.	163	diacetyl	*pH 7.0, 30&deg;C
-KCAT	Bacillus licheniformis	202	(3S)-acetoin	*pH 6.0, 30&deg;C
-KCAT	Bacillus licheniformis	591	(2S,3S)-2,3-butanediol	*pH 10.0, 30&deg;C
-KCAT	Bacillus licheniformis	748	NAD+	*pH 10.0, 30&deg;C
-KCAT	Bacillus licheniformis	1222	diacetyl	*pH 6.0, 30&deg;C
-KCAT	Bacillus licheniformis	1274	NADH	*pH 6.0, 30&deg;C

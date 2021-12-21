@@ -1,8 +1,0 @@
-KCAT	Escherichia coli	550	N-alpha-acetyl-L-ornithine	*in 50 mM Chelex-100 treated sodium phosphate buffer, pH 7.5, at 25&deg;C, in the presence of Mn2+
-KCAT	Escherichia coli	1600	N2-Acetyl-L-ornithine	*in the presence of Zn2+
-KCAT	Escherichia coli	1600	N-acetyl-L-ornithine	*in the presence of one equivalent of Zn(II), pH 7.5, 25&deg;C
-KCAT	Escherichia coli	1600	N-alpha-acetyl-L-ornithine	*in 50 mM Chelex-100 treated sodium phosphate buffer, pH 7.5, at 25&deg;C, in the presence of Zn2+
-KCAT	Arabidopsis thaliana	2116	N2-Acetyl-L-ornithine	*25&deg;C, pH not specified in the publication
-KCAT	Escherichia coli	3800	N2-Acetyl-L-ornithine	*in the presence of Co2+
-KCAT	Escherichia coli	3800	N-acetyl-L-ornithine	*in the presence of one equivalent of Co(II), pH 7.5, 25&deg;C
-KCAT	Escherichia coli	3800	N-alpha-acetyl-L-ornithine	*in 50 mM Chelex-100 treated sodium phosphate buffer, pH 7.5, at 25&deg;C, in the presence of Co2+

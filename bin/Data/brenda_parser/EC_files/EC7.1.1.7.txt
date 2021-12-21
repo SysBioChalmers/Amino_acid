@@ -1,1 +1,0 @@
-KCAT	Escherichia coli	101	H2O2[side 2]	*pH 7.0, temperature not specified in the publication

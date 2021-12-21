@@ -1,2 +1,0 @@
-KCAT	Mesorhizobium loti	24	L-proline	*pH 7.5, 25&deg;C
-KCAT	Sinorhizobium meliloti	25	L-proline	*pH 7.5, 25&deg;C

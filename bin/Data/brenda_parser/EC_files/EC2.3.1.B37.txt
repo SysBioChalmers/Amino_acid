@@ -1,3 +1,0 @@
-KCAT	Chryseobacterium sp.	13.6	L-2-phenylglycine	*at pH 7.5 and 30&Acirc;&deg;C
-KCAT	Chryseobacterium sp.	19.2	L-2-phenylglycine methyl ester	*at pH 7.5 and 30&Acirc;&deg;C
-KCAT	Chryseobacterium sp.	7.31	L-2-chlorophenylglycine	*at pH 7.5 and 30&Acirc;&deg;C

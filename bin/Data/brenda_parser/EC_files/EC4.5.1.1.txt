@@ -1,2 +1,0 @@
-KCAT	Musca domestica	0.0383	1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane	*
-KCAT	Pseudomonas putida	0.113	1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane	*pH 7.0, 37&Acirc;&deg;C

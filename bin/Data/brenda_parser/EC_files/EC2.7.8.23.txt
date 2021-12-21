@@ -1,3 +1,0 @@
-KCAT	Streptomyces hygroscopicus	0.02	carboxyphosphoenolpyruvate	*
-KCAT	Streptomyces hygroscopicus	0.02	carboxyphosphoenolpyruvate	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Streptomyces hygroscopicus	0.00076	carboxyphosphinopyruvate	*pH 7.5, 30&Acirc;&deg;C

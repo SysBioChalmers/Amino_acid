@@ -1,7 +1,0 @@
-KCAT	Escherichia coli	48	diphosphate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
-KCAT	Escherichia coli	19	isopentenyl diphosphate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
-KCAT	Escherichia coli	2.1	farnesyl diphosphate	*wild-type, pH 7.0, 37&Acirc;&deg;C
-KCAT	Escherichia coli	290	farnesyl diphosphate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
-KCAT	Escherichia coli	61	phosphatidic acid	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
-KCAT	Escherichia coli	9	undecaprenyl diphosphate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme
-KCAT	Escherichia coli	280	diacylglycerol diphosphate	*pH 7.5, 37&Acirc;&deg;C, recombinant enzyme

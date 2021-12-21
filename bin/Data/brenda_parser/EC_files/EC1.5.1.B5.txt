@@ -1,7 +1,0 @@
-KCAT	Thermococcus litoralis	0.2	L-pipecolate	*pH 6.0, 50&deg;C, wild-type enzyme
-KCAT	Thermococcus litoralis	0.23	L-proline	*pH 6.0, 50&deg;C, wild-type enzyme
-KCAT	Thermococcus litoralis	0.61	L-proline	*pH 6.0, 50&deg;C, mutant enzyme V224D/A228K
-KCAT	Thermococcus litoralis	16.58	1-pyrroline-2-carboxylate	*recombinant wild-type enzyme, pH 6.5, 50&deg;C, with NADH
-KCAT	Thermococcus litoralis	16.6	DELTA1-pyrroline-2-carboxylate	*pH 6.0, 50&deg;C, wild-type enzyme
-KCAT	Thermococcus litoralis	558	DELTA1-pyrroline-2-carboxylate	*pH 6.0, 50&deg;C, mutant enzyme V224D/A228K
-KCAT	Thermococcus litoralis	558.3	1-pyrroline-2-carboxylate	*recombinant mutant V224D/A228K enzyme, pH 6.5, 50&deg;C, with NADH

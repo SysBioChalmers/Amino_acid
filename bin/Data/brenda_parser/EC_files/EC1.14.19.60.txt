@@ -1,2 +1,0 @@
-KCAT	Kutzneria sp. 744	0.0013	L-tryptophan	*pH 7.0, 22&deg;C
-KCAT	Kutzneria sp. 744	0.023	7-chloro-L-tryptophan	*pH 7.0, 22&deg;C

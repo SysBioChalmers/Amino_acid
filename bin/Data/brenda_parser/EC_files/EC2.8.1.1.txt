@@ -1,9 +1,0 @@
-KCAT	Arabidopsis thaliana	0.7	3-Mercaptopyruvate	*pH 9
-KCAT	Arabidopsis thaliana	1.2	3-Mercaptopyruvate	*pH 9
-KCAT	Arabidopsis thaliana	2.8	thiosulfate	*pH 9
-KCAT	Arabidopsis thaliana	4	thiosulfate	*pH 9
-KCAT	Arabidopsis thaliana	10.7	thiosulfate	*pH 9
-KCAT	Arabidopsis thaliana	54	3-Mercaptopyruvate	*pH 9
-KCAT	Escherichia coli	230	thiosulfate	*2&deg;C, pH 8.6
-KCAT	Escherichia coli	260	thiosulfate	*
-KCAT	Aquifex aeolicus	400	thiosulfate	*in 100 mM Tris-HCl, pH 9.0, 10 mM KCN, at 85&deg;C

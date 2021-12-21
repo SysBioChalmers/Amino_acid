@@ -1,4 +1,0 @@
-KCAT	Solanum habrochaites	0.39	7-O-methylmyricetin	*in 50 mM Tris-HCl (pH 7.5), at 22&deg;C
-KCAT	Solanum habrochaites	0.82	myricetin	*in 50 mM Tris-HCl (pH 7.5), at 22&deg;C
-KCAT	Solanum habrochaites	1.66	3'-O-methylmyricetin	*in 50 mM Tris-HCl (pH 7.5), at 22&deg;C
-KCAT	Solanum habrochaites	2.94	S-adenosyl-L-methionine	*in 50 mM Tris-HCl (pH 7.5), at 22&deg;C

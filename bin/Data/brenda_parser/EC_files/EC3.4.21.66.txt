@@ -1,6 +1,0 @@
-KCAT	Coprothermobacter proteolyticus	25	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*pH 7.5, 40&deg;C, recombinant wild-type enzyme
-KCAT	Coprothermobacter proteolyticus	37	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*pH 7.5, 40&deg;C, recombinant wild-type enzyme, in presence of DTT
-KCAT	Coprothermobacter proteolyticus	110	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*pH 7.5, 70&deg;C, recombinant wild-type enzyme
-KCAT	Coprothermobacter proteolyticus	111	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*pH 7.5, 40&deg;C, recombinant mutant C182A/C201A
-KCAT	Coprothermobacter proteolyticus	124	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*pH 7.5, 40&deg;C, recombinant mutant C182A/C201A, in presence of DTT
-KCAT	Coprothermobacter proteolyticus	248	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	*pH 7.5, 70&deg;C, recombinant mutant C182A/C201A

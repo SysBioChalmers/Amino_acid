@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	0.0019	ATP	*mutant T210V; T210V mutant, varied substrate Cdc25c, constant substrate ATP
-KCAT	Danio rerio	0.00229	ATP	*zPlk1 1-312 wild type
-KCAT	Homo sapiens	0.0041	ATP	*wild-type; wild-type enzyme, varied substrate ATP, constant substrate Cdc25c
-KCAT	Homo sapiens	0.0049	Cdc25C	*mutant T210V; T210V mutant, varied substrate ATP, constant substrate Cdc25c
-KCAT	Homo sapiens	0.0094	Cdc25C	*wild-type; wild-type enzyme, varied substrate Cdc25c, constant substrate ATP
-KCAT	Danio rerio	0.01311	ATP	*zPlk1 1-312 T196D
-KCAT	Homo sapiens	0.01386	ATP	*hPlk1 1-346 T210D
-KCAT	Homo sapiens	0.019	ATP	*mutant T210D; T210D mutant, varied substrate ATP, constant substrate Cdc25c
-KCAT	Homo sapiens	0.0376	Cdc25C	*T210D mutant, varied substrate Cdc25c, constant substrate ATP

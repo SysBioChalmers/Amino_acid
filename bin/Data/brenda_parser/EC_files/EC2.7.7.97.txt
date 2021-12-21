@@ -1,3 +1,0 @@
-KCAT	Streptomyces anulatus	0.0032	3-hydroxy-4-methylanthranilate	*at pH 8.0 and 28&Acirc;&deg;C
-KCAT	Streptomyces anulatus	0.005	3-Hydroxy-anthranilate	*at pH 8.0 and 28&Acirc;&deg;C
-KCAT	Streptomyces anulatus	0.007	3-hydroxy-4-methylbenzylate	*at pH 8.0 and 28&Acirc;&deg;C

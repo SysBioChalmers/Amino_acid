@@ -1,9 +1,0 @@
-KCAT	Pseudomonas sp.	0.00075	4-(3-benzothiazol-2-yl-4-cyano-2-oxo-2H-chromen-7-yloxymethyl)-2-hydroxy-benzoic acid	*pH 8.0, 37&deg;C
-KCAT	Pseudomonas reinekei	1.3	3-chlorosalicylate	*pH not specified in the publication, 25&deg;C
-KCAT	Pseudomonas reinekei	1.6	5-chlorosalicylate	*pH not specified in the publication, 25&deg;C
-KCAT	Pseudomonas reinekei	2.2	3-methylsalicylate	*pH not specified in the publication, 25&deg;C
-KCAT	Pseudomonas reinekei	2.9	4-chlorosalicylate	*pH not specified in the publication, 25&deg;C
-KCAT	Pseudomonas reinekei	4.6	salicylate	*pH not specified in the publication, 25&deg;C
-KCAT	Pseudomonas reinekei	5.4	NADH	*pH not specified in the publication, 25&deg;C
-KCAT	Pseudomonas reinekei	6.4	4-methylsalicylate	*pH not specified in the publication, 25&deg;C
-KCAT	Pseudomonas reinekei	7.8	5-Methylsalicylate	*pH not specified in the publication, 25&deg;C

@@ -1,6 +1,0 @@
-KCAT	Solanum lycopersicum	0.02	quercetin	*pH 7.0, 30&Acirc;&deg;C
-KCAT	Solanum lycopersicum	0.026	quercetin	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Solanum lycopersicum	0.03	luteolin	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Solanum lycopersicum	0.055	eriodictyol	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Solanum lycopersicum	0.025	delphinidin 3-O-beta-D-glucoside	*pH 7.0, 30&Acirc;&deg;C
-KCAT	Solanum lycopersicum	0.014	quercetin 3-O-beta-D-glucoside	*pH 7.0, 30&Acirc;&deg;C

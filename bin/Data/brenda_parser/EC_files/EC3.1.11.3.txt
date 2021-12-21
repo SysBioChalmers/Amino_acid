@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	6	Double-stranded DNA	*at 20&deg;C and pH 7.5
-KCAT	Escherichia virus Lambda	6	Double-stranded DNA	*at 20&deg;C and pH 7.5
-KCAT	Escherichia coli	11.7	Double-stranded DNA	*at 37&deg;C and pH 7.5
-KCAT	Escherichia virus Lambda	11.7	Double-stranded DNA	*at 37&deg;C and pH 7.5

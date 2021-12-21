@@ -1,1 +1,0 @@
-KCAT	Pseudomonas pseudoalcaligenes	147	2-Aminophenol	*in 50 mM Tris (pH 8.0) at 25&Acirc;&deg;C

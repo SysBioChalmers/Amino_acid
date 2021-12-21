@@ -1,2 +1,0 @@
-KCAT	Eggerthella lenta	2	5-phospho-alpha-D-ribose 1,2-cyclic phosphate	*pH 8.0, 25&Acirc;&deg;C
-KCAT	Eggerthella lenta	7.4	D-ribofuranose 2,5-bisphosphate	*pH 8.0, 25&Acirc;&deg;C

@@ -1,3 +1,0 @@
-KCAT	Streptomyces nodosus	0.113	NADH	*in presence of 0.01 mM FAD, recombinant enzyme, pH 7.0, 30&deg;C
-KCAT	Streptomyces nodosus	0.324	NADPH	*in presence of 0.01 mM FAD, recombinant enzyme, pH 7.0, 30&deg;C
-KCAT	Streptomyces nodosus	16.67	protoasukamycin	*in presence of 0.01 mM FAD, recombinant enzyme, pH 7.0, 30&deg;C

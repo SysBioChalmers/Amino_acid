@@ -1,3 +1,0 @@
-KCAT	Euphorbia tirucalli	0.0000128	(S)-2,3-oxidosqualene	*pH 7, 30&deg;C, mutant C564A
-KCAT	Euphorbia tirucalli	0.34	(S)-2,3-oxidosqualene	*pH 7, 30&deg;C, mutant C486A
-KCAT	Euphorbia tirucalli	0.77	(S)-2,3-oxidosqualene	*pH 7, 30&deg;C, wild-type

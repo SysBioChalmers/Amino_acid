@@ -1,3 +1,0 @@
-KCAT	Homo sapiens	0.12	S-carboxymethylated transferrin	*ADAM12-S, at 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.18	S-carboxymethylated transferrin	*ADAM12-PCD, at 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.47	S-carboxymethylated transferrin	*ADAM12-PC, at 37&Acirc;&deg;C

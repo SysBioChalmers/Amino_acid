@@ -1,2 +1,0 @@
-KCAT	Pseudomonas putida	1.4	sulfoquinovose	*with NADP+ as cosubstrate, in 50 mM Tris-HCl (pH 7.5), temperature not specified in the publication
-KCAT	Pseudomonas putida	33.8	sulfoquinovose	*with NAD+ as cosubstrate, in 50 mM Tris-HCl (pH 7.5), temperature not specified in the publication

@@ -1,4 +1,0 @@
-KCAT	Marinobacter adhaerens	3	alpha-D-glucose 1-phosphate	*pH 6.5, 37&deg;C
-KCAT	Marinobacter adhaerens	14	2-O-(alpha-D-glucopyranosyl)glycerol	*pH 6.5, 37&deg;C
-KCAT	Marinobacter adhaerens	14	phosphate	*pH 6.5, 37&deg;C
-KCAT	Marinobacter adhaerens	39	glycerol	*pH 6.5, 37&deg;C

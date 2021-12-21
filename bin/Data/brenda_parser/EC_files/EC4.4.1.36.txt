@@ -1,2 +1,0 @@
-KCAT	Mycolicibacterium smegmatis	25.3	S-(hercyn-2-yl)-L-cysteine S-oxide	*pH 8.0, temperature not specified in the publication
-KCAT	Mycolicibacterium smegmatis	7.9	(2R)-3-(2-[[(2R)-2-amino-2-carboxyethyl]sulfanyl]-2,3-dihydro-1H-imidazol-4-yl)-2-(trimethylazaniumyl)propanoate	*pH 8.0, temperature not specified in the publication

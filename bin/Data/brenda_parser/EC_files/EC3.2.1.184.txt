@@ -1,1 +1,0 @@
-KCAT	Legionella pneumophila	59.1	UDP-N,N'-diacetylbacillosamine	*pH 7.5, 37&Acirc;&deg;C

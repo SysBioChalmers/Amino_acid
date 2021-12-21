@@ -1,2 +1,0 @@
-KCAT	Drosophila melanogaster	113	glyoxylate	*
-KCAT	Drosophila melanogaster	131	alanine	*

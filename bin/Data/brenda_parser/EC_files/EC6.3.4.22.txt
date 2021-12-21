@@ -1,3 +1,0 @@
-KCAT	Archaeoglobus fulgidus	0.006	agmatine	*pH 8.8, 70&deg;C
-KCAT	Archaeoglobus fulgidus	0.0062	ATP	*pH 8.8, 70&deg;C
-KCAT	Archaeoglobus fulgidus	0.0065	[tRNAIle2]-cytidine34	*pH 8.8, 70&deg;C

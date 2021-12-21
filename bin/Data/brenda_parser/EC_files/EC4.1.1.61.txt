@@ -1,2 +1,0 @@
-KCAT	Sedimentibacter hydroxybenzoicus	55	4-hydroxybenzoate	*
-KCAT	Sedimentibacter hydroxybenzoicus	18.3	3,4-dihydroxybenzoate	*

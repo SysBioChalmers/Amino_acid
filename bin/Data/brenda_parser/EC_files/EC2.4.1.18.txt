@@ -1,3 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.068	amylose	*mutant lacking N1 domain, pH 7.0, 25&deg;C
-KCAT	Mycobacterium tuberculosis	0.15	amylose	*wild-type, pH 7.0, 25&deg;C
-KCAT	Solanum tuberosum	1000	amylose	*potato amylose

@@ -1,3 +1,0 @@
-KCAT	Bacillus amyloliquefaciens	-999	more	*
-KCAT	Bacillus amyloliquefaciens	-999	more	*
-KCAT	Bacillus amyloliquefaciens	-999	more	*Kcat-values for several oligonucleotides

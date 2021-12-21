@@ -1,8 +1,0 @@
-KCAT	Homo sapiens	1.28	NAD+	*
-KCAT	Homo sapiens	2.18	decanal	*
-KCAT	Homo sapiens	2.23	dodecanal	*
-KCAT	Homo sapiens	0.95	hexadecanal	*
-KCAT	Homo sapiens	1.52	octadecanal	*
-KCAT	Homo sapiens	0.86	Tetradecanal	*
-KCAT	Homo sapiens	0.93	farnesal	*
-KCAT	Homo sapiens	1.4	(11Z)-hexadec-11-enal	*

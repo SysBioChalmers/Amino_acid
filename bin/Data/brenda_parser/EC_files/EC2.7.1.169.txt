@@ -1,8 +1,0 @@
-KCAT	Thermococcus kodakarensis	0.21	pantothenate	*42&deg;C
-KCAT	Thermococcus kodakarensis	0.32	GTP	*pH 7.5, 42&deg;C
-KCAT	Thermococcus kodakarensis	0.47	CTP	*pH 7.5, 42&deg;C
-KCAT	Thermococcus kodakarensis	1.11	UTP	*pH 7.5, 42&deg;C
-KCAT	Thermococcus kodakarensis	1.48	ATP	*42&deg;C
-KCAT	Thermococcus kodakarensis	1.48	ATP	*pH 7.5, 42&deg;C
-KCAT	Thermococcus kodakarensis	1.56	Pantoate	*42&deg;C
-KCAT	Thermococcus kodakarensis	2.82	Pantoate	*pH 7.5, 42&deg;C

@@ -1,4 +1,0 @@
-KCAT	Bos taurus	0.097	UDP-galactose	*mutant M344H, pH 8.0, 30&Acirc;&deg;C
-KCAT	Bos taurus	3.6	UDP-galactose	*wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
-KCAT	Bos taurus	-999	more	*turnover number for UDPglucose in absence of alpha-lactalbumin is 3.48 and 14.8 in presence of alpha-lactalbumin
-KCAT	Bos taurus	-999	more	*

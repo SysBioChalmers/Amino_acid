@@ -1,1 +1,0 @@
-ecNumber*3.2.1.89#turnoverNumber*555.8#turnoverNumberMaximum*#substrate*potato galactan#commentary*at pH 6.0 and 40&deg;C#organism*Bacillus licheniformis#ligandStructureId*#literature*749617#

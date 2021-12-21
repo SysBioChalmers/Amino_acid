@@ -1,5 +1,0 @@
-KCAT	Pseudomonas aeruginosa	0.0549	adenosine	*pH 7.4, 25&Acirc;&deg;C
-KCAT	Pseudomonas aeruginosa	0.0549	adenine	*pH 7.4, 25&Acirc;&deg;C
-KCAT	Pseudomonas aeruginosa	0.57	Inosine	*pH 7.4, 25&Acirc;&deg;C
-KCAT	Pseudomonas aeruginosa	4.8	5'-methylthioinosine	*pH 7.4, 25&Acirc;&deg;C
-KCAT	Pseudomonas aeruginosa	4.8	S-methyl-5'-thioinosine	*pH 7.4, 25&Acirc;&deg;C

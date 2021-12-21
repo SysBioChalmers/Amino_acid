@@ -1,1 +1,0 @@
-KCAT	Streptomyces hygroscopicus subsp. ascomyceticus	17.6	chorismate	*in deuterated potassium phosphate buffer (20 mM, pH 7.0), at 20&deg;C

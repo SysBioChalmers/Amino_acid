@@ -1,1 +1,0 @@
-KCAT	Thermotoga maritima	6.5	D-fructuronate	*pH 8.5, 22&deg;C

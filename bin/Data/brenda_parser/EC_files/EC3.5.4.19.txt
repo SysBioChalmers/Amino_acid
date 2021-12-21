@@ -1,4 +1,0 @@
-KCAT	Methanothermobacter thermautotrophicus	0.28	1-(5-phosphoribosyl)-AMP	*pH 8.5, 65&Acirc;&deg;C, recombinant enzyme with bound Cd2+
-KCAT	Methanothermobacter thermautotrophicus	0.29	1-(5-phosphoribosyl)-AMP	*pH 8.0, 65&Acirc;&deg;C, recombinant enzyme with bound Cd2+
-KCAT	Methanothermobacter thermautotrophicus	6.4	1-(5-phosphoribosyl)-AMP	*pH 8.0, 65&Acirc;&deg;C, recombinant enzyme with bound Zn2+
-KCAT	Methanothermobacter thermautotrophicus	9.9	1-(5-phosphoribosyl)-AMP	*pH 8.5, 65&Acirc;&deg;C, recombinant enzyme with bound Zn2+

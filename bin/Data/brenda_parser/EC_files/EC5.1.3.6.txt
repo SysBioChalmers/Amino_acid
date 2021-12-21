@@ -1,5 +1,0 @@
-KCAT	Arabidopsis thaliana	0.9	UDP-glucuronate	*recombinant AtUGlcAE2, lacking the amino acid position 1-68, in 0.1 M sodium phosphate, pH 7.6
-KCAT	Arabidopsis thaliana	10	UDP-glucuronate	*recombinant AtUGlcAE3, lacking the amino acid position 1-53, in 0.1 M sodium phosphate, pH 7.6
-KCAT	Zea mays	10.1	UDP-glucuronate	*recombinant ZmUGlcAE, lacking the putative transmembrane domain at amino acid position 1-47, in 0.1 M sodium phosphate, pH 7.6
-KCAT	Arabidopsis thaliana	24	UDP-glucuronate	*
-KCAT	Oryza sativa	37.4	UDP-glucuronate	*recombinant OsUGlcAE3, lacking the amino acid position 1-53, in 0.1 M sodium phosphate, pH 7.6

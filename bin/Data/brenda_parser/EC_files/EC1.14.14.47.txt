@@ -1,1 +1,0 @@
-KCAT	Bacillus subtilis	0.183	tetrahydrobiopterin	*pH 7.6, 25&deg;C

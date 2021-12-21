@@ -1,3 +1,0 @@
-KCAT	Escherichia coli	6	D-tyrosyl-tRNATyr	*pH 7.8, 28&deg;C
-KCAT	Synechocystis sp.	7.5	D-tyrosyl-tRNATyr	*pH 7.8, 28&deg;C
-KCAT	Arabidopsis thaliana	300	D-tyrosyl-tRNATyr	*pH 7.8, 27&deg;C

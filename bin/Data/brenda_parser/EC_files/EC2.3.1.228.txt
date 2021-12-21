@@ -1,2 +1,0 @@
-KCAT	Bradyrhizobium diazoefficiens	0.02	isovaleryl-ACP	*pH 7.3, temperature not specified in the publication
-KCAT	Bradyrhizobium diazoefficiens	0.021	isovaleryl-CoA	*pH 7.3, temperature not specified in the publication

@@ -1,3 +1,0 @@
-KCAT	Escherichia coli	2	catechol	*
-KCAT	Escherichia coli	3.6	3-methylcatechol	*
-KCAT	Escherichia coli	29	3-(2,3-dihydroxyphenyl)propionate	*

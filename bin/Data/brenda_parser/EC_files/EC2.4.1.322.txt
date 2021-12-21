@@ -1,6 +1,0 @@
-KCAT	Amycolatopsis orientalis	0.002	desvancosaminyl-vancomycin	*pH 7.0, 37&deg;C, mutant enzyme D13A
-KCAT	Amycolatopsis orientalis	0.002	UDP-L-epi-vancosamine	*pH 7.0, 37&deg;C, mutant enzyme D13A
-KCAT	Amycolatopsis orientalis	1.12	desvancosaminyl-vancomycin	*pH 7.0, 37&deg;C, wild-type enzyme
-KCAT	Amycolatopsis orientalis	1.12	UDP-L-epi-vancosamine	*pH 7.0, 37&deg;C, wild-type enzyme
-KCAT	Amycolatopsis orientalis	2.13	dTDP-beta-L-daunosamine	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Amycolatopsis orientalis	2.25	dTDP-beta-L-acosamine	*pH not specified in the publication, temperature not specified in the publication

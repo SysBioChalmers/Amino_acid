@@ -1,3 +1,0 @@
-KCAT	Parageobacillus thermoglucosidasius	43	FAD	*NADH-dependent reduction, 25&deg;C, pH 7.0, recombinant PheA2
-KCAT	Parageobacillus thermoglucosidasius	147	riboflavin	*NADH-dependent reduction, 25&deg;C, pH 7.0, recombinant PheA2
-KCAT	Parageobacillus thermoglucosidasius	180	FMN	*NADH-dependent reduction, 25&deg;C, pH 7.0, recombinant PheA2

@@ -1,1 +1,0 @@
-KCAT	Gluconobacter oxydans	3820	D-sorbitol	*at pH 10.0 and 25&Acirc;&deg;C

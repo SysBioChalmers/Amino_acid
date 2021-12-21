@@ -1,1 +1,0 @@
-KCAT	Azotobacter vinelandii	400	flavodoxin hydroquinone	*before and after reduction of the nitrogenase complex relative slow reactions take place, which limits the rate of the Fe protein cycle

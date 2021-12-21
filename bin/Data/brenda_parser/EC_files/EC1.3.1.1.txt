@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	0.28	Dihydrothymine	*pH 11.0, 30&deg;C; pH 11.0, 30&deg;C
-KCAT	Escherichia coli	0.39	thymine	*pH 6.0, 30&deg;C; pH 6.0, 30&deg;C
-KCAT	Escherichia coli	0.64	Uracil	*pH 6.0, 30&deg;C; pH 6.0, 30&deg;C
-KCAT	Escherichia coli	0.65	5,6-dihydrouracil	*pH 11.0, 30&deg;C; pH 11.0, 30&deg;C

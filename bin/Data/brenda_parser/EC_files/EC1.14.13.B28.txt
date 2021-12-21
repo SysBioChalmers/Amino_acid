@@ -1,5 +1,0 @@
-KCAT	Sulfurisphaera tokodaii	0.000057	Styrene	*pH 7, 25&deg;C, mutant enzyme delLL151-E156
-KCAT	Sulfurisphaera tokodaii	0.000061	Styrene	*pH 7, 25&deg;C, wild-type enzyme
-KCAT	Sulfurisphaera tokodaii	0.000076	NADH	*pH 7, 25&deg;C, wild-type enzyme
-KCAT	Sulfurisphaera tokodaii	0.000079	NADH	*pH 7, 25&deg;C, mutant enzyme delLL151-E156
-KCAT	Sulfurisphaera tokodaii	0.0087	Styrene	*pH 7.5, 25&deg;C

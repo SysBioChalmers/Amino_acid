@@ -1,5 +1,0 @@
-KCAT	Homo sapiens	-999	more	*activated C1r and its wild-type CCP1/2-SP and CCP2-SP fragments all cleave acetyl-Gly-Lys-methyl ester with turnover numbers ranging from 8.2 s to 9.2 s
-KCAT	Homo sapiens	0.0021	MASP-3 K448Q zymogen	*pH 7.4, 37&deg;C
-KCAT	Homo sapiens	0.0645	zymogen C1s	*pH 7.4, 37&deg;C, substrate is a fragment consisting of complement control protein domains, CCP1 and CCP2, plus serine
-KCAT	Homo sapiens	12.5	N-Acetyl-Gly-Lys methyl ester	*
-KCAT	Homo sapiens	18.3	N-acetyl-Arg methyl ester	*

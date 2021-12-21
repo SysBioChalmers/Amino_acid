@@ -1,1 +1,0 @@
-KCAT	Bacillus subtilis	5.4	6-carboxy-5,6,7,8-tetrahydropterin	*pH 7,4, temperature not specified in the publication, recombinant enzyme

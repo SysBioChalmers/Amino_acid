@@ -1,2 +1,0 @@
-KCAT	Nostoc sp.	0.044	(2E,6E)-farnesyl diphosphate	*in 10 mM Tris-HCl, 10 mM MgCl2, 1 mM beta-mercaptoethanol, pH 8.0, at 30&Acirc;&deg;C
-KCAT	Nostoc punctiforme	0.063	(E,E)-farnesyl diphosphate	*in 10 mM Tris-HCl, 10 mM MgCl2, 1 mM beta-mercaptoethanol, pH 8.0, at 30&Acirc;&deg;C

@@ -1,5 +1,0 @@
-KCAT	Pseudomonas aeruginosa	0.36	acetoacetyl-CoA	*pH 8.2, 30&Acirc;&deg;C
-KCAT	Pseudomonas aeruginosa	0.022	cysteamine S-phosphate	*pH 8.2, 30&Acirc;&deg;C
-KCAT	Pseudomonas aeruginosa	0.85	S-ethyl-acetothioacetate	*pH 8.2, 30&Acirc;&deg;C
-KCAT	Pseudomonas aeruginosa	0.003	S-(4-nitrobenzoyl)mercaptoethane	*mutant E182A, pH 8.5, 25&Acirc;&deg;C, presence of Mn2+
-KCAT	Pseudomonas aeruginosa	0.12	S-(4-nitrobenzoyl)mercaptoethane	*wild-type, pH 8.5, 25&Acirc;&deg;C, presence of Mn2+

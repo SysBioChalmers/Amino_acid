@@ -1,2 +1,0 @@
-KCAT	Listeria monocytogenes	0.0065	H2O2	*at pH 7.0 and 25&Acirc;&deg;C
-KCAT	Listeria monocytogenes EGD	0.0065	H2O2	*pH 7.0, temperature not specified in the publication

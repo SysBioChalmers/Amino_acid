@@ -1,1 +1,0 @@
-KCAT	Mus musculus	0.01	[histone H2B peptide 23-37]-L-arginine	*pH 7.5, 22&deg;C

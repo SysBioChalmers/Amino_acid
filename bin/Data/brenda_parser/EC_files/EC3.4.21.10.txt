@@ -1,5 +1,0 @@
-KCAT	Ovis aries	115	Nalpha-benzoyl-L-Arg ethyl ester	*
-KCAT	Sus scrofa	320	aminobenzoyl-Ser-Lys-Gly-Arg-Ser-Leu-Ile-Gly-Lys(dinitrophenyl)-Asp	*pH 7.4, 37&Acirc;&deg;C
-KCAT	Ovis aries	49	methyl N2-[(4-methylphenyl)sulfonyl]-L-argininate	*
-KCAT	Homo sapiens	-999	more	*
-KCAT	Ovis aries	-999	more	*

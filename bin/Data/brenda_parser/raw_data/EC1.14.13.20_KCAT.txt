@@ -1,1 +1,0 @@
-ecNumber*1.14.13.20#turnoverNumber*6.83#turnoverNumberMaximum*#substrate*2,4-Dichlorophenol#commentary*#organism*Acinetobacter sp.#ligandStructureId*1368#literature*439011#

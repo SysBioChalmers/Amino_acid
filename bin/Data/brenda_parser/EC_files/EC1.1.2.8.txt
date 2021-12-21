@@ -1,4 +1,0 @@
-KCAT	Pseudomonas putida	24.8	ethanol	*pH 9.0, temperature not specified in the publication, in presence of ethylamine
-KCAT	Pseudomonas putida	32.6	Propanol	*pH 9.0, temperature not specified in the publication, in presence of ethylamine
-KCAT	Pseudomonas putida	56.6	ethanol	*pH 9.0, temperature not specified in the publication, in presence of pentylamine
-KCAT	Pseudomonas putida	73.1	Propanol	*pH 9.0, temperature not specified in the publication, in presence of pentylamine

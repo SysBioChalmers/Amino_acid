@@ -1,4 +1,0 @@
-KCAT	Stenotrophomonas maltophilia	0.01	(2R,3R)-2-hexyl-3-hydroxydecanoic acid	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Stenotrophomonas maltophilia	0.006	(2S,3R)-2-hexyl-3-hydroxydecanoic acid	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Stenotrophomonas maltophilia	0.0301	(2S,3S)-2-hexyl-3-hydroxydecanoic acid	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Stenotrophomonas maltophilia	0.0245	(2R,3S)-2-hexyl-3-hydroxydecanoic acid	*pH 7.5, 25&Acirc;&deg;C

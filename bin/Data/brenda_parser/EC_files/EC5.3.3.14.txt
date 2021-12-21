@@ -1,1 +1,0 @@
-KCAT	Escherichia coli	15	cis-3-decenoyl-N-acetylcysteamine	*pH 9.0, 30&deg;C

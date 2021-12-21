@@ -1,1 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.0011	7,8-dihydroneopterin	*at pH 7.0 and 25&deg;C

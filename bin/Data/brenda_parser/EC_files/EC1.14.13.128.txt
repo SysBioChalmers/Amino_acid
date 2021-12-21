@@ -1,4 +1,0 @@
-KCAT	Pseudomonas putida	3.17	Caffeine	*pH and temperature not specified in the publication
-KCAT	Pseudomonas putida	0.16	7-methylxanthine	*in 50 mM potassium phosphate buffer (pH 7.5) at 30&Acirc;&deg;C
-KCAT	Pseudomonas putida	1.58	7-methylxanthine	*pH 7.5, 30&Acirc;&deg;C, kinetic parameters for two-subunit N-demethylase component (Ndm), in the presence of saturating amounts of Ccr (reductase component with cytochrome c reductase activity) and 50 mM Fe2+
-KCAT	Pseudomonas putida	0.27	1,7-dimethylxanthine	*pH 7.5, 30&Acirc;&deg;C, kinetic parameters for two-subunit N-demethylase component (Ndm), in the presence of saturating amounts of Ccr (reductase component with cytochrome c reductase activity) and 50 mM Fe2+

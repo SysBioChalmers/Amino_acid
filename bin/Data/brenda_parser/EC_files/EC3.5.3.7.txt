@@ -1,2 +1,0 @@
-KCAT	Pseudomonas aeruginosa	94.7	4-Guanidinobutyrate	*pH 7.9, 30&Acirc;&deg;C, wild-type
-KCAT	Pseudomonas aeruginosa	1012	4-Guanidinobutyrate	*pH 9.5, 0.134 mM MnSO4, 37&Acirc;&deg;C

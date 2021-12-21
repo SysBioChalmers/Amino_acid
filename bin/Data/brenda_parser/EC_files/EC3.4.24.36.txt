@@ -1,8 +1,0 @@
-KCAT	Leishmania donovani donovani	3.1	casein	*fluorogenic substrate, pH 7.2, 37&deg;C, mutant S446A
-KCAT	Leishmania donovani donovani	3.5	casein	*fluorogenic substrate, pH 7.2, 37&deg;C, truncated mutant DELTA389
-KCAT	Leishmania donovani donovani	3.7	casein	*fluorogenic substrate, pH 7.2, 37&deg;C, truncated mutant DELTA420
-KCAT	Leishmania donovani donovani	11.1	casein	*fluorogenic substrate, pH 7.2, 37&deg;C, truncated mutant DELTA484
-KCAT	Leishmania donovani donovani	11.8	casein	*fluorogenic substrate, pH 7.2, 37&deg;C, mutant F448Y; fluorogenic substrate, pH 7.2, 37&deg;C, truncated mutant DELTA542
-KCAT	Leishmania donovani donovani	11.9	casein	*fluorogenic substrate, pH 7.2, 37&deg;C, mutant S446T
-KCAT	Leishmania donovani donovani	12	casein	*fluorogenic substrate, pH 7.2, 37&deg;C, wild-type enzyme
-KCAT	Leishmania donovani donovani	12.7	casein	*fluorogenic substrate, pH 7.2, 37&deg;C, mutant F448V

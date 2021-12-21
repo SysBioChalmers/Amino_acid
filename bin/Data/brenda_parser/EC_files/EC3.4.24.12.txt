@@ -1,3 +1,0 @@
-KCAT	Strongylocentrotus purpuratus	0.038	dimethylated casein	*
-KCAT	Strongylocentrotus purpuratus	0.72	dimethylated casein	*
-KCAT	Paracentrotus lividus	180	dimethylated casein	*

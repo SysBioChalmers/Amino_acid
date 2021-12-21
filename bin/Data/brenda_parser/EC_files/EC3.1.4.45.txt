@@ -1,2 +1,0 @@
-KCAT	Clostridium perfringens	8.5	dinitrophenyl alpha-N-acetyl-Dglucosaminide	*
-KCAT	Clostridium perfringens	0.26	4-nitrophenyl alpha-N-acetyl-D-glucosaminide	*

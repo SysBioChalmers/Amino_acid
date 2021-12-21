@@ -1,4 +1,0 @@
-KCAT	Trichormus variabilis	0.008	L-lysine	*at pH 7.5 and 30&deg;C
-KCAT	Trichormus variabilis	0.34	L-2,4-diaminobutanoate	*at pH 7.5 and 30&deg;C
-KCAT	Vibrio cholerae serotype O1	0.54	L-ornithine	*DABA AT/DC fusion protein
-KCAT	Vibrio cholerae serotype O1	8.3	L-2,4-diaminobutyrate	*DABA AT//DC fusion protein

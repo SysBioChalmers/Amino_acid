@@ -1,2 +1,0 @@
-KCAT	Sphingopyxis alaskensis	0.6	N-alpha-acetyl-L-2,4-diaminobutanoate	*pH 8.5, 15&deg;C, recombinant enzyme
-KCAT	Sphingopyxis alaskensis	7.2	(2S)-4-acetamido-2-aminobutanoate	*pH 8.5, 15&deg;C, recombinant enzyme

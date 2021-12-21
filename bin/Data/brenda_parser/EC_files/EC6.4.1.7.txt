@@ -1,2 +1,0 @@
-KCAT	Hydrogenobacter thermophilus	31.7	ATP	*pH 8.5, 20&Acirc;&deg;C
-KCAT	Hydrogenobacter thermophilus	30.6	2-oxoglutarate	*pH 8.5, 20&Acirc;&deg;C

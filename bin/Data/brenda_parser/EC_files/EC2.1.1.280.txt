@@ -1,5 +1,0 @@
-KCAT	Escherichia coli	0.38	L-homocysteine	*with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&Acirc;&deg;C
-KCAT	Escherichia coli	0.00017	L-selenocysteine	*pH 6, 30&Acirc;&deg;C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&Acirc;&deg;C
-KCAT	Astragalus bisulcatus	0.0062	L-selenocysteine	*pH 6, 30&Acirc;&deg;C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.0, 30&Acirc;&deg;C
-KCAT	Astragalus bisulcatus	0.0074	DL-selenohomocysteine	*pH 6, 30&Acirc;&deg;C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.0, 30&Acirc;&deg;C
-KCAT	Escherichia coli	0.74	DL-selenohomocysteine	*pH 6, 30&Acirc;&deg;C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&Acirc;&deg;C

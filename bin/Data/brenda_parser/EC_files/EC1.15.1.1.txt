@@ -1,7 +1,0 @@
-KCAT	Homo sapiens	1100	O2-	*pH 7.5, 25&Acirc;&deg;C, mutant Y34F with fluorinated Tyr-residues
-KCAT	Homo sapiens	3300	O2-	*pH 7.5, 25&Acirc;&deg;C, mutant Y34F
-KCAT	Homo sapiens	4600	O2-	*pH 7.5, 25&Acirc;&deg;C, wild-type with fluorinated Tyr-residues
-KCAT	Homo sapiens	40000	O2-	*pH 7.5, 25&Acirc;&deg;C, wild-type
-KCAT	Avicennia marina	107000	superoxide	*pH 8.2, 22&Acirc;&deg;C
-KCAT	Bos taurus	100000	O2.-	*
-KCAT	Bos taurus	-999	more	*determination of catalytic rate constant by pulse irradiation and cytochrome c assay after addition of EDTA to eliminate excess copper. kcat Value is 2820000000 per M and s at low ionic strength and 1300000000 per M and s in presence of 50 mM phosphate, pH 7.8

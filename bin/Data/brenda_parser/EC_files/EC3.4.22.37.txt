@@ -1,2 +1,0 @@
-KCAT	Porphyromonas gingivalis	0.076	prothrombin	*RgpB, pH 7.6, 37&deg;C, in presence of Ca2+ and phospholipids
-KCAT	Porphyromonas gingivalis	0.32	prothrombin	*HRgpA, pH 7.6, 37&deg;C, in presence of Ca2+ and phospholipids

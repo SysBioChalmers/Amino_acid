@@ -1,3 +1,0 @@
-KCAT	Escherichia coli	0.09	glutaredoxin 3	*
-KCAT	Escherichia coli	0.14	glutaredoxin 2	*
-KCAT	Escherichia coli	0.3	glutaredoxin 1	*

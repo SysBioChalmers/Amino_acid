@@ -1,3 +1,0 @@
-KCAT	Saccharolobus solfataricus	0.00055	NTP	*KM-value is determined by measuring the priming rate at different concentrations of NTPs, 70&deg;C, pH 8.5, in presence of M13 ssDNA as template, wild-type enzyme
-KCAT	Saccharolobus solfataricus	0.011	NTP	*recombinant PriSX, pH 6.5, 55&deg;C
-KCAT	Saccharolobus solfataricus	0.022	NTP	*recombinant PriSLX, pH 6.5, 55&deg;C

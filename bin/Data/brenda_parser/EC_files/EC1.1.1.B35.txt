@@ -1,4 +1,0 @@
-KCAT	Saccharolobus solfataricus	17.7	D-ribose	*pH 7.5, 80&deg;C
-KCAT	Saccharolobus solfataricus	17.7	L-galactose	*pH 7.5, 80&deg;C
-KCAT	Saccharolobus solfataricus	23.8	D-arabinose	*pH 7.5, 80&deg;C
-KCAT	Saccharolobus solfataricus	26.8	L-fucose	*pH 7.5, 80&deg;C

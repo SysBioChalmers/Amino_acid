@@ -1,2 +1,0 @@
-KCAT	Saccharomyces cerevisiae	0.028	ADP-ribose 1''-phosphate	*in 20 mM Tris-HCl, pH 7.5, 5 mM MgCl2, 2.5 mM spermidine, 100 mM dithiothreitol, 0.4% (v/v) Triton X-100, at 30&Acirc;&deg;C
-KCAT	SARS coronavirus	0.0865	ADP-ribose 1''-phosphate	*in 50 mM Tris (pH 7.5), 1 mM MgCl2, 0.1 mM sodium azide, temperature not specified in the publication

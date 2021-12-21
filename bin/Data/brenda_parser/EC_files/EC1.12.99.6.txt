@@ -1,9 +1,0 @@
-KCAT	Pyrococcus furiosus	-999	more	*turnover number for various electron donors
-KCAT	Desulfovibrio fructosivorans	0.09	Cr6+	*pH 7.0
-KCAT	Desulfomicrobium norvegicum	0.23	Cr6+	*pH 7.0
-KCAT	Desulfovibrio vulgaris	1.3	Cr6+	*pH 7.0
-KCAT	Hydrogenophaga sp.	20	methyl viologen	*pH 7.0, 30&deg;C
-KCAT	Hydrogenobacter thermophilus	48.3	methionaquinone	*
-KCAT	Hydrogenophaga sp.	240	benzyl viologen	*pH 7.0, 30&deg;C
-KCAT	Hydrogenophaga sp.	560	methylene blue	*pH 7.0, 30&deg;C
-KCAT	Allochromatium vinosum	1500	Abz-VAA	*NiFe hydrogenase attached to a pyrolytic graphite electrode

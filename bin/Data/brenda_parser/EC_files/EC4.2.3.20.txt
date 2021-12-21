@@ -1,4 +1,0 @@
-KCAT	Lavandula angustifolia	0.012	geranyl diphosphate	*LaLIMS_RR, truncated protein
-KCAT	Citrus sinensis	0.186	geranyl diphosphate	*at pH 8.0, temperature not specified in the publication
-KCAT	Citrus sinensis	0.00054	2-Fluorogeranyl diphosphate	*pH and temperature not specified in the publication
-KCAT	Citrus sinensis	0.00024	2-fluoroneryl diphosphate	*pH and temperature not specified in the publication

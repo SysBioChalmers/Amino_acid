@@ -1,2 +1,0 @@
-KCAT	Sphingobium sp.	0.385	vanillate	*wild-type, pH 8.0, 30&Acirc;&deg;C
-KCAT	Sphingomonas paucimobilis	5.76	vanillate	*pH 8.0, 30&Acirc;&deg;C

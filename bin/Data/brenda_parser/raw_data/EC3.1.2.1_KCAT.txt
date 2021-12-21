@@ -1,1 +1,0 @@
-ecNumber*3.1.2.1#turnoverNumber*1.99#turnoverNumberMaximum*#substrate*acetyl-CoA#commentary*pH 8, 37&deg;C, mutant form lacking START domain#organism*Mus musculus#ligandStructureId*29#literature*732297#!ecNumber*3.1.2.1#turnoverNumber*7.26#turnoverNumberMaximum*#substrate*acetyl-CoA#commentary*pH 8, 37&deg;C, wild-type#organism*Mus musculus#ligandStructureId*29#literature*732297#

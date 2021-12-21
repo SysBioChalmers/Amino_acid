@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	2.2	L-glutamate	*pH 7.2, 37&Acirc;&deg;C
-KCAT	Escherichia coli	12	L-glutamate	*pH 7.2, 37&Acirc;&deg;C, presence of tRNAGlu
-KCAT	Escherichia coli	14	L-glutamate	*pH 7.2, 37&Acirc;&deg;C, activation of L-glutamate
-KCAT	Escherichia coli	18	L-glutamate	*pH 7.2, 37&Acirc;&deg;C

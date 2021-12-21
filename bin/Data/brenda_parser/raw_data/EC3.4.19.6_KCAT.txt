@@ -1,1 +1,0 @@
-ecNumber*3.4.19.6#turnoverNumber*0.6#turnoverNumberMaximum*#substrate*5-oxoprolyl 2-naphthylamide#commentary*#organism*Sus scrofa#ligandStructureId*20643#literature*647283#!ecNumber*3.4.19.6#turnoverNumber*38.3#turnoverNumberMaximum*#substrate*thyrotropin-releasing hormone#commentary*#organism*Sus scrofa#ligandStructureId*4872#literature*647283#

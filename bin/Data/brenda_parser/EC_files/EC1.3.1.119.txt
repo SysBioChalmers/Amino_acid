@@ -1,4 +1,0 @@
-KCAT	Xanthobacter flavus	14.5	3,6-dichlorobenzene cis-dihydrodiol	*pH 8.0, 30&deg;C
-KCAT	Xanthobacter flavus	14.5	NAD+	*pH 8.0, 30&deg;C, cosubstrate: 3,6-dichlorobenzene cis-dihydrodiol
-KCAT	Xanthobacter flavus	27.8	benzene cis-dihydrodiol	*pH 8.0, 30&deg;C
-KCAT	Xanthobacter flavus	27.8	NAD+	*pH 8.0, 30&deg;C, cosubstrate: benzene cis-dihydrodiol

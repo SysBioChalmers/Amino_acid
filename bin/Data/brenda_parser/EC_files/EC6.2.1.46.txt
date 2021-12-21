@@ -1,4 +1,0 @@
-KCAT	Pseudomonas syringae	0.03	L-leucine	*pH 7.5, 25&Acirc;&deg;C, the assay measures the release of diphosphate by means of a coupled enzyme system in which diphosphate drives the reduction of NAD+ to NADH
-KCAT	Pseudomonas syringae	0.023	L-valine	*pH 7.5, 25&Acirc;&deg;C, the assay measures the release of diphosphate by means of a coupled enzyme system in which diphosphate drives the reduction of NAD+ to NADH
-KCAT	Pseudomonas syringae	0.012	L-isoleucine	*pH 7.5, 25&Acirc;&deg;C, the assay measures the release of diphosphate by means of a coupled enzyme system in which diphosphate drives the reduction of NAD+ to NADH
-KCAT	Pseudomonas syringae	0.0015	L-allo-isoleucine	*pH 7.5, 25&Acirc;&deg;C, the assay measures the release of diphosphate by means of a coupled enzyme system in which diphosphate drives the reduction of NAD+ to NADH

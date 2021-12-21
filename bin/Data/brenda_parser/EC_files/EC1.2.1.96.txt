@@ -1,4 +1,0 @@
-KCAT	Pseudomonas putida	0.0017	4-hydroxy-3-methylbenzaldehyde	*with NAD+ as cosubstrate, at pH 8.0 and 30&deg;C
-KCAT	Pseudomonas putida	0.0017	4-hydroxybenzaldehyde	*with NAD+ as cosubstrate, at pH 8.0 and 30&deg;C
-KCAT	Pseudomonas putida	0.071	4-hydroxy-3-methylbenzaldehyde	*with NADP+ as cosubstrate, at pH 8.0 and 30&deg;C
-KCAT	Pseudomonas putida	0.26	4-hydroxybenzaldehyde	*with NADP+ as cosubstrate, at pH 8.0 and 30&deg;C

@@ -1,8 +1,0 @@
-KCAT	Pseudomonas fluorescens	0.08	malonyl-CoA	*mutant enzyme Y256R/A289R, pH and temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	0.11	malonyl-CoA	*mutant enzyme K210L/Y256R, pH and temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	0.12	malonyl-CoA	*wild type enzyme, pH and temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	0.13	malonyl-CoA	*mutant enzyme A289R, pH and temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	0.17	malonyl-CoA	*pH and temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	0.2	malonyl-CoA	*mutant enzyme Y256R, pH and temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	0.21	malonyl-CoA	*mutant enzyme K210L, pH and temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	0.4	malonyl-CoA	*at pH 7.5 and 37&Acirc;&deg;C

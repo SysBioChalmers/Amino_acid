@@ -1,3 +1,0 @@
-KCAT	Mycobacterium tuberculosis	1.8	2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	*
-KCAT	Arabidopsis thaliana	2.5	2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	*
-KCAT	Escherichia coli	2.7	2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	*

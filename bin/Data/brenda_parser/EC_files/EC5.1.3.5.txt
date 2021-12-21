@@ -1,9 +1,0 @@
-KCAT	Arabidopsis thaliana	0.2	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme
-KCAT	Arabidopsis thaliana	0.4	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme
-KCAT	Arabidopsis thaliana	0.5	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme
-KCAT	Arabidopsis thaliana	13	UDP-D-xylose	*recominant Arabidopsis thaliana enzyme UGE3
-KCAT	Arabidopsis thaliana	19	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme UGE1
-KCAT	Hordeum vulgare	1.5	UDP-beta-L-arabinopyranose	*pH 7.0, at 25&Acirc;&deg;C
-KCAT	Hordeum vulgare	1.5	UDP-alpha-D-xylopyranose	*pH 7.0, at 25&Acirc;&deg;C
-KCAT	Sinorhizobium meliloti	13	UDP-alpha-D-xylopyranose	*apparent value, at 37&Acirc;&deg;C, in 50 mM sodium phosphate, pH 7.6
-KCAT	Sinorhizobium meliloti	13	UDP-D-xylopyranose	*apparent value, at 37&Acirc;&deg;C, in 50 mM sodium phosphate, pH 7.6

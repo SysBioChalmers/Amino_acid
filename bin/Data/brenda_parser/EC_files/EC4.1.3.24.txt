@@ -1,5 +1,0 @@
-KCAT	Rhodobacter sphaeroides	8.6	acetyl-CoA	*at 30&Acirc;&deg;C
-KCAT	Rhodobacter sphaeroides	12	propionyl-CoA	*at 30&Acirc;&deg;C
-KCAT	Chloroflexus aurantiacus	8.8	(3S)-3-carboxy-3-hydroxypropanoyl-CoA	*pH 7.1, 55&Acirc;&deg;C
-KCAT	Rhodobacter sphaeroides	2.5	(3S)-malyl-CoA	*at 30&Acirc;&deg;C
-KCAT	Rhodobacter sphaeroides	2.8	beta-methylmalyl-CoA	*at 30&Acirc;&deg;C

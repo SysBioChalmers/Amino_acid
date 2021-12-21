@@ -1,1 +1,0 @@
-ecNumber*5.4.99.B4#turnoverNumber*0.033#turnoverNumberMaximum*#substrate*50S ribosomal subunit#commentary*His-tagged enzyme, in 50 mM Tris/HCl at pH 8.0, 100 mM NH4Cl, 10 mM MgCl2, and 1 mM dithiothreitol, at 37&deg;C#organism*Escherichia coli#ligandStructureId*#literature*716899#

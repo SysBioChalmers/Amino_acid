@@ -1,4 +1,0 @@
-KCAT	Streptomyces hygroscopicus	2.5	ATP	*pH 7.5, 45&Acirc;&deg;C, recombinant wild-type enzyme YG
-KCAT	Streptomyces hygroscopicus	5.6	ATP	*pH 7.5, 45&Acirc;&deg;C, recombinant mutant enzyme HYG10
-KCAT	Streptomyces hygroscopicus	6.4	hygromycin B	*pH 7.5, 45&Acirc;&deg;C, recombinant wild-type enzyme YG
-KCAT	Streptomyces hygroscopicus	8	hygromycin B	*pH 7.5, 45&Acirc;&deg;C, recombinant mutant enzyme HYG10

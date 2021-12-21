@@ -1,6 +1,0 @@
-KCAT	Rattus norvegicus	0.5	palmitoyl-CoA	*enzyme-catalyzed C-2 proton-deuteron exchange reaction
-KCAT	Bos taurus	1.67	palmitoyl-CoA	*saturating ETF
-KCAT	Homo sapiens	2.17	palmitoyl-CoA	*
-KCAT	Rattus norvegicus	5.4	palmitoyl-CoA	*
-KCAT	Homo sapiens	2.25	octanoyl-CoA	*
-KCAT	Homo sapiens	2.25	decanoyl-CoA	*

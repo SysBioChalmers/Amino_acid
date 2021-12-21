@@ -1,4 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.011	2,6-dichlorophenolindophenol	*pH 7.2, 30&deg;C
-KCAT	Mycobacterium tuberculosis	25.6	NADH	*flavin reduction, pH 7.2, 30&deg;C
-KCAT	Mycobacterium tuberculosis	33.7	ferricyanide	*pH 7.2, 30&deg;C
-KCAT	Mycobacterium tuberculosis	50.6	NADPH	*flavin reduction, pH 7.2, 30&deg;C

@@ -1,7 +1,0 @@
-KCAT	Human adenovirus sp.	-999	2-[5-Amino-2-(4-fluoro-phenyl)-6-oxo-6H-pyrimidin-1-yl]-N-(1-benzyl-2-oxo-2-thiazol-2-yl-ethyl)-acetamide	*influence of mutant pVIcs on turnover number with (Leu-Arg-Gly-Gly-NH)2-rhodamine as substrate
-KCAT	Human adenovirus sp.	-999	more	*influence of mutant pVIcs on turnover number with (Leu-Arg-Gly-Gly-NH)2-rhodamine as substrate
-KCAT	Human adenovirus sp.	0.0023	(Leu-Arg-Gly-Gly-NH)2-rhodamine	*pH 8.0, 25&deg;C, in absence of any cofactor
-KCAT	Human adenovirus sp.	0.0248	(Leu-Arg-Gly-Gly-NH)2-rhodamine	*pH 8.0, 25&deg;C, activation by viral DNA
-KCAT	Human adenovirus sp.	0.271	(Leu-Arg-Gly-Gly-NH)2-rhodamine	*pH 8.0, 25&deg;C, activation by the the 11-amino acid residue peptide from the C-terminus of adenovirus precursor protein and the viral DNA
-KCAT	Human adenovirus sp.	2.78	(Leu-Arg-Gly-Gly-NH)2-rhodamine	*pH 8.0, 25&deg;C, activation by viral DNA and the 11-amino acid residue peptide from the C-terminus of adenovirus precursor protein and the viral DNA
-KCAT	Human adenovirus sp.	3	(Leu-Arg-Gly-Gly-NH)2-rhodamine	*pH 8.0, 25&deg;C, activation by viral DNA and the 11-amino acid residue peptide from the C-terminus of adenovirus precursor protein and the viral DNA

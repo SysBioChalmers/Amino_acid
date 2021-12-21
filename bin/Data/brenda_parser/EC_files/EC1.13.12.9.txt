@@ -1,2 +1,0 @@
-KCAT	Pseudomonas sp.	103	L-phenylalanine	*pH 8.0, 25&deg;C
-KCAT	Pseudomonas sp.	115	L-phenylalanine	*active enzyme comparable to native enzyme, 20 mM Tris-HCl, pH 8.0, 25&deg;C

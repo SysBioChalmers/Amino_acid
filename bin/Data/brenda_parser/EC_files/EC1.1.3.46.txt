@@ -1,2 +1,0 @@
-KCAT	Streptomyces coelicolor	1.2	L-Mandelate	*at pH 7.5 and 28&Acirc;&deg;C
-KCAT	Streptomyces coelicolor	3.5	(S)-4-hydroxymandelate	*at pH 7.5 and 28&Acirc;&deg;C

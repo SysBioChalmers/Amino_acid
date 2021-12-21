@@ -1,5 +1,0 @@
-KCAT	Collinsella aerofaciens	17.2	NADPH	*pH 8.0, 25&Acirc;&deg;C
-KCAT	Collinsella aerofaciens	15.7	NADP+	*pH 8.0, 25&Acirc;&deg;C
-KCAT	Collinsella aerofaciens	19.6	Ursodeoxycholic acid	*pH 8.0, 25&Acirc;&deg;C
-KCAT	Collinsella aerofaciens	14.6	Dehydrocholic acid	*pH 8.0, 25&Acirc;&deg;C
-KCAT	Collinsella aerofaciens	15.8	7-ketolithocholic acid	*pH 8.0, 25&Acirc;&deg;C

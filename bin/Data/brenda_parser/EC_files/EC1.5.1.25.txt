@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	0.2	S-(2-aminoethyl)-L-cysteine ketimine	*pH 7.2, 37&deg;C
-KCAT	Homo sapiens	1.7	DELTA2-thiazoline-2-carboxylate	*pH 7.2, 37&deg;C
-KCAT	Homo sapiens	4.4	DELTA1-piperideine 2-carboxylate	*pH 7.2, 37&deg;C
-KCAT	Homo sapiens	6.6	DELTA1-pyrrolidine 2-carboxylate	*pH 7.2, 37&deg;C

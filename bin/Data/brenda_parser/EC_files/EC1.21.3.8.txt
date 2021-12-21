@@ -1,2 +1,0 @@
-KCAT	Cannabis sativa	0.03	cannabinerolate	*in 100 mM sodium citrate buffer (pH 5.0), at 30&deg;C
-KCAT	Cannabis sativa	0.19	cannabigerolate	*in 100 mM sodium citrate buffer (pH 5.0), at 30&deg;C

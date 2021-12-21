@@ -1,2 +1,0 @@
-KCAT	Trichormus variabilis	0.0533	D-sedoheptulose 7-phosphate	*pH 7.4, 25&deg;C
-KCAT	Nostoc punctiforme	0.0833	D-sedoheptulose 7-phosphate	*pH 7.4, 25&deg;C

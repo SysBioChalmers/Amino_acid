@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	80	dAMP	*isoform AMPK2, in 50 mM Tris/HCl (pH 7.4), 50 mM KCl, 5 mM MgCl2, at 37&Acirc;&deg;C
-KCAT	Homo sapiens	500	dAMP	*isoform AMPK1, in 50 mM Tris/HCl (pH 7.4), 50 mM KCl, 5 mM MgCl2, at 37&Acirc;&deg;C
-KCAT	Homo sapiens	1.25	TMP	*in Tris-HCl (50 mM, pH 7.4), KCl (50 mM), MgCl2 (5 mM), at 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.014	[2-[(2R,3S,5R)-3-hydroxy-5-(5-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)tetrahydrofuran-2-yl]ethyl]boronic acid	*in Tris-HCl (50 mM, pH 7.4), KCl (50 mM), MgCl2 (5 mM), at 37&Acirc;&deg;C

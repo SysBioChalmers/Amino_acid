@@ -1,5 +1,0 @@
-KCAT	Rattus norvegicus	150	3-hydroxy-2-methylpropanoyl-CoA	*
-KCAT	Rattus norvegicus	266	3-hydroxy-2-methylpropanoyl-CoA	*
-KCAT	Pseudomonas aeruginosa	1	3-hydroxyisobutyryl-CoA	*mutant D151N
-KCAT	Pseudomonas aeruginosa	89	3-hydroxyisobutyryl-CoA	*wild-type enzyme, a deuterium isotope of the substrate is used
-KCAT	Pseudomonas aeruginosa	-999	more	*

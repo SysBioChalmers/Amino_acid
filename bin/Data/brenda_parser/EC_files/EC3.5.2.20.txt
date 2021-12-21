@@ -1,2 +1,0 @@
-KCAT	Labrenzia aggregata	80	isatin	*pH and temperature not specified in the publication
-KCAT	Ralstonia solanacearum	88	isatin	*pH and temperature not specified in the publication

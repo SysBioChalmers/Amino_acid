@@ -1,6 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.4	GTP	*full length enzyme; full length enzyme + tRNA
-KCAT	Mycobacterium tuberculosis	0.47	GTP	*fragment 87-394; fragment 87-394 + tRNA; fragment 87-394 + tRNA + ribosomes + poly(U)
-KCAT	Mycobacterium tuberculosis	0.66	GTP	*fragment 1-394 monomer; fragment 1-394 + tRNA; fragment 1-394 + tRNA + ribosomes + poly(U)
-KCAT	Mycobacterium tuberculosis	8.4	GTP	*full length enzyme + tRNA + ribosomes + poly(U)
-KCAT	Mycolicibacterium smegmatis	127	GTP	*in 50 mM HEPES, pH 7.5, at 37&Acirc;&deg;C
-KCAT	Mycolicibacterium smegmatis	73	GDP	*in 50 mM HEPES, pH 7.5, at 37&Acirc;&deg;C

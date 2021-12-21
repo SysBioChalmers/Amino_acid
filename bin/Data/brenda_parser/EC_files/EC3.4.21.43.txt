@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	0.015	complement component C5	*37&deg;C, high-affinity C5 convertase EAC1,C3bC4b,C2a
-KCAT	Homo sapiens	0.02	complement component C5	*high affinity C5 convertase (EAC1,C3bC4b,C2a)
-KCAT	Homo sapiens	0.022	complement component C5	*37&deg;C, soluble monomeric C3/C5 convertase C4b,C2a
-KCAT	Homo sapiens	0.022	complement component C5	*soluble monomeric C5 convertase (C4b,C2a)
-KCAT	Homo sapiens	0.023	complement component C5	*37&deg;C, surface bound C3/C5 convertase, EAC1,C4b,C2a
-KCAT	Homo sapiens	0.03	complement component C5	*surface-bound C5 convertase (EAC1,C4b,C2a)

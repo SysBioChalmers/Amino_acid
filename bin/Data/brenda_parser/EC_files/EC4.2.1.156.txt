@@ -1,1 +1,0 @@
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.1	L-talarate	*pH 8.0, 25&Acirc;&deg;C

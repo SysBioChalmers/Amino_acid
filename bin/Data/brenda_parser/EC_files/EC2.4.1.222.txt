@@ -1,1 +1,0 @@
-KCAT	Mus musculus	0.08	UDP-beta-D-GlcNAc	*wild-type, pH 6.8, 37&deg;C

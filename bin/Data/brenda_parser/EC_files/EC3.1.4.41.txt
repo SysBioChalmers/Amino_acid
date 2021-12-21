@@ -1,5 +1,0 @@
-KCAT	Loxosceles laeta	0.004	sphingomyelin	*crude enzyme, in HEPES-buffered saline at 37&deg;C; crude enzyme, in HEPES-buffered saline at 37&deg;C
-KCAT	Loxosceles laeta	0.0065	sphingomyelin	*recombinant enzyme SMase I, in HEPES-buffered saline at 37&deg;C
-KCAT	Loxosceles laeta	0.0175	sphingomyelin	*recombinant enzyme SMase II, in HEPES-buffered saline at 37&deg;C
-KCAT	Loxosceles intermedia	0.058	sphingomyelin	*37&deg;C, pH 7.4, sphingomyelinase P1
-KCAT	Loxosceles intermedia	0.118	sphingomyelin	*37&deg;C, pH 7.4, sphingomyelinase P2

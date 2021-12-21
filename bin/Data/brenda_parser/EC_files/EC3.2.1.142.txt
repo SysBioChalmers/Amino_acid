@@ -1,7 +1,0 @@
-KCAT	Hordeum vulgare	3.9	amylopectin	*mutant M440G, 37&deg;C, pH not specified in the publication
-KCAT	Hordeum vulgare	15.6	amylopectin	*wild-type, 37&deg;C, pH not specified in the publication
-KCAT	Hordeum vulgare	61	pullulan	*classical Michaelis-Menten kinetics, pH 5.5, 40&deg;C
-KCAT	Hordeum vulgare	72	pullulan	*mutant M440G, 37&deg;C, pH not specified in the publication
-KCAT	Hordeum vulgare	78	pullulan	*fitting the uncompetitive substrate inhibition Michaelis-Menten equation, pH 5.5, 40&deg;C
-KCAT	Hordeum vulgare	78	pullulan	*pH and temperature not specified in the publication
-KCAT	Hordeum vulgare	78	pullulan	*wild-type, 37&deg;C, pH not specified in the publication

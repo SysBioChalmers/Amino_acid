@@ -1,2 +1,0 @@
-KCAT	unidentified soil bacterium	1.67	thiamine	*thiamine acetate formed
-KCAT	unidentified soil bacterium	5	H+	*release of H+

@@ -1,7 +1,0 @@
-KCAT	Bacillus thuringiensis	3.8	(-)-3-dehydroshikimate	*37&deg;C
-KCAT	Pseudomonas putida	7.7	3-dehydro-shikimate	*pH 7.5, temperature not specified in the publication, recombinant mutant H168A
-KCAT	Pseudomonas putida	61.2	3-dehydro-shikimate	*pH 7.5, temperature not specified in the publication, recombinant isolated N-terminal domain of the enzyme
-KCAT	Pseudomonas putida	99.1	3-dehydro-shikimate	*pH 7.5, temperature not specified in the publication, recombinant mutant R207A
-KCAT	Pseudomonas putida	138.2	3-dehydro-shikimate	*pH 7.5, temperature not specified in the publication, recombinant mutant E356A
-KCAT	Pseudomonas putida	148.1	3-dehydro-shikimate	*pH 7.5, temperature not specified in the publication, recombinant mutant S206A
-KCAT	Pseudomonas putida	163.6	3-dehydro-shikimate	*pH 7.5, temperature not specified in the publication, recombinant wild-type enzyme

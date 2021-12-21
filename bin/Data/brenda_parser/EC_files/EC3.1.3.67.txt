@@ -1,1 +1,0 @@
-KCAT	Ciona intestinalis	0.12	phosphatidylinositol 3,4-bisphosphate	*pH not specified in the publication, 23&Acirc;&deg;C, Vmax: 0.121 nmol/min/microgram

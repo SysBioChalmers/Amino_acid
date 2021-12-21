@@ -1,4 +1,0 @@
-KCAT	Lavandula angustifolia	0.033	(2E,6E)-farnesyl diphosphate	*pH 7.5, 23&deg;C
-KCAT	Santalum album	0.34	(2E,6E)-farnesyl diphosphate	*30&deg;C, pH 8.0; pH 7.4, 25&deg;C
-KCAT	Santalum austrocaledonicum	0.91	(2E,6E)-farnesyl diphosphate	*30&deg;C, pH 8.0; pH 7.4, 25&deg;C
-KCAT	Santalum spicatum	2.6	(2E,6E)-farnesyl diphosphate	*30&deg;C, pH 8.0; pH 7.4, 25&deg;C

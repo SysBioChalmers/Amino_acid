@@ -1,4 +1,0 @@
-KCAT	Papaver somniferum	0.54	NAD+	*pH 8.0, 30&deg;C
-KCAT	Papaver somniferum	0.59	narcotine hemiacetal	*pH 8.0, 30&deg;C, cofactor NAD+
-KCAT	Papaver somniferum	1.69	narcotine hemiacetal	*pH 8.0, 30&deg;C, cofactor NADP+
-KCAT	Papaver somniferum	1.73	NADP+	*pH 8.0, 30&deg;C

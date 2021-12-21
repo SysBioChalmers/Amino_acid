@@ -1,2 +1,0 @@
-KCAT	Acetoanaerobium sticklandii	980	L-ornithine	*pH 8.5, room temperature
-KCAT	Acetoanaerobium sticklandii	1660	L-ornithine	*

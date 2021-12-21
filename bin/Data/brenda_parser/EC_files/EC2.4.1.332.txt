@@ -1,4 +1,0 @@
-KCAT	Bacillus selenitireducens	-999	beta-D-glucose 1-phosphate	*kcat for beta-D-glucose 1-phosphate in the hydrolytic reaction is 2.8 and 1.7 s(-1) at pH 6.0 and pH 7.5 respectively
-KCAT	Bacillus selenitireducens	95	2-O-alpha-D-glucopyranosyl-sn-glycerol	*pH 8.0, 30&deg;C
-KCAT	Bacillus selenitireducens	163	sn-glycerol	*pH 7.5, 30&deg;C
-KCAT	Bacillus selenitireducens	180	beta-D-glucose 1-phosphate	*pH 7.5, 30&deg;C

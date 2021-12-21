@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	22	Mg2+[side 1]	*with 3 or 6 mM ATP, at pH 7.0 and 37&deg;C
-KCAT	Escherichia coli	23	Mg2+[side 1]	*with 1 mM ATP, at pH 7.0 and 37&deg;C

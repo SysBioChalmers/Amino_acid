@@ -1,1 +1,0 @@
-ecNumber*4.2.1.156#turnoverNumber*2.1#turnoverNumberMaximum*#substrate*L-talarate#commentary*pH 8.0, 25&Acirc;&deg;C#organism*Salmonella enterica subsp. enterica serovar Typhimurium#ligandStructureId*140261#literature*678325#

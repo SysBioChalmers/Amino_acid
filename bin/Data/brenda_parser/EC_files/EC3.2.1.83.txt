@@ -1,8 +1,0 @@
-KCAT	Pseudoalteromonas carrageenovora	6.13	kappa-carrageen	*mutant enzyme R196A, at pH 7.0 and 40&Acirc;&deg;C
-KCAT	Pseudoalteromonas carrageenovora	27.36	kappa-carrageen	*mutant enzyme W266A, at pH 7.0 and 40&Acirc;&deg;C
-KCAT	Wenyingzhuangia aestuarii	27.54	kappa-carrageen	*at pH 8.0 and 25&Acirc;&deg;C
-KCAT	Pseudoalteromonas carrageenovora	120.17	kappa-carrageen	*mutant enzyme Q171A, at pH 7.0 and 40&Acirc;&deg;C
-KCAT	Pseudoalteromonas carrageenovora	135.84	kappa-carrageen	*wild type enzyme, at pH 7.0 and 40&Acirc;&deg;C
-KCAT	Pseudoalteromonas carrageenovora	183.2	kappa-carrageen	*mutant enzyme R92A, at pH 7.0 and 40&Acirc;&deg;C
-KCAT	Pseudoalteromonas carrageenovora	478.79	kappa-carrageen	*mutant enzyme R151A, at pH 7.0 and 40&Acirc;&deg;C
-KCAT	Zobellia galactanivorans	914.65	kappa-carrageen	*wild type enzyme, at pH 7.0 and 40&Acirc;&deg;C

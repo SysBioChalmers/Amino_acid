@@ -1,6 +1,0 @@
-KCAT	Aspergillus terreus	71	blasticidin S	*deletion mutant DELTA126-130, 30&Acirc;&deg;C
-KCAT	Aspergillus terreus	320	blasticidin S	*deletion mutant DELTA127-130, 30&Acirc;&deg;C
-KCAT	Aspergillus terreus	390	blasticidin S	*deletion mutant DELTA128-130, 30&Acirc;&deg;C
-KCAT	Aspergillus terreus	770	blasticidin S	*wild-type enzyme, 30&Acirc;&deg;C
-KCAT	Aspergillus terreus	860	blasticidin S	*deletion mutant DELTA130, 30&Acirc;&deg;C
-KCAT	Aspergillus terreus	890	blasticidin S	*deletion mutant DELTA129-130, 30&Acirc;&deg;C

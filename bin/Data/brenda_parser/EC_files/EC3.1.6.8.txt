@@ -1,3 +1,0 @@
-KCAT	Homo sapiens	16.8	4-nitrocatechol sulfate	*
-KCAT	Homo sapiens	0.817	4-Methylumbelliferyl sulfate	*
-KCAT	Homo sapiens	1.45	cerebroside sulfate	*

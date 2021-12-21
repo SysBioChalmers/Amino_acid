@@ -1,4 +1,0 @@
-KCAT	Proteus sp.	1.15	L-glutamine	*in 100 mM glycine-KCl-KOH buffer (pH 10.4)
-KCAT	Proteus sp.	2.11	L-methionine	*in 100 mM glycine-KCl-KOH buffer (pH 10.4)
-KCAT	Citrobacter sp.	2.84	L-isoleucine	*in 100 mM glycine-KCl-KOH buffer (pH 10.4)
-KCAT	Pseudomonas sp.	4.95	L-valine	*in 100 mM glycine-KCl-KOH buffer (pH 10.4)

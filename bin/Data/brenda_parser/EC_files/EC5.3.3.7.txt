@@ -1,2 +1,0 @@
-KCAT	Pseudomonas sp. WU-0701	4500	cis-aconitate	*at pH 6.0 and 37&Acirc;&deg;C
-KCAT	Pseudomonas sp. WU-0701	15000	trans-aconitate	*at pH 6.0 and 37&Acirc;&deg;C

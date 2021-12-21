@@ -1,1 +1,0 @@
-ecNumber*1.1.1.380#turnoverNumber*1.8#turnoverNumberMaximum*#substrate*L-gulonate#commentary*pH 7.9, 25&deg;C#organism*Halomonas elongata#ligandStructureId*1757#literature*729265#

@@ -1,5 +1,0 @@
-KCAT	Streptomyces davaonensis	0.001	S-adenosyl-L-methionine	*at pH 8.0 and 25&Acirc;&deg;C
-KCAT	Streptomyces davaonensis	0.24	S-adenosyl-L-methionine	*pH 8.0, 37&Acirc;&deg;C
-KCAT	Streptomyces davaonensis	0.001	8-amino-8-demethyl-D-riboflavin	*at pH 8.0 and 25&Acirc;&deg;C
-KCAT	Streptomyces davaonensis	0.37	8-amino-8-demethyl-D-riboflavin	*pH 8.0, 37&Acirc;&deg;C
-KCAT	Streptomyces davaonensis	0.37	8-amino-8-demethyl-D-riboflavin	*at pH 8.0 and 37&Acirc;&deg;C

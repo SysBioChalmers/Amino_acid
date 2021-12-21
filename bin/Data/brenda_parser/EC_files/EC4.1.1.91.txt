@@ -1,2 +1,0 @@
-KCAT	Cutaneotrichosporon moniliiforme	1.1	phenol	*pH 5.5, 30&Acirc;&deg;C
-KCAT	Cutaneotrichosporon moniliiforme	0.034	salicylate	*pH 5.5, 40&Acirc;&deg;C

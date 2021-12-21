@@ -1,1 +1,0 @@
-KCAT	Nostoc sp. PCC 7120 = FACHB-418	0.16	bicyclo[2.2.2]octane-2,6-dione	*

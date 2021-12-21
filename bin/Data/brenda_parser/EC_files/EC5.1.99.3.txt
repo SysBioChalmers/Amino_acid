@@ -1,5 +1,0 @@
-KCAT	Pseudomonas fluorescens	43	(R)-allantoin	*mutant E78D, pH 7.6, temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	57	(R)-allantoin	*wild-type, pH 7.6, temperature not specified in the publication
-KCAT	Pseudomonas fluorescens	129	(S)-allantoin	*wild-type, pH 7.6, temperature not specified in the publication
-KCAT	Klebsiella pneumoniae subsp. pneumoniae	183	(S)-allantoin	*in 10 mM NaCl and 10 mM HEPES, pH 7.5, at 25&deg;C
-KCAT	Klebsiella pneumoniae subsp. pneumoniae	238	(R)-allantoin	*in 10 mM NaCl and 10 mM HEPES, pH 7.5, at 25&deg;C

@@ -1,3 +1,0 @@
-KCAT	Thielavia terrestris	0.015	cellulose	*pH 5.0, 37&Acirc;&deg;C
-KCAT	Thermothelomyces heterothallicus	0.021	cellulose	*pH 5.0, 37&Acirc;&deg;C
-KCAT	Trichoderma reesei	0.021	cellulose	*pH 5.0, 37&Acirc;&deg;C

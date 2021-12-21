@@ -1,9 +1,0 @@
-KCAT	Oceanobacillus iheyensis	0.0013	galactarate	*mutant H45Q, in 50 mM Hepes, pH 8.0, 5 mM MgCl2
-KCAT	Oceanobacillus iheyensis	0.0061	galactarate	*mutant Y90F, in 50 mM Hepes, pH 8.0, 5 mM MgCl2
-KCAT	Agrobacterium tumefaciens	0.12	meso-galactarate	*at pH 7.9 and 22&deg;C
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.6	galactarate	*pH 8.0, 25&deg;C
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	3.6	galactarate	*pH 8.0, 25&deg;C
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.8	galactarate	*pH 8.0, 25&deg;C, His6-tagged recombinant enzyme
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	4.8	meso-galactarate	*pH 8, 25&deg;C
-KCAT	Oceanobacillus iheyensis	6.8	galactarate	*wild-type, in 50 mM Hepes, pH 8.0, 5 mM MgCl2
-KCAT	Escherichia coli	22	galactarate	*

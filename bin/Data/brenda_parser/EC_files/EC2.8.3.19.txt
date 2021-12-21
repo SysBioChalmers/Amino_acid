@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	11	acetyl-CoA	*at pH 6.7 and 25&deg;C
-KCAT	Escherichia coli	15	oxalate	*at pH 6.7 and 25&deg;C

@@ -1,8 +1,0 @@
-KCAT	Bacteroides thetaiotaomicron	4	heparin, 20-mer	*deletion mutant 191-213 protein
-KCAT	Pseudopedobacter saltans	8.9	heparin	*pH 6.0, 50&deg;C
-KCAT	Bacteroides thetaiotaomicron	14.5	heparin, 6-mer	*deletion mutant 191-213 protein
-KCAT	Pedobacter heparinus	21	heparin	*wild-type, pH 7.5, 40&deg;C
-KCAT	Pedobacter heparinus	27	heparin	*mutant I133T/P316T, pH 7.5, 40&deg;C
-KCAT	Bacteroides thetaiotaomicron	29.1	heparin, 20-mer	*wild-type protein
-KCAT	Bacteroides thetaiotaomicron	73.7	heparin, 8-mer	*wild-type protein
-KCAT	Bacteroides thetaiotaomicron	78.4	heparin, 6-mer	*wild-type protein

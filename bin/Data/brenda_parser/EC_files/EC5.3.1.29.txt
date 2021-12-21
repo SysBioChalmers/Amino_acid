@@ -1,1 +1,0 @@
-KCAT	Thermococcus kodakarensis	29.2	alpha-D-ribose 1,5-bisphosphate	*pH 8.3, 85&deg;C

@@ -1,2 +1,0 @@
-KCAT	Arabidopsis thaliana	0.00167	UDP-glucose	*
-KCAT	Arabidopsis sp.	0.1	UDP-glucose	*

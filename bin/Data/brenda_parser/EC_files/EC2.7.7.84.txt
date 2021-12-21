@@ -1,4 +1,0 @@
-KCAT	Sus scrofa	0.95	ATP	*OAS1 mutant K212A, with ATP as sole substrate, pH and temperature not specified in the publication
-KCAT	Sus scrofa	0.99	NAD+	*OAS1 mutant S62A, with ATP and NAD+ as substrates, pH and temperature not specified in the publication
-KCAT	Sus scrofa	3.6	NAD+	*OAS1 mutant S63A, with ATP and NAD+ as substrates, pH and temperature not specified in the publication; wild-type OAS1, with ATP and NAD+ as substrates, pH and temperature not specified in the publication
-KCAT	Sus scrofa	8.1	ATP	*wild-type OAS1, with ATP as sole substrate, pH and temperature not specified in the publication

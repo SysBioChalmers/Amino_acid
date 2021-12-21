@@ -1,1 +1,0 @@
-KCAT	Chloroflexus aurantiacus	1.7	(3R)-citramalyl-CoA	*pH 7.0, 55&Acirc;&deg;C

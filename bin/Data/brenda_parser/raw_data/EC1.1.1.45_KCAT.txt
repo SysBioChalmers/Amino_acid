@@ -1,1 +1,0 @@
-ecNumber*1.1.1.45#turnoverNumber*0.733#turnoverNumberMaximum*#substrate*DL-3-hydroxybutanoate#commentary*#organism*Drosophila melanogaster#ligandStructureId*44081#literature*286910#!ecNumber*1.1.1.45#turnoverNumber*7.4#turnoverNumberMaximum*#substrate*L-gulonate#commentary*#organism*Drosophila melanogaster#ligandStructureId*1757#literature*286910#

@@ -1,1 +1,0 @@
-KCAT	Escherichia coli	-999	more	*kinetic parameters for ATP-hydrolysis or GTP-hydrolysis

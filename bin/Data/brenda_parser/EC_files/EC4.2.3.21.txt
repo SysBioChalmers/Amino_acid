@@ -1,1 +1,0 @@
-KCAT	Hyoscyamus muticus	0.04	trans,trans-farnesyl diphosphate	*recombinant enzyme

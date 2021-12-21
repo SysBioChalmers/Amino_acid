@@ -1,2 +1,0 @@
-KCAT	Trypanosoma cruzi	0.161	L-galactono-1,4-lactone	*in 50 mM potassium phosphate buffer, pH 8.0, with 1 mM EDTA
-KCAT	Trypanosoma cruzi	0.285	D-arabinono-1,4-lactone	*in 50 mM potassium phosphate buffer, pH 8.0, with 1 mM EDTA

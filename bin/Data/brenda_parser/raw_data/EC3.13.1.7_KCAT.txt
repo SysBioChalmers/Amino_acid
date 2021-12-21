@@ -1,1 +1,0 @@
-ecNumber*3.13.1.7#turnoverNumber*58#turnoverNumberMaximum*#substrate*carbonyl sulfide#commentary*at pH 8.5 and 30&Acirc;&deg;C#organism*Thiobacillus thioparus#ligandStructureId*12966#literature*745153#

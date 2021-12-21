@@ -1,2 +1,0 @@
-KCAT	Acetobacterium woodii	1.58	L-5,10-methenyltetrahydrofolate	*
-KCAT	Acetobacterium woodii	1.63	L-5,10-methylenetetrahydrofolate	*

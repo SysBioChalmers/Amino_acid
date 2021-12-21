@@ -1,4 +1,0 @@
-KCAT	Staphylococcus aureus	1.6	O-phospho-L-serine	*mutant S185G, pH 8.0, 22&deg;C
-KCAT	Staphylococcus aureus	2	L-glutamate	*mutant S185G, pH 8.0, 22&deg;C
-KCAT	Staphylococcus aureus	2.3	O-phospho-L-serine	*wild-type, pH 8.0, 22&deg;C
-KCAT	Staphylococcus aureus	3.6	L-glutamate	*wild-type, pH 8.0, 22&deg;C

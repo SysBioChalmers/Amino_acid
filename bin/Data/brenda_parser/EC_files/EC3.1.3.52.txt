@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	0.5	4-nitrophenyl phosphate	*mutant N94K, presence of Mg2+, 37&deg;C, pH 7.5
-KCAT	Homo sapiens	1	4-nitrophenyl phosphate	*wild-type, presence of Mg2+, 37&deg;C, pH 7.5
-KCAT	Homo sapiens	22.9	4-nitrophenyl phosphate	*mutant N94K, presence of Mn2+, 30&deg;C, pH 7.5
-KCAT	Homo sapiens	40.9	4-nitrophenyl phosphate	*wild-type, presence of Mn2+, 30&deg;C, pH 7.5

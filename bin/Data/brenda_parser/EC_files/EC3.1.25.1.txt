@@ -1,4 +1,0 @@
-KCAT	Escherichia virus T4	0.00833	DNA 14mer containing a TT-dimer	*T127M
-KCAT	Escherichia virus T4	0.0183	DNA 14mer containing a TT-dimer	*WT-enzyme
-KCAT	Escherichia virus T4	0.0183	DNA 18mer containing a TT-dimer	*
-KCAT	Escherichia virus T4	0.02	DNA 14mer containing a TT-dimer	*

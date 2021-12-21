@@ -1,4 +1,0 @@
-KCAT	Streptomyces sp.	0.0107	oleuropein	*mutant C181A, pH not specified in the publication, temperature not specified in the publication
-KCAT	Streptomyces sp.	0.033	oleuropein	*wild-type, pH not specified in the publication, temperature not specified in the publication
-KCAT	Saccharolobus solfataricus	274	oleuropein	*pH 7.0, 60&deg;C, soluble enzyme
-KCAT	Saccharolobus solfataricus	350.8	oleuropein	*pH 7.0, 70&deg;C, soluble enzyme

@@ -1,6 +1,0 @@
-KCAT	Rattus norvegicus	0.0055	squalene	*
-KCAT	Rattus norvegicus	0.0055	squalene	*
-KCAT	Homo sapiens	0.0183	squalene	*
-KCAT	Rattus norvegicus	0.0683	squalene	*N-terminal trucated recombinant enzyme
-KCAT	Rattus norvegicus	0.076	squalene	*pH 7.4, 37&Acirc;&deg;C, recombinant His-tagged wild-type enzyme
-KCAT	Rattus norvegicus	0.0075	(3S)-squalene-2,3-epoxide	*pH 7.4, 37&Acirc;&deg;C, recombinant His-tagged wild-type enzyme

@@ -1,2 +1,0 @@
-KCAT	Cylindrospermopsis raciborskii	875	glycine	*per active site, pH 8.5, 30&deg;C
-KCAT	Cylindrospermopsis raciborskii	875	L-arginine	*per active site, pH 8.5, 30&deg;C

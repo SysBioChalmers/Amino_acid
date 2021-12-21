@@ -1,5 +1,0 @@
-KCAT	Actinoplanes utahensis	2.2	penicillin G	*pH 8.0, 45&Acirc;&deg;C
-KCAT	Actinoplanes utahensis	70.3	Penicillin V	*pH 8.0, 45&Acirc;&deg;C
-KCAT	Actinoplanes utahensis	1.9	penicillin F	*pH 8.0, 45&Acirc;&deg;C
-KCAT	Actinoplanes utahensis	33.3	penicillin K	*pH 8.0, 45&Acirc;&deg;C
-KCAT	Actinoplanes utahensis	4.2	penicillin dihydroF	*pH 8.0, 45&Acirc;&deg;C

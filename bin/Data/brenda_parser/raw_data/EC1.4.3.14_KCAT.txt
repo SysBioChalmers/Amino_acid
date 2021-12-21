@@ -1,1 +1,0 @@
-ecNumber*1.4.3.14#turnoverNumber*203#turnoverNumberMaximum*#substrate*L-lysine#commentary*at pH 7.5 and 70&Acirc;&deg;C#organism*Scomber japonicus#ligandStructureId*134#literature*742803#

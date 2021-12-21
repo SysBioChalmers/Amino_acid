@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	0.023	guanosine 5'-triphosphate,3'-diphosphate	*
-KCAT	Escherichia coli	1.1	Polyphosphate	*

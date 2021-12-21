@@ -1,9 +1,0 @@
-KCAT	Trypanosoma brucei	0.00083	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, mutant enzyme C136A, mutation in subunit ADAT2; 27&Acirc;&deg;C, pH 8.0, mutant enzyme V254L, mutation in subunit ADAT3
-KCAT	Trypanosoma brucei	0.0015	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, mutant enzyme R217A
-KCAT	Trypanosoma brucei	0.0017	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, mutant enzyme K216A
-KCAT	Trypanosoma brucei	0.0018	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, mutant enzyme V254T, mutation in subunit ADAT2
-KCAT	Trypanosoma brucei	0.002	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, mutant enzyme R218A
-KCAT	Trypanosoma brucei	0.0022	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, mutant enzyme R219A
-KCAT	Trypanosoma brucei	0.0023	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, mutant enzyme C-terDELTA5, mutation in subunit ADAT2
-KCAT	Trypanosoma brucei	0.0032	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, wild-type enzyme
-KCAT	Trypanosoma brucei	0.0032	adenine34 in tRNAVal	*27&Acirc;&deg;C, pH 8.0, wild-type enzyme

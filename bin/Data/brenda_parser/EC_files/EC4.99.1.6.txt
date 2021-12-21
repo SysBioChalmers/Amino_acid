@@ -1,1 +1,0 @@
-KCAT	Sclerotinia sclerotiorum	10	(E,Z)-indolyl-3-acetaldoxime	*in 25 mM Tris-HCl buffer pH 7.5, at 23&deg;C

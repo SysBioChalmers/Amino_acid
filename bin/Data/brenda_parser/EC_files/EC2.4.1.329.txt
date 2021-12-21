@@ -1,6 +1,0 @@
-KCAT	Thermoanaerobacterium thermosaccharolyticum	14.4	alpha-D-glucopyranose 1-phosphate	*pH 6.0, 55&deg;C; pH 6.0, 55&deg;C
-KCAT	Thermoanaerobacterium thermosaccharolyticum	16.9	beta-D-fructofuranose	*pH 6.0, 55&deg;C
-KCAT	Thermoanaerobacterium thermosaccharolyticum	24.2	beta-D-fructofuranose 6-phosphate	*pH 6.0, 55&deg;C; pH 6.0, 55&deg;C
-KCAT	Thermoanaerobacterium thermosaccharolyticum	59.3	phosphate	*pH 6.5, 55&deg;C; pH 6.5, 55&deg;C
-KCAT	Thermoanaerobacterium thermosaccharolyticum	66.2	sucrose	*pH 6.5, 55&deg;C
-KCAT	Thermoanaerobacterium thermosaccharolyticum	82.6	sucrose 6F-phosphate	*pH 6.5, 55&deg;C; pH 6.5, 55&deg;C

@@ -1,6 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.03	geranylgeranyl diphosphate	*pH 7.9, 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.06	geranyl diphosphate	*pH 7.9, 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.07	(2E,6E)-farnesyl diphosphate	*pH 7.9, 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.08	isopentenyl diphosphate	*pH 7.9, 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.16	neryl diphosphate	*pH 7.9, 37&deg;C
-KCAT	Mycobacterium tuberculosis	11.5	(2Z,6E)-farnesyl diphosphate	*pH 7.9, 37&deg;C

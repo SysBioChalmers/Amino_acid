@@ -1,1 +1,0 @@
-ecNumber*1.1.1.354#turnoverNumber*2996#turnoverNumberMaximum*#substrate*geraniol#commentary*pH 8.5, 22&deg;C#organism*Carpoglyphus lactis#ligandStructureId*987#literature*686700#

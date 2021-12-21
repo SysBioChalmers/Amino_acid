@@ -1,2 +1,0 @@
-KCAT	Moorella thermoacetica	14.7	a [methyl-Co(III) corrinoid Fe-S protein]	*pH 7.6, 25&deg;C
-KCAT	Moorella thermoacetica	14.7	tetrahydrosarcinapterin	*pH 7.6, 25&deg;C

@@ -1,7 +1,0 @@
-KCAT	Escherichia coli B	15.5	D-alanine	*
-KCAT	Escherichia coli B	5.33	D-serine	*
-KCAT	Escherichia coli B	8.33	D-proline	*
-KCAT	Escherichia coli B	16	D-methionine	*
-KCAT	Escherichia coli B	14.7	D-phenylalanine	*
-KCAT	Escherichia coli B	3.17	D-glutamine	*
-KCAT	Escherichia coli B	15.7	D-2-amino butyrate	*

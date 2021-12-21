@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	0.04	MLGTGRRR	*at pH 8.5 and 37&deg;C
-KCAT	Homo sapiens	0.09	MLGTERRR	*at pH 8.5 and 37&deg;C
-KCAT	Homo sapiens	0.11	MLALIRRR	*at pH 8.5 and 37&deg;C
-KCAT	Homo sapiens	0.12	MLDPERRR	*at pH 8.5 and 37&deg;C
-KCAT	Homo sapiens	0.12	MLGPERRR	*at pH 8.5 and 37&deg;C
-KCAT	Homo sapiens	0.18	MIGPERRR	*at pH 8.5 and 37&deg;C

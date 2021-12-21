@@ -1,2 +1,0 @@
-KCAT	Streptomyces griseus	0.2	glycerone phosphate	*pH 7.2, 30&Acirc;&deg;C
-KCAT	Streptomyces griseus	0.2	L-aspartate 4-semialdehyde	*pH 7.2, 30&Acirc;&deg;C

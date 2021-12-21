@@ -1,3 +1,0 @@
-KCAT	Nostoc punctiforme	0.0003	stearoyl-[acyl-carrier protein]	*pH 7.6, 37&deg;C
-KCAT	Nostoc punctiforme	0.0028	stearoyl-[acyl-carrier protein]	*presence of potassium ions, pH 7.6, 37&deg;C
-KCAT	Cryptosporidium parvum	0.077	hexacosanoyl-CoA	*pH 7.2, temperature not specified in the publication

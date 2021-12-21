@@ -1,4 +1,0 @@
-KCAT	Mycobacterium tuberculosis	1.46	trans-2-dodecenoyl-CoA	*pH 7.5, 25&deg;C, mutant enzyme T266D
-KCAT	Mycobacterium tuberculosis	2.49	trans-2-dodecenoyl-CoA	*pH 7.5, 25&deg;C, mutant enzyme T266E
-KCAT	Mycobacterium tuberculosis	5.34	trans-2-dodecenoyl-CoA	*pH 7.5, 25&deg;C, wild-type enzyme
-KCAT	Mycobacterium tuberculosis	7.12	trans-2-dodecenoyl-CoA	*pH 7.5, 25&deg;C, mutant enzyme T266A

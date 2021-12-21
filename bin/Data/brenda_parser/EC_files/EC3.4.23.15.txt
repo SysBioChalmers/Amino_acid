@@ -1,8 +1,0 @@
-KCAT	Rattus norvegicus	0.00717	angiotensinogen	*isoenzyme R-III
-KCAT	Rattus norvegicus	0.00817	angiotensinogen	*isoenzyme R-II
-KCAT	Rattus norvegicus	0.00867	angiotensinogen	*isoenzyme R-I
-KCAT	Homo sapiens	0.2	angiotensinogen	*at pH 7.4 and 37&deg;C
-KCAT	Homo sapiens	0.46	recombinant ovine angiotensinogen from CHO cells	*at pH 7.2 and 37&deg;C
-KCAT	Homo sapiens	0.59	recombinant ovine angiotensinogen from Escherichia coli	*at pH 7.2 and 37&deg;C
-KCAT	Homo sapiens	1.35	angiotensinogen	*pH 6.0, 37&deg;C, maleate buffer
-KCAT	Bos taurus	1.5	angiotensinogen	*

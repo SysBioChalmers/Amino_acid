@@ -1,1 +1,0 @@
-KCAT	Thermus thermophilus	1.27	chorismate	*pH and temperature not specified in the publication

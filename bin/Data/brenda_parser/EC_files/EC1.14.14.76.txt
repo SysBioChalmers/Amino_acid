@@ -1,1 +1,0 @@
-KCAT	Oryza sativa	0.01	ent-isokaurene	*pH and temperature not specified in the publication

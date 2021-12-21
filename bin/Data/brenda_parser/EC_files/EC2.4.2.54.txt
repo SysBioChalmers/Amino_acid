@@ -1,1 +1,0 @@
-KCAT	Methanocaldococcus jannaschii	0.23	5-phospho-alpha-D-ribose 1-diphosphate	*pH 4.8, 70&deg;C

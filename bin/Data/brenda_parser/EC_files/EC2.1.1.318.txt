@@ -1,2 +1,0 @@
-KCAT	Saccharomyces cerevisiae	6.4	S-adenosyl-L-methionine	*37&Acirc;&deg;C, pH not specified in the publication, native enzyme
-KCAT	Saccharomyces cerevisiae	7	S-adenosyl-L-methionine	*37&Acirc;&deg;C, pH not specified in the publication, cloned enzyme

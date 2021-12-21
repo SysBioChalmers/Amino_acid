@@ -1,4 +1,0 @@
-KCAT	Flavobacterium sp.	35.8	NADPH	*
-KCAT	Flavobacterium sp.	36	NADH	*
-KCAT	Flavobacterium sp.	15.6	3,4-Dihydroxyphenylacetate	*
-KCAT	Flavobacterium sp.	22.4	3-hydroxyphenylacetate	*

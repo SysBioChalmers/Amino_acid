@@ -1,9 +1,0 @@
-KCAT	Cynara cardunculus	65	L-Lys-L-Pro-L-Ala-L-Glu-L-Phe-L-Phe(NO2)-L-Ala-L-Leu	*37&Acirc;&deg;C, pH 7.4
-KCAT	Cynara cardunculus var. scolymus	144	L-Pro-L-Thr-L-Glu-L-Phe(p-NO2)-L-Phe-L-Arg-L-Leu	*pH 5.0
-KCAT	Cynara cardunculus	19.2	((7-methoxycoumarin-4-yl)acetyl)-Lys-Lys-Pro-Ala-Glu-Phe-Phe-Ala-Leu-Lys-(2,4-dinitrophenyl)	*recombinant proenzyme with plant-specific insert domain, at pH 4.0 and 37&Acirc;&deg;C
-KCAT	Cynara cardunculus	24	((7-methoxycoumarin-4-yl)acetyl)-Lys-Lys-Pro-Ala-Glu-Phe-Phe-Ala-Leu-Lys-(2,4-dinitrophenyl)	*native mature enzyme, at pH 4.0 and 37&Acirc;&deg;C
-KCAT	Cynara cardunculus	36.5	((7-methoxycoumarin-4-yl)acetyl)-Lys-Lys-Pro-Ala-Glu-Phe-Phe-Ala-Leu-Lys-(2,4-dinitrophenyl)	*recombinant proenzyme without plant-specific insert domain, at pH 4.0 and 37&Acirc;&deg;C
-KCAT	Cynara cardunculus	13.7	Leu-Ser-Phe(NO2)-Ahx-Ala-Leu-OMe	*pH 4.7, 37&Acirc;&deg;C
-KCAT	Cynara cardunculus	86.2	Leu-Ser-Phe(NO2)-Ahx-Ala-Leu-OMe	*pH 4.7, 37&Acirc;&deg;C
-KCAT	Cynara cardunculus	55.63	Lys-Pro-Ala-Glu-Phe-Phe-Phe(NO2)-Ala-Leu	*pH 4.7, 37&Acirc;&deg;C
-KCAT	Cynara cardunculus	89.4	Lys-Pro-Ala-Glu-Phe-Phe-Phe(NO2)-Ala-Leu	*pH 4.7, 37&Acirc;&deg;C

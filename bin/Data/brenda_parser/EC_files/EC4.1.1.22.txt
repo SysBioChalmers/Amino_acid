@@ -1,5 +1,0 @@
-KCAT	Homo sapiens	1.73	L-histidine	*wild-type, pH 6.8, 37&Acirc;&deg;C
-KCAT	Homo sapiens	1.73	L-histidine	*pH and temperature not specified in the publication
-KCAT	Homo sapiens	1.87	L-histidine	*mutant C180/C418S, pH 6.8, 37&Acirc;&deg;C
-KCAT	Homo sapiens	2.01	L-histidine	*mutant S354G, pH 6.8, 37&Acirc;&deg;C
-KCAT	Homo sapiens	1.29	3,4-dihydroxyphenylalanine	*mutant S354G, pH 6.8, 37&Acirc;&deg;C

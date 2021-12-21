@@ -1,2 +1,0 @@
-KCAT	Shigella dysenteriae	0.74	dTDP-4-dehydro-6-deoxy-D-glucose	*pH 7.4, 37&deg;C
-KCAT	Escherichia coli	5.66	dTDP-4-dehydro-6-deoxy-D-glucose	*pH 7.4, 37&deg;C

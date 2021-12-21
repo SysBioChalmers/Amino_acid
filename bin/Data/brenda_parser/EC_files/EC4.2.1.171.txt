@@ -1,8 +1,0 @@
-KCAT	Micromonospora viridifaciens	2.08	cis-3-hydroxy-L-proline	*pH 8.0, 30&deg;C
-KCAT	Azospirillum brasilense	2.4	cis-3-hydroxy-L-proline	*pH 8.0, 30&deg;C
-KCAT	Micromonospora viridifaciens	2.4	cis-3-hydroxy-L-proline	*pH 8.0, 30&deg;C
-KCAT	Agrobacterium tumefaciens	20	cis-3-hydroxy-L-proline	*pH 8.0, 30&deg;C
-KCAT	Micromonospora viridifaciens	20	cis-3-hydroxy-L-proline	*pH 8.0, 30&deg;C
-KCAT	Labrenzia aggregata	23	cis-3-hydroxy-L-proline	*pH 8.0, temperature not specified in the publication
-KCAT	Micromonospora viridifaciens	47	cis-3-hydroxy-L-proline	*pH 8.0, 30&deg;C
-KCAT	Pseudomonas aeruginosa	47	cis-3-hydroxy-L-proline	*pH 8.0, 30&deg;C

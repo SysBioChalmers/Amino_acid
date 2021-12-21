@@ -1,5 +1,0 @@
-KCAT	Streptococcus pneumoniae	0.021	L-alanyl-tRNA	*pH 7.6, 37&Acirc;&deg;C
-KCAT	Streptococcus pneumoniae	0.0031	UDP-MurNAc-L-alanyl-gamma-D-glutamyl-L-lysyl(N6-L-alanyl)-D-alanyl-D-alanine	*pH 7.6, 37&Acirc;&deg;C
-KCAT	Streptococcus pneumoniae	0.033	UDP-MurNAc-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	*pH 7.6, 37&Acirc;&deg;C
-KCAT	Streptococcus pneumoniae	0.017	ditrans,ocatacis-undecaprenyl diphosphoryl MurNAc-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	*pH 7.6, 37&Acirc;&deg;C
-KCAT	Streptococcus pneumoniae	0.0157	ditrans,ocatacis-undecaprenyl diphosphoryl MurNAc-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanyl-L-alanyl-gamma-D-glutamyl-L-lysine	*pH 7.6, 37&Acirc;&deg;C

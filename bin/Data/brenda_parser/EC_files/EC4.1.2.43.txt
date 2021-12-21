@@ -1,4 +1,0 @@
-KCAT	Methylomicrobium alcaliphilum	45.82	formaldehyde	*at pH 8.5 and 30&Acirc;&deg;C
-KCAT	Pyrococcus horikoshii	62.2	formaldehyde	*recombinant HPS, at 80&Acirc;&deg;C
-KCAT	Pyrococcus horikoshii	159	formaldehyde	*recombinant HPS, at 60&Acirc;&deg;C
-KCAT	Methylomicrobium alcaliphilum	58.8	D-ribulose 5-phosphate	*at pH 8.5 and 30&Acirc;&deg;C

@@ -1,2 +1,0 @@
-KCAT	Saccharomyces cerevisiae	3.6	N-(4-oxoglutaryl)-L-cysteinylglycine	*pH 8.5, 30&deg;C
-KCAT	Arabidopsis thaliana	4.2	N-(4-oxoglutaryl)-L-cysteinylglycine	*pH 8.5, 22&deg;C

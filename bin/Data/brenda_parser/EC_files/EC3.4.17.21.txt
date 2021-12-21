@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	1	N-acetyl-L-aspartyl-L-glutamate	*
-KCAT	Mus musculus	1.44	N-acetyl-L-aspartyl-L-glutamate	*pH 7.4, 37&deg;C
-KCAT	Homo sapiens	1.45	N-acetyl-L-aspartyl-L-glutamate	*pH 7.4, 37&deg;C
-KCAT	Mus musculus	3.63	pteroyl-di-L-glutamate	*pH 7.4, 37&deg;C
-KCAT	Homo sapiens	4	N-acetyl-Asp-Glu	*pH 7.4, 37&deg;C
-KCAT	Homo sapiens	5.09	pteroyl-di-L-glutamate	*pH 7.4, 37&deg;C

@@ -1,6 +1,0 @@
-KCAT	Lactobacillus leichmannii	0.00367	CTP	*
-KCAT	Lactobacillus leichmannii	0.0145	ATP	*
-KCAT	Lactobacillus leichmannii	0.0158	UTP	*
-KCAT	Lactobacillus leichmannii	0.0183	CTP	*
-KCAT	Lactobacillus leichmannii	0.0233	CTP	*
-KCAT	Lactobacillus leichmannii	0.03	CTP	*

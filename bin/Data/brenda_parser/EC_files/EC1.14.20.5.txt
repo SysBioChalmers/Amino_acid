@@ -1,2 +1,0 @@
-KCAT	Plagiochasma appendiculatum	0.002	naringenin	*pH 7.0, 35&Acirc;&deg;C, mutant enzyme Y240P
-KCAT	Plagiochasma appendiculatum	0.027	naringenin	*pH 7.0, 35&Acirc;&deg;C, wild-type enzyme

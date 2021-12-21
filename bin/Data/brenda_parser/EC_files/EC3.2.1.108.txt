@@ -1,6 +1,0 @@
-KCAT	Ovis aries	33.8	lactose	*pH 6, 37&Acirc;&deg;C
-KCAT	Ovis aries	0.5	phlorizin	*pH 6, 37&Acirc;&deg;C
-KCAT	Ovis aries	2.1	daidzein-7-glucoside	*pH 6, 37&Acirc;&deg;C
-KCAT	Ovis aries	7.5	quercetin-4'-glucoside	*pH 6, 37&Acirc;&deg;C
-KCAT	Ovis aries	6.3	quercetin-3-glucoside	*pH 6, 37&Acirc;&deg;C
-KCAT	Ovis aries	6.5	genistein-7-glucoside	*pH 6, 37&Acirc;&deg;C

@@ -1,5 +1,0 @@
-KCAT	Fusarium graminearum	0.16	(2E,6E)-farnesyl diphosphate	*at pH 8.0 and 30&Acirc;&deg;C
-KCAT	Fusarium sporotrichioides	0.005	farnesyl diphosphate	*mutant N225D
-KCAT	Fusarium sporotrichioides	0.015	farnesyl diphosphate	*mutant S229T
-KCAT	Fusarium sporotrichioides	0.111	farnesyl diphosphate	*mutant Y295F
-KCAT	Fusarium sporotrichioides	0.138	farnesyl diphosphate	*wild-type

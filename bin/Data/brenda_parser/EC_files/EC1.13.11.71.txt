@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	0.0053	beta-carotene	*pH 8.0, 37&deg;C
-KCAT	Saccharomyces cerevisiae	0.0167	lutein	*pH 8.0, 45&deg;C
-KCAT	Saccharomyces cerevisiae	0.0392	alpha-carotene	*pH 8.0, 45&deg;C
-KCAT	Saccharomyces cerevisiae	0.0475	all-trans-beta-carotene	*pH 8.0, 45&deg;C

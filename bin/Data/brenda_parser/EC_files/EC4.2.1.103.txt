@@ -1,3 +1,0 @@
-KCAT	Pseudomonas fluorescens	0.092	2-naphthyl isocyanide	*pH 7.4, 25&deg;C, recombinant mutant T102V
-KCAT	Pseudomonas fluorescens	0.216	2-naphthyl isocyanide	*pH 7.4, 25&deg;C, recombinant wild-type ICH
-KCAT	Pseudomonas fluorescens	0.234	2-naphthyl isocyanide	*pH 7.4, 25&deg;C, recombinant mutant T102S

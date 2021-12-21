@@ -1,2 +1,0 @@
-KCAT	Streptomyces lavendulae subsp. lavendulae	29	O-ureido-D-serine	*pH 7.9, 30&Acirc;&deg;C
-KCAT	Streptomyces lavendulae subsp. lavendulae	158	O-ureido-L-serine	*pH 7.9, 30&Acirc;&deg;C

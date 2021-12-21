@@ -1,2 +1,0 @@
-KCAT	Pseudomonas putida	83.3	D-trans-2,3-epoxysuccinate	*
-KCAT	Pseudomonas putida	317	L-trans-2,3-epoxysuccinate	*

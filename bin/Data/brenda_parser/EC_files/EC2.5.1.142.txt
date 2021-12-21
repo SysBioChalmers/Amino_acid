@@ -1,2 +1,0 @@
-KCAT	Solanum lycopersicum	0.0026	isopentenyl diphosphate	*at pH 7.5 and 30&deg;C
-KCAT	Solanum lycopersicum	0.0026	Z,Z-farnesyl diphosphate	*at pH 7.5 and 30&deg;C

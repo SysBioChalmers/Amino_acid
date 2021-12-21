@@ -1,7 +1,0 @@
-KCAT	Thermotoga maritima	0.12	H2O2	*pH and temperature not specified in the publication
-KCAT	Thermotoga maritima	0.27	H2O2	*pH and temperature not specified in the publication
-KCAT	Populus x canadensis	2.6	H2O2	*
-KCAT	Populus x canadensis	1.5	tert-butyl hydroperoxide	*
-KCAT	Populus x canadensis	0.9	cumene hydroperoxide	*
-KCAT	Thermotoga maritima	52.8	benzoquinone	*pH and temperature not specified in the publication
-KCAT	Populus x canadensis	2.1	phosphatidylcholine hydroperoxide	*

@@ -1,6 +1,0 @@
-KCAT	Streptomyces coelicolor	0.00024	(2E,6E)-farnesyl diphosphate	*F96A mutant protein
-KCAT	Streptomyces avermitilis	0.00026	(2E,6E)-farnesyl diphosphate	*pH 7.0, 30&deg;C
-KCAT	Streptomyces coelicolor	0.0003	(2E,6E)-farnesyl diphosphate	*F198A mutant protein
-KCAT	Streptomyces coelicolor	0.00034	(2E,6E)-farnesyl diphosphate	*F203F mutant protein
-KCAT	Streptomyces coelicolor	0.045	(2E,6E)-farnesyl diphosphate	*wild-type protein
-KCAT	Streptomyces coelicolor	0.049	(2E,6E)-farnesyl diphosphate	*pH 6.5, 30&deg;C

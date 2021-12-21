@@ -1,2 +1,0 @@
-KCAT	Acetoanaerobium sticklandii	1	D-Lysine	*with pyridoxal 5'-phosphate N-oxide as cofactor, pH 8.5, 37&Acirc;&deg;C
-KCAT	Acetoanaerobium sticklandii	14.2	D-Lysine	*with pyridoxal 5'-phosphate as cofactor, pH 8.5, 37&Acirc;&deg;C

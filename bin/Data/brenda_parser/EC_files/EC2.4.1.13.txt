@@ -1,3 +1,0 @@
-KCAT	Nicotiana tabacum	4.97	sucrose	*SuSy1, 25&deg;C
-KCAT	Thermosynechococcus elongatus	6	sucrose	*pH 7.0, 37&deg;C, purified recombinant enzyme, with ADP in sucrose cleavage
-KCAT	Nicotiana tabacum	39.5	sucrose	*SuSy2, 25&deg;C

@@ -1,6 +1,0 @@
-KCAT	Fragaria x ananassa	3.1	dihydroquercetin	*pH 6.3, temperature not specified in the publication
-KCAT	Fragaria x ananassa	11.2	dihydromyricetin	*pH 6.3, temperature not specified in the publication
-KCAT	Fragaria x ananassa	11.4	dihydrokaempferol	*pH 6.3, temperature not specified in the publication
-KCAT	Komagataella phaffii	44.5	(4S)-5,5,5-trifluoro-4-hydroxy-4-phenylpentan-2-one	*pH 7.0, 25&deg;C
-KCAT	Komagataella phaffii	54.4	benzaldehyde	*pH 7.0, 25&deg;C
-KCAT	Komagataella phaffii	58.4	NADPH	*pH 7.0, 25&deg;C

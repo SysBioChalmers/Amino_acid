@@ -1,8 +1,0 @@
-KCAT	Pseudomonas putida	1.5	creatinine	*mutant E122Q, presence of Zn2+, pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	11	creatinine	*mutant E122Q, presence of Mn2+, pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	18	creatinine	*mutant W154F, presence of Mn2+, pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	86	creatinine	*mutant Y121A, presence of Mn2+, pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	222	creatinine	*wild-type, presence of EDTA, semi-apo-enzyme, pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	252	creatinine	*wild-type, presence of Zn2+, pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	688	creatinine	*mutant W174F, presence of Mn2+, pH not specified in the publication, temperature not specified in the publication
-KCAT	Pseudomonas putida	1340	creatinine	*wild-type, presence of Mn2+, pH not specified in the publication, temperature not specified in the publication

@@ -1,4 +1,0 @@
-KCAT	Cupriavidus necator	26	(R)-3-hydroxybutyryl-CoA	*25&Acirc;&deg;C, pH 7.0, mutant enzyme G4D, based on one catalytic site in a dimeric enzyme
-KCAT	Cupriavidus necator	44	(R)-3-hydroxybutyryl-CoA	*25&Acirc;&deg;C, pH 7.0, wild-type enzyme, based on one catalytic site in a dimeric enzyme
-KCAT	Cupriavidus necator	10	3-hydroxypropionyl-CoA	*
-KCAT	Cupriavidus necator	196	(R)-3-hydroxybutanoyl-CoA	*pH 7.2, 25&Acirc;&deg;C, presence of 0.05% Hecameg

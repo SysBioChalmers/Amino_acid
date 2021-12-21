@@ -1,9 +1,0 @@
-KCAT	Pseudomonas syringae	0.009	2-oxoglutarate	*mutant H268Q, pH 8.0, 25&deg;C
-KCAT	Pseudomonas syringae	0.01	2-oxoglutarate	*mutant H284Q, pH 8.0, 25&deg;C
-KCAT	Pseudomonas syringae	0.012	2-oxoglutarate	*mutant H116Q, pH 8.0, 25&deg;C
-KCAT	Pseudomonas syringae	0.015	2-oxoglutarate	*mutant H168Q, pH 8.0, 25&deg;C
-KCAT	Pseudomonas syringae	0.017	2-oxoglutarate	*mutant H309Q, pH 8.0, 25&deg;C
-KCAT	Pseudomonas syringae	0.047	2-oxoglutarate	*mutant H169Q, pH 8.0, 25&deg;C
-KCAT	Pseudomonas syringae	0.2	2-oxoglutarate	*mutant H305Q, pH 8.0, 25&deg;C
-KCAT	Pseudomonas syringae	0.3	2-oxoglutarate	*mutant H335Q, pH 8.0, 25&deg;C
-KCAT	Pseudomonas syringae	0.5	2-oxoglutarate	*wild-type, pH 8.0, 25&deg;C

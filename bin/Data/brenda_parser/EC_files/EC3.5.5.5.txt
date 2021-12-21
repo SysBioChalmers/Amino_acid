@@ -1,6 +1,0 @@
-KCAT	Pseudomonas putida	1.1	phenyl acetonitrile	*35&deg;C, pH 7.5
-KCAT	Bradyrhizobium japonicum	1.85	phenylacetonitrile	*
-KCAT	Pseudomonas putida	11.8	mandelonitrile	*35&deg;C, pH 7.5
-KCAT	Pseudomonas putida	13.4	indole 3-acetonitrile	*35&deg;C, pH 7.5
-KCAT	Pseudomonas putida	18.85	phenyl acetonitrile	*35&deg;C, pH 7.5
-KCAT	Alcaligenes sp.	26	mandelonitrile	*at pH 6.5 and 50&deg;C

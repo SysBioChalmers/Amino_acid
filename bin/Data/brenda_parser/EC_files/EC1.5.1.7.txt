@@ -1,1 +1,0 @@
-KCAT	Saccharomyces cerevisiae	18.8	NADH	*

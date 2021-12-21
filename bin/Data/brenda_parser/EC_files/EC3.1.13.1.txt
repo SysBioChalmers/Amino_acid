@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	0.41	Poly(A)	*35-nt poly(A), wild-type, at 37&deg;C, in 20 mM Tris-HCl buffer, pH 8, 100 mM KCl, 1 mM MgCl2, and 1 mM dithiothreitol
-KCAT	Escherichia coli	80800	Poly(A)	*35-nt poly(A), mutant E542A, at 37&deg;C, in 20 mM Tris-HCl buffer, pH 8, 100 mM KCl, 1 mM MgCl2, and 1 mM dithiothreitol

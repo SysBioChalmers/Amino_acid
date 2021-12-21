@@ -1,8 +1,0 @@
-KCAT	Pasteurella multocida	2	4-methylumbelliferyl 4-O-beta-D-galactosyl-beta-D-glucoside	*mutant enzyme E271F, in Tris-HCl buffer (100 mM, pH 8.5), at 37&deg;C
-KCAT	Pasteurella multocida	17	4-methylumbelliferyl 4-O-beta-D-galactosyl-beta-D-glucoside	*mutant enzyme E271F/R313Y, in Tris-HCl buffer (100 mM, pH 8.5), at 37&deg;C
-KCAT	Pasteurella multocida	19	4-methylumbelliferyl 4-O-beta-D-galactosyl-beta-D-glucoside	*mutant enzyme R313Y, in Tris-HCl buffer (100 mM, pH 8.5), at 37&deg;C
-KCAT	Pasteurella multocida	19	CMP-N-acetylneuraminate	*mutant enzyme R313Y, in Tris-HCl buffer (100 mM, pH 8.5), at 37&deg;C
-KCAT	Pasteurella multocida	23	CMP-N-acetylneuraminate	*mutant enzyme E271F/R313Y, in Tris-HCl buffer (100 mM, pH 8.5), at 37&deg;C
-KCAT	Pasteurella multocida	26	CMP-N-acetylneuraminate	*mutant enzyme E271F, in Tris-HCl buffer (100 mM, pH 8.5), at 37&deg;C
-KCAT	Pasteurella multocida	32	CMP-N-acetylneuraminate	*wild type enzyme, in Tris-HCl buffer (100 mM, pH 8.5), at 37&deg;C
-KCAT	Pasteurella multocida	47	4-methylumbelliferyl 4-O-beta-D-galactosyl-beta-D-glucoside	*wild type enzyme, in Tris-HCl buffer (100 mM, pH 8.5), at 37&deg;C

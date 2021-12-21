@@ -1,3 +1,0 @@
-KCAT	Archaeoglobus fulgidus	-999	more	*catalytic parameters of reaction with flap and double-flap substrates with a shortened 5'-single-stranded region; turnover numbers values given for the DNA structures that are found to be suitable substrates
-KCAT	Escherichia virus T5	-999	more	*turnover numbers values given for all DNA structures used in the study
-KCAT	Pyrococcus horikoshii	-999	more	*comparison of the Km, kcat, and kcat/Km values between WT and the mutants

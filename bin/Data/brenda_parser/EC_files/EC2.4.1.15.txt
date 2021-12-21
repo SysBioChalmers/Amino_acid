@@ -1,5 +1,0 @@
-KCAT	Escherichia coli	3.6	UDPglucose	*bifunctional fusion enzyme of trehalose-6-phosphate synthetase and trehalose-6-phosphate phosphatase
-KCAT	Escherichia coli	7.3	UDPglucose	*
-KCAT	Escherichia coli	3.2	glucose 6-phosphate	*bifunctional fusion enzyme of trehalose-6-phosphate synthetase and trehalose-6-phosphate phosphatase
-KCAT	Escherichia coli	6.7	glucose 6-phosphate	*
-KCAT	Escherichia coli	-999	more	*bifunctional fusion enzyme of trehalose-6-phosphate synthetase and trehalose-6-phosphate phosphatase

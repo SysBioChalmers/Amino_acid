@@ -1,8 +1,0 @@
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.008	cobyrinic acid c-monoamide	*mutant enzyme Y46A
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.04	cobyrinic acid c-monoamide	*mutant enzyme D97N
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.057	cobyrinic acid c-monoamide	*mutant enzyme L47A
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.13	ATP	*pH 7.7, wild-type enzyme
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.16	cobyrinic acid	*pH 7.7, wild-type enzyme
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.16	glutamine	*pH 7.7, wild-type enzyme
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.18	NH4+	*pH 7.7, wild-type enzyme
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.2	cobyrinic acid c-monoamide	*wild-type enzyme

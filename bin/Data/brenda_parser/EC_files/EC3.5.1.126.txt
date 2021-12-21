@@ -1,1 +1,0 @@
-KCAT	Klebsiella pneumoniae subsp. pneumoniae	5.5	oxamate	*pH 8.5, 22&deg;C

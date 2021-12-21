@@ -1,5 +1,0 @@
-KCAT	Rauvolfia serpentina	0.08	Vanillin	*pH 7.5, 50&Acirc;&deg;C, recombinant mutant E368A
-KCAT	Rauvolfia serpentina	0.12	Vanillin	*pH 7.5, 50&Acirc;&deg;C, recombinant mutant E368D
-KCAT	Rauvolfia serpentina	1.3	Vanillin	*pH 7.5, 50&Acirc;&deg;C, recombinant mutant A204V
-KCAT	Rauvolfia serpentina	1.84	Vanillin	*pH 7.5, 50&Acirc;&deg;C, recombinant mutant L86I
-KCAT	Rauvolfia serpentina	2.59	Vanillin	*pH 7.5, 50&Acirc;&deg;C, recombinant wild-type enzyme

@@ -1,3 +1,0 @@
-KCAT	Bothrops jararaca	0.0105	Abz-LVEALYQ-EDDnp	*catalytic domain of jararhagin
-KCAT	Bothrops jararaca	0.093	Abz-LVEALYQ-EDDnp	*native jararhagin
-KCAT	Bothrops jararaca	0.14	Abz-LVEALYQ-EDDnp	*deglycosylated jararhagin

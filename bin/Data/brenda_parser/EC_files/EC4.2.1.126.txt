@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	0.0005	N-acetylmuramate 6-phosphate	*mutant enzyme E83A, at 30&Acirc;&deg;C in 60 mM Trien-HCl buffer (pH 8.0)
-KCAT	Escherichia coli	0.0028	N-acetylmuramate 6-phosphate	*mutant enzyme E114Q, at 30&Acirc;&deg;C in 60 mM Trien-HCl buffer (pH 8.0)
-KCAT	Escherichia coli	0.79	N-acetylmuramate 6-phosphate	*mutant enzyme D115N, at 30&Acirc;&deg;C in 60 mM Trien-HCl buffer (pH 8.0)
-KCAT	Escherichia coli	5.7	N-acetylmuramate 6-phosphate	*wild type enzyme, at 30&Acirc;&deg;C in 60 mM Trien-HCl buffer (pH 8.0)

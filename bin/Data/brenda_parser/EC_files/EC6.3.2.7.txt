@@ -1,6 +1,0 @@
-KCAT	Streptococcus pyogenes	9	ATP	*23&Acirc;&deg;C
-KCAT	Staphylococcus aureus	0.001	L-lysine	*pH 8.6, 37&Acirc;&deg;C, recombinant mutant D406A
-KCAT	Staphylococcus aureus	0.283	L-lysine	*pH 8.6, 37&Acirc;&deg;C, recombinant mutant P408A
-KCAT	Staphylococcus aureus	4.833	L-lysine	*pH 8.6, 37&Acirc;&deg;C, recombinant wild-type enzyme
-KCAT	Streptococcus pyogenes	9	L-Lys	*23&Acirc;&deg;C
-KCAT	Streptococcus pyogenes	9	UDP-N-acetylmuramoyl-L-Ala-D-Glu	*23&Acirc;&deg;C

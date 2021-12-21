@@ -1,2 +1,0 @@
-KCAT	Methanococcus maripaludis	0.9	UDP-N-acetyl-alpha-D-glucosamine	*pH 8.5, 37&deg;C
-KCAT	Methanococcus maripaludis	0.99	NAD+	*pH 8.5, 37&deg;C

@@ -1,2 +1,0 @@
-KCAT	Archaeoglobus fulgidus	-999	ATP	*turnover numbers of mutant replication factor C complexes in the presence of DNA and Proliferating-Cell-Nuclear-Antigen (PCNA)
-KCAT	Archaeoglobus fulgidus	1.7	ATP	*wild-type enzyme, in the presence of DNA and Proliferating-Cell-Nuclear-Antigen (PCNA), pH and temperature not specified in the publication

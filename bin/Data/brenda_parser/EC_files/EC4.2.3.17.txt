@@ -1,7 +1,0 @@
-KCAT	Taxus brevifolia	0.00004	geranylgeranyl diphosphate	*M1 preprotein
-KCAT	Taxus brevifolia	0.0000417	geranylgeranyl diphosphate	*thioredoxin fusion
-KCAT	Taxus brevifolia	0.000133	geranylgeranyl diphosphate	*M93
-KCAT	Taxus brevifolia	0.00017	geranylgeranyl diphosphate	*M79
-KCAT	Taxus brevifolia	0.000177	geranylgeranyl diphosphate	*native enzyme
-KCAT	Taxus brevifolia	0.0106	geranylgeranyl diphosphate	*pH and temperature not specified in the publication
-KCAT	Taxus brevifolia	0.16	geranylgeranyl diphosphate	*full-length enzyme, at pH 8.0 and 30&deg;C

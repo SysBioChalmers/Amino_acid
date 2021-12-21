@@ -1,3 +1,0 @@
-KCAT	Oryza sativa	0.013	ent-sandaracopimaradiene	*pH and temperature not specified in the publication
-KCAT	Oryza sativa	0.017	ent-cassadiene	*pH and temperature not specified in the publication
-KCAT	Oryza sativa	0.022	ent-kaurene	*pH and temperature not specified in the publication

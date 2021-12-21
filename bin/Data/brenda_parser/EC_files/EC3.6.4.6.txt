@@ -1,1 +1,0 @@
-KCAT	Saccharomyces cerevisiae	0.85	ATP	*higher order oligomer of the enzyme, pH and temperature not specified in the publication

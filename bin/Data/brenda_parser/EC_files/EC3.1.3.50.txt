@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	21	D-sorbitol 6-phosphate	*pH 7.0, 30&deg;C
-KCAT	Escherichia coli	63	D-sorbitol 6-phosphate	*pH 7.0, 30&deg;C

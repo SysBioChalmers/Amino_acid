@@ -1,1 +1,0 @@
-KCAT	Agrobacterium tumefaciens	16	D-galactaro-1,5-lactone	*mutant enzyme N240D, pH and temperature not specified in the publication

@@ -1,4 +1,0 @@
-KCAT	Acidianus sp.	48	carbon disulfide	*pH 7.5, 50&Acirc;&deg;C, catenane form enzyme
-KCAT	Acidianus sp.	72	carbon disulfide	*pH 7.5, 50&Acirc;&deg;C, ring form enzyme
-KCAT	Acidianus sp.	952	carbon disulfide	*pH and temperature not specified in the publication
-KCAT	Acidianus sp.	1800	carbonyl sulfide	*pH and temperature not specified in the publication

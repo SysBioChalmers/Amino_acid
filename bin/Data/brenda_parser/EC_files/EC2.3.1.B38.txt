@@ -1,1 +1,0 @@
-KCAT	Pseudomonas aeruginosa	6.8	octanoyl-CoA	*pH 8.2, temperature not specified in the publication

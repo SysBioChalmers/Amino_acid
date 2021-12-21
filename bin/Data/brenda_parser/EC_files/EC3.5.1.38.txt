@@ -1,3 +1,0 @@
-KCAT	Streptomyces canarius	0.00025	L-aspartate	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Streptomyces canarius	0.00075	L-glutamine	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Streptomyces canarius	0.00068	L-asparagine	*pH not specified in the publication, temperature not specified in the publication

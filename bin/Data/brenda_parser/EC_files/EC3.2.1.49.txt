@@ -1,5 +1,0 @@
-KCAT	Homo sapiens	16.3	4-nitrophenyl alpha-D-N-acetylgalactosaminide	*recombinant wild-type enzyme
-KCAT	Homo sapiens	17.1	4-nitrophenyl alpha-D-N-acetylgalactosaminide	*recombinant mutant N201Q
-KCAT	Elizabethkingia meningoseptica	19.7	4-nitrophenyl N-acetyl-alpha-D-galactosamine	*recombinant enzyme, pH 7.5, 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.0258	4-nitrophenyl N-acetyl-D-galactosamine	*pH 5.2, 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.0258	4-nitrophenyl N-acetyl-D-galactosamine	*pH 5.2, 37&Acirc;&deg;C

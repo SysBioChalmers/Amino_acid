@@ -1,1 +1,0 @@
-ecNumber*2.1.1.321#turnoverNumber*0.01#turnoverNumberMaximum*#substrate*[histone H2B peptide 23-37]-L-arginine#commentary*pH 7.5, 22&deg;C#organism*Mus musculus#ligandStructureId*#literature*734246#

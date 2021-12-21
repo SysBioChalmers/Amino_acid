@@ -1,2 +1,0 @@
-KCAT	Bacillus subtilis	56	5-(methylthio)-2,3-dioxopentyl 1-phosphate	*mutant enzyme K122R, in 50 mM Tris-HCl (pH 8.2), 1 mM MgCl2, at 25&Acirc;&deg;C
-KCAT	Bacillus subtilis	83	5-(methylthio)-2,3-dioxopentyl 1-phosphate	*wild type enzyme, in 50 mM Tris-HCl (pH 8.2), 1 mM MgCl2, at 25&Acirc;&deg;C

@@ -1,4 +1,0 @@
-KCAT	Staphylococcus aureus	0.074	glyoxylate	*pH 8.0, 22&deg;C
-KCAT	Staphylococcus aureus	0.26	NADPH	*pH 8.0, 22&deg;C
-KCAT	Staphylococcus aureus	0.26	oxaloacetate	*pH 8.0, 22&deg;C
-KCAT	Staphylococcus aureus	0.26	pyruvate	*pH 8.0, 22&deg;C

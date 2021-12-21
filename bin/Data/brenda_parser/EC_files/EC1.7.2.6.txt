@@ -1,5 +1,0 @@
-KCAT	Nitrosomonas europaea	-999	more	*overview: effect of pH on rate of reduction of heme c553 of the enzyme by NH2OH, rate constant for reduction of hemes of the enzyme by dithionite at 2&deg;C and 19&deg;C and by NH2OH or NH2NH2 at 2&deg;C
-KCAT	Nitrosococcus oceani	3.4	ferricytochrome c-554	*source of substrate Nitrosococcus oceani, pH 7.8, temperature not specified in the publication
-KCAT	Nitrosococcus oceani	111	ferricyanide	*pH 7.8, temperature not specified in the publication
-KCAT	Nitrosomonas europaea	158	nitrite	*
-KCAT	Nitrosomonas europaea	383	hydroxylamine	*oxidized

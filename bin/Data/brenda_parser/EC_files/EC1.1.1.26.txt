@@ -1,7 +1,0 @@
-KCAT	Arabidopsis thaliana	8.1	NADPH	*pH 7.8, 22&Acirc;&deg;C, recombinant His6-tagged enzyme
-KCAT	Rhizobium etli	1.35	glyoxylate	*pH 7.0, 37&Acirc;&deg;C
-KCAT	Paracoccus sp.	2.3	glyoxylate	*pH 7.0, 30&Acirc;&deg;C, recombinant E141N/Q313E mutant formate dehydrogenase
-KCAT	Arabidopsis thaliana	13	glyoxylate	*pH 7.8, 22&Acirc;&deg;C, recombinant His6-tagged enzyme
-KCAT	Rhizobium etli	0.37	phenylpyruvate	*pH 7.0, 37&Acirc;&deg;C
-KCAT	Rhizobium etli	0.5	2-oxobutyrate	*pH 7.0, 37&Acirc;&deg;C
-KCAT	Rhizobium etli	0.25	Hydroxypyruvate	*pH 7.0, 37&Acirc;&deg;C

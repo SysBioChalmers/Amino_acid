@@ -1,7 +1,0 @@
-KCAT	Escherichia coli	0.001	6,7-dimethyl-8-(1-D-ribityl)lumazine	*pH 6.9, 25&deg;C, recombinant mutant H102Q, steady-state conditions
-KCAT	Escherichia coli	0.00833	6,7-dimethyl-8-ribityllumazine	*per subunit
-KCAT	Bacillus subtilis	0.019	6,7-dimethyl-8-ribityllumazine	*pH 7.0, 37&deg;C
-KCAT	Arabidopsis thaliana	0.027	6,7-dimethyl-8-(1-D-ribityl)lumazine	*25&deg;C, recombinant enzyme
-KCAT	Escherichia coli	0.267	6,7-dimethyl-8-(1-D-ribityl)lumazine	*pH 6.9, 25&deg;C, recombinant wild-type enzyme, steady-state conditions
-KCAT	Bacillus subtilis	1.2	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*heavy enzyme, Bacillus subtilis H94
-KCAT	Bacillus subtilis	2	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*light enzyme, Bacillus subtilis H94

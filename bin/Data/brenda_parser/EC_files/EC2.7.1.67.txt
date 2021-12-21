@@ -1,4 +1,0 @@
-KCAT	Saccharomyces cerevisiae	2.77	1-phosphatidyl-1D-myo-inositol	*
-KCAT	Saccharomyces cerevisiae	2.77	1-phosphatidyl-1D-myo-inositol	*pH 8.0, 30&deg;C
-KCAT	Saccharomyces cerevisiae	2.77	ATP	*
-KCAT	Saccharomyces cerevisiae	2.77	ATP	*pH 8.0, 30&deg;C

@@ -1,8 +1,0 @@
-KCAT	Escherichia coli	17.67	enterobactin	*at pH 7.5 and 23&Acirc;&deg;C
-KCAT	Escherichia coli	0.53	iron(III)-[diglucosyl-enterobactin] complex	*at pH 7.5 and 23&Acirc;&deg;C
-KCAT	Escherichia coli	0.77	iron(III)-[monoglucosyl-enterobactin] complex	*at pH 7.5 and 23&Acirc;&deg;C
-KCAT	Escherichia coli	1.23	iron(III)-enterobactin	*at pH 7.5 and 23&Acirc;&deg;C
-KCAT	Escherichia coli	1.4	iron(III)-[triglucosyl-enterobactin] complex	*at pH 7.5 and 23&Acirc;&deg;C
-KCAT	Escherichia coli	62	[monoglucosyl-enterobactin] complex	*at pH 7.5 and 23&Acirc;&deg;C
-KCAT	Escherichia coli	74.33	[triglucosyl-enterobactin] complex	*at pH 7.5 and 23&Acirc;&deg;C
-KCAT	Escherichia coli	108.33	[diglucosyl-enterobactin] complex	*at pH 7.5 and 23&Acirc;&deg;C

@@ -1,6 +1,0 @@
-KCAT	Escherichia coli	10	NADH	*pH 7.5, 30&deg;C
-KCAT	Escherichia coli	19.3	NAD+	*pH 7.5, 30&deg;C
-KCAT	Escherichia coli	71	UDP-glucose	*pH 7.5, 37&deg;C
-KCAT	Yersinia intermedia	97	UDP-glucose	*pH 7.5, 37&deg;C
-KCAT	Escherichia coli	405	AMP	*pH 7.5, 30&deg;C
-KCAT	Escherichia coli	1492	NMN	*pH 7.5, 30&deg;C

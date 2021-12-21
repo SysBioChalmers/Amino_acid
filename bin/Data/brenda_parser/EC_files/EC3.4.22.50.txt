@@ -1,5 +1,0 @@
-KCAT	Autographa californica nucleopolyhedrovirus	0.73	Z-Arg-Arg-7-amido-4-methylcoumarin	*
-KCAT	Autographa californica nucleopolyhedrovirus	0.95	Z-Phe-Arg 7-amido-4-methylcoumarin	*
-KCAT	Autographa californica nucleopolyhedrovirus	0.73	Z-Leu-Arg 7-amido-4-methylcoumarin	*
-KCAT	Autographa californica nucleopolyhedrovirus	0.94	Z-Val-Arg-7-amido-4-methylcoumarin	*
-KCAT	Autographa californica nucleopolyhedrovirus	0.51	Z-Val-Val-Arg 7-amido-4-methylcoumarin	*

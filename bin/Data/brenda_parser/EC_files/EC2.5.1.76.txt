@@ -1,1 +1,0 @@
-KCAT	Methanosarcina acetivorans	0.18	L-phosphoserine	*pH 7.0, 37&deg;C

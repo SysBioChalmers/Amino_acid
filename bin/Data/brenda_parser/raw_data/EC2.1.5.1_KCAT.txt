@@ -1,1 +1,0 @@
-ecNumber*2.1.5.1#turnoverNumber*7.9#turnoverNumberMaximum*#substrate*(+)-sesamin#commentary*at pH 8.0 and 28&deg;C#organism*Sinomonas sp. No.22#ligandStructureId*206194#literature*746315#

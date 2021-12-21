@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	0.000867	thiophosphate	*
-KCAT	Escherichia coli	0.0217	Selenophosphate	*

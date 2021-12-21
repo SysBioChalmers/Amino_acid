@@ -1,6 +1,0 @@
-KCAT	Ocimum basilicum	0.0031	eugenol	*
-KCAT	Rosa chinensis	0.019	eugenol	*
-KCAT	Pimpinella anisum	0.015	isoeugenol	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Rosa chinensis	0.031	isoeugenol	*
-KCAT	Ocimum basilicum	0.00087	chavicol	*
-KCAT	Ocimum basilicum	0.0013	t-isoeugenol	*

@@ -1,5 +1,0 @@
-KCAT	Saccharomyces cerevisiae	-999	more	*
-KCAT	Homo sapiens	0.01	5-phospho-alpha-D-ribose 1-diphosphate	*pH 7.5, 37&deg;C
-KCAT	Homo sapiens	0.012	nicotinate	*pH 7.5, 37&deg;C
-KCAT	Homo sapiens	0.25	nicotinate	*in the presence of phosphate, pH 7.5, 37&deg;C
-KCAT	Homo sapiens	0.36	5-phospho-alpha-D-ribose 1-diphosphate	*in the presence of phosphate, pH 7.5, 37&deg;C

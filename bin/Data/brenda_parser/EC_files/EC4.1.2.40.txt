@@ -1,6 +1,0 @@
-KCAT	Streptococcus pyogenes	4.41	D-fructose 1,6-diphosphate	*isoform LacD.2, pH 7.5, temperature not specified in the publication
-KCAT	Streptococcus pyogenes	6.35	D-fructose 1,6-diphosphate	*isoform LacD.1, pH 7.5, temperature not specified in the publication
-KCAT	Streptococcus pyogenes	12.6	D-fructose 1,6-diphosphate	*mutant isoform LacD.1, C-terminal half replaced with 162 amino acid residues from the C-terminus of LacD.2, pH 7.5, temperature not specified in the publication
-KCAT	Streptococcus pyogenes	14.6	D-tagatose 1,6-diphosphate	*isoform LacD.2, pH 7.5, temperature not specified in the publication
-KCAT	Streptococcus pyogenes	18.3	D-tagatose 1,6-diphosphate	*mutant isoform LacD.1, C-terminal half replaced with 162 amino acid residues from the C-terminus of LacD.2, pH 7.5, temperature not specified in the publication
-KCAT	Streptococcus pyogenes	24.3	D-tagatose 1,6-diphosphate	*isoform LacD.1, pH 7.5, temperature not specified in the publication

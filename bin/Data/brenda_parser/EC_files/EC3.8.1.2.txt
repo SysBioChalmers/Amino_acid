@@ -1,3 +1,0 @@
-KCAT	Burkholderia cepacia	-999	more	*comparison of kcat of wild-type and mutant enzymes
-KCAT	Pseudomonas sp.	-999	more	*single turnover
-KCAT	Pseudomonas sp.	47	L-2-chloropropionate	*comparison with mutant enzymes

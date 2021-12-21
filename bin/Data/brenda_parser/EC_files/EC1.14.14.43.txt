@@ -1,6 +1,0 @@
-KCAT	Arabidopsis thaliana	0.42	(E)-phenylacetaldoxime	*pH 8.1, 29&Acirc;&deg;C
-KCAT	Arabidopsis thaliana	0.78	(E)-phenylacetaldoxime	*pH 8.1, 29&Acirc;&deg;C
-KCAT	Arabidopsis thaliana	0.87	indole-3-acetaldoxime	*pH 8.1, 29&Acirc;&deg;C
-KCAT	Arabidopsis thaliana	2.33	indole-3-acetaldoxime	*pH 8.1, 29&Acirc;&deg;C
-KCAT	Arabidopsis thaliana	0.23	(E)-4-hydroxyphenylacetaldoxime	*pH 8.1, 29&Acirc;&deg;C
-KCAT	Arabidopsis thaliana	0.43	(E)-4-hydroxyphenylacetaldoxime	*pH 8.1, 29&Acirc;&deg;C

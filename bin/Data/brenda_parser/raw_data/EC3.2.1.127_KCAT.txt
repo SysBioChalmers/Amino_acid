@@ -1,1 +1,0 @@
-ecNumber*3.2.1.127#turnoverNumber*183.8#turnoverNumberMaximum*#substrate*4-nitrophenyl alpha-L-fucopyranoside#commentary*pH 7.0, 37&deg;C#organism*Bacteroides fragilis#ligandStructureId*172954#literature*749463#

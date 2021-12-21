@@ -1,8 +1,0 @@
-KCAT	Acidianus ambivalens	-999	more	*two kinetic phases are observed. The first phase is attributed to binding of O2 to heme a3 and oxidation of both hemes forming the peroxy intermediate. The second phase is associated with proton uptake from solution and it is attributed to formation of the oxo-ferryl state, the final state in the absence of quinol. In the presence of bound caldariella quinol, heme a is re-reduced by caldariella quinol with a rate of 670/s, followed by transfer of the fourth electron to the binuclear center with a rate of 50/s
-KCAT	Sulfolobus acidocaldarius	-999	more	*menadiol and 2,3,5,6-tetrachlorobenzoquinol show turnover numbers of 30-40 e-/s. The highest activity of 100 e-/s can be obtained with N,N,N',N'-tetramethyl-1,4-phenylenediamine
-KCAT	Aeropyrum pernix	1.5	ferrocytochrome c	*pH 7.5, 40&deg;C
-KCAT	Aeropyrum pernix	66.9	N,N,N',N'-tetramethyl-1,4-phenylenediamine	*pH 7.5, 25&deg;C
-KCAT	Sulfolobus acidocaldarius	157	N,N,N',N'-tetramethyl-1,4-phenylenediamine	*pH 6.5, 40&deg;C, enzyme in detergent micelle (dodecyl-beta-D-maltoside)
-KCAT	Sulfolobus acidocaldarius	239	caldariellaquinol	*pH 6.5, 50&deg;C, enzyme in liposomes (tetraether lipids)
-KCAT	Sulfolobus acidocaldarius	393	caldariellaquinol	*pH 6.5, 50&deg;C, enzyme in detergent micelle (dodecyl-beta-D-maltoside)
-KCAT	Sulfolobus acidocaldarius	404	N,N,N',N'-tetramethyl-1,4-phenylenediamine	*pH 6.5, 40&deg;C, enzyme in liposomes (tetraether lipids)

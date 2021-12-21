@@ -1,4 +1,0 @@
-KCAT	Populus sp.	0.064	kaempferol	*wild type enzyme, in 10 mM Tris/HCl buffer (pH 7.5), at 37&deg;C
-KCAT	Populus sp.	0.064	quercetin	*mutant enzyme D257G, in 10 mM Tris/HCl buffer (pH 7.5), at 37&deg;C
-KCAT	Populus sp.	0.07	kaempferol	*mutant enzyme D257G, in 10 mM Tris/HCl buffer (pH 7.5), at 37&deg;C
-KCAT	Populus sp.	0.071	quercetin	*wild type enzyme, in 10 mM Tris/HCl buffer (pH 7.5), at 37&deg;C

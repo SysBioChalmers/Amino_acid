@@ -1,8 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.001	meso-diaminoheptanedioate	*mutant C87S, pH 7.5, 30&deg;C
-KCAT	Mycobacterium tuberculosis	0.0025	meso-diaminoheptanedioate	*mutant C226S, pH 7.5, 30&deg;C
-KCAT	Mycobacterium tuberculosis	0.1465	meso-diaminoheptanedioate	*wild-type, pH 7.5, 30&deg;C
-KCAT	Escherichia coli	67	meso-diaminoheptanedioate	*
-KCAT	Escherichia coli	67	meso-diaminoheptanedioate	*
-KCAT	Escherichia coli	84	LL-diaminoheptanedioate	*
-KCAT	Escherichia coli	84	LL-diaminoheptanedioate	*
-KCAT	Haemophilus influenzae	128	LL-2,6-Diaminoheptanedioate	*forward reaction

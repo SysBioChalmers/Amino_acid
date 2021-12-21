@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	-999	more	*
-KCAT	Komagataeibacter xylinus	-999	more	*

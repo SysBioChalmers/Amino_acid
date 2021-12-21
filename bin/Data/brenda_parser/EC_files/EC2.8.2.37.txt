@@ -1,5 +1,0 @@
-KCAT	Mycolicibacterium smegmatis	0.017	alpha,alpha-trehalose	*pH 7.5, 22&deg;C, mutant enzyme E36Q
-KCAT	Mycolicibacterium smegmatis	0.61	alpha,alpha-trehalose	*pH 7.5, 22&deg;C, mutant enzyme E33A
-KCAT	Mycobacterium tuberculosis	1.6	3'-phosphoadenylyl sulfate	*pH 7.5, 22&deg;C
-KCAT	Mycolicibacterium smegmatis	1.6	alpha,alpha-trehalose	*pH 7.5, 22&deg;C, wild-type enzyme
-KCAT	Mycobacterium tuberculosis	2.23	alpha,alpha-trehalose	*pH 7.5, 22&deg;C

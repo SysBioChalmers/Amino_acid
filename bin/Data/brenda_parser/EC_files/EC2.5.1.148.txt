@@ -1,2 +1,0 @@
-KCAT	Botryococcus braunii	0.0114	geranylgeranyl diphosphate	*pH 6.8, 37&deg;C
-KCAT	Botryococcus braunii	0.0205	(2E,6E)-farnesyl diphosphate	*pH and temperature not specified in the publication

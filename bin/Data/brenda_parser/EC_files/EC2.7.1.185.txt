@@ -1,7 +1,0 @@
-KCAT	Thermoplasma acidophilum	0.31	(R)-mevalonate	*pH 8.5, 55&deg;C, mutant enzyme R185K
-KCAT	Thermoplasma acidophilum	1.16	(R)-mevalonate	*pH 8.5, 55&deg;C, mutant enzyme S105A
-KCAT	Picrophilus torridus	1.9	(R)-mevalonate	*pH 7.5, 30&deg;C
-KCAT	Thermoplasma acidophilum	5	(R)-mevalonate	*pH 8.5, 55&deg;C
-KCAT	Thermoplasma acidophilum	5.1	(R)-mevalonate	*pH 8.5, 55&deg;C, mutant enzyme L18A
-KCAT	Thermoplasma acidophilum	5.3	(R)-mevalonate	*pH 8.5, 55&deg;C, wild-type enzyme
-KCAT	Thermoplasma acidophilum	5.8	(R)-mevalonate	*pH 8.5, 55&deg;C, mutant enzyme T275A

@@ -1,7 +1,0 @@
-KCAT	Homo sapiens	0.022	hexylcobalamin	*pH 8.0, 20&deg;C
-KCAT	Homo sapiens	0.024	pentylcobalamin	*pH 8.0, 20&deg;C
-KCAT	Homo sapiens	0.036	butyrylcobalamin	*pH 8.0, 20&deg;C
-KCAT	Homo sapiens	0.13	propylcobalamin	*pH 8.0, 20&deg;C
-KCAT	Homo sapiens	0.174	5'-deoxyadenosylcobalamin	*pH 8.0, 20&deg;C
-KCAT	Homo sapiens	1.86	ethylcobalamin	*pH 8.0, 20&deg;C
-KCAT	Homo sapiens	11.7	methylcobalamin	*pH 8.0, 20&deg;C

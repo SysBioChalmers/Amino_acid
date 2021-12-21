@@ -1,3 +1,0 @@
-KCAT	Lavandula x intermedia	0.0004	(+)-borneol	*pH 8.0, 32&Acirc;&deg;C
-KCAT	Artemisia annua	0.0058	(+)-borneol	*pH 9.0, 33&Acirc;&deg;C, recombinant enzyme
-KCAT	Pseudomonas sp.	0.75	(+)-borneol	*recombinant enzyme, pH 8.5, 22&Acirc;&deg;C

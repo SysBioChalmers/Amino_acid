@@ -1,4 +1,0 @@
-KCAT	Bacteroides vulgatus	0.2	L-gluconate	*pH 8.0, 30&deg;C
-KCAT	Escherichia coli	0.51	L-galactonate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
-KCAT	Bacteroides vulgatus	0.6	L-galactonate	*pH 8.0, 30&deg;C
-KCAT	Bacteroides vulgatus	90	D-tagaturonate	*pH 7.0, 30&deg;C

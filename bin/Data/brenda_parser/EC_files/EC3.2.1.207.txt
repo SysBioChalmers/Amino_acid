@@ -1,5 +1,0 @@
-KCAT	Schizosaccharomyces pombe	0.102	nigerose	*pH 6.5, 30&deg;C
-KCAT	Schizosaccharomyces pombe	0.109	maltohexaose	*pH 6.5, 30&deg;C
-KCAT	Schizosaccharomyces pombe	0.241	maltose	*pH 6.5, 30&deg;C
-KCAT	Apis cerana indica	26.6	maltotriose	*pH 5.5, 37&deg;C
-KCAT	Apis cerana indica	845	sucrose	*pH 5.5, 37&deg;C

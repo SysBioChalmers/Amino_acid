@@ -1,6 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.917	L-lysine	*
-KCAT	Mycobacterium tuberculosis	0.92	L-lysine	*wild-type, pH not specified in the publication, temperature not specified in the publication
-KCAT	Mycobacterium tuberculosis	1	2-oxoglutarate	*mutant E243A, pH not specified in the publication, temperature not specified in the publication
-KCAT	Mycobacterium tuberculosis	1.17	L-lysine	*mutant E243A, pH not specified in the publication, temperature not specified in the publication
-KCAT	Mycobacterium tuberculosis	1.43	2-oxoglutarate	*
-KCAT	Mycobacterium tuberculosis	1.43	2-oxoglutarate	*wild-type, pH not specified in the publication, temperature not specified in the publication

@@ -1,4 +1,0 @@
-KCAT	Zingiber zerumbet	3.8	(2E,6E)-farnesyl diphosphate	*pH 7.0, 38&deg;C, recombinant enzyme
-KCAT	Zingiber zerumbet	3.8	(2E)-geranyl diphosphate	*pH 7.5, 38&deg;C, recombinant His-tagged enzyme
-KCAT	Zingiber zerumbet	4.26	(2Z)-neryl diphosphate	*pH 7.5, 38&deg;C, recombinant His-tagged enzyme
-KCAT	Zingiber zerumbet	5.61	(2E,6E)-farnesyl diphosphate	*pH 7.5, 38&deg;C, recombinant His-tagged enzyme

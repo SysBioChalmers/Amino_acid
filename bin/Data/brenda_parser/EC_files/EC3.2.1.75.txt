@@ -1,2 +1,0 @@
-KCAT	Saccharophagus degradans	28.9	Laminarin	*at pH 7.0 and 40&Acirc;&deg;C
-KCAT	Saccharophagus degradans	135.6	pustulan	*at pH 7.0 and 40&Acirc;&deg;C

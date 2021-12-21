@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	0.12	MLGPEGGRWGRPVGRRRRRPVRVYP	*at pH 8.5 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.12	MLDPEEGGRWGRPVGRRRRRPVRVYP	*at pH 8.5 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.18	MIGPEEGGRWGRPVGRRRRRPVRVYP	*at pH 8.5 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.11	MLALISRRWGRPVGRRRRRPVRVYP	*at pH 8.5 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.038	MLGTGPARWGRPVGRRRRRPVRVYP	*at pH 8.5 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.093	MLGTEEGGRWGRPVGRRRRRPVRVYP	*at pH 8.5 and 37&Acirc;&deg;C

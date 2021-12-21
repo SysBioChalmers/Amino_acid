@@ -1,6 +1,0 @@
-KCAT	Yersinia bercovieri	1.97	NADPH	*at 25&deg;C and pH 7.5
-KCAT	Achromobacter sp.	5.9	2-methyl-N-phenylmaleimide	*pH 7.5, 30&deg;C
-KCAT	Achromobacter sp.	19.2	NADPH	*pH 7.5, 30&deg;C
-KCAT	Achromobacter sp.	38.6	NADH	*pH 7.5, 30&deg;C
-KCAT	Lactobacillus casei	3200	NADH	*pH 7.0, 30&deg;C
-KCAT	Lactobacillus casei	8400	2-cyclohexen-1-one	*pH 7.0, 30&deg;C

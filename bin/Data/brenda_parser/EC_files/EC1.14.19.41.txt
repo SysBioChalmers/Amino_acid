@@ -1,5 +1,0 @@
-KCAT	Arabidopsis thaliana	0.009	beta-sitosterol	*isoform CYP710A1, pH and temperature not specified in the publication
-KCAT	Arabidopsis thaliana	0.009	beta-sitosterol	*at pH 7.3 and 30&deg;C
-KCAT	Physcomitrella patens	0.015	beta-sitosterol	*isoform CAP710A14, at pH 7.3 and 30&deg;C
-KCAT	Arabidopsis thaliana	0.17	beta-sitosterol	*isoform CYP710A2, pH and temperature not specified in the publication
-KCAT	Solanum lycopersicum	0.17	beta-sitosterol	*at pH 7.3 and 30&deg;C

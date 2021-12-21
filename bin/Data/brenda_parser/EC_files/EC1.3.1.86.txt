@@ -1,4 +1,0 @@
-KCAT	Clostridioides difficile	3	NADH	*pH 7.5, temperature not specified in the publication
-KCAT	Clostridioides difficile	2	butyryl-CoA	*pH 7.5, temperature not specified in the publication
-KCAT	Clostridioides difficile	19	crotonyl-CoA	*pH 7.5, temperature not specified in the publication
-KCAT	Clostridioides difficile	37	Ferredoxin	*pH 7.5, temperature not specified in the publication

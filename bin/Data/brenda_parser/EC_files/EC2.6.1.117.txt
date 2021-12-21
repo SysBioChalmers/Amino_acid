@@ -1,3 +1,0 @@
-KCAT	Zea mays	0.12	4-(methylsulfanyl)-2-oxobutanoate	*pH 7.5, 25&deg;C
-KCAT	Solanum lycopersicum	0.15	4-(methylsulfanyl)-2-oxobutanoate	*pH 7.5, 25&deg;C
-KCAT	Bacillus subtilis	2.32	4-(methylsulfanyl)-2-oxobutanoate	*pH 7.5, 37&deg;C

@@ -1,1 +1,0 @@
-ecNumber*4.1.1.36#turnoverNumber*2.9#turnoverNumberMaximum*#substrate*(R)-4'-phospho-N-pantothenoylcysteine#commentary*pH 7.6, 37&deg;C#organism*Homo sapiens#ligandStructureId*22971#literature*664025#

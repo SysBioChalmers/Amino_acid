@@ -1,5 +1,0 @@
-KCAT	Streptomyces niveus	118	cyclonovobiocic acid	*pH 6.0, 22&deg;C
-KCAT	Streptomyces sp.	219	novobiocic acid	*pH 6.0, temperature not specified in the publication
-KCAT	Streptomyces niveus	226	dTDP-beta-L-noviose	*pH 6.0, 22&deg;C
-KCAT	Streptomyces sp.	290	N-(4,7-dihydroxy-8-methyl-2-oxo-2H-chromen-3-yl)-4-hydroxy-3-methylbenzamide	*pH 6.0, temperature not specified in the publication
-KCAT	Streptomyces niveus	313	novobiocic acid	*pH 6.0, 22&deg;C

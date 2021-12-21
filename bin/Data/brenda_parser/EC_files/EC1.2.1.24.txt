@@ -1,7 +1,0 @@
-KCAT	Saccharolobus solfataricus	7.1	2,5-dioxopentanoate	*pH 6.5, 70&deg;C, cofactor NAD+
-KCAT	Azospirillum brasilense	12.3	alpha-Ketoglutaric semialdehyde	*1 mM EDTA, 1 mM 2-mercaptoethanol, 66.7 mM potassium phosphate pH 7.2, 1.5 mM NADP+. 25&deg;C
-KCAT	Azospirillum brasilense	12.3	Glutaraldehyde	*1 mM EDTA, 1 mM 2-mercaptoethanol, 66.7 mM potassium phosphate pH 7.2, 1.5 mM NAD+. 25&deg;C
-KCAT	Saccharolobus solfataricus	22.6	succinate semialdehyde	*pH 6.5, 70&deg;C, cofactor NAD+
-KCAT	Azospirillum brasilense	31.7	succinate semialdehyde	*1 mM EDTA, 1 mM 2-mercaptoethanol, 66.7 mM potassium phosphate pH 7.2, 1.5 mM NAD+. 25&deg;C
-KCAT	Azospirillum brasilense	51.2	alpha-Ketoglutaric semialdehyde	*1 mM EDTA, 1 mM 2-mercaptoethanol, 66.7 mM potassium phosphate pH 7.2, 1.5 mM NAD+. 25&deg;C
-KCAT	Saccharolobus solfataricus	69	NAD+	*pH 6.5, 70&deg;C

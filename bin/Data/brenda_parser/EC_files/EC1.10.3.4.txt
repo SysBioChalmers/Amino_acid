@@ -1,6 +1,0 @@
-KCAT	Streptomyces griseus	0.066	L-Dopa	*in 50 mM sodium phosphate, pH 7.0, 30&deg;C
-KCAT	Streptomyces griseus	0.8	3,4-Dihydroxybenzaldehyde	*in 50 mM sodium phosphate, pH 7.0, 30&deg;C
-KCAT	Streptomyces griseus	12	catechol	*in 50 mM sodium phosphate, pH 7.0, 30&deg;C
-KCAT	Streptomyces griseus	14	3-amino-4-hydroxybenzaldehyde	*in 50 mM sodium phosphate, pH 7.0, 30&deg;C
-KCAT	Streptomyces griseus	18	2-amino-4-methylphenol	*in 50 mM sodium phosphate, pH 7.0, 30&deg;C
-KCAT	Streptomyces griseus	20	o-aminophenol	*in 50 mM sodium phosphate, pH 7.0, 30&deg;C

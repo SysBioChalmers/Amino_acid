@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	17.6	EEISEVNLDAEFRG	*in 44 mM acetic acid/6 mM Na-acetate pH 3.8, 10 mM beta-mercaptoethanol, at 37&Acirc;&deg;C; pH 3.8, 37&Acirc;&deg;C
-KCAT	Homo sapiens	10.7	SEVNLDAEFR	*in 44 mM acetic acid/6 mM Na-acetate pH 3.8, 10 mM beta-mercaptoethanol, at 37&Acirc;&deg;C; pH 3.8, 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.155	7-methoxycoumarin-4-yl-SEVNLDAEFK-2,4-dinitrophenyl-RR	*
-KCAT	Homo sapiens	0.000068	RE(EDANS)EVNLDAEFK(Dabcyl)R-NH2	*

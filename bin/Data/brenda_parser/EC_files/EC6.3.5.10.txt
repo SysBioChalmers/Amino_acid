@@ -1,4 +1,0 @@
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	2.4	adenosylcobyrinic acid triamide	*30&deg;C, pH 7.5
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.6	adenosylcobyrinic acid diamide	*30&deg;C, pH 7.5
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.6	adenosylcobyrinic acid tetraamide	*30&deg;C, pH 7.5
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	8.4	adenosylcobyrinic acid pentaamide	*30&deg;C, pH 7.5

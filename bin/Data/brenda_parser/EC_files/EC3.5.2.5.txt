@@ -1,5 +1,0 @@
-KCAT	Bacillus licheniformis	5.2	(S)-allantoin	*pH 7.5, 50&deg;C, recombinant mutant T155Y
-KCAT	Bacillus licheniformis	10.1	(S)-allantoin	*pH 7.5, 50&deg;C, recombinant mutant T155A
-KCAT	Bacillus licheniformis	24.4	(S)-allantoin	*pH 7.5, 50&deg;C, recombinant wild-type enzyme and mutant S292A
-KCAT	Phaseolus vulgaris	201.7	allantoin	*pH 7.8, 40&deg;C, isozyme IsoII, different methods
-KCAT	Phaseolus vulgaris	420	allantoin	*pH 7.8, 40&deg;C, isozyme IsoI, different methods

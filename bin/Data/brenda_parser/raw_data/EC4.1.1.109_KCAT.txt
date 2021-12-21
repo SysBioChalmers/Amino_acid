@@ -1,1 +1,0 @@
-ecNumber*4.1.1.109#turnoverNumber*0.8#turnoverNumberMaximum*#substrate*L-phenylalanine#commentary*at pH 8.5 and 25&Acirc;&deg;C#organism*Petunia x hybrida#ligandStructureId*104#literature*745277#

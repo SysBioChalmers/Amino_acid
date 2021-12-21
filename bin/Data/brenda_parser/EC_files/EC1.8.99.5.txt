@@ -1,3 +1,0 @@
-KCAT	Desulfovibrio vulgaris	29	hydroxylamine	*pH 7.6, 22&Acirc;&deg;C
-KCAT	Desulfovibrio vulgaris	0.31	sulfite	*pH 7.6, 22&Acirc;&deg;C
-KCAT	Desulfovibrio vulgaris	0.038	nitrite	*pH 7.6, 22&Acirc;&deg;C

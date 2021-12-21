@@ -1,2 +1,0 @@
-KCAT	Mentha x piperita	1.8	NADPH	*pH 5.0, recombinant enzyme
-KCAT	Mentha x piperita	1.8	(+)-pulegone	*pH 5.0, recombinant enzyme

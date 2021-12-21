@@ -1,2 +1,0 @@
-KCAT	Candida albicans	18.17	methylglyoxal	*pH and temperature not specified in the publication
-KCAT	Candida albicans	170	pyruvate	*pH and temperature not specified in the publication

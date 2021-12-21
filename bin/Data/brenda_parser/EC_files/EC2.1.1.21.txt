@@ -1,2 +1,0 @@
-KCAT	Pseudomonas sp.	0.00283	L-glutamate	*5-deazaFMN reconstituted enzyme
-KCAT	Pseudomonas sp.	0.347	L-glutamate	*FMN reconstituted enzyme

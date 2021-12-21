@@ -1,5 +1,0 @@
-KCAT	Anaerotignum propionicum	3.5	NADH	*using acryloyl-CoA as cosubstrate, in 50 mM Tris/HCl, pH 7.0, at 25&Acirc;&deg;C
-KCAT	Anaerotignum propionicum	4.5	acryloyl-CoA	*in 50 mM Tris/HCl, pH 7.0, at 25&Acirc;&deg;C
-KCAT	Metallosphaera sedula	13	acryloyl-CoA	*apparent value, recombinant enzyme, at pH 7.5 and 22&Acirc;&deg;C
-KCAT	Sulfurisphaera tokodaii	13	acryloyl-CoA	*apparent value, recombinant enzyme, at pH 7.5 and 22&Acirc;&deg;C
-KCAT	Anaerotignum propionicum	29	3-buten-2-one	*in 50 mM Tris/HCl, pH 7.0, at 25&Acirc;&deg;C

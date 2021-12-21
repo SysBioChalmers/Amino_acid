@@ -1,1 +1,0 @@
-ecNumber*1.1.1.133#turnoverNumber*29#turnoverNumberMaximum*#substrate*NADPH#commentary*+/-66#organism*Salmonella enterica#ligandStructureId*5#literature*285846#!ecNumber*1.1.1.133#turnoverNumber*25#turnoverNumberMaximum*#substrate*NADH#commentary*+/-48#organism*Salmonella enterica#ligandStructureId*8#literature*285846#

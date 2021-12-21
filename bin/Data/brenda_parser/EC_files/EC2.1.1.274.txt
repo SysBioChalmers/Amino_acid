@@ -1,9 +1,0 @@
-KCAT	Antirrhinum majus	0.011	salicylic acid	*pH 7.5, 20&deg;C
-KCAT	Antirrhinum majus	0.013	S-adenosyl-L-methionine	*with salicylic acid, pH 7.5, 20&deg;C
-KCAT	Solanum lycopersicum	0.028	S-adenosyl-L-methionine	*in 50 mM Tris-HCl, pH 7.5, 100 mM KCl, at 25&deg;C
-KCAT	Arabidopsis lyrata	0.05	salicylic acid	*pH 7.7, 30&deg;C
-KCAT	Solanum lycopersicum	0.056	salicylate	*in 50 mM Tris-HCl, pH 7.5, 100 mM KCl, at 25&deg;C
-KCAT	Arabidopsis thaliana	0.07	salicylic acid	*pH 7.7, 30&deg;C
-KCAT	Clarkia breweri	0.092	salicylate	*wild type enzyme, pH 7.5, 25&deg;C
-KCAT	Clarkia breweri	2.8	salicylate	*nontagged protein, pH 7.5, 20&deg;C
-KCAT	Clarkia breweri	14	salicylate	*His-tagged protein, pH 7.5, 20&deg;C

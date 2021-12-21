@@ -1,2 +1,0 @@
-KCAT	Synechocystis sp.	3.67	L-glutamate	*L-glutamate:iodonitrotetrazolium oxidoreductase activity at pH 9.5
-KCAT	Oryza sativa	137	L-glutamine	*

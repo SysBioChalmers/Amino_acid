@@ -1,4 +1,0 @@
-KCAT	Bacillus azotoformans	41	nitric oxide	*using cytochrome c551 as electron donor, pH and temperature not specified in the publication
-KCAT	Bacillus azotoformans	118	nitric oxide	*using juglone as electron donor, pH and temperature not specified in the publication
-KCAT	Bacillus azotoformans	150	nitric oxide	*using plumbagin as electron donor, pH and temperature not specified in the publication
-KCAT	Bacillus azotoformans	153	nitric oxide	*using menaquinol as electron donor, pH and temperature not specified in the publication

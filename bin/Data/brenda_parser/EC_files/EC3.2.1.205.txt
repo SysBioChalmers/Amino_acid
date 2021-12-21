@@ -1,3 +1,0 @@
-KCAT	Kribbella flavida	1.07	isomaltotriose	*pH 6.0, 35&deg;C
-KCAT	Kribbella flavida	1.17	panose	*pH 6.0, 35&deg;C
-KCAT	Kribbella flavida	11.4	isomaltose	*pH 6.0, 35&deg;C

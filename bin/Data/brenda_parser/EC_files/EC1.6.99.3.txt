@@ -1,4 +1,0 @@
-KCAT	Trichomonas vaginalis	650	NADH	*electron acceptor methyl viologen, after induction with 1.5% arabinose in culture medium
-KCAT	Homo sapiens	677	ferricyanide	*
-KCAT	Trichomonas vaginalis	725	NADH	*electron acceptor benzyl viologen, after induction with 1.5% arabinose in culture medium
-KCAT	Trichomonas vaginalis	1170	NADH	*electron acceptor ferricyanide, after induction with 1.5% arabinose in culture medium

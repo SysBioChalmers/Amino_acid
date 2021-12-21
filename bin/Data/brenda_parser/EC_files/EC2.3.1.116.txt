@@ -1,4 +1,0 @@
-KCAT	Glandularia x hybrida	2.9	malonyl-CoA	*pH 7.0, 30&deg;C
-KCAT	Glandularia x hybrida	2.9	quercetin 3-O-glucoside	*pH 7.0, 30&deg;C
-KCAT	Lamium purpureum	9	malonyl-CoA	*pH 7.0, 30&deg;C
-KCAT	Lamium purpureum	9	quercetin 3-O-glucoside	*pH 7.0, 30&deg;C

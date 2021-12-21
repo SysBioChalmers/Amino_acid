@@ -1,5 +1,0 @@
-KCAT	bacteriophage T6r+	-999	more	*320 substrate molecules per min per enzyme molecule
-KCAT	Escherichia virus T4	-999	more	*333 mol substrate per min per 56.8 kg protein
-KCAT	Escherichia virus T4	0.0008	deoxycytidylate	*mutant E60Q
-KCAT	Escherichia virus T4	0.007	deoxycytidylate	*mutant E60D
-KCAT	Escherichia virus T4	12.7	deoxycytidylate	*wild-type enzyme

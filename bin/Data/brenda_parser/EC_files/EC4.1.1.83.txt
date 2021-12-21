@@ -1,4 +1,0 @@
-KCAT	Clostridioides difficile	65	3,4-Dihydroxyphenylacetate	*in 100 mM Tris-HCl, pH 7.5, 40 mM NaCl, 5 mM MgCl2, 5 mM (NH4)2SO4, 5 mM cysteine, 25 mM substrate, and 5 mM dithiothreitol, at 30&deg;C
-KCAT	Clostridium scatologenes	67	3,4-Dihydroxyphenylacetate	*in 100 mM Tris-HCl, pH 7.5, 40 mM NaCl, 5 mM MgCl2, 5 mM (NH4)2SO4, 5 mM cysteine, 25 mM substrate, and 5 mM dithiothreitol, at 30&deg;C
-KCAT	Clostridioides difficile	110	(4-hydroxyphenyl)acetate	*in 100 mM Tris-HCl, pH 7.5, 40 mM NaCl, 5 mM MgCl2, 5 mM (NH4)2SO4, 5 mM cysteine, 25 mM substrate, and 5 mM dithiothreitol, at 30&deg;C
-KCAT	Clostridium scatologenes	135	(4-hydroxyphenyl)acetate	*in 100 mM Tris-HCl, pH 7.5, 40 mM NaCl, 5 mM MgCl2, 5 mM (NH4)2SO4, 5 mM cysteine, 25 mM substrate, and 5 mM dithiothreitol, at 30&deg;C

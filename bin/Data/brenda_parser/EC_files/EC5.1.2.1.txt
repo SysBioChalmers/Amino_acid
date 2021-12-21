@@ -1,4 +1,0 @@
-KCAT	Lactobacillus sakei	6.67	L-lactate	*
-KCAT	Lactobacillus sakei	16.7	D-lactate	*
-KCAT	Lactobacillus plantarum	1333	(R)-lactate	*pH and temperature not specified in the publication
-KCAT	Lactobacillus plantarum	4745	(S)-lactate	*pH and temperature not specified in the publication

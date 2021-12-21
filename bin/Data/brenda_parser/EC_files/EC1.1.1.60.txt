@@ -1,2 +1,0 @@
-KCAT	Pseudomonas putida	243	NADH	*
-KCAT	Pseudomonas putida	243	NADH	*

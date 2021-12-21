@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	-999	more	*values for various mutants
-KCAT	Helicobacter pylori	0.75	GDP-4-keto-6-deoxy-D-mannose	*
-KCAT	Escherichia coli K-12	1	GDP-6-deoxy-4-keto-mannose	*mutant C109S, isotope [5''-2H]-GDP-6-deoxy-4-keto-mannose; wild-type, isotope [3''-2H]-GDP-6-deoxy-4-keto-mannose; wild-type, isotope [5''-2H]-GDP-6-deoxy-4-keto-mannose
-KCAT	Escherichia coli K-12	1.5	GDP-6-deoxy-4-keto-mannose	*mutant C109S, isotope [3''-2H]-GDP-6-deoxy-4-keto-mannose

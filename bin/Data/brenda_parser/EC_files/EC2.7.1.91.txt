@@ -1,2 +1,0 @@
-KCAT	Homo sapiens	0.0065	ATP	*recombinant mutant D81N enzyme, pH and temperature not specified in the publication
-KCAT	Homo sapiens	0.0427	ATP	*recombinant wild-type enzyme, pH and temperature not specified in the publication

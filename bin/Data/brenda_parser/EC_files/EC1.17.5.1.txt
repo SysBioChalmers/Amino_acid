@@ -1,1 +1,0 @@
-KCAT	Thauera aromatica	12	phenylacetyl-CoA	*pH 7.5, 30&Acirc;&deg;C, duroquinone as electron acceptor

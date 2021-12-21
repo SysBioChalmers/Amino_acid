@@ -1,1 +1,0 @@
-KCAT	Arabidopsis thaliana	0.31	NADPH	*in the presence of phenylpyruvate, in 50 mM sodium phosphate, pH 8.0, 500 mM NaCl, and 30% (v/v) glycerol, at 25&Acirc;&deg;C

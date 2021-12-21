@@ -1,1 +1,0 @@
-KCAT	Mycobacterium tuberculosis	1000	D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate	*at pH 7.7 and 30&Acirc;&deg;C

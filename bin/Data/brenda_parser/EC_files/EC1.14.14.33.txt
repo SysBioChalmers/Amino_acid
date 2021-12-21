@@ -1,9 +1,0 @@
-KCAT	EDTA-degrading bacterium BNC1	2.8	ethylenediaminetetraacetate	*no addition of divalent ions, pH 7.8, 35&Acirc;&deg;C
-KCAT	EDTA-degrading bacterium BNC1	3.6	ethylenediaminetetraacetate	*presence of Mg2+, pH 7.8, 35&Acirc;&deg;C
-KCAT	EDTA-degrading bacterium BNC1	4.5	ethylenediaminetetraacetate	*mutant W11A, presence of Mg2+, pH 7.6, temperature not specified in the publication
-KCAT	EDTA-degrading bacterium BNC1	8.8	ethylenediaminetetraacetate	*mutant Q58A, presence of Mg2+, pH 7.6, temperature not specified in the publication
-KCAT	EDTA-degrading bacterium BNC1	12.8	ethylenediaminetetraacetate	*mutant P291A, presence of Mg2+, pH 7.6, temperature not specified in the publication
-KCAT	EDTA-degrading bacterium BNC1	13.2	ethylenediaminetetraacetate	*wild-type, presence of Mg2+ and flavin reductase from Escherichia coli, pH 7.6, temperature not specified in the publication
-KCAT	EDTA-degrading bacterium BNC1	14.7	ethylenediaminetetraacetate	*mutant Q294A, presence of Mg2+, pH 7.6, temperature not specified in the publication; mutant R68A, presence of Mg2+, pH 7.6, temperature not specified in the publication
-KCAT	EDTA-degrading bacterium BNC1	17.2	ethylenediaminetetraacetate	*wild-type, presence of Mg2+, pH 7.6, temperature not specified in the publication
-KCAT	EDTA-degrading bacterium BNC1	47.1	ethylenediaminetetraacetate	*wild-type, presence of Mg2+ and oxidoreductase EmoB, pH 7.6, temperature not specified in the publication

@@ -1,6 +1,0 @@
-KCAT	Staphylococcus epidermidis	0.00159	7-methoxycoumarin-4-yl-acetyl-Ala-D-isoGln-Lys(2,4-dinitrophenyl)-D-Ala-Arg	*
-KCAT	Staphylococcus epidermidis	0.00163	7-methoxycoumarin-4-yl-acetyl-Ala-D-isoGlu-Lys(2,4-dinitrophenyl)-D-Ala-Arg	*
-KCAT	Citrobacter freundii	0.4	4-O-beta-D-GlcNAc-1,6-anhydro-MurNAc-L-Ala-gamma-D-Glu-m-DAP-D-Ala-D-Ala	*at pH 7.0, temperature not specified in the publication
-KCAT	Citrobacter freundii	25	1,6-anhydro-MurNAc-L-Ala-gamma-D-Glu-m-DAP	*at pH 7.0, temperature not specified in the publication
-KCAT	Citrobacter freundii	11	1,6-anhydro-MurNAc-L-Ala-gamma-D-Glu-m-DAP-D-Ala-D-Ala	*at pH 7.0, temperature not specified in the publication
-KCAT	Citrobacter freundii	-999	more	*kinetic data

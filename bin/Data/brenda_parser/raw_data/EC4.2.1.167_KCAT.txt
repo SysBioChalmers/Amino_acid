@@ -1,1 +1,0 @@
-ecNumber*4.2.1.167#turnoverNumber*82#turnoverNumberMaximum*#substrate*(R)-2-hydroxyglutaryl-CoA#commentary*strictly anaerobic conditions, 25&deg;C, Tris-HCl buffer, pH 8.0, (R)-2-hydroxyglutaryl-CoA dehydratase activator protein from Acidaminococcus fermentans#organism*Clostridium symbiosum#ligandStructureId*52055#literature*733328#

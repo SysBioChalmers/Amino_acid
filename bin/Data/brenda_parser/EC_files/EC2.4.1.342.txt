@@ -1,7 +1,0 @@
-KCAT	Mycobacterium tuberculosis	15.4	ADP-alpha-D-glucose	*with 4.0 mM alpha-D-glucose-1-phosphate, at pH 7.0 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	19.8	ADP-alpha-D-glucose	*with 2.5 mM alpha-D-glucose-1-phosphate, at pH 7.0 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	20	ADP-alpha-D-glucose	*with 0.25 mM alpha-D-glucose-1-phosphate, at pH 7.0 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	29.2	ADP-alpha-D-glucose	*with 1.0 mM alpha-D-glucose-1-phosphate, at pH 7.0 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	39	alpha-D-glucose-1-phosphate	*with 0.1 mM ADP-alpha-D-glucose, at pH 7.0 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	80.6	alpha-D-glucose-1-phosphate	*with 4.0 mM ADP-alpha-D-glucose, at pH 7.0 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	97.9	alpha-D-glucose-1-phosphate	*with 0.5 mM ADP-alpha-D-glucose, at pH 7.0 and 37&deg;C

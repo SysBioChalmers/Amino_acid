@@ -1,3 +1,0 @@
-KCAT	Streptomyces lividans	5.89	acetoacetate	*pH 7.5, 30&deg;C, recombinant enzyme
-KCAT	Streptomyces lividans	6.43	ATP	*pH 7.5, 30&deg;C, recombinant enzyme
-KCAT	Streptomyces lividans	8.16	CoA	*pH 7.5, 30&deg;C, recombinant enzyme

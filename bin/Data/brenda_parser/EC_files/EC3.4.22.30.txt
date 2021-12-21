@@ -1,8 +1,0 @@
-KCAT	Carica papaya	-999	more	*pH-dependence of kcat/Km ratio
-KCAT	Carica papaya	-999	more	*
-KCAT	Carica papaya	0.14	benzoyl-DL-Arg 4-nitroanilide	*pH 4.0
-KCAT	Carica papaya	0.15	benzoyl-DL-Arg 4-nitroanilide	*pH 9.2
-KCAT	Carica papaya	2.6	Succinyl-albumin	*
-KCAT	Carica papaya	7.1	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	*
-KCAT	Carica papaya	16.7	N-Benzyloxycarbonyl-Gly 4-nitrophenyl ester	*
-KCAT	Carica papaya	49	benzyloxycarbonyl-Lys nitrophenyl ester	*pH 5.3 and 5.9

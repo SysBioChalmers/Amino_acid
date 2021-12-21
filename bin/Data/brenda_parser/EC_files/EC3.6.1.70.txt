@@ -1,1 +1,0 @@
-KCAT	Homo sapiens	0.0004	Gppp-BODIPY	*pH 7.2, 22&deg;C

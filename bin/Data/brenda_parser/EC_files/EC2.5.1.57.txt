@@ -1,7 +1,0 @@
-KCAT	Homo sapiens	0.008	D-mannose 6-phosphate	*mutant enzyme M42L, at 37&deg;C
-KCAT	Homo sapiens	0.011	D-mannose 6-phosphate	*wild type enzyme, at 37&deg;C
-KCAT	Homo sapiens	0.013	N-acetyl-D-mannosamine 6-phosphate	*mutant enzyme M42T, at 37&deg;C
-KCAT	Homo sapiens	0.016	N-acetyl-D-mannosamine 6-phosphate	*mutant enzyme M42L, at 37&deg;C
-KCAT	Homo sapiens	0.022	N-acetyl-D-mannosamine 6-phosphate	*wild type enzyme, at 37&deg;C
-KCAT	Homo sapiens	0.67	D-mannose 6-phosphate	*in 50 mM bicine pH 7.5 at 37&deg;C
-KCAT	Homo sapiens	1.31	N-acetyl-D-mannosamine 6-phosphate	*in 50 mM bicine pH 7.5 at 37&deg;C

@@ -1,1 +1,0 @@
-KCAT	Escherichia coli	0.02	negatively supercoiled plasmid pXXZ06 DNA	*pH 7.9, 37&deg;C

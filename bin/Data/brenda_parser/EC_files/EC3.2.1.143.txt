@@ -1,4 +1,0 @@
-KCAT	Bos taurus	90	Poly(ADP-ribose)	*
-KCAT	Deinococcus radiodurans	181.4	Poly(ADP-ribose)	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant T267K
-KCAT	Deinococcus radiodurans	198.6	Poly(ADP-ribose)	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant T267R
-KCAT	Deinococcus radiodurans	266.4	Poly(ADP-ribose)	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme

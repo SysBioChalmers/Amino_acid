@@ -1,1 +1,0 @@
-KCAT	Homo sapiens	1.6	pseudouridine 5'-phosphate	*pH 7.1, 30&deg;C

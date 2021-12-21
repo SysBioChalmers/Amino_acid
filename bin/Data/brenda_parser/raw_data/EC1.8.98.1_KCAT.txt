@@ -1,1 +1,0 @@
-ecNumber*1.8.98.1#turnoverNumber*74#turnoverNumberMaximum*#substrate*dihydromethanophenazine#commentary*25&Acirc;&deg;C#organism*Methanosarcina thermophila#ligandStructureId*13397#literature*639394#!ecNumber*1.8.98.1#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Methanothermobacter thermautotrophicus#ligandStructureId*#literature*639391#

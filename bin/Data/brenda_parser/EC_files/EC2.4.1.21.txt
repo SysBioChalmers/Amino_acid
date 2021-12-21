@@ -1,4 +1,0 @@
-KCAT	Phaseolus vulgaris	412	glycogen	*pH 8.0, 30&Acirc;&deg;C
-KCAT	Phaseolus vulgaris	235	ADP-glucose	*pH 8.0, 30&Acirc;&deg;C, at 10 mg/ml amylopectin
-KCAT	Phaseolus vulgaris	333	ADP-glucose	*pH 8.0, 30&Acirc;&deg;C, at 10 mg/ml glycogen
-KCAT	Phaseolus vulgaris	235	amylopectin	*pH 8.0, 30&Acirc;&deg;C

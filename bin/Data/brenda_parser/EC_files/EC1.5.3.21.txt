@@ -1,2 +1,0 @@
-KCAT	Paenarthrobacter nicotinovorans	878	4-aminobutanoate	*pH 9.8, 22&Acirc;&deg;C
-KCAT	Paenarthrobacter nicotinovorans	1230	4-methylaminobutanoate	*pH 9.8, 22&Acirc;&deg;C

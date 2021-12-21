@@ -1,2 +1,0 @@
-KCAT	Vitis vinifera	0.062	resveratrol	*pH 7.5, temperature not specified in the publication
-KCAT	Vitis vinifera	0.086	3-methoxy-4',5-dihydroxy-trans-stilbene	*pH 7.5, temperature not specified in the publication

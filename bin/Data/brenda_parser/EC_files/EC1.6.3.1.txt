@@ -1,2 +1,0 @@
-KCAT	Helicobacter pylori	2.8	NADPH	*at 25&deg;C, pH not specified in the publication
-KCAT	Saccharolobus solfataricus	4.4	NADH	*pH 5.5, 65&deg;C

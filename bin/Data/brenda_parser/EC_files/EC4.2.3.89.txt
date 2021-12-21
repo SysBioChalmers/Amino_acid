@@ -1,4 +1,0 @@
-KCAT	Streptomyces griseus	0.025	(2E,6E)-farnesyl diphosphate	*at pH 7.5 and 30&deg;C in the presence of 5 mM MgCl2
-KCAT	Vitis vinifera	0.19	(2E,6E)-farnesyl diphosphate	*recombinant enzyme, pH 7.0, 30&deg;C
-KCAT	Piper nigrum	0.455	(2E,6E)-farnesyl diphosphate	*pH not specified in the publication, 30&deg;C, recombinant His-tagged enzyme
-KCAT	Ocimum kilimandscharicum	4.06	(2E,6E)-farnesyl diphosphate	*pH not specified in the publication, 30&deg;C, recombinant His-tagged enzyme

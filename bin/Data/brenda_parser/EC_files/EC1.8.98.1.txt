@@ -1,2 +1,0 @@
-KCAT	Methanosarcina thermophila	74	dihydromethanophenazine	*25&Acirc;&deg;C
-KCAT	Methanothermobacter thermautotrophicus	-999	more	*

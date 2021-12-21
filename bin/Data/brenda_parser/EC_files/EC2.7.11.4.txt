@@ -1,2 +1,0 @@
-KCAT	Rattus norvegicus	0.0542	phosphate	*25&deg;C, recombinant enzyme alone
-KCAT	Rattus norvegicus	0.475	phosphate	*25&deg;C, reconstituted with lipoylated recombinant E2

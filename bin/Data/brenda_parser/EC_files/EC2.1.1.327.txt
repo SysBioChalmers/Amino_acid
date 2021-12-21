@@ -1,1 +1,0 @@
-KCAT	Pseudomonas aeruginosa	1.3	phenazine-1-carboxylate	*presence of hydroxylase PhzS, pH 7.8, 22&deg;C

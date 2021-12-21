@@ -1,1 +1,0 @@
-KCAT	Zea mays	0.0014	(2E,6E)-farnesyl diphosphate	*pH 7.0, 30&deg;C

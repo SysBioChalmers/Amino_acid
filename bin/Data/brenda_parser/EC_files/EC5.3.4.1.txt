@@ -1,3 +1,0 @@
-KCAT	Homo sapiens	0.000028	RNase	*refolding of RNase
-KCAT	Homo sapiens	0.0011	RNase	*refolding of RNase
-KCAT	Homo sapiens	0.017	sRNase	*

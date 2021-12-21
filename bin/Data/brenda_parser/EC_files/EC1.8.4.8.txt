@@ -1,9 +1,0 @@
-KCAT	Bacillus subtilis	0.146	glutaredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-adenylyl-sulfate
-KCAT	Bacillus subtilis	0.149	3'-phosphoadenylyl sulfate	*recombinant enzyme, pH 8.0, with thioredoxin 1
-KCAT	Bacillus subtilis	0.172	3'-phosphoadenylyl-sulfate	*recombinant enzyme, pH 8.0, with thioredoxin 1
-KCAT	Bacillus subtilis	0.174	thioredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-adenylyl-sulfate
-KCAT	Bacillus subtilis	0.219	thioredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-phosphoadenylyl-sulfate
-KCAT	Bacillus subtilis	0.335	3'-phosphoadenylyl sulfate	*recombinant enzyme, pH 8.0, with glutaredoxin 1
-KCAT	Bacillus subtilis	0.382	3'-phosphoadenylyl-sulfate	*recombinant enzyme, pH 8.0, with glutaredoxin 1
-KCAT	Bacillus subtilis	0.421	glutaredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-phosphoadenylyl-sulfate
-KCAT	Escherichia coli	3.5	3'-phosphoadenylyl-sulfate	*pH 9.2-9.3, 35&deg;C

@@ -1,1 +1,0 @@
-KCAT	Pyrococcus horikoshii	115	beta-NADH	*pH and temperature not specified in the publication

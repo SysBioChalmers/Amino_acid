@@ -1,6 +1,0 @@
-KCAT	Escherichia coli	0.0055	D-glucose 1-phosphate	*
-KCAT	Escherichia coli	0.0138	D-glucose 1-phosphate	*single-mutation S100T
-KCAT	Methanococcus maripaludis	0.1	alpha-D-glucose 1-phosphate	*
-KCAT	Methanococcus maripaludis	0.52	alpha-D-glucosamine 1-phosphate	*
-KCAT	Escherichia coli	2.42	D-glucosamine 6-phosphate	*6 x His-tagged recombinant enzyme
-KCAT	Escherichia coli	7.9	D-glucosamine 6-phosphate	*

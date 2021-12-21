@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	0.0078	VLK-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C
-KCAT	Homo sapiens	0.033	VPR-7-amido-4-methylcoumarin	*pH 8.0, 37&deg;C
-KCAT	Homo sapiens	1.8	benzyl-FVR-p-nitroanilide	*thermolysin activated recombinant KLK4
-KCAT	Homo sapiens	3.64	Z-FVR-p-nitroanilide	*in 50 mM HEPES (pH 7.0), 150 mM NaCl, 10 mM CaCl2 buffer, at 25&deg;C
-KCAT	Homo sapiens	3.64	Z-Phe-Val-Arg-p-nitroanilide	*monomeric K4
-KCAT	Homo sapiens	7.9	(Abz)-SKGR-SLIGK(N-[2,4-dintrophenyl]ethylenediamine)-Asp-OH	*

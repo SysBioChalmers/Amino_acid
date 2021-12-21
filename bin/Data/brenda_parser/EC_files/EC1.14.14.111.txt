@@ -1,2 +1,0 @@
-KCAT	Oryza sativa	46	syn-pimara-7,15-diene	*pH and temperature not specified in the publication
-KCAT	Oryza sativa	49	syn-stemod-13(17)-ene	*pH and temperature not specified in the publication

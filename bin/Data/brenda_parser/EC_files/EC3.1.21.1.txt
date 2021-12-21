@@ -1,9 +1,0 @@
-KCAT	Potyvirus sp.	0.0314	more	*37&deg;C, 20 mM Tris-HCl pH 8.3, 1 mM MgCl2
-KCAT	Homo sapiens	0.0492	d(pGpGpCpApCpTpTpApC)	*20 mM Tris-HCl pH 7.5, 5 mM MgCl2, 1 mM EDTA, 37&deg;C
-KCAT	Homo sapiens	106.6	d(pA)10	*20 mM Tris-HCl pH 7.5, 5 mM MgCl2, 1 mM EDTA, 37&deg;C
-KCAT	Homo sapiens	136.6	d(pTpApGpApApGpApTpCpApApA)	*20 mM Tris-HCl pH 7.5, 5 mM MgCl2, 1 mM EDTA, 37&deg;C
-KCAT	Homo sapiens	167	(pC)10	*20 mM Tris-HCl pH 7.5, 5 mM MgCl2, 1 mM EDTA, 37&deg;C
-KCAT	Homo sapiens	453.3	d(pGpGpCpApCpTpTpApC)	*20 mM Tris-HCl pH 7.5, 5 mM MgCl2, 1 mM EDTA, 37&deg;C
-KCAT	Homo sapiens	493.3	(pC)10	*20 mM Tris-HCl pH 7.5, 5 mM MgCl2, 1 mM EDTA, 37&deg;C
-KCAT	Homo sapiens	703.3	d(pApCpTpApCpApGpTpCpTpApCpA)	*20 mM Tris-HCl pH 7.5, 5 mM MgCl2, 1 mM EDTA, 37&deg;C
-KCAT	Homo sapiens	713	d(pT)10	*20 mM Tris-HCl pH 7.5, 5 mM MgCl2, 1 mM EDTA, 37&deg;C

@@ -1,8 +1,0 @@
-KCAT	Salmonella enterica	0.1	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, K121A mutant
-KCAT	Salmonella enterica	0.14	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, H125A mutant
-KCAT	Aspergillus nidulans	12.3	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7
-KCAT	Escherichia coli	19	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*
-KCAT	Salmonella enterica	38	Mg2+	*pH 7.5, 37&deg;C
-KCAT	Salmonella enterica	55	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, R122K mutant
-KCAT	Aspergillus nidulans	100	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7
-KCAT	Salmonella enterica	105	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, wild-type

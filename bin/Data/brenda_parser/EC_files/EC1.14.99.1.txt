@@ -1,3 +1,0 @@
-KCAT	Mus musculus	27	arachidonate	*pH 8.0, 25&Acirc;&deg;C, COX-2 mutant N580A
-KCAT	Mus musculus	3.45	(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid	*pH 8.0, 25&Acirc;&deg;C, COX-2 mutant N580A
-KCAT	Mus musculus	8.7	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoic acid	*pH 8.0, 25&Acirc;&deg;C, COX-2 mutant N580A

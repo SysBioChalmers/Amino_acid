@@ -1,4 +1,0 @@
-KCAT	Hedera helix	0.25	palmitoyl-[acyl-carrier protein]	*pH and temperature not specified in the publication
-KCAT	Hedera helix	0.17	stearoyl-[acyl-carrier protein]	*pH and temperature not specified in the publication
-KCAT	Hedera helix	0.004	oleoyl-[acyl-carrier protein]	*pH and temperature not specified in the publication
-KCAT	Hedera helix	0.048	palmitoleoyl-[acyl-carrier protein]	*pH and temperature not specified in the publication

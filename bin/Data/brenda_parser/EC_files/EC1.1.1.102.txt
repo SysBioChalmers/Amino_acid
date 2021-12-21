@@ -1,1 +1,0 @@
-KCAT	Candida albicans	1.07	3-dehydrosphinganine	*pH 7.5, recombinant enzyme

@@ -1,9 +1,0 @@
-KCAT	Caulobacter vibrioides	25.8	NAD+	*25&Acirc;&deg;C, pH 6.8
-KCAT	Caulobacter vibrioides	31	NAD+	*25&Acirc;&deg;C, pH 9.0
-KCAT	Caulobacter vibrioides	35.7	NAD+	*25&Acirc;&deg;C, pH 7.0
-KCAT	Caulobacter vibrioides	22.7	D-xylose	*25&Acirc;&deg;C, pH 9.0
-KCAT	Caulobacter vibrioides	26.2	D-xylose	*25&Acirc;&deg;C, pH 6.8
-KCAT	Caulobacter vibrioides	30.3	D-xylose	*25&Acirc;&deg;C, pH 7.0
-KCAT	Caulobacter vibrioides	22.3	L-arabinose	*25&Acirc;&deg;C, pH 6.8
-KCAT	Caulobacter vibrioides	24.2	L-arabinose	*25&Acirc;&deg;C, pH 9.0
-KCAT	Caulobacter vibrioides	29.2	L-arabinose	*25&Acirc;&deg;C, pH 7.0

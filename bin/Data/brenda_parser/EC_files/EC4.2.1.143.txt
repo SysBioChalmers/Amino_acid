@@ -1,2 +1,0 @@
-KCAT	Aspergillus parasiticus	2.1	versiconal	*pH 6.5, 37&Acirc;&deg;C
-KCAT	Aspergillus parasiticus	2.5	versiconal hemiacetal	*pH 6.5, 37&Acirc;&deg;C

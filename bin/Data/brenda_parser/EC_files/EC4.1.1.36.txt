@@ -1,1 +1,0 @@
-KCAT	Homo sapiens	2.9	(R)-4'-phospho-N-pantothenoylcysteine	*pH 7.6, 37&deg;C

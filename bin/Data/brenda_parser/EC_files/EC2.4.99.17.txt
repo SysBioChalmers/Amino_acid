@@ -1,3 +1,0 @@
-KCAT	Escherichia coli	0.042	7-aminomethyl-7-deazaguanine in tRNA(Tyr)	*in 100 mM glycylglycine (pH 8.7), 100 mM EDTA, 100 mM KCl, 0.5 mM dithiothreitol, at 37&deg;C
-KCAT	Escherichia coli	0.042	S-adenosyl-L-methionine	*in 100 mM glycylglycine (pH 8.7), 100 mM EDTA, 100 mM KCl, 0.5 mM dithiothreitol, at 37&deg;C
-KCAT	Escherichia coli	0.245	7-aminomethyl-7-deazaguanine in minihelix RNA	*in 100 mM glycylglycine (pH 8.7), 100 mM EDTA, 100 mM KCl, 0.5 mM dithiothreitol, at 37&deg;C

@@ -1,3 +1,0 @@
-KCAT	Homo sapiens	0.00528	Big endothelin-1	*pH 6.4, 37&deg;C, ECE-1a
-KCAT	Homo sapiens	0.097	Big endothelin-1	*pH 6.4, 37&deg;C, solECE-1
-KCAT	Homo sapiens	0.112	Big endothelin-1	*pH 6.8, 37&deg;C, ECE-1a

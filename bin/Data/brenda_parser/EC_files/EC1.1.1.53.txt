@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	0.004	progesterone	*wild type enzyme, at pH 7.4 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.039	progesterone	*mutant enzyme, at pH 7.4 and 37&Acirc;&deg;C
-KCAT	Streptomyces exfoliatus	6.67	progesterone	*NADH
-KCAT	Mycobacterium tuberculosis	72	progesterone	*pH 6.0, 30&Acirc;&deg;C, reaction with NADH
-KCAT	Mycobacterium tuberculosis	456	androsterone	*pH 6.0, 30&Acirc;&deg;C, reaction with NAD+
-KCAT	Homo sapiens	0.061	5alpha-dihydrotestosterone	*wild type enzyme, at pH 7.4 and 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.115	5alpha-dihydrotestosterone	*mutant enzyme, at pH 7.4 and 37&Acirc;&deg;C
-KCAT	Streptomyces exfoliatus	0.333	cortisone	*NADH
-KCAT	Mycobacterium tuberculosis	258	20beta-hydroxyprogesterone	*pH 6.0, 30&Acirc;&deg;C, reaction with NAD+

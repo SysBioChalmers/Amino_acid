@@ -1,4 +1,0 @@
-KCAT	Talaromyces pinophilus	2.9	Baicalin	*pH 4.5, 45&Acirc;&deg;C
-KCAT	Talaromyces pinophilus	6	glycyrrhizin	*pH 4.5, 45&Acirc;&deg;C
-KCAT	Talaromyces pinophilus	2.9	quercetin 3-O-beta-D-glucuronide	*pH 4.5, 45&Acirc;&deg;C
-KCAT	Talaromyces pinophilus	0.26	4-nitrophenyl beta-D-glucuronopyranoside	*pH 4.5, 45&Acirc;&deg;C

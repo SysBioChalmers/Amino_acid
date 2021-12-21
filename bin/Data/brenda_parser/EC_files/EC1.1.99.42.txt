@@ -1,5 +1,0 @@
-KCAT	Mesorhizobium loti	0.01	NAD+	*pH 8.0, temperature not specified in the publication
-KCAT	Mesorhizobium loti	11	4-pyridoxate	*pH 8.0, temperature not specified in the publication
-KCAT	Mesorhizobium loti	78	5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate	*mutant E149Q, pH 8.0, 30&deg;C
-KCAT	Mesorhizobium loti	217	5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate	*wild-type, pH 8.0, 30&deg;C
-KCAT	Mesorhizobium loti	300	5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate	*mutant E149Q, pH 5.0, 30&deg;C

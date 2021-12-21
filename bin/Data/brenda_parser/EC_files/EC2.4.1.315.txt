@@ -1,6 +1,0 @@
-KCAT	Mycoplasma genitalium	0.004	UDP-alpha-D-glucose	*acceptor 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol, pH 8.0, 28&Acirc;&deg;C
-KCAT	Mycoplasma genitalium	0.27	UDP-alpha-D-glucose	*acceptor 1,2-diacyl-sn-glycerol, pH 8.0, 28&Acirc;&deg;C
-KCAT	Mycoplasma genitalium	0.03	UDP-alpha-D-galactose	*acceptor 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol, pH 8.0, 28&Acirc;&deg;C
-KCAT	Mycoplasma genitalium	1.1	UDP-alpha-D-galactose	*acceptor 1,2-diacyl-sn-glycerol, pH 8.0, 28&Acirc;&deg;C
-KCAT	Mycoplasma genitalium	1.13	1,2-diacyl-sn-glycerol	*donor UDP-alpha-D-galactose, pH 8.0, 28&Acirc;&deg;C
-KCAT	Mycoplasma genitalium	0.023	1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol	*donor UDP-alpha-D-galactose, pH 8.0, 28&Acirc;&deg;C

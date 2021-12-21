@@ -1,6 +1,0 @@
-KCAT	Bacillus selenitireducens	0.43	kojibiose	*pH 5.5, 30&deg;C
-KCAT	Bacillus selenitireducens	1.7	beta-D-glucose 1-phosphate	*hydrolysis reaction, pH 7.5, 30&deg;C
-KCAT	Bacillus selenitireducens	2.8	beta-D-glucose 1-phosphate	*hydrolysis reaction, pH 6.0, 30&deg;C
-KCAT	Bacillus selenitireducens	95	2-O-alpha-D-glucosylglycerol	*pH 7.5, 30&deg;C
-KCAT	Bacillus selenitireducens	163	glycerol	*pH 7.5, 30&deg;C
-KCAT	Bacillus selenitireducens	180	beta-D-glucose 1-phosphate	*cosubstrate glycerol, pH 7.5, 30&deg;C

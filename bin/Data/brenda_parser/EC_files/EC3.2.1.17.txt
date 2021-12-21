@@ -1,2 +1,0 @@
-KCAT	Liolophura japonica	0.076	p-nitrophenyl-N,N',N'',N''',N''''-pentaacetylchitopentaose	*
-KCAT	Homo sapiens	0.015	p-nitrophenyl-GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta	*

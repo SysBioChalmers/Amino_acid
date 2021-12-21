@@ -1,3 +1,0 @@
-KCAT	Homo sapiens	0.04	Leu-4-methylcoumaryl-7-amide	*pH 7.5, 37&deg;C
-KCAT	Homo sapiens	9.18	Leu-4-methylcoumaryl-7-amide	*pH 7.5, 37&deg;C
-KCAT	Homo sapiens	12.4	S-benzyl-Cys-4-methylcoumaryl-7-amide	*pH 7.5, 37&deg;C

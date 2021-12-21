@@ -1,3 +1,0 @@
-KCAT	Rhizoctonia solani	20	methyl caffeate	*pH 6.0, 37&deg;C
-KCAT	Rhizoctonia solani	29.3	chlorogenic acid	*pH 6.0, 37&deg;C
-KCAT	Rhizoctonia solani	33.1	methyl p-coumarate	*pH 6.0, 37&deg;C

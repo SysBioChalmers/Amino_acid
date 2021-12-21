@@ -1,3 +1,0 @@
-KCAT	Gordonia terrae	5.75	ginsenoside Rg1	*recombinant enzyme, pH 6.5, 30&deg;C
-KCAT	Gordonia terrae	7.3	ginsenoside Re	*recombinant enzyme, pH 6.5, 30&deg;C
-KCAT	Gordonia terrae	6292	4-nitrophenyl-beta-D-glucopyranoside	*recombinant enzyme, pH 6.5, 30&deg;C

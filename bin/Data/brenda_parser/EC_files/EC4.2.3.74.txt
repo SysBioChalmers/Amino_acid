@@ -1,1 +1,0 @@
-KCAT	Botrytis cinerea	3.23	(2E,6E)-farnesyl diphosphate	*recombinant enzyme, in 50 mM PIPES, 10 mM MgCl2, 100 mM NaCl, pH 7.0, at 30&deg;C

@@ -1,3 +1,0 @@
-KCAT	Sphingobium chlorophenolicum	1.2	maleylacetate	*at pH 7.0 in 20 mM Tris-HCl
-KCAT	Pseudomonas sp.	13.9	maleylacetate	*
-KCAT	Pimelobacter simplex	114	maleylacetate	*

@@ -1,4 +1,0 @@
-KCAT	Pedobacter heparinus	0.004	hypoxanthine-containing double-stranded DNA	*T/hypoxanthine pairing, pH 7.5, 37&deg;C
-KCAT	Pedobacter heparinus	0.026	uracil-containing double-stranded DNA	*A/U pairing, pH 7.5, 37&deg;C
-KCAT	Pedobacter heparinus	0.059	xanthine-containing double-stranded DNA	*C/xanthine pairing, pH 7.5, 37&deg;C
-KCAT	Pedobacter heparinus	0.57	uracil-containing double-stranded DNA	*G/U pairing, pH 7.5, 37&deg;C

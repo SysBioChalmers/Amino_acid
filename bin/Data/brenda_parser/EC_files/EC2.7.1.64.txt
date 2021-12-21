@@ -1,8 +1,0 @@
-KCAT	Thermococcus kodakarensis	1.5	D-tagatose	*at pH 7.5 and 85&deg;C
-KCAT	Thermococcus kodakarensis	3.9	D-Lyxose	*at pH 7.5 and 85&deg;C
-KCAT	Thermococcus kodakarensis	5.1	D-ribose	*at pH 7.5 and 85&deg;C
-KCAT	Thermococcus kodakarensis	5.6	D-xylose	*at pH 7.5 and 85&deg;C
-KCAT	Thermococcus kodakarensis	11.6	D-xylulose	*at pH 7.5 and 85&deg;C
-KCAT	Thermococcus kodakarensis	13.1	D-talose	*at pH 7.5 and 85&deg;C
-KCAT	Thermococcus kodakarensis	18.3	D-allose	*at pH 7.5 and 85&deg;C
-KCAT	Thermococcus kodakarensis	23.2	myo-inositol	*at pH 7.5 and 85&deg;C

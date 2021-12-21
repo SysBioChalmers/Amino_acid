@@ -1,5 +1,0 @@
-KCAT	Homo sapiens	-999	more	*
-KCAT	Oryctolagus cuniculus	2	K+	*predicted, in the presence of 5.6 mM external K+
-KCAT	Oryctolagus cuniculus	3	K+	*predicted, in the presence of 15 mM external K+
-KCAT	Octopus bimaculatus	20.1	Na+/in	*maximum turnover rate per pump, pH not specified in the publication, 22&deg;C
-KCAT	Pareledone sp.	25.5	Na+/in	*maximum turnover rate per pump, pH not specified in the publication, 22&deg;C

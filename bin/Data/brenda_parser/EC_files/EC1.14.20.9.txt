@@ -1,2 +1,0 @@
-KCAT	Erwinia amylovora	0.22	2-oxoglutarate	*pH 7.8, 25&deg;C
-KCAT	Pseudomonas aeruginosa	2.3	2-oxoglutarate	*pH 7.8, 25&deg;C

@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	0.113	GTP	*pH 7.5, 22&deg;C
-KCAT	Escherichia coli	0.604	ATP	*pH 7.5, 22&deg;C

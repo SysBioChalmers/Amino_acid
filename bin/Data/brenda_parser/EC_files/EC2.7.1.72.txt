@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	1.7	ATP	*at pH 7.5 and 25&deg;C
-KCAT	Escherichia coli	1.7	streptomycin	*at pH 7.5 and 25&deg;C

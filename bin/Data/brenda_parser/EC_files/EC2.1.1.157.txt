@@ -1,4 +1,0 @@
-KCAT	Methanohalophilus portucalensis	0.44	sarcosine	*pH 7.2, 37&Acirc;&deg;C
-KCAT	Galdieria sulphuraria	1.07	sarcosine	*
-KCAT	Galdieria sulphuraria	1.4	N,N-dimethylglycine	*
-KCAT	Methanohalophilus portucalensis	2.68	N,N-dimethylglycine	*pH 7.2, 37&Acirc;&deg;C

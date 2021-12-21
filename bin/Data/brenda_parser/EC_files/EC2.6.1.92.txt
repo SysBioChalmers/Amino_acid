@@ -1,1 +1,0 @@
-KCAT	Campylobacter jejuni	0.067	UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hex-4-ulose	*pH 7.7, 37&deg;C

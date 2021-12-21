@@ -1,1 +1,0 @@
-KCAT	Marinobacter hydrocarbonoclasticus	4794	hexadecanol	*pH 7.4, 37&Acirc;&deg;C, isozyme WS2

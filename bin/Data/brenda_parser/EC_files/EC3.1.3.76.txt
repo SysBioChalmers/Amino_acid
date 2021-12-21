@@ -1,9 +1,0 @@
-KCAT	Homo sapiens	0.0061	4-nitrophenyl phosphate	*pH 7.8, 37&Acirc;&deg;C, recombinant wild-type enzyme
-KCAT	Homo sapiens	0.013	4-nitrophenyl phosphate	*pH 7.8, 37&Acirc;&deg;C, recombinant wild-type N-terminal domain
-KCAT	Rattus norvegicus	0.84	4-nitrophenyl phosphate	*pH 7.8, 37&Acirc;&deg;C, native enzyme
-KCAT	Rattus norvegicus	1.61	4-nitrophenyl phosphate	*pH 7.8, 37&Acirc;&deg;C, recombinant enzyme
-KCAT	Homo sapiens	0.25	farnesyl diphosphate	*recombinant enzyme
-KCAT	Homo sapiens	0.13	geranylgeranyl diphosphate	*recombinant enzyme
-KCAT	Homo sapiens	1.85	geranylgeranyl phosphate	*recombinant enzyme
-KCAT	Homo sapiens	0.51	geranyl phosphate	*recombinant enzyme
-KCAT	Homo sapiens	0.71	farnesyl phosphate	*recombinant enzyme

@@ -1,1 +1,0 @@
-ecNumber*2.7.7.92#turnoverNumber*1.02#turnoverNumberMaximum*#substrate*CTP#commentary*pH 7.5, 25&Acirc;&deg;C#organism*Bacteroides thetaiotaomicron#ligandStructureId*60#literature*738039#

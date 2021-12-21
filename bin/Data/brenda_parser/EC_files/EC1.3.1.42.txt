@@ -1,7 +1,0 @@
-KCAT	Oryza sativa	6.94	2-Cyclohexen-1-ol	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Oryza sativa	8.65	2-Cyclohexen-1-ol	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Oryza sativa	9.58	2-Cyclohexen-1-ol	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Oryza sativa	9.65	2-Cyclohexen-1-ol	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Oryza sativa	10.22	2-Cyclohexen-1-ol	*pH 7.5, 25&Acirc;&deg;C
-KCAT	Solanum lycopersicum	14	trans-hex-2-enal	*
-KCAT	Solanum lycopersicum	-999	more	*for oxidative half-reaction, kox of trans-hex-2-2enal is 0.3 per sec

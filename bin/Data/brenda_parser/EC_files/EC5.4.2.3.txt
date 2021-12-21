@@ -1,3 +1,0 @@
-KCAT	Arabidopsis thaliana	40.43	alpha-D-glucose 1-phosphate	*at pH 7.0 and 30&Acirc;&deg;C
-KCAT	Homo sapiens	1.79	N-acetyl-alpha-D-glucosamine	*
-KCAT	Homo sapiens	2.94	N-acetyl-alpha-D-glucosamine	*

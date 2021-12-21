@@ -1,2 +1,0 @@
-KCAT	Homo sapiens	0.973	Ethionamide	*isozyme FMO3, at pH 9.5 and 37&Acirc;&deg;C
-KCAT	Mus musculus	1.01	Ethionamide	*isozyme FMO3, at pH 9.5 and 37&Acirc;&deg;C

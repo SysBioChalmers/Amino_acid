@@ -1,5 +1,0 @@
-KCAT	Homo sapiens	-999	more	*
-KCAT	Cupriavidus metallidurans	0.0046	3-Hydroxyanthranilate	*pH 7.2, mutant enzyme R99A
-KCAT	Cupriavidus metallidurans	0.012	3-Hydroxyanthranilate	*pH 7.2, mutant enzyme E110A
-KCAT	Cupriavidus metallidurans	0.022	3-Hydroxyanthranilate	*pH 7.2, mutant enzyme R47A
-KCAT	Cupriavidus metallidurans	25	3-Hydroxyanthranilate	*pH 7.2, wild-type enzyme

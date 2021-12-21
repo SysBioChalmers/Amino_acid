@@ -1,4 +1,0 @@
-KCAT	Homo sapiens	-999	more	*
-KCAT	Escherichia coli	0.0217	S-adenosyl-L-methionine	*
-KCAT	Escherichia coli	0.0367	S-adenosyl-L-methionine	*
-KCAT	Escherichia coli	8.33	5-methyltetrahydrofolate	*

@@ -1,6 +1,0 @@
-KCAT	Sulfolobus acidocaldarius	0.0067	geranylgeranyl diphosphate	*wild-type enzyme, pH 5.5, 50&deg;C
-KCAT	Sulfolobus acidocaldarius	0.0088	geranylgeranyl diphosphate	*mutant I206F, pH 5.5, 50&deg;C
-KCAT	Sulfolobus acidocaldarius	0.013	geranylgeranyl diphosphate	*mutant F219L, pH 5.5, 50&deg;C
-KCAT	Sulfolobus acidocaldarius	0.0138	geranylgeranyl diphosphate	*mutant G91H, pH 5.5, 50&deg;C
-KCAT	Sulfolobus acidocaldarius	0.0156	geranylgeranyl diphosphate	*mutant L377H, pH 5.5, 50&deg;C
-KCAT	Sulfolobus acidocaldarius	0.0158	geranylgeranyl diphosphate	*mutant I206F/L377H, pH 5.5, 50&deg;C

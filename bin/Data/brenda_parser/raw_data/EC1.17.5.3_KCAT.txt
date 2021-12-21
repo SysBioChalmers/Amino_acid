@@ -1,1 +1,0 @@
-ecNumber*1.17.5.3#turnoverNumber*563#turnoverNumberMaximum*#substrate*formate#commentary*30&Acirc;&deg;C, per mol of heme#organism*Escherichia coli#ligandStructureId*120#literature*698681#

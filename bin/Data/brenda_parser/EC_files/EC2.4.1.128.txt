@@ -1,4 +1,0 @@
-KCAT	Arabidopsis thaliana	0.06	scopoletin	*wild type, 50 mM Tris-HCl, pH 7.0, 14 mM 2-mercaptoethanol, 30&deg;C
-KCAT	Arabidopsis thaliana	1.11	scopoletin	*71C1/71C3 chimera including N-terminus of 71C1 (position 1-261) and C-terminus of 71C3 (position 256-476), 50 mM Tris-HCl, pH 7.0, 14 mM 2-mercaptoethanol, 30&deg;C; 71C1/71C3 chimera including N-terminus of 71C1 (position 1-261) and C-terminus of 71C3 (position 256-476), 50 mM Tris-HCl, pH 7.0, 14 mM 2-mercaptoethanol, 30&deg;C
-KCAT	Arabidopsis thaliana	10.07	scopoletin	*71C1 double mutant, 50 mM Tris-HCl, pH 7.0, 14 mM 2-mercaptoethanol, 30&deg;C
-KCAT	Arabidopsis thaliana	10.92	scopoletin	*wild type, 50 mM Tris-HCl, pH 7.0, 14 mM 2-mercaptoethanol, 30&deg;C

@@ -1,2 +1,0 @@
-KCAT	Leucosceptrum canum	0.0000082	isopentenyl diphosphate	*pH 7.5, 30&Acirc;&deg;C
-KCAT	Leucosceptrum canum	0.00000517	geranylgeranyl diphosphate	*pH 7.5, 30&Acirc;&deg;C

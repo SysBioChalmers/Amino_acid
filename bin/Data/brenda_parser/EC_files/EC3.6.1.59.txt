@@ -1,2 +1,0 @@
-KCAT	Saccharomyces cerevisiae	0.0017	7-methylguanosine 5'-diphosphate	*pH 7.0, 30&deg;C, Dcs1 homodimer
-KCAT	Saccharomyces cerevisiae	0.012	m7G5'ppp5'G	*pH 7.0, 30&deg;C, Dcs1 homodimer

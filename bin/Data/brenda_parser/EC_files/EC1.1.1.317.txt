@@ -1,2 +1,0 @@
-KCAT	Rauvolfia serpentina	8.26	4-nitrobenzaldehyde	*pH 8.5, 37&Acirc;&deg;C
-KCAT	Rauvolfia serpentina	0.014	perakine	*pH 8.5, 37&Acirc;&deg;C

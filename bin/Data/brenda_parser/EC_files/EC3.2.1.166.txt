@@ -1,1 +1,0 @@
-KCAT	Homo sapiens	3.5	methyl 2-deoxy-6-O-sulfo-2-(sulfoamino)-alpha-D-glucopyranosyl-(1,4)-beta-D-glucopyranuronosyl-(1,4)-2-deoxy-3,6-di-O-sulfo-2-(sulfoamino)-D-glucopyranosyl-(1,4)-2-O-sulfo-alpha-L-idopyranuronosyl-(1,4)-2-deoxy-6-O-sulfo-2-(sulfoamino)-alpha-D-glucopyranoside	*pH 5.0, 37&Acirc;&deg;C, i.e. fondaparinux

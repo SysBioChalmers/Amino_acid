@@ -1,2 +1,0 @@
-KCAT	Salipiger bermudensis	5.3	L-proline betaine	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Salipiger bermudensis	330	trans-4-hydroxy-L-proline betaine	*pH not specified in the publication, temperature not specified in the publication

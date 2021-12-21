@@ -1,2 +1,0 @@
-KCAT	Methanothermobacter marburgensis	1462	5,10-methylenetetrahydromethanopterin	*pH 6.5, 60&Acirc;&deg;C
-KCAT	Methanothermobacter marburgensis	975	5,10-methenyltetrahydromethanopterin	*pH 7.5, 60&Acirc;&deg;C

@@ -1,5 +1,0 @@
-KCAT	Pasteurella multocida	7.9	hyaluronan oligomer HA4	*with UDP-alpha-N-acetyl-D-glucosamine, pH 8.0, 35&deg;C, recombinant enzyme
-KCAT	Pasteurella multocida	7.9	hyaluronan oligomer HA5	*with UDP-alpha-D-glucuronate, pH 8.0, 35&deg;C, recombinant enzyme
-KCAT	Pasteurella multocida	8.8	hyaluronan oligomer HA8	*with UDP-alpha-N-acetyl-D-glucosamine, pH 8.0, 35&deg;C, recombinant enzyme
-KCAT	Pasteurella multocida	13.5	hyaluronan oligomer HA6	*with UDP-alpha-N-acetyl-D-glucosamine, pH 8.0, 35&deg;C, recombinant enzyme
-KCAT	Streptococcus dysgalactiae subsp. equisimilis	120	UDP-D-glucuronate	*recombinant enzyme, pH 7.0, 30&deg;C

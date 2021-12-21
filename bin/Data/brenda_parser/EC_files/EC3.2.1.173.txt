@@ -1,3 +1,0 @@
-KCAT	Aspergillus aculeatus	1.5	alpha-D-GalA-[(1-&gt;2)-alpha-L-Rha-(1-&gt;4)-alpha-D-GalA-]3-(1-&gt;2)-alpha-L-Rha	*40&deg;C, pH 5.0
-KCAT	Aspergillus aculeatus	1.8	alpha-D-GalA-[(1-&gt;2)-alpha-L-Rha-(1-&gt;4)-alpha-D-GalA-]5-(1-&gt;2)-alpha-L-Rha	*40&deg;C, pH 5.0
-KCAT	Aspergillus aculeatus	2.4	alpha-D-GalA-[(1-&gt;2)-alpha-L-Rha-(1-&gt;4)-alpha-D-GalA-]2-(1-&gt;2)-alpha-L-Rha	*40&deg;C, pH 5.0

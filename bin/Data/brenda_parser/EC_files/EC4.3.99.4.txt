@@ -1,6 +1,0 @@
-KCAT	Desulfovibrio alaskensis	0.036	choline	*pH 8.0, 21&Acirc;&deg;C, mutant enzyme T502A
-KCAT	Desulfovibrio alaskensis	0.15	choline	*pH 8.0, 21&Acirc;&deg;C, mutant enzyme Y208F/Y506F
-KCAT	Desulfovibrio alaskensis	0.73	choline	*pH 8.0, 21&Acirc;&deg;C, mutant enzyme Y208F
-KCAT	Desulfovibrio alaskensis	3.27	choline	*pH 8.0, 21&Acirc;&deg;C, mutant enzyme Y506F
-KCAT	Desulfovibrio alaskensis	157	choline	*pH 8.0, 21&Acirc;&deg;C, wild-type enzyme
-KCAT	Desulfovibrio alaskensis	747	choline	*calculated from the EPR activation measurement, recombinant enzyme, pH 8.0, temperature not specified in the publication

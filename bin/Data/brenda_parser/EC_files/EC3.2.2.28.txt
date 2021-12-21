@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	0.0028	uracil-mismatched double-stranded DNA	*
-KCAT	Escherichia coli	0.016	3,N4-ethenocytosine-mismatched double-stranded DNA	*

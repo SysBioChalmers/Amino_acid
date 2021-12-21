@@ -1,3 +1,0 @@
-KCAT	Geobacillus thermodenitrificans	4808	NADPH	*cosubstrate octanal, pH 8.0, 60&Acirc;&deg;C
-KCAT	Geobacillus thermodenitrificans	38.5	NAD+	*cosubstrate 1-octanol, pH 8.0, 60&Acirc;&deg;C
-KCAT	Geobacillus thermodenitrificans	283.1	NADP+	*cosubstrate 1-octanol, pH 8.0, 60&Acirc;&deg;C

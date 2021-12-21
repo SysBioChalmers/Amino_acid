@@ -1,4 +1,0 @@
-KCAT	Bacillus subtilis	0.12	CDP-glycerol	*mutant enzyme D630A
-KCAT	Bacillus subtilis	0.167	CDP-glycerol	*mutant enzyme E604A; mutant enzyme E639A
-KCAT	Bacillus subtilis	0.217	CDP-glycerol	*mutant enzyme D645A
-KCAT	Bacillus subtilis	0.233	CDP-glycerol	*wild-type enzyme

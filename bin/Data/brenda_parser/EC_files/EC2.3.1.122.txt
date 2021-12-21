@@ -1,1 +1,0 @@
-KCAT	Mycolicibacterium smegmatis	1.09	alpha,alpha-trehalose 6-monomycolate	*pH 5.7, 37&Acirc;&deg;C

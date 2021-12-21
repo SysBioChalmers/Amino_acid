@@ -1,3 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.0023	[prokaryotic ubiquitin-like protein]-L-glutamate	*pH 8.0, 30&deg;C
-KCAT	Mycolicibacterium smegmatis	0.014	[IdeR]-L-lysine	*pH 7.5, 30&deg;C, recombinant His-tagged enzyme
-KCAT	Mycobacterium tuberculosis	0.023	[protein PanB]-L-lysine	*pH 8,0, 30&deg;C

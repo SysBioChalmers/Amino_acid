@@ -1,2 +1,0 @@
-KCAT	Mycolicibacterium thermoresistibile	0.85	hercynine	*pH 8.0, 26&Acirc;&deg;C, recombinant enzyme mutant Y377F
-KCAT	Mycolicibacterium thermoresistibile	1.2	hercynine	*pH 6.0, 26&Acirc;&deg;C, recombinant enzyme mutant Y377F

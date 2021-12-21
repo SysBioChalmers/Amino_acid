@@ -1,3 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.02	(S)-methylmalonyl-CoA	*mutant enzyme S726F, at pH 7.0 and 30&deg;C
-KCAT	Mycobacterium tuberculosis	0.102	malonyl-CoA	*mutant enzyme S726F, at pH 7.0 and 30&deg;C
-KCAT	Mycobacterium tuberculosis	0.22	(S)-methylmalonyl-CoA	*wild type enzyme, at pH 7.0 and 30&deg;C

@@ -1,4 +1,0 @@
-KCAT	Staphylococcus aureus	0.00007	S-adenosyl-L-methionine	*mutant D198A, pH 7.6, 25&deg;C
-KCAT	Staphylococcus aureus	0.00008	GTP	*mutant D198A, pH 7.6, 25&deg;C
-KCAT	Staphylococcus aureus	0.0007	GTP	*wild-type, pH 7.6, 25&deg;C
-KCAT	Staphylococcus aureus	0.00075	S-adenosyl-L-methionine	*wild-type, pH 7.6, 25&deg;C

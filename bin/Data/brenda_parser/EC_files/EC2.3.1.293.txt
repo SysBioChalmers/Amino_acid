@@ -1,4 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.075	C20:0-[acyl-carrier protein from Escherichia coli]	*at pH 6.8 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.08	malonyl-[acyl-carrier protein from Escherichia coli]	*at pH 6.8 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.088	palmitoyl-[acyl-carrier protein from Escherichia coli]	*at pH 6.8 and 37&deg;C
-KCAT	Mycobacterium tuberculosis	0.533	palmitoyl-[acyl-carrier protein AcpM]	*at pH 8.5 and 25&deg;C

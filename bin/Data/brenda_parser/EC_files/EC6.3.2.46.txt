@@ -1,2 +1,0 @@
-KCAT	Pantoea agglomerans	3.8	succinate	*pH 8.0, 22&deg;C
-KCAT	Pantoea agglomerans	11.6	fumarate	*pH 8.0, 22&deg;C

@@ -1,5 +1,0 @@
-KCAT	Agrobacterium tumefaciens	0.92	2-carboxy-2,5-dihydro-5-oxofuran-2-acetate	*pH 8.0, 30&Acirc;&deg;C
-KCAT	Hydrogenophaga intermedia	1.22	2-carboxy-2,5-dihydro-5-oxofuran-2-acetate	*pH 8.0, 30&Acirc;&deg;C
-KCAT	Agrobacterium tumefaciens	1415	2-carboxy-2,5-dihydro-5-oxofuran-2-acetate	*
-KCAT	Agrobacterium tumefaciens	20.9	3-sulfomuconate	*pH 8.0, 30&Acirc;&deg;C
-KCAT	Hydrogenophaga intermedia	42.7	3-sulfomuconate	*pH 8.0, 30&Acirc;&deg;C

@@ -1,4 +1,0 @@
-KCAT	Ranunculus acris	67.7	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid	*pH 7.5, 25&deg;C
-KCAT	Ranunculus acris	134	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienate	*pH 7.5, 25&deg;C
-KCAT	Selaginella moellendorffii	193.5	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid	*pH 7.5, 25&deg;C, recombinant enzyme
-KCAT	Selaginella moellendorffii	266.7	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid	*pH 7.5, 25&deg;C, recombinant enzyme

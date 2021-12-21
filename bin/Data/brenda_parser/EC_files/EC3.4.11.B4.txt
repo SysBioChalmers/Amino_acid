@@ -1,9 +1,0 @@
-KCAT	Pyrococcus horikoshii	0.18	Ala-Ala	*pH 7.5, 85&Acirc;&deg;C
-KCAT	Pyrococcus horikoshii	0.091	Ala-Ala-Ala	*pH 7.5, 85&Acirc;&deg;C, mutant enzyme D173N, medium containing 8 mM Co2+
-KCAT	Pyrococcus horikoshii	0.093	Ala-Ala-Ala	*pH 7.5, 85&Acirc;&deg;C, mutant enzyme E205Q, medium containing 8 mM Co2+
-KCAT	Pyrococcus horikoshii	0.226	Ala-Ala-Ala	*pH 7.5, 85&Acirc;&deg;C, mutant enzyme E206Q, medium containing 8 mM Co2+
-KCAT	Pyrococcus horikoshii	2.08	Ala-Ala-Ala	*pH 7.5, 85&Acirc;&deg;C, wild-type enzyme, medium without Co2+
-KCAT	Pyrococcus horikoshii	8.71	Ala-Ala-Ala	*pH 7.5, 85&Acirc;&deg;C
-KCAT	Pyrococcus horikoshii	9.01	Ala-Ala-Ala	*pH 7.5, 85&Acirc;&deg;C, wild-type enzyme, medium containing 2 mM Co2+
-KCAT	Pyrococcus horikoshii	0.116	N-acetyl-L-leucyl 4-nitroanilide	*pH 7.5, 85&Acirc;&deg;C
-KCAT	Pyrococcus horikoshii	0.022	N-acetyl-L-alanyl 4-nitroanilide	*pH 7.5, 85&Acirc;&deg;C

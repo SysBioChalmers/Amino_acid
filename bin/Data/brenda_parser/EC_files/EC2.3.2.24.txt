@@ -1,6 +1,0 @@
-KCAT	Oryctolagus cuniculus	0.001	[histone H2A]-L-lysine	*E2 enzyme of 20 kDa, pH 7.5, 37&deg;C
-KCAT	Oryctolagus cuniculus	0.0013	[histone H2A]-L-lysine	*E2 enzyme of 32 kDa, pH 7.5, 37&deg;C
-KCAT	Oryctolagus cuniculus	0.0022	[histone H2B]-L-lysine	*E2 enzyme of 20 kDa, pH 7.5, 37&deg;C
-KCAT	Oryctolagus cuniculus	0.003	[histone H3]-L-lysine	*pH 7.0, 37&deg;C, Vmax, 0.06 microM
-KCAT	Oryctolagus cuniculus	0.0033	[histone H2B]-L-lysine	*E2 enzyme of 32 kDa, pH 7.5, 37&deg;C
-KCAT	Oryctolagus cuniculus	0.00617	[cytochrome c]-L-lysine	*pH 7.0, 37&deg;C, Vmax, 0.12 microM

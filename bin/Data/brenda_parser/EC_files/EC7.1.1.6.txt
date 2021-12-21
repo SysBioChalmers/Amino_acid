@@ -1,9 +1,0 @@
-KCAT	Trichormus variabilis	0.333	cytochrome c1	*
-KCAT	Trichormus variabilis	-999	more	*
-KCAT	Spinacia oleracea	-999	more	*
-KCAT	Spinacia oleracea	-999	more	*
-KCAT	Trichormus variabilis	-999	more	*
-KCAT	Lactuca sp.	-999	more	*turnover number with several plastoquinol analogues
-KCAT	Chlamydomonas reinhardtii	4.17	cytochrome f	*with plastocyanin as acceptor
-KCAT	Spinacia oleracea	14	cytochrome f	*
-KCAT	Spinacia oleracea	14	cytochrome f	*

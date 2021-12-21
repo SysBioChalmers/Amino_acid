@@ -1,1 +1,0 @@
-KCAT	Saccharopolyspora erythraea	0.033	methylmalonyl-CoA	*pH 7.6, temperature not specified in the publication

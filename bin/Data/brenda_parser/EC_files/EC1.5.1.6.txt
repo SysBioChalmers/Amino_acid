@@ -1,5 +1,0 @@
-KCAT	Oryctolagus cuniculus	0.867	10-formyltetrahydropteroylpentaglutamate	*with excess substrate, reaction cycle in combination with C1-tetrahydrofolate synthase, lower value than for dehydrogenase alone
-KCAT	Oryctolagus cuniculus	0.9	10-formyltetrahydropteroylpentaglutamate	*at 30&deg;C
-KCAT	Oryctolagus cuniculus	0.967	10-formyltetrahydrofolate	*
-KCAT	Sus scrofa	1	10-formyltetrahydrofolate	*
-KCAT	Danio rerio	97	10-formyltetrahydrofolate	*30&deg;C, pH not specified in the publication, full-length recombinant enzyme

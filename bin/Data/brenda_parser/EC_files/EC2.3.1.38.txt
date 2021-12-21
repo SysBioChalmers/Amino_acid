@@ -1,5 +1,0 @@
-KCAT	Streptomyces collinus	0.0225	acetyl-CoA	*recombinant wild-type, crude Streptomyces glaucescens [acyl-carrier-protein]
-KCAT	Streptomyces collinus	0.0508	acetyl-CoA	*native wild-type, crude E. coli [acyl-carrier-protein]
-KCAT	Rattus norvegicus	1.9	acetyl-CoA	*recombinant purified wild-type enzyme
-KCAT	Rattus norvegicus	3.4	acetyl-CoA	*recombinant purified mutant R606K
-KCAT	Rattus norvegicus	4.2	acetyl-CoA	*recombinant purified mutant R606A

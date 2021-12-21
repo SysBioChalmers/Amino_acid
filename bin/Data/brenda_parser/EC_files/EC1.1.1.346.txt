@@ -1,7 +1,0 @@
-KCAT	Corynebacterium sp.	2.2	NADPH	*mutant enzyme F22Y/S233T/R235S/R238H/A272G, in 100 mM Bis-Tris, pH 7.0, at 25&Acirc;&deg;C
-KCAT	Corynebacterium sp.	3.3	NADPH	*mutant enzyme F22Y/A272G, in 100 mM Bis-Tris, pH 7.0, at 25&Acirc;&deg;C
-KCAT	Corynebacterium sp.	7	NADPH	*mutant enzyme F22Y/K232G/R235G/R238H/A272G, in 100 mM Bis-Tris, pH 7.0, at 25&Acirc;&deg;C
-KCAT	Corynebacterium sp.	7.3	NADPH	*mutant enzyme K232G/R238H, in 100 mM Bis-Tris, pH 7.0, at 25&Acirc;&deg;C
-KCAT	Corynebacterium sp.	18.3	NADPH	*mutant enzyme F22Y/K232G/R238H/A272G, in 100 mM Bis-Tris, pH 7.0, at 25&Acirc;&deg;C; wild type enzyme, in 100 mM Bis-Tris, pH 7.0, at 25&Acirc;&deg;C
-KCAT	Corynebacterium sp.	8.3	2,5-didehydro-D-gluconate	*at pH 6.4 and 25&Acirc;&deg;C
-KCAT	Escherichia coli	2.6	ethyl 2-methylacetoacetate	*at pH 7.0 and 30&Acirc;&deg;C

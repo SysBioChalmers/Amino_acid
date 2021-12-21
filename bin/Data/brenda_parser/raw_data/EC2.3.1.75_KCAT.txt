@@ -1,1 +1,0 @@
-ecNumber*2.3.1.75#turnoverNumber*4794#turnoverNumberMaximum*#substrate*hexadecanol#commentary*pH 7.4, 37&Acirc;&deg;C, isozyme WS2#organism*Marinobacter hydrocarbonoclasticus#ligandStructureId*1379#literature*674328#

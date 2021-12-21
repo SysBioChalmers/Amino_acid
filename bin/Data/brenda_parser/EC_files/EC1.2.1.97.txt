@@ -1,2 +1,0 @@
-KCAT	Pseudomonas putida	11.4	(2S)-3-sulfolactaldehyde	*with NADP+ as cosubstrate, in 50 mM Tris-HCl (pH 7.5), temperature not specified in the publication
-KCAT	Pseudomonas putida	11.8	(2S)-3-sulfolactaldehyde	*with NAD+ as cosubstrate, in 50 mM Tris-HCl (pH 7.5), temperature not specified in the publication

@@ -1,4 +1,0 @@
-KCAT	Metallosphaera sedula	0.24	4-hydroxybutanoate	*pH 7.9, 75&Acirc;&deg;C
-KCAT	Metallosphaera sedula	1.8	4-hydroxybutanoate	*pH 7.9, 75&Acirc;&deg;C
-KCAT	Metallosphaera sedula	1.8	4-hydroxybutanoate	*pH 7.5, 70&Acirc;&deg;C
-KCAT	Metallosphaera sedula	2.5	4-hydroxybutanoate	*pH 7.9, 75&Acirc;&deg;C, mutant enzyme W424G

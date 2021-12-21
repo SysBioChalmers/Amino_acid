@@ -1,2 +1,0 @@
-KCAT	Thermococcus kodakarensis	204	ADP	*pH 7.5, 85&Acirc;&deg;C
-KCAT	Thermococcus kodakarensis	218	L-serine	*pH 7.5, 85&Acirc;&deg;C

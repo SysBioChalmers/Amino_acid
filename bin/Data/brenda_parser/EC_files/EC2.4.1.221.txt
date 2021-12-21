@@ -1,2 +1,0 @@
-KCAT	Homo sapiens	2.4	GDP-fucose	*pH and temperature not specified in the publication
-KCAT	Homo sapiens	2.4	TSR4	*pH and temperature not specified in the publication

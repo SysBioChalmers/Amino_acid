@@ -1,3 +1,0 @@
-KCAT	Thiobacillus thioparus	2	Methacrylonitrile	*mutant enzyme R136W, at pH 7.5 and 27&deg;C
-KCAT	Thiobacillus thioparus	2.1	Methacrylonitrile	*mutant enzyme R90F, at pH 7.5 and 27&deg;C
-KCAT	Thiobacillus thioparus	57	Methacrylonitrile	*wild type enzyme, at pH 7.5 and 27&deg;C

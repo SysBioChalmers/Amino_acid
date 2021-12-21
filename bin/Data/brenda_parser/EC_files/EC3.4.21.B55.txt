@@ -1,3 +1,0 @@
-KCAT	Pyrococcus furiosus	1726	succinyl-AAPK-4-nitroanilide	*90&deg;C, pH 7.5
-KCAT	Pyrococcus furiosus	1893	succinyl-Ala-Ala-Pro-Lys-4-nitroanilide	*pH 7.5, 90&deg;C, mature enzyme lacking the C-terminal extension (mPlsDELTAC740)
-KCAT	Pyrococcus furiosus	3128	succinyl-Ala-Ala-Pro-Lys-4-nitroanilide	*pH 7.5, 90&deg;C, mature enzyme

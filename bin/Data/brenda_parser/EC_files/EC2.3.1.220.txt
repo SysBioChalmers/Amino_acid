@@ -1,6 +1,0 @@
-KCAT	Hypericum androsaemum	0.0068	benzoyl-CoA	*pH 7.0, 35&deg;C, mutant T135L enzyme
-KCAT	Hypericum androsaemum	0.0068	malonyl-CoA	*pH 7.0, 35&deg;C, mutant T135L enzyme
-KCAT	Garcinia mangostana	0.0495	benzoyl-CoA	*pH 7.0, 30&deg;C
-KCAT	Hypericum androsaemum	0.055	benzoyl-CoA	*pH 7.0, 35&deg;C, wild-type enzyme
-KCAT	Hypericum androsaemum	0.055	malonyl-CoA	*pH 7.0, 35&deg;C, wild-type enzyme
-KCAT	Garcinia mangostana	0.0582	malonyl-CoA	*pH 7.0, 30&deg;C

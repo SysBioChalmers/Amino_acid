@@ -1,8 +1,0 @@
-KCAT	Saccharomyces cerevisiae	0.0017	histone	*Rtt109
-KCAT	Saccharomyces cerevisiae	0.0019	histone	*Esa1
-KCAT	Saccharomyces cerevisiae	0.13	histone	*Rtt109 in complex with chaperone Vps75
-KCAT	Saccharomyces cerevisiae	1.6	histone	*Esa1 in piccolo NuA4-complex
-KCAT	Saccharomyces cerevisiae	1.7	histone	*Gcn5
-KCAT	Saccharomyces cerevisiae	4.1	histone peptide	*p300
-KCAT	Salmonella enterica	4.3	acetyl-CoA	*K0.5, pH 7.0, 37&deg;C
-KCAT	Salmonella enterica	8	Acs (AMP forming)	*pH 7.0, 37&deg;C

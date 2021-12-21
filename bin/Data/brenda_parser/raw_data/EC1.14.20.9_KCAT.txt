@@ -1,1 +1,0 @@
-ecNumber*1.14.20.9#turnoverNumber*0.22#turnoverNumberMaximum*#substrate*2-oxoglutarate#commentary*pH 7.8, 25&deg;C#organism*Erwinia amylovora#ligandStructureId*34#literature*744334#!ecNumber*1.14.20.9#turnoverNumber*2.3#turnoverNumberMaximum*#substrate*2-oxoglutarate#commentary*pH 7.8, 25&deg;C#organism*Pseudomonas aeruginosa#ligandStructureId*34#literature*744334#

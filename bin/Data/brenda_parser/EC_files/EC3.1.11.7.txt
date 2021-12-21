@@ -1,2 +1,0 @@
-KCAT	Homo sapiens	0.38	adenosine-5'-diphospho-5'-[DNA]	*nicked DNA substrate, pH 7.5, 25-37&deg;C, recombinant His-tagged wild-type enzyme
-KCAT	Homo sapiens	0.51	adenosine-5'-diphospho-5'-[DNA]	*blunt DNA substrate, pH 7.5, 25-37&deg;C, recombinant His-tagged wild-type enzyme

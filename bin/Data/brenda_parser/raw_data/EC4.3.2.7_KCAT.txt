@@ -1,1 +1,0 @@
-ecNumber*4.3.2.7#turnoverNumber*0.13#turnoverNumberMaximum*#substrate*glutathione#commentary*pH 8..0, 37&Acirc;&deg;C#organism*Mus musculus#ligandStructureId*44#literature*742910#!ecNumber*4.3.2.7#turnoverNumber*0.27#turnoverNumberMaximum*#substrate*glutathione#commentary*pH 8.0, 37&Acirc;&deg;C#organism*Homo sapiens#ligandStructureId*44#literature*742910#

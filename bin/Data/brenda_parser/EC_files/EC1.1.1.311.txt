@@ -1,4 +1,0 @@
-KCAT	Azoarcus sp.	1.6	acetophenone	*pH 8, 30&deg;C
-KCAT	Azoarcus sp.	1.6	NADH	*pH 8, 30&deg;C
-KCAT	Azoarcus sp.	2	NAD+	*pH 8, 30&deg;C
-KCAT	Azoarcus sp.	2	(S)-1-phenylethanol	*pH 8, 30&deg;C

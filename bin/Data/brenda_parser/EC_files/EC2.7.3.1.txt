@@ -1,2 +1,0 @@
-KCAT	Namalycastis sp.	24	glycocyamine	*recombinant GK beta
-KCAT	Namalycastis sp.	25.3	glycocyamine	*native GK

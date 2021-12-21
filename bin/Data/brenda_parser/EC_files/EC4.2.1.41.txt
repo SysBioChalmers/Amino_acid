@@ -1,6 +1,0 @@
-KCAT	Polaromonas naphthalenivorans	1.7	5-dehydro-4-deoxy-D-glucarate	*in 25 mM potassium phosphate buffer, at pH 7.0 and 37&Acirc;&deg;C
-KCAT	Polaromonas naphthalenivorans CJ2	1.7	5-dehydro-4-deoxy-D-glucarate	*pH 7.0, 37&Acirc;&deg;C
-KCAT	Comamonas testosteroni	3.1	5-dehydro-4-deoxy-D-glucarate	*in 25 mM potassium phosphate buffer, at pH 7.0 and 37&Acirc;&deg;C; pH 7.0, 37&Acirc;&deg;C
-KCAT	Acinetobacter baylyi	3.9	5-dehydro-4-deoxy-D-glucarate	*
-KCAT	Acinetobacter baylyi	4.5	5-dehydro-4-deoxy-D-glucarate	*pH 7.0, 37&Acirc;&deg;C
-KCAT	Agrobacterium fabrum	8.83	5-dehydro-4-deoxy-D-glucarate	*pH 7.5, 22&Acirc;&deg;C

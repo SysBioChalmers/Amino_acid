@@ -1,2 +1,0 @@
-KCAT	Arabidopsis thaliana	0.03	L-cysteine	*for the L-cysteine desulfurase domain, 2 mM DTT, pH 9.3, 37&deg;C
-KCAT	Arabidopsis thaliana	0.357	L-selenocysteine	*for the L-cysteine desulfurase domain, 2 mM DTT, pH 9.3, 37&deg;C

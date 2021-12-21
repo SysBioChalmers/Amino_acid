@@ -1,2 +1,0 @@
-KCAT	Mus musculus	1.99	acetyl-CoA	*pH 8, 37&deg;C, mutant form lacking START domain
-KCAT	Mus musculus	7.26	acetyl-CoA	*pH 8, 37&deg;C, wild-type

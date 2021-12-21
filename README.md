@@ -6,7 +6,7 @@ Introduction
 
 This repository contains codes for calculating cost for synthesizing each amino acid in yeast.
 
-* Last update: 2021-10-01
+* Last update: 2021-12-21
 
 
 Required Software & Repository

@@ -1,1 +1,0 @@
-ecNumber*2.7.2.16#turnoverNumber*108#turnoverNumberMaximum*#substrate*ATP#commentary*pH 7.5, 75&deg;C#organism*Methanothermus fervidus#ligandStructureId*4#literature*753559#

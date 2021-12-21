@@ -1,5 +1,0 @@
-KCAT	Bos taurus	0.02	Poly(A)	*
-KCAT	Homo sapiens	0.65	Poly(A)	*residues 1-446 with the deletion of the R3H domain, pH 7.0, temperature not specified in the publication
-KCAT	Homo sapiens	1.1	Poly(A)	*residues 1-520 with the deletion of the R3H domain, pH 7.0, temperature not specified in the publication
-KCAT	Homo sapiens	5.6	Poly(A)	*N-terminal fragment residues 1-446, pH 7.0, temperature not specified in the publication
-KCAT	Homo sapiens	7.6	Poly(A)	*N-terminal fragment residues 1-520, pH 7.0, temperature not specified in the publication

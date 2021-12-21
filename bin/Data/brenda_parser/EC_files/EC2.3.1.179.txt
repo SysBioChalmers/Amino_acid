@@ -1,8 +1,0 @@
-KCAT	Escherichia coli	0.022	malonyl-CoA	*R206G mutant protein, donor lauroyl-CoA, 0.1 mM lauroyl-CoA, pH 6.5, 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.042	malonyl-CoA	*wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.047	lauroyl-CoA	*wild type protein, acceptor malonyl-CoA, 0.5 mM malonyl-CoA, pH 6.5, 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.029	malonyl-ACP	*wild type protein, donor lauroyl-ACP, 0.01 mM lauroyl-ACP, pH 6.5, 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.018	malonyl-phosphopantetheine-8-mer	*wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.023	malonyl-phosphopantetheine-14-mer	*wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.022	malonyl-phosphopantetheine-16-mer	*wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25&Acirc;&deg;C
-KCAT	Escherichia coli	0.022	malonyl-phosphopantetheine	*wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25&Acirc;&deg;C

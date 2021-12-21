@@ -1,7 +1,0 @@
-KCAT	Rauvolfia serpentina x Rhazya stricta	0.008	gardneral	*pH 7.0, 30&deg;C, recombinant mutant C149A
-KCAT	Rauvolfia serpentina x Rhazya stricta	0.018	gardneral	*pH 7.0, 30&deg;C, recombinant mutant S29A
-KCAT	Rauvolfia serpentina x Rhazya stricta	0.043	gardneral	*pH 7.0, 30&deg;C, recombinant mutant N293A
-KCAT	Rauvolfia serpentina x Rhazya stricta	0.065	gardneral	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
-KCAT	Rauvolfia serpentina x Rhazya stricta	0.068	gardneral	*pH 7.0, 30&deg;C, recombinant mutant C89A
-KCAT	Rauvolfia serpentina x Rhazya stricta	0.085	gardneral	*pH 7.0, 30&deg;C, recombinant mutant S413A
-KCAT	Rauvolfia serpentina x Rhazya stricta	0.735	vinorine	*pH 7.0, 30&deg;C, recombinant wild-type enzyme

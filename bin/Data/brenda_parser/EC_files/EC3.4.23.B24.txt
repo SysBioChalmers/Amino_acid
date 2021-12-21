@@ -1,1 +1,0 @@
-KCAT	Bacillus subtilis	0.078	dodecanoyl-NGEVAKA-4-methylcumaryl-7-amide	*pH 8.0, 23&deg;C

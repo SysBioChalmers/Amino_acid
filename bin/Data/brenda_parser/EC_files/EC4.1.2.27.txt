@@ -1,2 +1,0 @@
-KCAT	Burkholderia pseudomallei	0.015	sphinganine 1-phosphate	*at pH 7.5 and 37&deg;C
-KCAT	Burkholderia pseudomallei	0.22	(2E)-hexadecenal	*at pH 7.5 and 37&deg;C

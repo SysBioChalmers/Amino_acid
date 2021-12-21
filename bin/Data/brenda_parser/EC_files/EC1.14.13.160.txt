@@ -1,8 +1,0 @@
-KCAT	Pseudomonas putida	5.6	4-methylcyclohexanone	*pH 9.0, temperature not specified in the publication
-KCAT	Pseudomonas putida	0.9	2-methylcyclohexanone	*pH 9.0, temperature not specified in the publication
-KCAT	Pseudomonas putida	1.8	2-n-hexylcyclopentanone	*pH 9.0, temperature not specified in the publication
-KCAT	Pseudomonas putida	13.6	2-n-hexylcyclopentanone	*pH 9.0, temperature not specified in the publication
-KCAT	Pseudomonas putida	4.8	2-oxo-DELTA3-4,5,5-trimethylcyclopentenylacetyl-CoA	*pH 9.0, temperature not specified in the publication
-KCAT	Pseudomonas putida	6.9	2-oxocyclopentyl ethyl acetate	*pH 9.0, temperature not specified in the publication
-KCAT	Pseudomonas putida	0.13	2-oxo-DELTA3-4,5,5-trimethylcyclopentenylacetic acid	*pH 9.0, temperature not specified in the publication
-KCAT	Pseudomonas putida	0.11	2-oxocyclopentyl acetic acid	*pH 9.0, temperature not specified in the publication

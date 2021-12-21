@@ -1,1 +1,0 @@
-KCAT	Methanothermobacter marburgensis	18	CoB	*at pH 7.6 and 25&deg;C

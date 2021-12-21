@@ -1,3 +1,0 @@
-KCAT	Homo sapiens	-999	more	*similar turnover number like betaine-homocysteine methyltransferase (BHMT, EC 2.1.1.5)
-KCAT	Brassica oleracea	0.0375	DL-homocysteine	*
-KCAT	Escherichia coli	0.38	L-homocysteine	*pH 6, 30&deg;C, cosubstrate: S-adenosyl-L-methionine

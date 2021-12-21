@@ -1,1 +1,0 @@
-ecNumber*1.17.5.1#turnoverNumber*12#turnoverNumberMaximum*#substrate*phenylacetyl-CoA#commentary*pH 7.5, 30&Acirc;&deg;C, duroquinone as electron acceptor#organism*Thauera aromatica#ligandStructureId*1147#literature*644661#

@@ -1,6 +1,0 @@
-KCAT	Eubacterium barkeri	30	2-Methyleneglutarate	*pH 7.4
-KCAT	Eubacterium barkeri	18	(R)-3-methylitaconate	*pH 7.4
-KCAT	Eubacterium barkeri	2.3	2-methylene[4-H2]glutarate	*pH 7.4
-KCAT	Eubacterium barkeri	1.1	(R)-3-[methyl-H3]methylitaconate	*pH 7.4
-KCAT	Eubacterium barkeri	17	(R,Z)-3-methyl[2'-H1]itaconate	*pH 7.4
-KCAT	Eubacterium barkeri	1.4	(R,Z)-3-[methyl-H3]methyl[2'-H1]itaconate	*pH 7.4

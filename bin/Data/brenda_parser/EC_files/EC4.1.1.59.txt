@@ -1,2 +1,0 @@
-KCAT	Blastobotrys adeninivorans	42	gallic acid	*pH 6.2, 40&deg;C
-KCAT	Blastobotrys adeninivorans	44	protocatechuic acid	*pH 6.2, 40&deg;C

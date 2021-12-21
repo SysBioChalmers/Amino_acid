@@ -1,2 +1,0 @@
-KCAT	Salmonella enterica	5.4	acetyl phosphate	*reverse reaction, pH and temperature not specified in the publication
-KCAT	Salmonella enterica	20.7	propanoyl phosphate	*reverse reaction, pH and temperature not specified in the publication

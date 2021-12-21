@@ -1,2 +1,0 @@
-KCAT	Thauera aromatica	0.11	Toluene	*cell extract, 4&Acirc;&deg;C
-KCAT	Thauera aromatica	0.35	Toluene	*cell extract, 30&Acirc;&deg;C

@@ -1,3 +1,0 @@
-KCAT	Escherichia coli	0.05	2N-[[(1-sulfono-5-naphthyl)amino]ethyl]aminosuccinyl-Ala-Ala-Arg-Ala-Ala-[Nepsilon-[4-[4-(dimethylamino)phenylazo]benzoyl]lysyl]-(6-aminocaproyl)2-Glu-Asn-Tyr-Ala-Leu-Ala-Ala	*wild-type enzyme, mutants V229Q, V229E
-KCAT	Escherichia coli	3.7	Ac-WARAAARAAARBAAB	*
-KCAT	Escherichia coli	0.19	Arc repressor	*

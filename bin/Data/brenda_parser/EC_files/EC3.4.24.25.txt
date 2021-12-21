@@ -1,9 +1,0 @@
-KCAT	Vibrio proteolyticus	-999	more	*overview: effect of residues at P1', P1'' or P2' on turnover number, influence of the identity of residues remote from scissile bond
-KCAT	Vibrio proteolyticus	0.4	Benzyloxycarbonyl-Gly-Phe-NH2	*
-KCAT	Vibrio proteolyticus	0.5	Benzyloxycarbonyl-Gly-Tyr-NH2	*
-KCAT	Vibrio proteolyticus	2.5	Benzyloxycarbonyl-Gly-Ile-NH2	*
-KCAT	Vibrio proteolyticus	4	Benzyloxycarbonyl-Gly-norvaline-NH2	*
-KCAT	Vibrio proteolyticus	25	Benzyloxycarbonyl-Gly-Leu-NH2	*
-KCAT	Vibrio proteolyticus	38	Benzyloxycarbonyl-Gly-Tyr	*
-KCAT	Vibrio proteolyticus	584	Benzyloxycarbonyl-Gly-Phe-NH2	*
-KCAT	Vibrio proteolyticus	1150	benzyloxycarbonyl-Gly-Phe-Gly-NH2	*

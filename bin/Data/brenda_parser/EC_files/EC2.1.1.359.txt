@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	0.0013	recombinant nucleosome	*pH 9.0, 23&deg;C
-KCAT	Homo sapiens	0.0031	histone H3(peptide 21-44)	*pH 9.0, 23&deg;C
-KCAT	Homo sapiens	0.0061	chicken nucleosome	*pH 9.0, 23&deg;C
-KCAT	Homo sapiens	1.389	[histone H3]-N6-methyl-L-lysine36	*at pH 8.5 and 23&deg;C
-KCAT	Homo sapiens	2.083	[histone H3]-L-lysine36	*at pH 8.5 and 23&deg;C
-KCAT	Homo sapiens	5.278	[histone H3]-N6,N6-dimethyl-L-lysine36	*at pH 8.5 and 23&deg;C

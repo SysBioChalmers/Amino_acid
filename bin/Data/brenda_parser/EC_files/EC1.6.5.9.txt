@@ -1,1 +1,0 @@
-KCAT	Saccharomyces cerevisiae	0.031	NADH	*using ubiquinone-2 as substrate, in 20 mM MOPS/KOH, 1 mM EDTA, 0.03% (v/v) Triton X-100, 200 mM KCl, pH 6.2, temperature not specified in the publication

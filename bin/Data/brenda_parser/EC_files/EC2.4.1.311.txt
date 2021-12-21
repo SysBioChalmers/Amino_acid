@@ -1,3 +1,0 @@
-KCAT	Amycolatopsis orientalis	-999	more	*GtfA transfers 4-epi-vancosamine to vancomycin aglycone or epivancomycin at much reduced rates of less than 0.0008/s
-KCAT	Amycolatopsis orientalis	0.038	devancoaminyl vancomycin	*pH 7.5, 37&deg;C
-KCAT	Amycolatopsis orientalis	0.038	dTDP-beta-L-4-epi-vancosamine	*pH 7.5, 37&deg;C

@@ -1,3 +1,0 @@
-KCAT	Vargula hilgendorfii	0.0147	Cypridina luciferin	*pH 6.8, 26&Acirc;&deg;C
-KCAT	Apogon ellioti	0.0152	Cypridina luciferin	*pH 6.8, 26&Acirc;&deg;C
-KCAT	Vargula hilgendorfii	26.7	Cypridina luciferin	*

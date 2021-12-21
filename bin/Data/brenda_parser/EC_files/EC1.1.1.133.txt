@@ -1,2 +1,0 @@
-KCAT	Salmonella enterica	29	NADPH	*+/-66
-KCAT	Salmonella enterica	25	NADH	*+/-48

@@ -1,6 +1,0 @@
-KCAT	Pseudoalteromonas sp.	0.19	neoagarodecaose	*25&deg;C, pH 6.0
-KCAT	Pseudoalteromonas sp.	3.3	neoagarotetradecaose	*25&deg;C, pH 6.0
-KCAT	Pseudoalteromonas sp.	4.77	neoagarododecaose	*25&deg;C, pH 6.0
-KCAT	Pseudoalteromonas sp.	5.16	neoagarotetradecaose	*25&deg;C, pH 6.0
-KCAT	Agarivorans albus	45	agarose	*at pH 7.0 and 25&deg;C
-KCAT	Stenotrophomonas sp. NTa	760.1	agar	*at pH 10.0 and 40&deg;C

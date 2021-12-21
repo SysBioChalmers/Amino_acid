@@ -1,8 +1,0 @@
-KCAT	Escherichia coli	0.84	ATP	*22&Acirc;&deg;C, pH 7.5, without any sugar
-KCAT	Escherichia coli	33	D-xylulose	*22&Acirc;&deg;C, pH 7.5
-KCAT	Escherichia coli	74	D-ribulose	*22&Acirc;&deg;C, pH 7.5
-KCAT	Escherichia coli	70	L-xylulose	*22&Acirc;&deg;C, pH 7.5
-KCAT	Escherichia coli	64	L-arabitol	*22&Acirc;&deg;C, pH 7.5
-KCAT	Clostridium acetobutylicum	41	L-ribulose	*in 50 mM Tris buffer (pH 7.5), at 30&Acirc;&deg;C
-KCAT	Escherichia coli	80	L-ribulose	*22&Acirc;&deg;C, pH 7.5
-KCAT	Escherichia coli	109	D-ribitol	*22&Acirc;&deg;C, pH 7.5

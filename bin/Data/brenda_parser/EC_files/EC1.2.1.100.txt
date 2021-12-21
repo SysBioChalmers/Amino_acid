@@ -1,3 +1,0 @@
-KCAT	Mesorhizobium loti	25	5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate	*mutant E149Q, pH 8.0, 30&Acirc;&deg;C
-KCAT	Mesorhizobium loti	204	5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate	*wild-type, pH 8.0, 30&Acirc;&deg;C
-KCAT	Pseudomonas sp. MA-1	400	5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate	*pH 8.0, temperature not specified in the publication

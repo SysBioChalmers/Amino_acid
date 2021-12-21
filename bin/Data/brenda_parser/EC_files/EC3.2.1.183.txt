@@ -1,5 +1,0 @@
-KCAT	Homo sapiens	0.076	UDP-N-acetyl-alpha-D-glucosamine	*recombinant mutant D112A, pH 7.5, 37&Acirc;&deg;C
-KCAT	Rattus norvegicus	0.33	UDP-N-acetyl-alpha-D-glucosamine	*pH 7.5, 37&Acirc;&deg;C
-KCAT	Homo sapiens	0.791	UDP-N-acetyl-alpha-D-glucosamine	*recombinant mutant S302A, pH 7.5, 37&Acirc;&deg;C
-KCAT	Neisseria meningitidis	4.7	UDP-N-acetyl-alpha-D-glucosamine	*wild-type, 37&Acirc;&deg;C, pH not specified in the publication
-KCAT	Homo sapiens	11.8	UDP-N-acetyl-alpha-D-glucosamine	*recombinant wild-type enzyme, pH 7.5, 37&Acirc;&deg;C

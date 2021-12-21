@@ -1,5 +1,0 @@
-KCAT	Pyrococcus sp.	37.7	phosphate	*pH 6.0, 90&Acirc;&deg;C
-KCAT	Lactobacillus acidophilus	0.097	2-alpha-D-glucosyl-D-glucose	*pH 6.2, 45&Acirc;&deg;C, recombinant loop 3 mutant 1 of maltose phosphorylase
-KCAT	Lactobacillus acidophilus	0.12	2-alpha-D-glucosyl-D-glucose	*pH 6.2, 45&Acirc;&deg;C, recombinant loop 3 mutant 2 of maltose phosphorylase
-KCAT	Lactobacillus acidophilus	2.4	2-alpha-D-glucosyl-D-glucose	*pH 6.2, 45&Acirc;&deg;C, recombinant loop 3 mutant 3 of maltose phosphorylase
-KCAT	Pyrococcus sp.	37.7	2-alpha-D-glucosyl-D-glucose	*pH 6.0, 90&Acirc;&deg;C

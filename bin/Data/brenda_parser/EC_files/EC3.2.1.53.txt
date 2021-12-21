@@ -1,4 +1,0 @@
-KCAT	Paenibacillus sp.	0.08	4-nitrophenyl beta-N-acetylgalactosaminide	*mutant E608Q, pH 6.0, 37&deg;C
-KCAT	Paenibacillus sp.	0.1	4-nitrophenyl beta-N-acetylgalactosaminide	*mutant D607E, pH 6.0, 37&deg;C
-KCAT	Paenibacillus sp.	0.38	4-nitrophenyl beta-N-acetylgalactosaminide	*mutant E608D, pH 6.0, 37&deg;C
-KCAT	Paenibacillus sp.	7.3	4-nitrophenyl beta-N-acetylgalactosaminide	*wild-type, pH 6.0, 37&deg;C

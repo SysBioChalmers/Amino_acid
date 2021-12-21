@@ -1,4 +1,0 @@
-KCAT	Micromonospora viridifaciens	2.43	trans-3-hydroxy-L-proline	*pH 8.0, 30&deg;C, mutant enzyme C261T
-KCAT	Micromonospora viridifaciens	3.4	trans-3-hydroxy-L-proline	*pH 8.0, 30&deg;C, wild-type enzyme
-KCAT	Colwellia psychrerythraea	22.17	trans-3-hydroxy-L-proline	*pH 8.0, 30&deg;C, wild-type enzyme
-KCAT	Azospirillum brasilense	37.33	trans-3-hydroxy-L-proline	*pH 8.0, 30&deg;C, wild-type enzyme

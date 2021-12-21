@@ -1,2 +1,0 @@
-KCAT	Rhodospirillum rubrum	0.02	oxidized acetylpyridine adenine dinucleotide	*kcat for recombinant domain III in the presence of saturating amounts of domain I, reduction of acetylpyridine adenine dinucleotide by NADPH
-KCAT	Rhodospirillum rubrum	1.44	oxidized acetylpyridine adenine dinucleotide	*kcat for recombinant domain I in the presence of saturating amounts of domain III, reduction of acetylpyridine adenine dinucleotide by NADPH

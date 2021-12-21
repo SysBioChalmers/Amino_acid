@@ -1,6 +1,0 @@
-KCAT	Microbacterium luteolum	59.2	pyridoxal	*pH 8.0, 30&deg;C
-KCAT	Microbacterium luteolum	125	L-fucose	*pH 8.0, 30&deg;C
-KCAT	Mesorhizobium loti	136	NAD+	*30&deg;C, pH 9.2; pH 9.2, 30&deg;C
-KCAT	Mesorhizobium loti	149	pyridoxal	*30&deg;C, pH 9.2; pH 9.2, 30&deg;C
-KCAT	Microbacterium luteolum	175	D-arabinose	*pH 8.0, 30&deg;C
-KCAT	Microbacterium luteolum	214	L-Xylose	*pH 8.0, 30&deg;C

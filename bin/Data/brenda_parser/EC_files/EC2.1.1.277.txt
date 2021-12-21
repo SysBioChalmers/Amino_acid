@@ -1,2 +1,0 @@
-KCAT	Zea mays	0.37	anthranilate	*25&deg;C, pH not specified in the publication, isoenzyme AAMT2
-KCAT	Zea mays	0.45	anthranilate	*25&deg;C, pH not specified in the publication, isoenzyme AAMT1

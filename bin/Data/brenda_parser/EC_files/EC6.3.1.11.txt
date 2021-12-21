@@ -1,1 +1,0 @@
-KCAT	Escherichia coli K-12	5.94	putrescine	*pH 8.0 37&Acirc;&deg;C, recombinant enzyme

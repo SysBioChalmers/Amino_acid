@@ -1,4 +1,0 @@
-KCAT	Gluconobacter sp.	95	D-fructose	*slow reaction phase
-KCAT	Gluconobacter sp.	250	D-fructose	*fast reaction phase
-KCAT	Gluconobacter sp.	93	ferricyanide	*slow reaction phase
-KCAT	Gluconobacter sp.	162	ferricyanide	*fast reaction phase

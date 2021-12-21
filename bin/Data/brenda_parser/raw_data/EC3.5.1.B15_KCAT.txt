@@ -1,1 +1,0 @@
-ecNumber*3.5.1.B15#turnoverNumber*135.7#turnoverNumberMaximum*#substrate*Pyrazinamide#commentary*pH 7.5, 60&Acirc;&deg;C#organism*Acidilobus saccharovorans#ligandStructureId*3666#literature*727053#

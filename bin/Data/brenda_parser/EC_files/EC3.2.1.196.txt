@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	41.7	G4-beta-cyclodextrin	*in 50 mM sodium phosphate buffer (pH7.0) at 37&Acirc;&deg;C
-KCAT	Escherichia coli	38	G3-beta-cyclodextrin	*in 50 mM sodium phosphate buffer (pH7.0) at 37&Acirc;&deg;C
-KCAT	Escherichia coli	38	beta-cyclodextrin-alpha-1,6-linked maltotriose	*pH 7, 37&Acirc;&deg;C
-KCAT	Escherichia coli	41.7	beta-cyclodextrin-alpha-1,6-linked maltotetraose	*pH 7, 37&Acirc;&deg;C

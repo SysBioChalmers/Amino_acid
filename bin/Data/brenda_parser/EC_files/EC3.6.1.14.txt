@@ -1,2 +1,0 @@
-KCAT	Saccharomyces cerevisiae	723	adenosine 5'-tetraphosphate	*
-KCAT	Saccharomyces cerevisiae	40	adenosine-5'-pentaphosphate	*

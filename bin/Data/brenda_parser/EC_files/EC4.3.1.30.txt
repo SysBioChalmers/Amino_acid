@@ -1,2 +1,0 @@
-KCAT	Streptomyces venezuelae	-999	TDP-4-amino-4-deoxy-D-fucose	*the observed kcat for DesII-catalyzed deamination at pH 8.0 was 3.4fold lower compared to that measured for deamination of the natural substrate dTDP-4-amino-4,6-dideoxy-alpha-D-glucopyranose with the same enzyme preparation
-KCAT	Streptomyces venezuelae	0.017	dTDP-4-amino-4,6-dideoxy-alpha-D-glucopyranose	*pH 8, 25&deg;C, in presence of 0.1 mM S-adenosyl-L-methionine

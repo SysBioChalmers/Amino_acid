@@ -1,7 +1,0 @@
-KCAT	Paraburkholderia xenovorans	1.1	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C
-KCAT	Variovorax paradoxus	2.5	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C
-KCAT	Advenella mimigardefordensis	3.1	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C
-KCAT	Advenella mimigardefordensis	3.13	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C
-KCAT	Cupriavidus necator	4.4	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C
-KCAT	Advenella mimigardefordensis	3.13	3-sulfinopropanoyl-CoA	*recombinant His6-tagged wild-type enzyme, pH 7.4, 30&Acirc;&deg;C
-KCAT	Advenella mimigardefordensis	3.93	3-sulfinopropanoyl-CoA	*recombinant His6-tagged mutant Q246E, pH 7.4, 30&Acirc;&deg;C

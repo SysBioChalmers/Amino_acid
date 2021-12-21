@@ -1,8 +1,0 @@
-KCAT	Renilla reniformis	1.85	Luciferin	*
-KCAT	Renilla reniformis	-999	coelenterazine	*value 111 micromol/min/micromol enzyme
-KCAT	Renilla sp.	3.9	coelenterazine	*wild-type enzyme
-KCAT	Renilla sp.	4.9	coelenterazine	*mutant enzyme A55T/C124A/S130A/K136R/A143M/M185V/M253L/S287L
-KCAT	Renilla reniformis	1.85	benzylluciferin	*
-KCAT	Renilla reniformis	0.983	benzylluciferin methyl ether	*
-KCAT	Renilla reniformis	0.0167	methyl luciferin	*
-KCAT	Renilla reniformis	-999	more	*turnover number of luciferin-analogues

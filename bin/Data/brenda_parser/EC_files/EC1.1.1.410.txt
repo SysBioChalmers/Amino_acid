@@ -1,2 +1,0 @@
-KCAT	Cupriavidus necator	3	D-erythronate	*cosubstrate NADP+, pH 8.0, 25&deg;C
-KCAT	Cupriavidus necator	19	D-erythronate	*cosubstrate NAD+, pH 8.0, 25&deg;C

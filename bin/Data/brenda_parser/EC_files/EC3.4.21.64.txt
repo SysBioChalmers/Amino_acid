@@ -1,6 +1,0 @@
-KCAT	Parengyodontium album	51	succinyl-AAPF-4-nitroanilide	*pH 8.0, 12&Acirc;&deg;C
-KCAT	Parengyodontium album	88	succinyl-AAPF-4-nitroanilide	*pH 8.0, 22&Acirc;&deg;C
-KCAT	Serratia sp.	175	succinyl-AAPF-4-nitroanilide	*pH 8.0, 12&Acirc;&deg;C
-KCAT	Parengyodontium album	180	succinyl-AAPF-4-nitroanilide	*pH 8.0, 37&Acirc;&deg;C
-KCAT	Serratia sp.	364	succinyl-AAPF-4-nitroanilide	*pH 8.0, 22&Acirc;&deg;C
-KCAT	Serratia sp.	827	succinyl-AAPF-4-nitroanilide	*pH 8.0, 37&Acirc;&deg;C

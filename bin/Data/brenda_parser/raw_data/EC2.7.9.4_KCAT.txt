@@ -1,1 +1,0 @@
-ecNumber*2.7.9.4#turnoverNumber*0.015#turnoverNumberMaximum*#substrate*granular potato starch#commentary*30&deg;C#organism*Solanum tuberosum#ligandStructureId*#literature*672151#

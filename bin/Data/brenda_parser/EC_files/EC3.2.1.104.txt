@@ -1,4 +1,0 @@
-KCAT	Cryptococcus neoformans	0.53	(6-[N-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)amino]hexanoyl)-beta-D-glucosylceramide	*pH 6.0, 30&deg;C
-KCAT	Cryptococcus neoformans	8.8	4-methylumbelliferyl beta-D-glucoside	*pH 6.0, 30&deg;C
-KCAT	Cryptococcus neoformans	13.8	4-nitrophenyl beta-D-glucoside	*pH 6.0, 30&deg;C
-KCAT	Cryptococcus neoformans	21.9	resorufin 3-O-beta-D-glucoside	*pH 6.0, 30&deg;C

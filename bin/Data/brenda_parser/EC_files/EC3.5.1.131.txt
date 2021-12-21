@@ -1,4 +1,0 @@
-KCAT	Pseudomonas sp. ADP	14.1	1-carboxybiuret	*pH 9, 22&Acirc;&deg;C, recombinant enzyme expressed in Escherichia coli
-KCAT	Pseudomonas sp. ADP	15.5	1-carboxybiuret	*pH 9.0, temperature not specified in the publication; pH 9, 22&Acirc;&deg;C, purified from Pseudomonas sp. ADP
-KCAT	Pseudomonas sp. ADP	9.4	1-nitrobiuret	*pH 9, 22&Acirc;&deg;C, recombinant enzyme expressed in Escherichia coli
-KCAT	Pseudomonas sp. ADP	7	1-carboxymalonamide	*pH 9, 22&Acirc;&deg;C, recombinant enzyme expressed in Escherichia coli

@@ -1,3 +1,0 @@
-KCAT	Thermobifida fusca	0.31	ethylene terephthalate	*pH 8.5, 60&deg;C
-KCAT	Thermobifida fusca	26.8	bis(2-hydroxyethyl) terephthalic acid	*pH 8.5, 60&deg;C
-KCAT	Ideonella sakaiensis	31	ethylene terephthalate	*pH 7.0, 30&deg;C

@@ -1,1 +1,0 @@
-ecNumber*4.2.3.151#turnoverNumber*0.022#turnoverNumberMaximum*#substrate*geranylgeranyl diphosphate#commentary*pH 7.5, 30&Acirc;&deg;C#organism*Streptomyces sp.#ligandStructureId*231#literature*729596#

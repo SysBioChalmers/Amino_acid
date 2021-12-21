@@ -1,7 +1,0 @@
-KCAT	Pseudomonas putida	20	NADH	*component E3
-KCAT	Pseudomonas putida	31.7	NADH	*component E2
-KCAT	Pseudomonas putida	53.3	NADH	*component E1
-KCAT	Pseudomonas putida	317	NADH	*
-KCAT	Pseudomonas putida	650	FAD	*component E2
-KCAT	Pseudomonas putida	-999	more	*
-KCAT	Pseudomonas putida	-999	more	*

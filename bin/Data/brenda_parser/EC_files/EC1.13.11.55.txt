@@ -1,2 +1,0 @@
-KCAT	Acidianus ambivalens	0.1	sulfur	*pH 7.2, 65&deg;C, reductase reaction (formation of sulfite plus thiosulfate)
-KCAT	Acidianus ambivalens	2.2	sulfur	*pH 7.2, 65&deg;C, oxygenase reaction (formation of hydrogen sulfide)

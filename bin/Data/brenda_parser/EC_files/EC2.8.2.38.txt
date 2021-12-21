@@ -1,4 +1,0 @@
-KCAT	Arabidopsis thaliana	0.0051	desulfobenzylglucosinolate	*pH 9.0, 30&deg;C
-KCAT	Arabidopsis thaliana	0.0058	3'-phosphoadenylyl sulfate	*pH 9.0, 30&deg;C
-KCAT	Arabidopsis thaliana	0.0352	desulfobenzylglucosinolate	*pH 9.0, 30&deg;C
-KCAT	Arabidopsis thaliana	0.0355	3'-phosphoadenylyl sulfate	*pH 9.0, 30&deg;C

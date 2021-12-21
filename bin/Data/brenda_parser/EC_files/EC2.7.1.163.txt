@@ -1,4 +1,0 @@
-KCAT	Escherichia coli	5	hygromycin B	*HPH
-KCAT	Escherichia coli	5.7	ATP	*HPH
-KCAT	Escherichia coli	6.4	ATP	*thermostabilized mutant HPH5
-KCAT	Escherichia coli	9.1	hygromycin B	*thermostabilized mutant HPH5

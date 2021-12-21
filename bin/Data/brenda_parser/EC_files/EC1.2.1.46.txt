@@ -1,4 +1,0 @@
-KCAT	Pseudomonas putida	0.136	formaldehyde	*enzyme immobilized on MPS-4, pH 7.0, 22&Acirc;&deg;
-KCAT	Pseudomonas putida	0.177	formaldehyde	*enzyme immobilized on phenyl-functionalized MPS-4, pH 7.0, 22&Acirc;&deg;
-KCAT	Pseudomonas putida	0.247	formaldehyde	*enzyme immobilized on methyl-functionalized MPS-4, pH 7.0, 22&Acirc;&deg;
-KCAT	Pseudomonas putida	0.48	formaldehyde	*pH 7.0, 22&Acirc;&deg;C, free enzyme

@@ -1,2 +1,0 @@
-KCAT	Streptomyces hygroscopicus subsp. jinggangensis	3.5	valienone	*pH 7.6, 28&deg;C
-KCAT	Streptomyces hygroscopicus subsp. jinggangensis	7.3	validone	*pH 7.6, 28&deg;C

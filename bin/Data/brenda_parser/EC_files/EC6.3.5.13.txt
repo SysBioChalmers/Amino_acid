@@ -1,1 +1,0 @@
-KCAT	Streptococcus pneumoniae	4	beta-D-GlcNAc-(1-&gt;4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphospho-ditrans,octacis-undecaprenol	*pH 7.5, 30&deg;C

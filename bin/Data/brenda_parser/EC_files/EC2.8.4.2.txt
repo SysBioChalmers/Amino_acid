@@ -1,8 +1,0 @@
-KCAT	Corynebacterium glutamicum	0.12	arsenate	*isoform ArsC2, pH 8.0, presence of sulfate
-KCAT	Corynebacterium glutamicum	0.17	arsenate	*isoform ArsC2, pH 8.0, presence of phosphate
-KCAT	Corynebacterium glutamicum	0.23	arsenate	*isoform ArsC1, pH 8.0, presence of sulfate
-KCAT	Corynebacterium glutamicum	0.28	arsenate	*isoform ArsC2, pH 8.0
-KCAT	Corynebacterium glutamicum	0.28	arsenate	*isoform ArsC2, pH and temperature not specified in the publication
-KCAT	Corynebacterium glutamicum	0.53	arsenate	*isoform ArsC1, pH 8.0
-KCAT	Corynebacterium glutamicum	0.53	arsenate	*isoform ArsC1, pH and temperature not specified in the publication
-KCAT	Corynebacterium glutamicum	0.6	arsenate	*isoform ArsC1, pH 8.0, presence of phosphate

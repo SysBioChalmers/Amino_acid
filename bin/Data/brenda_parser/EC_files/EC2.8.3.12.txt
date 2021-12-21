@@ -1,3 +1,0 @@
-KCAT	Acidaminococcus fermentans	39	glutaryl-CoA	*pH 7, cosubstrate acetate, 65 kDa GctF fusion protein
-KCAT	Acidaminococcus fermentans	140	glutaryl-CoA	*pH 7, cosubstrate acetate, wild-type enzyme
-KCAT	Acidaminococcus fermentans	-999	more	*

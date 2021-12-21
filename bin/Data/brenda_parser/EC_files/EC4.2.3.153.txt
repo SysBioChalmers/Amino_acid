@@ -1,2 +1,0 @@
-KCAT	Methanocaldococcus jannaschii	0.022	D-glyceraldehyde	*mutant K155R, pH 7.0, 70&Acirc;&deg;C
-KCAT	Methanocaldococcus jannaschii	0.026	D-glyceraldehyde	*wild-type, pH 7.0, 70&Acirc;&deg;C

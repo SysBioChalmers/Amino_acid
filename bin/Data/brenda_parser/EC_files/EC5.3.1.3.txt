@@ -1,2 +1,0 @@
-KCAT	Caldicellulosiruptor saccharolyticus	0.0287	D-altrose	*
-KCAT	Caldicellulosiruptor saccharolyticus	0.1823	D-arabinose	*

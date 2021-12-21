@@ -1,6 +1,0 @@
-KCAT	Mycobacterium tuberculosis	0.163	26-methylcholesterol	*pH 7.5, 25&deg;C
-KCAT	Mycobacterium tuberculosis	0.278	cholest-5-en-3-beta-ol	*pH 7.5, 25&deg;C
-KCAT	Mycobacterium tuberculosis	0.278	cholesterol	*21&deg;C, pH 7.4
-KCAT	Mycobacterium tuberculosis	0.299	(25R)-25-bromo-27-norcholesterol	*pH 7.5, 25&deg;C
-KCAT	Mycobacterium tuberculosis	0.368	(25R)-25-bromo-27-norcholesterol	*pH 7.5, 25&deg;C
-KCAT	Mycobacterium tuberculosis	1.4	cholest-4-en-3-one	*21&deg;C, pH 7.4

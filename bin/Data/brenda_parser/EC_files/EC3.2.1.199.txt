@@ -1,8 +1,0 @@
-KCAT	Agrobacterium tumefaciens	0.023	4-nitrophenyl alpha-sulfoquinovoside	*mutant E270Q, pH not specified in the publication, temperature not specified in the publication
-KCAT	Agrobacterium tumefaciens	0.026	4-nitrophenyl alpha-sulfoquinovoside	*mutant K245Q, pH not specified in the publication, temperature not specified in the publication
-KCAT	Escherichia coli	0.21	4-nitrophenyl alpha-sulfoquinovoside	*mutant Q262K, pH not specified in the publication, temperature not specified in the publication
-KCAT	Agrobacterium tumefaciens	1.89	4-nitrophenyl alpha-sulfoquinovoside	*mutantK245Q/ E270Q, pH not specified in the publication, temperature not specified in the publication
-KCAT	Escherichia coli	11.2	4-nitrophenyl alpha-sulfoquinovoside	*mutant Q262K/Q288E, pH not specified in the publication, temperature not specified in the publication
-KCAT	Escherichia coli	14.3	4-nitrophenyl alpha-sulfoquinovoside	*pH not specified in the publication, temperature not specified in the publication
-KCAT	Agrobacterium tumefaciens	22.3	4-nitrophenyl alpha-sulfoquinovoside	*wild-type, pH not specified in the publication, temperature not specified in the publication
-KCAT	Escherichia coli	32.7	4-nitrophenyl alpha-sulfoquinovoside	*wild-type, pH not specified in the publication, temperature not specified in the publication

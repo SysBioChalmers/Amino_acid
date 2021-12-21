@@ -1,4 +1,0 @@
-KCAT	Mus musculus	46	L-selenocysteine	*pH 9.0, 37&Acirc;&deg;C
-KCAT	Mus musculus	46	L-selenocysteine	*pH 9.0, 37&Acirc;&deg;C
-KCAT	Mus musculus	0.35	L-cysteine sulfinate	*pH 9.0, 37&Acirc;&deg;C
-KCAT	Mus musculus	0.35	L-cysteine sulfinate	*pH 9.0, 37&Acirc;&deg;C

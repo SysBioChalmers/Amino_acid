@@ -1,8 +1,0 @@
-KCAT	Homo sapiens	1	dATP	*pH 7.5, 37&Acirc;&deg;C, presence of 0.02 mM GTP
-KCAT	Mus musculus	4.4	dATP	*pH 7.5, 37&Acirc;&deg;C, presence of 0.02 mM GTP
-KCAT	Homo sapiens	1	dTTP	*pH 7.5, 37&Acirc;&deg;C, presence of 0.02 mM GTP plus 0.02 mM dATP
-KCAT	Mus musculus	4.1	dTTP	*pH 7.5, 37&Acirc;&deg;C, presence of 0.02 mM GTP plus 0.02 mM dATP
-KCAT	Homo sapiens	0.9	dCTP	*pH 7.5, 37&Acirc;&deg;C, presence of 0.02 mM GTP plus 0.02 mM dATP
-KCAT	Mus musculus	2.2	dCTP	*pH 7.5, 37&Acirc;&deg;C, presence of 0.02 mM GTP plus 0.02 mM dATP
-KCAT	Homo sapiens	0.9	dGTP	*pH 7.5, 37&Acirc;&deg;C
-KCAT	Mus musculus	2.9	dGTP	*pH 7.5, 37&Acirc;&deg;C

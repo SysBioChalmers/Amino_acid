@@ -1,4 +1,0 @@
-KCAT	Burkholderia cepacia	6.35	Hydroxyquinol	*
-KCAT	Streptomyces rochei	11.4	Hydroxyquinol	*
-KCAT	Pimelobacter simplex	29	Benzene-1,2,4-triol	*
-KCAT	Streptomyces rochei	72.3	6-chlorohydroxyquinol	*

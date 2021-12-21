@@ -1,4 +1,0 @@
-KCAT	Schistosoma mansoni	0.41	thymidine	*pH and temperature not specified in the publication
-KCAT	Schistosoma mansoni	35.9	uridine	*pH and temperature not specified in the publication
-KCAT	Aeropyrum pernix	150	uridine	*pH 7.0, 90&Acirc;&deg;C
-KCAT	Aeropyrum pernix	56	5-methyluridine	*pH 7.0, 90&Acirc;&deg;C

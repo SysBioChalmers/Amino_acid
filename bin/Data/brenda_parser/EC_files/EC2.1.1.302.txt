@@ -1,2 +1,0 @@
-KCAT	Streptomyces sahachiroi	0.0063	S-adenosyl-L-methionine	*pH 8.0, 25&Acirc;&deg;C
-KCAT	Streptomyces sahachiroi	0.0073	3-hydroxy-5-methylnaphthoate	*pH 8.0, 25&Acirc;&deg;C

@@ -1,1 +1,0 @@
-ecNumber*6.3.5.3#turnoverNumber*-999#turnoverNumberMaximum*#substrate*more#commentary*#organism*Bacillus subtilis#ligandStructureId*#literature*661076#!ecNumber*6.3.5.3#turnoverNumber*0.05#turnoverNumberMaximum*#substrate*NH4+#commentary*#organism*Escherichia coli#ligandStructureId*54#literature*1670#

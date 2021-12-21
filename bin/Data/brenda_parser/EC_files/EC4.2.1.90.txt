@@ -1,9 +1,0 @@
-KCAT	Azotobacter vinelandii	0.72	L-Rhamnonate	*pH 7.0, 30&Acirc;&deg;C
-KCAT	Escherichia coli K-12	3.2	L-Rhamnonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.9	L-Rhamnonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
-KCAT	Scheffersomyces stipitis	49.3	L-Rhamnonate	*pH 7.0, 30&Acirc;&deg;C
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.1	L-mannonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
-KCAT	Escherichia coli K-12	0.2	L-mannonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
-KCAT	Escherichia coli K-12	0.02	D-gulonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
-KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.05	L-lyxonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
-KCAT	Escherichia coli K-12	2	L-lyxonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme

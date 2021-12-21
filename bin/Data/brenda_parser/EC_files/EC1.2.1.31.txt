@@ -1,2 +1,0 @@
-KCAT	Saccharomyces cerevisiae	11.2	alpha-aminoadipate semialdehyde	*production from holo-lys2
-KCAT	Penicillium chrysogenum	66	L-2-aminoadipate	*pH 8, 30&deg;C

@@ -1,2 +1,0 @@
-KCAT	Artemisia annua	1.53	artemisinic aldehyde	*pH 8.5, 30&deg;C
-KCAT	Artemisia annua	7.74	dihydroartemisinic aldehyde	*pH 8.5, 30&deg;C

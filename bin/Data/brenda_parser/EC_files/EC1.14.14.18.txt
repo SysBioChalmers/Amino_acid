@@ -1,2 +1,0 @@
-KCAT	Bos taurus	0.0583	heme	*
-KCAT	Gallus gallus	0.32	heme	*

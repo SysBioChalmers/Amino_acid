@@ -1,4 +1,0 @@
-KCAT	Aeribacillus pallidus	2.75	xylitol	*pH 10.0, 40&Acirc;&deg;C
-KCAT	Aeribacillus pallidus	1.11	L-xylulose	*pH 10.0, 40&Acirc;&deg;C
-KCAT	Aeribacillus pallidus	0.695	D-arabitol	*pH 10.0, 40&Acirc;&deg;C
-KCAT	Aeribacillus pallidus	2.75	D-threitol	*pH 10.0, 40&Acirc;&deg;C

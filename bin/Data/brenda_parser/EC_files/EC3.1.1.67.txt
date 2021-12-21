@@ -1,4 +1,0 @@
-KCAT	Oryctolagus cuniculus	0.024	oleate	*pH 7.2, 20&deg;C, formation of ethyl oleate
-KCAT	Oryctolagus cuniculus	0.04	oleate	*pH 7.2, 30&deg;C, formation of ethyl oleate
-KCAT	Oryctolagus cuniculus	0.06	oleate	*pH 7.2, 37&deg;C, formation of ethyl oleate
-KCAT	Rattus norvegicus	0.285	oleate	*pH 7.4, 37&deg;C, 180 kDa high molecular weight protein from liver microsomes

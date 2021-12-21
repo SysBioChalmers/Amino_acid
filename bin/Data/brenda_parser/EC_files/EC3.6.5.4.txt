@@ -1,8 +1,0 @@
-KCAT	Escherichia coli	0.021	GTP	*maximal rate constant for the GTPase activity of the SRP-FtsY complex, UUUU mutant
-KCAT	Escherichia coli	0.037	GTP	*maximal rate constant for the GTPase activity of the SRP-FtsY complex, no RNA
-KCAT	Escherichia coli	0.053	GTP	*maximal rate constant for the GTPase activity of the SRP-FtsY complex, UUCG mutant
-KCAT	Escherichia coli	0.14	GTP	*maximal rate constant for the GTPase activity of the SRP-FtsY complex, GUAA mutant
-KCAT	Escherichia coli	0.182	GTP	*maximal rate constant for the GTPase activity of the SRP-FtsY complex, GAAA mutant
-KCAT	Escherichia coli	0.223	GTP	*maximal rate constant for the GTPase activity of the SRP-FtsY complex, wild-type RNA
-KCAT	Escherichia coli	0.253	GTP	*maximal rate constant for the GTPase activity of the SRP-FtsY complex, CUUC mutant
-KCAT	Escherichia coli	-999	more	*kinetic data

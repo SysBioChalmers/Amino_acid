@@ -1,2 +1,0 @@
-KCAT	Nicotiana tabacum	3.3	(R)-pulegone	*recombinant enzyme, pH 7.0, 35&Acirc;&deg;C
-KCAT	Nicotiana tabacum	2.8	(S)-pulegone	*recombinant enzyme, pH 7.0, 35&Acirc;&deg;C

@@ -1,6 +1,0 @@
-KCAT	Homo sapiens	0.0072	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	*pH 7.4, 37&deg;C, wild-type enzyme
-KCAT	Homo sapiens	0.012	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	*pH 7.4, 37&deg;C, mutant L128Q
-KCAT	Homo sapiens	0.013	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	*pH 7.4, 37&deg;C, mutant Y139S
-KCAT	Homo sapiens	0.018	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	*pH 7.4, 37&deg;C, mutant Y139F
-KCAT	Homo sapiens	0.025	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	*pH 7.4, 37&deg;C, mutant L120Q
-KCAT	Homo sapiens	0.06	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	*pH 7.4, 37&deg;C, mutant Y139C

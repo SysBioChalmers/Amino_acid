@@ -1,6 +1,0 @@
-KCAT	Candida albicans	9.41	L-serine	*at pH 9.5 and 22&Acirc;&deg;C
-KCAT	Bacillus cereus	0.21	3-hydroxypropionate	*pH 8.5, 37&Acirc;&deg;C
-KCAT	Bacillus cereus	0.21	3-hydroxypropanoate	*pH 8.5, 37&Acirc;&deg;C
-KCAT	Candida albicans	30.97	3-hydroxypropanoate	*at pH 9.5 and 22&Acirc;&deg;C
-KCAT	Candida albicans	2.48	(S)-3-hydroxyisobutyrate	*at pH 9.5 and 22&Acirc;&deg;C
-KCAT	Candida albicans	1.31	(R)-3-hydroxyisobutyrate	*at pH 9.5 and 22&Acirc;&deg;C

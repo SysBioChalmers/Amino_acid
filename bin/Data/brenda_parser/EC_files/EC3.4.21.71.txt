@@ -1,1 +1,0 @@
-KCAT	Bos taurus	2.1	Gly-Ile-Asp-Val-Gln-Ile-Tyr	*pH 8.0, 25&deg;C

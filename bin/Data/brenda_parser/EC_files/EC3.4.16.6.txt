@@ -1,2 +1,0 @@
-KCAT	Drosophila melanogaster	3.86	dansyl-Phe-Ala-Arg	*pH 5.7, 37&Acirc;&deg;C, domain 2
-KCAT	Drosophila melanogaster	32.6	dansyl-Phe-Ala-Arg	*pH 7.4, 37&Acirc;&deg;C, domain 1B

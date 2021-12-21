@@ -1,2 +1,0 @@
-KCAT	Escherichia coli	9	formate	*pH 7.5, 24&Acirc;&deg;C, mutant form of the enzyme in which cysteine replaces selenocysteine
-KCAT	Escherichia coli	2833	formate	*pH 7.5, 24&Acirc;&deg;C

@@ -1,2 +1,0 @@
-KCAT	Pantoea agglomerans	0.3	3-[[(2E)-4-amino-4-oxobut-2-enoyl]amino]-L-alanine	*pH 8.0, 22&deg;C
-KCAT	Pantoea agglomerans	3	3-((((2R,3R)-3-carboxyoxiran-2-yl)carbonyl)amino)-L-alanine	*pH 8.0, 22&deg;C

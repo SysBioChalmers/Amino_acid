@@ -1,4 +1,0 @@
-KCAT	Janthinobacterium sp. J3	1.99	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*pH 7.5, 25&deg;C
-KCAT	Pseudomonas resinovorans	2.1	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*pH 7.5, 25&deg;C
-KCAT	Pseudomonas resinovorans	2.14	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	*pH 7.5, 25&deg;C
-KCAT	Pseudomonas sp.	1300	2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2,4-dienoic acid	*pH 7.5, 25&deg;C

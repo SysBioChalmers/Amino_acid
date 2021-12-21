@@ -1,7 +1,0 @@
-KCAT	Marinomonas mediterranea	0.19	L-lysine	*mutant enzyme Y211F, at pH 7.5 and 25&deg;C
-KCAT	Marinomonas mediterranea	0.22	L-lysine	*at pH 7.5 and 25&deg;C
-KCAT	Marinomonas mediterranea	0.29	L-lysine	*mutant enzyme C448D, at pH 7.5 and 25&deg;C
-KCAT	Marinomonas mediterranea	0.34	L-lysine	*wild type enzyme, at pH 7.5 and 25&deg;C
-KCAT	Marinomonas mediterranea	0.39	L-lysine	*mutant enzyme C448A, at pH 7.5 and 25&deg;C
-KCAT	Marinomonas mediterranea	0.68	L-lysine	*mutant enzyme K530R, at pH 7.5 and 25&deg;C
-KCAT	Marinomonas mediterranea	1.2	L-lysine	*mutant enzyme K530A, at pH 7.5 and 25&deg;C

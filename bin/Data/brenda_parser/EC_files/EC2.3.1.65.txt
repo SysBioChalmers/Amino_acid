@@ -1,2 +1,0 @@
-KCAT	Bos taurus	-999	more	*higher kcat for glycine than for taurine
-KCAT	Bos taurus	-999	more	*higher kcat for glycine than for taurine

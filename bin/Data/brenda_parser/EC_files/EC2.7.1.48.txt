@@ -1,9 +1,0 @@
-KCAT	Thermus thermophilus	0.00118	uridine	*mutant ttCK Y93Q, pH 8.0, 25&deg;C
-KCAT	Thermus thermophilus	0.0028	cytidine	*mutant ttCK Y93Q, pH 8.0, 25&deg;C
-KCAT	Thermus thermophilus	0.0041	cytidine	*wild-type ttCK Y93, pH 8.0, 25&deg;C
-KCAT	Thermus thermophilus	0.0059	cytidine	*mutant ttCK Y93F, pH 8.0, 25&deg;C
-KCAT	Thermus thermophilus	0.0064	cytidine	*mutant ttCK Y59F, pH 8.0, 25&deg;C
-KCAT	Thermus thermophilus	0.0084	cytidine	*mutant ttCK Y93H, pH 8.0, 25&deg;C
-KCAT	Thermus thermophilus	0.0092	uridine	*mutant ttCK Y93H, pH 8.0, 25&deg;C
-KCAT	Thermus thermophilus	0.01	cytidine	*mutant ttCK Y93L, pH 8.0, 25&deg;C
-KCAT	Homo sapiens	3.2	cytidine	*

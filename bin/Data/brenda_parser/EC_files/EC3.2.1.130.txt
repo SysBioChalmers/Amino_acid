@@ -1,6 +1,0 @@
-KCAT	Bacteroides xylanisolvens	0.0000717	4-methylumbelliferyl (alpha-D-glucopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	*wild type enzyme, in 25 mM HEPES pH 7.0, 100 mM NaCl, at 37&Acirc;&deg;C
-KCAT	Bacteroides xylanisolvens	0.00008	4-methylumbelliferyl (alpha-D-mannopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	*wild type enzyme, in 25 mM HEPES pH 7.0, 100 mM NaCl, at 37&Acirc;&deg;C
-KCAT	Bacteroides thetaiotaomicron	0.00115	4-methylumbelliferyl (alpha-D-mannopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	*wild type enzyme, in 25 mM HEPES pH 7.0, 100 mM NaCl, at 37&Acirc;&deg;C
-KCAT	Bacteroides thetaiotaomicron	0.58	alpha-glucopyranosyl-(1-&gt;3)-alpha-mannopyranosyl fluoride	*mutant enzyme E332A, at pH 8.0 and 37&Acirc;&deg;C
-KCAT	Bacteroides thetaiotaomicron	4.77	alpha-glucopyranosyl-(1-&gt;3)-alpha-mannopyranosyl fluoride	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C
-KCAT	Bacteroides xylanisolvens	6.34	alpha-glucopyranosyl-(1-&gt;3)-alpha-mannopyranosyl fluoride	*wild type enzyme, at pH 8.0 and 37&Acirc;&deg;C

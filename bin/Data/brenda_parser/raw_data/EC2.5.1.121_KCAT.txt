@@ -1,1 +1,0 @@
-ecNumber*2.5.1.121#turnoverNumber*0.435#turnoverNumberMaximum*#substrate*5,10-dihydrophenazine 1-carboxylate#commentary*pH 7.5, 30&deg;C#organism*Streptomyces anulatus#ligandStructureId*29156#literature*725387#

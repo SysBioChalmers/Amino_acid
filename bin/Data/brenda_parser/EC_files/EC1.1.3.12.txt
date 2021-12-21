@@ -1,3 +1,0 @@
-KCAT	Mesorhizobium loti	0.4	pyridoxine	*pH 8.0, 30&deg;C, recombinant His6-tagged mutant H460A
-KCAT	Mesorhizobium loti	1.3	pyridoxine	*pH 8.0, 30&deg;C, recombinant His6-tagged mutant H462A
-KCAT	Mesorhizobium loti	19.9	pyridoxine	*pH 8.0, 30&deg;C, recombinant His6-tagged wild-type enzyme

@@ -1,1 +1,0 @@
-KCAT	Rattus norvegicus	700	glucose 6-phosphate	*enzyme in disrupted microsomes

@@ -1,5 +1,0 @@
-KCAT	Cannabis sativa	0.043	cannabigerolate	*mutant enzyme R108A, in 100 mM sodium citrate buffer (pH 5.0), at 30&deg;C
-KCAT	Cannabis sativa	0.075	cannabigerolate	*mutant enzyme R110A, in 100 mM sodium citrate buffer (pH 5.0), at 30&deg;C
-KCAT	Cannabis sativa	0.3	cannabigerolate	*wild type enzyme, in 100 mM sodium citrate buffer (pH 5.0), at 30&deg;C
-KCAT	Cannabis sativa	0.308	cannabigerolate	*at pH 5.0 and 30&deg;C
-KCAT	Cannabis sativa	0.888	cannabigerolate	*recombinant enzyme, in 100 mM sodium citrate (pH 5.5), at 30&deg;C

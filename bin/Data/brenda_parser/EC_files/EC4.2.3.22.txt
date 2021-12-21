@@ -1,4 +1,0 @@
-KCAT	Streptomyces avermitilis	0.0031	farnesyl diphosphate	*
-KCAT	Streptomyces coelicolor	0.0062	(2E,6E)-farnesyl diphosphate	*pH 8.2, 30&deg;C
-KCAT	Streptomyces coelicolor	3.2	2-trans,6-trans-farnesyl diphosphate	*pH 8.2, 30&deg;C, recombinant N-terminal domain
-KCAT	Streptomyces coelicolor	6.2	2-trans,6-trans-farnesyl diphosphate	*pH 8.2, 30&deg;C, recombinant enzyme

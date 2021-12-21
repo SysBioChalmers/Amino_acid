@@ -1,3 +1,0 @@
-KCAT	Homo sapiens	0.00267	17beta-estradiol	*pH 6.3, 37&deg;C, reverse reaction
-KCAT	Homo sapiens	0.0217	17beta-estradiol	*pH 6.3, 37&deg;C forward reaction
-KCAT	Homo sapiens	0.52	4-nitrophenol	*pH 6.1, 25&deg;C

@@ -1,2 +1,0 @@
-KCAT	Oryza sativa	-999	more	*Kcat value for substrate syn-copalyl diphosphate is 0.00083 per s
-KCAT	Oryza sativa	0.00033	ent-copalyl diphosphate	*22&deg;C, pH not specified in the publication

@@ -1,1 +1,0 @@
-KCAT	Streptomyces sahachiroi	0.013	NADPH	*pH 9.0, 25&Acirc;&deg;C

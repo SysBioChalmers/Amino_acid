@@ -1,8 +1,0 @@
-KCAT	Delftia sp.	0.39	D-threonine	*pH 6.0, 50&Acirc;&deg;C
-KCAT	Pseudomonas sp.	0.4	D-threonine	*pH 8.0, temperature not specified in the publication
-KCAT	Chlamydomonas reinhardtii	4.2	D-threonine	*pH 8.1, 50&Acirc;&deg;C
-KCAT	Delftia sp.	0.25	D-allo-threonine	*pH 6.0, 50&Acirc;&deg;C
-KCAT	Chlamydomonas reinhardtii	25	D-allo-threonine	*pH 8.1, 50&Acirc;&deg;C
-KCAT	Pseudomonas sp.	1.4	D-beta-phenylserine	*25&Acirc;&deg;C, pH 8.0
-KCAT	Pseudomonas sp.	0.033	alpha-methyl-beta-phenylserine	*25&Acirc;&deg;C, pH 8.0
-KCAT	Chlamydomonas reinhardtii	280	D-threo-phenylserine	*pH 8.1, 50&Acirc;&deg;C

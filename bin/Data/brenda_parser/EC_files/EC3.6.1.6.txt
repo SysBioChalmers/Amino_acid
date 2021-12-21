@@ -1,4 +1,0 @@
-KCAT	Toxoplasma gondii	93	ADP	*mutant enzyme R492G/E493G, at pH 7.4, temperature not specified in the publication
-KCAT	Toxoplasma gondii	109	ADP	*mutant enzyme E493G, at pH 7.4, temperature not specified in the publication
-KCAT	Toxoplasma gondii	238	ADP	*wild type enzyme, at pH 7.4, temperature not specified in the publication
-KCAT	Toxoplasma gondii	570	ADP	*mutant enzyme R492G, at pH 7.4, temperature not specified in the publication
